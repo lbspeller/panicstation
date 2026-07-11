@@ -1,72 +1,99 @@
-﻿---
+---
 title: "What to do if… you receive a lab result marked critical or urgently abnormal without explanation"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
-  - critical lab result no explanation
-  - urgent abnormal result portal
-  - marked critical blood test
-  - abnormal blood results flagged
-  - lab result says urgent
-  - critical results out of hours
-  - unexpected test result shock
-  - abnormal lab value anxiety
-  - lab report red flag
-  - urgent result without call
-  - blood test critical value
-  - test result marked abnormal
-  - confused by lab units
-  - lab result wrong patient
-  - sudden abnormal result alert
-  - critical result and symptoms
-  - nhs app results without message
-  - urgently abnormal no clinician note
-last_reviewed: "2026-01-21"
+  - "critical lab result no explanation"
+  - "urgent lab result no explanation"
+  - "urgently abnormal lab result"
+  - "critical blood test result"
+  - "abnormal blood test result"
+  - "critical test result alert"
+  - "urgent abnormal result alert"
+  - "lab result marked critical"
+  - "lab result marked urgent"
+  - "lab result without explanation"
+  - "what do i do if lab result critical"
+  - "what do i do if result urgent"
+  - "what do i do if blood test critical"
+  - "what do i do if abnormal result"
+  - "help i got a critical lab result"
+  - "help i got urgent blood results"
+  - "my lab result says critical"
+  - "my blood test says urgent"
+  - "my test result has no explanation"
+  - "my app shows abnormal result"
+  - "chest pain with abnormal result"
+  - "fainting with critical result"
+  - "confusion after blood test result"
+  - "seizure after abnormal result"
+  - "bleeding with critical result"
+  - "lab result maybe wrong patient"
+  - "lab units confusing me"
+  - "critical flag meaning unknown"
+  - "critcal lab result"
+  - "abnormal blod result"
+  - "out of hours critical result"
+  - "pregnant with abnormal result"
+  - "diabetes and critical result"
+  - "kidney disease abnormal result"
+  - "medicine monitoring abnormal result"
+last_reviewed: "2026-05-17"
+date_created: "2026-05-17"
 ---
 
 # What to do if… you receive a lab result marked critical or urgently abnormal without explanation (UK)
 
 ## Short answer
-A “critical/urgent” flag means you should speak to a clinician as soon as you can (the same day where possible). If you feel seriously unwell right now, call 999 or go to A&E instead of waiting for a message.
+Treat a result marked critical or urgently abnormal as something that needs clinical review as soon as possible, usually today. If you are seriously unwell, rapidly worsening, or have symptoms that feel life-threatening, call 999 or go to A&E now.
 
 ## Do not do these things
-- Do not ignore it because you “feel fine” — some critical results need action before symptoms appear.
-- Do not stop, start, double, or skip prescribed medicines (especially insulin, diuretics, lithium, anticoagulants, heart medicines) unless a clinician tells you to.
-- Do not try to “fix the number” with supplements, fasting, extra fluids, or restrictive diets — that can make things worse.
-- Do not assume it’s definitely yours or definitely correct; mix-ups and lab issues can happen.
-- Do not rely on online forms or non-urgent messages alone when it’s marked critical — use a phone call.
+- Do not ignore the result because you feel fine; some urgent results need checking before symptoms are obvious.
+- Do not stop, start, double, or skip prescribed medicines, especially insulin, water tablets, lithium, anticoagulants, heart medicines, or medicines being monitored by blood tests, unless a clinician tells you to.
+- Do not try to fix the number yourself with supplements, fasting, extra fluids, alcohol, exercise, or a restrictive diet.
+- Do not assume the result is definitely yours or definitely correct; check the identifiers and the test date.
+- Do not rely only on an online form, portal message, or routine email when the result is marked critical or urgent.
+- Do not drive yourself to A&E if you may be seriously unwell; ask someone to take you or call 999.
 
 ## What to do now
-1. **Check it’s definitely your result.** Confirm your name and date of birth on the report, and that the test date/time and requesting service match what you had done.
-2. **Write down the essentials (so you can say them quickly).** Test name, value, units, the “critical/urgent” flag, reference range, and when it was taken.
-3. **Check for “go now” symptoms.** If you have chest pain, severe shortness of breath, fainting/collapse, new confusion, seizure, signs of stroke, uncontrolled bleeding, a severe allergic reaction, or you feel rapidly worsening: **call 999 or go to A&E now.**
-4. **Phone the clinician/service that ordered the test (first choice).**
-   - If it was your **GP**, phone the surgery and say: “I’ve received a result flagged *critical/urgent* with no explanation. I need a **same-day clinician call-back / duty doctor** review.”
-   - If it was a **hospital clinic**, phone the clinic line/secretary and ask for the **on-call team** (or advice line) for a result flagged critical/urgent.
-5. **If it’s out of hours or you can’t reach the ordering service:** use **NHS 111** and clearly state it’s a lab result flagged critical/urgent, the test/value, and whether you have symptoms.
-   - If the patient is a **child under 5**, use **111 by phone** (not 111 online).
-6. **If you’re asked to repeat the test, ask the “today” questions.** “Do I need to avoid food/meds before repeating? Where should I go today? What symptoms mean I should go to A&E?”
-7. **Flag high-risk context immediately.** Pregnancy; diabetes; kidney disease; heart rhythm history; chemotherapy/immunosuppression; recent severe vomiting/diarrhoea; or medicines commonly tied to urgent lab issues (for example insulin, diuretics, lithium, anticoagulants).
+1. **Check the result belongs to you.** Confirm your name, date of birth, test date, test time, and the service that ordered the test. If any of these look wrong, say that when you call.
+
+2. **Write down the result exactly as shown.** Note the test name, value, units, reference range, critical or urgent flag, collection date, and where you saw it, such as an online record, app, letter, text, or email.
+
+3. **Check for emergency symptoms before making routine calls.** If you have chest pain, severe shortness of breath, fainting or collapse, new confusion, seizure, signs of stroke, uncontrolled bleeding, severe allergic reaction, or you feel rapidly worse, call 999 or go to A&E now.
+
+4. **Phone the service that ordered the test.** Say: “I have received a lab result marked critical or urgently abnormal with no explanation. I need a same-day clinician review or call-back.” If it was ordered by your GP surgery, phone the surgery. If it was ordered by a hospital clinic, phone the clinic, hospital switchboard, or the number on your appointment letter and ask for the team responsible for the test.
+
+5. **If you cannot reach the ordering service, use the urgent advice route for where you are.** In England, Scotland, or Wales, use 111. In Northern Ireland, use your GP out-of-hours service if your GP surgery is closed. If your symptoms become life-threatening at any point, use 999 instead.
+
+6. **Say any high-risk context early in the call.** Mention pregnancy, a child or frail adult, diabetes, kidney disease, heart rhythm problems, chemotherapy, immunosuppression, recent severe vomiting or diarrhoea, or medicines that need blood-test monitoring.
+
+7. **Ask for the immediate plan, not a full explanation.** Ask: “Do I need treatment today, repeat testing today, a medication instruction, or A&E assessment?” If repeat testing is needed, ask where to go, when to go, whether to eat or drink normally, and whether to take your usual medicines first.
+
+8. **Keep the result visible and stay contactable.** Keep your phone nearby, take your medicines list or medicine packets with you if you are told to attend somewhere, and do not dismiss missed calls from unknown or withheld numbers while waiting.
 
 ## What can wait
-- You do not need to interpret the result, diagnose yourself, or search for worst-case scenarios right now.
-- You do not need to change long-term medication, supplements, diet, or lifestyle before a clinician advises you.
-- You do not need to request full records or debate “normal ranges” before you have a same-day plan.
-- You do not need to contact multiple services at once; use one clear route (ordering clinician/team → NHS 111 if unreachable → A&E/999 if unwell).
+- You do not need to diagnose yourself or understand every unit and reference range before speaking to a clinician.
+- You do not need to decide long-term medication, diet, supplements, fitness, work, travel, or insurance questions right now.
+- You do not need to contact several services at once unless you cannot get through; use one clear route first, then escalate if needed.
+- You do not need to request your full medical record before getting an urgent plan.
+- You can look up what the test usually measures later, after you have started the clinical contact route.
 
 ## Important reassurance
-Seeing “critical” on a screen is frightening, especially without context. The flag is a safety signal that a clinician should connect the number to your symptoms, history, and medicines. Sometimes results appear in records after review, but you can still receive a worrying-looking flag without an immediate explanation — it’s appropriate to ask for urgent clarification.
+A critical or urgent flag is a safety signal, not a diagnosis by itself. The number needs to be matched with your symptoms, medical history, medicines, and whether the sample may need repeating. Some online systems may show results before you have had a conversation about them, so it is reasonable to ask for urgent clarification.
 
 ## Scope note
-These are first steps only, to reduce risk and get timely clinical review. After review, the next step may be repeat testing, same-day treatment, medication changes, or monitoring depending on the specific test and your situation.
+These are first steps only, to reduce risk and get timely clinical review. Later decisions may need help from your GP, hospital team, laboratory service, pharmacist, or another specialist, depending on the exact test and your situation.
 
 ## Important note
-This guide is general information, not medical diagnosis or a substitute for clinical care. If you are seriously unwell, rapidly worsening, or unsure you can safely wait, use urgent services (999/A&E). If you cannot reach your usual clinician and the result is flagged critical/urgent, NHS 111 can help route you to the right level of care.
+This guide is general information, not medical diagnosis, treatment, or a substitute for professional clinical care. If you are seriously unwell, rapidly worsening, or unsure whether it is safe to wait, use urgent or emergency services.
 
 ## Additional Resources
+- https://www.nhs.uk/nhs-services/urgent-and-emergency-care-services/when-to-call-999/
+- https://www.nhs.uk/nhs-services/urgent-and-emergency-care-services/when-to-go-to-ae/
 - https://www.nhs.uk/nhs-services/urgent-and-emergency-care-services/when-to-use-111/
-- https://www.england.nhs.uk/urgent-emergency-care/nhs-111/
-- https://digital.nhs.uk/services/nhs-app/nhs-app-features/gp-health-records-in-the-app
-- https://www.bma.org.uk/advice-and-support/nhs-delivery-and-workforce/primary-and-secondary-care/acting_upon_electronic_test_results
-- https://www.rcpath.org/static/bb86b370-1545-4c5a-b5826a2c431934f5/The-communication-of-critical-and-unexpected-pathology-results.pdf
-- https://www.rcpath.org/static/f800366a-e432-47d0-9114154f8a51d3b1/draft-G158-BPR-The-communication-of-critical-and-unexpected-pathology-results.pdf
+- https://www.nhs24.scot/111/
+- https://111.wales.nhs.uk/
+- https://www.nidirect.gov.uk/articles/gp-out-hours-service
+- https://labtestsonline.org.uk/
+- https://www.rcpath.org/resourceLibrary/g158-bpr-the-communication-of-critical-and-unexpected-pathology-results.html

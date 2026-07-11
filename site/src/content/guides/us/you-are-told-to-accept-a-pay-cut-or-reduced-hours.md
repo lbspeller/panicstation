@@ -1,75 +1,86 @@
-﻿---
+---
 title: "What to do if… you are told to accept a pay cut or reduced hours"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
-  - told to accept pay cut
-  - asked to take pay cut
-  - hours cut at work suddenly
-  - reduced schedule by employer
-  - pay cut ultimatum
-  - salary reduced without warning
-  - told to sign new pay rate
-  - reduced hours and benefits
-  - employer says take cut or quit
-  - exempt salary cut concern
-  - hourly wage reduced
-  - furlough reduced hours
-  - partial unemployment after hours cut
-  - work share program question
-  - worried about minimum wage
-  - overtime rate after pay cut
-  - pay cut effective immediately
-  - panicking about income drop
-last_reviewed: "2026-01-07"
+  - "told to accept pay cut"
+  - "asked to take pay cut"
+  - "reduced hours at work"
+  - "employer cut my hours"
+  - "salary reduced without warning"
+  - "hourly wage reduced"
+  - "pay cut ultimatum at work"
+  - "reduced schedule by employer"
+  - "what do i do if pay cut"
+  - "what do i do if hours reduced"
+  - "what do i do if salary cut"
+  - "what do i do if work hours cut"
+  - "help i was told pay cut"
+  - "help i have reduced hours"
+  - "my pay was cut"
+  - "my hours were reduced"
+  - "lower rate on pay stub"
+  - "fewer shifts on schedule"
+  - "unexpected income drop"
+  - "benefits may change after hours cut"
+  - "asked to sign lower pay"
+  - "furlough notice from employer"
+  - "pay cut or furlough"
+  - "reduced hours or layoff"
+  - "salary cut or demotion"
+  - "work sharing confusion"
+  - "paycut at work"
+  - "reduced houres at work"
+  - "union job pay cut"
+  - "salaried worker pay cut"
+  - "hourly worker reduced hours"
+  - "part-time hours reduced"
+last_reviewed: "2026-06-10"
+date_created: "2026-06-10"
 ---
 
 # What to do if… you are told to accept a pay cut or reduced hours (USA)
 
 ## Short answer
-Don’t agree on the spot. Get the change in writing (rate, schedule, start date, whether temporary), then immediately check minimum wage/overtime rules, exempt salary rules, and whether reduced hours could make you eligible for partial unemployment.
+Ask for the proposed new pay and hours in writing before you respond. Save the notice and your current pay and schedule records, then check the change against the rules for your state and your pay classification.
 
 ## Do not do these things
-- Do not sign anything in the meeting if you have not read it carefully or you feel pressured.
-- Do not assume “they can do whatever they want” — even in at-will employment, wage-and-hour rules still apply.
-- Do not keep working “off the clock” to make up for reduced hours.
-- If you’re told you’re furloughed or not scheduled, do not do “quick tasks” (calls, emails, admin) without clear instructions and pay clarity. **If you are salaried exempt and you do any work in a workweek, you’re generally owed your full weekly salary** (with limited exceptions).
-- Do not quit in the heat of the moment unless you’ve paused and understood how it could affect pay owed, benefits, and unemployment.
+- Do not sign a new agreement in the meeting if you have not had time to read it carefully.
+- Do not quit in the heat of the moment. Pause first and check how leaving could affect final pay, benefits, and possible unemployment eligibility.
+- Do not work off the clock or leave work time unrecorded.
+- If you are told not to work during a furlough or reduced-hours period, do not quietly complete calls, emails, or admin tasks without recording the time and asking how it will be handled.
+- Do not assume your health coverage will continue unchanged or stop automatically. Ask what will happen.
 
 ## What to do now
-1. **Ask for the full proposal in writing before you respond.** You want: new hourly rate or weekly salary, new schedule, start date, whether it’s temporary, how long it lasts, and what happens to health insurance, PTO, bonuses/commission, and retirement contributions.
-2. **Identify how you’re paid (hourly/nonexempt vs salaried exempt).** If you’re not sure, ask HR/payroll what your classification is. This affects what the employer can change and what pay rules apply.
-3. **Confirm the effective date and make sure it’s not being applied to past work.** Pay for hours already worked generally should not be reduced. If you see that happen, document it and ask payroll to correct it immediately.
-4. **Send a short, calm holding message in writing.** Example: “I received the proposed change. I’m reviewing it and am not agreeing yet. Please confirm the effective date, whether this is temporary, and how benefits and my classification (hourly/nonexempt vs salaried exempt) will be handled.”
-5. **Document everything starting now.** Save the email/letter, write down what was said (date/time/who), and keep pay stubs and schedules. Track your actual hours worked each week.
-6. **If your hours are cut, check partial unemployment options right away.** Eligibility is state-specific, but many states pay partial benefits when hours are reduced. Apply through your **state** unemployment agency.
-7. **Ask directly about benefits continuity.** If health coverage will change, ask what happens next (for example, whether you will be offered continuation coverage such as COBRA or a state equivalent).
-8. **If you’re in a union, contact the union immediately.** Pay and hours are typically mandatory subjects of bargaining, and changes may need to be negotiated with the union.
-9. **If something looks illegal or retaliatory, contact the right place for help.**
-   - Minimum wage/overtime/exempt pay issues: U.S. Department of Labor Wage and Hour Division (and/or your state labor agency).
-   - Unemployment questions: your state unemployment agency.
-   - Union/bargaining rights issues: the National Labor Relations Board (NLRB).
+1. **Ask for the full proposal in writing.** Ask for the new hourly rate or salary, the new schedule, the effective date, whether the change is temporary, and whether benefits, paid time off, commissions, bonuses, or retirement contributions may change.
+2. **Save your current records.** Keep the message or letter, your current schedule, recent pay stubs, and any agreement you already have. Write down the date, time, and names of the people involved in the conversation.
+3. **Confirm when the change starts.** Ask whether the new rate applies only from a stated future date. If a lower rate appears on pay for work you already completed, save the pay stub and ask payroll to explain it and correct any error.
+4. **Ask how you are classified for pay purposes.** Ask payroll or HR whether you are treated as exempt or nonexempt and whether you are paid hourly or on a salary basis. Keep tracking the actual time you work.
+5. **Check the wage rules that apply to the proposal.** Covered nonexempt employees generally must still receive at least the applicable minimum wage and any required overtime pay. State rules may provide additional protections, so check the federal Wage and Hour Division page and your state labor office.
+6. **If you are salaried and treated as exempt, ask payroll how any reduction will be handled.** Salary-basis rules can distinguish between a regular prospective salary change and short-term deductions tied to available work. Ask which type of change is being proposed and request the explanation in writing.
+7. **If your hours are reduced, check your state unemployment options promptly.** Reduced hours may qualify for unemployment benefits or a work-sharing option depending on your state and circumstances. Use your state unemployment agency to check.
+8. **Ask what will happen to health coverage.** If reduced hours may affect your eligibility, ask whether continuation coverage, including COBRA if applicable, may be available.
+9. **If you are in a union, contact your union representative before responding.** A pay or hours change may require union involvement.
+10. **Ask for help if the numbers or process do not look right.** For minimum wage, overtime, or salary-basis concerns, contact the U.S. Department of Labor Wage and Hour Division or your state labor office. For a union-related change, contact your union representative and check the National Labor Relations Board resource below.
 
 ## What can wait
-- You do **not** need to decide your long-term plan today (new job search, relocation, big financial decisions).
-- You do **not** need to threaten a lawsuit or resign immediately — first secure the paperwork and protect your record.
-- You do **not** need to negotiate every detail right now — the immediate goal is to avoid accidental agreement and prevent pay/benefit surprises.
+- You do not need to decide today whether to resign, relocate, or make a major career change.
+- You do not need to negotiate every detail in the first conversation.
+- You do not need to threaten legal action. First get the proposal, effective date, and benefits information in writing.
 
 ## Important reassurance
-Being told your pay or hours will drop can feel like an emergency. Pausing, getting it in writing, and checking a few key rules is a steady, protective response.
+A sudden drop in pay or hours can feel urgent. Pausing long enough to get the details in writing and save your records is a steady, protective first step.
 
 ## Scope note
-This is first-steps-only guidance for the first hours/days after you’re told about a pay cut or reduced hours. Next steps depend heavily on your pay classification, your state, and whether there’s a union contract.
+These are first steps only. Later decisions may depend on your state, your pay classification, your benefits plan, and any union agreement, and may need specialist help.
 
 ## Important note
-This is general information, not legal advice. U.S. wage-and-hour and unemployment rules vary by state, and federal rules and interpretations can also change, so it’s safer to rely on current official guidance for your location.
+This is general information, not legal, financial, medical, therapeutic, or other professional advice. Rules and processes can vary by state and circumstance, so use current official guidance for your location.
 
 ## Additional Resources
 - https://www.dol.gov/agencies/whd/flsa
-- https://www.dol.gov/general/topic/wages/overtimepay
-- https://www.ecfr.gov/current/title-29/subtitle-B/chapter-V/subchapter-A/part-541/subpart-G/section-541.602
-- https://www.dol.gov/agencies/whd/fact-sheets/17g-overtime-salary
-- https://www.dol.gov/general/topic/unemployment-insurance
-- https://oui.doleta.gov/unemploy/docs/stc_fact_sheet.pdf
-- https://www.nlrb.gov/about-nlrb/rights-we-protect/the-law/bargaining-in-good-faith-with-employees-union-representative
+- https://www.ecfr.gov/current/title-29/part-541/section-541.602
 - https://www.usa.gov/unemployment-benefits
+- https://www.dol.gov/agencies/ebsa/laws-and-regulations/laws/cobra
+- https://www.dol.gov/agencies/whd/state/contacts
+- https://www.nlrb.gov/about-nlrb/rights-we-protect/the-law/bargaining-in-good-faith-with-employees-union-representative

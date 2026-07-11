@@ -1,99 +1,115 @@
-﻿---
+---
 title: "What to do if… your device says the startup disk is not detected and you still need the data on it"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
-  - startup disk not detected
-  - startup disk missing
-  - boot disk not found
-  - no boot device found
-  - disk not showing up
-  - drive not detected
-  - ssd not detected
-  - hard drive not detected
-  - mac won’t boot
-  - windows won’t boot
-  - uefi drive missing
-  - bios cannot see drive
-  - disk utility can’t see disk
-  - bitlocker recovery key needed
-  - filevault recovery key needed
-  - need files off the drive
-  - recover photos and documents
-  - accidental format warning
-  - data recovery first steps
-  - computer failure after update
-last_reviewed: "2026-03-08"
+  - "startup disk not detected"
+  - "startup disk missing"
+  - "boot disk not found"
+  - "no boot device found"
+  - "no startup disk found"
+  - "disk not showing up"
+  - "drive not detected"
+  - "ssd not detected"
+  - "hard drive not detected"
+  - "hardrive not detected"
+  - "need data from disk"
+  - "need files from drive"
+  - "what do i do if startup disk missing"
+  - "what do i do if boot disk not found"
+  - "what do i do if drive not detected"
+  - "what do i do if disk not showing up"
+  - "help i need files off drive"
+  - "help i cannot see my disk"
+  - "help i have no boot device"
+  - "help i need data recovered"
+  - "my startup disk disappeared"
+  - "my computer cannot find disk"
+  - "my mac wont boot"
+  - "my windows pc wont boot"
+  - "clicking hard drive"
+  - "overheating drive"
+  - "disk disconnecting repeatedly"
+  - "bitlocker key needed"
+  - "filevault key needed"
+  - "after update disk missing"
+  - "after power outage disk missing"
+  - "startup disck missing"
+last_reviewed: "2026-06-28"
+date_created: "2026-06-28"
 ---
 
 # What to do if… your device says the startup disk is not detected and you still need the data on it (USA)
+
 ## Short answer
-Don’t do anything that could overwrite the disk. Power off, avoid “initialize/erase/format,” and focus on the safest way to copy data (or use a professional recovery service if the drive isn’t detected).
+Do not erase, initialize, format, reset, reinstall, or run repair tools while you still need the files. Power off, check for existing backups from another device, then use the safest copy-first route or a professional data recovery service if the drive is not reliably detected.
 
 ## Do not do these things
-- Don’t reinstall the OS, “Reset this PC,” or run major repair options before you’ve secured the data you need.
-- Don’t accept prompts to **Initialize**, **Format**, **Erase**, **Partition**, or “set up” the drive.
-- Don’t keep rebooting over and over — do one careful check, then stop.
-- Don’t keep the device powered on if you hear clicking/grinding, it gets unusually hot, or it keeps disconnecting/reconnecting.
-- Don’t open sealed laptops/SSDs unless you’re confident; mistakes can permanently reduce recovery chances.
+- Do not reinstall the operating system, use “Reset this PC,” erase the Mac, or choose any option that says it may remove files.
+- Do not accept prompts to **Initialize**, **Format**, **Erase**, **Partition**, or “set up” the drive.
+- Do not keep rebooting repeatedly; do one careful detection check, then stop.
+- Do not run Startup Repair, Disk Utility First Aid, disk repair, or file-system repair before copying the data, unless the files are already backed up or a trusted recovery professional tells you to.
+- Do not keep the device powered on if the drive clicks, grinds, overheats, or keeps disconnecting and reconnecting.
+- Do not open a sealed laptop, SSD, or hard drive unless you already know how to do it safely.
 
 ## What to do now
 1. **Pause, document, and shut down.**  
-   Take a photo of the exact message (“startup disk not detected,” “no boot device,” etc.). Note what happened just before it (drop/spill, update, power outage, odd noise). Power off fully.
+   Take a photo of the exact message, such as “startup disk not detected,” “no boot device,” or “boot disk not found.” Note whether this followed a drop, spill, update, power outage, strange noise, or overheating. Then power off fully.
 
-2. **Check whether the data is already backed up or synced (fast win).**  
-   From another device, check OneDrive, iCloud Drive/Photos, Google Drive, external backup drives, File History backups, NAS, or work/school storage. If your files are already there, you can stop and deal with the computer later.
+2. **Check whether the data is already backed up or synced.**  
+   From another phone, tablet, or computer, check OneDrive, iCloud Drive, iCloud Photos, Google Drive, Dropbox, external backup drives, File History, Time Machine, NAS storage, and work or school storage. If the needed files are already there, leave the failed computer alone for now.
 
-3. **Do one “clean” detection check (no writing).**  
-   Disconnect nonessential USB devices/hubs/docks and power on once to check:  
-   - **Windows/PC:** enter BIOS/UEFI and see if the internal drive is listed. If BIOS/UEFI can’t see it, the issue is often hardware-level and software fixes usually won’t help.  
-   - **Mac:** start macOS Recovery and open **Disk Utility**; use **View > Show All Devices** so the physical drive can appear if it’s detectable.  
-   If you don’t know the exact key/steps, look up the official steps for your model and do one attempt—avoid repeated guessing.
+3. **Do one clean detection check without writing to the disk.**  
+   Disconnect nonessential USB devices, hubs, docks, memory cards, and external drives. Power on once and check only whether the internal drive is visible:
+   - **Windows PC:** enter the BIOS or UEFI setup for your model and see whether the internal SSD or hard drive is listed.
+   - **Mac:** start macOS Recovery, open **Disk Utility**, and choose **View > Show All Devices** so physical devices can appear if they are detectable.
+   If the drive is not listed there, the problem may be hardware-level. Stop repeated attempts.
 
-4. **If the drive appears anywhere, go “copy-first.”**  
-   Don’t aim to make it boot yet—aim to read and copy your data. Copy irreplaceable and time-critical items first (photos/videos, documents, finance/tax, project files) to a different drive.
+4. **If the drive appears, copy data before trying to make it boot.**  
+   Do not focus on fixing startup yet. Copy irreplaceable and time-sensitive files first, such as photos, videos, documents, finance or tax files, work files, school files, and project folders, to a different drive or trusted cloud storage.
 
-5. **If encryption might be involved, find the recovery key now.**  
-   If BitLocker or FileVault was enabled, you may need a recovery key when the computer won’t boot normally. Check any printed/saved keys and your Microsoft account/Apple ID records if applicable.
+5. **If Windows asks for BitLocker, find the recovery key before doing more.**  
+   Check the Microsoft account used on the device, any work or school account connected to the device, printed records, saved text files, USB drives, or your IT department. If you cannot unlock an encrypted drive, resets or reinstalls may remove the data.
 
-6. **Avoid Disk Management “initialize” traps.**  
-   If Windows shows a disk as “unknown/not initialized/unallocated,” don’t initialize or format it while you still need the data. Cancel out and switch to copy-first methods or professional recovery.
+6. **If a Mac asks for FileVault access, look for the right password or recovery key.**  
+   Check the Mac login password, any saved FileVault recovery key, and any Apple Account or Passwords app recovery record that applies to that Mac. If it is a work, school, or institution-managed Mac, ask the administrator before trying to erase, reset, or bypass anything.
 
-7. **Use a read-only path where possible.**  
-   If you can connect the drive as a secondary/non-boot disk (for example, using a USB enclosure/adapter to another computer, or Mac Target Disk Mode between Macs), copy data off. If you’re prompted to repair/initialize/format, **cancel**.
+7. **Cancel Windows Disk Management initialization prompts.**  
+   If Windows shows the disk as “unknown,” “not initialized,” or “unallocated,” cancel. Initializing or formatting is for preparing a disk for use, not for protecting files you still need.
 
-8. **Know when to stop and use a professional lab.**  
-   Choose professional data recovery if:  
-   - the drive is not detected in BIOS/UEFI or Disk Utility,  
-   - it clicks/grinds/overheats, or  
-   - it keeps dropping in and out.  
-   Minimizing power-on attempts can preserve recoverability.
+8. **Use a copy-only route if you can do that safely.**  
+   If the drive can be connected as a secondary drive using a suitable enclosure or adapter, copy files from another computer without formatting or repairing it. On supported Macs, Target Disk Mode or macOS Recovery transfer options may let another Mac copy files. If any prompt asks to repair, initialize, erase, or format, cancel.
 
-9. **If this is a work/school device, contact IT before deeper changes.**  
-   They may have backups, admin recovery tooling, or policies that prevent accidental data loss or compliance problems.
+9. **Stop and use professional data recovery if the signs point to physical failure.**  
+   Choose a professional data recovery service before more attempts if the drive is not detected in BIOS, UEFI, or Disk Utility; clicks or grinds; gets unusually hot; or repeatedly appears and disappears. Fewer power-on attempts can preserve options.
 
-10. **If it’s under warranty/return window, keep your options open.**  
-   Document the symptoms and avoid disassembly if you might need warranty service. Treat “fixing the device” and “recovering the data” as separate problems—data recovery may need to happen first.
+10. **If this is a work or school device, contact IT before deeper changes.**  
+   IT may have backups, admin recovery keys, device-management records, or rules you need to follow before removing drives or using third-party recovery tools.
+
+11. **If warranty or return service matters, keep recovery and repair separate.**  
+   Document the symptoms and avoid disassembly if it could affect service options. Recovering the data may need to happen before repairing, replacing, or returning the device.
 
 ## What can wait
-- You don’t need to decide on a new computer or new SSD today.
-- You don’t need to diagnose the exact cause before prioritizing data recovery.
-- You don’t need to run repeated repairs or resets while your data is still at risk.
+- You do not need to decide today whether to buy a new computer or new SSD.
+- You do not need to prove the exact cause before protecting the data.
+- You do not need to run repeated repairs, resets, reinstalls, or diagnostics while the data is still at risk.
+- You do not need to recover every file at once; copy the most important files first if the drive is readable.
 
 ## Important reassurance
-A missing startup disk message often means the computer can’t boot from that drive—not that your files are definitely gone. Slowing down and avoiding overwrite steps keeps your best options open.
+A missing startup disk message means the computer cannot boot from that disk right now. It does not prove that every file is gone. Slowing down and avoiding overwrite steps keeps more recovery options open.
 
 ## Scope note
-This is first-step guidance to reduce avoidable data loss and steer you toward the safest recovery path. If the drive has physical or firmware failure, professional recovery may be the only realistic option.
+These are first steps to reduce avoidable data loss and help you choose a safer recovery path. Later decisions about repair, replacement, warranty, encryption, or professional recovery may need specialist help.
 
 ## Important note
-This is general information, not professional IT or data recovery advice. If the data is critical or the drive shows signs of physical failure (noise/heat/not detected anywhere), minimize further power-on attempts and consider professional recovery.
+This is general information, not professional IT, data recovery, legal, financial, therapeutic, or medical advice. If the data is important or the drive shows signs of physical failure, minimize further power-on attempts and consider a professional data recovery service.
 
 ## Additional Resources
 - https://support.apple.com/en-us/102611
 - https://support.apple.com/en-us/102518
-- https://support.apple.com/en-us/102603
 - https://support.apple.com/en-us/guide/mac-help/mchlp1443/mac
+- https://support.apple.com/guide/mac-help/filevault-recovery-key-mh35880/mac
 - https://support.microsoft.com/en-us/windows/recovery-options-in-windows-31ce2444-7de3-818c-d626-e3b5a3024da5
 - https://support.microsoft.com/en-us/windows/startup-repair-85deb0b9-fa3d-44a3-a3d0-d0f1515c2c9b
 - https://learn.microsoft.com/en-us/windows-server/storage/disk-management/initialize-new-disks
+- https://support.microsoft.com/en-us/windows/security/encryption/find-your-bitlocker-recovery-key

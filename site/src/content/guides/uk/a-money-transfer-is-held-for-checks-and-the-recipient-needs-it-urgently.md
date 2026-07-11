@@ -1,94 +1,113 @@
-﻿---
+---
 title: "What to do if… a money transfer is held for checks and the recipient needs it urgently"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
-  - bank transfer held for checks
-  - money transfer pending
-  - payment stuck pending
-  - faster payments delayed
-  - chaps payment delayed
-  - international transfer delayed
-  - compliance checks on transfer
-  - fraud checks bank transfer
-  - transfer under review
-  - recipient needs money urgently
-  - urgent rent money transfer
-  - bills due transfer delayed
-  - bank transfer not received
-  - payment pending in app
-  - transfer held by bank
-  - payment delayed after sending
-  - money not arrived yet
-  - need to cancel a bank transfer
-  - payment security check delay
-last_reviewed: "2026-01-10"
+  - "money transfer held"
+  - "money transfer checks"
+  - "money transfer delayed"
+  - "money transfer pending"
+  - "bank transfer held"
+  - "bank transfer checks"
+  - "payment held for checks"
+  - "payment stuck pending"
+  - "recipient needs money urgently"
+  - "urgent money transfer delayed"
+  - "what do i do if money transfer held"
+  - "what do i do if bank transfer delayed"
+  - "what do i do if payment pending"
+  - "what do i do if recipient needs money"
+  - "help i sent money and it is held"
+  - "help i have an urgent transfer pending"
+  - "help i need a bank transfer released"
+  - "help i think my transfer is stuck"
+  - "my money transfer is under review"
+  - "my bank transfer has not arrived"
+  - "my recipient needs the money today"
+  - "pending payment in banking app"
+  - "transfer says held in app"
+  - "payment says under review"
+  - "recipient cannot see transfer"
+  - "bank asking about payment"
+  - "fraud check on transfer"
+  - "compliance check on payment"
+  - "faster payment delayed"
+  - "chaps payment delayed"
+  - "international transfer delayed"
+  - "wrong account money transfer"
+  - "recipent needs money urgently"
+  - "transferr held by bank"
+last_reviewed: "2026-04-27"
+date_created: "2026-04-27"
 ---
 
 # What to do if… a money transfer is held for checks and the recipient needs it urgently (UK)
 
 ## Short answer
-Don’t send a “replacement” payment. Contact your bank through an official route and find out whether the transfer is still pending (and can be stopped) or has already been sent onward (and can only be chased/recovered).
+Do not send a duplicate payment before you know whether the first transfer is still pending, already sent, or refused. Contact your bank through an official route and ask what is needed to release, cancel, trace, or recover it.
 
 ## Do not do these things
-- Don’t send the same amount again “just in case”.
-- Don’t move money through new accounts, crypto, gift cards, or third parties to “speed it up”.
-- Don’t share one-time passcodes, card reader codes, or app approval prompts with anyone.
-- Don’t use contact details from a text/email about the hold—use the number on your card, your bank’s website/app, or (if relevant) call 159.
-- Don’t agree to sudden changes to payee details (new account/name/reference) under pressure without independent verification.
+- Do not send the same amount again “just in case”.
+- Do not move money through new accounts, crypto, gift cards, or third parties to “speed it up”.
+- Do not share one-time passcodes, card reader codes, app approval prompts, or remote-access permissions with anyone.
+- Do not use contact details from a text, email, or unexpected call about the hold; use your banking app, the number on your card, your bank’s website, or 159 where appropriate.
+- Do not agree to sudden changes to payee details, such as a new account, name, or reference, without checking through a separate trusted route.
+- Do not let the recipient pressure you into a second transfer until the bank has confirmed the first transfer’s status.
 
 ## What to do now
-1. **Capture the essentials (so the right team can find it fast).**  
-   Note: amount, date/time initiated, payee name, sort code/account number (or IBAN), payment reference, and any confirmation/transaction ID shown in-app.
+1. **Write down the transfer details before you call.**  
+   Note the amount, date and time started, payee name, sort code and account number, IBAN if used, payment reference, payment type, and any confirmation or transaction ID shown in your app.
 
-2. **Identify what type of transfer it is and its current status.**  
-   In your app/receipt, look for: Faster Payments, CHAPS, Bacs, card payment, or international/SWIFT. Also note whether it says “pending/processing/held” versus “completed/sent”.
+2. **Check the status wording in your banking app or receipt.**  
+   Look for wording such as “pending”, “processing”, “held”, “under review”, “sent”, “completed”, “returned”, or “failed”. Also check whether it says Faster Payment, CHAPS, Bacs, standing order, or international transfer.
 
-3. **Check for an in-app action you must complete.**  
-   Some holds clear only after you confirm “Yes, I made this payment” or answer a short fraud-check prompt. Do that inside the app (not via links in messages).
+3. **Complete only safe in-app checks.**  
+   If your own banking app asks you to confirm that you made the payment or answer a fraud-check question, do it inside the app. Do not follow message links or give codes to someone who calls you.
 
-4. **Call your bank via an official route and ask for the payments/fraud team.**  
-   Say: “This payment is held for checks and is urgent. Is it still pending with you, or has it been sent? What exactly do you need from me to release it?”  
-   Ask for:
-   - **Whether it can be cancelled/stopped right now** (this is usually only possible if it’s still pending/not executed).
-   - **What the hold is waiting on** (your confirmation, documents, internal review).
-   - **A reference number** for the case/payment query and the best way to send any documents securely.
+4. **Contact your bank through an official route.**  
+   Ask for the team handling held, delayed, or fraud-checked payments. Say: “This transfer is held for checks and the recipient says it is urgent. Is it still pending with you, already sent, refused, returned, or held by the receiving bank?”
 
-5. **If it’s a Faster Payment and it has already been sent, don’t assume it can be “recalled”.**  
-   Faster Payments are generally not cancellable once sent. If the issue is that it’s **stuck at the receiving bank** or **misapplied**, ask your bank what they can do next (for example, confirming delivery to the receiving bank, and what recovery process applies).
+5. **Ask the bank four direct questions.**
+   - “Can this transfer still be cancelled or stopped, or has it already left?”
+   - “What is the hold waiting for from me?”
+   - “What secure route should I use to send any documents or answers?”
+   - “What reference number should I give if I need to call back?”
 
-6. **If you suspect the money went to the wrong place (mistyped details or wrong saved payee), ask for the Credit Payment Recovery process.**  
-   Use the words: “Please start the Credit Payment Recovery process for this payment.” Get the case/reference number and what they need from you.
+6. **If it is a Faster Payment that has already been sent, treat it as not cancellable.**  
+   Faster Payments usually cannot be cancelled once sent. Ask your bank whether it can confirm delivery to the receiving bank, whether a return is expected, or whether a recovery process applies.
 
-7. **Get the recipient to contact their own bank immediately.**  
-   They should ask: “Do you see an inbound transfer pending or held for checks? What do you need from me to release it?”  
-   In some cases, the receiving bank needs the recipient to confirm identity or the reason for the funds.
+7. **If the details may be wrong, ask about Credit Payment Recovery.**  
+   Say: “Please tell me whether the Credit Payment Recovery process can be started for this payment.” This may help attempt recovery when money has gone to the wrong account, but it is not a guarantee.
 
-8. **Use a safe urgent workaround that avoids duplicating the transfer.**  
-   If the urgent need is a specific bill (rent, utilities, council tax, childcare), it can be safer to **pay the biller directly** (using official account/portal details) rather than sending another cash-like payment to the recipient.
+8. **Ask the recipient to contact their own bank.**  
+   The recipient should ask: “Can you see an inbound transfer pending, returned, or held for checks, and do you need anything from me to release it?” This matters because the receiving bank may be the one holding the money.
 
-9. **If you suspect a scam, pause and switch to a safer contact method.**  
-   If someone is pressuring you to “send again” or “move it to a safe account”, stop. Call your bank using the number on your card/app, or dial **159** if you’ve received an unexpected call about a financial matter and want a safe route to your bank.
+9. **Use only a safer workaround if the bank confirms the first transfer will not duplicate.**  
+   If the urgent need is rent, utilities, council tax, childcare, or another named bill, consider paying the biller directly through its official website, portal, or published bank details rather than sending another cash-like payment to the recipient.
+
+10. **If anyone is pressuring you to send again, pause and treat it as a possible scam.**  
+   End the conversation and contact your bank through your app, the number on your card, or 159 if you have had an unexpected call about a financial matter and want a safer route back to your bank.
 
 ## What can wait
-- You don’t need to decide today whether to switch banks or close accounts.
-- You don’t need to threaten legal action to get a clear status update.
-- You don’t need to negotiate under pressure—get bank-confirmed facts first.
+- You do not need to decide today whether to switch banks or close accounts.
+- You do not need to make a complaint before you know where the transfer is.
+- You do not need to threaten legal action to get a clear status update.
+- You do not need to decide who is “at fault” while the payment status is still unclear.
+- You do not need to negotiate with the recipient under pressure; get bank-confirmed facts first.
 
 ## Important reassurance
-Holds for security, fraud, or compliance checks are common, especially for unusual payments, new payees, or larger amounts. It can feel personal and urgent, but the quickest progress usually comes from speaking to the right team with the exact transaction details.
+A held transfer can feel frightening when someone is waiting for the money, but a hold does not automatically mean the money is lost. The quickest useful step is usually to stop duplicate payments, use official bank contact routes, and get the exact status of the first transfer.
 
 ## Scope note
-This is first steps only: stabilise, avoid duplicate payments, and get the transfer either released or properly chased through the correct banking process. Later escalation (complaints/ombudsman) is a separate track if needed.
+These are first steps only: stabilise the situation, avoid making the loss worse, and get the transfer released, returned, traced, or put into the correct recovery process. Later decisions about complaints, compensation, contracts, rent, debts, or legal action may need specialist help.
 
 ## Important note
-This is general information, not legal or financial advice. Your bank can delay, refuse, or review payments for security, fraud, and compliance reasons, and processes vary by provider and payment type. If you’re unsure or feel pressured, slow down and verify everything using official contact routes before moving more money.
+This is general information, not legal, financial, or professional advice. Banks and payment providers may delay, refuse, review, return, or recover payments depending on the payment type, fraud risk, legal duties, and their own procedures; some outbound UK authorised push payments may be delayed for up to 4 business days where the legal threshold for suspected fraud or dishonesty is met.
 
 ## Additional Resources
-- https://www.barclays.co.uk/help/payments/payment-information/why-is-my-payment-delayed/
-- https://www.natwest.com/support-centre/bank-accounts-and-supporting-information/general/in-what-circumstances-will-an-online-payment-be-delayed-or-rejected.html
+- https://www.fca.org.uk/consumers/making-receiving-payments
 - https://www.wearepay.uk/what-we-do/payment-systems/faster-payment-system/how-faster-payments-work/
-- https://www.wearepay.uk/wp-content/uploads/2025/05/Pay.UK-Faster-Payments-System-Principles-v-10.1-May-2025.pdf
-- https://www.financial-ombudsman.org.uk/decision/DRN-3205985.pdf
-- https://www.legislation.gov.uk/uksi/2017/752/contents
+- https://www.wearepay.uk/wp-content/uploads/2026/02/Pay.UK-Faster-Payments-System-Principles-v-11-Jan-2026.pdf
+- https://www.fca.org.uk/publication/finalised-guidance/fg24-6.pdf
+- https://www.financial-ombudsman.org.uk/consumers/complaints-can-help/banking-and-payments
 - https://stopscamsuk.org.uk/our-work/159-phone-number/

@@ -1,72 +1,92 @@
-﻿---
+---
 title: "What to do if… you have a painful erection that has lasted several hours and will not go away"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
-  - painful erection
-  - erection lasting hours
-  - erection won’t go down
-  - prolonged erection
-  - priapism
-  - stuck erection
-  - penis pain with erection
-  - erection not from arousal
-  - after viagra erection won’t stop
-  - after cialis erection won’t stop
-  - after penile injection
-  - sickle cell painful erection
-  - cannabis and prolonged erection
-  - new medication erection problem
-  - pelvic injury erection
-  - erection lasting 3 hours
-  - erection lasting 4 hours
-  - painful hard penis
-  - penile swelling with erection
-last_reviewed: "2026-02-23"
+  - "painful erection"
+  - "erection lasting hours"
+  - "erection not going down"
+  - "prolonged erection"
+  - "stuck erection"
+  - "hard penis for hours"
+  - "painful hard penis"
+  - "erection will not stop"
+  - "what do i do if erection lasts hours"
+  - "what do i do if painful erection"
+  - "what do i do if erection wont go down"
+  - "what do i do if penis stays hard"
+  - "help i have a painful erection"
+  - "help i cannot get erection down"
+  - "my erection has lasted hours"
+  - "my penis is painfully hard"
+  - "penis pain with erection"
+  - "penile swelling with erection"
+  - "erection without arousal"
+  - "pain getting worse"
+  - "unable to urinate with erection"
+  - "erection after ed tablets"
+  - "erection after penile injection"
+  - "sickle cell painful erection"
+  - "priapism"
+  - "priapism symptoms"
+  - "prolonged errection"
+  - "painful erction"
+  - "after sildenafil painful erection"
+  - "after tadalafil painful erection"
+  - "after recreational drugs erection"
+  - "after pelvic injury erection"
+last_reviewed: "2026-05-12"
+date_created: "2026-05-12"
 ---
 
 # What to do if… you have a painful erection that has lasted several hours and will not go away (UK)
 
 ## Short answer
-Treat this as an emergency: **go to A&E now** if the erection has lasted **more than 3 to 4 hours**, or sooner if you have **sickle cell disease** and a **painful** erection lasting **more than 1 hour**. If you can’t get there safely, call **999**.
+Treat this as an emergency: go to A&E now if the erection has lasted more than 3 to 4 hours, or sooner if you have sickle cell disease and a painful erection lasting more than 1 hour. Do not drive yourself; ask someone to take you or call 999 and ask for an ambulance.
 
 ## Do not do these things
-- Do not “wait it out” once it has lasted several hours — delaying can increase the risk of lasting damage.
-- Do not drive yourself to A&E if you’re in significant pain, feel faint, have taken substances, or you’d be unsafe to drive.
-- Do not take more erectile dysfunction medication (Viagra/sildenafil, Cialis/tadalafil, etc.) or use injections/supplements to “fix” it.
-- Do not try risky home measures (extreme cold/heat, forceful manipulation, repeated attempts to make it go down) — and do not let any home attempt delay getting to A&E.
-- Do not feel you have to “prove” anything or be embarrassed — staff treat this as a time-sensitive medical problem.
+- Do not wait it out once it has lasted several hours; delaying can increase the risk of lasting damage.
+- Do not drive yourself to A&E if you are in significant pain, feel faint, have taken alcohol or drugs, or would not be safe to drive.
+- Do not take more erectile dysfunction medicine, such as sildenafil or tadalafil, or use more injections or supplements to try to fix it.
+- Do not put ice packs or cold water on your penis.
+- Do not drink alcohol or smoke while waiting or travelling for help.
+- Do not use harsh home measures, forceful manipulation, or repeated attempts to make it go down.
+- Do not have sex or masturbate to try to make it go away.
+- Do not let embarrassment stop you from getting urgent help; staff treat this as a time-sensitive medical problem.
 
 ## What to do now
-1. **Go to A&E now if:**
-   - the erection has lasted **more than 3 to 4 hours**, or
-   - you have **sickle cell disease** and a **painful** erection lasting **more than 1 hour**.  
-   Ask someone to take you. If you’re alone, too unwell to travel, or the pain is severe, **call 999** and ask for an ambulance.
-2. **On the way / while waiting, note the key details** (you can put this in your phone):
-   - When the erection started (approximate time)
-   - Whether it’s **painful** and how severe
-   - Any trigger: erectile dysfunction tablets, penile injection therapy, drugs/alcohol, recent injury, new medication
-   - Any conditions like **sickle cell disease**
-3. **Bring what clinicians will need quickly (if it’s easy to grab):**
-   - A list of medications (or the boxes/blister packs), including any ED meds or injections
-   - Allergy information
-4. **When you arrive, say this plainly at reception/triage:** “I have a painful erection that has lasted several hours and won’t go away (possible priapism).”  
-   If you have **sickle cell disease**, say that immediately.
-5. **If you can’t face talking in public, use your phone:** show the triage desk the sentence above. Ask for privacy.
+1. Go to A&E now if:
+   - the erection has lasted more than 3 to 4 hours, or
+   - you have sickle cell disease and a painful erection has lasted more than 1 hour.
+
+   Ask someone to take you. If you are alone, too unwell to travel safely, or the pain is severe, call 999 and ask for an ambulance.
+2. On the way, or while waiting, note the key details in your phone:
+   - when the erection started, even if approximate
+   - whether it is painful and how severe the pain is
+   - whether you have sickle cell disease or another blood condition
+   - any possible trigger, such as erectile dysfunction tablets, penile injection treatment, alcohol, recreational drugs, recent injury, or a new medicine
+3. Bring what clinicians may need quickly, if it is easy to grab:
+   - your medicines, or photos of the boxes or blister packs
+   - any erectile dysfunction tablets or injection equipment you used
+   - allergy information
+4. When you arrive, say plainly at reception or triage: “I have a painful erection that has lasted several hours and will not go away. It may be priapism.”
+5. If you have sickle cell disease, say this immediately at triage.
+6. If saying it out loud feels too difficult, show the triage desk the sentence on your phone and ask for privacy.
 
 ## What can wait
-- You do **not** need to figure out the cause right now.
-- You do **not** need to decide whether you’ll see a specialist later or change medications — the priority is urgent assessment and treatment.
-- You do **not** need to try multiple home remedies — getting to A&E promptly matters more.
+- You do not need to work out the cause right now.
+- You do not need to decide whether you will see a specialist later or change medicines.
+- You do not need to try more home measures once it has lasted several hours; getting to A&E or calling 999 matters more.
+- You do not need to explain anything perfectly. The start time, pain level, medicines, and sickle cell status are enough to begin.
 
 ## Important reassurance
-This is a known medical emergency that hospitals see and treat. Feeling embarrassed or frozen is common — but you’re not wasting anyone’s time. Getting help quickly is the best way to protect your health.
+This is a known medical emergency that hospitals see and treat. Feeling embarrassed, panicked, or frozen is common, but you are not wasting anyone’s time. Getting help quickly is the best way to protect your health.
 
 ## Scope note
-This guide covers first steps for the first hours. After urgent treatment, you may be advised about follow-up, medication changes, or preventing recurrence.
+These are first steps for the first hours only. After urgent assessment or treatment, later decisions about follow-up, medicines, recurrence, or specialist care may need medical help.
 
 ## Important note
-This is general information, not medical advice or a diagnosis. If you have a painful erection lasting several hours, or an erection lasting **more than 3 to 4 hours** (or **more than 1 hour if you have sickle cell disease**), seek urgent emergency care.
+This is general information, not medical advice, a diagnosis, or a substitute for urgent care. If you have a painful erection lasting several hours, an erection lasting more than 3 to 4 hours, or a painful erection lasting more than 1 hour with sickle cell disease, seek emergency medical help.
 
 ## Additional Resources
 - https://www.nhs.uk/symptoms/priapism-painful-erections/

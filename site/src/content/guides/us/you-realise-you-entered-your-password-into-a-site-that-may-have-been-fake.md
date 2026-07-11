@@ -1,81 +1,101 @@
-﻿---
+---
 title: "What to do if… you realise you entered your password into a site that may have been fake"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
-  - entered password on fake site
-  - typed password into fake website
-  - phishing login page
-  - spoof website login
-  - scam sign in page
-  - fake banking login
-  - fake email login page
-  - gave password to scammer
-  - credentials stolen
-  - account takeover risk
-  - password reuse worry
-  - phising website
-  - phishng link login
-  - clicked link and logged in
-  - suspicious url sign in
-  - password compromised
-  - someone has my password
-  - accidentally logged into fake site
-last_reviewed: "2026-03-08"
+  - "entered password on fake site"
+  - "typed password into fake website"
+  - "phishing login page"
+  - "fake site password entered"
+  - "fake website login"
+  - "spoofed login site"
+  - "scam sign in page"
+  - "password on scam site"
+  - "fake banking login"
+  - "fake email login"
+  - "what do i do if i entered my password"
+  - "what do i do if a site was fake"
+  - "what do i do if my password was stolen"
+  - "what do i do if login page was fake"
+  - "help i entered my password"
+  - "help i used a fake login"
+  - "help i clicked a phishing link"
+  - "help i gave my password"
+  - "my password is compromised"
+  - "my account may be hacked"
+  - "my email password was entered"
+  - "my bank password was entered"
+  - "suspicious login page"
+  - "strange password reset email"
+  - "unknown device login alert"
+  - "recovery email changed"
+  - "email forwarding rule appeared"
+  - "unexpected sent messages"
+  - "phising website"
+  - "phishng login link"
+  - "password reuse worry"
+  - "account takeover risk"
+  - "work account password entered"
+  - "school account password entered"
+last_reviewed: "2026-06-19"
+date_created: "2026-06-19"
 ---
 
 # What to do if… you realise you entered your password into a site that may have been fake (USA)
+
 ## Short answer
-Stop interacting with the page, then go to the real site/app (typed in by you) and change your password immediately — especially for your email account if there’s any chance it’s connected.
+Stop using the page, open the real site or app by a trusted route, and change the affected password now. If the same password was used for your email, or the account receives password resets for other services, protect that email account next.
 
 ## Do not do these things
-- Don’t keep entering your password again to “check” whether the site works.
-- Don’t call phone numbers or use chat widgets shown on the suspicious site.
-- Don’t wait to act because you haven’t noticed anything yet.
-- Don’t reuse that password anywhere else, even “just for today”.
-- Don’t share screenshots that show your email, username, or verification codes.
+- Don’t enter the password again to check whether the site works.
+- Don’t call phone numbers or use chat boxes shown on the suspicious page.
+- Don’t wait for a warning email before changing the password.
+- Don’t reuse that password anywhere else.
+- Don’t share screenshots that show your email address, username, password field, recovery details, or verification codes.
 
 ## What to do now
-1. **Close the suspicious page and stop.** Don’t click anything else on it.
-2. **Open the real service safely.** Use the official app you already installed, or type the service’s address yourself in a fresh browser tab. Avoid sponsored search results/ads for this step.
-3. **Change the password for the affected account right away.**
-   - Make it **new and unique** (not a tweak of the old one).
-   - If offered, select “sign out of all devices/sessions” after changing it.
-4. **If you reused that password anywhere, change those next (highest risk first):**
-   - **Email account(s)** (because it can reset other passwords).
-   - Banking/payment services, shopping accounts, social platforms, messaging apps.
-5. **Turn on multi-factor authentication (MFA/2FA)** for your email and the affected account (and any account that supports it).
-6. **Check for fast signs of takeover on the account(s):**
-   - Password reset emails you didn’t request.
-   - New login/device alerts.
-   - Changes to recovery email/phone number.
-   - In email: suspicious forwarding rules/filters, unexpected sent messages.
-7. **If anything looks changed or you’re locked out, contact the provider through a trusted route.** Use the official help pages inside the real app/site you reached by typing the address (not any “support” links/phone numbers shown on the suspicious page).
-8. **If this happened on a work or school account/device:** notify your IT/helpdesk/security contact as soon as you can (they may need to revoke sessions or reset access).
-9. **Report the scam if appropriate:**
-   - Report it to the **FTC** using the federal scam reporting site (even if you didn’t lose money).
-   - If there’s significant loss or a broader cybercrime pattern, file a report with the **FBI’s IC3**.
-   - If you entered highly sensitive personal info (for example, Social Security number), follow the official steps at **IdentityTheft.gov**.
-10. **If you entered banking/card details or see unauthorized transactions:** contact your bank/card issuer immediately and follow their fraud steps.
+1. **Close the suspicious page.** Do not click any more buttons, links, pop-ups, chat boxes, or downloads on it.
+2. **Open the real service safely.** Use the official app you already had installed, a saved bookmark you trust, or type the service’s address yourself in a fresh browser tab. Avoid sponsored search results and ads for this step.
+3. **Change the password for the affected account.**
+   - Make it new and unique, not a small change to the old password.
+   - If the service offers it, choose “sign out of all devices”, “log out other sessions”, or similar.
+4. **Protect your email account if it may be affected.** Change the email password if the same or a similar password was used there, or if that email receives password reset messages for the affected service.
+5. **Change reused passwords next, highest risk first.**
+   - Banking, payment, shopping, work, school, social media, messaging, and cloud storage accounts matter most.
+   - Use a different unique password for each account.
+6. **Turn on multi-factor authentication.** Do this for the affected account and your email account. If you have a choice, an authenticator app or security key is generally stronger than text-message codes.
+7. **Check for signs that the account was changed.**
+   - Password reset emails you did not request.
+   - New login or device alerts.
+   - Changed recovery email, recovery phone number, or security questions.
+   - In email: forwarding rules, filters, unexpected sent messages, or deleted messages you do not recognise.
+   - In banking or shopping accounts: new payment methods, new delivery addresses, or orders you did not make.
+8. **If you are locked out or anything has changed, use the provider’s official recovery route.** Reach it through the real app or a typed web address, not through links or phone numbers from the suspicious page.
+9. **If this was a work or school account, tell your IT, helpdesk, or security contact.** They may need to reset access, revoke sessions, or check for misuse.
+10. **If money, card details, banking details, or sensitive personal information were involved, act through the relevant official route.**
+   - Contact your bank or card issuer using the number on your card, statement, app, or official website.
+   - Report scams to the FTC through ReportFraud.ftc.gov.
+   - Use IdentityTheft.gov if your Social Security number or other identity information may have been misused.
+   - For internet crime, especially if money was lost or an account was misused, IC3 is an official FBI reporting route.
 
 ## What can wait
-- You don’t need to decide right now about deleting accounts, changing your phone number, or buying new security products.
-- You don’t need to reset every password you’ve ever had — focus on the affected account and any reused passwords first.
-- You can deal with longer-term identity/credit precautions after you’ve regained control of accounts.
+- You do not need to decide now about deleting accounts, changing your phone number, replacing your device, or buying security products.
+- You do not need to reset every password you have ever had unless it reused the same or a very similar password.
+- You can deal with longer-term identity or credit precautions after the affected accounts and reused passwords are under control.
 
 ## Important reassurance
-Fake login pages can look extremely real, and getting tricked is common. Acting quickly — password change, MFA, and checking for account changes — usually prevents the worst outcomes.
+Fake login pages can look very convincing, and being caught by one does not mean you were careless. Changing the password, signing out other sessions, turning on multi-factor authentication, and checking account settings can reduce the chance of further harm.
 
 ## Scope note
-This is first-step guidance for the minutes and hours after a suspected phishing login. If you confirm account takeover or financial/identity fraud, you may need additional help from the provider, your bank, and official reporting/support channels.
+These are first steps for the minutes and hours after a suspected phishing login. Later decisions may need help from the account provider, your bank, your workplace or school, or an appropriate specialist support route.
 
 ## Important note
-This is general information, not legal or professional advice. If you’re seeing unauthorized access or transactions, prioritize regaining account control (password reset, MFA, signing out sessions) and contacting the relevant provider/bank promptly.
+This is general information, not legal, financial, cybersecurity, or other professional advice. If you see unauthorized access, account changes, transactions, or identity misuse, prioritize account control and contact the relevant provider, bank, or official reporting service promptly.
 
 ## Additional Resources
 - https://consumer.ftc.gov/articles/what-do-if-you-were-scammed
+- https://consumer.ftc.gov/articles/how-recover-your-hacked-email-or-social-media-account
 - https://reportfraud.ftc.gov/
 - https://www.identitytheft.gov/
 - https://www.ic3.gov/
 - https://www.fbi.gov/how-we-can-help-you/scams-and-safety/common-frauds-and-scams/spoofing-and-phishing
-- https://www.cisa.gov/secure-our-world/recognize-and-report-phishing

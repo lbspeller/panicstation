@@ -1,90 +1,113 @@
-﻿---
+---
 title: "What to do if… you find account activity showing logins or locations that are not yours"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - unknown login location
-  - sign-in alert not me
-  - suspicious account activity
-  - someone logged into my account
-  - login from new device
-  - unexpected security email
-  - account takeover signs
-  - strange location on account
-  - unfamiliar ip address login
-  - email account may be hacked
-  - social media account accessed
-  - password reset i did not request
-  - sessions i don’t recognise
-  - hacked account recovery
-  - unauthorised access
-  - two-step verification setup
-  - recovery email changed
-  - new device signed in
-  - apps connected i didn’t add
-last_reviewed: "2026-03-08"
+  - "unknown login location"
+  - "unfamiliar login location"
+  - "strange account activity"
+  - "suspicious account activity"
+  - "account activity not mine"
+  - "login location not mine"
+  - "someone logged into my account"
+  - "new device on my account"
+  - "unexpected account login"
+  - "account logins not yours"
+  - "what do i do if account activity is not mine"
+  - "what do i do if login locations look wrong"
+  - "what do i do if someone logged in"
+  - "what do i do if my account shows strange logins"
+  - "help i found a login not mine"
+  - "help i got a sign-in alert"
+  - "help i think my account was accessed"
+  - "help i see locations not mine"
+  - "my account shows unknown activity"
+  - "my email shows strange logins"
+  - "my social account has unknown sessions"
+  - "my password reset was not requested"
+  - "new device signed in"
+  - "security email not expected"
+  - "recovery email changed"
+  - "unknown apps connected"
+  - "messages sent from my account"
+  - "bank purchases not mine"
+  - "vpn location confusion"
+  - "ip address looks wrong"
+  - "travel login confusion"
+  - "shared device login confusion"
+  - "unkown login location"
+  - "acount activity not mine"
+last_reviewed: "2026-05-11"
+date_created: "2026-05-11"
 ---
 
 # What to do if… you find account activity showing logins or locations that are not yours (UK)
 
 ## Short answer
-Treat this as a real compromise until proven otherwise: secure your **email first**, then **change the affected account password**, **sign out of all devices/sessions**, and **turn on 2-step verification**.
+Act as though the account may be compromised until you have secured it. Secure your email first, then change the affected account password, sign out of other sessions, and turn on 2-step verification or the strongest sign-in protection the service offers.
 
 ## Do not do these things
-- Don’t click “security alert” links from texts/emails to “fix it” unless you independently open the service/app yourself (phishing often follows).
-- Don’t reuse an old password or a “slightly changed” version of it.
-- Don’t ignore your **email** account — attackers often use it to reset other passwords.
-- Don’t keep “staying logged in everywhere” while you investigate; end sessions first.
-- Don’t assume the location is “just wrong” if it’s paired with new devices, password reset emails, or changed settings.
+- Don’t click “security alert” links from texts or emails; open the service or app directly instead.
+- Don’t reuse an old password or a slightly changed version of it.
+- Don’t ignore your email account, because it may be used to reset other passwords.
+- Don’t stay logged in everywhere while you investigate; end unknown sessions once you are in the account.
+- Don’t assume the location is harmless if it appears with a new device, a password reset email, changed recovery details, or messages you did not send.
 
 ## What to do now
-1. **Open the service/app directly (not from a link) and take back control**
-   - If you can’t log in, use the provider’s official **account recovery** flow.
-   - If you can log in, go straight to **Security** / **Sign-in activity**.
+1. **Open the service directly and try to regain control**
+   - Open the app or type the provider’s web address yourself.
+   - If you cannot log in, use the provider’s official account recovery flow.
+   - If you can log in, go straight to the account’s security, privacy, or sign-in activity area.
 
-2. **Secure your email account immediately (even if the alert wasn’t about email)**
+2. **Secure your email account first**
    - Change your email password.
-   - Check for **mail forwarding** and **filters/rules** you didn’t create (attackers use these to silently copy emails and password resets).
-   - Confirm recovery email/phone details are yours.
+   - Check for mail forwarding, filters, or rules you did not create.
+   - Confirm the recovery email address and phone number are yours.
 
-3. **Kick out other sessions**
-   - Use “**sign out of all devices**” / “log out of all sessions”.
-   - Remove any **unknown devices** and revoke access for **unknown apps** connected to the account.
+3. **End unknown access**
+   - Use “sign out of all devices”, “log out of all sessions”, or the closest option the service gives.
+   - Remove unknown devices from the trusted-device list.
+   - Revoke access for unknown connected apps, browser extensions, or third-party services.
 
-4. **Change the password properly**
-   - Make it **unique** to this account (not used anywhere else).
-   - If you reused that password on other sites, change those next — start with: email, banking, shopping, mobile network, and any work accounts.
+4. **Change the affected account password**
+   - Use a new password that is not used anywhere else.
+   - If that password was reused, change it next on your email, banking, shopping, mobile network, work, and other important accounts.
+   - Use the official website or app for each account rather than links in messages.
 
-5. **Turn on 2-step verification (2SV)**
-   - Prefer an authenticator app or device-based prompt if offered.
-   - Save backup codes somewhere safe (not in the compromised inbox).
+5. **Turn on extra sign-in protection**
+   - Turn on 2-step verification, two-factor authentication, multi-factor authentication, or the strongest sign-in protection the service offers.
+   - Use an option that does not depend only on a compromised inbox where possible.
+   - Save backup codes somewhere safe, not in the inbox you are securing.
 
-6. **Check what was changed and undo it**
-   - Look for changes to: recovery email/phone, new admin roles, new “trusted devices”, new payment methods, new addresses, new rules, or messages sent.
-   - If it’s a messaging/social account, warn contacts **only after** you’ve secured it (to avoid sending from a compromised account).
+6. **Check what changed**
+   - Look for changed recovery details, new trusted devices, new admin roles, new payment methods, new addresses, new forwarding rules, and messages sent from the account.
+   - Undo changes you recognise as unauthorised.
+   - If it is a messaging or social account, warn contacts after you have secured it so they do not trust recent suspicious messages from you.
 
-7. **If money or purchases are involved, act like fraud**
-   - Contact your bank/card provider using the number on your card or their official app/website.
-   - Ask them to cancel/stop suspicious transactions and secure the account.
+7. **If money, cards, orders, or financial accounts are involved, contact your bank or provider**
+   - Use the number on your card, the provider’s official app, or the provider’s official website.
+   - Ask them to block further use, dispute suspicious transactions, and explain the next steps.
+   - Check recent purchases, saved cards, delivery addresses, and bank statements.
 
-8. **Report it if it’s a cyber crime or fraud**
-   - If you’re in **England, Wales, or Northern Ireland**, report via **Report Fraud (Action Fraud)**.
-   - If you’re in **Scotland**, report to **Police Scotland** (call 101 for non-emergency).
+8. **Report cyber crime or fraud where appropriate**
+   - If you are in England, Wales, or Northern Ireland, use Report Fraud for cyber crime or fraud.
+   - If you live in Scotland or the crime happened there, contact Police Scotland on 101 for non-emergencies.
+   - Call 999 only if there is immediate danger or a crime is happening now.
 
 ## What can wait
-- You don’t need to prove *how* they got in right now.
-- You don’t need to delete your account, wipe devices, or publicly explain anything until you’ve regained control.
-- You don’t need to change every password on the internet tonight — focus on **email + any reused passwords + financially important accounts** first.
-- If you suspect your personal details are being used to open accounts or apply for credit, you can later **check your credit file** and consider **CIFAS Protective Registration** (but don’t let this distract from locking down email and key accounts first).
+- You don’t need to prove how someone got in right now.
+- You don’t need to delete the account, wipe devices, or explain publicly before you have regained control.
+- You don’t need to change every password tonight; focus first on email, reused passwords, financial accounts, work accounts, and the affected account.
+- If you later suspect your personal details are being used to open accounts or apply for credit, you can check your credit file and consider CIFAS Protective Registration then.
 
 ## Important reassurance
-Seeing an unfamiliar login/location is genuinely unsettling, and it’s common to freeze or start clicking everything. A calm “lock it down first” sequence (email → sessions → password → 2SV) is usually enough to stop the immediate damage and buy you breathing room.
+An unfamiliar login or location is unsettling, especially when you are not sure what changed. A steady sequence of email, sessions, password, and extra sign-in protection can usually stop the immediate access and buy you time to check the rest calmly.
 
 ## Scope note
-This is first-steps guidance to regain control and reduce harm. If you later discover identity theft, financial loss, or repeated re-compromise, you may need more specialist support (provider support, bank fraud teams, workplace IT, or police reporting).
+These are first steps to reduce immediate harm and regain control. Later decisions may need help from the account provider, your bank, workplace IT, police reporting routes, or identity theft support.
 
 ## Important note
-This is general information, not legal or professional advice. If you feel at risk of immediate financial loss, or you can’t regain access to key accounts (email, banking, work), prioritise contacting the provider/bank through their official channels.
+This is general information, not legal, medical, financial, therapeutic, technical, or professional advice. For urgent account loss, suspected fraud, or access to banking, work, or email accounts, use the provider’s official support route or your bank’s official contact route.
 
 ## Additional Resources
 - https://www.ncsc.gov.uk/guidance/recovering-a-hacked-account

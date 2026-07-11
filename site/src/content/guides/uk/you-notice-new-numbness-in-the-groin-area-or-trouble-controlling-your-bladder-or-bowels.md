@@ -1,74 +1,92 @@
-﻿---
+---
 title: "What to do if… you notice new numbness in the groin area or trouble controlling your bladder or bowels"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
-  - groin numbness
-  - numbness between legs
-  - numb genitals
-  - perineal numbness
-  - saddle numbness
-  - can’t feel when wiping
-  - new bladder control trouble
-  - leaking urine suddenly
-  - trouble starting to pee
-  - can’t pass urine
-  - can’t tell bladder full
-  - new bowel control trouble
-  - bowel leakage
-  - back pain with numbness
-  - sciatica with bladder issues
-  - sudden leg weakness
-  - spinal nerve compression signs
-  - cauda equina symptoms
-  - new numbness in groin
-  - toilet control changes
-last_reviewed: "2026-01-21"
+  - "groin numbness"
+  - "new groin numbness"
+  - "saddle numbness"
+  - "numbness between legs"
+  - "numb genitals"
+  - "perineal numbness"
+  - "bladder control trouble"
+  - "bowel control trouble"
+  - "what do i do if groin numbness"
+  - "what do i do if bladder control changes"
+  - "what do i do if bowel control changes"
+  - "what do i do if numb genitals"
+  - "what do i do if cannot pee"
+  - "help i have groin numbness"
+  - "help i cannot control bladder"
+  - "help i cannot pass urine"
+  - "my bladder feels strange"
+  - "my bowels are leaking"
+  - "my groin feels numb"
+  - "cannot feel when wiping"
+  - "leaking urine suddenly"
+  - "trouble starting to pee"
+  - "cannot tell bladder full"
+  - "loss of bowel control"
+  - "leg weakness with numbness"
+  - "back pain with groin numbness"
+  - "sciatica with bladder trouble"
+  - "pulled muscle with numb groin"
+  - "slipped disc bladder symptoms"
+  - "toilet control changes"
+  - "possible cauda equina symptoms"
+  - "after back injury numbness"
+  - "after spinal procedure numbness"
+  - "groin numbeness"
+  - "cauda equina symtoms"
+last_reviewed: "2026-05-16"
+date_created: "2026-05-16"
 ---
 
 # What to do if… you notice new numbness in the groin area or trouble controlling your bladder or bowels (UK)
 
 ## Short answer
-Treat this as urgent: go to **A&E now** (or call **999** if you can’t safely get there). These symptoms can be a warning sign of serious spinal nerve compression that needs rapid assessment.
+Go to A&E now, or call 999 if you cannot safely get there. New groin, saddle-area, bladder, or bowel control symptoms can be a warning sign of serious spinal nerve compression that needs urgent assessment.
 
 ## Do not do these things
-- Don’t “wait and see” or try to sleep it off.
-- Don’t book a routine GP/physio appointment as your next step.
-- Don’t drive yourself if your legs feel weak/numb, you’re dizzy, or you’re in severe pain—get help with transport.
-- Don’t take alcohol or **extra** sedating medicines (beyond what you’re prescribed). **Don’t stop prescribed medicines unless a clinician tells you to.**
-- Don’t assume it’s “just a pulled muscle” because the back pain isn’t severe.
+- Don’t wait to see if it goes away, sleep it off, or save it for a routine appointment.
+- Don’t make a routine GP, physio, or private clinic appointment your next step.
+- Don’t drive yourself if your legs feel weak or numb, you feel unsafe to drive, or pain is stopping you from concentrating.
+- Don’t use alcohol or extra sedating medicine to get through the journey. Take prescribed medicine only as directed unless a clinician tells you otherwise.
+- Don’t assume it is only a pulled muscle because back pain is mild or comes and goes.
+- Don’t repeatedly test the numb area or keep walking around to prove whether it is changing.
 
 ## What to do now
-1. **If you can’t pass urine at all, have rapidly worsening leg weakness, severe pain, or you feel unsafe at home:** **call 999** and say you have **new groin/saddle numbness and bladder/bowel control problems** and need urgent assessment.
-2. **Go to your nearest A&E now.** If possible, ask someone to take you or call a taxi rather than driving yourself.
-3. **If you can’t get to A&E and it doesn’t feel like a 999 emergency:** **call NHS 111 immediately** and say you have **new groin/saddle numbness and new bladder/bowel control problems**. Ask what the fastest route into **emergency assessment** is (they may advise A&E or arrange an ambulance).
-4. **Use clear words at triage:**  
-   “I have **new numbness in the groin/saddle area** and **new trouble controlling my bladder/bowels** (or trouble starting to pee / leaking / not feeling when I’m full). I’m worried about **cauda equina / spinal nerve compression**.”
-5. **Note the timing and changes (write it in your phone):**
-   - When the numbness started (even approximate time).
-   - What’s changed with peeing/pooing (can’t start, can’t stop, leaking, can’t feel it, can’t tell if full).
-   - Any leg symptoms (numbness, weakness, pain down one/both legs).
-   - Any recent triggers (fall/injury; recent spinal procedure/epidural; known disc problems).
-6. **Take essentials:** a medication list (or photos of labels), allergies, NHS number if you know it, phone charger, and a warm layer.
-7. **If you’re alone, message someone now** to check in and, if possible, meet you at A&E or be available by phone.
+1. If you cannot pass urine at all, have rapidly worsening leg weakness, feel seriously unwell, or cannot travel safely, call 999 now. Say: “I have new groin or saddle numbness and new bladder or bowel control problems.”
+2. Go to your nearest A&E now. Ask someone to take you, use a taxi, or follow 999 advice rather than driving yourself if driving is not clearly safe.
+3. If you cannot get to A&E and you are not sure whether to call 999, contact NHS 111 immediately. Say clearly that you have new groin or saddle-area numbness and new bladder or bowel control changes, and ask for the fastest route to emergency assessment.
+4. At triage, use direct words: “I have new numbness in the groin or saddle area and new trouble controlling my bladder or bowels. I am worried about cauda equina or spinal nerve compression.”
+5. Write a short note in your phone for the clinician:
+   - when the numbness started or changed
+   - what has changed with peeing or pooing, such as leaking, not being able to start, not being able to stop, not feeling it, or not knowing when your bladder is full
+   - any new leg weakness, numbness, or pain down one or both legs
+   - any recent fall, injury, spinal procedure, epidural, or known disc problem
+6. Take essentials only: your medication list or photos of labels, allergy information, your NHS number if you know it, your phone, a charger, and a warm layer.
+7. If you are alone, message or call someone now so they know where you are going and can stay available by phone or meet you at A&E.
 
 ## What can wait
-- You do **not** need to figure out the cause right now.
-- You do **not** need to test yourself repeatedly (pinching, long walks, “see if it goes away”).
-- You do **not** need to decide about scans, surgery, or referrals—your job is to get assessed promptly.
+- You do not need to work out the cause right now.
+- You do not need to decide whether you need a scan, surgery, referral, or follow-up.
+- You do not need to gather old letters or search for every previous symptom before leaving.
+- You do not need to feel certain that it is serious before going. The point is to be checked promptly.
 
 ## Important reassurance
-It’s common to feel embarrassed or unsure about these symptoms. You’re not wasting anyone’s time: **new groin-area numbness or bladder/bowel control changes are treated as red-flag symptoms** because delays can matter. Getting checked urgently is the safest choice even if the cause turns out to be something less serious.
+These symptoms can feel embarrassing, confusing, or easy to minimise. A&E staff are used to hearing about bladder, bowel, genital, and saddle-area symptoms, and new changes in these areas are treated as red flags because delays can matter. Getting checked urgently is the safe step even if the cause turns out to be less serious.
 
 ## Scope note
-This guide covers **first steps only** to get you to the right level of urgent care and help you communicate symptoms clearly. Further decisions (tests, treatment, follow-up) come after you’ve been assessed.
+These are first steps only: get to urgent assessment and describe the symptoms clearly. Decisions about tests, treatment, admission, discharge, or follow-up may need specialist medical input after you have been assessed.
 
 ## Important note
-This is general information, not a diagnosis or personal medical advice. If symptoms are present **now**, act on them **now** by seeking urgent medical assessment.
+This is general information only. It is not a diagnosis and is not legal, medical, financial, therapeutic, or other professional advice. If these symptoms are present now, seek urgent medical assessment now.
 
 ## Additional Resources
 - https://gettingitrightfirsttime.co.uk/wp-content/uploads/2025/07/National-Suspected-Cauda-Equina-Pathway-September-2025.pdf
-- https://cks.nice.org.uk/topics/sciatica-lumbar-radiculopathy/diagnosis/red-flag-symptoms-signs/
-- https://www.buckshealthcare.nhs.uk/pifs/cauda-equina-syndrome/
-- https://www.sussexcommunity.nhs.uk/patients-and-visitors/resources/patient-resources/sciatica/cauda-equina-syndrome-ces
+- https://www.nhs.uk/nhs-services/urgent-and-emergency-care-services/when-to-call-999/
+- https://www.worcsacute.nhs.uk/leaflets/cauda-equina-syndrome/
+- https://www.torbayandsouthdevon.nhs.uk/services/specialist-spinal-orthopaedic-physiotherapy-service/common-spinal-conditions/cauda-equina-syndrome/
+- https://www.northerncarealliance.nhs.uk/patient-information/patient-leaflets/neurosurgery-cauda-equina-syndrome
 - https://www.hssib.org.uk/patient-safety-investigations/timely-detection-and-treatment-of-spinal-nerve-compression-cauda-equina-syndrome-in-patients-with-back-pain/investigation-report/

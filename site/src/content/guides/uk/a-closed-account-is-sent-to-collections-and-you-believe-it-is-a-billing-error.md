@@ -1,97 +1,112 @@
-﻿---
+---
 title: "What to do if… a closed account is sent to collections and you believe it is a billing error"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
-  - closed account sent to collections
-  - debt collector for closed account
-  - billing error sent to collections
-  - wrong balance after account closed
-  - debt not mine but in my name
-  - disputed debt collections letter
-  - incorrect default on credit file
-  - credit report shows wrong debt
-  - debt sold to collector mistake
-  - collection agency chasing wrong amount
-  - final bill dispute after closure
-  - utility or telecom final bill error
-  - credit card closed then charged
-  - arrears notice for closed account
-  - debt recovery for billing dispute
-  - I already paid but they claim I owe
-  - collections contact after cancellation
-  - tracing error wrong person pursued
-  - account settled but still chased
-last_reviewed: "2026-01-10"
+  - "closed account in collections"
+  - "closed account debt collector"
+  - "billing error in collections"
+  - "wrong closed account balance"
+  - "closed account final bill"
+  - "debt collector billing error"
+  - "collections after account closed"
+  - "wrong debt on credit file"
+  - "settled account still chased"
+  - "closed account still billed"
+  - "what do i do if billed wrongly"
+  - "what do i do if debt disputed"
+  - "what do i do if account closed"
+  - "what do i do if collections letter"
+  - "help i got a collections letter"
+  - "help i am being chased"
+  - "help i already paid"
+  - "help i disputed a bill"
+  - "my closed account has debt"
+  - "my final bill is wrong"
+  - "my credit file shows debt"
+  - "my old provider wants money"
+  - "letter says i owe money"
+  - "default added after closure"
+  - "final statement does not match"
+  - "collector has wrong amount"
+  - "account says arrears after closure"
+  - "debt sold by mistake"
+  - "collections on cancelled account"
+  - "telecom final bill error"
+  - "energy final bill error"
+  - "credit card closed charged"
+  - "collectons letter after closure"
+  - "wrong ammount sent to collections"
+last_reviewed: "2026-04-25"
+date_created: "2026-04-25"
 ---
 
 # What to do if… a closed account is sent to collections and you believe it is a billing error (UK)
 
 ## Short answer
-Put the dispute in writing immediately, ask for written evidence of the debt, and keep the account “in dispute” until you’ve seen proof and checked it against your own records.
+Put the dispute in writing now, ask for evidence of the debt, and ask the collector and original provider to pause action while the billing error is checked.
 
 ## Do not do these things
-- Don’t pay “just to make it go away” before you’ve checked the amount and who is claiming it (payment can complicate disputes).
-- Don’t confirm details you’re unsure about on the phone (stick to written communication where possible).
-- Don’t ignore letters that look formal or mention court action, a “Letter of Claim”, or deadlines.
-- Don’t assume the collector has accurate information because they sound confident.
-- Don’t send originals of key documents (send copies/screenshots).
+- Don’t pay, set up a payment plan, or admit you owe the disputed amount until you have checked the evidence, unless a debt adviser tells you it is the safest option.
+- Don’t rely on a phone call alone; ask for everything in writing.
+- Don’t ignore anything that says “court”, “claim form”, “deadline”, “default”, “final response”, or threatens legal action.
+- Don’t send original documents; send copies or screenshots.
+- Don’t argue every detail at once; first ask for the final bill, the balance breakdown, and proof that they can collect.
 
 ## What to do now
-1. **Switch to written communication and create a single “case file”.**  
-   Save every letter/email/text, take screenshots of any online account pages, and write a simple timeline (dates, who contacted you, what they said).
+1. **Make a simple file before you reply.**  
+   Save the collections letter, emails, texts, screenshots of the closed account, payment proof, cancellation proof, closure confirmation, final bill, and any zero-balance message. Write one short timeline with dates.
 
-2. **Send a written “this is disputed” notice to the collector right away.**  
-   Ask them to confirm, in writing:
-   - who the original creditor is,
-   - the amount they say you owe and what it’s for (dates/services/charges),
-   - what evidence they have (final bill, statements, and any authority/assignment to collect).  
-   Keep it simple: “I believe this is a billing error on a closed account. I dispute the debt.”
+2. **Send the collector a written dispute notice.**  
+   Keep it brief. Say: “I believe this is a billing error on a closed account. I dispute the debt. Please pause collection activity and send written evidence of the debt.” Ask for:
+   - the original creditor’s name;
+   - the amount they say is owed;
+   - the dates, services, charges, interest, and fees included;
+   - the final bill or statement;
+   - proof that they are authorised to collect or that the debt was assigned to them.
 
-3. **Raise a formal billing dispute with the original provider (the account you closed).**  
+3. **Send the original provider a formal billing dispute.**  
    Ask for:
-   - the **final statement** showing the closing balance,
-   - a breakdown of any “final bill” items and dates,
-   - confirmation of the closure date and any refunds/credits,
-   - whether the debt was sold or placed with a collector, and when.  
-   Attach copies of your closure/zero-balance proof (emails, letters, screenshots, payment proof).
+   - the closure date;
+   - the final statement and closing balance;
+   - a line-by-line breakdown of any final bill;
+   - proof of any refunds, credits, payments, or failed payments;
+   - the date the account was passed or sold to collections.  
+   Attach copies of your closure proof, payment proof, cancellation proof, or earlier final bill.
 
-4. **Ask for collections to be paused while the dispute is investigated (and be explicit about why).**  
-   - If the collector/creditor is **FCA-regulated for consumer credit-related debt collection**, FCA rules require them to **suspend recovery steps** where the customer disputes the debt on valid grounds (or what may be valid grounds) while they investigate.  
-   - If they are not FCA-regulated (common for some sectors), still ask for a voluntary “hold” while the original provider investigates, and keep everything in writing.
+4. **Ask for collection activity and credit-file reporting to be put on hold while they investigate.**  
+   If the collector or creditor is FCA-regulated for consumer-credit debt collection, FCA rules generally require them to suspend recovery steps where a customer disputes the debt on valid grounds, or what may be valid grounds, while they investigate. If they are not FCA-regulated, still ask for a written hold and keep a copy of the request.
 
-5. **If you receive a “Letter of Claim”, act immediately (even if you’re sure it’s an error).**  
-   Reply using the enclosed Reply Form (if provided), say you **dispute the debt**, and request the documents you need (statements/final bill/contract). Aim to return it **within 30 days** so court action is paused while you seek advice and the issue is discussed.
+5. **If the letter has a deadline or threatens legal action, deal with that first.**  
+   Do not ignore formal papers because you believe the bill is wrong. Follow the response route and deadline written on the papers, say you dispute the debt, and ask for the documents you need. Contact a free debt adviser promptly if you are unsure what the deadline means or how to reply.
 
-6. **Check your UK credit file for any related entry and dispute inaccuracies.**  
-   If you see a default/arrears/collection entry you believe is wrong:
-   - dispute it with the credit reference agency showing it and with the organisation that supplied the data, and
-   - if you need a temporary explanation while it’s being corrected, consider adding a **Notice of Correction** (typically up to 200 words). This does not replace getting the record corrected.
+6. **Check your credit files for the same account.**  
+   Look for a default, arrears marker, collection account, wrong balance, or wrong account status. If an entry is wrong, dispute it with the credit reference agency showing it and with the organisation that supplied the data. If you need a short temporary explanation while it is investigated, you can ask to add a Notice of Correction, usually up to 200 words. This does not replace getting inaccurate data corrected.
 
-7. **Use the right escalation route for the type of account (only if they won’t fix it).**  
-   - If it’s an **FCA-regulated** firm: complain in writing and, if unresolved after a final response, you can usually escalate to the **Financial Ombudsman Service**.  
-   - If it’s **mobile/broadband/pay TV**: use the provider’s complaints process, then escalate to the provider’s **Ofcom-approved ADR scheme** if still unresolved.  
-   - If it’s **gas/electricity**: use the supplier’s complaints process, then the **Energy Ombudsman** if still unresolved (often after 8 weeks or a deadlock letter).  
+7. **Use the right complaint route if they do not pause or fix it.**  
+   - For an FCA-regulated financial firm or debt collector, complain to the firm in writing. If you get a final response or usually after 8 weeks with no response, you can ask the Financial Ombudsman Service to look at it.
+   - For mobile, broadband, landline, or pay TV, complain to the provider first. If it is still unresolved after at least 6 weeks, or you get a deadlock letter, you can use the provider’s Ofcom-approved ADR scheme.
+   - For gas or electricity, complain to the supplier first. If 8 weeks pass, or you get a final decision or deadlock letter, you can raise it with the Energy Ombudsman.
 
 ## What can wait
-- You don’t need to decide today whether to negotiate, offer a payment plan, or make any “settlement” offer.
-- You don’t need to argue the entire history on the phone—start by getting written evidence and locking down the facts.
-- You don’t need to chase multiple routes at once; focus first on (1) written dispute, (2) the original provider’s final bill/breakdown, and (3) your credit-file check.
+- You do not need to decide today whether to negotiate, settle, or offer a payment plan for the disputed amount.
+- You do not need to prove the whole history in one message; start with “I dispute this” and request the final bill and evidence.
+- You do not need to contact every complaints body at once unless there is a deadline. Focus first on the collector, the original provider, and your credit-file check.
 
 ## Important reassurance
-Billing and account-closure errors do happen, including debts being chased with missing or incorrect information. Asking for proof and keeping everything in writing is a normal, sensible first response.
+Closed-account billing errors and handover mistakes can happen. Asking for proof, keeping the dispute in writing, and checking the final bill are normal first steps.
 
 ## Scope note
-This is first-steps guidance to stabilise the situation, preserve your position, and prevent avoidable harm. If it escalates toward court action or significant credit impact, you may need specialist advice.
+These are first steps only. If the matter moves toward court action, a serious credit-file problem, or a large disputed balance, later decisions may need specialist debt, legal, or regulated complaints help.
 
 ## Important note
-This is general information, not legal advice. The right route can depend on the type of account and who is collecting. If you’re unsure, slow down, keep everything in writing, and prioritise avoiding irreversible steps (like paying or admitting liability) until you’ve verified the facts.
+This is general information, not legal, financial, credit, therapeutic, or professional advice. The right route can depend on the type of account, who is collecting, and the documents you have received.
 
 ## Additional Resources
-- https://handbook.fca.org.uk/handbook/conc7/conc7s14
-- https://www.justice.gov.uk/documents/debt-pap.pdf
-- https://www.citizensadvice.org.uk/debt-and-money/action-your-creditor-can-take/if-youre-being-taken-to-court-for-debt/
+- https://www.stepchange.org/debt-info/your-rights/disputing-debts-with-creditors.aspx
+- https://www.gov.uk/debt-advice
+- https://handbook.fca.org.uk/handbook/CONC/7/14.html
 - https://ico.org.uk/for-the-public/credit/
-- https://nationaldebtline.org/get-information/guides/credit-reference-agencies-ew/
+- https://www.financial-ombudsman.org.uk/consumers/complaints-can-help/credit-borrowing-money/debt-collecting
 - https://www.ofcom.org.uk/phones-and-broadband/service-quality/adr-schemes
 - https://www.energyombudsman.org/our-process

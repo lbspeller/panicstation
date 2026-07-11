@@ -1,82 +1,84 @@
-﻿---
+---
 title: "What to do if… someone at your gym or class keeps sexualising you and will not stop after you disengage"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - gym harassment
-  - fitness class harassment
-  - being sexualised at gym
-  - unwanted sexual comments
-  - unwanted flirting won’t stop
-  - persistent gym member attention
-  - trainer making you uncomfortable
-  - sexual remarks about my body
-  - leering and staring at gym
-  - being followed between stations
-  - gym creep won’t leave me alone
-  - someone keeps approaching me
-  - sexual jokes in class
-  - intimidation at gym
-  - unsafe feeling at gym
-  - boundary not respected
-  - harassment after saying no
-  - repeated unwanted contact
-  - sexualised remarks in public
-  - unwanted contact after disengaging
-last_reviewed: "2026-03-13"
+  - "gym harassment"
+  - "fitness class harassment"
+  - "sexualising at gym"
+  - "unwanted sexual comments"
+  - "persistent gym attention"
+  - "trainer making me uncomfortable"
+  - "sexual remarks about my body"
+  - "leering at gym"
+  - "staring at gym"
+  - "being followed between stations"
+  - "gym creep near me"
+  - "someone keeps approaching me"
+  - "sexual jokes in class"
+  - "intimidation at gym"
+  - "unsafe feeling at gym"
+  - "boundary ignored at gym"
+  - "harassment after saying no"
+  - "repeated unwanted contact"
+  - "what do i do if gym harassment"
+  - "what do i do if fitness harassment"
+  - "what do i do if sexual comments"
+  - "what do i do if gym creep"
+  - "help i feel unsafe at gym"
+  - "help i am being sexualised"
+  - "my gym class feels unsafe"
+  - "my trainer makes me uncomfortable"
+  - "freezing during gym harassment"
+  - "fawning during unwanted attention"
+  - "nervous around gym member"
+  - "dreading gym class"
+  - "gym harrasment"
+  - "sexaul comments at gym"
+last_reviewed: "2026-04-30"
+date_created: "2026-04-30"
 ---
 
 # What to do if… someone at your gym or class keeps sexualising you and will not stop after you disengage (UK)
 
 ## Short answer
-Get to a staff member now and ask them to intervene and keep the person away from you. If you feel unsafe or trapped, leave the building and call 999.
+Get to a staff member, instructor, reception desk, or another visible staffed area now and ask them to intervene and keep the person away from you. If someone is in immediate danger, you are trapped, you are threatened, or the person is blocking you from leaving, call 999.
 
 ## Do not do these things
-- Do not go somewhere isolated to “avoid them” (quiet corridors, empty studios, car park). If you need to use changing areas to leave, ask staff to escort you or wait nearby.
-- Do not agree to “talk outside” or “sort it out privately”.
-- Do not keep explaining or justifying yourself—one clear boundary is enough.
-- Do not stay to “finish the set/class” if you feel unsafe or pressured.
-- Do not confront them alone if they’re persistent, intimidating, or escalating.
+- Do not go somewhere isolated to get away from them, such as a quiet corridor, empty studio, changing area, stairwell, or car park.
+- Do not agree to talk outside, talk privately, or sort it out away from staff.
+- Do not keep explaining or justifying yourself; one clear boundary is enough.
+- Do not stay to finish the set or class if you feel unsafe, watched, followed, or pressured.
+- Do not confront them alone if they are persistent, intimidating, following you, or escalating.
+- Do not delete messages, DMs, booking notes, or call logs if you can safely leave them saved.
 
 ## What to do now
-1. **Move to safety and visibility.** Go to reception, the main desk, or stand next to the instructor—somewhere open with witnesses and (often) cameras.
-2. **Use one short line, then stop engaging.** For example: “Stop. Don’t speak to me like that.” Then turn away and focus on staff—not on them.
-3. **Ask staff for specific actions (use these words).**
-   - “I’m being sexually harassed by a member. I need you to intervene now.”
-   - Ask them to **stay with you**, **tell the person to stop**, and **keep them away from you** for the rest of your visit/class.
-4. **Ask for a manager and for it to be logged in writing.** Request an incident record with: date/time, where it happened, what was said/done (briefly), name/description, witnesses (including staff), and what action was taken.
-5. **Ask for practical safety options the venue controls today.** For example:
-   - moving you to a different area or placing you near staff
-   - swapping you into a different class slot *today*
-   - staff walking you to the exit or to your transport
-6. **Save what’s already there, without “investigating”.**
-   - If there are messages (DMs/texts), **screenshot and save them**.
-   - If it happened on-site, ask the gym to **retain/preserve CCTV** for the relevant time window as soon as possible.
-7. **If it continues, becomes threatening, or happens more than once, consider police reporting (your choice).**
-   - Immediate danger: **999**
-   - Not an emergency (advice/report): **101** or your local force’s online reporting
-8. **Get specialist support if you feel shaken, numb, or worried about going back.** Options include:
-   - **Victim Support** (free, confidential support even if you do not report)
-   - **National Stalking Helpline** if the behaviour becomes fixated, repeated, or follows you beyond the gym
-   - If anything sexual happened without your consent, or you’re not sure: **Rape Crisis England & Wales 24/7 Support Line (0808 500 2222)**
+1. **Move to safety and visibility.** Go to reception, the main desk, the instructor, or a busy staffed area. Stay where there are staff, other people, and likely CCTV.
+2. **Use one short line, then stop engaging.** Say, “Stop. Do not speak to me like that.” Then turn your attention to staff, not to the person.
+3. **Ask staff to intervene now.** You can say: “I am being sexually harassed by a member. I need you to intervene now.” Ask staff to stay with you, tell the person to stop, and keep them away from you for the rest of your visit or class.
+4. **Ask for a manager or senior staff member.** Ask them to make a written incident note with the date, time, location, what was said or done, the person’s name or description if known, any witnesses, and what staff did.
+5. **Ask for practical safety options the venue controls today.** Ask staff to move you near them, move the other person away, swap you into another class slot today, keep the person out of your area, or walk you to the exit or to your transport.
+6. **Save what already exists, if you can do this safely.** Screenshot messages or DMs, keep booking records, and ask the gym or venue to retain CCTV for the relevant time and area. Do not investigate them yourself.
+7. **Contact police if you want to, or if the behaviour escalates.** For immediate danger, call 999. For non-emergency advice or reporting, call 101 or use your local police force’s online reporting route.
+8. **Use specialist support if you feel shaken, numb, scared, or worried about going back.** Victim Support can offer free, confidential support in England and Wales. The National Stalking Helpline can help if the behaviour is repeated, fixated, follows you outside the gym, or involves unwanted contact. If anything sexual happened without your consent, or you are not sure, Rape Crisis England & Wales has a 24/7 support line for people aged 16+ on 0808 500 2222.
 
 ## What can wait
-- You do not need to decide right now whether to make a formal complaint, switch gyms, or “prove” anything.
-- You do not need to write a perfect statement today—capture the basics while it’s fresh, then pause.
-- You do not need to respond to any messages from them.
+- You do not need to decide now whether to make a formal complaint, change gyms, report to police, or take legal advice.
+- You do not need to write a perfect statement today; capture the basics while they are fresh, then pause.
+- You do not need to reply to any messages from them.
+- You do not need to explain to other gym members what happened.
 
 ## Important reassurance
-Freezing, fawning, smiling, or trying to “keep it polite” can be automatic stress responses. You’re not overreacting—persistent sexualising behaviour after you disengage is not your job to fix.
+Freezing, fawning, smiling, laughing awkwardly, or trying to keep things polite can be automatic stress responses. Persistent sexualising behaviour after you disengage is not your job to manage alone.
 
 ## Scope note
-These are first steps to stabilise the situation and reduce risk today. If this becomes ongoing, you may want additional help from specialist services or legal advice—but you don’t have to figure that out now.
+These are first steps only, to help stabilise the situation and reduce risk today. Later decisions, such as a formal complaint, police report, venue membership issue, or legal route, may need specialist help.
 
 ## Important note
-This is general information, not legal advice. If you feel in immediate danger, call 999. If you’re unsure what to do next, involving staff, getting the incident logged, and accessing confidential support are solid first moves.
+This is general information, not legal, medical, financial, therapeutic, or other professional advice. If you feel in immediate danger, call 999.
 
 ## Additional Resources
 - https://www.police.uk/advice/advice-and-information/beta-stalking-and-harassment/how-report-stalking-harassment/
-- https://www.gov.uk/report-stalker
 - https://www.victimsupport.org.uk/
 - https://www.suzylamplugh.org/contact
 - https://rapecrisis.org.uk/get-help/want-to-talk/

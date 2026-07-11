@@ -1,81 +1,86 @@
-﻿---
+---
 title: "What to do if… you start a new medication and develop a widespread rash or mouth sores"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
-  - new medication rash
-  - widespread rash after medicine
-  - mouth sores after starting meds
-  - rash and mouth ulcers medicine
-  - drug reaction skin rash
-  - possible severe drug rash
-  - blistering rash after medication
-  - peeling skin after new medicine
-  - rash with fever after meds
-  - sore mouth and rash
-  - allergic reaction to medicine
-  - hives after new prescription
-  - rash after antibiotics
-  - rash after painkillers
-  - urgent rash advice uk
-  - started tablets then rash
-  - medication side effect rash
-  - mucous membrane sores rash
-last_reviewed: "2026-01-21"
+  - "new medication rash"
+  - "widespread rash after medicine"
+  - "mouth sores after medication"
+  - "rash and mouth ulcers"
+  - "drug reaction rash"
+  - "medicine allergy rash"
+  - "severe drug rash"
+  - "blistering rash after medication"
+  - "peeling skin after medicine"
+  - "painful rash after tablets"
+  - "what do i do if medication rash"
+  - "what do i do if mouth sores"
+  - "what do i do if rash spreads"
+  - "what do i do if tablets cause rash"
+  - "help i started tablets rash"
+  - "help i have mouth ulcers"
+  - "my medicine caused a rash"
+  - "my rash is spreading"
+  - "my mouth hurts after medicine"
+  - "rash with fever after medicine"
+  - "sore eyes and rash"
+  - "skin pain with rash"
+  - "swollen lips after medicine"
+  - "blisters after new medicine"
+  - "hives or drug rash"
+  - "allergic reaction or side effect"
+  - "rash or stevens johnson"
+  - "mouth ulcers or allergy"
+  - "rash after antibiotics"
+  - "rash after painkillers"
+  - "new perscription rash"
+  - "medecine rash and sores"
+last_reviewed: "2026-05-21"
+date_created: "2026-05-21"
 ---
 
 # What to do if… you start a new medication and develop a widespread rash or mouth sores (UK)
 
 ## Short answer
-Get urgent, same-day medical advice now, and **call 999 immediately** if you have any emergency symptoms (especially breathing trouble, swelling, blistering/peeling, or mouth/eye/genital sores).
+Call 999 or go to A&E now if you have a rash spreading across your body after starting a new medicine, or if you have mouth, eye, genital, face, lip, tongue, or throat soreness or swelling. Call 999 rather than travelling yourself if you have breathing trouble, collapse, confusion, severe drowsiness, or cannot get to A&E safely.
 
 ## Do not do these things
-- Do not “wait it out” if the rash is spreading quickly, you feel very unwell, or you have **mouth/eye/genital sores, blisters, peeling skin, fever, or skin pain**.
-- Do not take “one more dose” to see what happens.
-- Do not start leftover antibiotics, steroids, or strong creams to “cover it” without medical advice.
-- Do not take new over-the-counter medicines (including combination cold/flu products) unless a clinician/pharmacist advises it — it can muddy the picture.
-- Do not drive yourself for urgent care if you feel faint, drowsy, short of breath, or your lips/tongue/face are swelling.
+- Do not take one more dose just to see whether it gets worse.
+- Do not wait it out if the rash is spreading, painful, blistering, peeling, or comes with fever, mouth sores, sore eyes, genital sores, or feeling very unwell.
+- Do not drive yourself to urgent care if you feel faint, drowsy, short of breath, confused, or have swelling of the lips, tongue, face, mouth, throat, or eyes.
+- Do not start leftover antibiotics, steroid tablets, strong creams, or someone else’s medicine unless a clinician tells you to.
+- Do not add new over-the-counter medicines, including cold and flu products, unless a clinician or pharmacist says it is safe.
+- Do not try to decide alone that you are “definitely allergic” or “definitely fine”.
 
 ## What to do now
-1. **Check for “call 999 now” red flags. Call 999 immediately if any apply:**
-   - Trouble breathing, wheeze, throat tightness, trouble swallowing/talking, or swelling of the lips/face/tongue.
-   - A rash with **blisters**, **peeling**, or very painful skin.
-   - **Mouth sores**, sore/burning eyes, or sores on genitals — especially with fever or feeling very unwell.
-   - Dizziness, confusion, collapse, or you look blue/grey/pale.
-   - If you cannot call 999 yourself, get someone to call for you. Only consider going to **A&E** if you can do so safely and you’re not delaying emergency help.
-2. **If you’re not in immediate danger but it’s widespread or you have mouth sores: get urgent same-day advice.**
-   - Use **NHS 111 (online or phone)** right now, or contact your **GP/out-of-hours service** for urgent guidance.
-   - Tell them: the medication name, dose, when you started it, when the rash/sores began, and whether it’s getting worse.
-3. **Do not take the next dose until you’ve spoken to a clinician or pharmacist.**
-   - Exception: if you’ve been told a medicine must not be stopped suddenly (some do), **still seek urgent advice immediately** and explain what you’ve taken so far — let a professional tell you the safest next step.
-4. **Get your “evidence for care” together (this helps the clinician act quickly).**
-   - The medication packaging and leaflet (or a photo of them).
-   - A complete list of everything you’ve taken in the last week (prescribed, OTC, vitamins/herbals, patches/creams).
-   - Clear photos of the rash in good light (wide shot + close-up), and note if you have a temperature.
-5. **If you have an adrenaline auto-injector and you develop severe allergy symptoms, use it and call 999.**
-6. **If you’re seen by a clinician/hospital, ask for two practical safety steps before you leave:**
-   - That the suspected drug reaction is **recorded clearly** in your GP record/medication list (including the drug name and what happened).
-   - Clear written advice on **what to avoid next** and what symptoms mean you should return urgently.
+1. Check whether you need 999 immediately. Call 999 now if you have trouble breathing or talking, wheezing, throat tightness, trouble swallowing, swelling of the lips, mouth, face, tongue, throat, or eyes, blue or grey lips or tongue, collapse, confusion, severe drowsiness, or faintness.
+2. If you have a widespread rash after a new medicine, or mouth, eye, or genital sores, go to A&E now unless 999 is the safer route. Ask someone else to take you if possible; do not drive yourself if you feel unwell or unsafe to drive.
+3. Do not take the next dose until you have urgent advice from a clinician or pharmacist. If the medicine is one you have been told not to stop suddenly, say that clearly to the emergency call handler, A&E staff, prescriber, pharmacist, or clinician.
+4. Keep the medicine information with you. Take the packet, bottle, blister strip, label, leaflet, and any recent prescription message or discharge letter.
+5. Write down the key facts in one note: medicine name, dose, when you started it, when the rash or sores began, whether it is spreading, whether you have fever, skin pain, blisters, peeling, sore eyes, mouth sores, or genital sores, and anything else you have taken recently, especially anything started, stopped, or changed in the last few weeks.
+6. Take clear photos of the rash in good light if this does not delay urgent care. Take one wider photo showing the area and one closer photo; do not press, scratch, or burst blisters to get a better picture.
+7. If you have an adrenaline auto-injector and you think this is a severe allergic reaction, use it, call 999, and lie down. If breathing is difficult, raise your shoulders or sit up slowly.
 
 ## What can wait
-- Deciding whether you’re “definitely allergic” to the medication — that needs proper assessment.
-- Reporting the side effect (for example via the **MHRA Yellow Card** scheme).
-- Sorting work/school messages beyond a simple “I’m unwell and seeking urgent care”.
-- Deep research online about the condition or swapping medicines yourself.
+- Deciding whether the medicine is definitely the cause.
+- Deciding what medicine you should use instead.
+- Reporting the suspected side effect through the Yellow Card scheme.
+- Reading online images or forums to match the rash.
+- Work, school, or routine messages beyond saying you are seeking urgent medical help.
+- Sorting long-term allergy labels until a clinician has assessed what happened.
 
 ## Important reassurance
-It’s reasonable to feel alarmed — a new widespread rash or mouth sores can be serious, and acting quickly is the right call. Getting urgent help is not “overreacting”; it’s how you prevent rare but dangerous reactions from escalating.
+A widespread rash or mouth sores after a new medicine can be frightening, and it is sensible to treat it as urgent. You are not overreacting by getting checked quickly; this is the safer way to catch rare but serious reactions early.
 
 ## Scope note
-These are first steps to keep you safe and get you assessed quickly. Follow-up decisions (restarting/stopping, allergy labels, future alternatives) should be made with a clinician who can review your history and the exact medication.
+These are first steps only to help you get assessed and avoid risky delays. Later decisions about stopping, restarting, recording an allergy, avoiding related medicines, or choosing alternatives may need help from a GP, pharmacist, hospital clinician, or allergy specialist.
 
 ## Important note
-This is general information, not a diagnosis. If you’re worsening, unsure, or can’t get rapid advice, choose the safer option: urgent assessment (111/A&E/999 as appropriate).
+This is general information, not a diagnosis or medical, legal, financial, therapeutic, or other professional advice. If symptoms are worsening, you cannot get rapid advice, or you are unsure whether it is an emergency, use 999 or A&E as the safer option.
 
 ## Additional Resources
 - https://www.nhs.uk/conditions/stevens-johnson-syndrome/
 - https://www.nhs.uk/conditions/anaphylaxis/
-- https://www.nhs.uk/nhs-services/urgent-and-emergency-care-services/when-to-use-111/
+- https://www.nhs.uk/nhs-services/urgent-and-emergency-care-services/when-to-go-to-ae/
 - https://yellowcard.mhra.gov.uk/
-- https://www.gov.uk/guidance/the-yellow-card-scheme-guidance-for-healthcare-professionals
 - https://www.nice.org.uk/guidance/cg183/ifp/chapter/drug-allergy

@@ -1,71 +1,95 @@
-﻿---
+---
 title: "What to do if… you get an alert that your card details may have been exposed in a data breach"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
-  - card details exposed
-  - card number leaked
-  - payment card breach alert
-  - card details compromised
-  - possible card fraud warning
-  - data breach notification
-  - card used without permission
-  - unknown card transactions
-  - debit card details stolen
-  - credit card details stolen
-  - card details on dark web
-  - card saved online accounts
-  - recurring card payments risk
-  - bank impersonation scam
-  - phishing after data breach
-  - replace card urgently
-  - freeze card in banking app
-  - suspicious payment alerts
-last_reviewed: "2026-01-09"
+  - "card details exposed"
+  - "card details in data breach"
+  - "card breach alert"
+  - "payment card breach alert"
+  - "card number leaked"
+  - "bank card details leaked"
+  - "debit card details stolen"
+  - "credit card details stolen"
+  - "card details compromised"
+  - "card details on dark web"
+  - "what do i do if card details exposed"
+  - "what do i do if card number leaked"
+  - "what do i do if card breach alert"
+  - "what do i do if data breach card"
+  - "help i got breach alert"
+  - "help i card details leaked"
+  - "help i see unknown card payment"
+  - "help i got fraud warning"
+  - "my card details were exposed"
+  - "my card number was leaked"
+  - "my bank sent fraud alert"
+  - "my card is in breach"
+  - "unknown card transactions"
+  - "small test payment on card"
+  - "new card subscription appeared"
+  - "card wallet device unknown"
+  - "bank app fraud warning"
+  - "text about card breach"
+  - "email says card exposed"
+  - "possible card fraud warning"
+  - "bank impersonation after breach"
+  - "phishing after data breach"
+  - "recurring card payments risk"
+  - "saved card online account risk"
+  - "card details leacked"
+  - "bank card brech alert"
+  - "uk card breach alert"
+last_reviewed: "2026-05-12"
+date_created: "2026-05-12"
 ---
 
 # What to do if… you get an alert that your card details may have been exposed in a data breach (UK)
+
 ## Short answer
-Treat it as real until you’ve checked: use your bank/card issuer’s app or the phone number on your card/statement to freeze the card and review recent transactions.
+Treat the alert as real until you have checked it safely. Use your bank or card issuer’s app, website typed in yourself, or the phone number on your card or statement to freeze or block the card and review recent transactions.
 
 ## Do not do these things
-- Don’t click links or call numbers from the alert email/text/pop-up — use the banking app or a trusted number you already have.
-- Don’t share one-time passcodes, card PIN, or passwords — and don’t approve security prompts (for example “add this card to a wallet”) unless you started the action.
-- Don’t assume “no money missing” means you’re safe — stolen card details can be tested later with small charges.
-- Don’t cancel Direct Debits in panic — card details exposure mainly affects card payments. Focus on locking/replacing the card and checking for **recurring card payments/subscriptions**.
-- Don’t pay anyone offering to “remove your details from the dark web” based only on a text/email.
+- Don’t click links or call numbers from the alert email, text, advert, pop-up or social media message.
+- Don’t share one-time passcodes, your card PIN, full password or banking security answers.
+- Don’t approve a security prompt, wallet setup, payment approval or “new device” request unless you started it.
+- Don’t assume “no money missing” means nothing can happen; exposed card details may be tested later.
+- Don’t cancel Direct Debits in panic. Card exposure mainly affects card payments, including saved card payments and subscriptions.
+- Don’t pay anyone who says they can remove your details from the dark web based only on a message.
 
 ## What to do now
-1. **Verify the alert safely.** Open your banking app (or type the bank’s web address yourself) and check messages/alerts. If you need to call, use the number on the back of your card or on your statement.
-2. **Freeze/lock the card immediately (or ask the issuer to block it).** If your issuer offers an in-app freeze, use it. If not, call and ask them to block the card and issue a replacement with a new card number.
-3. **Check transactions line-by-line (not just the balance).** Look for small “test” payments, online purchases you don’t recognise, or new subscriptions. If anything is wrong, report it as an **unauthorised card payment** in-app/phone and ask what they need from you.
-4. **Tighten controls for the next few weeks (only if the features exist in your app).** Turn on instant spending notifications; temporarily restrict settings you don’t need (for example online/international/contactless) until the replacement card is active.
-5. **Check digital wallets and devices linked to your card.** In your banking app (or wallet app), look for card “wallets/devices” and remove the card from any device you don’t recognise. If you use a mobile wallet, remove the old card and re-add only after you’ve confirmed the replacement card details.
-6. **Secure the places where your card is saved.** Prioritise accounts that can spend quickly: major retailers, delivery apps, ride-hailing, app stores, and any merchant wallet. Remove the saved card. If you reused passwords, change them — starting with your **email account** — and turn on two-step verification where available.
-7. **Expect follow-up scams and cut them off quickly.** If someone contacts you claiming to be your bank about “the breach” or “fraud”, end the contact. Then call your bank back using a trusted number (card/statement/app).
-8. **If the breach included identity details (not just a card number), consider extra protection.** If your name/address/date of birth (or similar) were exposed and you feel at heightened risk, you can consider a fraud-protection flag such as **Protective Registration**. This can add extra checks (and delays) when you apply for credit and typically lasts a fixed period, so it’s optional and situation-dependent.
-9. **Keep a short incident log.** Note the date/time of the alert, what it claimed was exposed, actions you took, who you spoke to, and any reference numbers. Screenshot suspicious transactions.
+1. **Verify the alert without using the alert.** Open your banking app, type your bank’s web address yourself, or use the number on your card or statement. Check whether your bank or card issuer has sent a matching secure message.
+2. **Freeze, lock or block the card.** Use the in-app freeze if your issuer offers it. If not, call the issuer and ask them to block the card and issue a replacement.
+3. **Check transactions line by line.** Look for small test payments, online purchases, new subscriptions or merchant names you do not recognise. If you see anything wrong, report it to your bank or card issuer as an unauthorised card payment.
+4. **Turn on useful card alerts if they are available.** Use instant spending notifications and any temporary controls your app already offers, such as online, international or contactless controls, until the replacement card is working.
+5. **Check wallets and linked devices.** In your banking app or wallet app, look for devices or digital wallets linked to the card. Remove anything you do not recognise and follow your issuer’s instructions for the replacement card.
+6. **Remove the exposed card from places that can spend quickly.** Start with major retailers, delivery apps, travel apps, ride-hailing apps, app stores, subscription services and merchant wallets.
+7. **Secure the account that protects the others.** If your email password was reused anywhere, change your email password first and turn on two-step verification if available. Then change passwords for accounts where the card was saved.
+8. **Cut off follow-up scams.** If someone contacts you about the breach, fraud, a refund, a safe account, remote access, or “confirming” codes, end the contact. Contact your bank again using the app, typed website, card number or statement number.
+9. **If personal identity details were exposed too, consider extra identity checks.** If the breach included your name, address, date of birth, documents, or enough information for credit applications, Cifas Protective Registration may be worth considering. It is optional, lasts 24 months, can slow genuine applications, and does not stop card transactions.
+10. **Keep a short incident note.** Record the date and time of the alert, what it said was exposed, what you did, who you spoke to, and any reference numbers. Save screenshots of suspicious transactions or messages.
 
 ## What can wait
-- Replacing other cards “just in case” or switching banks.
-- Deep-cleaning every password you own — focus first on the card, your email, and the accounts where the card is saved.
-- Complaints/escalations about the breach notice itself.
-- Reporting to fraud agencies unless you actually see fraud (if you do see fraud, you can report it — but locking/replacing the card comes first).
+- Switching banks or replacing unrelated cards.
+- Changing every password you have. Start with email and accounts where the exposed card was saved.
+- Complaining about the organisation that sent the breach notice.
+- Full fraud reporting, unless money has been taken, someone is in immediate danger, or the fraud is happening now. Locking or blocking the card comes first.
+- Credit-file checks, unless identity details were exposed or you later see signs of identity fraud.
 
 ## Important reassurance
-This kind of alert is unsettling, but you can reduce the risk quickly: lock/replace the card through your issuer, monitor transactions, and avoid scam follow-ups. You don’t need to solve everything today.
+A card exposure alert is unsettling, but the first protective actions are small and practical: check through a trusted route, block the card, review transactions, and ignore pressure from anyone who contacts you unexpectedly. You do not need to solve every possible risk today.
 
 ## Scope note
-This is first-steps guidance for the hours and days after an exposure alert. If you later find identity fraud (new credit, loans, accounts), you may need additional specialist support and a longer recovery process.
+These are first steps for the hours and days after a card exposure alert. If you later find identity fraud, new credit applications, account takeover, or a dispute with your bank or card issuer, you may need specialist help.
 
 ## Important note
-This is general information, not financial or legal advice. Bank processes and protections vary by provider and by the type of payment. If you see suspicious activity, contact your bank/card issuer using trusted contact details immediately.
+This is general information, not financial, legal, cyber-security or professional advice. Bank processes and protections vary by provider and by the type of payment. If you see suspicious activity, contact your bank or card issuer using trusted contact details immediately.
 
 ## Additional Resources
-- https://www.citizensadvice.org.uk/debt-and-money/banking/your-payment-card-was-used-without-your-permission-distance-sales/
 - https://www.fca.org.uk/consumers/fraudulent-payments
+- https://stopthinkfraud.campaign.gov.uk/recovery-from-fraud/recovering-losses/what-to-do-if-youve-shared-personal-information/
+- https://stopthinkfraud.campaign.gov.uk/reporting-fraud/
 - https://www.takefive-stopfraud.org.uk/type-dont-tap/
 - https://www.cifas.org.uk/pr
-- https://www.reportfraud.police.uk/debit-and-credit-card-fraud/
 - https://ico.org.uk/for-the-public/identity-theft/
 - https://www.financial-ombudsman.org.uk/consumers/complaints-can-help/fraud-scams

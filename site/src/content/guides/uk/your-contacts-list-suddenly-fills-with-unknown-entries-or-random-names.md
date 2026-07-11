@@ -1,94 +1,114 @@
-﻿---
+---
 title: "What to do if… your contacts list suddenly fills with unknown entries or random names"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - contacts list filled with strangers
-  - unknown contacts suddenly appearing
-  - random names in contacts
-  - phone contacts duplicated and scrambled
-  - icloud contacts look wrong
-  - google contacts suddenly changed
-  - outlook contacts synced weird
-  - account sync gone wrong
-  - hacked account warning sign
-  - suspicious contacts after app install
-  - contacts imported without permission
-  - address book suddenly changed
-  - contacts list corrupted
-  - someone added contacts to my phone
-  - new contacts i don’t recognise
-  - contact sync loop
-  - phone compromised concern
-  - contacts hijacked
-  - unexpected entries in address book
-last_reviewed: "2026-03-09"
+  - "contacts list filled with unknown entries"
+  - "contacts list full of random names"
+  - "unknown contacts suddenly appearing"
+  - "random names in contacts list"
+  - "phone contacts filled with strangers"
+  - "address book has unknown entries"
+  - "contacts list changed by itself"
+  - "contacts list looks corrupted"
+  - "icloud contacts list wrong"
+  - "google contacts list wrong"
+  - "outlook contacts list wrong"
+  - "what do i do if unknown contacts appeared"
+  - "what do i do if contacts look wrong"
+  - "what do i do if random names appeared"
+  - "what do i do if my contacts changed"
+  - "help i have unknown contacts"
+  - "help i see random names"
+  - "help i think contacts synced wrong"
+  - "help i think my account was hacked"
+  - "my contacts list is full of strangers"
+  - "my address book changed overnight"
+  - "new names i do not recognise"
+  - "contacts duplicated and scrambled"
+  - "contacts synced from wrong account"
+  - "contacts appeared after app install"
+  - "contacts appeared after work profile"
+  - "contacts mixed with someone elses"
+  - "account sync gone wrong"
+  - "phone hacked contacts changed"
+  - "contacs list has strangers"
+  - "unkown contacts in phone"
+last_reviewed: "2026-05-24"
+date_created: "2026-05-24"
 ---
 
 # What to do if… your contacts list suddenly fills with unknown entries or random names (UK)
 
 ## Short answer
-Pause contacts syncing and secure the account that controls your contacts (usually your Apple Account/iCloud, Google, Microsoft, or work account) before you delete anything.
+Pause contacts syncing and secure the account that controls your contacts, usually your Apple Account, Google account, Microsoft account, or work account, before you delete anything.
 
 ## Do not do these things
-- Don’t start mass-deleting contacts yet — you can wipe your real contacts and make recovery harder.
-- Don’t message or call the unknown entries “to see who they are” — that can confirm your number is active.
-- Don’t install random “cleaner” or “contacts fix” apps — some are data-harvesting.
-- Don’t share one-time codes (texts, authenticator prompts) with anyone, even if they claim to be “support”.
+- Don’t start mass-deleting contacts yet; you could wipe real contacts and make recovery harder.
+- Don’t message or call unknown entries to see who they are.
+- Don’t install random “cleaner” or “contacts fix” apps.
+- Don’t share one-time codes, text codes, or authenticator prompts with anyone.
+- Don’t remove a work or school management profile unless you know it is safe to do so.
 
 ## What to do now
-1. **Stop the spread for a moment (sync pause).**
-   - Prefer turning off **Contacts syncing** for the main account (iCloud/Google/Microsoft) rather than full Airplane Mode if you think you’ll need to receive sign-in codes or calls.
+1. **Pause contacts syncing for the account that seems affected.**
+   - Turn off Contacts syncing for iCloud, Google, Microsoft, or the work account if you can find that setting.
+   - Avoid full Airplane Mode if you still need to receive sign-in codes or important calls.
 
-2. **Make a quick backup/export of what you currently have (before changes).**
-   - Export contacts from the main account (for example a vCard/CSV export), if you can.
-   - If you can’t export, take a few screenshots showing examples of the random entries and the time you noticed.
+2. **Make a quick record before changing things.**
+   - Export contacts from the main web contacts page if you can.
+   - If you cannot export, take screenshots showing a few unknown entries and the time you noticed them.
 
-3. **Check whether an account takeover is likely.**
-   - Look for: password reset emails you didn’t request, “new sign-in” alerts, unknown devices logged in, new forwarding/recovery email/phone you didn’t add, or new apps with access.
-   - If any of these are present, treat it as a **compromised account**.
+3. **Check whether the account may be compromised.**
+   - Look for password reset emails you did not request.
+   - Check for new sign-in alerts, unknown devices, changed recovery details, new email forwarding rules, or apps you do not recognise.
+   - If any of these are present, treat the syncing account as possibly compromised.
 
-4. **Secure the account that syncs contacts (do this even if you’re not sure).**
-   - Change the password for that account **from a trusted device** (ideally a computer you control).
-   - Turn on **two-step verification** (or confirm it’s on).
-   - Review and remove **unknown devices** connected to the account.
-   - Review and revoke **third-party app access** you don’t recognise (apps that can read/manage contacts).
+4. **Secure the account that syncs contacts.**
+   - Change the password from a trusted device.
+   - Turn on two-step verification or multi-factor authentication if it is available.
+   - Sign out unknown devices from the account.
+   - Remove third-party app access you do not recognise, especially apps with contacts access.
+   - Check email forwarding rules and filters if the same account also handles email.
 
-5. **Check your phone for management profiles/work accounts that might be injecting contacts.**
-   - If this is a work phone or you’ve ever installed a workplace profile (MDM), school account, or “device management” profile, it may be pulling a shared directory into Contacts.
-   - If you’re not sure, pause and contact your IT/helpdesk before removing profiles you need for work access.
+5. **Check whether a work, school, or device-management account is adding contacts.**
+   - Look for a work email account, school account, shared directory, mobile device management profile, or company address book.
+   - If it is a managed device, contact your IT helpdesk before removing profiles or accounts.
 
-6. **Identify the source by comparing devices.**
-   - Check another device signed into the same account (tablet/laptop/web contacts page).
-   - If the random contacts appear there too, it’s likely **account/sync-side** (not just the phone).
+6. **Compare the contacts on another signed-in device or on the web.**
+   - Check the same contacts account on a tablet, laptop, or web contacts page.
+   - If the unknown contacts appear there too, clean up the web account after securing it, because that is usually the source being synced back to devices.
 
-7. **Recover safely (after you’ve secured and backed up).**
-   - If you use **iCloud**, use iCloud.com **Data Recovery → Restore Contacts** to roll back to an earlier archived version (where available).
-   - If you use **Google Contacts**, use **Undo changes** (available for changes within the past 30 days).
-   - Then delete any remaining unknown entries from the **web contacts** view so you’re cleaning the “source of truth,” not just one device.
+7. **Recover contacts only after the account is secured and recorded.**
+   - For iCloud, use iCloud.com Data Recovery or Restore Contacts if available; restoring an earlier version may replace contacts across devices.
+   - For Google Contacts, use Undo changes if the changes were within the past 30 days.
+   - For Outlook or Microsoft contacts, check the People or Contacts Deleted folder and Recover deleted option if available.
+   - Avoid permanent deletion until you are sure you have the right account and a usable backup or restore point.
 
-8. **If you lost money, were scammed, or suspect criminal access, report it.**
-   - In **England/Wales/Northern Ireland**, report to **Report Fraud** (this replaced Action Fraud as the public reporting route).
-   - In **Scotland**, report via **Police Scotland** (101 for non-emergency; 999 in an emergency).
+8. **Report it if money was lost, fraud happened, or criminal access seems likely.**
+   - In England, Wales, or Northern Ireland, use Report Fraud, which replaced Action Fraud as the public reporting route in December 2025.
+   - In Scotland, contact Police Scotland on 101 for non-emergency reporting, or call 999 if there is an emergency.
 
 ## What can wait
-- You do **not** need to decide today whether to factory reset your phone.
-- You do **not** need to contact every person in your address book.
-- You do **not** need to “clean” everything perfectly right now — the priority is stopping syncing damage and locking the account.
+- You do not need to decide today whether to factory reset your phone.
+- You do not need to contact every person in your address book.
+- You do not need to clean every entry perfectly right now.
+- You do not need to install extra security apps before securing the account and stopping the sync problem.
 
 ## Important reassurance
-This can be caused by a sync/import mishap (for example after adding an email/work account or granting a new app access) and it can also be an early sign of account compromise. Securing the account first is the safest move and helps prevent irreversible loss of your real contacts.
+Unknown contacts can appear after a sync mistake, imported account, work directory, or app permission change. It can also be an early sign of account compromise, so securing the account first is a careful, reversible first move.
 
 ## Scope note
-These are first steps to stabilise the situation and prevent further loss or exposure. If you confirm account compromise, you may need additional steps (email security, banking checks, identity protection), but those can come after the contact changes stop.
+These are first steps only to stabilise the contacts problem and reduce further loss or exposure. Later decisions, such as full account recovery, device reset, banking checks, or workplace IT action, may need specialist help.
 
 ## Important note
-This guide is general information, not professional IT, legal, or security advice. If you’re on a managed work device, your employer’s policies and IT tools may change what you can safely remove and how recovery works.
+This guide is general information, not professional IT, legal, financial, security, or other professional advice. If the device or account is managed by an employer, school, or organisation, their policies and tools may affect what you can safely change.
 
 ## Additional Resources
 - https://www.ncsc.gov.uk/guidance/recovering-a-hacked-account
 - https://support.apple.com/en-gb/102508
 - https://support.apple.com/en-gb/guide/icloud/mm1d9cfdb498/icloud
 - https://support.google.com/contacts/answer/7280886
-- https://www.reportfraud.police.uk/
+- https://support.microsoft.com/en-gb/office/restore-or-recover-a-deleted-contact-in-outlook-51c83288-6888-4dcd-8c99-4932daabf643
 - https://www.reportfraud.police.uk/reporting-a-fraud/
+- https://www.cityoflondon.police.uk/news/city-of-london/news/2025/december/report-fraud-service-goes-live-with-full-public-launch-in-january-2026/

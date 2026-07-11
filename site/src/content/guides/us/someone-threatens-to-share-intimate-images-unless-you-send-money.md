@@ -1,79 +1,104 @@
-﻿---
+---
 title: "What to do if… someone threatens to share intimate images unless you send money"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - sextortion
-  - intimate images blackmail
-  - threatened to leak nudes
-  - pay money or they post
-  - online sexual extortion
-  - webcam blackmail
-  - dating app blackmail
-  - instagram sextortion
-  - snapchat sextortion
-  - scammer has my contacts
-  - deepfake nude threat
-  - hacked and blackmail
-  - stop paying now
-  - preserve messages evidence
-  - report abusive account
-  - fbi ic3 report
-  - ncmec cybertipline
-  - take it down tool
-  - under 18 image threat
-  - someone is extorting me
-last_reviewed: "2026-03-12"
+  - "someone threatens to share intimate images"
+  - "someone threatens to leak intimate images"
+  - "someone wants money for intimate images"
+  - "intimate images blackmail"
+  - "intimate image extortion"
+  - "online intimate image threat"
+  - "nude image blackmail"
+  - "sextortion threat"
+  - "financial sextortion threat"
+  - "webcam image blackmail"
+  - "what do i do if someone has my nudes"
+  - "what do i do if someone threatens my nudes"
+  - "what do i do if someone demands money for nudes"
+  - "what do i do if someone may leak intimate images"
+  - "help i am being sextorted"
+  - "help i am being blackmailed"
+  - "my intimate images may be shared"
+  - "my nudes may be leaked"
+  - "my contacts may get my nudes"
+  - "my intimate images were threatened"
+  - "scammer keeps demanding money"
+  - "threatening messages about intimate images"
+  - "unknown account has my contacts"
+  - "fake account threatens intimate images"
+  - "deepfake intimate image threat"
+  - "payment demand after sending nudes"
+  - "revenge porn threat"
+  - "romance scam with nude threat"
+  - "catfish blackmail with nudes"
+  - "hacked account nude threat"
+  - "sextorsion threat"
+  - "sextorion threat"
+  - "under 18 intimate image threat"
+  - "adult intimate image threat"
+  - "dating app intimate image threat"
+  - "social media intimate image threat"
+  - "webcam intimate image threat"
+last_reviewed: "2026-06-05"
+date_created: "2026-06-05"
 ---
 
 # What to do if… someone threatens to share intimate images unless you send money (USA)
 
 ## Short answer
-Do not pay, and stop engaging with the person. Save the basics (messages/usernames/payment details) and report it—sextortion is a crime, and you deserve support.
+Do not send money or more images while you are panicked. If it is safe, keep the messages and account details, then block and report the account. Threats like this are abusive and may be criminal; this is not your fault.
 
 ## Do not do these things
-- Don’t pay “to end it” (it often triggers repeat demands).
-- Don’t negotiate, threaten back, or send more images/information.
-- Don’t delete chats/accounts in a panic before saving the essentials.
-- Don’t click links they send or install anything they suggest.
-- Don’t share or forward any explicit images—especially if there’s any chance someone shown is under 18.
+- Do not send more money, images, videos, or personal information while you are under pressure.
+- Do not negotiate, threaten back, or click links sent by the person.
+- Do not delete your profile or messages before deciding whether you may need them.
+- Do not download, forward, or resend explicit images, especially if anyone shown may have been under 18 when an image or video was created.
+- Do not hire a for-profit sextortion-assistance company while you are panicked.
 
 ## What to do now
-1. **Save a minimal record (2–5 minutes, then stop).**  
-   Keep: the account/profile name, the threat, the demand, any payment handles, and timestamps. If you screenshot, focus on the *threat/demand/payment details* and avoid capturing/redistributing explicit images.
-2. **Stop contact, block, and report the account in the app/site.**  
-   Use the platform’s reporting options for extortion/blackmail and intimate-image abuse if available. Blocking is fine after you’ve saved the basics.
-3. **If you paid already, stop paying and contact your bank/payment app immediately.**  
-   Ask about stopping further payments, securing your account/cards, and documenting the fraud/blackmail (without assuming recovery is guaranteed).
-4. **Secure your accounts to prevent escalation.**  
-   Change passwords for email + affected social accounts, turn on two-factor authentication, and check recovery email/phone settings.
-5. **Report it through the main federal cyber reporting channel.**  
-   File a report with the FBI’s Internet Crime Complaint Center (**IC3**). If you feel physically unsafe or threatened with immediate harm, call **911**. You can also report to your local police department.
-6. **If you are under 18 (or anyone shown may be under 18): use child-safety reporting and tools.**  
-   Do not share/forward the image(s). Make a report to **NCMEC’s CyberTipline**, and use **Take It Down** (NCMEC) to help remove/limit spread of nude or sexually explicit images/videos taken before age 18.
-7. **Tell one safe person what’s happening and ask them to stay with you while you report.**  
-   Pick someone steady (friend, parent/guardian, partner, advocate). The goal is to reduce panic and stop you being isolated by the threat.
+1. **Keep the basics if it is safe.**  
+   Keep the messages, account name, profile link, and any payment details already visible to you. Do not download, forward, or resend explicit images.
+
+2. **Block and report the account.**  
+   When you are ready, block the account and use the platform’s report option for blackmail, extortion, harassment, or non-consensual intimate images.
+
+3. **If you sent money, contact the payment provider.**  
+   Contact the bank, card issuer, payment app, gift-card company, wire-transfer company, or company you used to send the money. Say that you sent money because of a scam or blackmail threat and ask whether the payment can be stopped or reversed. Recovery is not guaranteed, but it is worth asking promptly.
+
+4. **If the person may have access to an account, secure it.**  
+   If you shared a password, clicked a suspicious link, or think an account was accessed, change that password. Change it anywhere else you reused it, and turn on multi-factor authentication where available.
+
+5. **Use the image-removal tool that fits the image.**  
+   If the image or video was taken before you were 18, you can use NCMEC’s Take It Down service. Do not download or share an image in order to submit it. For an adult intimate image or video of you that is already on your device, check StopNCII.org’s eligibility before creating a case.
+
+6. **Choose a reporting route when you are ready.**  
+   For an online financial threat, you can file an IC3 complaint. If you are under 18, or anyone shown may have been under 18 when an image or video was created, use NCMEC’s CyberTipline. If you are in immediate physical danger, call 911.
+
+7. **Tell one safe person.**  
+   Ask a steady friend, parent, guardian, partner, or advocate to stay with you while you take the next step. You do not have to handle the threat alone.
 
 ## What can wait
-- You do not need to decide right now whether to publicly explain anything or confront the person.
-- You do not need to keep checking your phone constantly—make the reports and then take a break.
-- You do not need to make long-term decisions today; focus on stopping escalation.
-- You do not need to pay a for-profit “sextortion help” company in the first hours—start with law enforcement and nonprofit reporting/support channels.
+- You do not need to decide now whether to confront the person or explain anything publicly.
+- You do not need to keep checking your phone constantly.
+- You do not need to make long-term decisions today.
+- You do not need to hire a for-profit sextortion-assistance company now.
 
 ## Important reassurance
-These threats are designed to create urgency and shame so you comply fast. Many people respond out of panic at first—none of that makes you responsible. The safest path is to stop payments, stop contact, and use real reporting/support channels.
+The threat is meant to create panic, shame, and urgency. Sending an image, replying, or paying once does not make this your fault. Take one step at a time and choose the support and reporting routes that feel manageable.
 
 ## Scope note
-This is first-step guidance to stabilise the situation and reduce harm. Next steps (ongoing safety, legal options, broader support) can be handled later, ideally with specialist help.
+These are first steps to stabilize the situation and reduce harm. Later decisions about ongoing safety, legal options, or specialist support can wait until you have more support.
 
 ## Important note
-This is general information, not legal or clinical advice. If you’re under 18 (or unsure), do not share or forward explicit material and use child-safety reporting/support routes. If you feel in immediate danger, call 911.
+This is general information, not legal, medical, financial, therapeutic, or other professional advice. If you are in immediate physical danger, call 911.
 
 ## Additional Resources
 - https://www.fbi.gov/how-we-can-help-you/scams-and-safety/common-frauds-and-scams/sextortion
-- https://www.ic3.gov/
 - https://complaint.ic3.gov/
 - https://www.ic3.gov/PSA/2023/PSA230407
 - https://www.missingkids.org/gethelpnow/cybertipline
 - https://takeitdown.ncmec.org/
 - https://www.missingkids.org/theissues/sextortion
+- https://stopncii.org/how-it-works/?lang=en-us
+- https://consumer.ftc.gov/articles/what-do-if-you-were-scammed

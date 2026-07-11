@@ -1,94 +1,124 @@
-﻿---
+---
 title: "What to do if… your calendar fills with spam events that include links and phone numbers"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
-  - calendar spam events
-  - google calendar spam
-  - iphone calendar spam
-  - outlook calendar spam
-  - spam invites with links
-  - calendar events with phone numbers
-  - random appointments on my calendar
-  - unwanted calendar notifications
-  - subscribed calendar i didnt add
-  - meeting invites i never accepted
-  - calendar phishing
-  - spam calendar subscription
-  - suspicious calendar entries
-  - fake virus warning calendar
-  - events added without permission
-  - calendar account compromised
-  - stop automatic calendar invites
-  - remove spam from calendar app
-last_reviewed: "2026-03-09"
+  - "calendar spam events"
+  - "spam calendar events"
+  - "google calendar spam"
+  - "iphone calendar spam"
+  - "outlook calendar spam"
+  - "apple calendar spam"
+  - "calendar invites with links"
+  - "calendar events with phone numbers"
+  - "fake calendar virus alerts"
+  - "unwanted calendar notifications"
+  - "what do i do if calendar spam appears"
+  - "what do i do if calendar has spam"
+  - "what do i do if calendar links appear"
+  - "what do i do if calendar invites are fake"
+  - "help i have calendar spam"
+  - "help i got fake calendar invites"
+  - "help i clicked calendar link"
+  - "help i called calendar number"
+  - "my calendar has spam events"
+  - "my calendar is full of spam"
+  - "my phone calendar has virus warnings"
+  - "calendar event says virus"
+  - "random appointments on my calendar"
+  - "meeting invites i never accepted"
+  - "unknown calendar on phone"
+  - "subscribed calendar i didnt add"
+  - "calendar reminders keep popping up"
+  - "suspicious calendar entries"
+  - "calendar phishing"
+  - "spam calendar subscription"
+  - "fake support calendar alert"
+  - "fake virus warning calendar"
+  - "calender spam events"
+  - "calander spam invites"
+  - "work calendar spam"
+last_reviewed: "2026-06-27"
+date_created: "2026-06-27"
 ---
 
 # What to do if… your calendar fills with spam events that include links and phone numbers (USA)
+
 ## Short answer
-Don’t click or call anything in the events. Remove the source (subscribed calendar, invite auto-add setting, or connected app), then secure the account that owns the calendar.
+Do not click the links or call the numbers in the events. Find and remove the source of the events, such as a subscribed calendar, automatic invite setting, or connected app with calendar access.
 
 ## Do not do these things
-- Do not click links in the event body or attachments.
+- Do not click links in the event body, location field, notes, or attachments.
 - Do not call the phone numbers in the spam events.
-- Do not accept/decline spam invites just to clear them (that can signal you’re an active target).
-- Do not install software recommended by the event (“security app”, “support tool”, “virus remover”).
-- Do not assume deleting visible events is enough if new ones keep appearing—stop what’s creating them.
+- Do not install any app, browser extension, remote-support tool, “security app”, or “virus remover” promoted by the event.
+- Do not use an unsubscribe link inside the spam event.
+- Do not accept or decline spam invites just to clear them, because responding may show the sender that the address is active.
+- Do not assume deleting visible events is enough if new events keep appearing.
 
 ## What to do now
-1. **Pause and take one screenshot.**  
-   Capture one spam event showing the **calendar name/source** and the text with the link/phone number (helps if you report it or your admin/IT asks).
+1. **Take one screenshot before removing anything.**  
+   Capture one spam event showing the calendar name or source, plus the link or phone number. This can help if you report it or ask IT for help.
 
-2. **Identify the most likely cause (choose one).**
-   - **A new, unknown calendar appears** in your calendar list → likely a **subscribed spam calendar**.
-   - **Lots of unsolicited meeting invites** → your calendar may be **auto-adding invitations**.
-   - **Started after an app/service change** → a **connected app** may have calendar access.
+2. **Find the source of the spam.**
+   - If you see a calendar name you do not recognise, it is likely a subscribed or added calendar.
+   - If the events look like meeting invitations, your calendar may be automatically adding invitations.
+   - If the events started after installing or connecting an app, that app may have calendar access.
 
-3. **If you’re on iPhone/iPad (Apple Calendar / iCloud): remove the subscription/source.**
-   - In **Calendar**, open a spam event and tap **Unsubscribe from this Calendar** (or delete the subscribed calendar).
-   - Also check **Settings → Calendar → Accounts → Subscribed Calendars** and remove anything you don’t recognize.
-   - If you see **“Report Junk”** for an invite, you can use it (availability can vary by device/account).
+3. **If you use iPhone, iPad, Apple Calendar, or iCloud, remove the calendar or event source.**
+   - Open the Calendar app and tap the spam calendar or one spam event.
+   - Use **Delete Calendar**, **Unsubscribe**, or **Delete Event** if shown.
+   - If **Report Junk** appears for an event from an unknown contact, you can use it.
+   - Check your calendar list for any calendar you do not recognise and delete, unsubscribe from, or hide it.
 
-4. **If you’re on Google Calendar: reduce what gets added, then remove what’s already there.**
-   - Use **Report as spam** if it’s available (this typically applies to events actually sent through Google Calendar; it may not appear for events created by other apps/providers).
-   - In Google Calendar settings, set **“Add invitations to my calendar”** so unknown senders aren’t added automatically (for example, only add when you respond / only if the sender is known).
-   - Remove any **subscribed/other calendars** you don’t recognize.
+4. **If you use Google Calendar, report what you can and stop automatic additions.**
+   - On a computer, open Google Calendar and use **Report as spam** if it appears for the event.
+   - In Google Calendar settings, go to **Event settings → Add invitations to my calendar**.
+   - Choose a safer option such as **Only if the sender is known** or **When I respond to the invitation in email**.
+   - Delete, unsubscribe from, or remove any calendar you do not recognise.
 
-5. **If you’re on Outlook / Microsoft 365: turn off “events from email” and remove unknown calendars.**
-   - In **Outlook on the web / Outlook.com** calendar settings, turn **“Events from email”** off (or tighten it) so Outlook doesn’t create events automatically from messages.
-   - Remove unknown additional calendars (subscriptions/shared calendars) that appeared around the time the spam started.
-   - If Outlook desktop is auto-handling meeting responses and creating clutter, you can review settings like **“Automatically process meeting requests and responses…”** (this is about response handling, not a cure for spam calendars).
+5. **If you use Outlook, Outlook.com, or Microsoft 365, stop email-created events and remove unknown calendars.**
+   - In Outlook on the web, open **Settings → Calendar → Events from email**.
+   - Choose settings that stop event summaries from appearing on your calendar, or turn off automatic calendar additions where available.
+   - Hide or remove any additional, shared, or subscribed calendars you do not recognise.
+   - If it is a work or school account, contact your IT or security team before changing organisation-managed settings.
 
-6. **Secure the account behind the calendar (the step that prevents repeat attacks).**
-   - Change your password for the underlying account (Google/Apple/Microsoft/email) and turn on **multi-factor authentication**.
-   - Review **connected apps / third-party access** and revoke anything unfamiliar—especially anything with calendar permissions.
-   - Review account **sign-in activity/devices** and sign out of sessions you don’t recognize.
+6. **Review calendar access for connected apps.**
+   - In the account that owns the calendar, review third-party apps, connected services, extensions, and devices.
+   - Revoke calendar access for anything you do not recognise or no longer use.
+   - Review recent sign-ins or devices and sign out of sessions you do not recognise.
 
-7. **Report it if you clicked, called, installed something, paid, or shared info (optional otherwise).**
-   - Report scams and fraud at the federal reporting site (type it in yourself—don’t use any link inside the spam event).
-   - For cyber-enabled fraud, you can also file a report with the FBI’s **Internet Crime Complaint Center (IC3)** (again: navigate there directly).
-   - If it’s a work/school account, report to your IT/security team so they can tighten org-wide settings or block sources.
+7. **Secure the account if anything suggests compromise.**
+   - Change the password if you clicked a link, shared information, installed something, reused that password elsewhere, or see unfamiliar sign-ins.
+   - Turn on multi-factor authentication if it is available.
+   - Check recovery email addresses and phone numbers for anything you did not add.
+
+8. **Report it if you clicked, called, installed something, paid, or shared information.**
+   - Report scams or fraud through the FTC’s official reporting site.
+   - For cyber-enabled fraud, you can also report to the FBI’s Internet Crime Complaint Center.
+   - Type the reporting sites directly into your browser or use a trusted bookmark, not a link from the spam event.
+   - If this is a work or school calendar, report it to your IT or security team.
 
 ## What can wait
-- You don’t need to delete every spam entry immediately if they keep regenerating—removing the subscription/setting/app access is the priority.
-- You don’t need to decide whether your phone/computer is “infected” right now; calendar spam often comes from invites/subscriptions rather than device malware.
-- You don’t need to confront the sender or use any “unsubscribe” link inside the event.
+- You do not need to delete every spam event one by one before removing the source.
+- You do not need to decide right now whether your phone or computer is “infected”; calendar spam often comes from invitations, subscriptions, or app access rather than device malware.
+- You do not need to contact the sender, argue with them, or use any phone number in the event.
+- You do not need to buy security software because a calendar event says there is a virus.
 
 ## Important reassurance
-Calendar spam is meant to create urgency and get you to click or call. If you don’t engage and you remove the underlying source (subscription/auto-add/app access), it usually stops quickly.
+Calendar spam is designed to create urgency and push you into clicking or calling. Removing the calendar source, tightening invite settings, and checking app access usually stops the immediate flood without engaging with the spammer.
 
 ## Scope note
-These are first steps to stabilize and reduce harm. If you entered passwords, installed software, or paid anyone, you may need account recovery and fraud-response steps next.
+These are first steps only. Later decisions may need specialist help from your calendar provider, workplace IT, bank, card issuer, or a fraud-response service if you paid money, shared sensitive information, or gave someone access to your device.
 
 ## Important note
-This is general information, not legal or professional advice. If you believe an account is compromised, prioritize securing it (password + MFA + revoke access) and seek help from your provider or workplace IT.
+This is general information, not legal, financial, technical, cybersecurity, or professional advice. For an account you believe is compromised, use your provider’s official recovery process or ask your workplace IT or security team for help.
 
 ## Additional Resources
 - https://support.apple.com/en-us/102444
 - https://support.google.com/calendar/answer/13155911
 - https://support.google.com/calendar/answer/13159188
+- https://support.google.com/calendar/answer/37188
 - https://support.microsoft.com/en-us/office/automatically-add-events-from-your-email-to-your-calendar-32e5cf0c-3e65-4870-9ff9-df3683d3fc97
-- https://support.microsoft.com/en-us/office/calendar-settings-in-outlook-on-the-web-12cba5a4-4f95-4d00-bfc3-b694aa67ac8f
+- https://support.microsoft.com/en-us/outlook/calendar/delete-a-calendar-in-outlook
 - https://reportfraud.ftc.gov/
 - https://www.ic3.gov/
-- https://www.fbi.gov/how-we-can-help-you/scams-and-safety/common-frauds-and-scams/spoofing-and-phishing

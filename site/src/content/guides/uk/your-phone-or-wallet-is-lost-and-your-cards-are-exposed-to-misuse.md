@@ -1,90 +1,118 @@
-﻿---
+---
 title: "What to do if… your phone or wallet is lost and your cards are exposed to misuse"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
-  - phone lost with bank cards
-  - wallet missing with cards
-  - wallet stolen with cards
-  - phone stolen and cards
-  - bank cards exposed to misuse
-  - card details may be compromised
-  - contactless card in missing wallet
-  - debit card might be used
-  - credit card might be used
-  - mobile wallet may be accessed
-  - apple pay risk after loss
-  - google pay risk after loss
-  - banking app on lost phone
-  - cards taken from wallet
-  - urgent card fraud concern
-  - lost purse with cards
-  - stolen purse with cards
-  - card misuse after losing phone
-last_reviewed: "2026-01-08"
+  - "lost phone with cards"
+  - "lost wallet with cards"
+  - "stolen wallet with cards"
+  - "stolen phone with cards"
+  - "missing purse with cards"
+  - "cards exposed to misuse"
+  - "bank cards missing"
+  - "contactless cards missing"
+  - "phone wallet cards lost"
+  - "card details exposed"
+  - "what do i do if my phone is lost"
+  - "what do i do if my wallet is lost"
+  - "what do i do if cards are exposed"
+  - "what do i do if bank cards are missing"
+  - "help i lost my wallet"
+  - "help i lost my phone"
+  - "help i lost my cards"
+  - "help i think my cards were stolen"
+  - "my wallet has gone missing"
+  - "my phone has banking apps"
+  - "unknown card payments"
+  - "missing contactless card"
+  - "banking app on lost phone"
+  - "mobile wallet on lost phone"
+  - "apple pay on lost phone"
+  - "google wallet on lost phone"
+  - "phone and purse stolen"
+  - "wallet or purse missing"
+  - "cards used after loss"
+  - "walet lost with cards"
+  - "fone lost with cards"
+  - "id documents in wallet"
+last_reviewed: "2026-05-27"
+date_created: "2026-05-27"
 ---
 
 # What to do if… your phone or wallet is lost and your cards are exposed to misuse (UK)
 
 ## Short answer
-Freeze/cancel the cards **immediately**, then secure your phone/SIM so it can’t be used to access banking, approve logins, or make payments.
+Stop the cards first, using your banking app or the card issuer’s official lost or stolen card route. Then lock the phone, bar the SIM, and protect the account that controls your phone and payment wallet.
 
 ## Do not do these things
-- Don’t wait “to see if it turns up” before stopping the cards — minutes matter with contactless and online use.
-- Don’t call numbers sent by text/email about “fraud” — use a trusted route (your banking app, the number on your card/statement).
-- If you think you’re dealing with a scammer, don’t stay on the line — **hang up** and call your bank via a trusted number (or dial **159** if your bank supports it).
-- Don’t share one-time passcodes (OTPs) with anyone.
-- Don’t keep trying to log in on a possibly-compromised phone; use a different device if you can.
-- Don’t post about the loss with identifying details (photos of cards/IDs, addresses, travel plans).
+- Don’t keep searching for the phone or wallet before stopping the cards.
+- Don’t use phone numbers from unexpected texts, emails, or pop-ups about fraud.
+- Don’t share one-time passcodes, PINs, passwords, or card security codes with anyone.
+- Don’t stay on a call if you think it may be a scam; hang up and contact your bank through the app, an official number, or 159 if your bank is on that service.
+- Don’t try to recover a stolen phone yourself from a location shown on a map.
+- Don’t post photos of cards, ID documents, addresses, tickets, or travel plans while you are dealing with the loss.
 
 ## What to do now
-1. **Stop the cards first (fastest method available).**
-   - In each bank/card app: **freeze** or **report lost/stolen** for every debit/credit card.
-   - If you can’t access apps: call the issuer using a trusted number (card, statement, or official site).
-2. **Check transactions and flag anything you don’t recognise.**
-   - Look at pending + completed transactions.
-   - Report suspicious transactions to the bank/card provider immediately and follow their dispute process.
-   - Note down: when you noticed, what’s missing, any suspicious payments (helps when you’re stressed and repeating details).
-3. **If your phone is missing: secure the device and the SIM/network.**
-   - Use Apple/Google tools to **mark it lost / lock it**.
-   - Contact your mobile provider **as soon as possible** to **bar the SIM** and ask them to **block the IMEI** (ask what that does/doesn’t prevent).
-4. **Cut off payment access tied to the phone.**
-   - Remove/suspend cards in Apple Pay/Google Wallet (often via your bank app and/or your Apple/Google account).
-   - Change your Apple Account/Google Account password from a different, trusted device and sign out other sessions if offered.
-5. **Decide about remote erase (only if needed).**
-   - Lock/lost mode is the priority.
-   - Consider remote erase only if recovery seems unlikely and you’re comfortable losing what’s on the phone (and any tracking options you might rely on).
-6. **Make an official report if fraud/theft is likely (so you have a reference trail).**
-   - If you’re in immediate danger, call **999**.
-   - For cyber crime/fraud reporting:
-     - **England, Wales, Northern Ireland:** report to **Report Fraud** (online or by phone) and keep the reference number.
-     - **Scotland:** report to **Police Scotland via 101**.
-   - If the phone/wallet was stolen, you can also report the theft to police via **101** (a crime reference number can help with insurers/banks).
-   - If reporting a stolen phone, get your **IMEI** from your network provider (if you don’t have it) and include it in the report.
-7. **If ID documents were in the wallet, reduce identity-fraud risk.**
-   - Consider **Cifas Protective Registration** to add extra checks when credit is applied for in your name.
-   - Watch for unexpected credit letters/emails, delivery notices, or “welcome” messages you didn’t trigger.
+1. **Stop every exposed card.**
+   - Use each bank or card app to freeze the card or report it lost or stolen.
+   - If you cannot use the app, use the card issuer’s official website or a number from a statement or another trusted source.
+   - Include cards saved in Apple Pay, Google Wallet, transport apps, shopping apps, or subscription accounts if they might be exposed.
+
+2. **Check for misuse and tell the bank what you see.**
+   - Look at pending and completed transactions.
+   - Report any payment you do not recognise through the bank or card provider’s fraud route.
+   - Write down the time you noticed the loss, what is missing, and any suspicious payments, so you do not have to rely on memory.
+
+3. **Lock the missing phone.**
+   - For an iPhone, use Find My or iCloud to mark the device as lost.
+   - For an Android phone, use Google’s find, secure, or erase tools.
+   - If the map shows the phone somewhere unfamiliar and you think it was stolen, do not go there yourself.
+
+4. **Block the SIM and phone network access.**
+   - Contact your mobile provider as soon as you can.
+   - Ask them to bar the SIM so it cannot be used for calls, texts, or account verification.
+   - Ask whether they can block the IMEI so the handset is harder to use on mobile networks.
+
+5. **Protect the account that controls the phone.**
+   - From a different trusted device, change the password for your Apple Account or Google Account.
+   - Sign out of other sessions if the account gives you that option.
+   - Change the password for the email account used for banking resets if that email was accessible on the missing phone.
+
+6. **Deal carefully with remote erase.**
+   - Lock or lost mode comes first.
+   - Consider remote erase if recovery seems unlikely or the phone contains sensitive information.
+   - Before erasing an iPhone, check whether you need the device kept in Find My or your Apple Account for a theft or loss claim.
+
+7. **Report theft or fraud where appropriate.**
+   - If you or someone else is in immediate danger, or the theft is happening now, call 999.
+   - If fraud or cyber crime has happened in England, Wales, or Northern Ireland, report it to Report Fraud and save any reference you receive.
+   - If you live in Scotland, report fraud through Police Scotland by calling 101 or using the Police Scotland route.
+   - If the phone or wallet was stolen, report the theft to police by calling 101 or using the appropriate online police reporting route.
+   - If you report a stolen phone, include the IMEI if you have it or can get it from your mobile provider.
+
+8. **If ID documents were in the wallet, reduce identity-fraud risk.**
+   - Make a list of missing ID documents, driving licence, passes, and address documents.
+   - Watch for letters, emails, deliveries, or account messages about credit or services you did not apply for.
+   - Consider Cifas Protective Registration if personal details were exposed, especially if documents with your name, date of birth, or address were lost. It is for identity-fraud risk, not for stopping card transactions.
 
 ## What can wait
-- Replacing non-financial cards (gym/library/loyalty) and other items — focus on cards + phone/SIM/account access first.
-- Sorting insurance claims, buying a new phone, and reinstalling apps (do after the cards/SIM/accounts are secured).
-- Deep-diving every account you own — start with bank, mobile provider, and the email/Apple/Google account that can reset passwords.
+Replacing loyalty cards, gym cards, library cards, and non-urgent passes can wait until the bank cards, phone, SIM, and main email account are safer. Insurance claims, buying a new phone, reinstalling apps, and a full review of every online account can also wait until the immediate payment and access risks are contained.
 
 ## Important reassurance
-It’s normal to feel scattered or embarrassed. Acting quickly isn’t “overreacting” — freezing cards and locking the phone are the most effective harm-prevention steps.
+Losing a phone or wallet can make anyone feel panicked or embarrassed. Freezing cards, locking the phone, and barring the SIM are practical steps that reduce the chance of further misuse, even if you do not yet know exactly what happened.
 
 ## Scope note
-These are first steps to stop misuse and buy time. Next steps (replacement documents, longer fraud monitoring, formal disputes) depend on what was actually used and what you recover.
+These are first steps to stop misuse and buy time. Later decisions about replacement documents, fraud disputes, insurance, credit-file monitoring, or legal issues may need help from the bank, mobile provider, police, insurer, or another specialist service.
 
 ## Important note
-This is general information, not legal or financial advice. If you can’t safely do any step, prioritise getting to a safer place and using a trusted person’s device/phone to contact your bank and mobile provider.
+This is general information, not legal, financial, technical, therapeutic, or professional advice. If you cannot safely do any step, prioritise getting to a safer place and using a trusted person’s phone or device to contact your bank and mobile provider.
 
 ## Additional Resources
-- https://www.reportfraud.police.uk/bank-card-and-cheque-fraud/
-- https://www.gov.uk/government/news/report-fraud-new-service-from-city-of-london-police
 - https://www.reportfraud.police.uk/
+- https://www.reportfraud.police.uk/bank-card-and-cheque-fraud/
+- https://www.gov.uk/report-crime
 - https://www.ofcom.org.uk/phones-and-broadband/mobile-phones/lost-or-stolen-phone
-- https://www.citizensadvice.org.uk/consumer/phone-internet-downloads-or-tv/what-to-do-if-your-mobile-phone-is-lost-or-stolen/
-- https://www.scotland.police.uk/guidance/scams-and-frauds/
+- https://stopscamsuk.org.uk/our-work/159-phone-number/
 - https://www.cifas.org.uk/pr
 - https://support.apple.com/en-gb/120837
+- https://support.google.com/accounts/answer/6160491?hl=en

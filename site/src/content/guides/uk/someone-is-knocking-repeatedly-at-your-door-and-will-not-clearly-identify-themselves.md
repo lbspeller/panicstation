@@ -1,66 +1,95 @@
-﻿---
+---
 title: "What to do if… someone is knocking repeatedly at your door and will not clearly identify themselves"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
-  - unknown person knocking
-  - repeated knocking at door
-  - stranger at the door
-  - won’t identify themselves
-  - unidentified caller at door
-  - suspicious doorstep visitor
-  - someone demanding entry
-  - door viewer and chain
-  - bogus caller concern
-  - doorstep scam worries
-  - claiming to be from council
-  - claiming to be police
-  - utility worker at door
-  - late night knocking
-  - delivery you didn’t expect
-  - feel unsafe at home
-  - pressured to open door
-  - verifying identity safely
-last_reviewed: "2026-01-10"
+  - "unknown person knocking"
+  - "someone knocking repeatedly"
+  - "stranger at the door"
+  - "unidentified person at door"
+  - "person will not identify"
+  - "caller will not say name"
+  - "someone demanding entry"
+  - "suspicious doorstep visitor"
+  - "unexpected caller at door"
+  - "repeated knocking at door"
+  - "what do i do if someone is knocking"
+  - "what do i do if a stranger knocks"
+  - "what do i do if someone will not identify"
+  - "what do i do if someone demands entry"
+  - "help i feel unsafe at home"
+  - "help i am scared to open the door"
+  - "help i have a stranger at my door"
+  - "help i hear repeated knocking"
+  - "my door keeps being knocked"
+  - "my visitor will not identify themselves"
+  - "loud knocking at door"
+  - "aggressive knocking at door"
+  - "door handle being tried"
+  - "person outside my home"
+  - "unknown voice through door"
+  - "someone at door late night"
+  - "bogus caller concern"
+  - "doorstep scam worry"
+  - "fake official at door"
+  - "unexpected delivery confusion"
+  - "cold caller at door"
+  - "council worker at door"
+  - "utility worker at door"
+  - "landlord contractor at door"
+  - "stranger nocking at door"
+  - "bogus caler at door"
+last_reviewed: "2026-05-01"
+date_created: "2026-05-01"
 ---
 
 # What to do if… someone is knocking repeatedly at your door and will not clearly identify themselves (UK)
+
 ## Short answer
-Keep the door locked and do not open it. Speak through the door (or a nearby window) and verify who they are using a number you find yourself; if you feel threatened or think a crime is happening, call 999.
+Keep the door locked and do not open it. Speak through the door if it is safe, verify them using contact details you find yourself, and call 999 if you feel threatened or think a crime is happening now.
 
 ## Do not do these things
 - Do not open the door “just to see” or because they keep knocking.
-- Do not rely on an ID badge alone, or on any phone number they hand you or tell you to call.
-- Do not step outside to talk to them in the hallway/garden if you feel unsure.
-- Do not argue through the door or tell them you are home alone.
-- Do not hand over personal details (full name, phone number, banking details) at the door.
-- Do not keep a door chain on all the time if it could slow you leaving in a fire; only use it when you’re actively answering the door.
+- Do not rely on an ID badge alone.
+- Do not use a phone number, link, QR code, or callback number they give you.
+- Do not step outside to speak to them if you feel unsure.
+- Do not argue through the door or tell them you are alone.
+- Do not hand over personal details, bank details, codes, keys, cash, or documents at the door.
+- Do not leave a door chain on as a permanent lock; if you use one while answering, keep in mind that it should not slow you leaving in a fire.
 
 ## What to do now
-1. **Create a safer pause.** Lock the door (and any back/side doors), turn on lights, and move yourself/others to a position out of direct sightlines from glass panels or windows.
-2. **Assess without engaging.** Use a door viewer, window, or doorbell camera if you have one. If you can’t see safely, don’t.
-3. **Speak through the door without opening it.** Say: “I’m not opening the door. Please tell me your name, who you’re with, and why you’re here.”  
-   - If they claim to be **police/council/utility/landlord’s contractor**, ask for: **full name, role, organisation, and a callback/reference number**.
-4. **Verify independently (do not use their contact details).** End with: “Wait outside while I check.” Then look up the organisation’s main switchboard number (or use a number on a recent bill/official letter) and ask if anyone has been sent to your address **right now**.
-5. **Decide based on behaviour, not their story.** If they refuse to identify themselves, keep knocking aggressively, try the handle, block exits, or you feel at risk: **call 999**. If it feels suspicious but not immediate danger, call **101** for police advice/reporting.
-6. **If you can’t speak safely when calling 999 from a mobile:** stay on the line and, when prompted, **press 55** to be put through to police.
-7. **If you’re expecting a delivery:** tell them to **leave it outside the door** (or return later). You don’t need to open the door to accept anything.
-8. **If you can, quietly alert someone.** Text/call a trusted neighbour, friend, or family member to stay on the line, or ask them to come to the door area (without opening) so you’re not dealing with it alone.
+
+1. **Create a safer pause.** Keep the door shut and locked. Lock any back or side doors, turn on lights, and move yourself and anyone with you away from glass panels or direct sightlines.
+2. **Check without opening.** Use a door viewer, upstairs window, peephole, intercom, or doorbell camera if you can do that safely. If you cannot see safely, do not try.
+3. **Speak through the closed door only if it feels safe.** Say: “I’m not opening the door. Please tell me your full name, who you are with, and why you are here.”
+4. **Ask for details without letting them in.** If they claim to be police, council, a utility company, a landlord, or a contractor, ask for their full name, role, organisation, and a reference or job number.
+5. **Verify independently.** Say: “Wait outside while I check.” Look up the organisation’s main contact details yourself, or use a number from a recent bill or official letter. Ask whether someone has been sent to your address right now.
+6. **Use behaviour as the warning sign.** If they refuse to identify themselves, keep knocking aggressively, try the handle, try to force entry, block exits, or you feel in immediate danger, call 999.
+7. **Use 101 if it is suspicious but not immediate danger.** If the person has gone, or you want police advice about a suspicious doorstep caller, use 101 or the police online contact route.
+8. **If you call 999 and cannot speak safely from a mobile, stay on the line.** Try to answer by whispering, coughing, tapping, or pressing 55 when prompted so the call can be treated as a real emergency.
+9. **If it might be a delivery, keep the door closed.** Ask them to leave the parcel outside the door, in your agreed safe place, or to return later.
+10. **Quietly bring in support if you can.** Call or text a trusted neighbour, friend, family member, building concierge, or housing contact. Ask them to stay on the phone or come nearby without opening the door for you.
 
 ## What can wait
-- Deciding whether to make a formal complaint, chase the organisation, or report fraud details beyond “suspicious person at my door”.
-- Checking CCTV settings, buying a door chain/camera, or changing locks (useful later, not urgent now).
-- Posting in neighbourhood groups or warning others online (focus on safety first).
-- Writing down a perfect timeline—just note the basics when you feel calmer.
+
+- Deciding whether to make a formal complaint.
+- Chasing the organisation they claimed to be from, unless you need to verify them right now.
+- Writing a full timeline.
+- Posting in neighbourhood groups or warning others online.
+- Buying cameras, chains, locks, or other security equipment.
+- Deciding whether this was a scam, harassment, or a misunderstanding.
 
 ## Important reassurance
-You are allowed to keep your door closed. Genuine officials and legitimate workers expect people to be cautious and to verify identity before opening.
+
+You are allowed to keep your door closed. A genuine caller should not object to you checking independently or asking them to return later.
 
 ## Scope note
-This is first steps only for the moment you’re unsure who is at your door. If this becomes repeated harassment, stalking, or targeted intimidation, you may need additional support and longer-term safety planning.
+
+These are first steps only for the moment you are unsure who is at your door. If this becomes repeated harassment, stalking, targeted intimidation, or a housing dispute, later decisions may need specialist support.
 
 ## Important note
-This is general information, not legal advice. If you believe you’re in immediate danger or a crime is in progress, contact emergency services.
+
+This is general information, not legal, security, or professional advice. If you believe you are in immediate danger or a crime is happening now, contact emergency services.
 
 ## Additional Resources
 - https://www.gov.uk/contact-police

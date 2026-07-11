@@ -1,88 +1,106 @@
-﻿---
+---
 title: "What to do if… a window will not close and cold air or rain is coming in"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
-  - window won’t close
-  - window will not shut
-  - stuck open window
-  - jammed window
-  - window won’t latch
-  - window won’t lock
-  - draughty window
-  - cold air coming in
-  - rain coming through window
-  - leaking window
-  - window seal failed
-  - broken window hinge
-  - window handle not working
-  - sash window stuck open
-  - upvc window stuck
-  - renters urgent repair window
-  - landlord won’t fix window
-  - emergency home repair
-  - storm damage window
-last_reviewed: "2026-03-03"
+  - "window will not close"
+  - "window will not shut"
+  - "window wont close"
+  - "window wont shut"
+  - "stuck open window"
+  - "jammed window"
+  - "window will not latch"
+  - "window will not lock"
+  - "cold air through window"
+  - "rain through window"
+  - "leaking window"
+  - "draughty window"
+  - "draft coming through window"
+  - "broken window hinge"
+  - "window handle not working"
+  - "sash window stuck open"
+  - "upvc window stuck open"
+  - "upvc window wont close"
+  - "windw wont close"
+  - "what do i do if window wont close"
+  - "what do i do if rain is coming through window"
+  - "what do i do if cold air is coming in"
+  - "what do i do if window will not lock"
+  - "help i cannot close my window"
+  - "help i have rain coming in"
+  - "help i have cold air coming in"
+  - "my window is stuck open"
+  - "my window handle is stuck"
+  - "my room is getting wet"
+  - "water near window socket"
+  - "window gap in storm"
+  - "window open overnight"
+  - "rented home window broken"
+  - "tenant window will not close"
+  - "storm damaged window"
+last_reviewed: "2026-04-29"
+date_created: "2026-04-29"
 ---
 
 # What to do if… a window will not close and cold air or rain is coming in (UK)
 
 ## Short answer
-Make the area safe first, then do a quick temporary seal (plastic/tape/towels) and report it immediately to whoever is responsible for repairs (landlord/agent/council or housing association) so it can be fixed properly.
+Make the area safe, keep water away from electrics, and block the gap from inside as a temporary measure. Then report it straight away to the person or service responsible for repairs.
 
 ## Do not do these things
-- Don’t lean out of the window or climb onto a sill/roof to “pull it shut” (falls happen fast).
-- Don’t force the frame hard, slam it, or keep cranking a handle if it’s resisting (you can crack glass or strip the mechanism).
-- Don’t use candles/open flames or any unvented fuel-burning device to “dry the rain out” or “warm the room” (higher fire and carbon monoxide risk).
-- Don’t leave the window unsecured overnight if it’s reachable from outside (treat it like an unlocked door).
-- Don’t agree to pay for permanent repairs on the spot if you’re a tenant (pause and contact the responsible party first, unless there’s an immediate safety hazard).
+- Do not lean out, climb onto a sill, or go onto a roof to pull the window shut.
+- Do not force the frame, slam the window, or keep turning a resisting handle.
+- Do not use candles, open flames, a barbecue, a camping stove, or a generator indoors to warm or dry the room.
+- Do not put plastic, towels, or tape against heaters, lamps, sockets, or anything hot.
+- Do not leave the room unsecured overnight if the window can be reached from outside.
+- Do not agree to permanent repairs or liability on the spot if you rent, unless an immediate safety step is needed.
 
 ## What to do now
-1. **Make it safe and reduce risk.**  
-   Keep children/pets away, move furniture and anything electrical out of the splash zone, and put a towel/bucket down if water is coming in. If there are **sparks, water entering a socket, or a strong burning smell**, keep clear of the area. If you can **safely** reach your consumer unit/fuse box (dry hands, dry floor), switch off the circuit for that room (or the main switch if you’re unsure) and get help.
+1. **Make the area safe.**  
+   Keep children and pets away. Move furniture, chargers, extension leads, and anything electrical away from the wet or draughty area. Put towels or a container down to catch water if it is safe to do so.
 
-2. **Check for the simplest “no-tools” fix (30–60 seconds).**  
-   - Remove any obvious obstruction in the track (grit, a folded blind, a displaced insect screen).  
-   - If it’s a casement/uPVC window: gently press the sash into the frame while turning the handle **once** (don’t keep forcing).  
-   - If it’s a sash window: check if a lock/catch is stuck in the “on” position.
+2. **If water is near electrics, step back.**  
+   If water is entering a socket, switch, light fitting, extension lead, or appliance, do not touch the wet area. If you can reach the consumer unit safely with dry hands and a dry floor, switch off the affected circuit or the main switch. If the consumer unit or the route to it is wet, keep away and get urgent help.
 
-3. **Do a temporary weather seal from inside (aim: stop rain/draught, not perfection).**  
-   - **If rain is coming in:** tape a thick plastic bag, bin liner, or plastic sheet over the gap on the *inside* (tape to the frame/wall).  
-   - **If it’s mostly cold air:** roll towels/clothes into a tight “draft sausage” and wedge firmly along the bottom/side gap.  
-   - If you have it, **wide packing tape/duct tape** plus plastic works best short-term.  
-   If the room contains a **fuel-burning appliance** and you’re unsure about ventilation needs, avoid running it in that room and don’t completely seal the room airtight.
+3. **Try only the simplest no-force check.**  
+   Look for an obvious obstruction such as grit, a loose blind, a trapped curtain, or a stuck catch. For a casement or uPVC window, gently press the opening part into the frame while turning the handle once. For a sash window, check whether a catch or lock is partly engaged. Stop if anything resists.
 
-4. **Secure the home.**  
-   Close internal doors to that room and keep valuables out of view. If you have a **sliding** window/door that won’t secure, placing a rigid bar/dowel in the track *inside* can help stop it opening further. For other window types, focus on keeping the room closed off and reporting the security risk.
+4. **Block rain from inside.**  
+   Tape a plastic sheet, bin liner, or thick bag over the gap from the inside, fixing it to the frame or wall rather than the glass if that holds better. Keep the plastic and tape clear of sockets, heaters, lamps, flames, and hot surfaces.
 
-5. **Report it immediately to the right place (this is the “real fix” step).**  
-   - **If you rent (private):** contact your landlord/letting agent **in writing** (text/email is fine) and also call if it’s raining or very cold. Say: *“Window won’t close; rain/cold air entering; security risk; needs urgent repair.”*  
-   - **If you rent from a council/housing association:** use their repairs line/portal and describe it as a security/weather-ingress issue.  
-   - **If you own:** contact a local glazier/window repair service; if there’s storm damage or broken glass, your home insurer may have an emergency repairs line.
+5. **Block cold air from inside.**  
+   Roll towels, clothes, or a blanket into a tight draught stopper and wedge it along the bottom or side gap. Close the internal door to the room to keep the rest of the home warmer.
 
-6. **Document the situation quickly.**  
-   Take 3–5 photos: the gap, any water ingress, the handle/hinge area, and a wide shot of the room. Note the time you reported it. This helps if there’s later dispute about damage.
+6. **Reduce the security risk.**  
+   Move valuables out of view and keep the internal door closed. If it is a sliding window or door, a rigid bar or dowel placed inside the track can help stop it opening further. Do not drill, screw, or alter the frame if you rent unless the responsible repair service tells you to.
 
-7. **If you’re being ignored and it’s affecting health/safety, escalate.**  
-   If the problem creates a serious hazard (very cold, ongoing water ingress, security risk) and your landlord doesn’t respond, contact your **local council housing standards / Environmental Health (private sector housing)** team and ask about an inspection for housing hazards.
+7. **Report it now.**  
+   If you rent, contact your landlord, letting agent, council repairs service, housing association, or building manager in writing and by phone if rain, cold, or security is an immediate problem. Say: “The window will not close; cold air or rain is coming in; there may be a security risk; please treat this as an urgent repair.”
+
+8. **Record the basics.**  
+   Take photos of the gap, water entry, handle, hinge, catch, and any wet area. Note the time you reported it and who you contacted.
+
+9. **Escalate if the home is becoming unsafe.**  
+   If there is ongoing water entry, a serious cold risk, an electrical hazard, or an unsecured accessible window and you are not getting a response, use your local council’s housing or environmental health route, or your social landlord’s emergency repairs route. If there is immediate danger, call 999.
 
 ## What can wait
-- You do **not** need to decide today whether to claim on insurance, replace the whole window, or start a formal complaint—focus on **temporary protection + reporting**.
-- You do **not** need to perfectly dry the room right now; stopping further water and preventing electrical hazards is the priority.
-- You do **not** need to negotiate costs or liability in the moment—get the repair process moving first.
+- You do not need to decide today whether the whole window needs replacing.
+- You do not need to settle who will pay while rain, cold, security, or electrical risk is still active.
+- You do not need to dry everything perfectly now; stopping more water and keeping electrics safe comes first.
+- You do not need to start a formal complaint before making the urgent repair report.
 
 ## Important reassurance
-This is a common failure (handles, hinges, warped frames, stuck catches) and most situations become manageable once you’ve stopped the rain/draught and secured the room. You’re not “overreacting” by treating it as urgent—weather ingress and security gaps can cause fast damage.
+A stuck open window can feel alarming, especially in rain or cold weather, but the first steps are simple: keep away from hazards, block the gap from inside, close off the room, and report it clearly. It is reasonable to treat weather coming in or an unsecured window as urgent.
 
 ## Scope note
-This is first-step guidance to stabilise the situation. Permanent repair/replacement decisions (and any disputes) can be handled once you’re warm, dry, and the immediate risk is under control.
+These are first steps to stabilise the situation. Permanent repair, insurance, tenancy responsibility, complaints, or payment disputes can be dealt with later and may need specialist help.
 
 ## Important note
-This is general information, not legal or professional advice. If there’s immediate danger (e.g., structural instability, live electrical contact, suspected gas leak or carbon monoxide concern), prioritise emergency help.
+This is general information, not legal, electrical, housing, insurance, or professional repair advice. If there is fire, live electrical contact, structural danger, call 999. If there is a gas smell or suspected gas or carbon monoxide emergency, move away from the danger area and call the National Gas Emergency number on 0800 111 999 when it is safe to do so.
 
 ## Additional Resources
 - https://www.gov.uk/private-renting/repairs
-- https://www.citizensadvice.org.uk/housing/repairs-and-housing/repairs-and-housing-conditions/whos-responsible-for-repairs/check-if-your-landlord-has-to-do-repairs/
-- https://england.shelter.org.uk/housing_advice/repairs/landlord_and_tenant_responsibilities_for_repairs
+- https://www.gov.uk/find-local-council
+- https://www.electricalsafetyfirst.org.uk/guidance/safety-around-the-home/flooding-advice/
 - https://www.nhs.uk/conditions/carbon-monoxide-poisoning/
-- https://ukhsa.blog.gov.uk/2025/11/18/how-to-protect-your-home-and-family-from-the-invisible-danger-of-carbon-monoxide/
+- https://www.nationalgas.com/safety-and-emergencies/emergencies-and-safety-advice

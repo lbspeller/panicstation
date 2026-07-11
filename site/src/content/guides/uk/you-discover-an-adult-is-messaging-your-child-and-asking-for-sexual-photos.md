@@ -1,74 +1,91 @@
-﻿---
+---
 title: "What to do if… you discover an adult is messaging your child and asking for sexual photos"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - adult messaging my child
-  - online grooming messages
-  - asking for sexual photos
-  - asking for nudes
-  - child sent nude
-  - child pressured for pictures
-  - sextortion threat
-  - online blackmail of a child
-  - stranger in dms
-  - predator contacting my child
-  - snapchat grooming
-  - instagram grooming
-  - whatsapp request for photos
-  - discord grooming
-  - fake profile as teen
-  - sexual messages to a minor
-  - explicit photo request
-  - child sexual exploitation online
-  - adult asking for pics
-last_reviewed: "2026-03-13"
+  - "adult messaging my child"
+  - "adult asking my child"
+  - "adult asking for photos"
+  - "adult asking for nudes"
+  - "adult asking for pics"
+  - "adult contacting my child"
+  - "child sexual photo request"
+  - "child pressured for photos"
+  - "child asked for nudes"
+  - "online grooming messages"
+  - "sexual messages to child"
+  - "sexual photos of child"
+  - "what do i do if adult messages my child"
+  - "what do i do if child asked for nudes"
+  - "what do i do if child sent photos"
+  - "what do i do if stranger messages child"
+  - "help i found sexual messages"
+  - "help i found grooming messages"
+  - "my child is being groomed"
+  - "my child sent a nude"
+  - "my child got photo requests"
+  - "my child is being blackmailed"
+  - "stranger in child dms"
+  - "fake teen profile messaging"
+  - "explicit messages on child phone"
+  - "threats about child photos"
+  - "secret chat with adult"
+  - "sextortion threat to child"
+  - "catfish messaging my child"
+  - "snapchat grooming"
+  - "instagram grooming"
+  - "whatsapp sexual messages"
+  - "discord grooming"
+  - "messeging my child"
+  - "adult asking for fotos"
+last_reviewed: "2026-05-10"
+date_created: "2026-05-10"
 ---
 
 # What to do if… you discover an adult is messaging your child and asking for sexual photos (UK)
 
 ## Short answer
-Get your child to a calm, safe pause and stop the contact immediately, then report it (CEOP/police) while preserving the message details so professionals can act.
+Get your child to a calm, safe pause, stop the contact, and use official reporting routes while keeping key non-image details where it is safe to do so. Do not open, download, save, screenshot, forward, photograph, or ask for any sexual image of a child.
 
 ## Do not do these things
-- Don’t confront, threaten, or negotiate with the adult (it can escalate and reduce chances of effective action).
-- Don’t pay, comply with demands, or “prove” anything if threats are involved.
-- Don’t forward, upload, or re-share any sexual images, and don’t ask your child to send you any images.
-- If any sexual images exist in the chat: **don’t open, download, save, or screenshot them**. Keep your focus on stopping contact and capturing non-image details.
-- Don’t delete chats/accounts in a rush if you might report (you can stop contact without wiping everything).
-- Don’t pressure your child to explain everything right now; keep them safe first.
+- Don’t confront, threaten, or negotiate with the adult; it can escalate the situation and make it harder for professionals to act.
+- Don’t pay, comply with demands, or send anything if threats are involved.
+- Don’t forward, upload, re-share, request, or ask your child to send you any sexual images.
+- If any sexual images exist in the chat, don’t open, download, save, screenshot, or photograph them.
+- Don’t delete chats, accounts, or devices in a rush if you may report, unless keeping them available would put your child at immediate risk.
+- Don’t pressure your child to explain everything at once. Keep them safe first.
 
 ## What to do now
-1. **Move to a safer pause and stay with your child.** If the adult is making threats, asking to meet, or your child feels unsafe right now, treat it as urgent.
-2. **Stop the contact immediately.** Block the account, tighten privacy settings, and turn off location sharing (where applicable). If there are multiple accounts, block each one.
-3. **Preserve key details (without handling images).** Capture or write down:
-   - the account/profile identifiers (username/handle, display name, profile link if available)
-   - the platform/app and any phone number/email shown
-   - dates/times of the requests and any threats or coercion
-   - the message text (as safely as you can)
-   
-   If sexual images are present, avoid capturing them. If you need a record of the conversation, consider photographing the screen with another device while keeping any images off-screen.
-4. **Report through the right route (UK).**
-   - **If there is immediate danger or a threat to life:** call **999**.
-   - **Otherwise:** report to **CEOP** (Child Exploitation and Online Protection) and/or contact police via **101** (or your local force’s online contact options).
-5. **Report in the app/platform too (after you’ve captured key details).** Use the platform’s reporting tools for “sexual exploitation of a child / grooming / solicitation.” This can help the platform act quickly and preserve records.
-6. **Get immediate specialist support for your child (no pressure to report).** Offer **Childline (0800 1111)** or Childline’s online chat options. Keep it optional and supportive.
-7. **Get support for you as the adult who discovered it.** If you need guidance on next steps or how to talk to your child, contact the **NSPCC helpline (0808 800 5000)** for adults concerned about a child.
-8. **If any sexual image of your child may have been shared or is at risk of being shared:** when your child is calm and ready, support them to use **Report Remove** (for under-18s in the UK) to confidentially seek removal help.
+1. **Move to a safer pause and stay with your child.** If the adult is making threats, asking to meet, saying they know your child’s location, or your child feels unsafe right now, treat it as urgent.
+2. **Keep the device with you if this can be done calmly and safely.** Put it somewhere your child cannot keep receiving messages from the adult. Do not search through sexual images or ask your child to show them to you.
+3. **Write down key non-image details before blocking, if you can do this safely.** Record only text/profile details such as:
+   - the username, handle, display name, profile link, phone number, or email address
+   - the platform or app
+   - the dates and times of requests, threats, pressure, or plans to meet
+   - the wording of messages that ask for sexual photos, threaten your child, or pressure them
+4. **Stop the contact.** Block the account, turn off location sharing, tighten privacy settings, and block any linked or backup accounts the adult is using.
+5. **Use the UK reporting route.**
+   - If there is immediate danger, a crime in progress, or a threat to life, call **999**.
+   - If it is not an emergency, report to **CEOP** and/or contact police through **101** or the official police online reporting route.
+6. **Report in the app or platform.** Do this once you have the key non-image details, or sooner if it is needed to stop continuing contact. Use categories such as child sexual exploitation, grooming, sexual content involving a child, threats, or harassment where the platform offers them.
+7. **Offer your child specialist support without forcing a full account.** Childline is available on **0800 1111** and through online support. Let your child know they can talk to someone privately.
+8. **Get adult guidance for yourself.** If you need help deciding what to do next or how to support your child, contact the **NSPCC helpline on 0808 800 5000** and check the NSPCC page for current opening times.
+9. **If a sexual image or video of your child may be online, use removal support when your child is ready.** Report Remove can help under-18s in the UK confidentially report sexual images or videos of themselves and seek removal from the internet.
 
 ## What can wait
-- You do **not** need to decide today whether to tell school, other parents, or family beyond a strict need-to-know circle.
-- You do **not** need to do a full “deep dive” through your child’s phone right now; stabilise first and avoid turning this into an interrogation.
-- You do **not** need to figure out who the adult “really is” yourself—reporting routes exist for that.
+- You do **not** need to decide today whether to tell school, other parents, or wider family beyond a strict need-to-know circle.
+- You do **not** need to work out who the adult “really is” yourself.
+- You do **not** need to do a full deep dive through your child’s phone right now.
+- You do **not** need your child to remember every detail immediately.
 
 ## Important reassurance
-Many children comply with requests because they’re manipulated, threatened, flattered, or frightened—not because they “wanted it.” Your calm response (believing them, staying alongside them, and taking over the adult-facing steps) is protective and can reduce harm quickly.
+Children can be manipulated, threatened, flattered, tricked, or frightened into responding. A calm response that believes them, avoids blame, and takes over the adult-facing steps can reduce harm quickly.
 
 ## Scope note
-These are first steps to stop contact, reduce immediate risk, and connect you to specialist help. Later steps (school involvement, longer-term safety settings, counselling, and longer reporting decisions) can be handled once you and your child are steadier.
+These are first steps to stop contact, reduce immediate risk, and connect you to specialist help. Later decisions about school involvement, longer-term safety settings, counselling, and reporting follow-up may need specialist safeguarding or legal support.
 
 ## Important note
-This is general information, not legal advice. If you believe a child is at immediate risk, contact emergency services. If you’re unsure what you’ve found means, it’s still appropriate to report concerns and ask for guidance—professionals can help you decide what matters.
+This is general information only. It is not legal, medical, therapeutic, safeguarding, financial, or other professional advice. If you believe a child is at immediate risk, contact emergency services.
 
 ## Additional Resources
 - https://www.ceopeducation.co.uk/parents/Get-help/Reporting-an-incident/

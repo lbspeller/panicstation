@@ -1,82 +1,87 @@
-﻿---
+---
 title: "What to do if… you develop a new severe headache with nausea after a recent infection"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
-  - new severe headache
-  - sudden bad headache
-  - headache with nausea
-  - headache with vomiting
-  - severe headache after infection
-  - headache after flu
-  - headache after covid
-  - headache after viral infection
-  - headache after sinus infection
-  - headache after ear infection
-  - worst headache of my life
-  - migraine or something else
-  - meningitis symptoms worry
-  - stiff neck headache
-  - headache with fever
-  - headache with light sensitivity
-  - headache with confusion
-  - severe head pain new
-  - head pain and nausea new
-last_reviewed: "2026-02-10"
+  - "new severe headache"
+  - "severe headache with nausea"
+  - "severe headache after infection"
+  - "new headache after illness"
+  - "headache after viral infection"
+  - "headache after flu"
+  - "headache after covid"
+  - "worsening headache after infection"
+  - "what do i do if headache is severe"
+  - "what do i do if headache follows infection"
+  - "what do i do if nausea follows headache"
+  - "what do i do if headache feels new"
+  - "help i have a severe headache"
+  - "help i feel sick with headache"
+  - "help i have headache after infection"
+  - "help i have new head pain"
+  - "my headache started after infection"
+  - "my new headache is worsening"
+  - "my headache comes with nausea"
+  - "my headache feels different"
+  - "headache with vomiting"
+  - "headache with fever"
+  - "headache with stiff neck"
+  - "headache with light sensitivity"
+  - "headache with confusion"
+  - "headache with weakness"
+  - "headache with vision changes"
+  - "headache with dark purple rash"
+  - "migraine or something else"
+  - "sinus headache or something else"
+  - "flu headache or something else"
+  - "meningitis symptoms worry"
+  - "headche after infection"
+  - "sevre headache with nausea"
+  - "severe headache after sinus infection"
+  - "severe headache while alone"
+last_reviewed: "2026-06-12"
+date_created: "2026-06-12"
 ---
 
 # What to do if… you develop a new severe headache with nausea after a recent infection (USA)
 
 ## Short answer
-A **new severe headache with nausea after a recent infection** needs **urgent same-day medical evaluation**. If it’s sudden/“worst ever” or you have danger signs, **call 911 or go to the ER now**.
+A new severe headache with nausea after a recent infection needs prompt medical advice today. Call 911 now for sudden explosive or worst-ever pain, stroke-like symptoms, a seizure, fainting or collapse, confusion, or difficulty staying awake; otherwise go to an emergency department now if you have fever with a stiff neck, light sensitivity, repeated vomiting, a new dark purple rash, or symptoms that are escalating quickly.
 
 ## Do not do these things
-- Do not try to “wait it out” if the headache is **new, severe, worsening, or different** from your usual headaches.
-- Do not drive yourself to the ER if you feel faint, very drowsy, confused, or your symptoms are severe—use **911/EMS**.
-- Do not keep stacking extra doses of pain medicine just to delay care.
-- Do not accidentally **double-dose acetaminophen** by combining multi-symptom cold/flu products with separate acetaminophen (many combination medicines already contain it).
-- Do not ignore signs that can signal a serious infection or neurologic emergency (for example **fever**, **stiff neck**, **confusion**, new weakness, or persistent vomiting).
-- Do not stay alone if you’re getting worse or having trouble thinking clearly.
+- Do not delay getting medical advice to see whether a new severe or worsening headache settles on its own.
+- Do not drive yourself if you feel faint, confused, very drowsy, unsteady, or unable to travel safely.
+- Do not take more acetaminophen than the label directs.
+- Do not combine acetaminophen-containing products, including some cold and flu medicines, without checking the labels.
 
 ## What to do now
-1. **Call 911 (or have someone call) if any emergency signs are present:**
-   - **Sudden, severe headache** with no known cause (especially “worst headache of my life” or rapid peak).
-   - New **face droop**, **arm/leg weakness**, trouble speaking, severe dizziness/unsteadiness, or new vision changes.
-   - **Confusion**, collapse, seizure, extreme drowsiness, or difficulty staying awake.
-   - Severe headache with **fever**, **stiff neck**, **light sensitivity**, or repeated vomiting.
-2. **If you’re not in the “911 now” group, still get evaluated today.**
-   - Go to an **Emergency Department** if symptoms are severe, you’re vomiting repeatedly, or the headache is escalating.
-   - Otherwise, call your **primary care clinic** or **nurse line** for same-day direction—but if there’s any delay or you worsen, choose the ER.
-3. **Have someone stay with you and arrange safe transport.**
-   - Ask a trusted person to stay nearby and drive you.
-   - If you’re getting worse, feel unsafe to travel, or you’re alone, choose **911/EMS**.
-4. **Prepare a short, clear symptom summary for triage.** Write down:
-   - The recent infection (what kind, when it started, current fever/chills).
-   - When the headache started, how quickly it peaked, and whether it’s the worst/unlike your usual.
-   - Nausea/vomiting frequency; neck stiffness; light sensitivity; rash; confusion; weakness/numbness; vision or speech issues.
-   - Meds taken today (including cold/flu meds), allergies, and any immune problems.
-5. **While you’re arranging care, reduce risk.**
-   - Sip small amounts of water/electrolytes only if you can keep fluids down.
-   - Avoid alcohol/recreational drugs.
-   - Keep medication bottles/your med list and ID with you for the visit.
+1. **Call 911 now** if the headache started suddenly and explosively, feels like the worst headache you have had, or comes with new face droop, weakness, numbness, trouble speaking, sudden vision changes, sudden loss of balance, a seizure, fainting or collapse, confusion, or difficulty staying awake.
+2. **Go to an emergency department now** if you have a severe headache with fever and a stiff neck, light sensitivity, repeated vomiting, a new dark purple rash, or symptoms that are escalating quickly. Call 911 instead if you cannot travel safely or you are rapidly getting worse.
+3. **If none of those signs are present, seek prompt same-day medical advice.** Call your clinic or an insurer nurse advice line if one is available. If you cannot get prompt guidance or your symptoms worsen, go to an emergency department.
+4. **Ask someone to stay with you if possible and help with transport.** Tell them if the pain changes quickly or you become more drowsy, confused, weak, or unsteady.
+5. **Prepare a short symptom summary.** Note when the recent infection started, when the headache began, how quickly it became severe, whether it feels different from previous headaches, and whether you have fever, vomiting, neck stiffness, light sensitivity, a new dark purple rash, confusion, weakness, numbness, or vision or speech changes.
+6. **Bring your medication bottles or a medication list.** Include cold and flu medicines, pain medicines, allergies, and any condition or medicine that affects your immune system.
+7. **While arranging care, drink water if you can keep fluids down.**
 
 ## What can wait
-- You don’t need to diagnose yourself before getting care.
-- You don’t need to finish chores, drive yourself “just to save time,” or search online for hours.
-- You don’t need to decide about long-term follow-up right now—first get assessed and stabilized.
+- You do not need to decide whether this is a migraine, a sinus headache, or something else before getting assessed.
+- You do not need to finish chores, search online for a diagnosis, or arrange long-term follow-up now.
+- You do not need to drive yourself to save time.
 
 ## Important reassurance
-It’s understandable to feel alarmed when a headache is severe and new, especially after an infection. Seeking urgent evaluation is a safety step—most causes are treatable, and the serious ones are time-sensitive.
+Getting checked promptly is a reasonable safety step. You do not need to work out the cause yourself before asking for medical help.
 
 ## Scope note
-This guide covers first steps only. Testing and treatment depend on what clinicians find and how your symptoms evolve.
+These are first steps only. Later decisions, including testing, treatment, and follow-up, depend on a clinician’s assessment and may need specialist help.
 
 ## Important note
-This is general information, not medical advice or a diagnosis. If symptoms are severe, sudden, worsening, or you’re worried, seek urgent care immediately.
+This is general information, not medical, therapeutic, or other professional advice, and not a diagnosis. Seek urgent medical care if symptoms are severe, sudden, worsening, or worrying.
 
 ## Additional Resources
 - https://www.cdc.gov/stroke/signs-symptoms/index.html
 - https://www.cdc.gov/meningitis/about/index.html
 - https://www.cdc.gov/meningococcal/symptoms/index.html
-- https://www.stroke.org/en/about-stroke/stroke-symptoms
-- https://www.mayoclinic.org/diseases-conditions/meningitis/symptoms-causes/syc-20350508
+- https://www.fda.gov/drugs/safe-use-over-counter-pain-relievers-and-fever-reducers/acetaminophen
+- https://medlineplus.gov/ency/article/003024.htm
+- https://medlineplus.gov/ency/patientinstructions/000593.htm
+- https://medlineplus.gov/ency/article/001927.htm

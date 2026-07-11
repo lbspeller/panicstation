@@ -1,63 +1,82 @@
-﻿---
+---
 title: "What to do if… your onboarding portal shows you as not hired after you accepted a job offer"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
-  - onboarding portal says not hired
-  - portal shows not hired
-  - offer accepted then removed
-  - job offer accepted not hired
-  - hr system error new hire
-  - new hire status rescinded
-  - start date disappeared portal
-  - accepted offer then rejected
-  - at will offer confusion
-  - offer letter rescinded
-  - background check delayed onboarding
-  - pre-employment screening pending
-  - consumer report hiring decision
-  - adverse action notice missing
-  - onboarding link looks suspicious
-  - new hire account deactivated
-  - rescinded offer discrimination worry
-  - offer accepted then revoked
-last_reviewed: "2026-01-08"
+  - "onboarding portal says not hired"
+  - "portal shows not hired"
+  - "accepted offer not hired"
+  - "job offer accepted not hired"
+  - "new hire status not hired"
+  - "offer accepted then removed"
+  - "accepted offer then rejected"
+  - "start date disappeared portal"
+  - "new hire account deactivated"
+  - "offer letter rescinded"
+  - "what do i do if portal says not hired"
+  - "what do i do if offer disappeared"
+  - "what do i do if hr portal changed"
+  - "what do i do if onboarding changed"
+  - "help i accepted job offer"
+  - "help i got marked not hired"
+  - "help i cannot access onboarding"
+  - "help i may have lost job"
+  - "my onboarding portal says not hired"
+  - "my accepted offer disappeared"
+  - "my start date is missing"
+  - "portal changed to not hired"
+  - "onboarding link looks suspicious"
+  - "background check still pending"
+  - "screening vendor email missing"
+  - "candidate profile says rejected"
+  - "new hire login stopped working"
+  - "hr system error new hire"
+  - "rescinded offer confusion"
+  - "background check confusion"
+  - "at-will offer confusion"
+  - "pre-employment screening confusion"
+  - "onbording portal not hired"
+  - "hirring portal says not hired"
+  - "after accepting job offer"
+  - "before first day of work"
+last_reviewed: "2026-07-01"
+date_created: "2026-07-01"
 ---
 
 # What to do if… your onboarding portal shows you as not hired after you accepted a job offer (USA)
 
 ## Short answer
-Treat the portal status as unconfirmed until HR tells you directly. Save proof of your offer and acceptance, then contact HR/recruiting through a trusted channel today for written confirmation of whether you are hired and what your start date is.
+Treat the portal status as unconfirmed until HR or recruiting confirms it directly. Save proof of your offer and acceptance, then contact HR through a trusted route for written confirmation of your hiring status and start date.
 
 ## Do not do these things
-- Do not quit your current job or make irreversible money moves (lease, relocation deposits) based only on a portal status.
-- Do not keep uploading sensitive documents or banking info if anything looks inconsistent, rushed, or unfamiliar—verify first to reduce identity-theft risk.
-- Do not accuse anyone of wrongdoing in writing; keep it factual and ask for clarification.
-- Do not assume “at-will” means “nothing matters” and drop it—documentation and timelines still matter if the issue is an error or an unlawful reason.
-- Do not miss emails from screening vendors (background check) or HR; check spam/junk and keep copies.
+- Do not quit your current job or make irreversible money moves, such as a lease, relocation payment, or large purchase, based only on a portal status.
+- Do not keep uploading sensitive documents or bank details if the portal, link, sender, or request looks inconsistent, rushed, or unfamiliar; verify first.
+- Do not accuse anyone of wrongdoing in writing; keep your message factual and ask for clarification.
+- Do not assume “at-will” means documentation does not matter. Offer terms, timelines, discrimination laws, screening rules, and state law can still matter.
+- Do not ignore emails or texts from HR, recruiting, or a screening vendor. Check spam and junk folders, and keep copies.
 
 ## What to do now
-1. **Save your proof (2 minutes):** Screenshot the portal status (“not hired”), including date/time and any candidate ID. Save your offer letter, your acceptance, and any message naming your start date and contingencies.
-2. **Check your offer letter for conditions:** Look for “contingent on” language (background check/consumer report, references, drug test, employment eligibility verification, licensure). Make a short list of what you completed and what is pending.
-3. **Contact HR through a trusted route (now):** Use the phone number/email from the offer letter or the employer’s official website (not a link inside the portal message). Ask for a simple, written confirmation: “Am I hired? Is my offer active? What is my start date? Is the portal status an error?”
-4. **If a consumer report/background check might be involved, ask for the specific notices:** “If you’re considering not hiring me based on a consumer report, please send me a copy of the report and the required Summary of Rights before a final decision. If a decision has already been made, please send the adverse action notice and tell me how to dispute any incorrect information.”
-5. **If medical/disability-related questions or exams came up after the offer:** Ask HR to confirm in writing what stage you are at (for example, whether it was a real conditional offer). In the U.S., post-offer medical questions/exams are generally only allowed after an offer, and typically must be handled consistently for all entering employees in the same job category.
-6. **If you already resigned from your current job:** Contact your current employer immediately and ask if your resignation date can be extended or rescinded due to an unexpected change in your new role’s confirmation.
-7. **If you suspect discrimination or retaliation:** Write down what happened (dates, names, exact wording, screenshots). If you might file with the EEOC, note deadlines are often **180 days** from the event (sometimes **300 days**, depending on where you are). Consider contacting the EEOC or your state fair-employment agency promptly to preserve options.
+1. **Save proof before changing anything:** Screenshot the portal status showing “not hired,” including the date, time, URL, candidate ID, job title, and any message around it. Save your offer letter, your acceptance, the start date, and any conditions listed in the offer.
+2. **Check whether the offer was conditional:** Look for wording such as “contingent on,” “subject to,” or “pending” for a background check, consumer report, references, drug test, employment eligibility verification, licence, credential, or other pre-employment requirement. Make a short list of what you completed and what is still pending.
+3. **Contact HR or recruiting through a trusted route:** Use the email address or phone number from the offer letter, a prior verified HR message, or the employer’s official website. Do not rely only on a link inside the portal message. Ask: “Can you please confirm in writing whether my offer is active, whether I am hired, whether the portal status is an error, and what my start date is?”
+4. **Ask whether a background check or consumer report is involved:** If the employer may be considering not hiring you because of a third-party background check, ask for the name of the reporting company, a copy of the report, the required Summary of Rights, and any pre-adverse or adverse action notice. If anything in the report is wrong, ask how to dispute it with the reporting company.
+5. **If medical or disability-related questions came up after the offer:** Ask HR to confirm in writing what stage you are in and whether the request applies to all entering employees in the same job category. In the U.S., disability-related questions or medical exams are generally limited before an offer, and post-offer exams or questions must usually be handled consistently for the same type of job.
+6. **If you already resigned from your current job:** Contact your current employer as soon as you can and ask whether your resignation date can be delayed, withdrawn, or changed because the new role’s confirmation is unexpectedly unclear.
+7. **If you suspect discrimination or retaliation:** Write down the timeline, names, exact wording, and what changed in the portal. Save screenshots and messages. EEOC deadlines are generally 180 days from the event and may be 300 days in some states; federal job applicants generally have a different, shorter EEO counselor route, so contact the EEOC or a state fair-employment agency promptly if you may want to preserve options.
 
 ## What can wait
-- You do not need to decide today whether to hire a lawyer or go public.
-- You do not need to argue the merits of your candidacy until you know whether this is a system error, a failed condition, or an actual rescission.
-- You do not need to complete additional onboarding forms until HR confirms you are hired and the portal access is legitimate.
+- You do not need to decide today whether to hire a lawyer, post publicly, or threaten action.
+- You do not need to argue about your qualifications until you know whether this is a portal error, a pending condition, a screening issue, or an actual rescission.
+- You do not need to complete more onboarding forms or upload more personal information until HR confirms the offer is active and the portal access is legitimate.
 
 ## Important reassurance
-Onboarding systems frequently mislabel people during account changes, start-date edits, duplicate profiles, or pending screenings. The stabilising move is getting a clear written answer from HR; you are not “overreacting” by asking for confirmation.
+Onboarding systems can mislabel people during account changes, start-date edits, duplicate profiles, or pending screenings. The stabilising move is to preserve the record and get a clear written answer from HR; asking for confirmation is reasonable.
 
 ## Scope note
-This is first-step guidance to reduce panic, preserve evidence, and get a definitive status. If the offer was rescinded and you suffered harm (for example, you left another job), you may need state-specific advice based on your offer letter and timeline.
+These are first steps only: reduce panic, preserve records, verify the portal, and get a definitive status. Later decisions may need state-specific legal help, especially if the offer was rescinded, you relied on it financially, or you believe discrimination, retaliation, or an inaccurate background report was involved.
 
 ## Important note
-This is general information, not legal advice. U.S. employment rules vary by state and by the documents you signed, and many jobs are “at-will” (with important exceptions, including discrimination laws). If you believe your rights may have been violated, preserve records and seek qualified help quickly.
+This is general information, not legal, financial, immigration, or professional advice. U.S. employment rules vary by state, job type, and the documents you signed. Most U.S. states presume at-will employment, with important exceptions, and deadlines can be short.
 
 ## Additional Resources
 - https://www.ftc.gov/business-guidance/resources/using-consumer-reports-what-employers-need-know

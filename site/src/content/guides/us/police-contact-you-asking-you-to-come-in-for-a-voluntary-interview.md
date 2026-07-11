@@ -1,68 +1,81 @@
-﻿---
-title: "What to do if… police contact you asking you to come in for a “voluntary” interview"
+---
+title: "What to do if… police contact you asking you to come in for a voluntary interview"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
-  - police want a voluntary interview
-  - police asked me to come in
-  - detective wants to talk
-  - asked to come to station
-  - voluntary questioning police
-  - not under arrest but questioned
-  - do i have to talk to police
-  - police interview without lawyer
-  - asked to give a statement
-  - law enforcement contacted me
-  - investigator called me
-  - asked to come in to clear things up
-  - right to remain silent
-  - ask for a lawyer now
-  - fifth amendment worry
-  - miranda rights confusion
-  - am i free to leave
-  - police contacted me by phone
-  - police contacted me by text
-last_reviewed: "2026-03-05"
+  - "police want a voluntary interview"
+  - "police asked me to come in"
+  - "detective wants to talk"
+  - "asked to come to station"
+  - "voluntary police interview"
+  - "law enforcement wants to question me"
+  - "investigator called me"
+  - "asked to give a statement"
+  - "what do i do if police call"
+  - "what do i do if detective calls"
+  - "what do i do if police want interview"
+  - "what do i do if police want statement"
+  - "help i got a police call"
+  - "help i was asked to come in"
+  - "my phone has police messages"
+  - "my detective interview is voluntary"
+  - "police contacted me by phone"
+  - "police contacted me by text"
+  - "detective left a voicemail"
+  - "police say it is voluntary"
+  - "police want to clear things up"
+  - "miranda rights confusion"
+  - "voluntary interview confusion"
+  - "not arrested but questioned"
+  - "witness or suspect confusion"
+  - "police interview at station"
+  - "police interview by phone"
+  - "federal agent wants interview"
+  - "local police want interview"
+  - "voluntary police interveiw"
+  - "detective wants an interveiw"
+last_reviewed: "2026-06-04"
+date_created: "2026-06-04"
 ---
 
-# What to do if… police contact you asking you to come in for a “voluntary” interview (USA)
+# What to do if… police contact you asking you to come in for a voluntary interview (USA)
 
 ## Short answer
-Don’t go in or answer questions until you’ve spoken with a lawyer. If you choose to engage at all, do it through counsel and keep it strictly limited.
+Pause before agreeing to an interview or discussing the facts. Say that you want to speak with a lawyer before answering questions or arranging a meeting.
 
 ## Do not do these things
-- Don’t “just go in to clear it up” without a lawyer—voluntary interviews can still be used against you.
-- Don’t explain your side on the phone, by text, or in an informal meeting first.
-- Don’t lie or guess. If you talk, even small inaccuracies can create bigger problems.
-- Don’t consent to searches (car, home, phone, accounts) or unlock devices “to speed things up” without legal advice.
-- Don’t physically resist or argue about your rights in the moment. Keep refusals calm and verbal.
-- Don’t bring friends/family to “help explain” (they can become witnesses and you can’t control what they say).
-- Don’t sign anything you don’t fully understand.
+- Don’t go in to “clear things up” before getting legal advice.
+- Don’t explain your side on the phone, by text, or in an informal conversation.
+- Don’t lie, guess, or fill gaps in your memory.
+- Don’t agree to a search or unlock a device just to speed things up.
+- Don’t delete messages, alter records, contact people to align accounts, or post about the situation online.
+- Don’t physically resist or obstruct officers.
+- Don’t sign a statement or other interview-related document before a lawyer has reviewed it.
 
 ## What to do now
-1. **Get the key details, then stop the conversation.** Ask for the officer/agent’s name, badge number, agency, office address, and a case/report number. Ask what they want to talk about (at least the general topic). Then say: “I’m not answering questions without a lawyer.”
-2. **Verify the contact independently.** Call the agency’s publicly listed number (not just the number that called/texted you) and ask to confirm the officer/agent and the request.
-3. **Speak to a criminal defense lawyer before you agree to any meeting.** If you don’t have one, use your state/local bar’s lawyer referral service or a reputable legal aid organization. If you are arrested or charged and can’t afford counsel, ask for an appointed lawyer as soon as you’re allowed.
-4. **If police press for “just a quick chat,” use one firm line.** “I’m invoking my right to remain silent. I want to speak with a lawyer. Please contact my lawyer to schedule anything further.”
-5. **If you end up face-to-face unexpectedly, clarify your status immediately.** Ask: “Am I free to leave?”
-   - If **yes**, leave calmly and call your lawyer.
-   - If **no**, say: “I’m invoking my right to remain silent. I want a lawyer.” Then stop talking.
-6. **If you are detained or arrested, don’t try to talk your way out.** Stay calm, don’t resist, and repeat: “I want a lawyer. I’m remaining silent.” Provide basic identifying information if required in your situation, but don’t answer questions about events, timelines, or other people without counsel.
-7. **Protect yourself from accidental self-incrimination.** Don’t discuss the situation over texts, social media, or with people connected to the incident. Assume anything you say could be repeated or documented.
+1. **Get the caller’s details, then pause.** Ask for the person’s name, agency, callback number, and the general purpose of the request. Do not discuss the facts. Say: “I do not want to answer questions. I want to speak with a lawyer.”
+2. **Verify the contact independently.** Find the agency’s publicly listed number yourself and ask whether the person and request are genuine. Do not rely only on the number that called or texted you.
+3. **Contact a criminal-defense lawyer before agreeing to an interview.** A state or local bar referral service may help you find one. If you are charged with an offense that might lead to imprisonment and cannot afford a lawyer, ask about a public defender or appointed lawyer at your first court appearance.
+4. **If officers approach you in person unexpectedly, ask whether you are free to leave.**
+   - If they say yes, leave calmly and contact a lawyer.
+   - If they say no, say: “I do not want to answer questions. I want a lawyer.” Do not physically resist.
+5. **If officers ask to search something, keep your response calm.** You can say: “I do not consent to a search.” If officers present a warrant or court order, do not obstruct them. Contact a lawyer promptly.
+6. **Preserve the contact details.** Save any voicemail, text, email, or letter. Make a private note of the date, time, agency, caller’s name, callback number, and the words used to describe the interview.
+7. **Keep further discussion limited.** Messages and conversations about the situation may be repeated or documented. Discuss the facts with your lawyer rather than with other people connected to the situation.
 
 ## What can wait
-- You don’t need to decide now whether to “tell your story,” give a written statement, or hand over devices.
-- You don’t need to gather evidence, contact other people involved, or post about it online.
-- You don’t need to attend a meeting just because they offered a “convenient time”—you can slow this down and get counsel first.
+- You do not need to decide immediately whether to attend an interview, give a statement, or voluntarily provide access to a device.
+- You do not need to explain events, gather materials for police, contact other people involved, or post online.
+- You do not need to agree to a convenient meeting time before getting advice. If you receive a warrant, subpoena, court order, or other formal legal document, get legal help promptly rather than ignoring it.
 
 ## Important reassurance
-A “voluntary” request can still carry high stakes. Declining to answer questions without a lawyer is a normal, legally protected choice—not an admission of guilt. Taking a pause is often the safest first move.
+A request described as “voluntary” can still feel urgent. Pausing, verifying the contact, and getting legal advice are normal first steps. You do not need to explain the situation immediately.
 
 ## Scope note
-This is first-steps guidance to prevent irreversible mistakes in the first hours/days after contact. What to do next depends on the facts and your state, so get individualized legal help.
+These are first steps only. What to do next may depend on the facts, the agency involved, and the law in your state, so later decisions may need advice from a criminal-defense lawyer.
 
 ## Important note
-This is general information, not legal advice. Laws vary by state and situation. If you’re unsure, say as little as possible and ask for a lawyer.
+This is general information, not legal advice or legal representation. Laws and procedures vary by state and situation.
 
 ## Additional Resources
 - https://www.aclu.org/know-your-rights/what-do-when-encountering-law-enforcement-questioning
@@ -70,4 +83,4 @@ This is general information, not legal advice. Laws vary by state and situation.
 - https://www.law.cornell.edu/constitution/fifth_amendment
 - https://www.law.cornell.edu/wex/self-incrimination
 - https://www.law.cornell.edu/wex/miranda_rule
-- https://www.law.cornell.edu/wex/miranda_v._arizona_%281966%29
+- https://www.americanbar.org/groups/legal_services/flh-home/

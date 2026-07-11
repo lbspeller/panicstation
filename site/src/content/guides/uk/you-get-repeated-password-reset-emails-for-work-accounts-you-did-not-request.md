@@ -1,95 +1,110 @@
-﻿---
+---
 title: "What to do if… you get repeated password reset emails for work accounts you did not request"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
-  - repeated password reset emails
-  - password reset emails at work
-  - unrequested password reset link
-  - work account reset email
-  - suspicious reset notifications
-  - account takeover warning signs
-  - credential stuffing attempts
-  - phishing using reset emails
-  - mfa prompt you didnt request
-  - unexpected security code email
-  - microsoft 365 reset email
-  - google workspace reset email
-  - work email login alerts
-  - mailbox rules changed
-  - email forwarding set up
-  - unknown device sign in
-  - oauth app permissions granted
-  - reset email flood attack
-  - someone knows my work email
-last_reviewed: "2026-01-07"
+  - "repeated password reset emails"
+  - "password reset emails at work"
+  - "unrequested password reset emails"
+  - "unexpected password reset email"
+  - "work account reset email"
+  - "reset emails for work accounts"
+  - "password reset emails not requested"
+  - "someone resetting my work password"
+  - "suspicious work account emails"
+  - "work login reset spam"
+  - "what do i do if password reset emails"
+  - "what do i do if work password resets"
+  - "what do i do if account reset emails"
+  - "what do i do if reset emails keep coming"
+  - "help i got password reset emails"
+  - "help i did not request reset emails"
+  - "my work account keeps sending resets"
+  - "my password reset emails keep arriving"
+  - "mfa prompts i did not request"
+  - "unexpected security code email"
+  - "unknown device sign in"
+  - "mailbox rules changed"
+  - "email forwarding appeared"
+  - "connected apps look unfamiliar"
+  - "reset email flood attack"
+  - "credential stuffing warning signs"
+  - "phishing reset email"
+  - "account takeover warning signs"
+  - "passwrod reset emails"
+  - "securty code email"
+  - "work laptop account email"
+  - "remote work account reset"
+  - "payroll account reset email"
+last_reviewed: "2026-05-12"
+date_created: "2026-05-12"
 ---
 
 # What to do if… you get repeated password reset emails for work accounts you did not request (UK)
 
 ## Short answer
-Do not click anything in the emails. Use a trusted channel to contact your organisation’s IT/security helpdesk now so they can check and lock down your account.
+Do not click anything in the emails. Contact your organisation’s IT or security helpdesk now using a trusted route so they can check and protect your account.
 
 ## Do not do these things
-- Do not click “reset password”, “verify”, or “unsubscribe” links in the emails (even “security” emails can be fake).
+- Do not click “reset password”, “verify”, or “unsubscribe” links in the emails.
 - Do not reply to the email or call any phone number shown in it.
-- Do not approve any sign-in/MFA prompts or read out one-time codes to anyone (including “IT”) unless you initiated the login yourself.
-- Do not forward these emails outside your organisation **unless** your organisation’s policy/IT/security asks you to (they may need to collect message details safely).
-- Do not ignore it just because “nothing happened yet” (this can be early warning of targeting).
+- Do not approve sign-in or MFA prompts, or read out one-time codes, unless you started that login yourself.
+- Do not forward the emails outside your organisation unless your organisation’s policy, IT team, or security team asks you to.
+- Do not leave it unreported until IT or security has checked it.
 
 ## What to do now
-1. **Stop and sanity-check what’s happening (30 seconds).**  
-   You’re getting password reset emails you didn’t request. Treat this as either (a) someone is trying to reset your password, or (b) someone is trying to lure you into a fake sign-in page.
+1. **Pause and treat the emails as suspicious.**  
+   Repeated password reset emails you did not request can mean someone is trying to reset your password, test your account, or lure you to a fake sign-in page.
 
-2. **Report it to your IT/security helpdesk using a trusted route.**  
-   Use your company intranet, your known helpdesk number, or your usual ticketing tool (not details inside the email). Tell them:
-   - you’re receiving repeated password reset emails you did not request
-   - when it started and how often it’s happening
-   - which accounts/services the emails mention (e.g., Microsoft 365, VPN, HR portal)
-   - whether you clicked anything or entered any details (if yes, say so plainly)
+2. **Report it to IT or security using a trusted route.**  
+   Use your company intranet, known helpdesk number, normal ticketing tool, or usual security-reporting button. Do not use contact details inside the email. Tell them:
+   - you are receiving repeated password reset emails you did not request
+   - when it started and how often it is happening
+   - which work accounts or services the emails mention, such as email, VPN, HR, payroll, finance, or a supplier portal
+   - whether you clicked anything, entered a password, approved a prompt, or shared a code
 
-3. **Ask IT/security to run specific checks right away.**  
-   Ask them to:
-   - review sign-in attempts and password reset events for your account(s)
-   - force sign-out from all sessions / revoke tokens if available
-   - check for suspicious mailbox changes (forwarding, inbox rules, delegated access)
-   - check for suspicious “connected apps”/consents if your environment supports it
-   - confirm whether other staff are seeing the same thing (pattern checking)
+3. **Ask IT or security to check the account activity.**  
+   Ask them to review:
+   - sign-in attempts and password reset events for the affected account
+   - whether any sessions should be signed out and any session tokens revoked
+   - suspicious mailbox changes, including forwarding, inbox rules, delegated access, or hidden deletion rules
+   - unfamiliar connected apps, add-ins, or consented permissions
+   - whether other staff are receiving the same kind of emails
 
-4. **Only change your password via the official portal if it’s allowed and IT hasn’t told you to wait.**  
-   From a device you trust (ideally your work device), go to your normal work sign-in page (not the email link) and follow your organisation’s process. If your organisation requires IT-led resets or asks you to pause while they investigate, follow their direction.
+4. **Change the password only through the official route.**  
+   If IT or security says you should change it now, use your normal work sign-in page or password portal, not a link from the email. Use a trusted device, ideally your work device. If your organisation requires IT-led password resets or asks you to wait while they investigate, follow that process.
 
-5. **Check for common “silent takeover” changes (if your system lets you).**  
-   In your mail settings, look for anything you didn’t set up:
+5. **Check visible email settings only if you can do so safely.**  
+   If you can access your mail settings normally, look for anything you did not set up:
    - automatic forwarding to an external address
-   - inbox rules that hide or auto-delete messages (especially from finance, HR, or your manager)
-   - unfamiliar “connected apps” or add-ins that have permission to read mail
+   - inbox rules that hide, move, or delete messages
+   - rules affecting messages from finance, HR, suppliers, your manager, or IT
+   - unfamiliar connected apps or add-ins with permission to read mail  
+   If you cannot see these settings, ask IT or security to check them for you.
 
-6. **If you clicked a link or entered your password, treat it as urgent compromise.**  
-   Tell IT/security clearly: “I clicked” / “I entered my password.” Then follow their instructions, which may include:
-   - an immediate password reset and forced sign-out
-   - checking your device for malware
-   - resetting MFA and re-verifying your identity
+6. **If you clicked a link or entered details, say that clearly.**  
+   Tell IT or security: “I clicked the link,” “I entered my password,” “I approved a prompt,” or “I shared a code.” They may need to reset your password, sign out sessions, reset MFA, check your device, or verify that no mailbox rules were added.
 
-7. **Reduce the risk of fast knock-on harm today.**  
-   If your role involves payments, payroll, HR changes, or supplier communication, message your manager that your account may be under attack and you’re working with IT—so urgent requests “from you” can be verified out-of-band today.
+7. **Protect payment, payroll, HR, and supplier processes today.**  
+   If your role involves payments, payroll, HR changes, contracts, or supplier messages, tell your manager that your account may be under attack and IT or security is checking it. Ask them to verify any urgent request that appears to come from you by a separate trusted route.
 
-8. **Preserve evidence the simple way.**  
-   Keep the emails in place (don’t delete yet) until IT/security says they have what they need. If your organisation permits external reporting, IT/security may ask you to forward suspicious emails to the UK Suspicious Email Reporting Service (report@phishing.gov.uk) or handle reporting for you.
+8. **Keep the emails available for IT or security.**  
+   Do not delete them yet. Your organisation may need the message headers or security logs. If your organisation’s policy allows it, IT or security may ask you to forward suspicious emails to report@phishing.gov.uk or may report them for you.
 
 ## What can wait
-- You do not need to work out *who* is doing it right now.
-- You do not need to report it externally unless there’s confirmed fraud/loss or IT/security advises. If you do need to report fraud: **Action Fraud** is used in **England, Wales and Northern Ireland**; in **Scotland** you would typically contact **Police Scotland**.
-- You do not need to do a full “security overhaul” today—focus on securing the specific work accounts being targeted and follow IT/security’s incident process.
+- You do not need to work out who is doing it right now.
+- You do not need to report externally unless there is confirmed fraud, money loss, data loss, or your organisation’s IT or security process tells you to.
+- If external fraud reporting is needed, Report Fraud is the usual route for England, Wales and Northern Ireland. In Scotland, Police Scotland says fraud and financial crime should be reported via 101.
+- You do not need to redesign all your security today. Focus on the affected work accounts and follow your organisation’s incident process.
 
 ## Important reassurance
-Repeated reset emails don’t automatically mean someone is already inside your account—often it’s testing passwords or trying to trick you into a fake login. The safest move is still to assume it could be the start of an account takeover and let IT/security verify and contain it.
+Repeated reset emails do not automatically mean someone is already inside your account. They are still worth acting on quickly, because early reporting gives IT or security a better chance to check logs, block misuse, and prevent knock-on harm.
 
 ## Scope note
-These are first steps to stabilise and prevent irreversible mistakes. Your organisation may have a specific incident process; follow it once you’re connected to IT/security.
+These are first steps only. Later decisions about investigation, reporting, data protection, employment process, or customer and supplier communications may need your organisation’s security, legal, HR, data protection, or specialist support.
 
 ## Important note
-This is general information, not legal advice or a substitute for your organisation’s security guidance. If you think you entered details into a suspicious site or approved an unexpected sign-in, prioritise your organisation’s IT/security instructions.
+This is general information, not legal, technical, cyber-security, employment, financial, or professional advice. Follow your organisation’s IT, security, and incident-response instructions.
 
 ## Additional Resources
 - https://www.ncsc.gov.uk/collection/phishing-scams
@@ -98,3 +113,5 @@ This is general information, not legal advice or a substitute for your organisat
 - https://www.ncsc.gov.uk/section/respond-recover/phishing
 - https://www.ncsc.gov.uk/collection/using-online-services-safely/recovering-hacked-account-or-service
 - https://learn.microsoft.com/en-us/defender-office-365/responding-to-a-compromised-email-account
+- https://www.reportfraud.police.uk/
+- https://www.scotland.police.uk/advice/scams-and-frauds/

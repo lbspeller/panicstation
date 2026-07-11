@@ -1,96 +1,120 @@
-﻿---
+---
 title: "What to do if… you stop receiving text messages and cannot get SMS verification codes"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - not receiving texts
-  - stopped getting sms
-  - sms verification not arriving
-  - cant get verification code
-  - one time code not received
-  - otp text not coming through
-  - short code texts not working
-  - 2fa sms not working
-  - phone not getting security codes
-  - texts suddenly stopped
-  - number not receiving sms
-  - verification texts delayed
-  - sms codes not delivered
-  - cannot receive login code
-  - account recovery without sms
-  - possible sim swap
-  - phone number hijacked
-  - port out fraud concern
-last_reviewed: "2026-03-08"
+  - "not receiving text messages"
+  - "stopped getting text messages"
+  - "not receiving sms codes"
+  - "sms verification not arriving"
+  - "verification codes not coming"
+  - "security code text missing"
+  - "one time code not received"
+  - "otp text not arriving"
+  - "short code texts missing"
+  - "texts suddenly stopped"
+  - "what do i do if texts stop"
+  - "what do i do if sms codes fail"
+  - "what do i do if verification code missing"
+  - "what do i do if phone stops texts"
+  - "help i cannot receive sms"
+  - "help i cannot get codes"
+  - "help i stopped getting texts"
+  - "help i need a login code"
+  - "my verification code never arrives"
+  - "my phone stopped receiving texts"
+  - "my sms codes are delayed"
+  - "my security texts disappeared"
+  - "no service on phone"
+  - "calls and texts failing"
+  - "sim change message unexpected"
+  - "esim activation unexpected"
+  - "port request message unexpected"
+  - "sim swap concern"
+  - "number takeover concern"
+  - "phone number hijacked"
+  - "short code barring confusion"
+  - "cant receive sms code"
+  - "verfication code missing"
+  - "bank login code missing"
+  - "email login code missing"
+last_reviewed: "2026-05-21"
+date_created: "2026-05-21"
 ---
 
 # What to do if… you stop receiving text messages and cannot get SMS verification codes (UK)
+
 ## Short answer
-Treat this as either a network/provisioning block (often fixable by your mobile provider) or a possible SIM-swap/number-takeover. Use another device/connection to secure key accounts and contact your mobile network urgently.
+Treat this as either a mobile network problem or a possible SIM-swap or number-takeover. Use a different device or internet connection to secure your most important accounts, and contact your mobile network urgently.
 
 ## Do not do these things
-- Don’t keep requesting new codes repeatedly for 10–30 minutes at a time (it can trigger rate-limits and make delivery worse).
-- Don’t click links or follow instructions from unexpected “verification” texts/calls that you didn’t start.
-- Don’t share any verification code with anyone (including someone claiming to be “support”).
-- Don’t factory reset your phone as a first move (it can lock you out of authenticator apps, passkeys, and recovery options).
-- Don’t assume it’s “just an app issue” if you also suddenly lost calls/SMS or got alerts about SIM/number changes.
+- Do not keep requesting new codes again and again; wait before retrying because repeated requests can trigger temporary blocks.
+- Do not click links or follow instructions from unexpected verification texts, emails, or calls that you did not start.
+- Do not share any verification code with anyone, including someone claiming to be support.
+- Do not factory reset your phone as a first move; it may make authenticator apps, passkeys, or recovery options harder to use.
+- Do not assume it is only an app issue if you also lost signal, calls, or normal texts.
 
 ## What to do now
-1. **Check for signs your number has been taken over (SIM swap/port-out).**
-   - Do you suddenly have **no signal**, “No Service”, or calls/SMS failing in/out?
-   - Did you receive any message/email about a **SIM change, eSIM activation, PAC/port request**, or account change you didn’t make?
-   - If yes, treat this as urgent fraud and go to steps 3, 4, and 7.
+1. **Check for signs your number may have been taken over.**
+   - Check whether your phone shows no signal, “No Service”, or cannot make or receive calls and texts.
+   - Look for any email, app alert, or text about a SIM change, eSIM activation, PAC request, number transfer, or account change you did not ask for.
+   - If you see any of these, treat it as urgent and continue with steps 3, 4, 5, and 7.
 
-2. **Do the quick “delivery blockers” check (2 minutes, reversible).**
-   - Toggle **Airplane mode** on/off, then restart the phone.
-   - Confirm your phone can receive **any** SMS (ask someone to text you a normal message).
-   - Check you haven’t blocked unknown senders/short codes:
-     - Review your **blocked numbers** and any **message filtering** settings.
-     - Ensure your inbox isn’t at storage limits.
+2. **Do a quick reversible phone check.**
+   - Turn Airplane mode on and off, then restart the phone.
+   - Ask someone you trust to send you a normal text message.
+   - Check blocked numbers, message filtering, spam filtering, and inbox storage.
+   - Check whether mobile signal works in another location, if you can do that without delaying the urgent steps.
 
-3. **Call your mobile network from another phone and ask for specific checks.**
+3. **Contact your mobile network from another phone or through its official website or app.**
    Ask them to:
-   - Confirm the **last SIM/eSIM change** on your account, and whether any **port/number transfer** request is active.
-   - If anything changed without you, ask them to **stop it**, **secure the account**, and tell you what they can do to prevent another attempt.
-   - Check whether your line has **barring** that blocks **short-code / premium / “chargeable” SMS** (verification codes often arrive from 5–8 digit short codes).
-   - Re-provision SMS services on the line if needed, and confirm your number is correctly set for **receiving** SMS (not just sending).
-   - Add stronger account protection (for example an account passphrase/PIN and any **port/number-transfer protection** your provider supports).
+   - Confirm the last SIM or eSIM change on your account.
+   - Check whether any PAC, port, or number-transfer request is active.
+   - Stop and investigate any change you did not request.
+   - Check whether your line has any barring that affects short-code, premium-rate, service-message, or incoming SMS.
+   - Re-provision SMS on the line if needed.
+   - Add any stronger account protection they offer, such as an account PIN, passphrase, or porting protection.
 
-4. **While you’re waiting for SMS to work, secure your most important accounts via a non-SMS route.**
-   - Prioritise: **email**, **banking**, **password manager**, and your main **Apple/Google account**.
-   - From a trusted device (or a computer on a known network), change the password for your primary email and enable a **non-SMS** second factor (authenticator app, passkey, or security key).
-   - If you’re locked out, use the provider’s **account recovery** flow, choosing **email/prompt/authenticator** options where available.
+4. **Secure key accounts without using SMS.**
+   - Prioritise your main email, banking, password manager, and Apple or Google account.
+   - Use a trusted device and a known internet connection.
+   - Change the password for your main email account if you can still get in.
+   - Turn on a non-SMS second factor where available, such as an authenticator app, passkey, or security key.
+   - If you are locked out, use the account recovery route and choose email, app prompt, authenticator, passkey, or backup-code options where available.
 
-5. **If you suspect fraud, alert the places that can lose money fast.**
-   - Contact your bank(s) using the number on your card/app (not from any text). Ask them to watch for account takeovers and unusual transfers.
-   - If you have crypto/exchange accounts tied to SMS, secure or freeze access where possible.
+5. **Warn the accounts where money could move quickly.**
+   - Contact your bank using the number on your card, in your banking app, or on the bank’s official website.
+   - Ask them to watch for account takeover, new payees, unusual transfers, and changes to contact details.
+   - If you have payment, investment, cryptocurrency, or shopping accounts tied to SMS, secure or freeze access where the official service allows it.
 
-6. **If your provider won’t fix it or you’re stuck in limbo, start a complaint trail you can escalate.**
-   - Write down: date/time, who you spoke to, what they said they changed, and any reference numbers.
-   - If still unresolved, follow your provider’s complaints process. If you reach a “deadlock” outcome, or it has been **8 weeks**, you can usually take it to an Ofcom-approved ADR scheme (your provider will be in **either** Communications Ombudsman **or** CISAS).
+6. **Keep a short complaint trail if your provider cannot fix it quickly.**
+   - Write down the date, time, contact route, person or team you spoke to, what they said, and any reference number.
+   - Follow your provider’s complaints process if the issue is not resolved.
+   - If the complaint is still unresolved after at least six weeks, or you receive a deadlock letter, you can usually take it to the provider’s Ofcom-approved ADR scheme.
 
-7. **If you think this is fraud (or money is at risk), report it through the right UK route.**
-   - If you live in **England, Wales, or Northern Ireland**, report cyber crime/fraud via **Report Fraud** (online or by phone).
-   - If you live in **Scotland**, report to **Police Scotland** (101 for non-emergency; 999 in an emergency).
+7. **Report suspected fraud through the right UK route.**
+   - If you live in England, Wales, or Northern Ireland, report fraud or cyber crime through Report Fraud.
+   - If you live in Scotland, report it to Police Scotland.
+   - Call 999 only if there is immediate danger, a crime is happening now, or you need urgent emergency help.
 
 ## What can wait
-- You do not need to decide today whether to change phone number, switch networks, or abandon accounts.
-- You do not need to “clean reinstall” your phone unless a trusted support channel confirms malware (this situation is usually network/account provisioning or account takeover).
-- You can postpone deeper security improvements (new password manager, new phone) until you can reliably access your accounts again.
+- You do not need to decide today whether to change your phone number, switch networks, or abandon accounts.
+- You do not need to reinstall or replace your phone as a first step.
+- You can leave deeper security improvements, such as changing every password or buying new hardware, until your phone line and key accounts are stable.
 
 ## Important reassurance
-This happens to lots of people for ordinary reasons (network changes, short-code barring, provider-side provisioning issues), and it can also happen during number-takeover fraud. The calm move is the same: secure key accounts without SMS, and get your provider to confirm what’s happening on your line.
+This can happen because of ordinary network or account settings, and it can also happen during number-takeover fraud. The safest calm move is the same: secure key accounts without SMS, then get your mobile network to confirm what has happened on your line.
 
 ## Scope note
-These are first steps to stabilise access and reduce the risk of account takeover. Once you can receive texts again, you can do a fuller security review and update 2FA methods away from SMS where possible.
+These are first steps to stabilise access and reduce the risk of account takeover. Later decisions, complaints, fraud recovery, or technical changes may need help from your provider, bank, account service, police route, or another specialist service.
 
 ## Important note
-This is general information, not legal, financial, or technical advice. If you suspect fraud or you’ve lost money, act quickly and use official contact routes; if you feel out of your depth, ask a trusted person to sit with you while you make the calls.
+This is general information, not legal, financial, technical, medical, therapeutic, or other professional advice. Use official contact routes, and ask a trusted person to sit with you while you make calls if you feel overwhelmed.
 
 ## Additional Resources
 - https://www.reportfraud.police.uk/faqs/
-- https://www.stopthinkfraud.campaign.gov.uk/reporting-fraud/
-- https://www.gov.uk/government/publications/joint-fraud-taskforce-telecommunications-charter/fraud-sector-charter-telecommunications-accessible-version
+- https://www.scotland.police.uk/advice/scams-and-frauds/
+- https://www.gov.uk/government/publications/fraud-sector-charter-telecommunications
 - https://www.ofcom.org.uk/phones-and-broadband/service-quality/adr-schemes
 - https://www.ncsc.gov.uk/guidance/protecting-sms-messages-used-in-critical-business-processes
 - https://www.met.police.uk/SysSiteAssets/media/downloads/force-content/met/campaigns/fraud/cyber-protect_protect-yourself-from-sim-swap-fraud.pdf

@@ -1,71 +1,101 @@
-﻿---
+---
 title: "What to do if… your device clock resets and secure websites stop loading correctly"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - device clock reset
-  - computer time wrong
-  - phone date reset
-  - system clock keeps changing
-  - time and date incorrect
-  - your clock is behind
-  - your clock is ahead
-  - secure website not loading
-  - https sites not working
-  - certificate date invalid
-  - secure connection failed
-  - connection not private warning
-  - tls certificate error
-  - browser says insecure
-  - wifi works but secure sites fail
-  - safari can’t establish secure connection
-  - chrome clock error
-  - firefox time error
-  - device lost time after restart
-  - laptop battery clock problem
-last_reviewed: "2026-03-08"
+  - "device clock resets"
+  - "device clock keeps changing"
+  - "device time is wrong"
+  - "computer clock resets"
+  - "phone date resets"
+  - "laptop clock battery problem"
+  - "secure websites stop loading"
+  - "secure websites show warnings"
+  - "https websites not working"
+  - "certificate date invalid"
+  - "what do i do if device clock resets"
+  - "what do i do if secure websites fail"
+  - "what do i do if my clock is wrong"
+  - "what do i do if websites say insecure"
+  - "help i cannot open secure websites"
+  - "help i see certificate warnings"
+  - "my device clock is behind"
+  - "my device clock is ahead"
+  - "my browser says clock error"
+  - "my secure websites will not load"
+  - "your clock is behind warning"
+  - "your clock is ahead warning"
+  - "connection not private warning"
+  - "secure connection failed"
+  - "browser certificate error"
+  - "date and time incorrect"
+  - "wifi works but websites fail"
+  - "websites fail after restart"
+  - "clock wrong after restart"
+  - "secure sites blocked"
+  - "certificate problem"
+  - "certificat error"
+  - "secure websits not loading"
+  - "public wifi secure websites fail"
+last_reviewed: "2026-05-25"
+date_created: "2026-05-25"
 ---
 
 # What to do if… your device clock resets and secure websites stop loading correctly (UK)
+
 ## Short answer
-Set your device’s date/time correctly (prefer “set automatically”), then restart the browser (or device) and try again. Don’t bypass security warnings while your clock is wrong.
+Set the device date, time and time zone correctly, preferably using automatic time, then restart the browser and try again. Do not bypass certificate or “connection not private” warnings while the clock is wrong.
 
 ## Do not do these things
-- Don’t click through “Your connection isn’t private” / certificate warnings just to “get in”.
-- Don’t enter passwords, card details, or one-time codes on any page showing a security warning.
-- Don’t install “certificate fix” apps/extensions or accept random “security updates” offered by pop-ups.
-- Don’t change lots of security settings at once (VPN/proxy/“web protection”/antivirus HTTPS scanning) without noting what you changed.
+- Do not click through certificate, “your connection is not private”, or “secure connection failed” warnings just to get in.
+- Do not enter passwords, card details, one-time codes, or recovery codes on any page showing a security warning.
+- Do not install “certificate fix” apps, browser extensions, or security updates offered by pop-ups.
+- Do not change many security settings at once. Avoid changing VPN, proxy, web protection, antivirus, and browser certificate settings together.
+- Do not use links from pop-ups, warning pages, or suspicious messages to reach banking, email, work, HMRC, or GOV.UK services.
 
 ## What to do now
-1. **Pause anything sensitive.** If you were trying to sign into banking, email, work, HMRC, or GOV.UK services, stop until the clock is correct.
-2. **Set the clock to automatic time and confirm the time zone.**
-   - **Windows:** Settings → *Time & language* → *Date & time* → turn **Set time automatically** ON and **Set time zone automatically** ON (or choose the correct zone), then use **Sync now** if available.
-   - **Mac:** System Settings → *General* → *Date & Time* → turn on **Set time and date automatically** and confirm your time zone.
-   - **iPhone/iPad:** Settings → *General* → *Date & Time* → turn on **Set Automatically**.
-   - **Android (varies):** Settings → *Date & time* → turn **Automatic date & time** ON and **Automatic time zone** ON (wording/paths vary by device).
-3. **Restart the simplest thing first.** Close and reopen the browser. If that doesn’t help, restart the device.
-4. **Check if it’s only one network.** Try a different connection (mobile hotspot or another Wi-Fi). If it works elsewhere, your router/network filtering/captive portal may be involved.
-5. **Temporarily disable VPN/proxy or HTTPS inspection you control.** Some VPNs and security tools can interfere with secure connections. Change one thing, test, and then restore what you turned off.
-6. **Update the browser/OS if you can.** If the device is far behind on updates, some modern secure sites will fail even after fixing the time.
-7. **If the clock resets again after a restart, treat it as a reliability warning.** On some laptops/desktops this can happen if the internal clock battery/RTC is failing. If you need to access important accounts today, use a different trusted device until this is fixed.
-8. **If you suspect a scam or account compromise, use safe reporting routes.**
-   - **If it’s a suspicious email or website:** forward emails to **report@phishing.gov.uk** and forward suspicious texts to **7726**.
-   - **If money was lost or accounts were accessed:** in **England/Wales/Northern Ireland**, report via the **Report Fraud** service; in **Scotland**, contact **Police Scotland** (101 for non-emergency) and follow their cybercrime/scam guidance.
-   - Don’t use links from pop-ups or suspicious messages; use saved bookmarks or type known addresses.
+1. **Pause anything sensitive.** If you were trying to sign in to banking, email, work, HMRC, GOV.UK, shopping, or cloud storage, stop until the clock and the browser warning are fixed.
+
+2. **Set the clock to automatic time and check the time zone.**
+   - **Windows:** Settings → Time & language → Date & time → turn **Set time automatically** on. Turn **Set time zone automatically** on if available, or choose the correct UK time zone. Use **Sync now** if it is shown.
+   - **Mac:** System Settings → General → Date & Time → turn on **Set time and date automatically** and **Set time zone automatically using your current location** if available.
+   - **iPhone or iPad:** Settings → General → Date & Time → turn on **Set Automatically**. If it is greyed out, check whether Screen Time, a work profile, or network restrictions are controlling it.
+   - **Android:** Settings → Date & time, or System → Date & time → turn on automatic date, time, and time zone settings. Wording varies by device.
+
+3. **Restart the browser.** Fully close and reopen the browser. If the warning is still there, restart the device.
+
+4. **Try one known safe site by typing the address yourself.** Use a familiar address rather than a link from an email, text, advert, or pop-up. If the warning remains, stop before entering any details.
+
+5. **Check whether it is only one network.** Try mobile data, a mobile hotspot, or another trusted Wi-Fi connection. If secure sites work elsewhere, the original Wi-Fi, router, captive portal, or network filtering may be involved.
+
+6. **Change only one security setting at a time.** If you use a VPN, proxy, web-filtering tool, antivirus HTTPS scanning, or a work security product that you control, turn off one item briefly, test, then turn it back on if it does not help. If it is a work or school device, ask IT before changing managed settings.
+
+7. **Update the browser and operating system if you can do that safely.** A very outdated browser or operating system may still fail on some secure websites even after the time is corrected.
+
+8. **If the clock resets again after a normal restart, use another trusted device for urgent accounts.** A clock that repeatedly loses the date or time may point to a failing internal clock battery, firmware issue, power problem, or managed-device setting. Avoid account recovery or banking on the unreliable device until it is stable.
+
+9. **If you entered details during a warning, act from a trusted device.** Change the affected password, sign out of other sessions where the service allows it, and contact the bank, card provider, workplace, email provider, or account support route involved. Use the app, saved bookmark, card number, or official website address you already trust.
+
+10. **Report suspicious messages or losses through UK routes.**
+    - Forward suspicious emails to report@phishing.gov.uk.
+    - Forward suspicious texts to 7726.
+    - If money was lost, an account was accessed, or you responded to a scam, use Report Fraud if you are in England, Wales or Northern Ireland.
+    - If you are in Scotland, contact Police Scotland for reporting guidance.
 
 ## What can wait
-- You do **not** need to decide whether it’s malware vs hardware right now — first get the clock stable and stop entering credentials while warnings show.
-- You do **not** need to reinstall the operating system as a first move.
-- You can postpone deep troubleshooting (factory reset, replacing parts) until you’ve confirmed whether the time keeps drifting after normal restarts.
+- You do not need to decide now whether the cause is malware, hardware, Wi-Fi, the browser, or an update problem.
+- You do not need to reinstall the operating system as a first step.
+- You can postpone deeper troubleshooting, factory reset, part replacement, and long device-repair decisions until you know whether the clock stays correct after normal restarts.
+- You can leave non-urgent browsing, shopping, and account changes until secure websites load without warnings.
 
 ## Important reassurance
-This is a common failure mode: secure sites rely on accurate time to validate security certificates. Slowing down and fixing the clock first is the safest move.
+This can happen when secure websites cannot check certificates against the correct date and time. Fixing the clock first is a calm, sensible step and often resolves the immediate problem.
 
 ## Scope note
-These are first steps to restore safe access and prevent credential loss. If the clock keeps resetting, you may need device support/repair or IT admin help to permanently fix time sync or hardware issues.
+These are first steps to restore safer access and reduce the chance of credential loss. Later decisions may need specialist device support, workplace IT help, bank support, or fraud-reporting help depending on what happened.
 
 ## Important note
-This is general information, not professional IT or legal advice. If you think an account was accessed, prioritise protecting money and identity: use official support channels you already trust, change passwords only after the device clock is correct, and consider using a different known-good device for account recovery.
+This is general information, not professional IT, legal, financial, cyber-security, or repair advice. For urgent account, money, work-device, or identity concerns, use official support routes from a trusted device.
 
 ## Additional Resources
 - https://support.microsoft.com/en-us/windows/set-time-date-and-time-zone-settings-in-windows-dfaa7122-479f-5b98-2a7b-fa0b6e01b261

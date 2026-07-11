@@ -1,91 +1,107 @@
-﻿---
+---
 title: "What to do if… you receive a notification that screen sharing or remote management was enabled without your consent"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - remote management enabled
-  - screen sharing turned on
-  - unauthorized remote access
-  - someone can see my screen
-  - remote control notification
-  - computer hacked warning
-  - unexpected admin access
-  - mac screen sharing alert
-  - windows remote desktop enabled
-  - remote assistance turned on
-  - device is being managed
-  - mdm profile installed
-  - unknown device access
-  - suspicious login device
-  - account takeover suspicion
-  - tech support scam remote access
-  - remote tool installed
-  - privacy breach on device
-  - laptop being controlled
-  - corporate device management surprise
-last_reviewed: "2026-03-09"
+  - "remote management enabled"
+  - "screen sharing enabled"
+  - "screen sharing notification"
+  - "remote management notification"
+  - "screen sharing without consent"
+  - "remote access without consent"
+  - "remote-control tool installed"
+  - "device management enabled"
+  - "computer remote access alert"
+  - "unknown screen sharing"
+  - "what do i do if screen sharing enabled"
+  - "what do i do if remote management enabled"
+  - "what do i do if my screen is shared"
+  - "what do i do if remote access appeared"
+  - "help i got a remote management notification"
+  - "help i see screen sharing enabled"
+  - "help i think my laptop is controlled"
+  - "help i approved remote access"
+  - "my computer says remote management"
+  - "my laptop shows screen sharing"
+  - "my device is being managed"
+  - "my screen may be visible"
+  - "new admin account appeared"
+  - "unknown management profile"
+  - "remote desktop turned on"
+  - "quick assist was opened"
+  - "anydesk or teamviewer installed"
+  - "settings greyed out"
+  - "work device management confusion"
+  - "school device management confusion"
+  - "tech support scam confusion"
+  - "screen shareing enabled"
+  - "remot access notification"
+  - "personal laptop remote access"
+  - "shared family computer alert"
+  - "work account on personal device"
+last_reviewed: "2026-05-18"
+date_created: "2026-05-18"
 ---
 
 # What to do if… you receive a notification that screen sharing or remote management was enabled without your consent (UK)
 
 ## Short answer
-Disconnect the device from the internet (Wi-Fi and mobile data) to cut off any live remote access, then secure your accounts from a different trusted device.
+Disconnect the affected device from the internet now, then use a different trusted device to secure the accounts that could control it.
 
 ## Do not do these things
-- Don’t click “Allow”, “Trust”, or approve any pop-up prompt you didn’t request, even to “see what happens”.
-- Don’t call phone numbers shown in pop-ups or messages claiming to be “support”.
-- Don’t keep using the device for banking, email, password managers, or work logins until you’ve contained the issue.
-- Don’t uninstall or “clean up” everything immediately if you may need evidence for work/insurance/police—take a few screenshots first.
-- Don’t assume it’s “just a glitch” if you also notice new admin accounts, new device management, or unusual logins.
+- Don’t click “Allow”, “Trust”, “Share screen”, “Give control”, or similar prompts you did not request.
+- Don’t call phone numbers shown in pop-ups, warnings, emails, or messages claiming to be support.
+- Don’t use the affected device for banking, email, password managers, work logins, or identity checks until you have contained the issue.
+- Don’t delete remote-access apps, profiles, new users, or logs before recording their names if you may need evidence.
+- Don’t confront someone you suspect while they may still have access to your device or accounts.
 
 ## What to do now
-1. **Get to a safer pause and cut connectivity.**  
-   Turn on Airplane mode, switch off Wi-Fi and Bluetooth, and unplug any Ethernet cable. If it’s a home router you control and you suspect multiple devices are affected, pause and consider switching off the router briefly while you stabilise.
-2. **Capture proof without interacting further.**  
-   Take clear photos/screenshots of the notification(s), the time/date, and any app/service name shown (for example “Remote Management”, “Screen Sharing”, “Remote Desktop”, “AnyDesk/TeamViewer”).
-3. **Check whether the device is supposed to be managed.**  
-   If this is a **work/school device** (or you use it for work accounts), stop and contact your organisation’s IT/helpdesk using a known internal number or portal. Remote management can be legitimate on managed devices, and they need to confirm what changed.
-4. **Turn off sharing/remote features you can see.**  
-   Without reconnecting to the internet if possible:
-   - On your system’s **Sharing/Remote access** settings, switch off screen sharing/remote management/remote login/remote desktop/remote assistance.  
-   - If the setting is **greyed out** or says the device is **managed**, treat that as a red flag (or a sign it’s legitimately managed)—don’t try to “hack around” it; move to the next steps.
-5. **Look for a new admin account or new “device management”.**  
-   Check:
-   - **User accounts**: any new admin user you don’t recognise.  
-   - **Device management / profiles**: anything newly installed that claims to manage the device.  
-   If you find something suspicious, **don’t delete it yet**—note the exact names and take screenshots.
-6. **From a different trusted device, secure the accounts that can control this device.**  
-   Prioritise: your **email**, **Apple ID/Microsoft/Google account**, and any **work single sign-on**. Do this in order:
-   - Change passwords to strong, unique ones.
-   - Turn on multi-factor authentication (MFA) if it isn’t already.
-   - Sign out of other sessions/devices and remove any devices you don’t recognise.
-7. **Run a trusted scan and remove remote-control tools (if present).**  
-   If you can safely do so, run an up-to-date security scan. Uninstall any remote-control apps you didn’t install (common examples are remote support tools). If you’re unsure what’s legitimate, take a photo of the installed-apps list and ask a trusted tech person or IT.
-8. **If you suspect the device is compromised, plan a clean reset.**  
-   The most reliable way to regain control is often a full system reset/reinstall and restoring from a backup made **before** the problem started. If the device holds work data, coordinate this with IT first.
-9. **Report it if it’s criminal or involves loss.**  
-   - If you believe you’ve been hacked or scammed in **England, Wales, or Northern Ireland**, report it to **Report Fraud** (online, or by phone).  
-   - If you live in **Scotland** or the crime happened there, contact **Police Scotland** (use **101** for non-emergencies).  
-   - If you’re in immediate danger or an active crime is in progress, call **999**.
+1. **Disconnect the affected device.**  
+   Turn on flight mode if available, turn off Wi-Fi, unplug Ethernet, and disconnect any mobile hotspot. Leave the device powered on if you can do so safely, so the notification and evidence remain visible.
+
+2. **Record what you can see.**  
+   Use your phone or another device to photograph the notification, time and date, app name, account name, device name, and any wording such as “Screen Sharing”, “Remote Management”, “Remote Desktop”, “Quick Assist”, “AnyDesk”, “TeamViewer”, or “device is managed”.
+
+3. **Do not approve or continue any remote session.**  
+   If a remote-control window is open, choose the option to leave, end, cancel control, or stop sharing. If you cannot tell which button is safe, keep the device disconnected and move to account security from another device.
+
+4. **Check whether management is expected.**  
+   If this is a work or school device, or if it has work or school accounts on it, stop using it and contact your organisation’s IT or helpdesk using a known internal route. Remote management can be legitimate on managed devices, but IT should confirm whether this change was expected.
+
+5. **Look for visible remote-access settings without reconnecting.**  
+   On a Mac, check Sharing settings for Screen Sharing, Remote Management, Remote Login, and any management profiles. On Windows, check Remote Desktop, Remote Assistance, Quick Assist activity, installed apps, and user accounts. If a setting is greyed out or says the device is managed, write down exactly what it says rather than trying to bypass it.
+
+6. **Secure controlling accounts from a different trusted device.**  
+   Start with your email account, then Apple, Microsoft, Google, and any work sign-in. Change passwords to strong unique passwords, turn on multi-factor authentication where available, sign out of other sessions, and remove devices or app access you do not recognise.
+
+7. **Check for new admin users, profiles, and remote tools.**  
+   Write down or photograph any unknown administrator account, device management profile, remote-control app, browser extension, or recently installed software. If you are confident it is not legitimate and you do not need it as evidence, uninstall it; if you are unsure, ask IT or a trusted technician first.
+
+8. **Decide whether the device needs a clean reset.**  
+   If remote access may have been active, or you find unknown admin access or management profiles, the safer route is usually a full reset or reinstall and restoring only from a backup made before the problem started. If the device contains work data, coordinate this with IT first.
+
+9. **Report it if it appears criminal, involves money, or affects identity or work data.**  
+   For England, Wales, or Northern Ireland, use Report Fraud for cyber crime or fraud. If you live in Scotland or the crime happened there, contact Police Scotland on 101 for non-emergencies. If an active crime is happening now or someone is in immediate danger, call 999.
 
 ## What can wait
-- You don’t need to identify “who did it” right now.
-- You don’t need to confront anyone you suspect or message the attacker.
-- You don’t need to decide today whether to replace the device—containment and account security come first.
-- You don’t need to tidy files or do a full forensic investigation before you’ve secured email and primary logins.
+- You do not need to work out who did it right now.
+- You do not need to replace the device today.
+- You do not need to tidy files, run every possible scan, or do a full investigation before securing your email and main accounts.
+- You do not need to reply to messages, pop-ups, or callers claiming they can fix it.
 
 ## Important reassurance
-It’s common to feel shaken and urgently want to “fix everything” at once. You’re not overreacting—unauthorised remote access can be serious. Cutting connectivity, preserving a little evidence, and securing key accounts are the quickest steps that reduce harm.
+A remote access notification is unsettling, but the first useful steps are simple: disconnect the device, keep a small record of what appeared, and secure the accounts from another device. Doing those things reduces the chance of further access while you decide what help you need.
 
 ## Scope note
-These are first steps to stop ongoing access and prevent irreversible mistakes. If the device is managed by an employer/school, or if money/identity data may be involved, you may need specialist support (IT, bank, or reporting channels).
+These are first steps only. Later decisions, such as forensic checking, workplace reporting, fraud reporting, insurance, or a clean reinstall, may need specialist help from IT, your bank, a trusted technician, or official reporting channels.
 
 ## Important note
-This is general information, not legal or technical assurance. Device menus and names vary by system and organisation. If you cannot verify a setting safely, prioritise disconnecting, protecting accounts from a trusted device, and getting help from official support/IT.
+This is general information, not legal, technical, financial, therapeutic, or professional advice. Device menus and wording vary, so use official support or trusted IT help if you cannot safely verify a setting.
 
 ## Additional Resources
 - https://support.apple.com/en-gb/guide/mac-help/mh11848/mac
+- https://support.microsoft.com/en-gb/windows/solve-pc-problems-remotely-using-quick-assist-b077e31a-16f4-2529-1a47-21f6a9040bf3
+- https://support.microsoft.com/en-gb/windows/how-to-use-remote-desktop-5fe128d5-8fb1-7a23-3b8a-41e636865e8c
 - https://www.ncsc.gov.uk/guidance/recovering-a-hacked-account
-- https://www.reportfraud.police.uk/computer-hacking/
 - https://www.reportfraud.police.uk/reporting-a-fraud/
-- https://www.reportfraud.police.uk/contact-us/
+- https://www.scotland.police.uk/advice/cybercrime/

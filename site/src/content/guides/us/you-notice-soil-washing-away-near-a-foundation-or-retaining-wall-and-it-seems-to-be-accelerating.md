@@ -1,77 +1,104 @@
-﻿---
+---
 title: "What to do if… you notice soil washing away near a foundation or retaining wall and it seems to be accelerating"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
-  - soil washing away near foundation
-  - erosion next to house
-  - retaining wall soil loss
-  - foundation undermined by water
-  - washout near basement wall
-  - sinkhole near home
-  - void under driveway or slab
-  - retaining wall leaning or bulging
-  - sudden ground settlement by house
-  - storm runoff scouring yard
-  - soil disappearing after rain
-  - erosion around footing
-  - foundation cracks after heavy rain
-  - accelerating erosion at wall
-  - possible retaining wall collapse
-  - water pooling by foundation
-  - washout near garage slab
-  - hillside erosion near house
-last_reviewed: "2026-03-05"
+  - "soil washing away near foundation"
+  - "erosion next to house"
+  - "retaining wall soil loss"
+  - "foundation undermined by water"
+  - "washout near basement wall"
+  - "sinkhole near home"
+  - "void under driveway slab"
+  - "retaining wall leaning"
+  - "retaining wall bulging"
+  - "sudden ground settlement"
+  - "storm runoff scouring yard"
+  - "soil disappearing after rain"
+  - "erosion around footing"
+  - "foundation cracks after rain"
+  - "accelerating erosion near wall"
+  - "possible retaining wall collapse"
+  - "water pooling by foundation"
+  - "washout near garage slab"
+  - "hillside erosion near house"
+  - "what do i do if soil is washing away"
+  - "what do i do if foundation soil is eroding"
+  - "what do i do if retaining wall is failing"
+  - "what do i do if ground is sinking"
+  - "help i found a void by my foundation"
+  - "help i think my retaining wall may collapse"
+  - "help i see soil washing away"
+  - "help i have erosion near my house"
+  - "my foundation has soil loss"
+  - "my retaining wall is leaning"
+  - "my yard is washing out"
+  - "soft ground near foundation"
+  - "hollow slab near washout"
+  - "new cracks after heavy rain"
+  - "water carrying soil away"
+  - "foundaton erosion near house"
+  - "retaining wall buldge"
+last_reviewed: "2026-06-18"
+date_created: "2026-06-18"
 ---
 
 # What to do if… you notice soil washing away near a foundation or retaining wall and it seems to be accelerating (USA)
+
 ## Short answer
-Assume there’s a real collapse risk: keep everyone away from the area, reduce water driving the erosion, and get an urgent inspection by a licensed structural engineer (and involve your insurer early).
+Treat it as a possible collapse or undermining risk: keep people away, stop obvious water feeding the washout if you can do that safely, and arrange urgent help from a licensed professional engineer with structural or geotechnical experience.
 
 ## Do not do these things
-- Don’t step near the edge of a new void/soft spot/sinkhole-like depression (the ground can cave in without warning).
-- Don’t dig to “check how deep it goes” or remove more soil near the wall/foundation.
-- Don’t backfill with soil, gravel, or concrete as a quick fix (it can add load, hide voids, and complicate proper repair).
-- Don’t run hoses, pressure-wash, or otherwise add water to the area.
-- Don’t park vehicles or store heavy items near the undermined zone or behind the retaining wall.
-- Don’t start repair work that involves excavation until utilities are located and a professional has assessed the risk.
+- Don’t step near the edge of a new void, soft spot, or sinkhole-like depression.
+- Don’t dig to check how deep it goes.
+- Don’t remove more soil from near the foundation, slab, slope, or retaining wall.
+- Don’t backfill against the foundation or wall with soil, gravel, or concrete as a DIY quick fix.
+- Don’t run hoses, pressure-wash, drain pools, or add water to the area.
+- Don’t park vehicles or store heavy items near the undermined area or behind the retaining wall.
+- Don’t let anyone enter a trench, hole, or undercut area.
+- Don’t start excavation or repair work until utilities have been located and the site has been assessed.
 
 ## What to do now
-1. **Set a hard boundary around the area.** Keep people, pets, and vehicles away. If it’s near a walkway/driveway, block access and don’t drive over or next to it.
-2. **Scan for immediate danger signs (from a distance):** retaining wall leaning/bulging, fresh widening cracks, sudden drops/settlement, hollow-sounding slabs, or water actively carrying soil.  
-   - If you think collapse could happen soon or someone could be hurt, **call 911**.
-3. **Cut off the water feeding the washout (only if safe and obvious).**
-   - If a downspout is dumping water there, **redirect it** (temporary extension to a safer discharge point).
-   - If a sprinkler/irrigation line might be involved, **turn that zone off**.
-   - If you suspect a plumbing leak but aren’t sure, stop using water in that area and arrange urgent plumbing help.
-4. **Capture evidence before it changes.** Take photos/video from several angles with a size reference, and write a simple timeline (when noticed, how fast changing, rainfall/irrigation events).
-5. **Get an urgent professional assessment.**
-   - **Call a licensed structural engineer** (and/or geotechnical engineer) and describe it as “accelerating erosion undermining a foundation/retaining wall.”
-   - If the wall supports a slope or driveway, tell them what’s above/below it and whether it’s near a property line.
-6. **Call your homeowners insurance promptly.** Report it as potential structural/foundation/retaining wall instability and ask what documentation they want and whether they have preferred engineers/contractors.
-7. **Protect yourself from utility strikes before any digging.**
-   - Before *any* digging or contractor excavation, contact **811 (“Call Before You Dig”)** so underground utilities can be located/marked.
-8. **Notify local authorities if there’s public risk or shared structures.**
-   - If the problem affects a public sidewalk/road, or a shared/boundary retaining wall, contact your **city/county building department** (and/or public works) to report a potentially unsafe condition.
+1. **Move everyone back from the area.** Keep people, pets, and vehicles away from the washout, the wall, the slope above it, and the area below it. Block a driveway or walkway if it is close to the problem.
+
+2. **Check for immediate danger from a safe distance.** Look for a leaning or bulging retaining wall, fresh widening cracks, sudden settlement, a hollow-sounding slab, active water carrying soil, or a void opening under concrete. If collapse could happen soon or someone could be hurt, call **911**.
+
+3. **Stop obvious water feeding the erosion, only if it is safe.**
+   - Move a downspout extension so water discharges away from the foundation, wall, slope, and neighboring property where possible.
+   - Turn off nearby sprinklers or irrigation zones.
+   - Stop using an outdoor hose or drain line that is discharging near the washout.
+   - If a plumbing leak is possible, reduce water use in that area and call a plumber urgently.
+
+4. **Make a quick record without getting close.** Take photos and video from safe angles. Include a size reference if you can do that without stepping near the edge. Write down when you first noticed it, recent rain or irrigation, and whether it is changing by the hour or day.
+
+5. **Call for urgent professional assessment.** Contact a licensed professional engineer with structural or geotechnical experience. Say: “Accelerating erosion may be undermining a foundation or retaining wall.” Tell them what is above and below the wall, whether a driveway or structure is nearby, and whether water is still flowing.
+
+6. **Contact your homeowners insurance company or agent promptly.** Report possible foundation, structural, or retaining wall damage. Ask what photos, videos, engineer reports, contractor estimates, or temporary safety steps they want. Coverage depends on your policy and the cause, so do not assume the answer before asking.
+
+7. **Use 811 before any digging.** Before you, a contractor, or anyone else digs or excavates, contact **811** so underground utilities can be located and marked.
+
+8. **Report public or shared risk.** If the washout affects a public sidewalk, street, drainage channel, utility area, shared driveway, or boundary retaining wall, contact your local building department, code enforcement office, or public works department to report a potentially unsafe condition.
 
 ## What can wait
-- Picking the permanent fix (rebuild, anchors, drainage rebuild, underpinning) — that decision belongs after engineering assessment.
-- Arguing fault or cost-sharing — focus first on safety and stopping further erosion.
-- Cosmetic repairs (crack patching, re-leveling pavers/slabs) — don’t do these until the underlying cause is addressed.
-- Detailed measurements — a clear photo record and a short timeline are enough for now.
+- Choosing the permanent repair, such as wall rebuilding, drainage work, anchors, underpinning, or slab repair.
+- Deciding who is at fault or who should pay.
+- Cosmetic crack patching, paver leveling, landscaping, or reseeding.
+- Detailed measurements close to the void or wall.
+- Hiring a repair contractor before the safety and engineering issue is understood.
 
 ## Important reassurance
-This is scary because it feels sudden and irreversible — but you can meaningfully reduce risk quickly by **keeping clear of the area, removing water as the driver, and getting the right professional involved**. You don’t need to diagnose the cause yourself.
+You do not need to diagnose the cause yourself. The useful first steps are simple: keep people away, reduce obvious water if safe, document what is happening, and get the right professional involved.
 
 ## Scope note
-These are first steps only. The correct repair depends on what’s driving the erosion (runoff, drainage failure, broken lines, soil conditions, or wall defects) and requires on-site professional evaluation.
+These are first steps only. Later decisions may need help from a licensed engineer, qualified contractor, plumber, insurance professional, or local building official, depending on what is causing the soil loss.
 
 ## Important note
-This is general safety guidance, not engineering advice for your specific property. If there’s any immediate risk of collapse or injury, call emergency services and keep people well away.
+This is general information, not engineering, legal, insurance, financial, medical, therapeutic, or other professional advice. For immediate danger, call emergency services and keep people well away from the area.
 
 ## Additional Resources
 - https://www.transportation.gov/content/call-811-you-dig-1
 - https://811beforeyoudig.com/811-in-your-state/
-- https://www.ready.gov/landslides-debris-flow
+- https://pubs.usgs.gov/circ/1325/pdf/Sections/Section2.pdf
 - https://www.cdc.gov/niosh/trenching/about/index.html
 - https://www.osha.gov/sites/default/files/publications/osha2226.pdf
+- https://content.naic.org/article/what-you-need-know-when-filing-homeowners-claim

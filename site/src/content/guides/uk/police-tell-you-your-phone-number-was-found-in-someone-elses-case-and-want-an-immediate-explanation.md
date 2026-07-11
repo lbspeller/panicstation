@@ -1,77 +1,104 @@
-﻿---
+---
 title: "What to do if… police tell you your phone number was found in someone else’s case and want an immediate explanation"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
-  - police say my number was found
-  - my phone number linked to a case
-  - police want an explanation now
-  - unexpected call from police
-  - pressure to talk immediately
-  - caller claims to be an officer
-  - verify a police caller
-  - police impersonation phone scam
-  - caller id shows police station
-  - number spoofing scam call
-  - asked to confirm personal details
-  - asked to come to station today
-  - asked to give a quick statement
-  - someone else used my number
-  - my number in someone else's phone
-  - worried i am being blamed
-  - scared of being arrested suddenly
-  - police request feels suspicious
-last_reviewed: "2026-03-06"
+  - "police found my phone number"
+  - "phone number in police case"
+  - "phone number linked to case"
+  - "police want immediate explanation"
+  - "police asking about my number"
+  - "number found in someone else case"
+  - "unexpected police phone call"
+  - "police say i am involved"
+  - "what do i do if police call"
+  - "what do i do if police ask"
+  - "what do i do if police want explanation"
+  - "what do i do if my number"
+  - "help i got a police call"
+  - "help i feel blamed by police"
+  - "help i might be scammed"
+  - "help i am being pressured"
+  - "my number is in a case"
+  - "my phone number was found"
+  - "my number linked to police"
+  - "my old number in evidence"
+  - "caller says they are police"
+  - "caller knows my name"
+  - "caller asks personal details"
+  - "caller wants me at station"
+  - "caller sounds urgent"
+  - "caller id says police"
+  - "informal police chat"
+  - "voluntary police interview"
+  - "police impersonation scam"
+  - "police phone scam"
+  - "fone number in police case"
+  - "police numbr found"
+  - "uk police phone call"
+  - "landline police scam call"
+  - "mobile number in case"
+last_reviewed: "2026-04-30"
+date_created: "2026-04-30"
 ---
 
 # What to do if… police tell you your phone number was found in someone else’s case and want an immediate explanation (UK)
 
 ## Short answer
-Pause and verify the caller independently before you explain anything. If it’s genuine, you can arrange a time to speak with legal advice rather than doing it immediately on the phone.
+Pause, end the unexpected call, and verify it independently before explaining anything. If the contact is genuine, ask for legal advice and arrange a verified time before answering questions about an offence.
 
 ## Do not do these things
-- Don’t “prove you’re innocent” by giving a long explanation on an unexpected call.
-- Don’t confirm personal details (address, date of birth, workplace, banking info) just because they already know your name.
-- Don’t stay on the line while you “get transferred” or while they keep you talking — end the call and verify separately.
-- Don’t agree to an “informal chat” that’s actually questioning about an offence without getting clarity on your status.
-- Don’t let urgency push you into attending a station straight away without asking what the meeting is and your rights.
-- Don’t hand over money, bank cards, PINs, or devices to anyone who turns up because of a phone call.
+- Don’t try to “prove you’re innocent” by giving a long explanation on an unexpected call.
+- Don’t confirm your address, date of birth, workplace, banking details, passwords, codes, or phone contents just because the caller already knows your name.
+- Don’t stay on the line while the caller says they will transfer you to another officer, a bank, or a fraud team.
+- Don’t agree to an “informal chat” about an offence without asking whether you are being treated as a witness, suspect, or voluntary attendee.
+- Don’t attend a station immediately just because the caller sounds urgent; verify the request and ask what the appointment is for.
+- Don’t hand over money, bank cards, PINs, valuables, devices, or SIM cards to anyone because of a phone call.
 
 ## What to do now
-1. **End the call calmly.** Say: “I’m willing to cooperate, but I’m going to verify this and call back via the official route.” Then hang up.
-2. **Verify in a way scammers can’t control.** If you were called, **wait at least 5 minutes** and make sure you have a dial tone (scammers can sometimes keep the line open). Then:
-   - **Call 101** and ask to confirm the officer/unit.
-   - Provide the **name, rank, collar number, station, and any reference/crime number** you were given.
-   - Use **999 only** if you feel threatened or in immediate danger.
-3. **If it checks out, get clarity before you talk.** Ask (on the verified line):
-   - “Am I being contacted as a witness, or do you think I’m involved?”
-   - “Are you inviting me to a voluntary interview, and will it be under caution?”
-   - “What offence is this about, and what do you need from me right now?”
-4. **If they want questioning, ask for legal advice and schedule it.** You can say:
-   - “I’m not discussing this by phone. Please arrange a time and confirm whether it’s under caution.”
+1. **End the call calmly.** Say: “I’m willing to cooperate, but I’m going to verify this and call back through an official route.” Then hang up.
+
+2. **Verify the contact independently.** Use another phone if you can. If you are using a landline, wait a few minutes and check you have a dial tone before calling out, because some scam calls can try to keep the line open. Then use an official route:
+   - Call **101** for non-emergency police contact, or use your local police force’s official website.
+   - Call **999** only if someone is in immediate danger or a crime is happening now.
+   - Give the name, rank, collar number, station, unit, and reference or crime number the caller gave you, and ask whether the contact is genuine.
+
+3. **If the contact is genuine, ask your status before discussing facts.** Ask:
+   - “Am I being contacted as a witness, or do you think I may be involved?”
+   - “Are you asking me to attend voluntarily?”
+   - “Would any interview be under caution?”
+   - “What offence or incident is this about?”
+   - “What do you need from me right now, before any interview is arranged?”
+
+4. **If they want to question you about an offence, ask for legal advice first.** You can say:
+   - “I’m not discussing this by phone. Please confirm the appointment through the verified route.”
    - “I want legal advice before answering questions.”
-5. **Write down what happened while it’s fresh.** Time/date, what was said, numbers used, names/collar number, any reference number, and any pressure tactics.
-6. **If anything felt off, treat it as possible impersonation.** Report the attempt through the UK’s fraud reporting routes. If you shared sensitive details, change passwords and contact relevant providers/banks promptly.
+   - “Please confirm whether this is a voluntary interview or an interview under caution.”
+
+5. **Write down the contact while it is fresh.** Record the date and time, the number shown, the number you were told to call, names, collar numbers, station or unit, reference numbers, what was said, and any pressure to answer immediately.
+
+6. **If anything felt suspicious, treat it as possible impersonation.** Report a scam call through the appropriate UK fraud reporting route. If you shared payment details, contact your bank or card provider promptly. If you shared passwords, codes, account details, or device access, change passwords from a safe device and contact the affected provider.
 
 ## What can wait
-- You do not have to decide your “full explanation” right now.
-- You do not have to provide your entire contact list, phone contents, or financial details on a first unexpected call.
-- You do not have to attend immediately; you can schedule a verified appointment and get legal advice first.
-- You do not have to figure out exactly why your number appeared today — just verify, document, and slow the process down.
+- You do not have to work out your full explanation right now.
+- You do not have to explain every contact, old number, call, message, or person while you are panicked.
+- You do not have to give your contact list, phone contents, bank details, passwords, or codes on a first unexpected call.
+- You do not have to decide today whether the number appeared because of an old contact, wrong number, recycled number, spoofing, or something else.
+- You can slow the situation down, verify the route, write down what happened, and ask for advice before answering questions.
 
 ## Important reassurance
-This situation is common: phone numbers can appear in other people’s cases for innocent reasons (misdial, old contacts, recycled numbers, data errors, spoofing). Feeling panicky is normal — the safest first move is slowing it down and verifying independently.
+A phone number appearing in someone else’s case can have innocent or unclear explanations. The safest first step is not to argue, guess, or over-explain; it is to verify the contact independently and avoid being rushed.
 
 ## Scope note
-These are first steps to prevent you being pressured, scammed, or mischaracterised. If it becomes a formal interview or you’re told it may be under caution, specialist legal advice is the next step.
+These are first steps only to help you avoid pressure, impersonation, and accidental self-misdescription. Police interview procedures and legal rights can vary across the UK, and later decisions may need specialist legal help.
 
 ## Important note
-This is general information to help you stay safe and avoid irreversible mistakes. It isn’t legal advice, and procedures can vary by police force and by the details of the case.
+This is general information to help you stay safe and avoid irreversible mistakes. It is not legal, financial, therapeutic, or professional advice.
 
 ## Additional Resources
-- https://www.gov.uk/government/publications/pace-code-c-2019/pace-code-c-2019-accessible
-- https://library.college.police.uk/docs/NPCC/Voluntary-interview-guidance-2024.pdf
-- https://www.derbyshire.police.uk/news/derbyshire/news/news/north/2024/february/warning-over-police-impersonation-scam-calls/
-- https://www.kent.police.uk/news/kent/latest/appeals/warning-issued-following-reports-of-police-impersonation-fraud/
+- https://www.gov.uk/contact-police
+- https://www.gov.uk/government/publications/pace-code-c-2023/pace-code-c-2023-accessible
+- https://www.gov.uk/government/publications/voluntary-police-interview-your-rights/remember-your-rights-voluntary-interview-accessible-version
+- https://www.ncsc.gov.uk/collection/phishing-scams/report-scam-call
 - https://www.citizensadvice.org.uk/consumer/scams/reporting-a-scam/
 - https://www.reportfraud.police.uk/

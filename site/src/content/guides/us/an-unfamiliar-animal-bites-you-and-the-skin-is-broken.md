@@ -1,80 +1,88 @@
-﻿---
+---
 title: "What to do if… an unfamiliar animal bites you and the skin is broken"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
-  - unfamiliar animal bite
-  - bitten by unknown animal
-  - animal bite broke skin
-  - puncture bite wound
-  - scratch that bled
-  - wild animal bite
-  - stray dog bite
-  - stray cat bite
-  - raccoon bite concern
-  - bat bite concern
-  - possible rabies exposure
-  - rabies pep question
-  - tetanus shot after bite
-  - infection risk bite wound
-  - swelling after bite
-  - red hot painful bite
-  - bite on hand or finger
-  - bite on face or head
-  - animal saliva in wound
-  - deep bite wound
-  - bite won’t stop bleeding
-last_reviewed: "2026-02-22"
+  - "unfamiliar animal bite"
+  - "unknown animal bite broke skin"
+  - "animal bite with broken skin"
+  - "stray animal bite wound"
+  - "wild animal bite wound"
+  - "animal bite puncture wound"
+  - "animal scratch broke skin"
+  - "possible rabies animal bite"
+  - "what do i do if an animal bites me"
+  - "what do i do if a stray animal bites me"
+  - "what do i do if an animal bite breaks skin"
+  - "what do i do if a bat bites me"
+  - "help i was bitten by an unknown animal"
+  - "help i have a broken skin animal bite"
+  - "my animal bite is bleeding"
+  - "my animal bite broke the skin"
+  - "animal bite will not stop bleeding"
+  - "animal bite redness and swelling"
+  - "animal bite pain getting worse"
+  - "animal bite pus or drainage"
+  - "animal bite numbness or weakness"
+  - "animal bite reduced movement"
+  - "animal bite or scratch"
+  - "animal bite or puncture wound"
+  - "small bat bite concern"
+  - "rabies concern after animal bite"
+  - "tetanus concern after animal bite"
+  - "unfamiliar dog bite"
+  - "stray cat bite"
+  - "raccoon bite"
+  - "bat bite"
+  - "animal bite on hand"
+  - "animal bite on face"
+  - "animel bite broke skin"
+  - "rabies expossure animal bite"
+  - "animal saliva in wound"
+last_reviewed: "2026-06-03"
+date_created: "2026-06-03"
 ---
 
 # What to do if… an unfamiliar animal bites you and the skin is broken (USA)
 
 ## Short answer
-Immediately wash the wound thoroughly with soap and water, cover it, and get same-day medical care—because broken-skin animal bites can get infected and may require tetanus care and (sometimes) urgent rabies post-exposure treatment.
+Move away from the animal, wash the wound thoroughly with soap and running water for 15 minutes if possible, cover it, and seek medical care right away. An unfamiliar-animal bite that breaks the skin needs assessment for infection, tetanus care, and possible rabies prevention.
 
 ## Do not do these things
-- Do not wait for symptoms to decide about rabies—rabies prevention is time-sensitive and decided based on the exposure, not how you feel.
-- Do not close the wound yourself (glue/strip products) or pack it with thick ointment.
-- Do not scrub aggressively into puncture holes or dig for debris.
-- Do not try to capture or handle the animal again; avoid a second exposure.
-- Do not take leftover antibiotics.
+- Do not wait for symptoms before asking about rabies risk.
+- Do not chase, corner, or handle the animal.
+- Do not try to close the wound yourself before it has been assessed.
+- Do not delay washing while looking for special supplies.
 
 ## What to do now
-1. **Get to a safer pause.** Move away from the animal and somewhere you can wash the wound without being rushed.
-2. **Wash the wound right away.**  
-   - Flush with running water, then **wash thoroughly with soap and water**.  
-   - If available, use a **povidone-iodine** solution to irrigate the wound after washing (do not delay washing to look for supplies).  
-   - If rabies could be a concern, keep washing/flushing for **about 15 minutes** if you can tolerate it.
-3. **Control bleeding and cover.** Apply firm pressure with a clean cloth if bleeding, then cover with a **clean, non-stick dressing**.
-4. **Get medical care today (pick the right door).**  
-   - **Emergency room / call 911** if bleeding won’t stop, the wound is large/deep, the bite is to the face/neck, there’s severe pain, numbness, weakness, or you can’t move fingers/toes normally.  
-   - Otherwise go to **urgent care** or contact your clinician same-day for evaluation (bites often need cleaning, possible antibiotics, and vaccine review).
-5. **Make sure rabies risk is assessed promptly.**  
-   - If you’re at an **ER/urgent care**, ask them to **contact local public health** for rabies guidance if the animal is unknown, wild, unavailable for observation/testing, or if a **bat** was involved.  
-   - If you’re calling yourself, search for your **county/state health department rabies** contact line and use that number.
-6. **Write down the exposure details now (while it’s fresh).**  
-   - Date/time and exact location of the bite.  
-   - Animal type and description (size/color), behavior (provoked vs unprovoked), and whether you can identify an owner.  
-   - Any photos you can take safely of the wound and (from a distance) the animal.
-7. **If the bite involved a bat, treat it as urgent even if the wound seems small.** Tell the clinician “possible bat exposure” and seek rabies guidance immediately.
-8. **Be ready for tetanus questions.** Animal bites are treated as wounds that may be contaminated with saliva; your clinician will decide whether you need a booster and/or tetanus immune globulin based on your vaccine history.
+1. **Get to a safer pause.** Move away from the animal. Wash the wound somewhere safe without going back near the animal.
+2. **Wash the wound now.** Use plenty of soap and running water for 15 minutes if possible. If you cannot manage the full 15 minutes, wash as thoroughly as you can. If available, you can use a povidone-iodine solution after washing, but do not delay washing to find it.
+3. **Control bleeding and cover the wound.** Apply firm pressure with a clean cloth or bandage. When the bleeding is controlled, cover the wound with a clean dressing.
+4. **Seek medical care right away.** Go to an emergency department or call 911 for serious bleeding that will not stop. Seek prompt assessment for a deep or large wound, exposed muscle or bone, severe pain, numbness, weakness, reduced movement, or a bite on the head, face, neck, hand, fingers, or feet. Otherwise, contact urgent care or your clinician right away.
+5. **Ask for a rabies-risk assessment.** Tell the clinician that an unfamiliar animal broke your skin. Rabies prevention decisions depend on the exposure and should be made promptly with a healthcare or public-health professional. If the clinician is not arranging this, contact your local or state health department. An official directory is listed below.
+6. **Note the details from a safe place.** Write down the time, location, animal type, appearance, unusual behaviour, and whether an owner can be identified. If the animal has an owner and you can do so safely, ask for the animal’s rabies vaccination information. Take a wound photo if useful. Do not go closer to the animal for a photo.
+7. **Contact animal control when relevant.** After washing the wound and arranging medical care, contact animal control or local police if the animal was stray, wild, unknown, or behaving oddly. Tell them where the animal was last seen. Do not try to catch it yourself.
+8. **Mention any bat contact clearly.** If a bat was involved, tell the clinician immediately, even if the wound looks tiny. If a bat is already safely contained, do not release it until animal control or public health advises what to do.
+9. **Be ready for tetanus questions.** Tell the clinician when you last had a tetanus vaccine, if you know. The clinician will decide whether a vaccine or tetanus immune globulin is needed based on the wound and your vaccination history.
 
 ## What can wait
-- You don’t need to decide right now whether to file a formal report; focus on wound washing, medical care, and rabies/tetanus decisions first.
-- You don’t need to identify the animal perfectly—your best description and where it happened is enough to start a risk assessment.
-- You don’t need to keep re-washing the wound all day; a thorough wash once (or longer if rabies is a concern), then clean coverage until you’re seen, is the priority.
+- You do not need to identify the animal perfectly before seeking care.
+- You do not need to decide now whether to make any broader complaint or claim.
+- You do not need to work out the rabies or tetanus treatment yourself. A clinician and, where needed, public health can assess that.
 
 ## Important reassurance
-Feeling panicked or disgusted after a bite is normal. The most protective early actions are simple and doable: wash thoroughly, cover, get evaluated, and make sure rabies and tetanus are addressed appropriately.
+You do not need to solve everything at once. The useful first steps are clear: get away from the animal, wash the wound, cover it, seek medical care, and make sure rabies and tetanus risk are assessed.
 
 ## Scope note
-This is first steps only for the hours after a bite. Follow-up may include wound checks, infection monitoring, tetanus updates, and (if indicated) rabies post-exposure prophylaxis.
+These are first steps for the hours after a bite. Later decisions, including wound follow-up, infection treatment, vaccination, and any rabies post-exposure treatment, may need help from a clinician or public-health professional.
 
 ## Important note
-This is general information, not medical diagnosis or a substitute for professional care. If you develop fever, rapidly spreading redness, increasing pain, drainage, numbness, weakness, or trouble moving the area, seek urgent medical attention.
+This is general information, not medical diagnosis or a substitute for professional care. Seek urgent medical attention if bleeding will not stop, redness or swelling is spreading, pain is increasing, pus or red streaks appear, you develop fever, you have numbness or weakness, or movement becomes difficult.
 
 ## Additional Resources
-- https://www.cdc.gov/rabies/hcp/clinical-care/post-exposure-prophylaxis.html
 - https://www.cdc.gov/rabies/prevention/index.html
+- https://www.cdc.gov/rabies/hcp/clinical-care/post-exposure-prophylaxis.html
+- https://www.cdc.gov/rabies/prevention/bats.html
 - https://www.cdc.gov/tetanus/hcp/clinical-guidance/index.html
-- https://www.mayoclinic.org/first-aid/first-aid-animal-bites/basics/art-20056591
+- https://medlineplus.gov/ency/patientinstructions/000734.htm
+- https://www.cdc.gov/public-health-gateway/php/communications-resources/health-department-directories.html

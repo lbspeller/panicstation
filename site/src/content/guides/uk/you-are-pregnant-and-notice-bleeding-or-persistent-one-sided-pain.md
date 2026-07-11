@@ -1,80 +1,105 @@
-﻿---
+---
 title: "What to do if… you are pregnant and notice bleeding or persistent one-sided pain"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
-  - bleeding in pregnancy
-  - vaginal bleeding while pregnant
-  - spotting when pregnant
-  - brown discharge in pregnancy
-  - one sided pain in pregnancy
-  - one-sided pelvic pain pregnant
-  - one sided tummy pain pregnant
-  - persistent abdominal pain pregnant
-  - bleeding and one sided pain
-  - dizzy or faint pregnant
-  - shoulder tip pain pregnancy
-  - cramps with bleeding pregnant
-  - early pregnancy bleeding scare
-  - pregnancy pain that won’t go away
-  - worried about ectopic pregnancy
-  - bleeding after positive test
-  - bleeding in first trimester
-  - bleeding later in pregnancy
-last_reviewed: "2026-01-21"
+  - "bleeding in pregnancy"
+  - "vaginal bleeding pregnant"
+  - "spotting while pregnant"
+  - "brown bleeding pregnant"
+  - "one-sided pain pregnant"
+  - "one-sided pelvic pain pregnant"
+  - "one-sided tummy pain pregnant"
+  - "pregnancy bleeding and pain"
+  - "pregnant with side pain"
+  - "pregnant and bleeding"
+  - "what do i do if pregnant and bleeding"
+  - "what do i do if spotting pregnant"
+  - "what do i do if pregnancy pain"
+  - "what do i do if one-sided pain pregnant"
+  - "help i am pregnant and bleeding"
+  - "help i have pregnancy pain"
+  - "help i feel faint pregnant"
+  - "help i have spotting pregnant"
+  - "my pregnancy bleeding is worrying me"
+  - "my pregnant tummy hurts one side"
+  - "my pelvic pain will not stop"
+  - "bright red bleeding pregnant"
+  - "brown discharge pregnant"
+  - "clots while pregnant"
+  - "shoulder tip pain pregnant"
+  - "dizzy while pregnant"
+  - "faint feeling pregnant"
+  - "severe cramps pregnant"
+  - "not sure miscarriage or spotting"
+  - "not sure ectopic or cramps"
+  - "period pain but pregnant"
+  - "implantation bleeding or miscarriage"
+  - "pregnacy bleeding"
+  - "pregnent with bleeding"
+  - "early pregnancy bleeding"
+  - "first trimester bleeding"
+  - "later pregnancy bleeding"
+last_reviewed: "2026-05-05"
+date_created: "2026-05-05"
 ---
 
 # What to do if… you are pregnant and notice bleeding or persistent one-sided pain (UK)
 
 ## Short answer
-Get same-day medical assessment. If you have bleeding plus persistent one-sided pain, or you feel faint/very unwell, seek urgent help now (call your maternity assessment/triage or early pregnancy service; if you can’t reach them quickly, call NHS 111; if severe, call 999 or go to A&E).
+Get urgent medical advice today. If you are bleeding and have severe pain, shoulder-tip pain, heavy bleeding, fainting, marked dizziness, collapse, or you feel seriously unwell, call 999 or go to A&E now.
 
 ## Do not do these things
-- Do not “wait it out” overnight if bleeding continues, pain persists on one side, or symptoms are getting worse.
-- Do not drive yourself if you feel dizzy, faint, weak, or your pain is severe—get someone to take you or call 999.
-- Do not use tampons, menstrual cups, or put anything in the vagina right now (including “checking” internally).
-- Do not take ibuprofen or other anti-inflammatory painkillers unless a clinician has told you they’re appropriate for you in pregnancy.
-- Do not rely on a home pregnancy test, internet searches, or past experiences to decide it’s “definitely fine” or “definitely a miscarriage” without being assessed.
+- Do not wait overnight if bleeding continues, pain persists on one side, or symptoms are getting worse.
+- Do not drive yourself if you feel dizzy, faint, weak, or your pain is severe; ask someone to take you or call 999.
+- Do not use tampons or menstrual cups, or try to check internally yourself.
+- Do not take ibuprofen, aspirin, naproxen, or other anti-inflammatory painkillers unless a clinician has told you they are appropriate for you in pregnancy.
+- Do not rely on a home pregnancy test, internet searches, or a past pregnancy experience to decide this is definitely harmless or definitely a miscarriage.
 
 ## What to do now
-1. **Quick safety check (decide “999/A&E now” vs “urgent call”).**  
-   Call **999** or go to **A&E** immediately if you have any of these: severe or sudden worsening tummy/pelvic pain, shoulder-tip pain, heavy bleeding, collapse/fainting, marked dizziness/weakness, trouble breathing, or you look/feel seriously unwell.
-2. **Contact the right UK service for same-day advice.**  
-   - If you’re already under maternity care: call your **maternity triage/assessment unit** (the number is often in your booking info/texts).  
-   - If you are early in pregnancy or not yet booked: contact your local **Early Pregnancy Assessment Service / Early Pregnancy Unit** if available.  
-   - If you can’t reach them quickly or you’re unsure where to go: call **NHS 111** for urgent direction to the right service.
-3. **Use a pad and track what’s happening (for clinicians).**  
-   Put on a **sanitary pad** (not a tampon) so you can describe the bleeding. Note: start time, colour (bright red/brown), whether it’s getting heavier, and whether you are passing clots.
-4. **Rest safely and don’t be alone if you’re lightheaded.**  
-   Sit or lie on your side if you feel faint. Ask someone to stay with you. If you need to travel, bring a charger and don’t go alone if you’re dizzy or in significant pain.
-5. **Prepare the key info they’ll ask (1–2 minutes).**  
-   - How many weeks pregnant you might be (or date of last period/positive test)  
-   - Where the pain is (one side? shoulder tip?) and whether it’s constant or worsening  
-   - Any previous ectopic pregnancy or tubal surgery, IVF, or pregnancy with an IUD in place  
-   - Your medications and allergies
-6. **Pain relief only if you need it and it’s safe for you.**  
-   If you need pain relief while arranging care, **paracetamol** is generally the first-choice option in pregnancy when used as directed. Avoid other pain medicines unless a clinician advises.
-7. **If you are RhD negative, mention it—then let the clinician decide what’s needed.**  
-   If you know you are **RhD negative**, tell the clinician. Whether anti-D is needed depends on things like how many weeks pregnant you are and the pattern/amount of bleeding (it’s often considered after around 12 weeks, or with heavier/repeated bleeding or abdominal pain). If you don’t know your blood group, don’t worry; they can check.
+1. **Decide whether this is 999 or urgent advice.**  
+   Call 999 or go to A&E now if you are pregnant and bleeding and have severe or suddenly worsening tummy or pelvic pain, shoulder-tip pain, heavy bleeding, fainting, marked dizziness, collapse, trouble breathing, or you feel seriously unwell.
+
+2. **Contact the right UK service for urgent direction.**  
+   If you are already under maternity care, call your maternity unit or maternity triage number. If you are less than 20 weeks pregnant, an Early Pregnancy Unit may be able to help; check your maternity notes, booking information, local NHS trust website, or call NHS 111 if you cannot reach the right service quickly.
+
+3. **Use a sanitary pad and note what is happening.**  
+   Put on a sanitary pad so you can describe the bleeding. Note when it started, whether it is pink, red, or brown, whether it is getting heavier, whether you are soaking pads, and whether there are clots or tissue.
+
+4. **Track the pain in a simple way.**  
+   Notice where the pain is, especially whether it is mainly on one side, whether it is constant or comes and goes, whether it is getting worse, and whether there is shoulder-tip pain.
+
+5. **Do not be alone if you feel lightheaded.**  
+   Sit or lie down, preferably somewhere safe where you cannot fall. Ask someone to stay with you while you call for advice or travel to be seen.
+
+6. **Have key information ready, but do not delay getting help.**  
+   Be ready to say roughly how many weeks pregnant you are, the date of your last period or positive test if you know it, any previous ectopic pregnancy or tubal surgery, IVF treatment, pregnancy with an IUD in place, current medicines, allergies, and whether you know your blood group.
+
+7. **Use pain relief cautiously while arranging care.**  
+   If you need pain relief and can take it safely, paracetamol is usually the first-choice painkiller in pregnancy. Follow the packet instructions, do not take more than the stated dose, and avoid taking more than one product containing paracetamol.
+
+8. **Mention RhD negative blood if you know it.**  
+   If you know you are RhD negative, tell the clinician when you call or arrive. Do not worry if you do not know your blood group; they can check and decide whether any anti-D injection or blood tests are needed.
 
 ## What can wait
-- You do not need to decide what the bleeding “means” (or make any decisions about the pregnancy) right now.
-- You do not need to search for causes, compare stories online, or measure blood loss precisely.
-- You do not need to contact work/sort childcare until you know where you’re being seen—focus on getting assessed.
+- You do not need to decide what the bleeding means right now.
+- You do not need to make decisions about the pregnancy before you have been assessed.
+- You do not need to search for causes, compare stories online, or measure blood loss exactly.
+- Work messages, routine appointments, and non-urgent plans can wait until you know where you are being seen.
 
 ## Important reassurance
-Bleeding can happen in pregnancy for many reasons, and it is not automatically a disaster. But **bleeding with persistent one-sided pain** is a pattern clinicians take seriously because a small number of causes can become dangerous quickly—getting checked promptly is the safest move.
+Bleeding in pregnancy can happen for many reasons and does not always mean something is seriously wrong. Bleeding with persistent one-sided pain is a pattern clinicians take seriously because some causes need urgent treatment, so getting checked promptly is the safest next step.
 
 ## Scope note
-This is first steps only: how to get you assessed safely and avoid common panic mistakes. Any tests or treatment decisions should be made with a UK clinician who can examine you.
+These are first steps only: how to get assessed safely and avoid common panic mistakes. Tests, treatment, follow-up, and decisions about the pregnancy should be discussed with a UK clinician who can assess you.
 
 ## Important note
-This guide provides general safety information, not a diagnosis. If you think you may be in immediate danger or you are becoming faint, confused, or severely unwell, call 999.
+This guide provides general safety information only. It is not a diagnosis, medical advice, or a substitute for urgent professional assessment.
 
 ## Additional Resources
 - https://www.nhs.uk/pregnancy/common-symptoms/vaginal-bleeding/
 - https://www.nhs.uk/conditions/ectopic-pregnancy/symptoms/
 - https://www.rcog.org.uk/for-the-public/browse-our-patient-information/bleeding-andor-pain-in-early-pregnancy/
-- https://www.nhsinform.scot/illnesses-and-conditions/pregnancy-and-childbirth/losing-a-baby/ectopic-pregnancy/
-- https://rightdecisions.scot.nhs.uk/media/0kxpwjfy/anti-d-prophylaxis.pdf
-- https://www.nhs.uk/medicines/paracetamol-for-adults/pregnancy-breastfeeding-and-fertility-while-taking-paracetamol-for-adults/
+- https://www.nhs.uk/medicines/paracetamol-for-adults/
+- https://www.medicinesinpregnancy.org/leaflets-a-z/ibuprofen/
+- https://www.nhs.uk/conditions/rhesus-disease-hdfn/

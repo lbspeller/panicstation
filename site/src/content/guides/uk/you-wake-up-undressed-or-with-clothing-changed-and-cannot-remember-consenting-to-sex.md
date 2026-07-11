@@ -1,87 +1,105 @@
-﻿---
+---
 title: "What to do if… you wake up undressed or with clothing changed and cannot remember consenting to sex"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - woke up undressed
-  - clothes changed overnight
-  - can't remember consenting
-  - blacked out after night out
-  - alcohol blackout sex
-  - possible sexual assault
-  - unsure what happened
-  - worried i was drugged
-  - spiked drink concern
-  - memory loss after sex
-  - woke up in someone else's bed
-  - woke up sore and confused
-  - consent unclear
-  - sexual violence support
-  - afraid to report
-  - want medical check
-  - forensic exam options
-  - intimate photos taken
-  - partner says we had sex
-  - i feel numb and shocked
-last_reviewed: "2026-03-12"
+  - "woke up undressed"
+  - "woke up with clothes changed"
+  - "cannot remember consenting to sex"
+  - "cant remember consenting to sex"
+  - "possible sexual assault"
+  - "possible rape after blackout"
+  - "unsure if i consented"
+  - "blackout after sex"
+  - "woke up after blackout"
+  - "woke up in someones bed"
+  - "what do i do if i woke up undressed"
+  - "what do i do if my clothes changed"
+  - "what do i do if i blacked out"
+  - "what do i do if i was drugged"
+  - "help i woke up undressed"
+  - "help i cannot remember sex"
+  - "help i think i was spiked"
+  - "help i might have been assaulted"
+  - "my clothes were changed"
+  - "my memory is missing"
+  - "my drink may have been spiked"
+  - "sore after waking up"
+  - "missing memory after night out"
+  - "confused after waking undressed"
+  - "numb after possible assault"
+  - "shaking after memory loss"
+  - "changed clothing and memory loss"
+  - "consent unclear after alcohol"
+  - "spiked drink or blackout"
+  - "not sure if assault"
+  - "not sure what happened"
+  - "too scared to report"
+  - "after a night out"
+  - "in the uk"
+last_reviewed: "2026-05-22"
+date_created: "2026-05-22"
 ---
 
 # What to do if… you wake up undressed or with clothing changed and cannot remember consenting to sex (UK)
 
 ## Short answer
-Get somewhere you feel physically safe, then contact a specialist sexual assault service (often called a SARC) for confidential medical care and support (or call 999/112 if you’re in immediate danger). You do not have to decide about reporting to police right now to get care and support.
+Get to a place where you are physically safer, then contact a specialist sexual assault service for confidential support and medical options. If you are in immediate danger or need urgent emergency help, call 999 or 112.
 
 ## Do not do these things
-- Don’t force yourself to “figure it out” by confronting someone while you feel shocked, alone, or unsafe.
-- Don’t delete messages, call logs, rideshare history, photos, or location history in a panic.
-- Don’t feel you must report to police to “make it real” or to access help.
-- Don’t blame yourself for gaps in memory, freezing, or not fighting back.
-- If you may want medical/forensic options later, try not to wash or change anything yet — but if you need to wash/change for comfort or safety, that is okay and you can still get help.
+- Do not confront anyone while you feel shocked, unsafe, pressured, or alone.
+- Do not delete messages, call logs, photos, location history, rideshare history, or social media messages in a panic.
+- Do not force yourself to decide right now whether it “counts”, what to call it, or whether to report it.
+- Do not blame yourself for memory gaps, freezing, drinking, taking drugs, not fighting back, or not knowing what happened.
+- Do not delay getting help because you have washed, changed, used the toilet, or cannot remember details.
 
 ## What to do now
 1. **Move to a safer pause.**  
-   If you’re not sure you’re safe where you are, leave if you can (to a locked room, a trusted friend’s home, a staffed place). If you’re in immediate danger, **call 999 (or 112)**.
+   Go to a locked room, a trusted person’s home, a staffed public place, A&E, or another place where you are less exposed to the person or situation. If you are in immediate danger, call 999 or 112.
 
-2. **Get specialist help without committing to a police report.**  
-   Contact a **Sexual Assault Referral Centre (SARC)** (or your local equivalent specialist sexual assault service) as soon as you can. These services can provide confidential medical care, support, and talk through options (including evidence collection) even if you’re unsure what happened or don’t want police involved.
+2. **Contact specialist sexual assault health support.**  
+   A specialist sexual assault health service, such as a SARC or SARCS, can offer medical care, practical support, and information about options. You can ask for help even if you are unsure what happened, and you do not usually have to decide about police reporting before getting support.
 
-3. **If you need urgent medical advice, use urgent care routes.**  
-   If you have severe pain, bleeding, significant injury, trouble breathing, or you feel medically unwell and think you may have been drugged, go to **A&E** or call **999/112**. If it’s urgent but not life-threatening, you can **call 111** for NHS urgent advice (**in Scotland, NHS 24 is reached on 111**).
+3. **Use the right local route.**  
+   In England, use the NHS SARC finder. In Wales, use NHS Wales sexual assault referral centre information. In Scotland, use NHS Inform SARCS. In Northern Ireland, The Rowan is the regional Sexual Assault Referral Centre.
 
-4. **Keep your options open with minimal, low-effort preservation (only if it feels doable).**  
-   If it’s easy to do: keep the clothes you woke up in (and any bedding/underwear you can safely take) **separate**. **Paper is often preferred over plastic** for breathable storage; a clean paper bag or wrapping in clean paper is fine. If you only have plastic, don’t delay getting help — bring items anyway. Avoid cleaning the area you woke up in if it’s your space and you can safely leave it as-is.
+4. **Use urgent medical help if your body needs it.**  
+   Go to A&E or call 999 or 112 if you have severe pain, bleeding, significant injury, trouble breathing, collapse, loss of consciousness, or you feel seriously unwell.
 
-5. **Write down a short “memory snapshot” before it fades.**  
-   In your phone notes, record only what you know: when/where you last remember, who was around, what you drank/used (if anything), what you woke up wearing, any pain/injuries, and any messages you’ve received. Keep it brief and factual.
+5. **Keep options open only if it is easy and safe.**  
+   If you may want forensic options later, try not to wash or change yet; if you need to wash or change for safety or comfort, that is okay and you can still seek help. If you can, keep clothing or bedding separate in a clean paper bag or clean bag, and bring it when you get specialist help.
 
-6. **Tell one safe person for immediate grounding.**  
-   If you can, contact a trusted friend/family member to be with you, travel with you, or sit on the phone while you contact services.
+6. **Write a very short note if you can.**  
+   Record only what you already know: where you woke up, who was nearby, what you remember before waking, what you noticed about clothing, pain, injuries, messages, or belongings. Do not push yourself to investigate.
 
-7. **Reach specialist emotional support right now (even if you’re unsure).**  
-   - **If you’re 16 or over in England & Wales:** you can contact the **24/7 Rape & Sexual Abuse Support Line on 0808 500 2222** (phone or webchat). This is **not** an emergency service — if you’re in immediate danger or need urgent medical help, use **999/112**.  
-   - **If you’re under 19:** you can contact **Childline on 0800 1111**.  
-   - If you’re in **Scotland or Northern Ireland**, you can still get specialist rape crisis support locally (services and hours differ).
+7. **Ask one safe person to stay with you or stay on the phone.**  
+   Choose someone who will not pressure you to report, confront anyone, drink, minimise it, or explain everything. They can help you travel, sit with you, or contact services.
+
+8. **Use specialist emotional support now.**  
+   If you are 16 or over in England or Wales, the 24/7 Rape and Sexual Abuse Support Line is 0808 500 2222 and also offers webchat. If you are in Scotland, Rape Crisis Scotland has support routes. If you are in Northern Ireland, The Rowan can explain support options. If you are under 19, Childline is 0800 1111.
 
 ## What can wait
-- You do **not** need to decide right now whether it “counts,” what to call it, or whether you will report it.
-- You do **not** need to confront the person/people involved today.
-- You do **not** need to make statements, write public posts, or explain details to anyone beyond what helps you feel safe.
-- You do **not** need to gather “proof” on your own before seeking care — specialist services can advise on options.
+- You do not need to decide today whether to report to police.
+- You do not need to confront the person or ask them to explain.
+- You do not need to decide whether it was rape, assault, sex, or something else before asking for support.
+- You do not need to post online, message lots of people, or tell anyone details you do not want to share.
+- You do not need to gather proof by yourself before contacting a specialist sexual assault service.
 
 ## Important reassurance
-Waking up with missing memory, changed clothing, or confusion about consent is deeply unsettling. Many people feel numb, disconnected, embarrassed, or unsure what they’re “allowed” to feel. None of those reactions mean you consented, and you deserve support and medical care regardless of certainty.
+Waking up undressed, with clothing changed, or unable to remember consenting can feel frightening and unreal. Shock, numbness, confusion, embarrassment, or not knowing what to think are common reactions to a frightening gap in memory. You deserve care and support even if you are uncertain about what happened.
 
 ## Scope note
-These are first steps to stabilise and keep options open. Next steps (medical follow-up, reporting, workplace/university support, legal advice) can come later, with specialist help and at your pace.
+These are first steps only: get safer, get medical and specialist support, and keep options open. Later decisions about healthcare, reporting, university or workplace support, housing, or legal advice can be made with specialist help and at your pace.
 
 ## Important note
-This guide provides general first-step information, not medical or legal advice. If you feel unsafe or have urgent medical symptoms, use emergency services. You can always seek specialist sexual violence support even if you’re uncertain about what happened.
+This guide is general first-step information, not medical, legal, therapeutic, forensic, or other professional advice. If you feel unsafe or have urgent medical symptoms, use emergency services.
 
 ## Additional Resources
 - https://www.nhs.uk/live-well/sexual-health/help-after-rape-and-sexual-assault/
+- https://www.nhs.uk/service-search/sexual-health-services/find-a-rape-and-sexual-assault-referral-centre/
+- https://performanceandimprovement.nhs.wales/functions/networks-and-planning/wsas/access-a-sarc/
+- https://www.nhsinform.scot/turn-to-sarcs/
+- https://therowan.hscni.net/
 - https://247sexualabusesupport.org.uk/
-- https://rapecrisis.org.uk/get-help/want-to-talk/
-- https://www.childline.org.uk/
-- https://www.nhs24.scot/111/
 - https://www.rapecrisisscotland.org.uk/contact-support/
-- https://rapecrisisni.org.uk/contact/
+- https://www.childline.org.uk/

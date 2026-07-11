@@ -1,87 +1,117 @@
-﻿---
+---
 title: "What to do if… you receive sexual threats online after you rejected someone and they keep escalating"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - sexual threats online
-  - online sexual harassment
-  - rejected someone threats
-  - escalating messages
-  - coercive sexual messages
-  - intimidation after rejection
-  - unwanted sexual contact online
-  - stalking by messages
-  - harassment on social media
-  - threats in direct messages
-  - threatened with sexual violence
-  - persistent unwanted contact
-  - online blackmail threats
-  - threatened to leak nudes
-  - nonconsensual intimate images
-  - deepfake threat
-  - doxxing threat after rejection
-  - someone won’t stop messaging
-  - safety after online threats
-  - afraid to block them
-last_reviewed: "2026-03-13"
+  - "sexual threats online"
+  - "online sexual harassment"
+  - "sexual threats after rejection"
+  - "escalating sexual messages"
+  - "coercive sexual messages"
+  - "unwanted sexual threats"
+  - "threatening direct messages"
+  - "persistent unwanted sexual contact"
+  - "online stalking after rejection"
+  - "online intimidation after rejection"
+  - "what do i do if someone threatens me online"
+  - "what do i do if he keeps escalating"
+  - "what do i do if they threaten sex"
+  - "what do i do if messages get worse"
+  - "help i rejected someone and they threaten me"
+  - "help i am getting sexual threats"
+  - "help i feel unsafe online"
+  - "help i am scared to block"
+  - "my rejection led to threats"
+  - "my messages are getting worse"
+  - "my online harasser is escalating"
+  - "my private images are threatened"
+  - "afraid to block them"
+  - "scared they will find me"
+  - "messages mention sexual violence"
+  - "threats include my address"
+  - "threats keep getting worse"
+  - "they demand more pictures"
+  - "they threaten to leak nudes"
+  - "not sure if stalking"
+  - "not sure if sextortion"
+  - "not sure if harassment"
+  - "not sure if blackmail"
+  - "thretend online after rejection"
+  - "harrased after rejecting someone"
+  - "after rejecting a dating contact"
+last_reviewed: "2026-06-23"
+date_created: "2026-06-23"
 ---
 
 # What to do if… you receive sexual threats online after you rejected someone and they keep escalating (USA)
 
 ## Short answer
-Stop engaging, lock down your accounts, save the threatening messages, and report to the platform — and to local law enforcement if you feel unsafe or the threats are specific.
+Get to immediate safety first: if you believe they may reach you now, call 911. Otherwise, stop engaging, lock down the accounts they can use to reach or find you, save the threats if it is safe to do so, and report through the platform and appropriate support channels.
 
 ## Do not do these things
-- Do not argue, bargain, or keep replying to “calm them down”.
-- Do not send intimate images, money, gift cards, or personal info to make it stop.
+- Do not argue, bargain, or keep replying to calm them down.
+- Do not send intimate images, money, gift cards, passwords, account codes, or personal information to make it stop.
 - Do not agree to meet in person or move the conversation to a more private channel.
-- Do not delete the messages if you might want help from the platform or police later.
-- Do not click unknown links or install apps they send (it can be a setup for account/device access).
-- Do not post about them publicly with identifying details (it can escalate risk).
+- Do not delete the messages if you might want help from a platform, advocate, or law enforcement later.
+- Do not click unknown links or install apps they send.
+- Do not post identifying details about them publicly, because it may increase risk or make later reporting harder.
 
 ## What to do now
-1. **Check immediate safety first.** If you believe you’re in immediate danger or they’re trying to locate you right now, **call 911**.
-2. **Stop contact (one-and-done).** If it feels safe, send one final message: “Do not contact me again.” Then **do not reply** further.
-3. **Block and tighten privacy (starting with your email).**
+1. **Check immediate safety first.** If you believe you are in immediate danger, they are trying to locate you right now, or they are on the way to you, call 911.
+
+2. **Stop the conversation.** If it does not increase risk, send one short message such as: “Do not contact me again.” Then do not reply again. If sending that message feels unsafe, skip it and move straight to blocking and reporting.
+
+3. **Lock down the accounts they could use to reach or find you.**
    - Block them on each platform and on your phone.
-   - Make profiles private, remove contact details from bios, and disable location sharing.
-   - Turn on two-factor authentication for email and major social accounts; change passwords if you suspect compromise.
-4. **Preserve the essentials (light-touch).**
-   - Save screenshots that include the username/handle, dates/times, and the threatening content.
-   - Copy profile links/URLs and any message links if available.
-   - Put it in one folder so you don’t have to keep opening the thread.
-5. **Report it in the places that can act quickly.**
-   - Use in-app reporting for harassment/threats (and any “sexual harassment / threats” categories).
-   - If threats are credible, repeated, or include finding you, **contact local law enforcement**. You can ask for advice even if you’re not sure what charge applies.
-6. **If the threat involves intimate images (real or fake), get specialist help now.**
-   - Contact the **Cyber Civil Rights Initiative (CCRI) Image Abuse Helpline**: **1-844-878-2274** (free, 24/7) for guidance on urgent response and takedown steps.
-7. **Get confidential support so you’re not handling this alone.**
-   - If you want to talk to a trained advocate (even if nothing physical happened), contact **RAINN’s National Sexual Assault Hotline** (phone or online chat).
-   - If the person is (or was) a partner or dating contact and this feels like coercion/control, consider contacting the **National Domestic Violence Hotline** for safety planning (including tech-safety).
-8. **If it involves broader cybercrime patterns, use official federal reporting channels (optional).**
-   - If you think it’s part of a wider scheme (for example, sextortion patterns, multiple victims, or organized activity), consider filing a report with **FBI IC3**.
-   - For exceptional circumstances involving broader federal concerns, you can also submit a tip via the FBI tips portal — but for personal safety threats, **911/local law enforcement** is usually the fastest route.
+   - Make profiles private, remove contact details from bios, and turn off location sharing.
+   - Check posts, stories, maps, tags, and public friend lists for anything that shows where you live, work, study, or spend time.
+   - Turn on two-factor authentication for email and major social accounts.
+   - Change passwords if you think they know one, guessed one, or got access to an account.
+
+4. **Save only what you need for help.** If it is safe, take screenshots that show the handle or profile, dates, times, and the threatening words, then put them in one folder so you do not have to keep opening the thread.
+
+5. **Report the account and the messages on the platform.**
+   - Use the platform’s reporting options for harassment, threats, sexual harassment, impersonation, image abuse, or nonconsensual intimate images where those categories fit.
+   - Include the specific threats, repeated contact after rejection, and any attempt to get images, money, passwords, location, or a meeting.
+   - If the platform has a safety or trusted-contact feature, use it to reduce new accounts reaching you where possible.
+
+6. **If the threat involves intimate images, get specialist help now.**
+   - This includes real images, digitally altered images, deepfakes, threats to leak nudes, or demands for money or more images.
+   - Contact the Cyber Civil Rights Initiative Image Abuse Helpline at 1-844-878-2274 for image-abuse guidance.
+   - Do not send more images, money, passwords, account codes, or device access in response to a threat.
+
+7. **Bring in confidential support.**
+   - If you want to talk to a trained advocate, contact RAINN’s National Sexual Assault Hotline by phone, text, or online chat.
+   - If the person is a partner, former partner, dating contact, or someone using threats to control you, contact the National Domestic Violence Hotline for safety planning.
+   - Ask one trusted person to sit with you, help save the basic messages, or help make reports so you are not doing it alone.
+
+8. **Use official reporting routes when risk or cybercrime is involved.**
+   - For immediate danger, call 911 or local police.
+   - For credible, repeated, or specific threats, contact local law enforcement and ask how to make a report.
+   - For cyber-enabled crime such as sextortion, account compromise, organized harassment, or threats connected to online accounts, consider reporting to FBI IC3.
+   - Use the FBI tips portal if that federal tip route fits the situation or a trusted advocate suggests it.
 
 ## What can wait
-- You do not need to decide right now whether you’ll “press charges” or take legal action.
-- You do not need to craft a perfect narrative — saving the messages and a basic incident list is enough.
-- You do not need to wipe accounts or delete apps today; focus on locking down access and preserving what happened.
-- You do not need to confront them or get an apology/closure.
+- You do not need to decide right now whether to make every possible report or take any long-term legal step.
+- You do not need to write a perfect statement; saved messages and a basic explanation are enough for now.
+- You do not need to delete accounts or wipe your phone today unless a specialist or trusted technical helper tells you that is needed.
+- You do not need to confront them, get closure, or prove to them that they are wrong.
+- You do not need to handle every report in one sitting; safety, account access, and the worst threats come first.
 
 ## Important reassurance
-It makes sense if you feel panicky, ashamed, or stuck — threats like this are designed to hijack your nervous system and force compliance. You are allowed to stop responding, ask for help, and prioritize safety over “being polite.”
+This is not your fault, and rejecting someone does not make you responsible for their threats. You are allowed to stop responding, protect your accounts, ask for help, and take this one step at a time.
 
 ## Scope note
-This is first-steps-only guidance to stabilise the situation and reduce risk. If it continues, an advocate can help you think through next steps without you having to manage the details alone.
+These are first steps only to stabilize the situation, reduce immediate risk, and preserve options. Later decisions about reporting, legal action, platform escalation, school or workplace help, or specialist support may need an advocate, lawyer, law enforcement contact, or other qualified professional.
 
 ## Important note
-This is general information, not legal advice. If you feel in immediate danger, call 911. If you’re unsure whether to report, you can still reach out to an advocate confidentially to talk through options.
+This is general information, not legal, medical, financial, therapeutic, or other professional advice. If you feel in immediate danger, call 911.
 
 ## Additional Resources
 - https://rainn.org/help-and-healing/hotline/
-- https://rainn.org/learn-about-rainn/contact-us/
 - https://cybercivilrights.org/contact-us/
 - https://www.thehotline.org/resources/stalking-safety-planning/
 - https://www.ic3.gov/
-- https://www.fbi.gov/tips
-- https://consumer.ftc.gov/articles/nonconsensual-distribution-intimate-images
+- https://tips.fbi.gov/
+- https://consumer.ftc.gov/articles/image-based-abuse-what-know-and-do
+- https://stopncii.org/

@@ -1,80 +1,90 @@
-﻿---
+---
 title: "What to do if… you receive a legal threat from a former employer about contacting clients or colleagues"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
-  - legal threat former employer
-  - cease and desist work letter
-  - solicitor letter from ex employer
-  - demand letter after leaving job
-  - non solicitation clause clients
-  - non dealing restriction clients
-  - colleague poaching allegation
-  - contacting former clients risk
-  - contacting former colleagues risk
-  - restrictive covenants after leaving
-  - post employment restrictions
-  - alleged breach employment contract
-  - threatened injunction from employer
-  - confidentiality clause after leaving
-  - trade secrets accusation at work
-  - worried about being sued work
-  - former employer legal action
-  - settlement agreement restrictions
-last_reviewed: "2026-01-08"
+  - "former employer legal threat"
+  - "ex employer legal threat"
+  - "solicitor letter from employer"
+  - "cease and desist from work"
+  - "client contact legal threat"
+  - "colleague contact legal threat"
+  - "restrictive covenant threat"
+  - "post employment restriction threat"
+  - "non solicitation client threat"
+  - "non dealing client threat"
+  - "what do i do if threatened"
+  - "what do i do if sued"
+  - "what do i do if poaching"
+  - "what do i do if restricted"
+  - "help i received a legal letter"
+  - "help i contacted old clients"
+  - "help i breached contract"
+  - "help i contacted former colleagues"
+  - "my former employer says stop"
+  - "my old employer alleges breach"
+  - "my ex employer threatens injunction"
+  - "panic after solicitor letter"
+  - "worried about injunction from employer"
+  - "scared former employer will sue"
+  - "deadline in legal letter"
+  - "client list accusation"
+  - "confidential information accusation"
+  - "trade secrets accusation"
+  - "poaching allegation"
+  - "non compete confusion"
+  - "non solicit confusion"
+  - "non dealing confusion"
+  - "restrictive covenent"
+  - "cease desist letter"
+  - "after leaving job"
+  - "new job with competitor"
+  - "settlement agreement restrictions"
+last_reviewed: "2026-05-17"
+date_created: "2026-05-17"
 ---
 
 # What to do if… you receive a legal threat from a former employer about contacting clients or colleagues (UK)
+
 ## Short answer
-Pause any work-related outreach to their clients or staff, preserve your records, and get UK employment law advice before you respond.
+Pause any business-related contact with their clients or staff, preserve everything, and get UK employment law advice before you respond.
 
 ## Do not do these things
-- Do not reply in anger, apologise, or give a detailed “explanation” — it can accidentally admit things.
-- Do not ignore it if it mentions court, an injunction, or gives a deadline.
-- Do not contact clients or colleagues to “clear things up”, ask what they said, or gather statements.
-- Do not delete messages, call logs, LinkedIn DMs, emails, or documents (even if you regret them).
-- Do not use any old employer contact lists, CRM exports, or downloaded work files “just to check something”.
+- Do not reply in anger, apologise, or give a detailed explanation; it can accidentally admit things.
+- Do not ignore it if it mentions court, an injunction, undertakings, or gives a short deadline.
+- Do not contact clients or colleagues to clear things up, ask what they said, or gather statements.
+- Do not delete messages, call logs, LinkedIn messages, emails, files, or documents.
+- Do not use old employer contact lists, CRM exports, pricing, templates, or downloaded work files.
+- Do not sign undertakings, accept restrictions, or promise anything new before advice.
 - Do not post about the threat on social media or in group chats.
 
 ## What to do now
-1. **Pause the highest-risk behaviour (without isolating yourself).** Stop any proactive, business-related contact with former clients/customers or colleagues (sales, recruitment, “we’re hiring”, moving accounts). If you must message someone for genuinely personal reasons, keep it strictly personal and avoid any work/business talk.
-2. **Preserve the threat and your records.** Save the letter/email, envelopes, attachments, and take screenshots of any relevant messages. Write a simple timeline while it’s fresh: who you contacted, when, and the exact words used (as best you can).
-3. **Gather the documents the threat will turn on.** Find:
-   - your employment contract and any later changes
-   - any settlement agreement / severance / exit agreement
-   - any confidentiality/IP agreement
-   - any written policies you signed that mention post-employment restrictions
-4. **Mark what they’re actually alleging.** Highlight the exact clauses they rely on (or note if they don’t cite any). Separate what they claim you did (names/dates/messages) from general warnings.
-5. **Do a quick “information hygiene” check — don’t delete anything.** Make sure you are not using or sharing:
-   - files/emails copied from a work account
-   - customer lists/pricing/CRM exports from work systems
-   - templates/proposals/other documents taken from the old employer  
-   If you find any, **stop using it and isolate it** (do not forward it; do not “tidy up” by deleting).
-6. **Use the fastest help channel available.** Options that often move quickly:
-   - your union or professional body member helpline (if you have one)
-   - any legal expenses cover you may have (check your insurance documents or account app/portal)
-   - an employment solicitor experienced in restrictive covenants (injunction threats can be time-sensitive)
-   - Acas for free, confidential employment-law information (they can help you understand options and risks, even if they can’t decide enforceability for you)
-7. **If you must respond before you get advice, send only a holding reply.** Confirm receipt, say you are taking advice, and ask them to specify (a) the exact clauses relied on, and (b) the specific contacts/communications complained of. Do not provide your full narrative or documents yet.
+1. **Pause the highest-risk contact.** Stop any proactive, business-related contact with former clients, customers, suppliers, or colleagues, including sales messages, recruitment messages, account-moving messages, and “we are hiring” messages. If you must contact someone for a genuinely personal reason, keep it strictly personal and avoid work or business talk.
+2. **Preserve the threat and your records.** Save the letter or email, envelopes, attachments, and any delivery information. Take screenshots of relevant messages and keep the originals where possible.
+3. **Write a simple timeline while it is fresh.** Note who contacted whom, when, what was said, what channel was used, and whether any client, customer, or colleague contacted you first.
+4. **Gather the documents the threat may depend on.** Find your employment contract, any later contract changes, any settlement or exit agreement, any confidentiality or intellectual property agreement, and any policies you signed or accepted that mention post-employment restrictions.
+5. **Mark what they are actually alleging.** Highlight the exact clauses they rely on, if they name them. Separate specific claims, such as names, dates, and messages, from general warnings or pressure.
+6. **Do an information hygiene check without deleting anything.** Check whether you have been using or sharing old employer material, such as copied files, customer lists, pricing, CRM exports, proposals, templates, or documents from work systems. If you find any, stop using it and isolate it; do not forward it, edit it, or delete it.
+7. **Use the fastest help channel available.** Contact your union or professional body helpline if you have one, check whether you have legal expenses cover through insurance, and speak to a solicitor or legal adviser experienced in restrictive covenants and injunction threats. Acas can also give free, confidential employment law or work advice and talk through options and risks, although it cannot give a legal opinion or act for you.
+8. **If you must respond before advice, send only a holding reply.** Confirm receipt, say you are taking advice, and ask them to specify the exact clauses relied on and the specific contacts or communications complained of. Add that you are not accepting their allegations or agreeing to any new restrictions at this stage.
 
 ## What can wait
-- You do not need to decide today whether the clause is enforceable or “reasonable”.
-- You do not need to negotiate, sign undertakings, or accept restrictions beyond what you already agreed to.
-- You do not need to contact every client/colleague to “correct the record”.
-- You do not need to make big career decisions (quitting a new job, abandoning plans) until you understand the real risk.
+- You do not need to decide today whether the clause is enforceable or reasonable.
+- You do not need to negotiate, sign undertakings, or accept restrictions beyond anything you have already agreed to.
+- You do not need to contact every client or colleague to correct the record.
+- You do not need to quit a new job, abandon work plans, or make a major career decision before you understand the real risk.
 
 ## Important reassurance
-A legal-sounding letter can feel like you’re already in trouble, but many are written to stop activity quickly and put pressure on you. Slowing down, preserving records, and getting advice before you speak is a strong and normal response.
+A legal-sounding letter can feel like you are already in trouble, but many letters are written to stop activity quickly and create pressure. Slowing down, preserving records, and getting advice before you speak is a strong and normal response.
 
 ## Scope note
-These are first steps only. Whether post-employment restrictions can be enforced depends on your exact wording, role, and facts — a solicitor can assess that and help you reply safely.
+These are first steps only. Whether post-employment restrictions can be enforced usually depends on the wording, your role, the facts, and whether the restriction is clear, specific, time-restricted, and reasonable to protect a legitimate business interest. Later decisions may need specialist employment law advice.
 
 ## Important note
-This guide provides general information, not legal advice. If the letter mentions court action, an injunction, or a short deadline, treat it as urgent and seek qualified UK employment law advice.
+This guide provides general information only. It is not legal, financial, therapeutic, or professional advice. If the letter mentions court action, an injunction, undertakings, or a short deadline, treat it as urgent and seek qualified UK employment law advice.
 
 ## Additional Resources
 - https://www.acas.org.uk/employment-contracts-and-the-law/exclusivity-clauses
-- https://www.acas.org.uk/contact
-- https://www.citizensadvice.org.uk/work/after-leaving-your-job/if-your-employer-says-you-cant-work-for-a-competitor/
-- https://www.gov.uk/government/publications/reform-of-non-compete-clauses-in-employment-contracts-working-paper/working-paper-on-options-for-reform-of-non-compete-clauses-in-employment-contracts
-- https://www.lawsociety.org.uk/en/public/for-public-visitors/find-a-solicitor
+- https://www.acas.org.uk/contact/get-advice
+- https://www.gov.uk/find-legal-advice
+- https://www.gov.uk/find-legal-advice/find-legal-adviser

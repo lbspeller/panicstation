@@ -1,88 +1,118 @@
-﻿---
+---
 title: "What to do if… you are asked to provide fingerprints, a DNA sample, or other identification for a case"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
-  - asked for fingerprints
-  - asked for dna sample
-  - police want dna swab
-  - mouth swab police
-  - buccal swab request
-  - biometric sample request
-  - asked for photo identification
-  - asked for custody photo
-  - asked to attend station for biometrics
-  - asked to give samples for a case
-  - voluntary dna sample uk
-  - police identification procedure
-  - pressured to consent
-  - worried about dna database
-  - fingerprints and dna retention
-  - asked to provide identification
-  - dna sample for elimination
-  - asked for fingerprints to clear you
-  - police request for samples
-last_reviewed: "2026-03-06"
+  - "asked for fingerprints"
+  - "asked for dna sample"
+  - "asked for identification"
+  - "police want fingerprints"
+  - "police want dna"
+  - "police want identification"
+  - "dna swab request"
+  - "mouth swab request"
+  - "biometric sample request"
+  - "fingerprint request"
+  - "what do i do if police want fingerprints"
+  - "what do i do if police want dna"
+  - "what do i do if asked for fingerprints"
+  - "what do i do if asked for dna"
+  - "help i am asked for fingerprints"
+  - "help i am asked for dna"
+  - "my dna is requested"
+  - "my fingerprints are requested"
+  - "pressured to give dna"
+  - "pressured to give fingerprints"
+  - "worried about dna database"
+  - "worried about fingerprint records"
+  - "asked for custody photo"
+  - "asked for police photo"
+  - "voluntary dna sample"
+  - "voluntary fingerprint request"
+  - "elimination dna sample"
+  - "identification procedure request"
+  - "asked after arrest"
+  - "asked at police station"
+  - "finger prints request"
+  - "dna swab requst"
+last_reviewed: "2026-05-04"
+date_created: "2026-05-04"
 ---
 
 # What to do if… you are asked to provide fingerprints, a DNA sample, or other identification for a case (UK)
 
 ## Short answer
-Pause and make them spell out whether this is **mandatory** (police powers) or **voluntary**—then **ask for a solicitor before you sign, agree, or answer questions**.
+Pause before you agree, sign, or answer case questions. Ask whether the fingerprint, DNA, photograph, swab, or identification request is legally required today, voluntary, or being requested with your consent, then ask for legal advice before you decide anything.
 
 ## Do not do these things
-- Don’t “just agree to get it over with” if you’re unsure whether it’s voluntary.
-- Don’t physically resist or struggle if you’re in custody—keep it calm and verbal, and let your solicitor challenge anything later.
-- Don’t sign anything you haven’t read or don’t understand (especially anything describing “consent”).
-- Don’t give extra information “to help” (timelines, names, explanations) before legal advice.
-- Don’t assume it will be deleted later—ask what happens to it.
-- If you are **not detained** and it’s being asked **voluntarily**, don’t let yourself be pressured into “staying to sort it out” on the spot—leave and get legal advice.
+- Don’t agree just to get it over with if you are unsure whether it is voluntary.
+- Don’t physically resist or struggle if you are in custody; keep it calm and verbal, and ask for a solicitor.
+- Don’t sign anything you have not read or do not understand, especially anything describing consent.
+- Don’t give extra explanations, names, timelines, or guesses before legal advice.
+- Don’t assume a DNA profile, fingerprints, or photograph will be deleted later; ask what storage, retention, or review route may apply.
+- If you are not detained and the request is voluntary, don’t let pressure make you stay and decide on the spot.
 
 ## What to do now
-1. **Get the basics and write them down:**
-   - Who is asking (name/force/role), which station/office, and the **case reference**.
-   - Exactly what is being requested (fingerprints, photographs, mouth swab, hair root, skin swab, “elimination” sample, or an identification procedure).
-   - Whether you are being asked as a **witness/volunteer** or as a **suspect/detainee/charged person**.
-2. **Ask one clear question: “Am I legally required to provide this today?”**
-   - If they say **yes**, ask: “Under what power?” and “Am I under arrest / being detained / required to attend?”
-   - If they say **no** / “it’s voluntary,” say: **“I’m not consenting to anything today. I want legal advice.”**
-3. **Ask what type of sample it is (this changes what “consent” means):**
-   - Ask: “Is it a **mouth swab / hair root / skin swab / fingerprints / photograph**?”
-   - If they mention **blood, urine, or dental impressions**, ask: “Are you asking for my permission, and who has authorised this?” (and record the answer).
-4. **If you’re in custody or at a police station, ask for a solicitor immediately.**
-   - Say: **“I want legal advice. Please arrange the duty solicitor.”**
-   - Then stop discussing the case (even casual chat). Keep responses to identity/process only.
-5. **If you’re being asked to attend later (e.g., after release/charge):**
-   - Ask for the request **in writing** and confirm the **time, place, what will be taken, and what happens if you don’t attend**.
-   - Forward it to your solicitor (or ask for the duty solicitor via the station if you don’t have one).
-6. **If the request is for an identification procedure (e.g., photos/video identification/ID parade):**
+1. **Get the request clear and write it down.**
+   - Ask for the name, force, role, station or office, and case reference.
+   - Write down exactly what is being requested: fingerprints, a mouth swab, head hair root, skin swab, photograph, custody image, elimination sample, or an identification procedure.
+   - Ask whether you are being treated as a witness, volunteer, suspect, detained person, arrested person, or charged person.
+
+2. **Ask one direct question.**
+   - Say: **“Am I legally required to provide this today?”**
+   - If they say yes, ask: **“What is the legal power, and does it apply where I am in the UK?”**
+   - If they say no or say it is voluntary, say: **“I am not consenting today. I want legal advice first.”**
+
+3. **Ask what type of sample or identification is involved.**
+   - Say: **“Is this fingerprints, a photograph, a mouth swab, a hair-root sample, a skin swab, or something else?”**
+   - If they mention blood, urine, or dental impressions, ask: **“Are you asking for my permission, and who has authorised this?”**
+   - Write down the answer; do not argue about it there.
+
+4. **If you are in custody or at a police station, ask for a solicitor immediately.**
+   - Say: **“I want legal advice. Please arrange a solicitor.”**
+   - Ask for the custody officer if you are unsure what is happening.
+   - Avoid discussing the allegation or the case until you have spoken to the solicitor.
+
+5. **If you are being asked to attend later, slow it down.**
+   - Ask for the request in writing.
+   - Ask for the time, place, what will be taken, whether attendance is required, and what they say may happen if you do not attend.
+   - Send the request to your solicitor, or ask the station how to access legal advice if you do not have one.
+
+6. **If it is an identification procedure, ask for legal advice first.**
    - Say: **“I want legal advice before any identification procedure.”**
-   - Ask what type of procedure it is and when it will happen, and record it.
-7. **Ask about retention and deletion routes (record the answer; don’t debate it):**
-   - “Will this be stored on police databases? For how long? How do I request deletion if I’m not charged or I’m cleared?”
-8. **If you feel pressured, use a steady one-liner:**
-   - **“I’m not refusing to cooperate. I’m asking for legal advice before I agree or sign anything.”**
-9. **If you are a child/young person or a vulnerable adult:**
-   - Ask for an **appropriate adult** and a solicitor. Don’t proceed without them.
+   - Ask whether it is video identification, photographs, an identification parade, group identification, or another process.
+   - Ask when it is due to happen and whether you are expected to attend.
+
+7. **Ask about storage and deletion without debating it.**
+   - Say: **“Will this be stored on a police database, and what deletion or review route may apply if I am not charged, no further action is taken, or I am cleared?”**
+   - Write down the answer and the name of the person who gave it.
+   - Leave any challenge or application until you have legal advice.
+
+8. **Use one calm line if you feel pressured.**
+   - Say: **“I am not trying to be difficult. I am asking for legal advice before I agree, sign, or answer case questions.”**
+
+9. **If you are under 18 or you are a vulnerable adult, ask for support before anything happens.**
+   - Say: **“I want an appropriate adult and a solicitor.”**
+   - Do not agree to continue without them unless your solicitor advises you.
 
 ## What can wait
-- You do not need to decide today whether to complain, challenge retention, or take legal action.
-- You do not need to “explain your side” to speed things up.
-- You do not need to guess what the police “already know” or try to correct them in the moment.
+- You do not need to decide now whether to complain, challenge retention, or make a deletion request.
+- You do not need to explain your side to speed things up.
+- You do not need to guess what the police already know.
+- You do not need to work out the whole law; your immediate job is to ask whether it is required, avoid accidental consent, and get legal advice.
 
 ## Important reassurance
-It’s normal to feel trapped or panicky when someone asks for DNA or fingerprints. Slowing the moment down, asking whether it’s voluntary or mandatory, and getting legal advice are safe, ordinary steps.
+Being asked for DNA, fingerprints, photographs, or an identification procedure can feel exposing and frightening. Pausing, asking whether it is required or voluntary, and asking for legal advice are ordinary protective steps.
 
 ## Scope note
-This is first-steps guidance for staying calm, avoiding accidental consent, and getting the right support. A solicitor can advise on the specific power being used, what you must provide, and what can be challenged later.
+These are first steps only. They are deliberately general because police powers and procedures can vary by situation and by where you are in the UK. Later decisions about consent, attendance, retention, deletion, complaints, or challenging the process may need advice from a solicitor or another specialist.
 
 ## Important note
-This is general information, not legal advice. What police can require depends on your situation (e.g., arrested vs voluntary attendance, age, offence type, and the type of sample). If you’re unsure, ask for a solicitor before you agree or sign anything.
+This is general information, not legal advice. Police powers and procedures can depend on where you are in the UK, whether you are arrested or attending voluntarily, your age, the type of sample or identification, and the offence or case.
 
 ## Additional Resources
 - https://www.gov.uk/arrested-your-rights/giving-fingerprints-photographs-and-samples
 - https://www.gov.uk/arrested-your-rights/your-rights-in-custody
 - https://www.gov.uk/government/publications/pace-code-d-2023/pace-code-d-2023-accessible
-- https://www.legislation.gov.uk/ukpga/1984/60/section/63
-- https://assets.publishing.service.gov.uk/media/5d5a7dd2e5274a07655d5b38/2019_CodeC-NoRE.PDF
-- https://www.kent.police.uk/police-forces/kent-police/areas/kent-police/about-us/release-from-custody-information/biometric-sample/
+- https://www.gov.uk/government/publications/pace-code-c-2023/pace-code-c-2023-accessible
+- https://www.gov.uk/government/publications/dna-early-deletion-guidance-and-application-form/guidance-record-deletion-accessible

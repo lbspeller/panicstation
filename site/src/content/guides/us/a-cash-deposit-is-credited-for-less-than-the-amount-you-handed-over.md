@@ -1,79 +1,88 @@
-﻿---
+---
 title: "What to do if… a cash deposit is credited for less than the amount you handed over"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
-  - cash deposit credited short
-  - cash deposit missing money
-  - bank credited less than deposit
-  - teller deposit wrong amount
-  - cash deposit discrepancy
-  - cash deposit receipt mismatch
-  - atm cash deposit short
-  - cash deposit machine error
-  - atm deposit credited wrong
-  - cash deposit dispute bank
-  - deposit amount incorrect
-  - deposit posted less money
-  - cash deposit not fully credited
-  - bank deposit shorted me
-  - missing cash after deposit
-  - branch deposit shortage
-  - deposit credited too low
-  - handed over cash missing
-last_reviewed: "2026-01-09"
+  - "cash deposit credited short"
+  - "cash deposit missing money"
+  - "cash deposit amount mismatch"
+  - "cash deposit posted too low"
+  - "bank credited less than cash"
+  - "teller cash deposit short"
+  - "atm cash deposit short"
+  - "cash deposit receipt mismatch"
+  - "cash deposit discrepancy"
+  - "what do i do if cash deposit short"
+  - "what do i do if bank deposit short"
+  - "what do i do if atm deposit short"
+  - "what do i do if teller deposit wrong"
+  - "help i am missing cash deposit money"
+  - "help i got less credit for cash"
+  - "my cash deposit is short"
+  - "my atm deposit is missing money"
+  - "my teller deposit amount is wrong"
+  - "deposit receipt shows higher amount"
+  - "account shows lower cash deposit"
+  - "cash deposit correction not posted"
+  - "atm receipt and balance differ"
+  - "teller receipt and balance differ"
+  - "cash handed over not fully credited"
+  - "cash deposit pending or short"
+  - "cash deposit delayed or missing"
+  - "cash deposit hold or mismatch"
+  - "atm deposit counted wrong"
+  - "deposit credited to wrong amount"
+  - "cash deposit short at bank branch"
+  - "cash deposit short at credit union"
+  - "cash deposit short at third-party atm"
+  - "atm cash deposit short after hours"
+  - "cash deposit creditted short"
+  - "cash depost credited short"
+last_reviewed: "2026-05-30"
+date_created: "2026-05-30"
 ---
 
 # What to do if… a cash deposit is credited for less than the amount you handed over (USA)
 
 ## Short answer
-Document it and report it right away: keep your deposit receipt, note the exact time/location, and contact your bank or credit union to open a deposit discrepancy case.
+Keep your receipt, write down the difference, and contact your bank or credit union promptly through a trusted channel. Ask them to record the cash-deposit mismatch and give you written confirmation or a reference number if available.
 
 ## Do not do these things
-- Don’t throw away the receipt, deposit envelope, or any ATM/cash-machine confirmation.
-- Don’t assume “it’ll fix itself” without at least opening a case and getting a reference number.
-- Don’t share account screenshots or personal details online while seeking help.
-- Don’t close the account or move everything to a new bank before the investigation is complete.
-- Don’t escalate with accusations—stick to facts so the institution can reconcile records quickly.
+- Don’t throw away the receipt or any ATM or cash-machine confirmation.
+- Don’t rely on the amount correcting itself without reporting the mismatch.
+- Don’t share account numbers, screenshots, or personal details publicly.
+- Don’t send original documents to a regulator or complaint service.
+- Don’t close the account before saving your statements, receipts, and case details.
 
 ## What to do now
-1. **Capture the key facts (2 minutes).** Write down: amount you handed over, amount credited, date/time, branch/ATM location, and the transaction/reference number. Note who you spoke to.
-2. **Secure your evidence.** Photograph the receipt (front/back) and keep the original. If it shows an ATM/machine ID, keep that too.
-3. **Contact your bank or credit union using a trusted method.** Use the number on the back of your card, your banking app, or the institution’s official website. Ask them to **open a “deposit discrepancy”** (or “ATM deposit dispute”) and give you a **case/reference number**.
-4. **If the ATM isn’t owned by your bank/credit union, contact the ATM owner/operator too.** Keep your receipt and provide the same facts (time, location, amount, and what posted). (The ATM owner/operator may be different from your bank.)
-5. **If it was a teller/branch deposit, contact branch leadership promptly.** Ask the branch to review:
-   - the deposit transaction record (what was keyed/posted)
-   - the teller drawer balancing/reconciliation for that business day
-   Ask for a brief written summary (email or secure message) confirming the case was opened.
-6. **If it was an ATM or cash-accepting machine deposit, request a machine reconciliation.** Ask the institution to review the machine’s records (journal/log) and reconcile the machine cash against deposits. Keep checking your account in case a correction posts, but don’t close the case unless they confirm it’s resolved.
-7. **Follow up in writing the same day.** Send a secure in-app message (preferred) or a letter/email through the institution’s published dispute/complaints channel. Attach receipt photos and your timeline, and request reversal of any fees caused by the short credit (overdraft/returned payment fees).
-8. **Escalate if you’re being stalled or denied without a clear explanation.** Options depend on the institution:
-   - **CFPB** (broad consumer financial complaint route for many banks/credit unions)
-   - **OCC** (national banks and federal savings associations)
-   - **FDIC** (FDIC-supervised banks)
-   - **Federal Reserve** (complaints involving banks it supervises)
-   - **NCUA** (credit unions, typically after you’ve tried to resolve it with the credit union)
-   If you’re not sure who regulates your institution, starting with the **CFPB** is often the simplest.
+1. **Save the evidence.** Photograph the receipt and keep the original. Write down the amount you handed over, the amount credited, the date and time, the branch or ATM location, and any transaction or machine number shown.
+2. **Contact the bank or credit union.** Use the number on the back of your card, your banking app, or the institution’s official website. Say that a cash deposit was credited for less than the amount handed over. Ask them to record the report and tell you the next step.
+3. **Ask for confirmation.** Request a case or reference number if available. If there is no reference number, ask for written confirmation through a secure message or another published complaint channel.
+4. **Give the deposit-specific details.** For a teller deposit, identify the branch and approximate time. For an ATM or cash-accepting machine deposit, identify the machine location, machine number if shown, and the operator name if it appears on the receipt or machine.
+5. **Ask what review is needed.** Ask the institution to review the transaction and the available branch or machine records. If the ATM is operated by another company, ask whether you also need to contact that operator. If the institution asks for written confirmation, send it through the channel it specifies.
+6. **Follow up in writing.** Use a secure message or the institution’s published written complaint channel. Send copies of the receipt and your timeline, not the original documents. Ask the institution to review any fees caused by the short credit.
+7. **Escalate only if needed.** If the institution does not resolve the issue or does not explain the next step, use an official complaint route. For a bank, FDIC BankFind can help identify the federal regulator. For a credit union, the NCUA Consumer Assistance Center can receive a complaint and may route it if another agency is appropriate. CFPB and USA.gov also provide complaint guidance.
 
 ## What can wait
-- You don’t need to decide today whether to close your account or change banks.
-- You don’t need to “prove intent” or argue about blame—focus on opening a formal case and preserving evidence.
-- You don’t need to contact multiple agencies at once; start with the bank/credit union, then escalate if it isn’t resolved.
+- You don’t need to decide today whether to close the account or change institutions.
+- You don’t need to prove why the mismatch happened before reporting it.
+- You don’t need to contact every regulator at once.
+- You don’t need to send original documents anywhere.
 
 ## Important reassurance
-These mismatches are usually handled through routine reconciliation: institutions compare posted transactions with cash counts and machine totals. Your receipt, accurate details, and a promptly opened case are what most often move it forward.
+A prompt report, a saved receipt, and a clear timeline give the bank or credit union the information it needs to review the mismatch. You can focus on preserving those details and opening the case.
 
 ## Scope note
-These are first steps to stabilize the situation and trigger the institution’s investigation process. If the institution denies the claim, later steps may involve a formal complaint and additional documentation—but you don’t have to plan that now.
+These are first steps only. If the mismatch is not resolved, later steps may include a formal written complaint or specialist advice.
 
 ## Important note
-This is general information, not legal or financial advice. Processes and timelines vary by institution and by deposit method (teller vs. ATM/cash machine). If you feel unsafe or believe a crime occurred, prioritize safety and consider contacting local law enforcement.
+This is general information, not legal, financial, medical, therapeutic, or other professional advice. Processes vary by institution, deposit method, and regulator.
 
 ## Additional Resources
-- https://www.consumerfinance.gov/ask-cfpb/what-do-i-do-if-the-atm-gave-me-the-wrong-amount-of-money-en-1085/
+- https://www.usa.gov/bank-credit-complaints
 - https://www.consumerfinance.gov/complaint/
+- https://banks.data.fdic.gov/bankfind-suite/bankfind
 - https://www.helpwithmybank.gov/file-a-complaint/index-file-a-complaint.html
 - https://www.fdic.gov/consumer-resource-center/consumer-complaint-process
-- https://www.federalreserve.gov/faqs/credit_12666.htm
+- https://www.federalreserveconsumerhelp.gov/file-a-complaint/
 - https://mycreditunion.gov/about/consumer-assistance-center/complaint-process
-- https://www.usa.gov/bank-credit-complaints

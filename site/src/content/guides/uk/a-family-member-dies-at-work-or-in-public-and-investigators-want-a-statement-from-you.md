@@ -1,75 +1,96 @@
-﻿---
+---
 title: "What to do if… a family member dies at work or in public and investigators want a statement from you"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
-  - family member died at work
-  - family member died in public
-  - sudden bereavement
-  - investigators want a statement
-  - police want to interview me
-  - asked to give a witness statement
-  - giving a statement while grieving
-  - what to say to investigators
-  - do i have to give a statement
-  - pressured to sign a statement
-  - workplace death investigation
-  - death at workplace uk
-  - death reported to coroner
-  - coroner investigation
-  - family liaison officer
-  - i might say the wrong thing
-  - shock and numbness after death
-  - statement request after death
-  - unexpected death in public place
-last_reviewed: "2026-02-23"
+  - "family member died at work"
+  - "family member died in public"
+  - "family member died suddenly"
+  - "relative died at work"
+  - "relative died in public"
+  - "loved one died at work"
+  - "loved one died in public"
+  - "workplace death investigation"
+  - "public place death investigation"
+  - "investigators want a statement"
+  - "statement after family death"
+  - "statement request after death"
+  - "what do i do if investigators call"
+  - "what do i do if asked questions"
+  - "what do i do if asked for statement"
+  - "what do i do if family member dies"
+  - "what do i do if relative dies"
+  - "help i feel pressured to sign"
+  - "help i might say wrong thing"
+  - "help i am too shocked to talk"
+  - "help i need a statement"
+  - "my family member died at work"
+  - "my relative died in public"
+  - "my statement feels rushed"
+  - "my memory is patchy"
+  - "shock after sudden death"
+  - "numb after family death"
+  - "confused after workplace death"
+  - "too distressed to give statement"
+  - "pressure from investigators"
+  - "interview under caution confusion"
+  - "witness or suspect confusion"
+  - "next of kin confusion"
+  - "death investigation confusion"
+  - "uk workplace death"
+  - "death at work uk"
+  - "public death uk"
+  - "statment after family death"
+last_reviewed: "2026-04-25"
+date_created: "2026-04-25"
 ---
 
 # What to do if… a family member dies at work or in public and investigators want a statement from you (UK)
 
 ## Short answer
-If you’re overwhelmed, it’s okay to slow this down: ask what your role is (witness / next of kin contact / interviewed under caution), and ask whether your statement can be taken later in writing or at a scheduled time when you can think clearly and have support.
+If you are overwhelmed, slow the conversation down. Ask who is speaking to you, whether you are being treated as a witness, family contact, or someone interviewed under caution, and whether any statement can be taken later when you can think clearly and have support.
 
 ## Do not do these things
-- Don’t guess, fill gaps, or repeat rumours to “be helpful” — stick to what you directly know.
-- Don’t sign anything you haven’t read carefully, or that you don’t fully agree is accurate.
-- Don’t let anyone rush you when you’re in shock (including well-meaning people).
-- Don’t hand over private items (phone, messages, documents) unless you clearly understand who is asking, why, and what happens next.
-- Don’t discuss details widely (family group chats, social media, colleagues) while facts are still being checked.
+- Do not guess, fill gaps, or repeat rumours to be helpful; stick to what you directly saw, heard, received, or know.
+- Do not sign a statement you have not read, or that you do not agree is accurate.
+- Do not hand over your phone, messages, documents, or private items unless you understand who is asking, why they need them, and what will happen next.
+- Do not post details on social media or in large group chats while facts are still being checked.
+- Do not ignore the words “under caution”; pause and ask for legal advice before continuing.
 
 ## What to do now
-1. **Get a brief safety pause first.** If you’re at the scene or in a public place, move somewhere quieter (a side room, a friend’s car, a reception area) and get water. If you’re not fit to talk, say so plainly.
-2. **Ask two grounding questions before you answer anything:**  
-   - “Can you tell me your name, role, and which organisation you’re with?”  
-   - “Am I being asked as a witness, or am I being interviewed under caution?”
-3. **If you are a witness and you’re not ready, ask to schedule it.** Say: “I’m too distressed to give an accurate account right now. Can we arrange a time later, or can I provide a written statement?”
-4. **Ask for a support person to be present.** This can be a trusted friend/family member. If the police appoint a **Family Liaison Officer (FLO)**, ask to route contact via them and to have them help coordinate updates.
-5. **Keep your account factual and narrow.** Use “I saw / I heard / I received a call from…” and clearly separate what you *know* from what you *assume*. If you don’t know, say “I don’t know.”
-6. **Control the mechanics of any statement.** Police statements can be taken in writing or recorded. Ask for breaks. Ask to read it (or have it read back) and correct anything wrong (times, locations, names) before you sign.
-7. **If you are interviewed under caution, pause and get legal advice.** Say: “I want legal advice.” In the UK, you can ask for a solicitor and you do not have to continue answering questions until you’ve had that advice.
-8. **If the death was at work, expect joint investigating.** Often the **police and the Health and Safety Executive (HSE)** (or another enforcing authority) coordinate from the start under the Work-related Deaths Protocol. Ask who your main contact is and how you’ll be kept updated (often via the FLO).
-9. **If a coroner is involved, you may be asked for a family statement later.** Coroner’s officers often gather information from family as part of the file. If you have concerns or key facts, you can ask how to provide them in writing.
-10. **Write down your own record immediately after.** In your own private notes: who you spoke to, time/date, what you were asked for, what you provided, and any reference numbers given. This protects you if you later can’t remember.
+1. **Get a safer pause first.** If you are at the scene, at work, or in a public place, move to a quieter nearby place if you can, such as a side room, reception area, or a trusted person’s car. Say plainly: “I am not fit to talk properly right now.”
+2. **Ask who is asking.** Write down their name, role, organisation, contact details, and any reference number. You can ask to see identification.
+3. **Ask what your status is before answering.** Say: “Am I being asked as a witness, as next of kin or family contact, or am I being interviewed under caution?”
+4. **If you are a witness and you are too distressed, ask to delay or arrange the statement.** Say: “I want to help, but I am too distressed to give an accurate account right now. Can we arrange a time later, or can I provide a written statement?”
+5. **Ask for a support person.** Say: “Can I have someone with me for support?” If a support person might also be a witness, ask investigators whether that creates a problem before they sit in.
+6. **Keep any account narrow and factual.** Use phrases like “I saw”, “I heard”, “I was told”, and “I received a call from”. Separate what you know from what you assume. If you do not know, say “I do not know.”
+7. **Check the statement before signing.** A witness statement may be written or video recorded. Ask for breaks. Ask to read it, or have it read back to you. Ask for corrections to names, times, places, wording, or anything that sounds more certain than you are.
+8. **If anyone says “interview under caution”, stop and ask for legal advice.** Say: “I want legal advice before I answer questions.” For police interviews, legal advice is free, and police are usually not allowed to ask you questions until you have had the chance to talk to a solicitor.
+9. **If the death was at work, ask who is leading family contact.** In England, Wales and Scotland, police, HSE or another enforcing authority may be involved under work-related death arrangements. In Northern Ireland, PSNI, HSENI, a district council or another enforcing authority may be involved. Ask who your main contact is, how updates will be given, and whether there is anything you should avoid disturbing or changing.
+10. **If a death-investigation body is involved, ask how family information should be provided.** This may be a coroner in England, Wales or Northern Ireland, or the Procurator Fiscal in Scotland. If you have key facts or concerns, ask whether to send them in writing and where to send them.
+11. **Make your own short private note afterwards.** Record the date, time, who spoke to you, what they asked for, what you gave them, and any reference numbers. Keep it factual.
 
 ## What can wait
-- You do **not** need to produce a perfect timeline right now.
-- You do **not** need to answer “why it happened” — investigators decide that.
-- You do **not** need to negotiate with an employer, media, or extended family today.
-- You do **not** need to decide about funerals, belongings, or work arrangements before you’ve had sleep and support.
+- You do not need to create a perfect timeline today.
+- You do not need to explain why the death happened; investigators decide what they can establish.
+- You do not need to speak to an employer, media, or wider family group before you have steadied yourself.
+- You do not need to decide funeral, belongings, work, complaint, or legal steps in the same moment as giving basic information.
 
 ## Important reassurance
-Shock can make memory patchy, speech disorganised, and emotions swing between numbness and overwhelm. Needing time before a statement is common — and it can make your account more reliable, not less.
+Shock can make memory patchy, speech disorganised, and decisions feel urgent when they are not. Asking for time, clarity, support, and a chance to check your words is reasonable and can help make any statement more accurate.
 
 ## Scope note
-This is first steps only — just enough to protect you from being rushed into an inaccurate statement while you’re grieving. Later stages (post-mortem, coroner process, workplace investigation, inquest) can be handled one piece at a time.
+These are first steps only, to help you avoid being rushed into an unclear or inaccurate statement while you are grieving. Later decisions about a post-mortem, workplace investigation, inquest or inquiry process, complaints, or legal action may need specialist help.
 
 ## Important note
-This guide is general information, not legal advice. Processes vary by case. If you’re unsure of your status, feel pressured, are interviewed under caution, or think you might be personally blamed, get independent legal advice before continuing.
+This guide is general information, not legal, medical, financial, therapeutic, or professional advice. Processes can differ by case and across the UK. If you are unsure of your status, feel pressured, are interviewed under caution, or think you may be blamed, get independent legal advice before continuing.
 
 ## Additional Resources
 - https://www.hse.gov.uk/victims-and-bereaved-families/investigation-after-work-related-death.htm
 - https://www.hse.gov.uk/enforce/wrdp/
+- https://www.hseni.gov.uk/enforcement-guidelines-health-and-safety-work-northern-ireland
 - https://www.gov.uk/after-a-death/when-a-death-is-reported-to-a-coroner
-- https://www.met.police.uk/advice/advice-and-information/victim-support/giving-witness-victim-statement/
-- https://www.citizensadvice.org.uk/law-and-courts/legal-system/going-to-court-as-a-witness1/you-might-have-to-go-to-court-as-a-witness/youve-given-a-witness-statement-to-the-police/
-- https://www.hse.gov.uk/pubns/hse52-ew.htm
+- https://www.copfs.gov.uk/services/bereavement-support/guide-for-bereaved-family-members/
+- https://www.justice-ni.gov.uk/articles/coroners-service-northern-ireland
+- https://www.police.uk/advice/advice-and-information/victim-support/giving-witness-victim-statement/
+- https://www.gov.uk/government/publications/voluntary-police-interview-your-rights/remember-your-rights-voluntary-interview-accessible-version

@@ -1,79 +1,97 @@
-﻿---
+---
 title: "What to do if… you are told a colleague has made a formal complaint about you"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
-  - colleague complaint about me
-  - formal complaint at work
-  - hr says complaint filed
-  - accused by coworker
-  - grievance about my behaviour
-  - disciplinary process started
-  - allegation at work
-  - bullying complaint at work
-  - harassment complaint at work
-  - told i'm being investigated
-  - complaint made against me
-  - called to hr meeting
-  - asked for my statement at work
-  - workplace investigation interview
-  - worried about losing my job
-  - told not to contact colleague
-  - asked to attend disciplinary hearing
-  - complaint escalated to formal
-last_reviewed: "2026-01-07"
+  - "colleague complaint about me"
+  - "formal complaint at work"
+  - "colleague made a complaint"
+  - "complaint from a colleague"
+  - "workplace complaint about me"
+  - "coworker complaint about me"
+  - "formal grievance about me"
+  - "complaint about my behaviour"
+  - "colleague accused me"
+  - "complaint escalated at work"
+  - "what do i do if colleague complained"
+  - "what do i do if formal complaint"
+  - "what do i do if hr complaint"
+  - "what do i do if accused at work"
+  - "help i have been accused"
+  - "help i am being investigated"
+  - "help i was called to hr"
+  - "help i might lose my job"
+  - "my colleague complained about me"
+  - "my coworker reported me"
+  - "my manager says complaint"
+  - "my work is investigating me"
+  - "called to hr meeting"
+  - "asked for statement at work"
+  - "told not to contact colleague"
+  - "work messages might be evidence"
+  - "worried about disciplinary hearing"
+  - "panic after workplace complaint"
+  - "grievance or disciplinary confusion"
+  - "informal chat or investigation"
+  - "hr meeting or hearing"
+  - "bullying complaint confusion"
+  - "harassment complaint confusion"
+  - "colegue complaint about me"
+  - "formal complant at work"
+last_reviewed: "2026-05-06"
+date_created: "2026-05-06"
 ---
 
 # What to do if… you are told a colleague has made a formal complaint about you (UK)
 
 ## Short answer
-Don’t contact the colleague who complained. Ask HR for a written summary of what’s alleged and which procedure is being used, then get support (union rep or suitable workplace companion) before you give a detailed response.
+Do not contact the colleague who complained. Ask HR for a written summary of what is alleged, which procedure is being used, and what is expected from you next, then get support before giving a detailed response.
 
 ## Do not do these things
-- Do not confront, message, “clear the air” with, or ask friends to pressure the colleague who complained.
-- Do not vent about it in work chats, Slack/Teams, email, or social media (even “anonymously”).
-- Do not delete, edit, or “tidy up” messages/files/notes that might be relevant (it can look like you’re hiding something).
-- Do not resign, accept blame, or sign a statement “just to make it go away” while you’re in shock.
-- Do not try to “gather intelligence” by questioning witnesses or comparing stories with coworkers.
-- Avoid covertly recording meetings. If you want an accurate record, ask for written minutes/notes, or ask permission to record (and follow your employer’s policy).
+- Do not confront, message, “clear the air” with, or ask anyone else to pressure the colleague who complained.
+- Do not vent about it in work chats, Slack, Teams, email, or social media, even anonymously.
+- Do not delete, edit, or “tidy up” messages, files, notes, or calendar entries that might be relevant.
+- Do not resign, accept blame, or sign a statement just to make the situation go away while you are in shock.
+- Do not question witnesses or compare stories with coworkers.
+- Avoid covertly recording meetings. If you want an accurate record, ask for written notes or minutes, or ask whether recording is allowed under your employer’s policy.
 
 ## What to do now
-1. **Get the basics in writing (today).** Ask HR for:
-   - a summary of what the complaint alleges (what conduct, roughly when/where)
-   - whether this is being handled as a **grievance** (your colleague’s complaint) and/or a **disciplinary** matter (possible action against you)
-   - the **policy/procedure** being used and the next steps
-2. **Clarify what kind of meeting you’re being called to.** Ask: “Is this an informal chat, an **investigation meeting**, a **grievance meeting**, or a **disciplinary hearing**?”
-3. **Ask what HR needs from you and by when.** For example: an interview, names of witnesses, or a written statement.
-4. **Use your right to be accompanied where it applies.**
-   - If you’re invited to a **grievance meeting** or a **disciplinary hearing** that could result in a formal warning or other disciplinary action, you can make a reasonable request to be accompanied by a companion (for example, a trade union representative or a work colleague).
-   - If it’s an **investigation meeting**, there is usually **no statutory right** to be accompanied, but you can still ask your employer to allow it as a reasonable adjustment to help you participate calmly.
-5. **Request what you need to prepare (without demanding).** Ask when you’ll receive the documents HR plans to rely on (for example, notes of allegations, relevant messages, witness summaries) and whether you can see them before any hearing.
-6. **Write your own timeline while it’s fresh (private, factual, dated).** Note:
-   - what you’ve been told (who said what, when)
-   - any relevant interactions/events (dates, locations, who was present)
-   - what records might exist (messages, rotas, meeting invites, work outputs)
-7. **Preserve relevant material safely.** Keep relevant emails/messages/notes intact and in place on work systems. Don’t forward confidential information to personal accounts or devices. If you’re worried your access could be removed, ask HR how you’ll be able to see the evidence later through the process.
-8. **Choose one calm support route.** If you have a union, contact them promptly. If you do not, identify a trusted colleague who could accompany you where permitted, and a separate person outside work for emotional support.
-9. **If you’re not thinking clearly, ask for a short pause.** If you’re asked for an immediate statement, say you want to cooperate but need reasonable time to review what’s alleged and respond carefully.
+1. **Ask HR for the basics in writing.** Ask for:
+   - a summary of what the complaint alleges, including the conduct, approximate dates, and work context where possible
+   - whether this is being handled as a colleague’s grievance, a disciplinary matter against you, an investigation, or more than one process
+   - the policy or procedure being used
+   - the next step and any deadline for you to respond
+2. **Clarify the meeting type before you attend.** Ask: “Is this an informal chat, an investigation meeting, a grievance-related meeting, or a disciplinary hearing?”
+3. **Ask what HR needs from you now.** Check whether they are asking for an interview, a written statement, names of witnesses, or only confirmation that you have received the notice.
+4. **Ask about accompaniment before any meeting.** If you are invited to a disciplinary hearing that could lead to a formal warning or other disciplinary action, you can usually make a reasonable request to be accompanied by a trade union representative or a work colleague. If it is an investigation meeting, there is usually no legal right to be accompanied, but you can still ask your employer to allow it as good practice, or as a reasonable adjustment if disability is relevant.
+5. **Ask what information you can see before responding.** Ask what documents, messages, witness summaries, or allegation notes you can see now, and what will be provided before any disciplinary hearing if the matter reaches that stage.
+6. **Write a private, factual timeline while it is fresh.** Include:
+   - what you have been told, by whom, and when
+   - any relevant interactions with the colleague
+   - dates, locations, meetings, messages, and who else was present
+   - where relevant records may exist, such as work emails, rota entries, meeting invites, or project documents
+7. **Preserve relevant material safely.** Keep relevant work emails, messages, notes, and files intact and in place on work systems. Do not forward confidential information to personal accounts or devices. If you are worried your access could be removed, ask HR how you will be able to review relevant material through the process.
+8. **Choose one calm support route.** If you are in a union, contact the union promptly. If not, identify a trusted work colleague who could accompany you where allowed, and a separate person outside work for emotional support.
+9. **Ask for a short pause if you are pressed for an immediate response.** Say that you want to cooperate, but need reasonable time to understand the allegation, check the procedure, and respond carefully.
 
 ## What can wait
-- You do not need to craft a “perfect defence” right now—start with getting the allegation, the process, and the dates clear.
-- You do not need to decide whether to quit, counter-complain, or escalate externally until you know what’s actually being alleged and what procedure is being used.
-- You do not need to contact everyone who might “back you up” yet—focus on preserving facts and using the formal process.
+- You do not need to build a perfect defence right now; first get the allegation, the process, the meeting type, and the deadlines clear.
+- You do not need to decide today whether to quit, raise a counter-complaint, appeal anything, or take external action.
+- You do not need to contact everyone who might back you up yet; focus on preserving facts and keeping your response within the formal process.
+- You do not need to explain the situation widely at work.
 
 ## Important reassurance
-Being told there is a formal complaint is frightening, but it does not mean a decision has been made. A fair process should tell you what’s alleged and give you a chance to respond. Feeling shaky, angry, or ashamed in the first hours is a normal stress reaction—your job right now is to slow down and avoid irreversible moves.
+Being told there is a formal complaint is frightening, but it does not mean a decision has been made. A fair process normally involves being told what is alleged and being given a chance to respond before any formal decision. Feeling shaky, angry, or ashamed in the first hours is a normal stress reaction; your job right now is to slow down and avoid irreversible moves.
 
 ## Scope note
-This is first-step guidance for the initial shock period. Later steps (how to frame a statement, what evidence matters, whether to seek specialist advice) depend heavily on the allegation and your workplace policy.
+These are first steps for the initial shock period only. Later decisions, including how to frame a statement, what evidence matters, whether to raise your own concern, or whether to seek specialist advice, depend on the allegation, your employment status, and your workplace policy.
 
 ## Important note
-This is general information, not legal advice. Workplace processes vary by employer and sector. If you believe you’re at immediate risk of harm, or your health is deteriorating, seek urgent support.
+This is general information, not legal, medical, financial, therapeutic, or other professional advice. Workplace processes vary by employer and sector. If you believe you are at immediate risk of harm, or your health is deteriorating, seek urgent support.
 
 ## Additional Resources
 - https://www.acas.org.uk/investigations-for-discipline-and-grievance-step-by-step/step-4-holding-investigation-meetings
 - https://www.acas.org.uk/disciplinary-procedure-step-by-step/step-4-the-disciplinary-hearing
 - https://www.acas.org.uk/acas-code-of-practice-on-disciplinary-and-grievance-procedures/html
 - https://www.gov.uk/handling-employee-grievance/grievance-procedure
-- https://www.citizensadvice.org.uk/work/disciplinary-meetings/who-can-accompany-you-to-a-disciplinary-meeting/
-- https://www.legislation.gov.uk/ukpga/1999/26/section/10/notes
+- https://www.acas.org.uk/grievance-procedure-step-by-step

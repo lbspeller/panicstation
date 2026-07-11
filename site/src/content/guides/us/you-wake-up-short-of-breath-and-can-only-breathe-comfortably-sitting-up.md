@@ -1,74 +1,80 @@
-﻿---
+---
 title: "What to do if… you wake up short of breath and can only breathe comfortably sitting up"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
-  - woke up short of breath
-  - waking up gasping for air
-  - can’t breathe lying down
-  - only breathe sitting up
-  - sudden night breathlessness
-  - shortness of breath at rest
-  - needs pillows to breathe
-  - orthopnea
-  - paroxysmal nocturnal dyspnea
-  - breathless in bed
-  - chest pressure with breathlessness
-  - wheezing on waking
-  - cough and breathlessness
-  - fast breathing after sleep
-  - trouble breathing flat
-  - breathlessness while resting
-  - sudden breathing difficulty
-  - nighttime breathing problem
-last_reviewed: "2026-02-21"
+  - "woke up short of breath"
+  - "waking up gasping for air"
+  - "cannot breathe lying down"
+  - "only breathe sitting up"
+  - "sudden night breathlessness"
+  - "breathless in bed"
+  - "nighttime breathing difficulty"
+  - "shortness of breath at rest"
+  - "needs pillows to breathe"
+  - "trouble breathing flat"
+  - "what do i do if breathless"
+  - "what do i do if gasping"
+  - "what do i do if wheezing"
+  - "what do i do if chest tight"
+  - "help i woke up breathless"
+  - "help i can only breathe sitting"
+  - "my breathing is worse lying down"
+  - "my chest feels tight breathing"
+  - "my lips look blue"
+  - "chest pressure with breathlessness"
+  - "wheezing on waking"
+  - "coughing and breathlessness"
+  - "sweaty and short of breath"
+  - "confused and breathless"
+  - "panic attack breathlessness"
+  - "anxiety breathing at night"
+  - "indigestion chest pressure"
+  - "asthma flare at night"
+  - "sleep apnea gasping"
+  - "breathles at night"
+  - "brething trouble lying down"
+  - "pregnant and short of breath"
+  - "older adult breathlessness"
+  - "heart failure breathlessness"
+last_reviewed: "2026-06-25"
+date_created: "2026-06-25"
 ---
 
 # What to do if… you wake up short of breath and can only breathe comfortably sitting up (USA)
 
 ## Short answer
-Treat this as urgent. Sit upright and get immediate medical help — call **911** if you’re struggling to breathe, can’t speak in full sentences, have chest pain/pressure, blue/gray color to lips/skin, confusion, faintness, or you’re getting worse.
+Sit upright and get medical help now. Call 911 if you are struggling to breathe, cannot speak in full sentences, have chest pain or pressure, blue or gray lips or skin, confusion, faintness, severe wheezing, facial swelling, or symptoms are getting worse.
 
 ## Do not do these things
-- Do not lie flat again “to test it” if sitting up is the only way you can breathe comfortably.
-- Do not drive yourself to the ER if you feel faint, very short of breath, or symptoms are worsening — use 911.
-- Do not take someone else’s prescription inhalers, antibiotics, steroids, or diuretics (“water pills”).
-- Do not use sedatives, alcohol, or recreational drugs to try to calm down breathing symptoms.
-- Do not delay care because it’s “only at night” — waking up breathless can be a sign you need prompt evaluation.
+- Do not lie flat again to test it if sitting up is the only way you can breathe comfortably.
+- Do not drive yourself to the Emergency Department if you feel faint, very short of breath, confused, or worse.
+- Do not take someone else’s prescription inhaler, antibiotic, steroid, diuretic, or heart medicine.
+- Do not use alcohol, sedatives, sleep medicine, or recreational drugs to try to calm breathing symptoms.
+- Do not delay care because it happened at night or because you think it might be panic.
 
 ## What to do now
-1. **Get into the safest breathing position.** Sit upright on the edge of the bed or in a chair. Lean slightly forward with your arms supported on your thighs or a table. Loosen tight clothing.
-2. **Decide now whether this is a 911 situation (when in doubt, call).**  
-   Call **911** right now if any of these apply:
-   - you’re working hard to breathe, gasping, or cannot speak full sentences
-   - chest pain/pressure/tightness, sweating, or nausea with breathing trouble
-   - blue/gray color to lips/skin, new confusion, extreme drowsiness, or you might pass out  
-     (On darker skin, check lips, gums/tongue, nail beds, and palms.)
-   - severe wheezing, swelling of lips/tongue/face, or signs of a serious allergic reaction
-   - the shortness of breath is new and significant, or rapidly worsening
-3. **If you have a prescribed rescue inhaler, use it exactly as directed on your action plan/prescription.** (Do not share inhalers; do not exceed labeled/prescribed dosing.)
-4. **If you are still short of breath at rest, go to an Emergency Department now.**  
-   If you cannot get there safely or symptoms worsen, **call 911**.
-5. **While waiting for help or arranging transport:**  
-   - Stay sitting up; avoid lying down again.  
-   - If you have home readings (pulse ox, peak flow), write down the best recent value and the time, but don’t delay care to keep checking.  
-   - Gather medication bottles/inhalers, allergies, diagnoses, and a brief timeline (when it started, what makes it better/worse).
-6. **If there’s any chance you inhaled something harmful (smoke, fumes, chemicals), move to fresh air.**  
-   Call **Poison Control (Poison Help) 1-800-222-1222** for guidance once you are safe and stable — but **call 911 first** if you’re in distress.
+1. **Stay in the safest breathing position.** Sit upright on the edge of the bed or in a chair. Lean slightly forward with your arms supported on your thighs or a table. Loosen tight clothing.
+2. **Call 911 now if there are danger signs.** Use 911 if you are working hard to breathe, gasping, cannot speak full sentences, have chest pain or pressure, feel faint, feel confused, have blue or gray lips or skin, have severe wheezing, have swelling of the lips, tongue, face, or throat, or are getting worse. On darker skin, also check the lips, gums, tongue, nail beds, and palms.
+3. **Use only your own prescribed rescue medicine.** If you have a prescribed rescue inhaler, nebulizer, epinephrine auto-injector, nitroglycerin, or home oxygen plan for this kind of situation, use it exactly as your prescription or action plan says. Do not take extra doses unless your plan says to.
+4. **If you are still short of breath at rest, get urgent emergency assessment.** If symptoms are severe, worsening, or you cannot travel safely, call 911. If you can travel safely, have another adult take you to an Emergency Department or emergency medical setting now.
+5. **Do not keep checking numbers instead of getting help.** If you already have a pulse oximeter, peak-flow reading, blood pressure, or heart-rate reading, write down the number and time. Do not delay care to keep repeating checks.
+6. **Get ready for responders or transport without lying down.** Keep sitting up. Gather your medication bottles, inhalers, allergies list, major diagnoses, and a brief timeline of when you woke up breathless and what makes it better or worse.
+7. **Move away from smoke, fumes, gas, or chemicals if you can do so safely.** Get to fresh air. If breathing trouble is present, call 911 first. Once you are safe and stable, Poison Help can be reached at 1-800-222-1222 for exposure guidance.
 
 ## What can wait
-- You do not need to figure out the cause right now (there are multiple possible causes, including some that need rapid treatment).
-- You do not need to decide about long-term meds, specialists, or lifestyle changes today.
-- You do not need to collect perfect data (oxygen numbers, peak flows) before seeking care.
+- You do not need to figure out the cause right now.
+- You do not need to decide today about long-term medicines, specialists, tests, insurance paperwork, or lifestyle changes.
+- You do not need perfect oxygen numbers, peak-flow readings, or a full symptom diary before seeking care.
 
 ## Important reassurance
-This symptom pattern can feel terrifying and can trigger a strong panic response. Taking it seriously is appropriate — getting evaluated promptly is the safest step.
+Waking up unable to breathe comfortably can feel terrifying, and panic can build quickly. Taking this seriously and getting assessed promptly is a steady, protective choice.
 
 ## Scope note
-This is first-step guidance to stabilize you and get you assessed. Next steps depend on what clinicians find.
+These are first steps only: get safer, stay upright, avoid risky actions, and get medical assessment. Later decisions may need help from emergency clinicians, your primary care clinician, or a relevant specialist.
 
 ## Important note
-This is general information, not medical advice or a diagnosis. If you feel seriously unwell or you’re unsure, choose the safer option and seek emergency care.
+This is general information, not medical advice, diagnosis, treatment, or professional advice. If you feel seriously unwell or are unsure whether you can safely wait, use emergency care.
 
 ## Additional Resources
 - https://medlineplus.gov/ency/article/000007.htm

@@ -88,6 +88,7 @@ const structuredData = buildGuideStructuredData({
   title: entry.data.title,
   category: entry.data.category,
   tags: entry.data.tags || [],
+  dateCreated: entry.data.date_created,
   lastReviewed: entry.data.last_reviewed,
   jurisdiction: fmJurisdiction,
   pathname: Astro.url.pathname,

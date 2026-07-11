@@ -1,104 +1,139 @@
-﻿---
+---
 title: "What to do if… your cloud account shows many files moved to trash without you doing it"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - cloud account files in trash
-  - cloud storage files deleted
-  - files moved to bin
-  - google drive files trashed
-  - onedrive recycle bin full
-  - dropbox deleted files
-  - icloud recently deleted files
-  - cloud sync deleted my files
-  - shared folder files missing
-  - unauthorized file deletion
-  - account takeover cloud storage
-  - hacked cloud storage account
-  - suspicious cloud account activity
-  - restore files from trash
-  - lots of files missing suddenly
-  - someone accessed my cloud account
-  - cloud account compromised
-  - accidental bulk delete in cloud
-  - files disappeared from cloud drive
-  - cloud backup deleted
-last_reviewed: "2026-03-08"
+  - "cloud account files in trash"
+  - "cloud account files moved"
+  - "cloud account files missing"
+  - "cloud storage files deleted"
+  - "files moved to trash"
+  - "files moved to bin"
+  - "many files deleted"
+  - "bulk cloud file deletion"
+  - "cloud sync deleted files"
+  - "shared folder files missing"
+  - "unauthorised cloud file deletion"
+  - "cloud account takeover"
+  - "hacked cloud storage account"
+  - "suspicious cloud account activity"
+  - "what do i do if files are trashed"
+  - "what do i do if cloud files disappear"
+  - "what do i do if drive files vanish"
+  - "what do i do if cloud files deleted"
+  - "help i found files in trash"
+  - "help i lost cloud files"
+  - "help i think cloud was hacked"
+  - "help i see deleted cloud files"
+  - "my cloud files are gone"
+  - "my files moved to trash"
+  - "my drive files disappeared"
+  - "my cloud account looks hacked"
+  - "trash full of files"
+  - "bin full of files"
+  - "recycle bin full of files"
+  - "unknown device deleted files"
+  - "unknown app changed files"
+  - "shared folder deleted files"
+  - "cloud files gone suddenly"
+  - "cloud acccount files deleted"
+  - "cloud bakcup files missing"
+last_reviewed: "2026-05-24"
+date_created: "2026-05-24"
 ---
 
 # What to do if… your cloud account shows many files moved to trash without you doing it (UK)
+
 ## Short answer
-Stop syncing and avoid permanent deletion, then secure the account (sign out other sessions, change password, enable 2-step verification) before you restore anything. Treat this as time-sensitive: some services automatically purge items from trash after a retention period.
+Stop syncing and do not permanently delete anything. Secure the linked email account and the cloud account, then restore the files in small batches.
 
 ## Do not do these things
-- Don’t empty the trash / recycle bin (or click “delete forever”) while you’re still unsure what happened.
-- Don’t keep multiple devices “trying to fix it” at once (it can re-delete/re-trash items via sync).
-- Don’t trust unexpected “support” emails, pop-ups, or phone numbers offered in messages about the incident.
-- Don’t install “recovery” tools from random sites or grant remote access to someone claiming to help.
-- Don’t assume it’s only your cloud account—your email account may be the real doorway.
+- Do not empty the trash, bin, recycle bin, or recently deleted folder while you are still unsure what happened.
+- Do not click “delete forever” or “permanently remove” on any affected file.
+- Do not keep editing the same cloud folder from several synced devices, because the same deletion can spread again through sync.
+- Do not trust unexpected “support” emails, pop-ups, messages, or phone numbers about the incident.
+- Do not install file-recovery tools from random sites or give remote access to someone claiming to help.
+- Do not assume it is only the cloud account; the linked email account may be the way someone got in.
 
 ## What to do now
-1. **Freeze the damage (stop sync, don’t delete anything).**  
-   - On each computer/phone with the cloud app: pause syncing or quit the app for now.  
-   - If this is a shared folder/workspace, stop making changes there until you’ve checked whether another user/admin acted.
 
-2. **Use the cloud service website (not just the app) to confirm what moved and when.**  
-   - Open **Trash/Deleted items/Recycle bin** and sort by time if possible.  
-   - Note the earliest time you see the mass move.  
-   - If there’s an **activity/audit log** that shows a device/user/app, capture it (screenshots or a written note).
+1. **Freeze the damage.**
+   - Pause syncing or quit the cloud app on each computer, phone, and tablet that uses the account.
+   - Do not make more changes in the affected folders for now.
+   - If the files are in a shared folder or workplace space, tell the other user or admin that files appear to have been moved to trash and ask them not to restore, delete, or reorganise the folder yet.
 
-3. **Secure the account before restoring.**  
-   In your account security settings:
-   - Use the option to **sign out of other devices/sessions** (if available), and remove anything you don’t recognise.  
-   - **Change your password** (new and unique).  
-   - **Turn on 2-step verification (2SV)** (an authenticator app is generally preferred where available; SMS can be better than nothing).  
-   - Review **connected third-party apps** and revoke anything unnecessary or unfamiliar.
+2. **Check the cloud website, not only the app.**
+   - Sign in by typing the provider’s web address yourself or using the official app.
+   - Open Trash, Bin, Recycle bin, Deleted files, or Recently Deleted.
+   - Sort by deleted date or trashed date if that option exists.
+   - Note the earliest time you can see for the mass move and roughly how many files or folders are affected.
 
-4. **Secure your email account immediately.**  
-   If someone can access your email, they can often reset cloud passwords.  
-   - Change your email password, enable 2SV, and review recent sign-ins/devices there too.
+3. **Look for signs of how it happened.**
+   - Check recent account activity, recent sign-ins, connected devices, connected apps, sharing changes, and file activity logs if your service shows them.
+   - Screenshot or write down any unknown device, app, location, user, or time.
+   - If this is a shared folder, check whether a shared user, team member, or admin made a bulk change.
 
-5. **Make a quick incident record (to avoid confusion later).**  
-   Write down or screenshot:
-   - date/time you noticed it  
-   - approx. number of files/folders affected  
-   - any unknown sign-ins/devices  
-   - any account setting changes (recovery email/phone, new connected apps)
+4. **Secure the linked email account.**
+   - Check email forwarding rules and filters first, especially rules that forward mail, hide password-reset messages, or move security messages out of the inbox.
+   - Change the email password to a new, unique password.
+   - Turn on 2-step verification for the email account.
+   - Check recent sign-ins, signed-in devices, recovery details, and connected apps.
+   - Remove anything you do not recognise.
 
-6. **Restore in the safest direction (small test first).**  
-   - Restore a **small batch** and watch for it being trashed again (a sign something automated is still active: sync on a device, a third-party app, or another shared user).  
-   - If it stays put, restore in batches.  
-   - If it keeps re-trashing, stop and re-check Step 1–4.
+5. **Secure the cloud account before restoring everything.**
+   - Change the cloud account password to a new, unique password.
+   - Use the account option to sign out of other devices or sessions if it is available.
+   - Turn on 2-step verification.
+   - Remove connected third-party apps, browser extensions, or devices you do not recognise.
+   - Check recovery email, recovery phone, backup codes, and security questions if your provider uses them.
 
-7. **Use the provider’s official support route.**  
-   Go to the provider’s website/app and navigate to Help/Support from there (not from links in messages). Ask about:
-   - bulk restore options  
-   - what their logs show (device/app/user)  
-   - whether they can help stop repeated deletions/restore at scale
+6. **Make a quick incident record.**
+   Write down:
+   - the date and time you noticed the problem
+   - the cloud service involved
+   - the affected folders
+   - the approximate number of files or folders moved
+   - unknown sign-ins, devices, apps, or sharing changes
+   - what you changed to secure the account
 
-8. **If you suspect criminal access or fraud, consider reporting.**  
-   - If money was lost or you suspect account takeover as part of fraud, you can report via **Report Fraud (Action Fraud)**.  
-   - If this involves work/customer personal data, follow your organisation’s incident process immediately; it may be a **personal data breach** that needs logging and assessment.
+7. **Restore carefully.**
+   - Restore a small batch first.
+   - Watch for those files being moved back to trash again.
+   - If they stay restored, continue in batches.
+   - If they are trashed again, stop restoring and re-check synced devices, connected apps, shared users, and the linked email account.
+
+8. **Use the provider’s official support route.**
+   Go to the provider’s website or app and navigate to Help or Support from there. Ask about:
+   - bulk restore
+   - whether account logs show a device, app, user, or shared-folder action
+   - whether the provider can stop repeated deletions
+   - whether older versions or wider account restore options are available for your plan
+
+9. **Report or escalate only where it fits.**
+   - If money was lost, fraud was attempted, or the account takeover is part of a wider fraud, report it through Report Fraud; in Scotland, contact Police Scotland by calling 101.
+   - If this involves work files, customer files, client files, or other personal data held by an organisation, follow your organisation’s incident process immediately.
+   - If personal data may be involved, start an incident log and assess whether it is a personal data breach; not every incident must be reported to the ICO, but notifiable breaches may need reporting without undue delay, where feasible within 72 hours of becoming aware.
 
 ## What can wait
-- You do **not** need to decide today whether to wipe devices, reinstall apps, or abandon the account.
-- You do **not** need to restore everything immediately—securing the account first prevents repeated loss.
-- You do **not** need to identify the exact cause right now; focus on stopping changes and regaining control.
+- You do not need to decide now whether to wipe devices, reinstall operating systems, abandon the account, or buy recovery software.
+- You do not need to restore every file immediately; securing the account first reduces the chance of repeated loss.
+- You do not need to identify the exact cause before taking the first safe steps.
+- You do not need to contact every person in your address book unless you find signs that messages or links were sent from your account.
 
 ## Important reassurance
-A sudden mass move to trash is a common “alarm signal” in cloud systems and it often has a reversible path—especially if you avoid permanent deletion and pause syncing. A calm “freeze, secure, then restore” order prevents the most irreversible mistakes.
+A sudden mass move to trash is alarming, but many cloud services keep deleted files recoverable for a limited time. The safest order is to freeze syncing, secure the linked email and cloud accounts, then restore carefully.
 
 ## Scope note
-This is first-steps guidance for stabilising the situation and preventing further loss. If you later find signs of wider compromise (email takeover, banking alerts, workplace breach), you may need specialist support and formal reporting.
+These are first steps for stabilising the situation and reducing further loss. Later decisions may need help from the cloud provider, your workplace IT team, a cyber security professional, a data protection specialist, or the police reporting route if fraud or wider compromise is involved.
 
 ## Important note
-This guide is general information, not legal, IT, or forensic advice. If you think personal data, workplace systems, or financial accounts are involved, follow your organisation’s security process (if applicable) and use official reporting/support channels.
+This guide is general information, not legal, IT, forensic, financial, or professional advice. Use official support and reporting channels, and follow your organisation’s security or data protection process if work systems or personal data may be involved.
 
 ## Additional Resources
 - https://www.ncsc.gov.uk/guidance/recovering-a-hacked-account
 - https://www.ncsc.gov.uk/guidance/setting-2-step-verification-2sv
 - https://www.reportfraud.police.uk/account-takeover/
-- https://ico.org.uk/for-organisations/report-a-breach/personal-data-breaches-a-guide/
+- https://ico.org.uk/for-organisations/report-a-breach/personal-data-breach/personal-data-breaches-a-guide/
 - https://support.google.com/drive/answer/1716222
 - https://support.microsoft.com/en-gb/office/restore-deleted-files-or-folders-in-onedrive-949ada80-0026-4db3-a953-c99083e6a84f
 - https://help.dropbox.com/delete-restore/recover-deleted-files-folders

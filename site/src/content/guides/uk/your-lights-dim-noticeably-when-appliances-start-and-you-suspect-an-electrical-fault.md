@@ -1,75 +1,94 @@
-﻿---
+---
 title: "What to do if… your lights dim noticeably when appliances start and you suspect an electrical fault"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
-  - lights dim when appliance starts
-  - lights dimming suddenly
-  - lights flicker when kettle on
-  - lights flicker when shower on
-  - voltage drop at home
-  - possible electrical fault
-  - suspected loose wiring
-  - overloaded circuit signs
-  - consumer unit tripping
-  - dim lights across multiple rooms
-  - buzzing from socket
-  - burning smell electrics
-  - hot outlet or switch
-  - power dip in house
-  - uk power supply fluctuation
-  - dno report voltage problem
-  - appliance causes lights to dim
-  - electrician urgent call
-last_reviewed: "2026-03-04"
+  - "lights dim when appliance starts"
+  - "lights dimming noticeably"
+  - "lights flicker when kettle starts"
+  - "lights flicker when shower starts"
+  - "appliance makes lights dim"
+  - "suspected electrical fault"
+  - "possible loose wiring"
+  - "possible overloaded circuit"
+  - "voltage drop at home"
+  - "power dip in house"
+  - "what do i do if lights dim"
+  - "what do i do if appliances dim lights"
+  - "what do i do if lights flicker"
+  - "what do i do if sockets buzz"
+  - "help i smell burning electrics"
+  - "help i have flickering lights"
+  - "my lights dim suddenly"
+  - "my kettle makes lights flicker"
+  - "my shower makes lights dim"
+  - "my sockets feel warm"
+  - "burning smell near socket"
+  - "buzzing from socket"
+  - "crackling switch or socket"
+  - "scorch marks on plug"
+  - "warm switch or socket"
+  - "consumer unit keeps tripping"
+  - "multiple rooms lights dim"
+  - "loose neutral confusion"
+  - "power cut or wiring fault"
+  - "flicker or voltage drop"
+  - "dimming or blown bulb"
+  - "dimmng lights fault"
+  - "flickring lights appliance"
+  - "uk home electrical fault"
+  - "rented home electrical fault"
+last_reviewed: "2026-05-26"
+date_created: "2026-05-26"
 ---
 
 # What to do if… your lights dim noticeably when appliances start and you suspect an electrical fault (UK)
 
 ## Short answer
-Stop using the appliance(s) that trigger the dimming, and treat it as a potential electrical safety issue until checked. If you also notice heat, burning smells, buzzing/crackling, sparks, or repeated trips, switch off power at the consumer unit and get urgent professional help.
+Stop using the appliance that triggers the dimming and treat it as a possible electrical safety issue until it has been checked. If you notice heat, burning smells, buzzing, crackling, sparks, smoke, scorch marks, or repeated trips, move away from the area, switch off power only if it is safe, and get urgent help.
 
 ## Do not do these things
-- Don’t keep “testing” by turning the appliance on and off repeatedly.
-- Don’t ignore burning smells, buzzing/crackling, scorch marks, or warm switches/sockets.
-- Don’t open the consumer unit cover or attempt DIY wiring repairs.
-- Don’t keep using multiway adapters/extension leads to “work around” the issue.
-- Don’t touch a socket/switch that feels hot—switch off power to that circuit first (or the main switch if unsure).
+- Don’t keep testing the problem by turning the appliance on and off.
+- Don’t ignore burning smells, buzzing, crackling, scorch marks, sparks, smoke, or warm sockets and switches.
+- Don’t open the consumer unit cover or attempt wiring repairs.
+- Don’t use multiway adapters or extension leads to work around the problem.
+- Don’t touch a socket, switch, plug, or appliance that feels hot; switch off power to that circuit first, or use the main switch if you are unsure and it is safe.
 
 ## What to do now
-1. **Make a safe pause.** Turn off and unplug the appliance that makes the lights dim (if it’s safe to do so). If it’s hard-wired (e.g., some showers/ovens), turn it off at its isolator switch and leave it off.
-2. **Scan for danger signs (30 seconds).** Look/smell/listen for: burning/plastic smell, buzzing/crackling at sockets/switches, visible sparking, scorch marks, or anything unusually warm.
-3. **If any danger sign is present:**
-   - **Switch off power** at the consumer unit (main switch), if safe.
-   - **Move people/pets away** from the area; if there’s smoke or fire risk, **leave the property and call 999**.
-   - **Call an emergency electrician** (24/7) and tell them: “Lights dim when appliances start” + any smells/heat/tripping.
-4. **If there are no danger signs but the dimming is noticeable or happening in multiple rooms:**
-   - **Stop using high-load appliances for now** (kettle, microwave, tumble dryer, portable heaters, shower, oven) until you’ve had it checked.
-   - **Check whether it’s just your home**: ask a neighbour (or look outside) to see if nearby homes/street lights seem affected.
-   - **Contact the electricity network operator to report possible voltage fluctuations:**
-     - **England, Scotland, Wales:** call **105** (free, 24/7).
-     - **Northern Ireland:** contact **NIE Networks** (their emergency/24-7 reporting line), or report online.
-5. **If you rent or live in managed housing:** **Report it to your landlord/agent/building manager immediately** as an urgent electrical safety issue. Put it in writing and keep a copy.
-6. **Write down 5 facts (takes 1 minute):** which appliance(s), which rooms, how often, any trips at the consumer unit, and any smells/heat. This makes the electrician/network report faster and safer.
+1. **Make a safe pause.** Turn off and unplug the appliance that makes the lights dim, if it is safe. If it is hard-wired, such as some showers or ovens, turn it off at its isolator switch and leave it off.
+2. **Check for immediate warning signs.** From a safe position, look, smell, and listen for burning or plastic smells, buzzing or crackling at sockets or switches, visible sparking, smoke, scorch marks, or anything unusually warm.
+3. **If any warning sign is present:**
+   - Switch off power at the consumer unit main switch, only if you can do this safely.
+   - Move people and pets away from the affected area.
+   - If there is smoke, fire, visible sparking that continues, or immediate danger, leave the property and call 999.
+   - Call an emergency registered electrician, or a qualified electrician through a registered scheme, and say: “Lights dim when appliances start,” then mention any smell, heat, tripping, sparks, smoke, or scorch marks.
+4. **If there are no immediate warning signs but the dimming is noticeable, repeated, or happening in more than one room:**
+   - Stop using high-load appliances for now, such as the kettle, microwave, tumble dryer, portable heater, electric shower, or oven.
+   - Check whether nearby homes or street lights seem affected, without leaving safety to do so.
+   - Report a possible supply or voltage issue to your electricity network operator: in England, Scotland, or Wales, call 105 free; in Northern Ireland, use NIE Networks Powercheck or call 03457 643643.
+   - Arrange for a registered electrician to check your installation, especially if the problem happens with more than one appliance or across more than one room.
+5. **If you rent or live in managed housing:** report it to your landlord, agent, or building manager immediately as an urgent electrical safety issue. Put it in writing if you can, and keep a copy.
+6. **Write down the key facts.** Note which appliance starts the dimming, which rooms are affected, whether the consumer unit trips, whether there are smells or heat, and when it started.
 
 ## What can wait
-- You do **not** need to decide the “cause” right now (overload vs wiring vs supply).
-- You do **not** need to buy surge protectors, new bulbs, or replacement appliances tonight.
-- You do **not** need to run diagnostics or take covers off sockets/switches.
+- You do not need to work out the cause now.
+- You do not need to decide whether it is an overload, loose wiring, a faulty appliance, or a supply issue.
+- You do not need to buy surge protectors, new bulbs, or replacement appliances today.
+- You do not need to remove covers from sockets, switches, plugs, or the consumer unit.
 
 ## Important reassurance
-This is a common “something’s not right” warning sign, and taking a cautious approach is sensible. Turning things off and getting the right professional to check is how most serious electrical problems are prevented from becoming emergencies.
+Noticing this early is useful. Turning off the trigger appliance, avoiding repeated testing, and getting the right person to check it are sensible first steps that reduce the chance of a small fault becoming dangerous.
 
 ## Scope note
-This covers first steps to reduce immediate risk and get the right help. Any testing, load calculations, or repairs should be done by a qualified electrician or your electricity network operator.
+These are first steps only. Testing, diagnosis, load calculations, and repairs may need a registered electrician, your electricity network operator, your landlord, or another suitable specialist.
 
 ## Important note
-This is general information, not a substitute for on-site electrical assessment. If you think there’s immediate danger (smoke, fire, sparks, burning smell, or someone is at risk), prioritise getting to safety and calling emergency services.
+This is general information, not legal, electrical, fire safety, financial, or professional advice. If there is immediate danger, smoke, fire, sparks, a burning smell, or someone is at risk, prioritise getting to safety and calling emergency services.
 
 ## Additional Resources
 - https://www.electricalsafetyfirst.org.uk/guidance/your-questions-answered/questions/the-lights-flicker-when-our-new-kettle-turned-is-on-and-we-have-similar-issues-when-the-shower-is-turned-on-what-should-we-do/
-- https://www.energynetworks.org/work/105-service
-- https://www.energynetworks.org/customers/power-cut
+- https://www.electricalsafetyfirst.org.uk/find-an-electrician/
+- https://www.powercut105.com/en/
 - https://prepare.campaign.gov.uk/be-informed-about-hazards/power-cuts/
-- https://www.ukpowernetworks.co.uk/voltage-changes-in-your-home-or-business
-- https://www.nienetworks.co.uk/power-cuts/report-power-cut
+- https://powercheck.nienetworks.co.uk/
+- https://www.gov.uk/government/publications/make-your-home-safe-from-fire/fire-safety-in-the-home-accessible-version

@@ -1,99 +1,118 @@
-﻿---
+---
 title: "What to do if… your printer or webcam shows new network settings you did not configure"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
-  - printer network settings changed
-  - webcam network settings changed
-  - camera shows new wifi
-  - printer ip address changed
-  - device says new network
-  - smart device tampering
-  - iot device tampered with
-  - router compromised signs
-  - unknown devices on wifi
-  - camera account compromised
-  - printer admin password forgotten
-  - device connected to wrong wifi
-  - port forwarding changed
-  - remote access enabled unexpectedly
-  - wifi password changed without me
-  - suspicious device settings
-  - someone changed my wifi settings
-  - unexpected ssid on device
-  - printer dns settings changed
-  - webcam remote viewing enabled
-last_reviewed: "2026-03-09"
+  - "printer network settings changed"
+  - "webcam network settings changed"
+  - "printer new network settings"
+  - "webcam new network settings"
+  - "printer wifi changed itself"
+  - "webcam wifi changed itself"
+  - "printer ip address changed"
+  - "webcam ip address changed"
+  - "device shows unknown wifi"
+  - "device connected wrong wifi"
+  - "what do i do if printer settings changed"
+  - "what do i do if webcam settings changed"
+  - "what do i do if device wifi changed"
+  - "what do i do if printer changed networks"
+  - "help i found new printer settings"
+  - "help i see unknown webcam settings"
+  - "help i think my printer was hacked"
+  - "help i think my webcam was hacked"
+  - "my printer has new wifi"
+  - "my webcam has new network"
+  - "unknown ssid on printer"
+  - "unexpected dns on printer"
+  - "remote viewing turned on"
+  - "new admin account shown"
+  - "port forwarding looks changed"
+  - "router settings look different"
+  - "printer says unknow wifi"
+  - "webcam settngs changed"
+  - "internet camera changed settings"
+  - "home printer changed settings"
+  - "smart camera network changed"
+  - "wireless printer network changed"
+  - "unexpected printer dns"
+  - "unexpected webcam access"
+  - "camera connected wrong wifi"
+  - "iot device network changed"
+last_reviewed: "2026-07-03"
+date_created: "2026-07-03"
 ---
 
 # What to do if… your printer or webcam shows new network settings you did not configure (USA)
+
 ## Short answer
-Take the device offline immediately, then secure your home router account (router admin login + Wi-Fi password) before you reconnect the printer/webcam.
+Take the printer or webcam offline now. Then secure your router admin login, Wi-Fi password, and any related camera or printer account before reconnecting it.
 
 ## Do not do these things
-- Don’t leave the printer/webcam connected “while you troubleshoot” — that can keep the door open.
-- Don’t approve unexpected “remote access”, “cloud sharing”, or “pairing” prompts.
-- Don’t reuse passwords (especially for router, email, or camera accounts).
-- Don’t factory reset before grabbing quick photos/screenshots of what changed.
-- Don’t ignore it if you also see strange router settings (DNS/port forwarding/remote management) — that often matters more than the device itself.
+- Don’t leave the printer or webcam connected while you investigate; it could leave the device reachable.
+- Don’t approve unexpected remote access, cloud sharing, pairing, or new user prompts.
+- Don’t reuse passwords for the router, Wi-Fi, email, camera account, or printer account.
+- Don’t factory reset before taking quick photos or screenshots of the changed settings, unless you need to disconnect immediately for safety.
+- Don’t ignore unexpected router changes, such as DNS, port forwarding, remote management, or new admin users; secure the router before reconnecting the device.
 
 ## What to do now
-1. **Disconnect the device right away.**  
-   - Printer: unplug Ethernet or disable Wi-Fi; if unsure, power it off.  
-   - Webcam: unplug it. For built-in webcams, disable it and cover the lens for now.
+1. **Disconnect the device.**
+   - Printer: unplug Ethernet, disable Wi-Fi, or power it off.
+   - Webcam: unplug it. If it is a built-in webcam, disable it and cover the lens for privacy while you check.
 
-2. **Record what changed (fast, minimal interaction).**  
-   Take photos/screenshots of: Wi-Fi name (SSID), IP/DNS settings, “remote access” toggles, any new users/admin accounts shown, and timestamps.
+2. **Record what changed with minimal interaction.**
+   Take photos or screenshots of the Wi-Fi name, IP address, DNS settings, remote access settings, cloud sharing settings, new users or admin accounts, port forwarding mentions, and timestamps.
 
-3. **Secure the router (priority).**  
-   From a device you trust, log into your router/admin app and:
-   - **Change the router’s admin password** (the router login — not the Wi-Fi password). If you can, change the default admin username too.  
-   - **Change the Wi-Fi password** and reconnect only your devices.  
-   - Turn off **remote management** unless you knowingly use it.  
-   - If you don’t knowingly need it, turn off **UPnP** (note any port forwards first).  
-   - If available, use **WPA2/WPA3** and disable **WPS**.
+3. **Secure the router from a device you trust.**
+   Log in to your router admin page or router app and:
+   - Change the router admin password.
+   - Change the Wi-Fi password.
+   - Use WPA3, or WPA2 if WPA3 is not available.
+   - Turn off WPS.
+   - Turn off remote management unless you knowingly use it.
+   - If you do not knowingly need it, consider turning off UPnP after taking a photo of any existing port forwarding or sharing rules.
 
-4. **Check for unfamiliar devices and unexpected rules.**  
-   - Review your router’s connected-device list and remove/block anything you don’t recognize.  
-   - Check for unexpected **port forwards**, **DNS changes**, or new administrator accounts.
+4. **Check the router for unfamiliar access.**
+   Review the connected-device list, saved devices, admin users, DNS settings, port forwarding, and remote access settings. Remove or block devices and rules you are confident are not yours; take a photo first if you are unsure.
 
-5. **Secure any cloud accounts tied to the webcam/printer.**  
-   - Change the password for the device vendor account/app.  
-   - Turn on **multi-factor authentication** if available.  
-   - Sign out of other sessions/devices if the service supports it.
+5. **Secure the account tied to the printer or webcam.**
+   Change the password for the printer, camera, or device vendor account. Turn on multi-factor authentication if it is available, and sign out of other sessions or devices if the service offers that option.
 
-6. **Update firmware (router + device) before reconnecting.**  
-   - Install router firmware updates if available.  
-   - Update the printer/webcam firmware using the manufacturer’s official method.
+6. **Update before reconnecting.**
+   Check for router firmware updates and install them through the router’s official app or admin page. Then update the printer or webcam firmware using the manufacturer’s official instructions.
 
-7. **Reset and reconnect in a controlled way (only if needed).**  
-   If settings still look wrong after steps 3–6: **factory reset** the printer/webcam and set it up again. If your router supports it, put smart devices on a **guest network**.
+7. **Reconnect only when the settings look controlled.**
+   Reconnect the printer or webcam after the router, Wi-Fi, and related account are secured. If the same settings return or you still see unknown users, remote access, or strange network details, factory reset the printer or webcam and set it up again.
 
-8. **If this feels like surveillance or stalking, treat it as a safety issue.**  
-   Keep the webcam unplugged/covered until you’re confident it’s secure. If someone may have had physical access, prioritize changing router/admin passwords and account passwords from a device they don’t control.
+8. **Use a separate network if your router supports it.**
+   Put the printer, webcam, or other smart devices on a guest network or separate device network if your router offers one. Keep your phone, computer, and password manager on your main trusted network.
 
-9. **Report if there’s clear intrusion, fraud, extortion, or financial loss.**  
-   - File a report with the **FBI’s Internet Crime Complaint Center (IC3)**.  
-   - **If money, identity theft, or consumer fraud is involved**, consider reporting to the **FTC** and contact your bank/card issuer promptly.
+9. **If you are worried someone is monitoring you, treat it as a safety issue.**
+   Keep the webcam unplugged or covered. Change router and account passwords from a device the person does not control. Consider asking a trusted person, local support service, or law enforcement non-emergency line for help if you feel unsafe.
+
+10. **Report only if there is clear intrusion, threats, extortion, fraud, or loss.**
+   If there are threats, extortion demands, fraud, identity theft, financial loss, or a clear account intrusion, consider reporting to the FBI Internet Crime Complaint Center. If money, identity theft, or consumer fraud is involved, consider reporting to the FTC and contact your bank or card issuer promptly.
 
 ## What can wait
-- You do **not** need to identify the attacker right now.
-- You do **not** need to replace all your equipment today.
-- You do **not** need to contact the manufacturer unless you can’t update/reset.
-- You do **not** need to make big decisions about your whole smart home setup while you’re stressed.
+- You do not need to identify who changed the settings right now.
+- You do not need to replace all your equipment today.
+- You do not need to redesign your whole smart home setup now.
+- You do not need to contact the manufacturer unless you cannot update, reset, or regain control of the device.
+- You do not need to decide whether this was a mistake, glitch, or attack before taking the basic safety steps above.
 
 ## Important reassurance
-This is scary, but it’s often containable quickly. Taking the device offline and locking down the router and related accounts usually stops ongoing access, and you can reconnect only once you’re in control again.
+This is unsettling, but the first steps are simple: disconnect the device, secure the router and related accounts, and reconnect only when the settings look under your control. Many situations can be contained without replacing everything.
 
 ## Scope note
-These are first steps to reduce harm and stop further access. If you later find evidence of account takeover, harassment, or financial loss, you may want additional help (law enforcement reporting, bank fraud support, or a trusted IT professional).
+These are first steps to reduce immediate risk and stop further access. Later decisions, especially where there is harassment, account takeover, fraud, or financial loss, may need help from a trusted IT professional, the device manufacturer, your bank, or law enforcement.
 
 ## Important note
-This is general information, not legal advice or forensic guidance. If you feel personally unsafe or believe a camera may be used to monitor you, prioritize immediate safety and seek local help.
+This is general information, not legal, forensic, cybersecurity, financial, therapeutic, or professional advice. If you feel personally unsafe or believe a camera may be used to monitor you, prioritize immediate safety and seek local help.
 
 ## Additional Resources
 - https://consumer.ftc.gov/articles/how-secure-your-home-security-cameras
 - https://consumer.ftc.gov/articles/securing-your-internet-connected-devices-home
 - https://consumer.ftc.gov/node/78375
+- https://www.cisa.gov/audiences/high-risk-communities/projectupskill/module5
 - https://www.ic3.gov/
-- https://www.fbi.gov/investigate/cyber
+- https://reportfraud.ftc.gov/

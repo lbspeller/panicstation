@@ -1,75 +1,91 @@
-﻿---
+---
 title: "What to do if… you lose power in part of your home and the breaker panel looks normal"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
-  - partial power outage
-  - power out in one room
-  - some lights work some dont
-  - sockets not working but breakers on
-  - half the house has no power
-  - breaker panel looks normal
-  - consumer unit looks normal
-  - rcd not tripped but no power
-  - lights out but neighbours fine
-  - lost power to circuits
-  - intermittent power in house
-  - power cut only part of home
-  - no electricity in some outlets
-  - fuse box switches all up
-  - breaker wont trip but no power
-  - power lost after using appliance
-  - kitchen sockets stopped working
-  - garage sockets stopped working
-last_reviewed: "2026-03-04"
+  - "partial power outage"
+  - "power out in one room"
+  - "some lights work"
+  - "some lights dont work"
+  - "sockets not working"
+  - "breaker panel looks normal"
+  - "consumer unit looks normal"
+  - "fuse box looks normal"
+  - "rcd not tripped"
+  - "half the house has no power"
+  - "what do i do if power is partly out"
+  - "what do i do if sockets stopped working"
+  - "what do i do if lights still work"
+  - "what do i do if breakers are on"
+  - "help i lost power upstairs"
+  - "help i have no kitchen sockets"
+  - "help i have no garage sockets"
+  - "help i reset the breaker"
+  - "my breaker panel looks normal"
+  - "my consumer unit looks normal"
+  - "my lights work but sockets dont"
+  - "my house has partial power"
+  - "burning smell near socket"
+  - "buzzing from consumer unit"
+  - "socket feels warm"
+  - "lights flickering in one area"
+  - "scorch mark on socket"
+  - "breaker wont stay on"
+  - "power cut or electrical fault"
+  - "fuse box or consumer unit"
+  - "supplier or network operator"
+  - "breaker or rcd"
+  - "rented home electrical fault"
+  - "garage sockets no power"
+  - "medical equipment power cut"
+last_reviewed: "2026-05-14"
+date_created: "2026-05-14"
 ---
 
 # What to do if… you lose power in part of your home and the breaker panel looks normal (UK)
 
 ## Short answer
-Treat this as a potential electrical fault. Stop using the affected area, do one careful reset/check of relevant switches (only if safe), and if power doesn’t return or anything seems unsafe, call 105 (your network operator) or your landlord/electrician.
+Treat partial power loss as a possible electrical fault. Stop using the affected area, do one careful reset only if it is safe, and if power does not return or anything seems unsafe, contact the right help rather than repeatedly trying switches.
 
 ## Do not do these things
-- Don’t remove the cover of the consumer unit, meter box, or touch any service cables (leave internal parts to professionals).
-- Don’t keep “trying it again” by repeatedly switching breakers/RCDs on and off.
-- Don’t ignore warning signs like burning smells, buzzing/crackling, warmth at sockets, scorch marks, or worsening flicker.
-- Don’t use candles as your main lighting if you can avoid it (use torches instead).
-- Don’t run any fuel-burning generator or BBQ indoors or in a garage (carbon monoxide risk).
+- Don’t remove the cover of the consumer unit, meter box, sockets, or switches.
+- Don’t touch anything damaged, wet, hot, sparking, buzzing, or smelling of burning.
+- Don’t repeatedly switch breakers, RCDs, or RCBOs on and off.
+- Don’t keep using appliances on the affected circuit to “see what happens”.
+- Don’t use candles as your main lighting if you can use a torch or phone light instead.
+- Don’t run any fuel-burning generator, BBQ, camping stove, or outdoor heater indoors or in a garage.
 
 ## What to do now
-1. **Pause and scan for danger signs (30 seconds).** If you smell burning, hear buzzing/crackling from a socket/consumer unit, see smoke/sparks, or a socket faceplate is hot:  
-   - **If safe, switch OFF power at the main switch** in the consumer unit (don’t touch anything that looks damaged).  
-   - **Call 999** if there’s fire/smoke or immediate danger.
-2. **Work out whether it’s only you or the street.** Check one light/appliance in a different part of your home, and (if easy) ask a neighbour or check street lighting.
-3. **Reduce load before you reset anything.** Unplug sensitive electronics in the affected area (TVs, computers) and switch off high-load appliances that might be on that circuit (kettle, microwave, heater).
-4. **Do one careful “not-obvious” consumer unit check.** A breaker/RCBO can look “on” but be tripped internally.  
-   - Look for any switch slightly out of line.  
-   - For the breaker/RCBO that likely feeds the dead area: **push it firmly to OFF, then back to ON once**.
-5. **Check for any local RCD “reset” device feeding the dead sockets.** In some homes, sockets (especially **garage, outdoor, kitchen, or outbuildings**) may be fed via a separate device such as an **RCD spur / fused spur with reset**, an **RCD unit near the garage/outdoor supply**, or a **plug-in RCD adapter**. If you find a **Reset** button connected to the affected sockets, press **Reset once**.
-6. **Avoid pressing “TEST” buttons right now.** If you see a **TEST/T** button (on an RCD/RCBO), don’t start testing during the outage—testing can deliberately cut power to confirm protection. Focus on identifying anything tripped and doing the single reset above; you can test later once things are stable.
-7. **If power is still out in part of the home, report it as a fault.**  
-   - **Call 105 (free)** to reach your local electricity distribution network operator (DNO) and report a partial outage, especially if you have a “half the house” pattern or suspect a supply fault.  
-   - If you rent: **tell your landlord/agent** promptly and say you suspect an electrical fault (this is usually not something your electricity supplier fixes).
-8. **Keep the affected circuit “quiet” until it’s resolved.** Leave non-essential items unplugged/switches off in the affected rooms so nothing suddenly re-energises under load.
-9. **If someone relies on powered medical equipment**, move to the safest powered area of the home and arrange backup help now (family/friend/carer). If you cannot keep essential equipment powered, call **999** for urgent medical need.
+1. **Pause and scan for danger signs.** If you smell burning, hear buzzing or crackling, see smoke or sparks, notice scorch marks, or find a socket or switch that feels hot, move away from that area. If there is fire, smoke, or immediate danger, call **999**.
+2. **Switch off only if it is clearly safe.** If the consumer unit main switch is dry, cool, undamaged, and easy to reach without going near danger, switch the power off at the main switch. Do not touch the consumer unit if it looks damaged, is wet, is hot, is sparking, or is making noise.
+3. **Check whether this may be wider than your home.** Look for power in another part of the home. If it is easy and safe, ask a neighbour whether they have power or check whether nearby homes or street lighting seem affected.
+4. **Reduce the load before any reset.** Unplug or switch off appliances in the affected area, especially the last appliance used before the power went off, and high-load items such as a kettle, microwave, heater, washing machine, or tumble dryer.
+5. **Do one careful consumer unit reset check.** A breaker, RCD, or RCBO can sometimes look on when it has tripped. Look for any switch slightly out of line. For the switch that appears to feed the dead area, push it fully to **OFF**, then back to **ON** once. If it trips again or will not stay on, leave it off.
+6. **Check for a local reset device.** Some garage, outdoor, kitchen, shed, or outbuilding sockets may be fed through a separate RCD spur, fused spur with reset, RCD unit, or plug-in RCD adapter. If you find a reset button clearly linked to the affected sockets, press **Reset** once. If it trips again, stop.
+7. **Do not press test buttons during the fault.** A **TEST** or **T** button on an RCD or RCBO is meant to deliberately cut power for testing. That can wait until the situation is stable.
+8. **If power is still out in part of the home, report it or get help.** In England, Scotland, and Wales, call **105** to reach your local electricity network operator and report a partial outage, especially if roughly half the home is affected or neighbours are also affected. If you rent, tell your landlord or agent promptly that part of the electrical supply has failed and that you have stopped using the affected area.
+9. **Keep the affected area quiet.** Leave non-essential items unplugged or switched off so they do not suddenly restart under load if power returns.
+10. **If someone relies on powered medical equipment, act early.** Move them to the safest powered area if there is one, use any agreed backup plan, and contact family, a carer, the equipment provider, or the network operator for support. Call **999** if there is immediate medical danger or essential equipment cannot be kept working safely.
 
 ## What can wait
-- You do not need to diagnose the cause (failed circuit, loose connection, damaged socket, etc.) right now.
-- You do not need to open outlets, remove faceplates, or “trace” wiring.
-- You do not need to decide on repairs or get quotes until power is stable and the fault is identified.
+- You do not need to work out whether the cause is a failed circuit, loose connection, damaged socket, supply issue, or appliance fault right now.
+- You do not need to remove faceplates, open sockets, trace wiring, or inspect inside the consumer unit.
+- You do not need to decide on repairs or get quotes until the immediate safety checks are done and the fault has been reported or assessed.
+- You do not need to test RCD buttons while part of the home is still without power.
 
 ## Important reassurance
-Partial power loss with a “normal-looking” consumer unit can happen and doesn’t automatically mean something catastrophic—but it can indicate a fault that’s safer to treat seriously. One calm reset pass and then contacting the right service is a solid, safe approach.
+A partial power loss with a normal-looking consumer unit can happen without meaning the worst has happened. It is still worth treating it seriously: one safe reset attempt, then stopping and contacting the right help, is a calm and protective approach.
 
 ## Scope note
-This is first steps only to stabilise the situation and avoid dangerous actions. A qualified electrician or your network operator may be needed to locate and fix the underlying fault.
+These are first steps only to reduce immediate risk and avoid making the fault worse. A qualified electrician, landlord, agent, or electricity network operator may be needed to identify and fix the underlying problem.
 
 ## Important note
-This is general information, not professional electrical advice. If you notice heat, burning smells, smoke, sparks, or any risk of fire or shock, prioritise safety and emergency help. When in doubt, stop using the affected area and get a qualified professional.
+This is general information, not professional electrical, legal, medical, financial, therapeutic, or other professional advice. If there is heat, burning smell, smoke, sparks, fire, shock risk, or immediate danger, move away from the area and seek emergency help.
 
 ## Additional Resources
-- https://www.powercut105.com/en/
-- https://www.powercut105.com/en/report-a-power-cut
 - https://www.energynetworks.org/customers/power-cut
+- https://www.energynetworks.org/work/105-service
 - https://www.electricalsafetyfirst.org.uk/guidance/safety-around-the-home/rcds-explained/
 - https://prepare.campaign.gov.uk/be-informed-about-hazards/power-cuts/
+- https://www.ofgem.gov.uk/information-consumers/energy-advice-households/join-your-suppliers-priority-services-register
+- https://www.gov.uk/government/publications/make-your-home-safe-from-fire/fire-safety-in-the-home-accessible-version

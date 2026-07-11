@@ -1,93 +1,121 @@
-﻿---
+---
 title: "What to do if… you suddenly have no running water in your home"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
-  - no running water
-  - no water at tap
-  - water supply interruption
-  - water outage at home
-  - low water pressure suddenly
-  - taps have stopped
-  - mains water off
-  - water cut off
-  - no cold water kitchen tap
-  - stopcock stuck
-  - stop tap shut
-  - shared supply problem
-  - rented flat no water
-  - water company outage
-  - emergency water shortage
-  - no toilet flush water
-  - sudden loss of water
-last_reviewed: "2026-03-03"
+  - "no running water"
+  - "no water at home"
+  - "water suddenly stopped"
+  - "taps stopped working"
+  - "no cold water"
+  - "low water pressure suddenly"
+  - "water supply interruption"
+  - "water outage at home"
+  - "mains water off"
+  - "water cut off"
+  - "what do i do if no water"
+  - "what do i do if taps stop"
+  - "what do i do if water stops"
+  - "what do i do if mains water stops"
+  - "help i have no water"
+  - "help i cannot flush toilet"
+  - "my taps have stopped"
+  - "my water supply is off"
+  - "my cold tap has no water"
+  - "my home has no water"
+  - "kitchen tap not working"
+  - "toilet will not flush"
+  - "stopcock feels stuck"
+  - "neighbours also have no water"
+  - "water pressure is very low"
+  - "water outage or plumbing"
+  - "burst main or stopcock"
+  - "planned works or emergency"
+  - "no water or low pressure"
+  - "supply issue or internal plumbing"
+  - "rented flat no water"
+  - "shared building no water"
+  - "private water supply stopped"
+  - "watter supply stopped"
+last_reviewed: "2026-05-21"
+date_created: "2026-05-21"
 ---
 
 # What to do if… you suddenly have no running water in your home (UK)
+
 ## Short answer
-First, check whether it’s just your home (stopcock/inside plumbing) or a wider supply interruption (neighbours/water company). Then contact the right party quickly: your water company for network issues, or your landlord/plumber if it’s internal.
+Check the cold kitchen tap, ask one nearby neighbour if they are affected, and check your water supplier’s current service updates. If it looks wider than your home, contact the supplier; if it looks internal, contact your landlord, building manager, or a plumber.
 
 ## Do not do these things
-- Don’t assume it’s a regional outage without checking your stopcock/inside stop valve first.
-- Don’t keep turning taps on full and walking away (you can miss the moment supply returns and cause overflow somewhere).
-- Don’t drink water from unsafe sources (for example, heating systems/radiators/boilers).
-- Don’t try to force a jammed stopcock/valve with excessive force if you’re not confident (it can snap and cause a leak).
-- Don’t delay telling your landlord/letting agent if you rent—waiting can make damage and responsibility disputes worse.
+- Don’t leave taps running full and walk away; supply can return suddenly.
+- Don’t drink water from heating systems, radiators, boilers, garden water butts, or other unsafe sources.
+- Don’t force a stuck stopcock or valve if it feels jammed.
+- Don’t ignore a shared-building issue if you are in a flat; a communal valve or building repair may be involved.
+- Don’t wait to tell your landlord or letting agent if you rent and the problem seems inside the property or building.
 
 ## What to do now
-1. **Check the “is it just me?” basics (2 minutes).**
-   - Turn on the **cold kitchen tap** (often the mains-fed tap).
-   - Ask a neighbour in the same building/street if they also have no water or very low pressure.
+1. Check whether the cold kitchen tap is working.
+   - Try the cold tap in the kitchen or utility area first, because this is usually the mains-fed tap.
+   - If only some taps are affected, the problem may be inside your plumbing rather than the outside supply.
 
-2. **Check your internal stop valve/stopcock is open.**
-   - Locate the **inside stop valve/stopcock** (often under the kitchen sink or where the supply enters).
-   - Make sure it hasn’t been knocked partially shut. If you’re unsure or it feels stuck, stop and move to Step 5.
+2. Ask one neighbour or someone in the same building.
+   - If they also have no water or very low pressure, it may be a wider supply interruption.
+   - If only your home is affected, move quickly to checking internal valves and getting property-specific help.
 
-3. **If you’re in a flat or shared building, check for shared controls.**
-   - Some buildings have a **communal shutoff** or a management-controlled valve. If neighbours are affected, contact the building manager/caretaker/management company.
+3. Check the inside stop valve or stopcock.
+   - Look under the kitchen sink, near where the water pipe enters, in an airing cupboard, or near the front door area.
+   - Make sure it has not been knocked closed or partly closed.
+   - If it feels stuck, cracked, or unsafe to move, leave it alone and contact a plumber, landlord, or building manager.
 
-4. **If neighbours are affected, treat it as a water company issue.**
-   - Check your **water company’s service updates** for “no water/low pressure” incidents.
-   - If you can’t find clear info, **call the water company** to report “no supply” and ask:
-     - whether there is a known incident,
-     - what they want you to do right now,
-     - whether there is any **drinking-water notice** you must follow (for example, boil water advice).
+4. If you are in a flat or shared building, check the shared route.
+   - Contact the building manager, caretaker, housing provider, concierge, or management company.
+   - Ask whether any communal valve, tank, pump, planned work, leak, or repair is affecting the building.
 
-5. **If it seems limited to your home, treat it as internal plumbing.**
-   - If you rent: **report it to your landlord/letting agent immediately** (in writing if possible) and ask what emergency repair route they want you to use.
-   - If you own: contact an **emergency plumber** if you can’t restore supply by checking obvious valves and the issue is urgent (for example, no toilet use possible for the household).
+5. If neighbours are affected, contact the water supplier.
+   - Check the supplier’s service updates for your postcode or area.
+   - Report “no water” or “very low pressure” if there is no clear update.
+   - Ask whether there is a known incident, when the next update is expected, and whether any drinking-water notice applies.
 
-6. **If the supply is out for a while, ask about alternative water supplies.**
-   - Ask your water company **what replacement water is being provided** (for example, bottled water, bowsers, or standpipes) and where/when to collect it.
-   - If anyone in the home needs extra support, ask about the **Priority Services Register (PSR)** and what help they can provide during interruptions.
+6. If the problem seems limited to your home, treat it as internal plumbing.
+   - If you rent, report it to your landlord, letting agent, housing association, or repairs line now.
+   - If you own, contact a plumber if the stop valve check does not restore supply or the household has no usable water.
+   - If you see leaking, bulging ceilings, water near electrics, or flooding, prioritise safety and emergency help.
 
-7. **Make safe, minimal arrangements for drinking and hygiene.**
-   - Use **bottled water** (or safe stored water) for drinking, brushing teeth, and preparing food.
-   - Prioritise **hand hygiene**: use alcohol hand gel if you can’t wash with soap and running water.
-   - For toilets: if you have **safe non-drinking water** (for example, stored water), you can often keep toilet flushing going by adding water carefully—go slowly to avoid overflow.
+7. Make safe short-term water arrangements.
+   - Use bottled water or safe stored water for drinking, brushing teeth, food preparation, and baby formula.
+   - Use alcohol hand gel if you cannot wash hands with soap and running water.
+   - If you have safe non-drinking water, you can use it carefully for toilet flushing; pour slowly and stop if the bowl rises too high.
 
-8. **If you’re on a private supply (well/spring) rather than mains.**
-   - Treat it as an on-site fault and contact a qualified local engineer.
-   - If you’re unsure about water safety when it returns, your **local council environmental health/private water supplies team (where available)** can typically advise on next steps.
+8. Ask about replacement water and extra support.
+   - If the outage is wider than your home, ask the supplier whether replacement water is being provided and where to get it.
+   - If someone in the home has a medical need, disability, young children, pregnancy, age-related vulnerability, or another reason they need extra help, ask about priority services or urgent support.
+   - If you are already on a Priority Services Register, tell the supplier that when you report the outage.
+
+9. If you are on a private water supply.
+   - Treat it as an on-site supply problem unless neighbours on the same private supply are also affected.
+   - Contact the person responsible for the supply, a qualified local engineer, or your landlord if you rent.
+   - If you are unsure whether the water is safe when it returns, ask your local council or local authority private water supplies or environmental health team what to do next.
 
 ## What can wait
-- You don’t need to diagnose the exact cause immediately—focus on **confirming whether it’s network vs internal** and getting the right party involved.
-- You don’t need to deep-clean appliances or flush systems right now; wait until supply is stable and you’ve checked any official notices.
-- You don’t need to pursue complaints/compensation in the moment—log times and facts first.
+- You do not need to diagnose the exact cause right now.
+- You do not need to decide about complaints, compensation, insurance, or rent issues in the first few minutes.
+- You do not need to deep-clean appliances or flush systems until the supply is stable and you have checked any official water-quality notice.
+- You can simply note the time the water stopped, who you contacted, and what they told you.
 
 ## Important reassurance
-It’s common for this to be a straightforward cause (a closed stopcock, a local burst main, planned works you missed, or a temporary pressure drop). Your job right now is simply to reduce risk (safe drinking water and hygiene) and get the problem routed to the correct responder.
+A sudden loss of running water is often caused by a closed valve, local repair work, a burst main, a shared-building issue, or a temporary pressure problem. The useful first move is not to solve everything at once; it is to work out whether the issue is inside your home or outside it, then contact the right responder.
 
 ## Scope note
-These are first steps to stabilise the situation and avoid damage or illness. Once you have basic water access (or clear updates), you can handle follow-up tasks like complaints, insurance questions, or longer outages.
+These are first steps only, to keep the household safe, reduce damage risk, and get the problem routed quickly. Later decisions about repairs, complaints, compensation, tenancy rights, insurance, or longer outages may need specialist help.
 
 ## Important note
-This guide is general information, not professional plumbing, medical, or legal advice. If you smell gas, see electrical danger near water, have flooding, or anyone becomes unwell, prioritise immediate safety and emergency help.
+This guide is general information, not professional plumbing, medical, legal, financial, therapeutic, or other professional advice. If there is flooding, water near electrics, a risk to health, or immediate danger, prioritise safety and contact emergency services or the relevant urgent service.
 
 ## Additional Resources
 - https://prepare.campaign.gov.uk/be-informed-about-hazards/water-supply-interruptions-or-outages/
+- https://www.water.org.uk/customers/find-your-supplier
 - https://www.ofwat.gov.uk/households/supply-and-standards/supply-interruptions/
-- https://www.ccw.org.uk/app/uploads/2023/03/Factsheet-No-water-supply.pdf
-- https://www.ccw.org.uk/faq/i-have-no-water-supply/
-- https://www.citizensadvice.org.uk/consumer/water/your-water-supply/interruptions-to-your-water-supply/
 - https://www.ofwat.gov.uk/households/customer-assistance/special-assistance/
+- https://www.ccw.org.uk/faq/i-have-no-water-supply/
+- https://www.scottishwater.co.uk/in-your-area/latest-in-your-area
+- https://www.niwater.com/need-our-help/i-have-no-water-or-low-pressure

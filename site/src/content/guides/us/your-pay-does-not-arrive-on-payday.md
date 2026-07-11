@@ -1,70 +1,85 @@
-﻿---
+---
 title: "What to do if… your pay does not arrive on payday"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
-  - paycheck not received
-  - paycheck late
-  - missing direct deposit
-  - pay not deposited
-  - employer didn't pay me
-  - unpaid wages
-  - late wages
-  - payroll mistake
-  - pay stub no deposit
-  - salary not paid
-  - not paid for hours worked
-  - overtime not paid
-  - tips not paid
-  - commission not paid
-  - pay day missed
-  - wage claim how to
-  - report unpaid wages
-  - paycheck missing today
-last_reviewed: "2026-01-06"
+  - "paycheck not received"
+  - "paycheck late"
+  - "missing paycheck"
+  - "missing direct deposit"
+  - "pay not deposited"
+  - "payday passed no pay"
+  - "payday missed"
+  - "late wages"
+  - "unpaid wages"
+  - "salary not paid"
+  - "what do i do if paycheck missing"
+  - "what do i do if paycheck late"
+  - "what do i do if pay not deposited"
+  - "what do i do if wages unpaid"
+  - "help i did not get paid"
+  - "help i have no paycheck"
+  - "help i am missing pay"
+  - "help i was not paid"
+  - "my paycheck did not arrive"
+  - "my direct deposit is missing"
+  - "my employer has not paid me"
+  - "my paystub shows no deposit"
+  - "no pending deposit"
+  - "bank shows no paycheck"
+  - "paystub but no money"
+  - "hours worked not paid"
+  - "overtime not paid"
+  - "tips not paid"
+  - "commission not paid"
+  - "payroll error"
+  - "pay roll mistake"
+  - "direct deposite missing"
+last_reviewed: "2026-07-01"
+date_created: "2026-07-01"
 ---
 
 # What to do if… your pay does not arrive on payday (USA)
 
 ## Short answer
-Contact payroll/HR immediately, ask whether your pay was issued and by what method, and request a same-day fix. Document everything in writing.
+Contact payroll or HR now, ask whether your pay was issued, and ask what same-day or fastest correction is available. Keep the conversation factual and get the explanation, payment method, and expected pay date in writing.
 
 ## Do not do these things
-- Do not wait “until next pay period” without a clear explanation and a specific pay date in writing.
-- Do not resign or walk off the job in the heat of the moment.
-- Do not accept off-the-books cash or “we’ll make it up later” with no paper trail.
-- Do not share bank login details, one-time codes, or passwords with anyone who says they can “track” your deposit.
-- Do not threaten or accuse—keep messages factual so they help you if you need to escalate.
+- Do not wait until the next pay period without a written explanation and a specific expected pay date.
+- Do not resign, walk out, or send an angry message while you are panicked.
+- Do not accept off-the-books cash or a vague promise to “make it up later” with no written record.
+- Do not share bank login details, one-time codes, passwords, or screenshots showing sensitive account information.
+- Do not publicly accuse your employer before you have saved your records and asked for a clear correction.
 
 ## What to do now
-1. **Confirm the basics right now.** Check the pay period dates, your hours/time records, and whether you’re expecting a paper check or direct deposit (especially if you’re new, changed banks, or changed jobs/roles).
-2. **Check your bank side for obvious blockers.** Look for a pending ACH deposit, a rejection notice, or an account/routing mismatch. If you recently changed accounts, verify what payroll has on file.
-3. **Contact payroll/HR first (then your manager).** Ask three specific questions:  
-   - “Was my pay issued?”  
-   - “Was it direct deposit or a paper check?”  
-   - “What is the payment date/trace/reference or check number, and when will I actually receive it?”
-4. **Ask for a same-day practical fix if it wasn’t issued correctly.** For example: re-issuing direct deposit, issuing a manual/paper check, or using your employer’s emergency paycheck process (if they have one).
-5. **Get the explanation in writing.** If you talked by phone/in person, immediately send a short follow-up: “Confirming my paycheck for [pay period] was not received on payday. You said [summary] and I will be paid by [date/method].”
-6. **Preserve your evidence.** Save paystubs, schedules, timesheets/clock-in records, and messages about hours, tips, commissions, or overtime. Keep a simple timeline of who you contacted and when.
-7. **Use your workplace route if you have one.** If you’re in a union, contact your steward/rep and ask them to start the pay dispute process urgently.
-8. **If it’s not fixed quickly, escalate to the right outside channel.** Wage-payment timing rules are often handled at the **state** level. As a concrete next step, search **“[your state] wage claim”** and file through your state labor agency if available. You can also contact the U.S. Department of Labor, Wage and Hour Division (WHD) to ask about filing a complaint: **1-866-487-9243** (they route you to the nearest WHD office).
+1. **Confirm what should have been paid.** Check the payday, pay period dates, hours worked, pay rate, overtime, tips, commissions, deductions, and whether you expected direct deposit or a paper check.
+2. **Check your bank and payroll details.** Look for a posted or pending deposit, a rejected deposit notice, or an account or routing number mismatch. If you recently changed bank accounts, confirm what payroll has on file.
+3. **Contact payroll or HR before the day gets away from you.** Ask: “Was my pay issued?”, “Was it sent by direct deposit or check?”, and “What trace number, check number, payment date, and correction date can you give me?”
+4. **Ask for the fastest practical correction.** Ask whether they can issue a manual check, reissue a corrected direct deposit, reverse an account error, or use any emergency payroll process they have.
+5. **Follow up in writing after any call.** Send a short message saying: “Confirming my pay for [pay period] was not received on payday. You said [summary], and I should receive payment by [date] by [method].”
+6. **Save evidence in one place.** Keep paystubs, schedules, time records, clock-in records, tip records, commission records, bank deposit screenshots with sensitive details hidden, and messages about the missing pay.
+7. **Use an internal support route if you have one.** If you are in a union, contact your steward or representative and ask how to start the urgent pay dispute process.
+8. **If the pay is not fixed quickly, check the right outside route.** Wage-payment timing rules are often handled at the state level. Check your state payday rules and state labor office, and consider contacting the U.S. Department of Labor Wage and Hour Division at 1-866-487-9243 to ask whether a federal wage complaint route fits your situation.
 
 ## What can wait
 - You do not need to decide today whether to sue or hire a lawyer.
-- You do not need to publicly accuse your employer online to make progress.
-- You do not need to negotiate long explanations—focus on getting paid and getting written confirmation of dates/methods.
+- You do not need to work out every possible penalty or legal claim right now.
+- You do not need to post about the employer online to make progress.
+- You do not need to explain your whole financial situation; focus on the missing pay, the correction method, and the expected pay date.
 
 ## Important reassurance
-A missing paycheck can trigger immediate fear, even if you’ve done everything right. Payroll errors, account changes, and processing issues are common. Staying factual and creating a clear written record helps get a faster fix—and protects you if you need to escalate.
+A missing paycheck is frightening, especially when bills are due. The next useful step is not to solve the whole employment problem at once; it is to confirm what happened, ask for a concrete correction, and create a clear written record.
 
 ## Scope note
-This guide is first steps only. If you’re repeatedly unpaid, paid late, or shorted (tips/overtime/commissions), you may need specialized help to choose the best enforcement route for your state and job type.
+This guide is first steps only. If you are repeatedly paid late, underpaid, unpaid for overtime, missing tips or commissions, or unsure whether your job type is covered by a wage law, later decisions may need specialist help.
 
 ## Important note
-This is general information, not legal advice. Wage-payment deadlines and enforcement options vary by state and situation. If you believe your wages are being withheld, get timely, reputable help and keep records.
+This is general information, not legal, financial, tax, employment, or professional advice. Wage-payment deadlines and enforcement options vary by state, job type, and facts, so check official resources and get reputable help if the issue is not fixed.
 
 ## Additional Resources
 - https://www.dol.gov/agencies/whd/contact/complaints
 - https://www.dol.gov/agencies/whd
-- https://www.worker.gov/actions-whd-claim/
+- https://www.dol.gov/agencies/whd/state/payday
+- https://www.dol.gov/agencies/whd/state/contacts
+- https://www.dol.gov/general/topic/wages
 - https://www.dol.gov/agencies/whd/wow

@@ -1,93 +1,114 @@
-﻿---
+---
 title: "What to do if… someone files a payment app dispute against you and your funds are put on hold"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
-  - payment app dispute against me
-  - funds put on hold
-  - money on hold in app
-  - account balance frozen
-  - payment reversed dispute
-  - chargeback against me
-  - buyer opened a dispute
-  - unauthorised payment claim
-  - item not received dispute
-  - not as described dispute
-  - p2p payment dispute
-  - mobile payment dispute
-  - payment under review
-  - account limited by app
-  - dispute deadline evidence
-  - transaction id case id
-  - seller proof of delivery
-  - service provided dispute
-last_reviewed: "2026-01-09"
+  - "payment app dispute against me"
+  - "funds put on hold"
+  - "money on hold in app"
+  - "account balance frozen"
+  - "payment app funds frozen"
+  - "payment reversed dispute"
+  - "chargeback against me"
+  - "buyer opened a dispute"
+  - "unauthorised payment claim"
+  - "item not received dispute"
+  - "not as described dispute"
+  - "p2p payment dispute"
+  - "mobile payment dispute"
+  - "payment under review"
+  - "account limited by app"
+  - "what do i do if payment app dispute"
+  - "what do i do if funds on hold"
+  - "what do i do if buyer disputes payment"
+  - "what do i do if chargeback against me"
+  - "help i have a payment dispute"
+  - "help i cannot access funds"
+  - "help i got a chargeback"
+  - "help i sold something disputed"
+  - "my payment app account is frozen"
+  - "my funds are on hold"
+  - "my buyer says unauthorised payment"
+  - "my payment app needs evidence"
+  - "case id and transaction id"
+  - "respond by deadline shown"
+  - "delivery proof for dispute"
+  - "service provided dispute evidence"
+  - "payment app disupte"
+  - "chargebak against me"
+  - "uk payment app dispute"
+last_reviewed: "2026-05-01"
+date_created: "2026-05-01"
 ---
 
 # What to do if… someone files a payment app dispute against you and your funds are put on hold (UK)
 
 ## Short answer
-Keep everything inside the app’s official dispute process, respond before the deadline with clear evidence, and secure your account so the hold doesn’t escalate.
+Use the app’s official dispute process, respond before the deadline shown, and protect your account before doing anything else.
 
 ## Do not do these things
-- Don’t refund or “settle” outside the app (bank transfer, cash, gift cards, crypto) while a dispute is open.
-- Don’t move money around trying to “outrun” the hold (it can trigger longer limits or extra reviews).
-- Don’t delete chats, listings, receipts, delivery proof, or emails.
-- Don’t miss the app’s response deadline, even if you’re waiting for support to reply.
-- Don’t share login codes, screenshots of security prompts, or your full banking details with the other party.
-- Don’t contact the other party in a way that could be read as harassment or intimidation.
+- Don’t refund or settle outside the app by bank transfer, cash, gift cards, crypto, or another payment app while the dispute is open.
+- Don’t move money around to try to outrun the hold; it may trigger more checks.
+- Don’t delete chats, listings, receipts, delivery proof, invoices, emails, or app notices.
+- Don’t miss the app’s evidence deadline, even if support has not replied yet.
+- Don’t share login codes, security prompts, passwords, card details, or full bank details with the other party.
+- Don’t contact the other party in a way that could be read as threatening, repeated, or pressuring.
+- Don’t close the account until you have downloaded the dispute notice, transaction record, and any available statements.
 
 ## What to do now
-1. **Capture exactly what’s happened.**  
-   Screenshot the dispute/hold notice showing the case ID, transaction ID, reason (if shown), amount, dates, and any “respond by” deadline.
+1. **Save the dispute notice.**  
+   Screenshot or download the notice showing the case ID, transaction ID, reason, amount, dates, hold amount, and any “respond by” deadline.
 
-2. **Confirm what kind of dispute it is.**  
-   Check whether it’s **unauthorised payment**, **item not received**, **not as described**, or a **card chargeback** handled via the payer’s bank/card. If it’s not clear, ask support (in-app): “Is this an in-app dispute or a card/bank chargeback, and what is my evidence deadline?”
+2. **Check what type of dispute it is.**  
+   Look for wording such as unauthorised payment, item not received, not as described, service not provided, or chargeback. If it is unclear, ask support through the app: “Is this an in-app dispute or a card or bank chargeback, and what is my evidence deadline?”
 
-3. **Secure your account immediately.**  
-   Change your password, enable 2-step verification (if available), and review linked email/phone, connected bank/cards, and recent logins/devices. Remove anything you don’t recognise and contact support through the in-app route.
+3. **Secure the payment app account.**  
+   Change your password, turn on two-step verification if available, check the linked email and phone number, review linked cards and bank accounts, and remove any device or login you do not recognise.
 
-4. **Export and preserve your transaction records.**  
-   Download/export the receipt/statement for the disputed payment (and any linked invoice, order confirmation, or booking record). Keep originals, not edited versions.
+4. **Preserve the transaction record.**  
+   Download or export the receipt, statement entry, invoice, booking record, listing, order confirmation, and message thread connected to the disputed payment. Keep the original versions.
 
-5. **Gather “decision-grade” evidence matched to the claim.**  
-   - What was agreed (listing/invoice/terms + the message thread confirming it).  
-   - Proof you delivered/provided the service (tracking/delivery confirmation, signed collection, time-stamped photos, appointment logs).  
-   - Any proof the payer accepted or confirmed completion (messages, completion confirmation, follow-up).  
-   Keep it factual and organised.
+5. **Match your evidence to the claim.**  
+   Use only clear, relevant evidence:
+   - what was agreed, such as the listing, invoice, quote, or message thread;
+   - proof of delivery or collection, such as tracking, delivery confirmation, signed collection, or dated photos;
+   - proof the service was provided, such as appointment logs, completion messages, access records, or follow-up messages;
+   - proof the payer accepted or confirmed the item or service, if you have it.
 
-6. **Respond in the app’s dispute centre as soon as you can.**  
-   Upload the key evidence and write a short timeline (3–7 bullets: date → event → which attachment proves it). Avoid long narratives or accusations.
+6. **Respond inside the dispute centre.**  
+   Upload the key evidence and write a short timeline in date order. Keep it factual: date, what happened, and which attachment proves it.
 
-7. **If support won’t explain the hold or won’t review your evidence, escalate through complaints.**  
-   Use the provider’s formal complaints route (not just live chat) and keep the complaint reference. For complaints about payment services/e-money, firms are typically expected to resolve within **15 business days** (up to **35** in exceptional circumstances). If you get a final response you disagree with, or the firm misses the deadline, you can usually take it to the Financial Ombudsman Service.
+7. **Use the provider’s formal complaint route if the hold or review is unclear.**  
+   If support will not explain the hold, will not confirm the deadline, or will not review evidence you submitted in time, use the provider’s formal complaints process and keep the complaint reference. If the provider is covered as a payment services or e-money firm, it generally has 15 business days to give a final response to those complaints, or up to 35 business days in exceptional circumstances. If you get a final response you disagree with, or the deadline is missed, you may be able to take the complaint to the Financial Ombudsman Service.
 
-8. **If you suspect fraud, make a report you can reference.**  
-   - **England, Wales, Northern Ireland:** report via Action Fraud/Report Fraud.  
-   - **Scotland:** report to Police Scotland on **101**.  
-   Keep any reference number and share it with the payment app if asked.
+8. **Report suspected fraud through the right UK route.**  
+   If you think the dispute involves fraud, keep the app process going and make a separate report:
+   - England, Wales, or Northern Ireland: report to Report Fraud.
+   - Scotland: report to Police Scotland on 101.
+   If there is immediate danger or a crime is happening now, call 999.
 
-9. **If the hold threatens essentials, reduce immediate fallout today.**  
-   Contact urgent payees (rent, utilities, council tax, childcare) and ask for a short extension due to a temporary payment hold. Use other legitimate funds for essentials rather than trying to route money through the held account.
+9. **Protect essentials today.**  
+   If the hold affects rent, utilities, council tax, childcare, travel, or food, contact the payee and ask for short breathing space because a payment account hold is being reviewed. Use other legitimate funds for essentials if you can.
 
 ## What can wait
-- Deciding whether to pursue the other party directly (letters, small claims, solicitors).
-- Writing a long “point-by-point” rebuttal (a short evidence-led timeline is usually stronger).
+- Deciding whether to send letters, use small claims, or contact a solicitor.
+- Writing a long point-by-point argument against the other party.
 - Changing how you accept payments in future.
-- Closing your account or opening replacements (do this later, once you’ve downloaded records and the dispute outcome is clear).
+- Closing the app account or opening replacement accounts.
+- Trying to recover the money outside the app before the dispute outcome is clear.
 
 ## Important reassurance
-A hold during a dispute is common and doesn’t automatically mean you’ve done something wrong. Your best leverage is calm documentation, a fast in-app response, and keeping everything inside the official process.
+A hold during a dispute does not automatically mean you have done something wrong. The most useful thing now is a calm, timely response with clear records and all contact kept inside official routes.
 
 ## Scope note
-These are first steps to stabilise the situation, protect your account, and give you the best chance of a fair review. Next steps vary by app, dispute type, and whether a card issuer/bank is involved.
+These are first steps only, to stabilise the situation, protect your account, and preserve evidence. Later decisions may depend on the app’s rules, whether a card issuer or bank is involved, the amount at stake, and whether you need specialist financial or legal help.
 
 ## Important note
-This is general information, not legal or financial advice. Payment apps have their own rules and timelines, and some disputes are driven by card/bank processes outside the app. If the amount is large or you’re at risk of missing essential payments, consider getting independent advice.
+This is general information, not legal, financial, or professional advice. Payment apps and payment firms have their own rules and processes, and some disputes are controlled by a bank or card issuer rather than the app.
 
 ## Additional Resources
 - https://www.financial-ombudsman.org.uk/businesses/resolving-complaint/before-get-involved
 - https://www.financial-ombudsman.org.uk/consumers/expect/time-limits
-- https://handbook.fca.org.uk/handbook/DISP/1/6.html
+- https://www.fca.org.uk/consumers/how-complain
 - https://www.reportfraud.police.uk/
-- https://www.scotland.police.uk/guidance/scams-and-frauds/
+- https://www.scotland.police.uk/advice/scams-and-frauds/

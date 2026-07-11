@@ -1,80 +1,96 @@
-﻿---
-title: "What to do if… someone repeatedly asks for sexual “favours” in exchange for help, rides, or introductions"
+---
+title: "What to do if… someone repeatedly asks for sexual favours in exchange for help, rides, or introductions"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - asked for sexual favours for help
-  - pressured for sex for a ride
-  - sexual favours for introductions
-  - quid pro quo sexual pressure
-  - repeated sexual requests for assistance
-  - sexual coercion for support
-  - conditional help for sex
-  - harassment for sexual favours
-  - “do this for me” sexual demand
-  - unsafe lift offer for sex
-  - mentor asks for sexual favours
-  - networking help for sex
-  - being propositioned repeatedly
-  - pressured to say yes
-  - fear of retaliation if refusing
-  - worried it will escalate
-  - not sure if this counts as abuse
-  - freezing after being asked
-last_reviewed: "2026-03-13"
+  - "asked for sexual favours for help"
+  - "pressured for sex for a ride"
+  - "sexual favours for introductions"
+  - "sexual favours for help"
+  - "sexual favours for lifts"
+  - "repeated sexual requests for help"
+  - "conditional help for sex"
+  - "harassment for sexual favours"
+  - "sexual pressure from a mentor"
+  - "networking help for sex"
+  - "what do i do if asked for sexual favours"
+  - "what do i do if pressured for sex"
+  - "what do i do if offered help for sex"
+  - "what do i do if rides depend on sex"
+  - "help i feel pressured for sex"
+  - "help i was asked for sexual favours"
+  - "my lift offer feels unsafe"
+  - "my mentor wants sexual favours"
+  - "my introduction depends on sex"
+  - "my help depends on sexual access"
+  - "freezing after sexual pressure"
+  - "scared to refuse sexual favours"
+  - "worried sexual pressure will escalate"
+  - "afraid of retaliation for refusing"
+  - "feeling trapped by owed favours"
+  - "not sure if this is harassment"
+  - "not sure if this is coercion"
+  - "not sure if this counts as abuse"
+  - "quid pro quo sexual pressure"
+  - "sexual favour pressure"
+  - "sexual favour for ride"
+  - "favours demanded for help"
+  - "favrs for help"
+  - "sexual favours at work"
+  - "sexual favours at university"
+  - "sexual favours in community group"
+last_reviewed: "2026-05-01"
+date_created: "2026-05-01"
 ---
 
-# What to do if… someone repeatedly asks for sexual “favours” in exchange for help, rides, or introductions (UK)
+# What to do if… someone repeatedly asks for sexual favours in exchange for help, rides, or introductions (UK)
 
 ## Short answer
-Stop the interaction and get to a safer pause: do not meet them alone, and do not accept “help” tied to sexual access. Tell one trusted person what’s happening, and contact specialist support if you feel shaken or unsafe.
+Get to a safer pause: do not meet them alone, do not accept help that is tied to sexual access, and tell one trusted person what is happening. If you feel in immediate danger, call 999.
 
 ## Do not do these things
-- Do not agree to anything sexual “just to get it over with” or to avoid awkwardness.
-- Do not get into their car or meet them privately to “talk it out”.
-- Do not try to negotiate (“maybe later”, “only if…”) if you feel pressured — it can invite more pushing.
-- Do not delete messages out of panic if you might want support or to report later.
+- Do not agree to anything sexual just to get it over with or to avoid awkwardness.
+- Do not get into their car or meet them privately to talk it out.
+- Do not negotiate, hint, or offer a maybe later if you feel pressured.
+- Do not delete messages, voicemails, or call logs out of panic.
 - Do not blame yourself for having accepted past help, lifts, introductions, or friendly contact.
+- Do not confront them in person if you feel unsafe or outnumbered.
 
 ## What to do now
-1. **Create immediate distance.** If you can, end the conversation and move to a public place or to other people. If you’re currently with them, use a simple exit line (“I have to go now”) and leave.
-2. **Switch to safer communication.** Stop in-person contact. If you must communicate (e.g., work/community), keep it to written channels and short, factual messages.
-3. **Make a clear boundary once (optional, only if it feels safe).** One sentence is enough: “Don’t ask me for sexual favours. If you do again, I will end contact.” You do not need to explain or debate.
-4. **Stop any dependency they can exploit.** Cancel lifts, rides, favours, and introductions that require you to be alone with them or to “owe” them. Arrange alternatives (public transport, another contact, a different route to help).
-5. **Save what’s already happened.** If there are texts/DMs/voicemails, **keep them**. If it’s verbal, write a quick note to yourself with dates, locations, exact wording you remember, and any witnesses (this is just to steady your memory).
-6. **Tell one person on your side today.** A friend, family member, colleague, or neighbour. If you’re going to meet anyone connected to this person, don’t go alone.
-7. **Use specialist support (even if nothing “physical” happened).** Options include:
-   - **A Sexual Assault Referral Centre (SARC)** for medical, practical, and emotional support (you can ask about options without committing to reporting).
-   - **A sexual violence support line** to talk it through and plan safer next steps.
-8. **Pick the right UK support line for where you are (if you want to talk now).**
-   - **England & Wales (age 16+):** Rape Crisis England & Wales runs a free, confidential **24/7** phone and online chat support line.
-   - **Scotland:** Rape Crisis Scotland runs a helpline (evenings).
-   - **Northern Ireland:** the **24/7 Domestic & Sexual Abuse Helpline** (run by Nexus NI) can support people affected by sexual abuse/violence.
-9. **If you feel in immediate danger, call emergency services.** If you’re in danger right now, call **999**. If it’s not an emergency but you want police advice or to report, call **101**.
-10. **If this is linked to an organisation, use their process.**
-   - **Work/volunteering:** report to HR/manager/safeguarding lead (ask for a different contact if the person is senior).
-   - **University/college:** report to student support/safeguarding/harassment reporting route.
-   - **App/platform/community group:** use in-app reporting/moderators and block if safe.
+1. **Create immediate distance.** End the conversation if you can, move towards other people, and use a simple exit line such as “I have to go now.”
+2. **Avoid being alone with them.** Cancel lifts, private meetings, one-to-one favours, or introductions that would put you alone with them. Use a safer alternative such as public transport, a different contact, or going with someone else.
+3. **Move contact into writing if contact is unavoidable.** Keep messages short and factual. Do not debate whether their request was acceptable.
+4. **Set one clear boundary only if it feels safe.** A single sentence is enough: “Do not ask me for sexual favours again.” You do not need to explain or persuade them.
+5. **Keep what already exists.** Save texts, DMs, voicemails, screenshots, usernames, dates, places, and names of anyone who saw or heard it. If it was spoken, write a short note to yourself with the wording you remember.
+6. **Tell one person on your side today.** Choose a friend, family member, colleague, neighbour, tutor, manager, or support worker. Ask them not to contact the person for you unless you choose that.
+7. **Use specialist support even if nothing physical happened.** A sexual violence support service can help you think through safety, contact, and reporting options without forcing you to report.
+8. **Consider a Sexual Assault Referral Centre if it fits your situation.** A SARC can offer medical, practical, and emotional support, especially if anything physical happened, you feel at risk, or you want to ask about options without committing to police involvement.
+9. **Pick the right support route for where you are.**
+   - England and Wales, age 16+: Rape Crisis England & Wales has a free, confidential 24/7 phone and online chat support line.
+   - Scotland: Rape Crisis Scotland has a helpline daily, 5pm to midnight.
+   - Northern Ireland: the Domestic and Sexual Abuse Helpline is available 24 hours a day, 365 days a year.
+10. **Use emergency or police routes only as needed.** If you are in danger right now, call 999. If it is not an emergency but you want police advice or to report, call 101.
+11. **If this is linked to an organisation, use a safer reporting route if there is one.** For work, volunteering, college, university, an app, or a community group, contact HR, a manager, a safeguarding lead, student support, moderators, or another route that does not put you back with the person. Ask for a different contact if the person is senior or involved.
 
 ## What can wait
-- You do **not** need to decide right now whether to report to the police or make a formal complaint.
-- You do **not** need to confront them in person, “prove” anything, or persuade anyone to take it seriously today.
-- You can decide later what contact to keep (if any) and what outcome you want — your job now is safety and stability.
+- You do not need to decide today whether to report to the police.
+- You do not need to make a formal complaint, write a full statement, or prove everything now.
+- You do not need to confront them, educate them, or persuade them to understand.
+- You can decide later what contact to keep, what outcome you want, and whether to get legal, workplace, university, or specialist advocacy help.
 
 ## Important reassurance
-This kind of “help for sexual access” pressure is not normal and not your fault. Many people freeze, fawn, laugh it off, or go along in small ways to stay safe — those are common stress responses, not consent.
+Pressure that turns help, rides, introductions, work, or access into sexual access is not your fault. Freezing, laughing it off, replying politely, or trying to keep the peace can be stress responses; they do not mean you agreed freely.
 
 ## Scope note
-This is first steps only: creating safety, reducing leverage, and getting support. Later decisions (work complaints, police reports, protective steps) can be taken with specialist help and at your pace.
+These are first steps only: create safety, reduce their leverage, keep options open, and reach support. Later decisions about complaints, reporting, work, study, housing, immigration, or protective steps may need specialist help.
 
 ## Important note
-This is general information, not legal advice. If you are in immediate danger, call 999. If you want confidential, specialist support, you can contact a sexual violence support service even if you’re unsure what to call what happened.
+This is general information, not legal, medical, therapeutic, safeguarding, workplace, immigration, or other professional advice. If you are in immediate danger, call 999.
 
 ## Additional Resources
 - https://www.gov.uk/contact-police
 - https://www.nhs.uk/live-well/sexual-health/help-after-rape-and-sexual-assault/
 - https://rapecrisis.org.uk/get-help/want-to-talk/
-- https://www.rapecrisisscotland.org.uk/contact-support/
-- https://nexusni.org/
 - https://247sexualabusesupport.org.uk/
-- https://www.police.uk/pu/contact-us/
+- https://www.rapecrisisscotland.org.uk/contact-support/
+- https://www.nidirect.gov.uk/articles/domestic-and-sexual-abuse-helpline

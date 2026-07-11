@@ -1,86 +1,105 @@
-﻿---
-title: "What to do if… you receive a request for money “for funeral costs” from someone you do not fully trust"
+---
+title: "What to do if… you receive a request for money for funeral costs from someone you do not fully trust"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
-  - funeral costs request
-  - asked for funeral money
-  - someone wants funeral payment
-  - bereavement money request
-  - funeral donation message
-  - funeral fundraiser scam
-  - suspicious funeral gofundme
-  - grieving family payment pressure
-  - stranger says funeral expenses
-  - acquaintance funeral money ask
-  - urgent funeral payment request
-  - pay now funeral costs
-  - funeral home fee request
-  - cashapp style funeral request
-  - bank transfer for funeral costs
-  - “for funeral costs” text
-  - funeral costs whatsapp message
-  - funeral costs facebook message
-last_reviewed: "2026-03-02"
+  - "funeral costs request"
+  - "asked for funeral money"
+  - "funeral payment request"
+  - "funeral donation request"
+  - "bereavement money request"
+  - "funeral fundraiser request"
+  - "suspicious funeral costs"
+  - "unexpected funeral expense request"
+  - "funeral money pressure"
+  - "possible funeral scam"
+  - "what do i do if funeral costs request"
+  - "what do i do if asked for funeral money"
+  - "what do i do if funeral fundraiser seems suspicious"
+  - "what do i do if funeral payment feels wrong"
+  - "help i got a funeral costs message"
+  - "help i am being asked for funeral money"
+  - "help i feel pressured to pay funeral costs"
+  - "help i sent funeral money"
+  - "my relative asked for funeral money"
+  - "my friend wants funeral costs"
+  - "urgent funeral money request"
+  - "funeral payment link"
+  - "funeral bank transfer request"
+  - "funeral invoice screenshot"
+  - "funeral director payment request"
+  - "unknown funeral fundraiser organiser"
+  - "fake funeral costs"
+  - "funeral scam message"
+  - "bereavement scam"
+  - "fundraiser scam"
+  - "memorial fundraiser scam"
+  - "funral costs request"
+  - "funeral cost request"
+  - "asked by someone untrusted"
+  - "after a death message"
+  - "funeral request on social media"
+  - "funeral request by text"
+last_reviewed: "2026-05-18"
+date_created: "2026-05-18"
 ---
 
-# What to do if… you receive a request for money “for funeral costs” from someone you do not fully trust (UK)
+# What to do if… you receive a request for money for funeral costs from someone you do not fully trust (UK)
 
 ## Short answer
-Pause and don’t send money yet. Verify the death and the funeral arrangements independently, and only contribute in a way that doesn’t rely on trusting the person asking.
+Pause and do not send money yet. Verify the death, the funeral arrangements, and the safest way to contribute independently before you pay.
 
 ## Do not do these things
-- Don’t send money “right now” because you feel pressured, guilty, or watched.
-- Don’t use irreversible payment methods (bank transfer, gift cards, crypto) to someone you don’t fully trust.
-- Don’t click payment links in messages, or log in via a link they sent you.
-- Don’t share your address, date of birth, bank details, one-time passcodes, or photos of ID.
-- Don’t argue back-and-forth with the requester — it can escalate pressure and confuse you.
-- Don’t post publicly asking “is this real?” with identifying details about the deceased (it can attract more scammers).
+- Do not send money immediately because you feel pressured, guilty, or watched.
+- Do not use hard-to-reverse payment methods, such as bank transfer, gift cards, or crypto, for someone you do not fully trust.
+- Do not assume your bank can get the money back later.
+- Do not click payment links in messages or log in through a link the requester sent you.
+- Do not share your address, date of birth, bank details, one-time passcodes, or photos of ID.
+- Do not argue back and forth with the requester; it can increase pressure and make it harder to think clearly.
+- Do not post publicly asking whether it is real with identifying details about the deceased.
 
 ## What to do now
-1. **Create a “pause buffer” message.**  
-   Send something simple: *“I’m sorry — I can’t send money immediately. I’ll come back to you once I’ve checked the details.”* Then stop engaging for a moment.
+1. **Create a pause buffer.**  
+   Send a short message such as: *“I’m sorry. I can’t send money immediately. I’ll come back to you once I’ve checked the details.”* Then stop engaging for a moment.
 
-2. **Ask for specific, checkable details (in writing).**  
-   Request: the deceased’s full name, the funeral director’s name, the funeral home phone number, the funeral date/location (if known), and **a written breakdown/invoice** (even a photo of the funeral home’s letter/invoice).  
-   If they refuse details, get angry, or keep pushing urgency, treat that as a serious red flag.
+2. **Ask for specific, checkable details in writing.**  
+   Ask for the deceased person’s full name, the funeral director’s name, the funeral home phone number, the funeral date and location if known, and a written breakdown or invoice. If they refuse basic details, become angry, or keep pushing urgency, treat that as a reason not to pay yet.
 
-3. **Verify independently — don’t use the contact details they give you.**  
-   Look up the funeral director/funeral home yourself and call the main number you find independently. Ask whether they can confirm arrangements for that name (they may be limited by privacy, but they can often confirm whether they are involved and what legitimate payment options exist).
+3. **Verify the funeral arrangements independently.**  
+   Do not use phone numbers, payment links, or bank details from the message. Search for the funeral director yourself, call the main number you find independently, and ask what they are able to confirm and what safe payment options they accept.
 
-4. **If you want to help, pay the funeral provider directly (or choose a safer alternative).**  
-   Options that reduce risk:
-   - Offer to pay **directly to the funeral director** using their official payment method and reference number.  
-   - Offer a non-cash help that can’t be redirected (e.g., ordering flowers from a known florist, sending a condolence card, or donating to a named charity via the charity’s official site).  
-   - If there’s a fundraiser, only give via a reputable platform **after** you’ve verified the organiser and the story (and still prefer card payments with clearer dispute paths).
+4. **If you want to help, choose a payment route that does not rely on trusting the requester.**  
+   Safer options include paying the funeral director directly using their official payment method and reference number, ordering flowers from a known florist yourself, sending a condolence card, or donating to a named charity through the charity’s official website.
 
-5. **Report suspicious messages/links (if relevant).**  
-   If the request arrived by email, forward suspicious emails to **report@phishing.gov.uk**. If it arrived by text message, you can forward the message to **7726** (free) to report it to your mobile provider.
+5. **Be careful with fundraisers.**  
+   If there is a fundraiser, open the platform directly rather than through the message link. Check the organiser, the story, the named beneficiary, comments, updates, and whether the details match what you have independently verified.
 
-6. **If you already paid (even a small amount), contact your bank immediately.**  
-   Tell them you think it may be a scam and ask what they can do to stop or recover the payment. Keep a note of when you paid, how, and to whom.
+6. **Report suspicious messages or links.**  
+   If the request arrived by email, forward the email to report@phishing.gov.uk. If it arrived by text message, forward the message to 7726; this is free and reports it to your mobile provider.
 
-7. **Save evidence without “building a case.”**  
-   Screenshot messages, payment requests, names/usernames, and any links (don’t click them again). This helps your bank and any report you make.
+7. **If you already paid, contact your bank immediately.**  
+   Tell the bank you think the payment may be part of a scam. Ask whether the payment can be stopped, whether the account can be protected, and what information they need from you.
 
-8. **Report it if you believe it’s suspicious or you’ve lost money.**  
-   - **England, Wales, Northern Ireland:** report fraud/cybercrime to **Report Fraud** (the national reporting service for these nations).  
-   - **Scotland:** report fraud to **Police Scotland** (101 or their online reporting). You can also seek consumer scam help via **Advice Direct Scotland/Trading Standards** routes.  
-   If you feel threatened or in immediate danger, call **999**.
+8. **Save simple evidence.**  
+   Keep screenshots of messages, usernames, payment requests, bank details, links, fundraiser pages, and any names used. Do not click suspicious links again.
+
+9. **Report it through the right UK route.**  
+   In England, Wales, or Northern Ireland, report fraud or cyber crime to Report Fraud. In Scotland, report to Police Scotland using 101 for non-emergencies or the official online contact route. If you feel threatened or in immediate danger, call 999.
 
 ## What can wait
-- You don’t need to decide today whether this person is “lying” or whether you’ll confront them.
-- You don’t need to make a public statement, warn everyone online, or explain yourself to the requester.
-- You don’t need to choose the “perfect” way to help right now — verifying first is the helpful move.
+- You do not need to decide today whether the person is lying.
+- You do not need to confront them, prove anything, or make a public statement.
+- You do not need to choose the perfect way to help right now.
+- You can still contribute later after you have checked the details and chosen a safer route.
 
 ## Important reassurance
-Requests like this can be emotionally overwhelming, especially around death and grief — that’s exactly why scammers use them. Taking a pause and checking details is not “cold”; it’s protecting you from a costly mistake while you’re vulnerable.
+A request linked to death or grief can feel urgent and emotionally heavy. Taking time to check is not cold; it protects you from a rushed payment while still leaving room to help if the request is genuine.
 
 ## Scope note
-These are first steps to prevent an irreversible money loss and reduce pressure. If the request is genuine, you can still contribute after you’ve verified and chosen a safer payment route.
+These are first steps to reduce pressure and prevent an irreversible money loss. Later decisions, including disputes, harassment, recovery attempts, or family conflict, may need specialist help.
 
 ## Important note
-This is general information, not legal or financial advice. If you feel unsafe or harassed, stop contact and seek help from your bank and the relevant UK reporting routes.
+This is general information, not legal, financial, therapeutic, or professional advice. If you feel unsafe, threatened, or harassed, stop contact and use your bank, police, and official reporting routes.
 
 ## Additional Resources
 - https://www.reportfraud.police.uk/
@@ -88,4 +107,4 @@ This is general information, not legal or financial advice. If you feel unsafe o
 - https://www.gov.uk/report-suspicious-emails-websites-phishing
 - https://www.ncsc.gov.uk/collection/phishing-scams/report-scam-email
 - https://www.scotland.police.uk/advice/scams-and-frauds/
-- https://www.fca.org.uk/consumers/report-scam
+- https://www.scotland.police.uk/contact-us/

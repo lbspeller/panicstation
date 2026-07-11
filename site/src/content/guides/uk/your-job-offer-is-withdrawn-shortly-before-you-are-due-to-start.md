@@ -1,84 +1,106 @@
-﻿---
+---
 title: "What to do if… your job offer is withdrawn shortly before you are due to start"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
-  - job offer withdrawn
-  - offer withdrawn before start
-  - offer rescinded last minute
-  - new job start cancelled
-  - job offer pulled
-  - job offer revoked
-  - start date next week
-  - due to start soon
-  - signed offer letter
-  - accepted job offer
-  - conditional job offer
-  - unconditional job offer
-  - offer withdrawn after resignation
-  - quit old job already
-  - relocation booked for job
-  - right to work check issue
-  - dbs check delayed
-  - reference issue offer
-  - notice period question
-  - offer withdrawn discrimination
-last_reviewed: "2026-01-07"
+  - "job offer withdrawn"
+  - "offer withdrawn before start"
+  - "job offer rescinded"
+  - "offer rescinded last minute"
+  - "job offer pulled"
+  - "job offer revoked"
+  - "new job start cancelled"
+  - "start date cancelled"
+  - "job withdrawn after acceptance"
+  - "job offer withdrawn soon"
+  - "what do i do if my job offer is withdrawn"
+  - "what do i do if my offer is rescinded"
+  - "what do i do if my start date is cancelled"
+  - "what do i do if my new job falls through"
+  - "help i lost my job offer"
+  - "help i already resigned"
+  - "help i signed a job offer"
+  - "help i was due to start"
+  - "my job offer was pulled"
+  - "my new employer changed their mind"
+  - "signed offer letter withdrawn"
+  - "accepted job offer withdrawn"
+  - "unconditional job offer withdrawn"
+  - "conditional job offer withdrawn"
+  - "offer withdrawn after resignation"
+  - "quit old job already"
+  - "relocation booked for job"
+  - "right to work check issue"
+  - "dbs check delayed"
+  - "reference issue offer"
+  - "notice period confusion"
+  - "breach of contract confusion"
+  - "job offa withdrawn"
+  - "resinded job offer"
+last_reviewed: "2026-05-26"
+date_created: "2026-05-26"
 ---
 
 # What to do if… your job offer is withdrawn shortly before you are due to start (UK)
 
 ## Short answer
-Stop any irreversible moves, get the withdrawal confirmed in writing, and check whether you had an unconditional offer (or a conditional offer where you’d already met the conditions). If so, you may be entitled to notice pay or other compensation—so get quick UK-specific advice before you agree to anything.
+Pause any irreversible spending or resignation steps, get the withdrawal confirmed in writing, and check whether the offer was unconditional or whether you had already met all conditions. If a contract may already have been formed, there may be a notice pay or breach of contract issue, so get prompt UK-specific advice before agreeing to anything final.
 
 ## Do not do these things
-- Do not assume you have “no rights” just because you have not started yet.
-- Do not accept a phone-only explanation—ask for written confirmation of what’s been decided.
-- Do not sign anything labelled “settlement”, “compromise”, “waiver”, or “full and final” while you’re still in shock or without advice.
-- Do not delete emails/texts, throw away letters, or lose access to recruitment portals—save copies now.
-- Do not post about it publicly or name the employer online while facts (and your options) are still unclear.
-- If you have not resigned from your current job yet, do not hand in notice until you have clarity that your offer is unconditional.
+- Do not assume you have no options just because you have not started work yet.
+- Do not rely on a phone-only explanation; ask for written confirmation.
+- Do not sign anything labelled “settlement”, “compromise”, “waiver”, or “full and final” while you are still in shock or without advice.
+- Do not delete emails, texts, letters, portal messages, offer documents, or check results.
+- Do not post about it publicly or name the employer online while the facts and your options are still unclear.
+- If you have not resigned from your current job yet, do not hand in notice until you have clarity on whether the offer is unconditional and still going ahead.
 
 ## What to do now
-1. **Give yourself a short buffer (10–20 minutes).** Decide: “No big decisions until I have this in writing and I’ve checked the offer terms.”
-2. **Get the withdrawal confirmed in writing today.** Ask HR/recruitment to confirm by email:
-   - the offer is withdrawn (and the date they decided)
-   - whether it was **conditional or unconditional**
-   - which condition(s) they say were not met (if any)
-   - the notice period they believe applies (if the contract had started)  
-   They may not have to give a reason, but it’s still reasonable to ask.
-3. **Save your “contract pack” and make a timeline.** Keep: offer letter, your acceptance, contract/terms, start date, pay, notice clause, and any conditions (references, right to work, DBS, qualifications). Write key dates: offered / accepted / conditions met / withdrawn / you resigned (if you did).
-4. **Work out whether the employment contract had started.**
-   - If you accepted an **unconditional** offer, it can mean you were already in a binding contract (even if acceptance was verbal).
-   - If your offer was **conditional** and you **had met the conditions before they withdrew it**, it can also mean the contract had started.
-   - If you had **not** met the conditions, they can usually withdraw without paying you (unless discrimination is involved).  
-   If the offer/acceptance was verbal, the law treats it similarly, but it can be harder to prove the exact terms—so writing matters.
-5. **Ask for a practical remedy in the same message.** Keep it calm and specific:
-   - “Can you reinstate the offer or delay the start date while we resolve this?”
-   - “If you’re ending the contract, can you confirm the notice pay/payment in lieu you will provide and when it will be paid?”
-6. **If you already resigned from your current job, act immediately.** Contact your current/previous employer the same day and ask whether your resignation can be withdrawn or your leaving date moved. There’s no guarantee, but moving fast helps.
-7. **If the withdrawal might relate to a check (right to work/DBS/references), ask what exactly is missing and whether you can fix it quickly.** For example, ask for:
-   - what document they need for right to work
-   - whether a DBS application is pending vs failed, and what the next step is
-   - whether a reference was “not received” vs “unsatisfactory”
-8. **If you suspect discrimination, write down what happened while it’s fresh.** Note exact words, dates, and who said what—especially if the change happened after you disclosed pregnancy, disability/health needs, religion, etc.
-9. **Protect tribunal deadlines now (even if you’re unsure).** Many employment tribunal claims have a strict time limit of **3 months minus 1 day** from the problem happening. If you may claim discrimination (or another tribunal claim), **notify Acas for Early Conciliation as soon as possible** so you don’t lose the option.
-10. **Stabilise money for the next 2–4 weeks only.** Pause job-related spending (relocation, travel, deposits) while refund windows are open. List essential bills and any penalties you may face because you relied on the offer.
+1. **Make a short pause.** Decide: “No big decisions until I have this in writing and have checked the offer terms.”
+
+2. **Ask for written confirmation today.** Email HR or recruitment and ask them to confirm:
+   - that the offer has been withdrawn
+   - the date the decision was made
+   - whether they say the offer was conditional or unconditional
+   - which condition they say was not met, if any
+   - what notice or payment they believe applies
+
+3. **Save the full contract pack.** Keep copies of the offer letter, acceptance, contract or written terms, start date, pay, notice clause, conditions, references, right to work messages, DBS messages, qualification checks, and any recruitment portal messages.
+
+4. **Make a simple timeline.** Write down the dates of the offer, your acceptance, any conditions you completed, the withdrawal, any resignation you gave, and any costs you incurred because you relied on the offer.
+
+5. **Check whether a contract may already have been formed.**
+   - An accepted unconditional offer can mean there is already a binding employment contract, even if you have not started work.
+   - A conditional offer may also create a contract if you accepted it and had met all the stated conditions before it was withdrawn.
+   - If the offer was conditional and you had not met the conditions, the employer can usually withdraw it, unless discrimination or another unlawful reason may be involved.
+   - A verbal offer can count, but it may be harder to prove the exact terms without written evidence.
+
+6. **Ask for a practical fix before arguing.** Keep the message calm and specific. For example: “Can the offer be reinstated, or can the start date be delayed while we resolve the check?” If they say the contract is ending, ask them to confirm any notice pay or payment in lieu and when it will be paid.
+
+7. **If you already resigned, contact your current or previous employer the same day.** Ask whether your resignation can be withdrawn, your leaving date moved, or any temporary arrangement agreed. There is no guarantee, but acting quickly gives you the best chance.
+
+8. **If the problem is a check, ask exactly what is missing.** Ask whether the issue is an outstanding document, an unresolved right to work check, a pending DBS check, a reference not received, an unsatisfactory reference, or a qualification check. Ask whether you can provide anything today to resolve it.
+
+9. **If discrimination may be involved, write down the facts now.** Note exact words, dates, names, and what changed, especially if the withdrawal happened after pregnancy, disability, health needs, religion or belief, race, sex, sexual orientation, age, gender reassignment, or marriage and civil partnership became known.
+
+10. **Protect time limits without deciding the whole case today.** In most employment tribunal claims, the time limit is short and is often described as 3 months minus 1 day from the problem happening. If you may have a tribunal claim, contact Acas Early Conciliation promptly so you do not lose the option.
+
+11. **Stabilise money for the next few weeks only.** Pause job-related spending, relocation bookings, travel, deposits, or equipment purchases while refund windows are still open. List essential bills and any immediate penalties caused by relying on the offer.
 
 ## What can wait
-- You do not need to decide today whether you will sue or go to a tribunal.
-- You do not need to write a long, emotional email—short, factual messages are safer right now.
-- You do not need to update LinkedIn, explain it publicly, or warn others online.
-- You do not need to accept a “final” position until you’ve checked whether the contract had started and what notice/compensation may be due.
+- You do not need to decide today whether to sue, make a tribunal claim, or take formal legal action.
+- You do not need to write a long emotional email; short factual messages are safer now.
+- You do not need to update LinkedIn, explain the situation publicly, or warn others online.
+- You do not need to accept a final position until you have checked whether a contract may already exist and whether notice, payment, or another remedy may be available.
+- You do not need to solve your long-term job search today; focus first on documents, deadlines, current-employer contact, and urgent costs.
 
 ## Important reassurance
-This is a genuinely destabilising last-minute change. Feeling panicky or embarrassed is normal. Getting everything in writing and slowing down your next moves is how you protect yourself and avoid irreversible mistakes.
+This is a destabilising last-minute change, and panic or embarrassment is a normal reaction. Slowing the situation down, getting the decision in writing, and preserving evidence are practical ways to protect yourself while you work out the next step.
 
 ## Scope note
-First steps only: this guide focuses on immediate damage-limitation and preserving options. Employment law and processes differ in Northern Ireland, so if you’re in NI, get NI-specific advice alongside these steps.
+These are first steps only. Later decisions may need specialist employment advice, especially if there may be breach of contract, discrimination, relocation losses, immigration or right to work issues, or Northern Ireland-specific employment process questions.
 
 ## Important note
-This is general information, not legal advice. Time limits can be strict, and outcomes depend on your documents, whether conditions were met, and whether discrimination may be involved. Get prompt advice before signing anything that waives rights.
+This is general information, not legal, medical, financial, therapeutic, or other professional advice. Time limits can be strict, and outcomes depend on your documents, whether conditions were met, what the employer says happened, and whether discrimination may be involved.
 
 ## Additional Resources
 - https://www.gov.uk/job-offers-your-rights

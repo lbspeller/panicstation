@@ -1,95 +1,115 @@
-﻿---
+---
 title: "What to do if… you receive an official notice that your benefits may be stopped due to an investigation"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
-  - benefits investigation letter
-  - dwp investigation notice
-  - benefits may be stopped
-  - benefit suspension notice
-  - benefit stopped due to investigation
-  - universal credit investigation
-  - legacy benefits investigation
-  - compliance interview letter
-  - dwp fraud investigation
-  - under investigation for benefits
-  - decision letter benefits stopped
-  - mandatory reconsideration deadline
-  - appeal benefits decision uk
-  - asked for information for benefits
-  - benefits payment stopped unexpectedly
-  - benefits reduced or terminated
-  - worried about benefit fraud accusation
-  - benefits review and suspension
-last_reviewed: "2026-03-06"
+  - "benefits investigation letter"
+  - "benefits may be stopped"
+  - "benefit suspension notice"
+  - "benefit stopped investigation"
+  - "benefits under investigation"
+  - "official benefits notice"
+  - "benefit fraud letter"
+  - "universal credit investigation"
+  - "legacy benefits investigation"
+  - "compliance interview letter"
+  - "what do i do if benefits stop"
+  - "what do i do if benefits investigated"
+  - "what do i do if benefit letter arrives"
+  - "what do i do if benefits letter confusing"
+  - "help i got a benefits investigation"
+  - "help i may lose benefits"
+  - "help i got a fraud letter"
+  - "my benefits may stop"
+  - "my universal credit is investigated"
+  - "my benefit payment stopped"
+  - "panicking about benefits letter"
+  - "scared benefits will stop"
+  - "confused by benefit notice"
+  - "deadline on benefits letter"
+  - "asked for benefit evidence"
+  - "interview under caution letter"
+  - "benefits compliance meeting"
+  - "benefit review or fraud"
+  - "benefits check or investigation"
+  - "benefits overpayment confusion"
+  - "benifits investigation letter"
+  - "benifit fraud letter"
+last_reviewed: "2026-05-19"
+date_created: "2026-05-19"
 ---
 
 # What to do if… you receive an official notice that your benefits may be stopped due to an investigation (UK)
 
 ## Short answer
-Pause and protect your timeline: **read the notice for the exact deadline and respond in writing immediately**, even if you don’t yet have all the evidence. If it’s a decision letter, **start the challenge process right away**.
+Read the notice for the exact deadline, the benefit named, and the route it tells you to use. Reply through that route as soon as you can, keep a copy or screenshot, and get welfare benefits advice quickly if the notice mentions fraud, an interview under caution, an overpayment, or a decision to stop or reduce payment.
 
 ## Do not do these things
-- Don’t ignore the letter because it feels accusatory or confusing — missing a deadline can make things much harder.
-- Don’t guess or “fill in gaps” to make the story sound better. If you don’t know, say you don’t know.
-- Don’t hand over original documents unless you’re told originals are required and you can get a receipt; use copies where possible.
-- Don’t rely on a phone call alone. If you call, follow up with a written message/letter summarising what was agreed.
-- Don’t post details on social media or ask strangers to “check your story” — it can backfire and adds stress.
+- Don’t ignore the notice because it feels accusatory or confusing.
+- Don’t guess, exaggerate, or fill in gaps to make the answer sound better; if you do not know, say you do not know.
+- Don’t send original documents unless the notice specifically asks for originals and you can keep proof of what you gave.
+- Don’t rely on a phone call alone; write down the date, time, number called, name if given, and what was said.
+- Don’t post details online or ask strangers to check your story.
+- Don’t attend an interview under caution without first trying to get advice from a welfare rights adviser, legal adviser, or solicitor.
 
 ## What to do now
-1. **Make the letter usable in 10 minutes**
-   - Write on a sheet (or phone note): the **date on the letter**, **the deadline**, **what benefit**, and **what they say may happen** (stop/suspend/reduce).
-   - Keep the envelope if you have it. Take clear photos/scans of every page.
+1. Make the notice usable before you respond.
+   - Write down the date on the notice, the date you received it, the deadline, the benefit named, and what they say may happen.
+   - Keep the envelope if you have it.
+   - Take clear photos or scans of every page, including any reply form.
 
-2. **Work out what type of notice this is (this changes your next move)**
-   - If it says a **decision has been made** (stopping/reducing/suspending), treat it as a **decision letter**.
-   - If it says they **need information** or you’re invited to a **compliance interview**, treat it as an **information request/investigation step**.
-   - If it says **“interview under caution”** (or similar), treat it as more serious: **get advice urgently before attending**, and plan not to go alone.
+2. Work out what the notice is asking you to do.
+   - If it asks for information or evidence, treat it as an information request and answer only the points it asks about.
+   - If it says a payment has been suspended, stopped, reduced, or that an overpayment is owed, look for the reasons, the decision date, and any challenge wording.
+   - If it says “interview under caution” or suggests suspected fraud, treat it as serious and get advice before attending.
 
-3. **Respond in writing today: a short, safe “holding response”**
-   - Use your Universal Credit journal (if on UC) or send a letter/email (if not) saying:
-     - you’ve received the notice,
-     - you want to **cooperate**,
-     - you’re asking for the **reasons** they say your benefit may stop and **exactly what information/evidence** they need from you,
-     - you will provide documents by a stated date (soon), or you’re requesting a short extension if needed.
-   - This reduces the risk of “non-response” being used against you.
+3. Send a short holding reply using the route in the notice.
+   - Use your Universal Credit journal if the notice tells you to use it, or the contact details on the notice if it gives another route.
+   - Say you have received the notice, you want to cooperate, and you are asking what information or evidence is needed.
+   - If you need more time to get documents, ask for more time and say when you expect to send them.
+   - Keep a screenshot, copy, certificate of posting, or note of what you sent and when.
 
-4. **If it’s a decision letter: start a Mandatory Reconsideration immediately**
-   - Ask for a **Mandatory Reconsideration (MR)** as soon as you can — it’s **usually expected within 1 month of the decision date** (you can still ask later in some situations, but it’s harder).
-   - If you’re near the deadline, send a short MR first (“I disagree and request MR; I will send evidence”), then add detail/evidence afterwards.
-   - In your MR request: list what you disagree with, what you believe is correct, and what proof you will send.
+4. If the notice is a decision letter, ask about Mandatory Reconsideration promptly.
+   - If you disagree with a benefits decision, you can usually ask for Mandatory Reconsideration.
+   - This is usually expected within one month of the decision date, unless the letter says a different route or timing applies.
+   - If time is short, send a simple request saying you disagree with the decision and want Mandatory Reconsideration, then send evidence as soon as possible.
+   - Include the decision date, benefit name, your National Insurance number if requested, what you disagree with, and what you believe is correct.
 
-5. **If they want an interview or meeting: make it safer**
-   - Ask (in writing) what the interview is about and what documents they want.
-   - If you can, **take someone with you** (supporter/advocate). If you need an accessible format, interpreter, or a different time, request it promptly.
-   - If you don’t understand a question, it’s OK to say you need it rephrased or you need to check records before answering.
+5. If an interview or meeting is requested, make it safer.
+   - Ask what the meeting is about and what documents they want you to bring or upload.
+   - If it is an ordinary compliance meeting, ask whether you can bring a supporter if that would help you stay calm and understand the questions.
+   - If it is an interview under caution, ask a welfare rights adviser, legal adviser, or solicitor what to do before you attend.
+   - If you cannot get advice before an interview under caution, ask the contact on the letter whether the interview can be rearranged so you can get advice first.
 
-6. **Gather only the most relevant proof (don’t overwhelm yourself)**
-   - Focus on anything that directly answers the issue raised (common examples: identity/residency, household composition, rent/tenancy, earnings/self-employment records, childcare, health/caring responsibilities).
-   - Send copies, keep a list of what you sent and when.
+6. Gather only evidence that answers the issue raised.
+   - Use the notice to guide you: identity, address, rent, household members, earnings, self-employment, childcare, health, caring responsibilities, or changes in circumstances.
+   - Send clear copies or uploads, not a large bundle of unrelated papers.
+   - Keep a list of each document, how you sent it, and the date sent.
 
-7. **Get benefits specialist help fast (this is worth doing early)**
-   - Contact **Citizens Advice** or a local welfare rights service and tell them the deadline and that an investigation is mentioned.
-   - If the letter refers to suspected fraud (for example an interview under caution), ask Citizens Advice about getting **appropriate legal support**.
+7. Get local welfare benefits help quickly.
+   - Search for a local welfare rights adviser, advice centre, law centre, or benefits adviser.
+   - Tell them the deadline, the benefit involved, whether payment has already stopped, and whether the notice mentions fraud or an interview under caution.
+   - If you have no money for essentials because payment has stopped, tell the adviser this at the start and ask what urgent help may be available.
 
 ## What can wait
-- You do **not** need to write a perfect, detailed explanation today — you need to **protect the deadline** and put everything in writing.
-- You do **not** need to decide today whether to make a complaint about how you were treated (that can come later).
-- You do **not** need to “prove everything at once” — focus on the specific point they’re investigating.
+- You do not need to write a perfect full explanation today.
+- You do not need to decide today whether to complain about how the notice was handled.
+- You do not need to prove every part of your life at once; focus on the exact point raised in the notice.
+- You do not need to decide the whole appeal strategy before protecting the immediate deadline.
 
 ## Important reassurance
-It’s normal to feel accused or panicky when an official letter mentions an investigation. Many of these cases come down to missing information, misunderstandings, or administrative checks. The safest first move is to **stay inside the process, meet deadlines, and keep everything in writing**.
+A notice about checks, missing information, suspension, or investigation can feel frightening. Some notices are about confirming facts or documents, not a final finding that you have done something wrong. The safest first move is to stay inside the process, answer accurately, keep proof, and get advice if the wording is serious or unclear.
 
 ## Scope note
-These are first steps to stabilise the situation, prevent avoidable loss of income, and buy time. If the notice suggests alleged fraud, a large overpayment, or you feel out of your depth, a welfare rights adviser can help you choose what to say and how to respond.
+These are first steps only. Later decisions about Mandatory Reconsideration, appeal, overpayment, interview under caution, hardship help, or legal representation may need specialist welfare rights or legal help.
 
 ## Important note
-This is general information, not legal advice. Benefits rules and deadlines depend on the benefit type and the exact wording of the notice. If you’re not sure what the letter means, act as if the earliest deadline applies and get independent advice quickly.
+This is general information, not legal, financial, welfare rights, therapeutic, or professional advice. Benefits rules and deadlines depend on the benefit, the decision-maker, where you live in the UK, and the exact wording of the notice.
 
 ## Additional Resources
+- https://www.gov.uk/benefit-fraud
 - https://www.gov.uk/mandatory-reconsideration
 - https://www.gov.uk/mandatory-reconsideration/before-you-start
 - https://assets.publishing.service.gov.uk/media/696f75507e827090d02d422b/crmr1.pdf
-- https://www.citizensadvice.org.uk/benefits/benefits-introduction/problems-with-benefits-and-tax-credits/you-think-youre-being-accused-of-benefit-fraud/
-- https://www.citizensadvice.org.uk/benefits/benefits-introduction/problems-with-benefits-and-tax-credits/if-youve-been-invited-to-an-interview-under-caution-for-benefit-fraud/
-- https://www.gov.uk/benefit-fraud
+- https://www.gov.uk/appeal-benefit-decision
+- https://advicelocal.uk/

@@ -1,75 +1,103 @@
-﻿---
+---
 title: "What to do if… you are asked to provide a DNA sample to help identify a person who died"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
-  - asked for dna sample
-  - family reference dna sample
-  - dna swab for identification
-  - cheek swab request
-  - identify deceased person
-  - unidentified remains identification
-  - medical examiner identification
-  - coroner identification request
-  - law enforcement dna request
-  - missing person identification
-  - disaster victim identification
-  - namus dna support
-  - codis relatives index
-  - dna sample consent questions
-  - dna privacy concern
-  - what happens to my dna
-  - verifying official request
-  - next of kin identification
-  - overwhelmed after death call
-last_reviewed: "2026-03-03"
+  - "asked to provide dna sample"
+  - "dna sample after death"
+  - "family dna identification request"
+  - "dna sample for deceased identification"
+  - "dna swab for identification"
+  - "cheek swab for deceased identification"
+  - "unidentified remains dna request"
+  - "family reference dna sample"
+  - "medical examiner dna request"
+  - "coroner dna sample request"
+  - "police dna identification request"
+  - "missing person dna identification"
+  - "what do i do if asked for dna"
+  - "what do i do if family dna requested"
+  - "what do i do if coroner wants dna"
+  - "what do i do if police ask for dna"
+  - "help i was asked for dna"
+  - "help i got a dna swab request"
+  - "my dna was requested after a death"
+  - "my family dna sample was requested"
+  - "worried about dna privacy"
+  - "unsure who requested my dna"
+  - "confused about cheek swab request"
+  - "overwhelmed by identification request"
+  - "not sure dna request is real"
+  - "scared to give dna sample"
+  - "dna sample consent questions"
+  - "dna retention after identification"
+  - "family reference sample confusion"
+  - "consumer dna kit confusion"
+  - "unidentified person dna match"
+  - "deceased person identification dna"
+  - "dna request after missing person case"
+  - "dna sample request during grief"
+last_reviewed: "2026-06-08"
+date_created: "2026-06-08"
 ---
 
 # What to do if… you are asked to provide a DNA sample to help identify a person who died (USA)
 
 ## Short answer
-Verify the request is truly from the investigating agency or the medical examiner/coroner, then only provide a DNA sample through an official, documented process with clear consent and a named point of contact.
+Pause before agreeing. Independently verify the investigating office, then ask what identification purpose the DNA sample will serve, who will collect it, and what consent form or written instructions apply.
 
 ## Do not do these things
-- Don’t give a DNA sample to anyone who cannot prove they’re from an official agency (or who pressures you to act immediately).
-- Don’t share high-risk identifiers (for example, Social Security number, banking details, or full ID photos) unless the **verified** agency explains why it’s needed and how it will be protected.
-- Don’t assume a “mail me a swab kit” request is legitimate unless it’s through a verified agency program with clear paperwork and a traceable return method.
-- Don’t use a consumer DNA test kit as a substitute unless the official contact explicitly tells you to (it’s usually not the same process).
-- Don’t let fear of “doing it wrong” push you into rushing—asking questions is normal.
+- Don’t send a swab, consumer DNA kit, identity document, Social Security number, or banking information to an unverified contact.
+- Don’t call back using only a number supplied by the caller. Find the office’s publicly listed main number and verify the request through that route.
+- Don’t self-collect or mail a DNA sample merely because someone asks you to. If NamUs family reference sampling is involved, the NamUs process does not allow a family member to collect or submit their own sample.
+- Don’t substitute a consumer DNA test kit for the requested process unless the verified office clearly explains that it is a separate process.
+- Don’t assume every identification request uses the same database, consent form, or retention rule.
+- Don’t sign a form before you have had a chance to read it and ask questions.
 
 ## What to do now
-1. **Get the basics in writing (even if it’s just your notes).** Record the caller’s name, agency/office, badge/employee ID if offered, callback number, and case/reference number.
-2. **Verify through a trusted channel before agreeing.**
-   - **If they say law enforcement:** call the agency’s main publicly listed number and ask to be transferred to that person/unit using the case/reference number.
-   - **If they say medical examiner/coroner:** call the ME/coroner office using publicly listed contact info and ask to confirm the request and who is coordinating it.
-3. **Ask the core consent questions before any sample is taken (and take notes).**
-   - “Is this a **family reference sample** solely to identify the deceased/unidentified remains?”
-   - “What exactly will you collect (often a cheek swab), and where/how will it be collected?”
-   - “Where may the profile/sample be stored, who can access it, and what happens after identification?”
-   - “If I later want it removed, is that possible, and what is the process (for example, a written request)?”
-4. **Ask whether a missing/unidentified-person program is involved.** In some cases, identification work **may** be supported by national resources (for example, NamUs/CODIS family reference sampling); in others it’s handled entirely locally. Ask who is responsible for the DNA side so you know where to call back.
-5. **Use the safest collection option available.** Prefer collection at an official office (ME/coroner, police department, or a designated clinic/partner) or a documented home visit arranged by the verified agency—avoid informal meetups.
-6. **Request a copy of what you sign or agree to.** Ask for the consent form/instructions and any case paperwork you’re allowed to have, including who to contact for updates.
-7. **Set expectations for updates.** Ask: “How will you update next of kin once results are available, and what is the usual way you notify families?” (They may not be able to give a timeline, but they should be able to explain the process.)
-8. **Bring support.** If you attend in person, take someone with you to help listen, take notes, and support you emotionally.
+1. **Write down the request details.** Record the caller’s name, office or agency, callback number, case or reference number, and the name of the person they say is coordinating the identification.
+
+2. **Verify the request independently.**
+   - For a medical examiner or coroner request, find the office’s publicly listed main number and ask whether the request is genuine.
+   - For a law-enforcement request, find the agency’s publicly listed main number and ask to be transferred to the named person or unit.
+   - Use the case or reference number when asking the office to confirm the request.
+
+3. **Ask what identification question the sample will help answer.**
+   - Ask whether the sample is for comparison with unidentified remains, a missing-person case, or another identification process.
+   - Ask whether NamUs, NDIS, CODIS, a state system, or a local process is involved.
+   - Ask who is responsible for answering your questions about the DNA process.
+
+4. **Ask for the collection and consent details before deciding.**
+   - Ask what type of sample is requested.
+   - Ask who will collect it and where the collection will take place.
+   - Ask whether providing the sample is voluntary.
+   - Ask where the sample and profile may be stored, who may access them, and what happens after identification.
+   - Ask for the applicable consent form and written instructions.
+
+5. **If the verified office says NamUs family reference sampling is involved, do not self-collect the sample.** NamUs states that these samples are voluntary, must be collected through the investigating process, and are used only in the search for a missing loved one. NamUs states that family reference profiles are searched against the Unidentified Human Index, not criminal indices. For any other process, ask the verified office to explain the collection route and safeguards that apply.
+
+6. **Ask what happens to the sample and profile later.** The NamUs donor-consent form states that the sample will be destroyed and the DNA profile removed from CODIS if the missing family member is positively identified. The FBI notes that family profiles may remain after identification where only partial remains have been recovered, to assist with possible future recoveries. The FBI also states that a family-reference donor may request removal of their profile from NDIS in writing at any time. For any other process, ask the verified office to explain its policy in writing.
+
+7. **Arrange collection only through the verified office’s confirmed process.** Ask for the collector’s name, the location or arrangement, and a copy of anything you sign. Take a trusted person with you if that would help you listen and take notes.
+
+8. **Keep one reliable contact.** Ask who will update you, how updates are usually given, and who to contact if you have questions later.
 
 ## What can wait
-- You don’t need to decide today about viewing/identification choices beyond what the agency asks for right now.
-- You don’t need to make funeral, estate, or broader family decisions before you’ve had a clear identification update.
-- You don’t need to learn forensic terminology—focus on verification, consent, and having one reliable contact.
+- You don’t need to decide during the first call whether to provide the sample if you still need to verify the request or read the consent form.
+- You don’t need to resolve broader funeral, estate, or family decisions during this first conversation.
+- You don’t need to learn every forensic term or database name before asking for a clear explanation.
 
 ## Important reassurance
-This kind of request can feel deeply personal and unsettling, especially during grief. It’s often requested because it can prevent misidentification and reduce the burden on families when other identification methods aren’t possible. You’re allowed to slow things down enough to verify the request and understand what you’re consenting to.
+A DNA request can be legitimate when an identification is not straightforward. It is reasonable to pause long enough to verify the request, read the consent information, and ask what will happen to your sample.
 
 ## Scope note
-These are first steps for the immediate moment—verifying legitimacy, protecting your information, and getting through the next interactions safely. Later decisions (legal questions, longer-term data issues) may require state-specific advice.
+These are first steps for the immediate moment: verifying the request, understanding the proposed collection, and avoiding rushed decisions. Later questions about privacy, retention, or state-specific procedures may need specialist help.
 
 ## Important note
-This is general information, not legal advice. Procedures and DNA retention rules vary by state, agency, and whether the case is a routine death investigation, missing-person identification, or a mass fatality event. If you cannot get clear answers, it’s reasonable to pause and request the details and consent information in writing.
+This is general information, not legal, medical, financial, therapeutic, or other professional advice. Procedures may vary by state, agency, and type of investigation. The FBI notes that state DNA databases operate under applicable state law, so ask the verified office which rules and process apply to your situation.
 
 ## Additional Resources
 - https://namus.nij.ojp.gov/services/dna
 - https://namus.nij.ojp.gov/sites/g/files/xyckuh336/files/media/document/dna-sample-collection-form.pdf
+- https://namus.nij.ojp.gov/contact
 - https://www.fbi.gov/how-we-can-help-you/dna-fingerprint-act-of-2005-expungement-policy/codis-and-ndis-fact-sheet
-- https://le.fbi.gov/science-and-lab/biometrics-and-fingerprints/codis/federal-dna-identification-act
-- https://www.aabb.org/docs/default-source/default-document-library/about/guidelines-for-mass-fatality-dna-identification-operations.pdf?sfvrsn=af1c96a9_0

@@ -1,76 +1,90 @@
-﻿---
-title: "What to do if… your clothes dryer smells unusually hot or “burnt” and you suspect a venting problem"
+---
+title: "What to do if… your clothes dryer smells unusually hot or burnt and you suspect a venting problem"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
-  - dryer smells burnt
-  - burning smell from dryer
-  - dryer smells overheating
-  - smoke smell from dryer
-  - dryer vent clogged
-  - dryer exhaust blocked
-  - lint buildup in dryer vent
-  - dryer taking too long to dry
-  - clothes still damp after cycle
-  - outside vent flap stuck
-  - laundry room smells burning
-  - dryer gets unusually hot
-  - electric dryer burning smell
-  - gas dryer burning smell
-  - dryer duct crushed
-  - dryer duct kinked
-  - dryer airflow restricted
-  - dryer smells like burning plastic
-  - suspect dryer venting problem
-  - dryer fire warning signs
-last_reviewed: "2026-03-05"
+  - "dryer smells burnt"
+  - "burning smell from dryer"
+  - "dryer smells unusually hot"
+  - "dryer smells overheated"
+  - "dryer smells like smoke"
+  - "dryer vent seems clogged"
+  - "dryer exhaust seems blocked"
+  - "lint buildup in dryer vent"
+  - "dryer taking too long"
+  - "clothes still damp after drying"
+  - "outside dryer vent blocked"
+  - "laundry room smells burnt"
+  - "what do i do if dryer smells burnt"
+  - "what do i do if dryer overheats"
+  - "what do i do if dryer vent is clogged"
+  - "what do i do if laundry room smells burning"
+  - "help i smell burning from dryer"
+  - "help i think my dryer is overheating"
+  - "my dryer smells like burning plastic"
+  - "my dryer vent may be blocked"
+  - "dryer is hot to touch"
+  - "dryer cycle takes forever"
+  - "dryer vent flap stuck"
+  - "lint behind dryer"
+  - "smell gets worse during drying"
+  - "dryer fire warning signs"
+  - "dryer electrical smell"
+  - "gas dryer burning smell"
+  - "dryer duct kinked"
+  - "dryr smells burnt"
+  - "dryer venting problm"
+last_reviewed: "2026-06-27"
+date_created: "2026-06-27"
 ---
 
-# What to do if… your clothes dryer smells unusually hot or “burnt” and you suspect a venting problem (USA)
+# What to do if… your clothes dryer smells unusually hot or burnt and you suspect a venting problem (USA)
 
 ## Short answer
-Stop the dryer, turn it off, and unplug it (if safe). If you see smoke or flames—or the smell is strong and worsening—evacuate and call **911**.
+Stop the dryer and do not restart it. If you see smoke or flames, smell gas, or the burnt smell is strong and worsening, leave the home and call 911 from a safe place.
 
 ## Do not do these things
-- Don’t keep running the dryer “to finish the load.”
-- Don’t try to investigate if there’s **smoke/heat**—leave and call **911**.
-- Don’t open the door if you suspect smoke/heat inside; leave it closed while you power down and evacuate if needed.
-- Don’t restart the dryer after only cleaning the lint screen if the smell was unusually hot/burnt (the exhaust path may still be restricted).
-- Don’t pull the dryer away from the wall or disconnect venting while anything is hot or smoking.
-- Don’t throw water on an electrical appliance fire or attempt to fight a fire unless you’re trained and it’s clearly safe.
+- Don’t keep running the dryer to finish the load.
+- Don’t restart the dryer after only cleaning the lint screen; the duct or outside vent may still be restricted.
+- Don’t pull the dryer away from the wall, disconnect venting, or touch the back of the dryer while anything is hot, smoking, or sparking.
+- Don’t open the dryer door if you suspect smoke or active fire inside it.
+- Don’t throw water on an electrical appliance fire.
+- Don’t operate switches, plugs, appliances, phones, or gas valves inside the home if you smell rotten eggs, sulfur, or natural gas.
 
 ## What to do now
-1. **Stop and power down.** Turn the dryer off. **Unplug** it if you can do so safely.  
-   - If it’s a **gas dryer**, and only if it’s safe and accessible, **turn off the gas supply valve**. If you can’t reach it safely, **evacuate and call 911**.
-2. **Check for emergency triggers.** If there is **smoke**, **flames**, sparking, or the smell is rapidly intensifying: **leave, close the door, evacuate, call 911**.
-3. **Let everything cool fully** before touching the back of the dryer, the duct, or the vent hood.
-4. **Do a quick, no-restart check once fully cool (do not run the dryer).**
-   - Clean the **lint screen** thoroughly (and remove any lint you can safely reach around the screen housing).
-   - Look for an obvious **kinked/crushed duct** behind the dryer (don’t force it).
-   - If the **outside vent hood** is safely reachable, do a **visual check** for blockage (lint build-up, stuck flap, debris, nests). If it’s not safely reachable, skip this step.
-5. **Don’t use the dryer again until the exhaust path is cleared/inspected.** Restricted venting can cause overheating and fires.
-6. **Get the right help.**
-   - If you rent: notify your **landlord/property manager** in writing that you’ve stopped using the dryer due to an overheating/burnt smell and suspected vent restriction, and request urgent service.
-   - If you own: arrange a **qualified appliance technician** and/or a **professional dryer-vent cleaning service**, especially if the vent run is long, goes through walls/ceilings, or you can’t verify it’s clear.
-7. **Check for recalls/safety notices.** Find the dryer’s **model and serial number** and check the **U.S. Consumer Product Safety Commission (CPSC)** recall database. If it’s recalled, follow the official instructions and **do not use** until remedied.
+1. If there is smoke, flames, sparking, a rapidly worsening smell, or you feel unsafe, leave the home, close doors behind you if you can do so without delay, and call 911 from outside or a safe nearby place.
+2. If you smell rotten eggs, sulfur, or natural gas, leave on foot immediately. Do not unplug the dryer, switch lights on or off, use a phone inside, start a vehicle in an attached garage, or try to find the leak. Call 911 from a safe place.
+3. If there is no smoke, flame, sparking, or gas smell, turn the dryer off. Unplug it only if the plug is easy to reach, the area is cool, and you can do it without moving the dryer or touching hot parts.
+4. Keep the dryer off and let the dryer, duct, and laundry area cool fully before touching anything around the appliance.
+5. Once everything is fully cool, do a no-restart check:
+   - Clean the lint screen.
+   - Remove only the lint you can safely reach around the lint screen housing.
+   - Look behind the dryer for an obvious crushed or kinked duct without forcing or moving the appliance.
+   - Look at the outside vent hood if it is safely reachable, and check for visible lint, debris, nests, or a stuck flap.
+6. Do not use the dryer again until the exhaust path has been cleared or inspected.
+7. If you rent, tell your landlord or property manager in writing that you stopped using the dryer because of an unusually hot or burnt smell and a possible vent restriction, and ask for urgent service.
+8. If you own the dryer, arrange a qualified appliance technician or professional dryer-vent cleaning service, especially if the vent run goes through walls, ceilings, a roof, or a long duct path.
+9. Find the dryer’s model and serial number and check the CPSC recall database. If the dryer is recalled, follow the official recall instructions and do not use it until the remedy is completed.
 
 ## What can wait
-- You don’t need to dismantle the dryer or run tools through concealed ducting right now if you’re not confident doing it safely.
-- You don’t need to decide today whether to replace the dryer—first confirm venting is clear and the appliance is safe.
-- You can tackle longer-term prevention (routine vent cleaning, improving duct material/routing) after the immediate risk is controlled.
+- You do not need to dismantle the dryer right now.
+- You do not need to run tools through concealed ducting if you are not confident doing it safely.
+- You do not need to decide today whether to replace the dryer.
+- Routine prevention, duct upgrades, and changes to the vent route can wait until the immediate overheating concern has been checked.
 
 ## Important reassurance
-Stopping immediately for a hot/burnt smell is the right instinct. Overheating and restricted airflow are common warning signs—pausing use and getting it checked is a practical safety move.
+Stopping immediately for a hot or burnt dryer smell is the right move. A blocked vent, lint buildup, or damaged duct can often be handled once the appliance is off, cool, and not being used.
 
 ## Scope note
-This is first-steps guidance to reduce immediate fire risk and buy time. Diagnosis and repairs are best handled by qualified professionals, especially for gas hookups and concealed vent runs.
+These are first steps to reduce immediate fire risk and buy time. Later decisions about diagnosis, cleaning, repair, gas connections, wiring, or replacement may need a qualified appliance technician, dryer-vent professional, gas utility, electrician, landlord, or local fire-safety professional.
 
 ## Important note
-This is general information, not professional fire-safety or repair advice. If you believe there’s immediate danger (smoke, flames, or you feel unsafe), evacuate and call **911**.
+This is general information, not professional fire-safety, repair, legal, landlord-tenant, insurance, electrical, gas, or emergency advice. If you believe there is immediate danger, leave and call 911.
 
 ## Additional Resources
 - https://www.nfpa.org/downloadable-resources/safety-tip-sheets/clothes-dryer-safety-tip-sheet
 - https://www.usfa.fema.gov/downloads/pdf/publications/clothes_dryer_fire_safety_flyer.pdf
+- https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/appliance-and-electrical/
 - https://www.cpsc.gov/Recalls
 - https://www.ready.gov/home-fires
-- https://www.usfa.fema.gov/prevention/home-fires/prevent-fires/appliance-and-electrical/
+- https://www.phmsa.dot.gov/safety-awareness/pipeline/pipeline-leak-recognition-and-what-do

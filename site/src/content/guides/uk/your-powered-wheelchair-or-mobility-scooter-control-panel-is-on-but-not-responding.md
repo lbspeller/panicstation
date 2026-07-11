@@ -1,92 +1,100 @@
-﻿---
+---
 title: "What to do if… your powered wheelchair or mobility scooter control panel is on but not responding"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
-  - powered wheelchair not responding
-  - mobility scooter not responding
-  - control panel on but dead
-  - joystick not working
-  - scooter throttle not responding
-  - wheelchair stuck in place
-  - power chair won’t move
-  - lights on no movement
-  - flashing lights on controller
-  - beeping controller
-  - wheelchair breakdown outside
-  - stranded in wheelchair
-  - freewheel lever stuck
-  - manual push mode
-  - motor disengage lever
-  - drive mode vs freewheel
-  - controller locked out
-  - battery looks full but won’t go
-  - mobility aid stopped suddenly
-  - wheelchair safety stop
-last_reviewed: "2026-03-12"
+  - "powered wheelchair not responding"
+  - "mobility scooter not responding"
+  - "control panel not responding"
+  - "wheelchair joystick not working"
+  - "scooter throttle not responding"
+  - "wheelchair stuck in place"
+  - "lights on no movement"
+  - "flashing controller lights"
+  - "beeping wheelchair controller"
+  - "powered wheelchair broken down"
+  - "what do i do if wheelchair stops"
+  - "what do i do if scooter stops"
+  - "what do i do if joystick fails"
+  - "what do i do if controller beeps"
+  - "help i am stuck in wheelchair"
+  - "help i cannot move my scooter"
+  - "my powered wheelchair will not move"
+  - "my mobility scooter will not drive"
+  - "joystick off centre"
+  - "throttle not moving scooter"
+  - "battery full but no movement"
+  - "freewheel lever moved"
+  - "manual mode stuck"
+  - "drive mode not engaged"
+  - "controller locked out"
+  - "freewheel mode confusion"
+  - "battery fault or controller fault"
+  - "manual push mode confusion"
+  - "wheelchair breakdown outside"
+  - "scooter stuck near traffic"
+  - "mobility scoota not responding"
+  - "wheelchair joy stick not working"
+last_reviewed: "2026-05-27"
+date_created: "2026-05-27"
 ---
 
 # What to do if… your powered wheelchair or mobility scooter control panel is on but not responding (UK)
+
 ## Short answer
-Get to a safer stop first (out of traffic/edges), then treat it like a breakdown: check for common “lockout” causes (freewheel/manual mode, joystick not centred at start-up), and contact your repair/breakdown support route if it still won’t respond.
+Get to a safer pause first, away from traffic, kerbs, slopes, and ramps if you can. Then check for the common lockouts: joystick or throttle not centred at start-up, freewheel or manual mode, charging lead, key, and seat position.
 
 ## Do not do these things
-- Don’t switch into freewheel/manual mode on a slope or where the chair/scooter could roll; braking may be reduced or disengaged.
-- Don’t keep “jabbing” buttons/joystick repeatedly while you’re in a risky spot (kerb edge, crossing, ramp); focus on getting safe first.
-- Don’t try to open sealed electronics or “wiggle” wiring if you’re outside or it’s wet.
-- Don’t let strangers take you to an isolated place “to help” — keep help in view of others where possible.
-- Don’t keep driving if control is intermittent or jerky; stop and reset in a safe place.
+- Don’t switch into freewheel or manual push mode on a slope or anywhere the chair or scooter could roll.
+- Don’t force the chair or scooter to move if the brakes or motors are still engaged.
+- Don’t keep jabbing the joystick, throttle, or buttons while you are near a kerb, crossing, ramp, or road.
+- Don’t open sealed electronics, batteries, or wiring, especially outside or in wet conditions.
+- Don’t let a stranger take you somewhere isolated to help; keep help in view of other people where possible.
+- Don’t keep driving if control is intermittent, jerky, or unpredictable.
 
 ## What to do now
-1. **Make a safer pause (30–60 seconds).**  
-   If you’re in the road/cycle lane/at a crossing, signal for help, ask someone nearby to “please stop traffic while I move to the pavement,” and aim for a flat, open spot away from kerbs and ramps.
 
-2. **Release the joystick/throttle fully and wait.**  
-   Some controllers won’t enable drive if the joystick isn’t centred during start-up. Let it return to centre, then try again without touching it.
+1. **Make the safest pause you can.**  
+   If you are in a road, cycle lane, crossing, car park route, ramp, or near a kerb edge, ask a nearby person to stay visible with you and warn others. If you are in immediate danger, ask them to call **999**.
 
-3. **Do a calm “power-cycle” reset.**  
-   Turn the chair/scooter off, wait a short moment, then turn it on again **without touching the joystick/throttle** until it finishes its self-check.
+2. **Release the control fully and wait.**  
+   Let the joystick or throttle return to centre. Do not touch it while the chair or scooter is starting up or checking itself.
 
-4. **Check you’re not in freewheel/manual (motor disengaged) mode.**  
-   If someone recently pushed you, loaded you into a vehicle, or you bumped a lever, you may be in freewheel.  
-   - **Only on level ground:** ask a helper to check the motor disengagement levers and return them to **drive/engaged** mode.  
-   - If your manual says to, **switch the power off before changing freewheel/drive**.  
-   - If you must be moved by hand, **use freewheel only long enough to reach a safe, flat place**, then re-engage drive so the brakes can hold.
+3. **Try one calm reset.**  
+   Turn the chair or scooter off. Wait a short moment. Turn it on again without touching the joystick or throttle until the control panel has finished its start-up check.
 
-5. **Look for an obvious “fault signal” you can report.**  
-   Note any **flashing pattern, symbol, or beeps**, and your battery gauge reading. This is mainly so the repair service can triage faster.
+4. **Check whether it is in freewheel or manual push mode.**  
+   If someone recently pushed you, loaded the chair or scooter into a vehicle, or a lever may have been knocked, it may be out of drive mode. On level ground only, ask a helper to check the motor disengagement or freewheel levers, follow the labels or manual, and return them to drive or engaged mode if they clearly know how. Do not force any lever.
 
-6. **Check the simple physical blockers (no tools).**  
-   - Is the charging lead still plugged in (some scooters won’t drive while charging)?  
-   - Is the key fully in (for key models)?  
-   - Is the seat properly latched/turned to the drive position (common on scooters)?  
-   If any of these were off, correct them and try the reset again.
+5. **If you must be pushed, keep it short and flat.**  
+   Use freewheel or manual push mode only long enough to reach a safe, level place. Then re-engage drive so the brakes can hold. A simple instruction is: “Please only put it into freewheel on flat ground, push me to that safe spot, then put it back into drive.”
 
-7. **If you’re stuck outside: use your support route (don’t improvise repairs).**  
-   - If you lease through **Motability**, the breakdown service is **Motability Assist**. If you already have the **Motability Recovery app** installed, it can help you request assistance and share your location; otherwise use Motability’s breakdown contact route.  
-   - If your chair is provided/supported by an **NHS Wheelchair Service**, contact their repair line (or your approved repairer) and tell them the fault signals you noted.  
-   If you’re in immediate danger (e.g., stuck in the road), ask someone to call **999**.
+6. **Check the simple interlocks without tools.**  
+   Check whether the charging lead is still plugged in, as many models will not drive while charging. Check whether the key is fully in, if your model uses one. On scooters, check whether the seat is properly latched and turned into the drive position.
 
-8. **If you need a helper to push you: give one clear safety instruction.**  
-   “Please only put it into freewheel on flat ground, push me to that safe spot, then put it back into drive so the brakes hold.”
+7. **Note the fault signal.**  
+   Look for flashing lights, a symbol, a beep pattern, or a battery gauge reading. You do not need to decode it now; write it down or take a photo so the repair service can use it.
+
+8. **Use your support route if it still will not respond.**  
+   If you lease through Motability, use the Motability scooter and powered wheelchair breakdown route, or the Motability Recovery app if you already have it installed. If the chair is from an NHS Wheelchair Service, contact your local wheelchair repair line or approved repairer. If you bought it privately, contact your supplier, insurer, or recovery cover.
 
 ## What can wait
-- You don’t need to diagnose the electronics right now (controller vs motor vs battery).
-- You don’t need to decide about warranties, new parts, or switching equipment today.
-- You don’t need to write a detailed incident report — just note the time/place and any fault signals.
+- You do not need to diagnose whether the fault is the controller, motor, battery, charger, or wiring.
+- You do not need to decide about repairs, warranty, replacement parts, insurance claims, or new equipment right now.
+- You do not need to write a detailed incident report now. The useful details are the time, place, what happened just before it stopped, and any lights or beeps.
 
 ## Important reassurance
-This is a common breakdown pattern, and it often comes from a simple safety lockout (freewheel/manual mode, joystick not centred, seat/key/charger interlock). Your job in the moment is not to “fix it perfectly” — it’s to get safe, get help, and avoid anything that could make the chair roll.
+A control panel being on but not responding can happen because a safety lockout or manual push setting is active. Your job in the moment is not to fix it perfectly; it is to stay safe, avoid making it roll, and get the right help.
 
 ## Scope note
-First steps only: this is about the safest immediate actions and the most common lockouts. If the issue repeats, you’ll usually need your supplier/repair service to inspect it properly.
+These are first steps only. If the fault repeats, the chair or scooter needs checking by the supplier, repair service, NHS Wheelchair Service, approved repairer, or another appropriate specialist.
 
 ## Important note
-This is general information for immediate safety and basic checks, not a substitute for professional assessment or your specific model’s manual. If you feel unsafe, unwell, or at risk in traffic, treat it as an emergency and use local emergency services.
+This is general information for immediate safety and basic checks, not legal, medical, financial, therapeutic, engineering, or professional advice. Follow your own model’s manual where you can. If you are in immediate danger, especially in traffic, call 999.
 
 ## Additional Resources
 - https://www.berkshirehealthcare.nhs.uk/media/ch2fji20/powered-wheelchair-guide-east-berkshire-wheelchair-service.pdf
 - https://assets.publishing.service.gov.uk/media/64905d3e5f7bb700127faca5/powered-wheelchairs-guidance-for-ground-handlers-a4-leaflet.pdf
 - https://www.motability.co.uk/get-support/if-something-happens/scooters-wheelchairs/breakdown/
-- https://www.motability.co.uk/get-support/contact/breakdown/
-- https://news.motability.co.uk/motoring/what-to-expect-if-your-mobility-scooter-or-powered-wheelchair-needs-a-repair/
+- https://www.gov.uk/guidance/999-and-112-the-uks-national-emergency-numbers
+- https://www.nhs.uk/nhs-services/urgent-and-emergency-care-services/when-to-call-999/

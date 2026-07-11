@@ -1,96 +1,113 @@
-﻿---
-title: "What to do if… you receive a “data export is ready” email for an account you did not request"
+---
+title: "What to do if… you receive a data export is ready email for an account you did not request"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
-  - data export is ready email
-  - unexpected data export notice
-  - i didnt request account export
-  - suspicious data download link
-  - account export ready notification
-  - possible account compromise
-  - someone requested my data
-  - phishing export email
-  - fake download your data email
-  - account takeover warning sign
-  - unusual account activity alert
-  - secure my online account now
-  - sign out of all sessions
-  - enable two factor authentication
-  - connected apps i dont recognize
-  - email forwarding rule hack
-  - social media export ready message
-  - google takeout email unexpected
-  - privacy download ready notice
-  - identity theft concern online
-last_reviewed: "2026-03-09"
+  - "data export is ready email"
+  - "unexpected data export email"
+  - "unrequested data export notice"
+  - "account export ready email"
+  - "data download ready email"
+  - "download your data notice"
+  - "privacy export ready notice"
+  - "suspicious account export email"
+  - "someone requested my data"
+  - "phishing data export email"
+  - "what do i do if data export email"
+  - "what do i do if account export"
+  - "what do i do if download data"
+  - "what do i do if privacy export"
+  - "help i got data export"
+  - "help i received export email"
+  - "my account export is ready"
+  - "my data download is ready"
+  - "my account may be compromised"
+  - "my data was requested"
+  - "email link looks suspicious"
+  - "unknown device on account"
+  - "unrecognized login activity"
+  - "security alert after export"
+  - "new recovery email appeared"
+  - "email forwarding rule appeared"
+  - "connected app looks unfamiliar"
+  - "fake data export email"
+  - "google takeout email unexpected"
+  - "social media export notice"
+  - "work account export email"
+  - "school account export email"
+  - "i didnt request export"
+  - "acount export ready email"
+last_reviewed: "2026-06-20"
+date_created: "2026-06-20"
 ---
 
-# What to do if… you receive a “data export is ready” email for an account you did not request (USA)
+# What to do if… you receive a data export is ready email for an account you did not request (USA)
 
 ## Short answer
-Assume it’s either phishing or a sign someone accessed your account. Don’t click the email links—go directly to the service, confirm whether an export exists, then secure the account (end sessions, change password, turn on 2FA).
+Treat the email as suspicious until you verify it from the official site or app. Do not click links in the email; go directly to the account, check whether an export exists, and secure the account if anything looks unfamiliar.
 
 ## Do not do these things
-- Don’t click “download export” links or open attachments from the email.
-- Don’t call “support” numbers or use “verify your account” links provided in the message.
-- Don’t reuse an old password or a slight variation (that can fail if your old password was leaked).
-- Don’t delay “because I didn’t see a login alert” — exports are sometimes the first obvious sign.
+- Do not click “download export” links or open attachments from the email.
+- Do not call support numbers or use “verify your account” links provided in the message.
+- Do not reply with passwords, codes, ID documents, payment details, or personal information.
+- Do not reuse an old password or a small variation of it.
+- Do not wait for another alert before checking and securing the account.
 
 ## What to do now
-1. **Stop using the email as your navigation.**  
-   Open a new tab or the official app and sign in by typing the address yourself or using a trusted bookmark.
+1. **Navigate without using the email.**  
+   Open the official app, use a trusted bookmark, or type the service’s address yourself. Sign in only through that route.
 
-2. **Check inside the account whether an export is actually pending/ready.**  
-   Look for “Privacy,” “Security,” “Download your data,” or “Data export.”  
-   - If you **don’t see** an export or related activity in the account, treat the email as **phishing** (skip to steps 7–8).  
-   - If you **do see** an export you didn’t request, proceed as if the account is compromised.
+2. **Check whether a data export is really pending or ready.**  
+   Look in the account for areas such as “Privacy,” “Security,” “Download your data,” “Export,” or “Recent activity.”  
+   - If you do not see an export or matching activity, treat the email as phishing and report it through safe channels.
+   - If you see an export you did not request, treat the account as possibly compromised.
 
-3. **If you can’t sign in, use the provider’s official account-recovery process.**  
-   Go to the service’s help center/recovery pages (not via the email). Once you regain access, continue with the steps below.
+3. **If you cannot sign in, use the provider’s official recovery process.**  
+   Go to the service’s help or recovery page from the official website or app, not from the email. After you regain access, continue securing the account.
 
-4. **End other sessions, then reset credentials and add 2FA.**  
-   In the service’s security settings (order may vary by service):
-   - **Sign out of all devices / revoke all sessions**.  
-   - **Change your password** to a new unique one.  
-   - **Enable 2FA** (authenticator app or security key if offered; avoid relying only on SMS if you have stronger options).
+4. **End other access and change the password.**  
+   In security settings, use options such as “sign out of all devices,” “revoke sessions,” or “remove devices” if available. Then change the password to a new, unique password you do not use anywhere else.
 
-5. **Remove persistence: check recovery info, forwarding, and connected apps.**  
-   Attackers often add ways back in. Check for:
-   - Unrecognized **recovery email/phone** or **secondary addresses** (remove them).  
-   - **Email forwarding / filters / rules** (especially if this is your email account).  
-   - **Connected apps / “authorized applications” / API tokens** you don’t recognize (revoke).  
-   - Unrecognized **devices** on the account (remove/revoke).
+5. **Turn on two-factor authentication.**  
+   Use an authenticator app or security key if the account offers one. Text-message codes are still better than no two-factor authentication if that is the only option available.
 
-6. **Cancel/revoke the export if possible, and capture proof.**  
-   If there’s “Cancel export,” “Delete download,” or similar, use it.  
-   Take screenshots of the export page and “recent sign-in/activity” details (device, time, location) for support.
+6. **Check for ways someone could stay in the account.**  
+   Remove anything you do not recognize, especially:
+   - recovery email addresses, recovery phone numbers, or secondary addresses
+   - email forwarding, filters, or mailbox rules
+   - connected apps, authorized applications, API tokens, or third-party access
+   - devices or sessions you do not recognize
 
-7. **Report the message using safe channels.**  
-   Mark it as phishing in your email provider/app (use the built-in “Report phishing” feature). If your organization has an internal reporting button/address, use that.
+7. **Cancel or delete the export if the service allows it.**  
+   Look for options such as “cancel export,” “delete download,” or “revoke download link.” If you need to contact support, screenshots of the export page and recent sign-in activity may help.
 
-8. **If you suspect identity theft, start an official record (USA).**  
-   If you see signs like new accounts you didn’t open, tax/benefits misuse, or financial alerts you can’t explain, follow the guided reporting and recovery steps on the U.S. government identity theft site.
+8. **Report the email safely.**  
+   Use your email app’s built-in “report phishing,” “report spam,” or “report junk” option. You can also report phishing to the FTC and forward phishing emails to the Anti-Phishing Working Group.
 
-9. **If it’s a work/school account, contact your IT/security team immediately.**  
-   Use your organization’s normal helpdesk/security channel (not the email). Ask them to review sign-ins, revoke sessions, and confirm whether a data export was initiated.
+9. **Use IdentityTheft.gov if you see signs of identity theft.**  
+   Do this if you notice new accounts you did not open, financial alerts you cannot explain, tax or benefits misuse, or other signs that your personal information is being used.
+
+10. **If this is a work or school account, contact IT or security.**  
+   Use your organization’s normal helpdesk or security channel, not the email. Ask them to review sign-ins, revoke sessions, and confirm whether a data export was created.
 
 ## What can wait
-- You don’t have to decide right now whether to delete the account or change every device setting.
-- You can postpone deep cleanup (reviewing every connected app, refreshing passwords on low-priority accounts) until after you’ve secured access and enabled 2FA.
-- If you’re back in control, you can later watch for follow-up alerts and review the account’s data/download settings more carefully.
+- You do not have to decide now whether to delete the account.
+- You do not have to change every low-priority password before securing this account.
+- You can review older connected apps, old devices, and account privacy settings after you have regained control, ended unknown sessions, changed the password, and turned on two-factor authentication.
+- You can decide later whether to contact customer support again, monitor for more alerts, or do a fuller identity-theft review.
 
 ## Important reassurance
-“Data export ready” emails are designed to trigger urgency—either by scammers or because exports really can be sensitive. You’re not behind if you move slowly and methodically: don’t click, verify from the official site/app, then lock the account down.
+This kind of email is meant to create urgency, whether it is a real account notice or a phishing attempt. Moving carefully is safer than moving fast: avoid the email links, verify from the official site or app, and secure the account one step at a time.
 
 ## Scope note
-This is first-step guidance to reduce immediate harm and stop further access. If you confirm an export was created, you may later need more detailed help from the platform, your employer/school, or identity theft support, but you don’t need to solve everything at once.
+These are first steps to reduce immediate harm and stop further access. If an export was created or downloaded, later decisions may need help from the platform, your employer or school, identity-theft support, or another specialist.
 
 ## Important note
-This is general information, not legal or professional advice. Different services handle exports and security controls differently; use the closest matching settings in your account. If you can’t confirm what happened, prioritize not clicking the email, securing the account through official channels, and reporting the message.
+This is general information, not legal, medical, financial, therapeutic, cybersecurity, or professional advice. Services handle exports and security settings differently, so use the closest matching official settings and support routes for the account involved.
 
 ## Additional Resources
-- https://consumer.ftc.gov/how-recover-your-hacked-email-or-social-media-account
-- https://www.cisa.gov/secure-our-world/recognize-and-report-phishing
-- https://www.identitytheft.gov/
+- https://consumer.ftc.gov/articles/how-recover-your-hacked-email-or-social-media-account
+- https://consumer.ftc.gov/consumer-alerts/2025/04/protect-yourself-phishing-scams
 - https://consumer.ftc.gov/articles/use-two-factor-authentication-protect-your-accounts
+- https://www.identitytheft.gov/
+- https://reportfraud.ftc.gov/

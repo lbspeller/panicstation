@@ -1,91 +1,105 @@
-﻿---
-title: "What to do if… your eVisa approval cannot be found online when you need to show it"
+---
+title: "What to do if… your evisa approval cannot be found online when you need to show it"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
-  - evisa approval not showing
-  - cannot find evisa online
-  - visa approval email missing
-  - visa grant notice missing
-  - visa pdf not downloaded
-  - visa reference number lost
-  - airline cannot verify visa
-  - check-in says visa not found
-  - border officer cannot see visa
-  - visa portal not loading
-  - visa website error
-  - portal down at airport
-  - phone has no signal abroad
-  - need to show evisa now
-  - last minute visa proof issue
-  - forgot to screenshot visa approval
-  - travel document proof missing
-last_reviewed: "2026-03-07"
+  - "evisa approval not showing"
+  - "evisa approval cannot be found"
+  - "evisa not found online"
+  - "evisa proof missing"
+  - "evisa approval email missing"
+  - "evisa pdf missing"
+  - "evisa reference number lost"
+  - "visa approval not loading"
+  - "visa grant notice missing"
+  - "online visa proof unavailable"
+  - "what do i do if evisa missing"
+  - "what do i do if evisa not found"
+  - "what do i do if visa approval missing"
+  - "what do i do if check-in rejects evisa"
+  - "help i cannot show my evisa"
+  - "help i lost my visa approval"
+  - "help i cannot find evisa email"
+  - "help i need evisa proof now"
+  - "my evisa approval disappeared"
+  - "my visa approval is not online"
+  - "my evisa is not loading"
+  - "airline cannot verify evisa"
+  - "check-in says visa not found"
+  - "border cannot see evisa"
+  - "portal down at airport"
+  - "airport wifi not working"
+  - "phone has no signal abroad"
+  - "last minute evisa problem"
+  - "evisa aproval missing"
+  - "evissa not found online"
+  - "british traveller abroad"
+  - "airport document check problem"
+last_reviewed: "2026-05-25"
+date_created: "2026-05-25"
 ---
 
-# What to do if… your eVisa approval cannot be found online when you need to show it (UK)
+# What to do if… your evisa approval cannot be found online when you need to show it (UK)
+
 ## Short answer
-Switch to **offline proof** (approval email/PDF/screenshot/reference number) and ask for a **manual document check** at the airline desk or border checkpoint while you contact the issuing authority’s official support.
+Switch to offline proof first: your approval email, PDF, screenshot, reference number, or application receipt. Then ask a staffed airline desk or border officer for a manual document check while you use the official eVisa support or status route for the destination country.
 
 ## Do not do these things
 - Do not start a brand-new application unless the issuing authority tells you to.
-- Do not hand your unlocked phone to strangers or let it out of your sight; show proof on-screen while you hold it.
-- Do not rely on airport Wi-Fi alone (portals can fail, be blocked, or time out).
-- Do not guess dates or reference numbers under pressure—read them from a note you’ve written.
-- Do not delete emails, files, or apps until you’re through the checkpoint.
+- Do not guess dates, passport numbers, or reference numbers under pressure.
+- Do not hand your unlocked phone to someone you do not trust or let it out of your sight.
+- Do not rely on one connection only; try mobile data, airport Wi-Fi, or another trusted device.
+- Do not delete emails, files, screenshots, apps, or browser history until the check is over.
+- Do not argue at the desk or gate; ask for the next manual check or supervisor check that is available.
 
 ## What to do now
-1. **Make a 60-second “ID bundle” note.**  
-   In your notes app, type: full name (as in passport), date of birth, passport number, nationality, destination country, intended arrival date, and any application/receipt/reference numbers you can find.
+1. Make one ID note.  
+   In your notes app, write your full name exactly as shown in your passport, date of birth, passport number, nationality, destination country, intended arrival date, and any application, receipt, or reference number you can find.
 
-2. **Find the approval where it most often exists (email + attachments).**  
-   Search inbox + spam/junk for: “visa”, “eVisa”, “approval”, “approved”, “grant”, “application”, “reference”, destination country name, and any provider/portal name you recall.  
-   Open attachments and save them to your phone “Files” so they’re available offline.
+2. Search for the approval email and attachments.  
+   Search your inbox, spam, junk, archived mail, and deleted items for: visa, eVisa, approval, approved, grant, application, reference, receipt, the destination country, and any portal or payment provider name you remember. Open any attachment and save it to your phone files so it is available offline.
 
-3. **Try the portal again using the quickest “failure fixes.”**  
-   - Switch connection (mobile data ↔ Wi-Fi).  
-   - Turn off VPN temporarily.  
-   - Try a different browser or private/incognito mode.  
-   - Use “resend confirmation / retrieve application / check status” (if offered) instead of starting over.
+3. Check cloud storage and downloads.  
+   Look in Downloads, Files, Google Drive, iCloud Drive, OneDrive, WhatsApp, messages, and photos for a PDF, screenshot, receipt, or reference number linked to the eVisa.
 
-4. **Create offline proof you can show in seconds.**  
-   If you can see the approval email/page even briefly: screenshot the part showing your name + visa type + validity (if shown) + reference number. Save to offline storage and “favourite/star” it.
+4. Try the portal again using simple failure fixes.  
+   Switch between mobile data and Wi-Fi, turn off VPN temporarily, try a different browser, try private or incognito mode, and use any official “retrieve application”, “check status”, or “resend confirmation” option before starting anything new.
 
-5. **Go to the staffed check-in desk early and ask for a manual verification.**  
-   Say: “My eVisa approval isn’t loading right now. I have my passport details and [approval email/PDF/screenshot/reference]. Can you do a manual travel document check?”  
-   If helpful, ask them to run the check in their internal travel-document requirements system (many carriers use Timatic-based tools).
+5. Create proof you can show quickly.  
+   If you can see the approval email or portal page even briefly, screenshot the part showing your name, passport number or partial passport number, visa type, validity dates if shown, and reference number. Save it offline and mark it as a favourite.
 
-6. **If you’re at the border and they can’t see it, ask for a supervisor and stick to identifiers.**  
-   Provide passport number + DOB + name exactly as shown in your passport, plus any reference number. Ask whether they can check using passport details and retrieve the record.
+6. Go to a staffed airline desk and ask for a manual document check.  
+   Say: “My eVisa approval is not loading right now. I have my passport details and this approval email, screenshot, PDF, receipt, or reference number. Can you do a manual travel document check?” If useful, ask whether they can check the destination’s requirements or verification route through their airline document-check system.
 
-7. **Contact the issuing authority with a specific request while you wait.**  
-   Use the destination country’s official eVisa help/status channel and send: your ID bundle (step 1) plus a clear request:  
-   “Please resend the approval/grant notice and confirm my approval status, including the details tied to my passport number. If carriers can verify it, please tell me the verification method.”
+7. If the problem is at a border checkpoint, keep to identifiers.  
+   Give your name, date of birth, passport number, nationality, and reference number exactly as recorded. Calmly ask whether a second check or supervisor check is possible using your passport details and application reference.
 
-8. **If you’re refused boarding, document it before you walk away.**  
-   Ask for the reason in writing (or a note in your booking), screenshot any error screens, and keep receipts for extra costs.
+8. Contact the official eVisa support or status route for the destination country.  
+   Send a short message with your ID note and ask: “Please resend my approval or grant notice and confirm the approval status linked to my passport number. If an airline or border officer can verify it, please tell me the verification method.”
 
-9. **If you’re a British national and you’re stranded abroad, use UK consular contact routes.**  
-   If it’s urgent, call the FCDO (24/7) or contact the nearest British embassy/high commission/consulate. They can advise on options and support, but they generally cannot override another country’s immigration decision.
+9. If you are refused boarding, record what happened before you leave.  
+   Ask for the reason in writing if staff can provide it, or ask for a note to be added to your booking. Screenshot any error message, keep boarding-pass and booking details, and keep receipts for extra costs.
+
+10. If you are a British national stranded abroad and it is urgent, use UK consular contact routes.  
+   Contact the nearest British embassy, high commission, or consulate, or contact the FCDO urgent consular route. They can explain what support may be available, but they generally cannot override another country’s immigration decision or force an airline to carry you.
 
 ## What can wait
-- You do not need to decide right now whether to reapply, escalate legally, or pursue compensation.
-- You do not need to assemble every document—focus on **approval proof + identifiers + a manual check**.
-- You do not need to set up perfect backups until you’re through.
+- You do not need to decide right now whether to reapply, complain, claim costs, or get legal advice.
+- You do not need to assemble every travel document at once; focus on proof of approval, your passport identifiers, and a manual check.
+- You do not need to make perfect backups until you are through the desk, gate, or checkpoint.
 
 ## Important reassurance
-Systems fail at the worst moments—portals go down, emails get buried, and airline checks can lag. Staying calm and giving staff consistent identifiers plus any offline proof is often what unlocks manual verification.
+This kind of failure can happen because portals go down, emails are filtered, airport connections fail, or airline checks lag. The most useful thing now is to give staff consistent identifiers and any proof that links the approval to your passport.
 
 ## Scope note
-These are first steps for the next minutes/hours at a desk, gate, or border. If you miss travel or are denied entry, the correct next steps depend on the destination country and the airline’s rules.
+These are first steps for the next minutes or hours at a desk, gate, airport, or border. Later decisions may need help from the airline, the destination country’s immigration authority, a travel insurer, a regulated adviser, or another specialist.
 
 ## Important note
-This is general information, not legal advice. eVisa rules and carrier verification requirements vary by country and can change; use the issuing authority’s official status/support route and your carrier’s document-check process as the primary references.
+This is general information, not legal, immigration, travel, financial, or other professional advice. eVisa rules, airline checks, and border processes vary by country and can change; use the destination country’s official eVisa route, your carrier’s document-check process, and official UK consular routes where relevant.
 
 ## Additional Resources
 - https://www.gov.uk/government/collections/support-for-british-nationals-abroad
 - https://www.gov.uk/guidance/contact-the-fcdo
 - https://www.gov.uk/guidance/consular-assistance-how-the-foreign-commonwealth-development-office-provides-support
-- https://www.gov.uk/guidance/how-to-deal-with-a-crisis-overseas
+- https://www.gov.uk/world/embassies
 - https://www.iata.org/en/services/compliance/timatic/travel-documentation/
-- https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport

@@ -1,97 +1,117 @@
-﻿---
+---
 title: "What to do if… police ask you to provide an alibi for someone and you feel pressured to answer quickly"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
-  - police ask for an alibi
-  - asked to confirm someones whereabouts
-  - pressured to answer police quickly
-  - alibi request from police
-  - police want a witness statement now
-  - asked to give a statement
-  - police call about a friend
-  - police contact about a suspect
-  - asked to be an alibi witness
-  - unsure of dates and times
-  - worried about saying the wrong thing
-  - panic during police questioning
-  - asked questions without warning
-  - police interview as witness
-  - asked to attend station to talk
-  - pressured to sign a statement
-  - alibi timeline confusion
-  - fear of getting someone in trouble
-last_reviewed: "2026-03-06"
+  - "police ask for an alibi"
+  - "police alibi request pressure"
+  - "asked to confirm whereabouts"
+  - "asked to be alibi witness"
+  - "police want statement quickly"
+  - "police ask about someone"
+  - "police ask about friend"
+  - "police asking dates and times"
+  - "police want timeline now"
+  - "pressured to answer police"
+  - "what do i do if police ask for alibi"
+  - "what do i do if police ask about friend"
+  - "what do i do if police want statement"
+  - "what do i do if police pressure me"
+  - "help i feel pressured by police"
+  - "help i might say wrong thing"
+  - "my friend needs an alibi"
+  - "my memory is unclear"
+  - "my timeline does not match"
+  - "my statement feels rushed"
+  - "unsure of dates and times"
+  - "worried about wrong alibi"
+  - "panic during police questions"
+  - "asked questions without warning"
+  - "pressured to sign statement"
+  - "alibi timeline confusion"
+  - "witness statement or interview"
+  - "voluntary interview confusion"
+  - "alibi or witness statement"
+  - "allibi request from police"
+  - "alaby request from police"
+last_reviewed: "2026-04-30"
+date_created: "2026-04-30"
 ---
 
 # What to do if… police ask you to provide an alibi for someone and you feel pressured to answer quickly (UK)
 
 ## Short answer
-Slow it down. Tell the officer you can’t confirm anything accurately right now and you’ll respond only after you’ve checked your records and (if needed) had legal advice.
+Slow it down. Say you cannot confirm an alibi accurately without checking your own records, and do not guess, sign, or be coached into wording you are not sure is true.
 
 ## Do not do these things
-- Don’t guess times, dates, or locations “to be helpful” — guessing can create serious problems later.
-- Don’t “fill gaps” with what you assume happened or what the other person told you.
-- Don’t agree to sign a written statement you haven’t read carefully (or that you feel rushed to sign).
-- Don’t let anyone (including the person you’re asked about) coach your wording or timeline.
-- Don’t delete, alter, or “clean up” messages, location history, receipts, photos, or calendar entries. If you’re unsure what to do, leave things as they are and get legal advice.
-- Don’t have a long, emotional phone conversation on the spot; keep it short and factual.
+- Don’t guess times, dates, locations, or who was present just to be helpful.
+- Don’t repeat what the other person told you as if you personally know it.
+- Don’t let the person you are being asked about, or anyone close to them, coach your wording or timeline.
+- Don’t delete, alter, tidy up, or create messages, location history, receipts, photos, calendar entries, or notes.
+- Don’t sign a statement unless you have read it carefully and it matches what you honestly know.
+- Don’t stay in a long phone conversation if you feel panicked; keep it short and ask how to respond later.
 
 ## What to do now
-1. **Get clarity on what this is.** Ask:  
-   - “Am I being asked as a witness, or am I suspected of anything?”  
-   - “Am I being interviewed under caution?”  
-   - “Am I required to attend, or is this voluntary?”  
-   Write down the officer’s name, station/unit, reference number, and a callback number.
+1. **Ask what role police say you have.** Use calm, direct questions:
+   - “Am I being asked as a witness?”
+   - “Am I suspected of anything?”
+   - “Am I being interviewed under caution?”
+   - “Is attendance required, or are you asking me voluntarily?”
+   Write down the officer’s name, police force or station, reference number, time of contact, and the callback route they give you.
 
-2. **Use a holding line that buys time (repeat as needed).** For example:  
-   - “I can’t confirm an alibi accurately without checking my records. I don’t want to mislead you. I’ll respond after I’ve checked and can be precise.”  
-   If they push: “I’m not refusing to help — I’m avoiding guessing.”
+2. **Use a holding line that prevents guessing.** Say:
+   - “I can’t confirm an alibi accurately without checking my records. I don’t want to mislead anyone. I’ll respond after I’ve checked what I can honestly confirm.”
+   If they press for an immediate answer, repeat:
+   - “I’m not refusing to help. I’m avoiding guessing.”
 
-3. **If they want a statement, control the format.** You can say:  
-   - “I’m willing to give an accurate statement later, after checking dates/times. Can we schedule this?”  
-   - “If you want this in writing, I’ll provide it once I’ve verified what I can honestly confirm.”
+3. **Ask for the exact dates, times, and places they want checked.** Do not answer from memory if you are unsure. Ask them to put the request in writing or tell you the reference details again so you can check the right period.
 
-4. **If there’s any hint you could be under caution or personally at risk, ask for legal advice before answering.**  
-   - If you’re in **England & Wales** and police want an interview (including a voluntary interview), you can ask to speak to a **solicitor** and you should be offered access to legal advice.  
-   - If you’re in **Scotland**, procedures differ — still use the same protective move: “I want legal advice/a solicitor before answering questions.”  
-   If you already have a solicitor, ask to contact them.
+4. **Check only existing records.** Look for records you already have, without changing or deleting anything:
+   - call logs and messages with timestamps
+   - calendar entries and invitations
+   - travel tickets, parking records, taxi or ride receipts
+   - bank card transactions and receipts
+   - work rota, clock-in, clock-out, or shift records
+   - photos or videos and their dates
+   Make a simple note of what you can confirm, what you cannot confirm, and what is only a memory.
 
-5. **Check objective records before you say anything.** In one place, quietly gather what you already have (don’t create new “evidence”):  
-   - phone call logs/messages (timestamps)  
-   - calendar entries (including edits)  
-   - travel history/tickets (train, bus, parking, ride receipts)  
-   - bank card transactions/receipts  
-   - workplace clock-in/out or rota screenshots (if available)  
-   - photos (metadata)  
-   Note what you *can* confirm and what you *cannot*.
+5. **If police want a statement, ask to slow it down.** You can say:
+   - “I’m willing to give an accurate statement after checking dates and times. Can we arrange a time for that?”
+   - “I need to read the statement carefully before signing anything.”
+   A witness statement may be used as evidence, and signing usually means you are saying it is true to the best of your knowledge.
 
-6. **If you do speak, stick to what you personally know.** Use phrases like:  
-   - “I remember…” / “I don’t remember” / “I can’t confirm”  
-   - “I can check and get back to you”  
-   Avoid repeating what someone else said as if it’s fact.
+6. **If there is any hint you are suspected, under caution, arrested, or attending a police station interview, ask for a solicitor before answering questions about the facts.** Procedures differ across England and Wales, Scotland, and Northern Ireland, but the safe first step is the same:
+   - “I want legal advice before answering questions.”
+   Asking for legal advice does not mean you have done anything wrong.
 
-7. **If they ask you to sign something, slow that down too.** Ask for time to read it fully. Correct anything unclear. If you’re uncomfortable, say:  
-   - “I’m not signing this today. I will come back to it after checking my records / getting advice.”
+7. **If you do speak, stay with what you personally know.** Use plain phrases:
+   - “I remember…”
+   - “I don’t remember.”
+   - “I can’t confirm that.”
+   - “I need to check my records.”
+   Do not turn uncertainty into a definite alibi.
+
+8. **If asked to sign something, read every line first.** Correct anything that is wrong, unclear, or stronger than what you actually know. If you feel rushed or unsure, say:
+   - “I’m not signing this now. I need to check my records or get advice first.”
 
 ## What can wait
-- You do **not** need to decide right now whether you “support” the person or “help the investigation.”
-- You do **not** need to produce a perfect timeline immediately.
-- You do **not** need to agree to an on-the-spot interview time if you’re shaken.
-- You do **not** need to argue your point — you just need to avoid guessing and avoid signing anything you don’t fully stand behind.
+You do not need to decide now whether you are “helping” a friend or “helping” the investigation. You do not need to produce a perfect timeline immediately. Unless police clearly say you are legally required to attend at a particular time, you can ask for a short pause or a later time so you can be accurate.
 
 ## Important reassurance
-Feeling pressured is common — police often work fast, and that can make ordinary people panic. Taking time to be accurate is a legitimate, responsible response. “I can’t confirm that” is a valid answer when it’s true.
+It is reasonable to slow down when someone asks you to confirm another person’s alibi. “I can’t confirm that” is a valid answer when it is true. Accuracy is safer than speed.
 
 ## Scope note
-This is first steps only, to prevent irreversible mistakes (guessing, being coached, or signing something you don’t mean). If the situation escalates (caution, arrest risk, or you feel targeted), specialist legal advice matters.
+These are first steps only, to prevent irreversible mistakes such as guessing, being coached, deleting records, or signing a statement you do not fully stand behind. Later decisions may need specialist legal help, especially if you are cautioned, arrested, treated as a suspect, or unsure about your position.
 
 ## Important note
-This is general information, not legal advice. Laws and procedures differ across the UK and details matter. If you are interviewed under caution or feel you could be at risk, prioritise legal advice before answering substantive questions.
+This is general information, not legal advice or professional advice. Police and court procedures differ across the UK, and details matter. If you may be personally at risk, prioritise legal advice before answering substantive questions.
 
 ## Additional Resources
+- https://www.police.uk/advice/advice-and-information/victim-support/giving-witness-victim-statement/
+- https://www.cps.gov.uk/information-witnesses
 - https://www.gov.uk/government/publications/voluntary-police-interview-your-rights/remember-your-rights-voluntary-interview-accessible-version
 - https://www.gov.uk/government/publications/pace-code-c-2019/pace-code-c-2019-accessible
 - https://www.gov.uk/government/publications/notice-of-rights-and-entitlements-english/notice-of-rights-and-entitlements-english
-- https://library.college.police.uk/docs/NPCC/Voluntary-interview-guidance-2024.pdf
-- https://assets.publishing.service.gov.uk/media/686e23d181dd8f70f5de3cbf/Interviewing_suspects.pdf
+- https://www.gov.uk/government/publications/interviewing-suspects/interviewing-suspects-accessible
+- https://www.mygov.scot/arrested/legal-advice-at-police-station
+- https://www.nidirect.gov.uk/articles/giving-statement-police

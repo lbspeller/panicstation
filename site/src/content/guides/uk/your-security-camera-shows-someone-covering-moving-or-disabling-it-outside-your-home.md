@@ -1,80 +1,106 @@
-﻿---
+---
 title: "What to do if… your security camera shows someone covering, moving, or disabling it outside your home"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
-  - security camera tampering
-  - cctv being disabled
-  - doorbell camera covered
-  - ring camera blocked
-  - camera moved outside
-  - stranger on my property
-  - suspicious person outside home
-  - attempted break in warning
-  - possible burglary in progress
-  - trespasser at front door
-  - someone masking their face
-  - motion alert someone outside
-  - home security sabotage
-  - someone unscrewing camera
-  - camera vandalism outside
-  - night time suspicious activity
-  - live camera shows intruder
-  - should i call 999 or 101
-last_reviewed: "2026-01-11"
+  - "security camera tampering"
+  - "cctv being disabled"
+  - "doorbell camera covered"
+  - "ring camera blocked"
+  - "camera moved outside"
+  - "camera disabled outside"
+  - "security camera covered"
+  - "camera vandalism outside"
+  - "someone covering camera"
+  - "someone moving camera"
+  - "someone disabling camera"
+  - "stranger outside home"
+  - "suspicious person outside home"
+  - "possible burglary outside home"
+  - "attempted break in warning"
+  - "what do i do if camera covered"
+  - "what do i do if cctv disabled"
+  - "what do i do if ring camera blocked"
+  - "what do i do if someone outside"
+  - "help i saw someone outside"
+  - "help i think someone is outside"
+  - "my camera shows a stranger"
+  - "my doorbell camera was covered"
+  - "my cctv was moved"
+  - "motion alert outside home"
+  - "camera view suddenly blocked"
+  - "person hiding from camera"
+  - "someone at front door"
+  - "camera feed went dark"
+  - "delivery person or intruder"
+  - "trespasser or burglar"
+  - "cctv or doorbell camera"
+  - "camara outside covered"
+  - "securty camera blocked"
+last_reviewed: "2026-05-28"
+date_created: "2026-05-28"
 ---
 
 # What to do if… your security camera shows someone covering, moving, or disabling it outside your home (UK)
 
 ## Short answer
-Treat this as a potential break-in attempt. Get everyone inside and away from doors/windows, lock up, and call **999** if it’s an emergency (crime in progress, immediate danger, suspect still there, or property at risk); otherwise report via **101** or your police force’s **online reporting**.
+Treat this as a possible break-in attempt or unsafe situation. Stay inside or away from the property, keep people away from doors and windows, and call 999 if a crime is happening now, someone is in immediate danger, someone is trying to get in, or the person is still outside and the situation could become violent.
 
 ## Do not do these things
-- Do not go outside to confront them or “check what’s happening”.
-- Do not open the door “to scare them off” or shout face-to-face.
-- Do not let curiosity pull you into watching from right by the front window/door.
-- Do not post the clip publicly (community groups/social media) while it’s unfolding.
-- Do not reset or factory-wipe the camera/app before you’ve saved the footage you can access.
-- Do not assume it’s “probably a delivery person/utility worker” if they are covering or disabling a camera.
+- Do not go outside to confront them or check what is happening.
+- Do not open the door to scare them off or speak face-to-face.
+- Do not watch from beside the front window or door.
+- Do not post the clip publicly while the situation is unfolding.
+- Do not reset, delete, or factory-wipe the camera or app before saving any footage you can access.
+- Do not assume it is harmless if someone is covering, moving, or disabling a camera.
 
 ## What to do now
-1. **Create a safer pause (30–60 seconds).**  
-   Lock doors, check ground-floor windows are closed/locked, and move everyone to an interior room away from the front of the home (especially children).
-2. **Decide quickly: 999 or 101/online.**  
-   - Call **999** if a crime may be happening **right now**, the person is **still there**, someone is in **immediate danger**, or you think property is about to be damaged or entry is being attempted.  
-   - If they’ve **gone** and there’s no immediate danger, call **101** or report via your force’s **online reporting**.
-3. **If you can’t safely speak, still call 999.**  
-   Stay on the line and follow the operator prompts (this is used for “silent” emergency calls).
-4. **Turn on deterrents without exposing yourself.**  
-   If you can do it from your phone: turn on outside lights, interior lights, or an alarm/siren. Avoid going outside to switch anything on.
-5. **Use the camera view to gather details safely.**  
-   If you still have any view (or other cameras): note clothing, height/build, any bags/tools, and direction of travel. If a vehicle appears, note colour/make and any readable plate—only from the video, not by going outside.
-6. **Preserve what you have right now.**  
-   - Save/download the clip(s) to your phone/computer.  
-   - Note the time your alert happened and what you saw (a few bullet points).  
-   - If the camera was moved, don’t rush outside to fix it—treat the area as potentially unsafe.
-7. **If you’re not currently at home: don’t go back yet.**  
-   Stay away. If you think someone may be there now, call **999**. If not, contact **101/online** and explain you have video of camera tampering; ask what they want you to do before returning. Wait somewhere safe nearby.
-8. **If you live in a flat or shared building:**  
-   If safe, alert the concierge/building manager/security that someone is tampering with security equipment/door area, and ask them to preserve any communal CCTV.
+1. **Create a safer pause.**  
+   Lock doors, check nearby ground-floor windows if you can do this without going near the person, and move everyone to an interior room away from the front of the home.
+
+2. **Decide whether this is an emergency.**  
+   Call 999 if the person is still there, a crime is happening now, someone is in immediate danger, someone is trying to get in, or the situation could become violent very soon.
+
+3. **Use 101 or online reporting if the immediate danger has passed.**  
+   If the person has gone and there is no immediate danger, report it through 101 or the relevant police online reporting route. Say that your camera shows someone covering, moving, or disabling it outside your home.
+
+4. **If you cannot safely speak, still call 999.**  
+   Try to speak, whisper, cough, or tap if you can. If you call 999 from a mobile and are prompted, press 55 so the call can be transferred to the police.
+
+5. **Turn on deterrents without exposing yourself.**  
+   If you can do it from your phone or from inside a safer room, turn on outside lights, inside lights, or an alarm. Do not go outside to switch anything on.
+
+6. **Use the camera view only from safety.**  
+   If you still have a view from this camera or another one, note clothing, height or build, bags or tools, direction of travel, and any vehicle colour, make, or readable plate. Do not go outside to get a better look.
+
+7. **Preserve what you have.**  
+   Save or download the clip if you can. Note the alert time, what the person did to the camera, whether they touched doors or windows, and whether anyone else was present.
+
+8. **If you are not at home, do not return into a possible active situation.**  
+   Stay somewhere safe. Call 999 if someone may still be there or trying to get in. If the immediate danger appears to have passed, report it through 101 or online and consider returning with another trusted adult.
+
+9. **If you live in a flat or shared building, alert building staff from safety.**  
+   If there is a concierge, building manager, or security desk, tell them someone has tampered with a camera or door area and ask them to preserve any communal CCTV.
 
 ## What can wait
-- You do not need to decide today whether to upgrade cameras, add locks, or change your whole security setup.
-- You do not need to “figure out who it was” or confront neighbours.
-- You do not need to clean, repair, or reinstall the camera immediately (save your footage first; safety first).
+- You do not need to decide now whether to upgrade cameras, add locks, or change your whole security setup.
+- You do not need to work out who it was.
+- You do not need to confront neighbours or ask around immediately.
+- You do not need to clean, repair, or reinstall the camera until the area feels safe and any urgent reporting is done.
 - You do not need to make a public warning post right now.
 
 ## Important reassurance
-It’s normal to feel a surge of panic, anger, or the urge to act quickly. The safest response is usually the quiet one: stay inside, get help if needed, and preserve what you already have.
+A sudden camera alert can make you feel as if you must act immediately. The safer first response is usually quiet and simple: create distance, contact help if needed, and save what evidence you already have.
 
 ## Scope note
-This is first-steps-only guidance to keep you safe and avoid irreversible mistakes in the moment. Follow-up actions (security changes, insurance, longer reporting) can come after the immediate risk has passed.
+These are first steps only, to help you stay safe and avoid irreversible mistakes in the moment. Later decisions about security changes, insurance, repairs, or formal follow-up may need specialist help.
 
 ## Important note
-This is general information, not legal advice. If you think someone is outside now, trying to get in, or you feel unsafe, treat it as urgent and contact the police.
+This is general information, not legal, medical, financial, therapeutic, or other professional advice. If someone is outside now, trying to get in, or you feel unsafe, treat it as urgent and contact the police.
 
 ## Additional Resources
 - https://www.gov.uk/contact-police
 - https://www.police.uk/pu/contact-us/
-- https://www.askthe.police.uk/view-category/~/view-category/?id=fd08df18-6ad2-eb11-bacb-000d3ad61986
-- https://www.kent.police.uk/ro/report/ocr/af/how-to-report-a-crime/
+- https://www.police.uk/contact/how-to-make-a-silent-999-call/
+- https://www.police.uk/pu/contact-us/theft-damaged-property-or-assault/
+- https://www.victimsupport.org.uk/crime-info/types-crime/burglary/

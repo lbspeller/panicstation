@@ -1,93 +1,114 @@
-﻿---
+---
 title: "What to do if… you receive alerts that accounts are being accessed after a death and you suspect identity misuse"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
-  - accounts accessed after death
-  - identity misuse after bereavement
-  - suspicious login alerts deceased
-  - hacked account after someone died
-  - fraud using deceased details
-  - ghosting identity theft
-  - unexpected password reset emails
-  - new device sign-in alerts
-  - unfamiliar transactions after death
-  - debt letters for deceased person
-  - new credit in deceased name
-  - takeover of email account
-  - phone number takeover after death
-  - sim swap warning messages
-  - executor sudden fraud worry
-  - bereavement scam signs
-  - compromised accounts after funeral
-  - someone using dead person's identity
-  - security alerts estate admin
-last_reviewed: "2026-03-03"
+  - "accounts accessed after death"
+  - "alerts after a death"
+  - "account access after death"
+  - "identity misuse after death"
+  - "suspected identity misuse"
+  - "identity theft after death"
+  - "deceased account alerts"
+  - "login alerts after death"
+  - "password reset after death"
+  - "bank alerts after death"
+  - "credit alerts after death"
+  - "email accessed after death"
+  - "phone accessed after death"
+  - "what do i do if accounts accessed after death"
+  - "what do i do if identity misuse after death"
+  - "what do i do if login alerts after death"
+  - "what do i do if deceased account accessed"
+  - "help i got alerts after death"
+  - "help i suspect identity misuse"
+  - "help i saw password resets"
+  - "help i found login alerts"
+  - "my dead relatives account accessed"
+  - "my deceased relatives email accessed"
+  - "my parents account accessed after death"
+  - "new device sign-in alerts"
+  - "unexpected password reset emails"
+  - "unknown login location alerts"
+  - "one-time codes after death"
+  - "sim swap warning messages"
+  - "unfamiliar transactions after death"
+  - "new credit in deceased name"
+  - "debt letters after death"
+  - "bereavement identity theft"
+  - "ghost identity theft"
+  - "deceased fraud"
+  - "account takeover after bereavement"
+  - "executor fraud worry"
+  - "deceased acount accessed"
+last_reviewed: "2026-05-19"
+date_created: "2026-05-19"
 ---
 
 # What to do if… you receive alerts that accounts are being accessed after a death and you suspect identity misuse (UK)
 
 ## Short answer
-Treat this like an active account takeover: secure the *email/phone* that controls password resets, then urgently tell the affected providers and block new credit being opened in the deceased person’s name.
+Treat this as possible active account takeover. Secure the email account and mobile number used for password resets, then tell the affected providers and reduce the risk of new credit being opened in the deceased person’s name.
 
 ## Do not do these things
-- Don’t click links in “security alert” emails/texts; go to the provider by typing the address or using the official app.
-- Don’t keep “testing logins” repeatedly if you think an attacker is active — it can trigger lockouts and give time for recovery details (email/phone) to be changed.
-- Don’t post or share extra personal details about the death (dates of birth, address history, account names) in public messages or obituaries.
-- Don’t assume it’s “just spam” if the alert mentions real devices, real services, or password resets you didn’t request.
+- Do not click links in security-alert emails or texts; use the provider’s official app or type the website address yourself.
+- Do not keep trying repeated logins if you think someone else is active in the account; it can trigger lockouts and create confusion.
+- Do not share extra personal details about the death, date of birth, address history, account names, or documents in public posts or messages.
+- Do not assume an alert is harmless if it names a real service, real device, password reset, one-time code, or transaction you did not expect.
+- Do not send death certificates, probate papers, or ID documents through a link sent in an unexpected message.
 
 ## What to do now
-1. **Pause and capture the basics (2 minutes).**  
-   Write down: which service, what the alert said, date/time, and any device/location info. Take screenshots. Start a simple log of every call/email you make (with reference numbers).
+1. **Capture the alert without using its links.**  
+   Take screenshots of the alert, the sender, the date and time, the service named, and any device, location, one-time code, or password-reset wording. Start a simple note of who you contact, when, and any reference numbers.
 
-2. **Secure the “master keys” first: email + mobile number.**  
-   - If the alert relates to an email account (or the deceased’s email is used for banking), sign in *directly* and **change the password** and **turn on 2-step verification**.  
-   - If you suspect the deceased’s mobile number is being used (unexpected OTP codes, “SIM changed”, calls/texts not arriving), **contact the mobile network** and ask them to **block/lock the SIM** and add stronger security on the account (so numbers can’t be ported or SIM-swapped easily).  
-   These two things often control password resets for everything else.
+2. **Secure the email account that controls resets.**  
+   Sign in through the email provider’s official app or typed website address. Change the password if you are authorised and able to do so, turn on two-step verification where possible, check for unknown forwarding rules or recovery details, and sign out unknown devices or sessions.
 
-3. **Contact the affected providers immediately (fraud/bereavement teams).**  
-   For any bank, card, insurer, investment platform, or payment account mentioned in alerts:  
-   - Tell them the account-holder has died and you’re seeing signs of unauthorised access.  
-   - Ask them to **freeze risky activity**, **block online access until reviewed**, and **note the account for suspected impersonation/fraud**.  
-   - If money has moved, ask what they need to treat it as an unauthorised transaction and to preserve records.
+3. **Protect the mobile number used for one-time codes.**  
+   If there are unexpected one-time codes, SIM-change messages, porting messages, or missing texts and calls, contact the mobile network through its official route. Say the account-holder has died and you are worried the number is being used for account recovery; ask what they can do to lock the account, block a SIM change, or add stronger account security.
 
-4. **Use the UK death-notification shortcuts (if you haven’t already).**  
-   - **Tell Us Once** is available for deaths registered in **England, Scotland, and Wales** (not Northern Ireland). If you have a Tell Us Once reference, use it to reduce gaps in government records.  
-   - Consider the **Death Notification Service** to notify multiple participating banks/building societies at once (it reduces missed notifications, though each firm still does its own checks).
+4. **Contact the provider named in the alert.**  
+   Use the provider’s official fraud, security, or bereavement route. Say the account-holder has died and you have received signs of possible unauthorised access. Ask them to freeze risky activity, stop online changes until reviewed, preserve access logs, and tell you what documents they need from the person handling the estate.
 
-5. **Reduce the risk of new credit being opened in the deceased person’s name.**  
-   - Contact the UK credit reference agencies — **Experian, Equifax, and TransUnion** — and ask how to add a **“deceased” flag/notice** to the deceased person’s credit file.  
-   - Requirements vary; they may ask for a copy of the death certificate and evidence you’re handling the estate (for example, executor/administrator paperwork if you have it).  
-   - If you’re authorised to access it, request the deceased person’s statutory credit report to check for any new accounts or searches you don’t recognise.
+5. **Prioritise money, credit, and reset accounts.**  
+   Deal first with banks, cards, payment apps, investment platforms, email accounts, mobile accounts, and any service that can create debt or reset other accounts. If money has moved, ask the provider how to report an unauthorised transaction and what evidence they need.
 
-6. **Report it through the national reporting route.**  
-   Make a report via **Report Fraud** (the UK’s national fraud reporting service; some guidance still refers to “Action Fraud”). Even if you’re not sure yet, a report creates a reference that can help when disputing credit entries or chasing providers.
+6. **Use death-notification routes to reduce gaps.**  
+   If the death was registered in England, Scotland, or Wales and you have a Tell Us Once reference that is still usable, use it to tell government organisations. For banks and building societies, consider the Death Notification Service, which can notify participating firms, though each firm may still ask for its own checks.
 
-7. **Reduce incoming post that can be used for fraud.**  
-   If you’re getting marketing mail in the deceased person’s name at their address, use a UK suppression service (for example, The Bereavement Register or Deceased Preference Service) to reduce mail that could be intercepted.
+7. **Check for new credit or debt in the deceased person’s name.**  
+   Contact Experian, Equifax, and TransUnion and ask how to mark the person as deceased, dispute suspicious searches or accounts, and request a credit report if you are authorised to do so. They may ask for a death certificate and proof that you are allowed to deal with the estate, such as probate or letters of administration if available.
 
-8. **If you are the executor/administrator: keep proof together.**  
-   Put in one folder (paper or digital): death certificate copies, your authority to act (if you have it yet), the alert screenshots, and a contact list of every organisation you’ve spoken to.
+8. **Report suspected fraud through the correct police route.**  
+   If you are reporting from England, Wales or Northern Ireland, use Report Fraud. If you are in Scotland, or the incident needs reporting to Police Scotland, use Police Scotland’s non-emergency reporting route or call 101. If there is an immediate risk to someone’s safety, call 999.
+
+9. **Reduce post and document risks.**  
+   Keep incoming post secure, redirect mail if you are authorised and it is appropriate, and avoid leaving documents with the deceased person’s name, address, date of birth, account details, or National Insurance number where others can see them.
+
+10. **Keep proof together.**  
+   Put the death certificate copies, your authority to act if you have it, alert screenshots, provider messages, police or Report Fraud references, and credit-reference correspondence in one folder.
 
 ## What can wait
-- You do **not** need to work out “who did it” right now.
-- You do **not** need to settle the estate, close every account, or contact every organisation today—focus on the accounts tied to the alerts and anything that can create new debt.
-- You do **not** need to decide about legal action immediately; preserve evidence and stop further misuse first.
+- You do not need to work out who did it today.
+- You do not need to close every account today; start with the accounts named in alerts and any account that controls money, credit, email, or phone recovery.
+- You do not need to decide about legal action now.
+- You do not need to settle the estate before taking urgent steps to stop further misuse.
 
 ## Important reassurance
-This is a common and very upsetting situation after a death—especially because automated alerts can feel like a fresh shock. You’re not overreacting: quick “lock it down + notify” steps are what prevent long, messy fallout later.
+This can happen after a death and it is very upsetting, especially when alerts arrive unexpectedly. You are not overreacting by slowing down, using official routes, preserving evidence, and asking providers to lock down access.
 
 ## Scope note
-These are first steps to stabilise and prevent further misuse. Cleaning up credit files, reversing transactions, and estate/legal steps may need follow-on help from the providers involved (and sometimes specialist advice).
+These are first steps only to stabilise the situation and reduce further misuse. Later decisions about estate administration, credit-file corrections, disputed transactions, complaints, or legal action may need specialist help.
 
 ## Important note
-This guide is general information for urgent first steps and does not replace legal, financial, or law-enforcement advice. Processes vary by organisation and by where the death was registered; if you’re unsure, ask each provider’s bereavement/fraud team exactly what they need from you.
+This guide is general information for urgent first steps. It is not legal, financial, law-enforcement, cyber-security, bereavement, or professional advice; providers and official bodies may ask for different documents or use different processes.
 
 ## Additional Resources
 - https://www.gov.uk/after-a-death/organisations-you-need-to-contact-and-tell-us-once
-- https://www.citizensadvice.org.uk/family/death-and-wills/what-to-do-after-a-death/
 - https://www.deathnotificationservice.co.uk/
-- https://www.deathnotificationservice.co.uk/faq.ofml
 - https://www.reportfraud.police.uk/identity-fraud-and-identity-theft/
-- https://www.actionfraud.police.uk/a-z-of-fraud/identity-fraud-and-identity-theft
-- https://ico.org.uk/for-the-public/identity-theft/
+- https://www.scotland.police.uk/advice/scams-and-frauds/
+- https://www.ncsc.gov.uk/guidance/recovering-a-hacked-account
+- https://www.experian.co.uk/consumer/data-access/thirdparty.html
+- https://www.equifax.co.uk/resources/loans-and-credit/death-and-credit-reports
+- https://www.transunion.co.uk/consumer/consumer-enquiries

@@ -1,68 +1,86 @@
-﻿---
+---
 title: "What to do if… someone is outside your home refusing to leave and you are inside alone"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
-  - someone outside my house
-  - person outside refusing to leave
-  - unwanted visitor at my door
-  - stranger outside home
-  - someone knocking repeatedly
-  - doorbell ringing nonstop
-  - someone banging on the door
-  - person trying to get inside
-  - feels unsafe at home alone
-  - alone in the house at night
-  - suspicious person outside property
-  - doorstep confrontation fear
-  - someone won’t leave the doorstep
-  - possible break in attempt
-  - harassment outside my home
-  - can’t safely open the door
-  - need urgent help at home
-  - worried they will force entry
-  - person loitering outside home
-  - threatened while inside home
-last_reviewed: "2026-01-10"
+  - "someone outside your home"
+  - "someone outside my house"
+  - "person outside refusing to leave"
+  - "unwanted visitor at my door"
+  - "stranger outside my home"
+  - "someone at my door"
+  - "person outside my property"
+  - "someone wont leave doorstep"
+  - "person trying to get inside"
+  - "someone banging on my door"
+  - "what do i do if someone is outside"
+  - "what do i do if someone wont leave"
+  - "what do i do if i am home alone"
+  - "what do i do if someone is at my door"
+  - "help i am inside alone"
+  - "help i feel unsafe at home"
+  - "help i cant open the door"
+  - "help i think someone is outside"
+  - "my doorbell keeps ringing"
+  - "my front door feels unsafe"
+  - "repeated knocking at night"
+  - "door handle being tried"
+  - "banging on the door"
+  - "voice outside the door"
+  - "lights outside the house"
+  - "person waiting outside"
+  - "loitering outside my home"
+  - "possible break in attempt"
+  - "possible trespass at home"
+  - "doorstep harassment fear"
+  - "neighbour dispute at door"
+  - "alone at home at night"
+  - "inside a flat alone"
+  - "somebody outisde my home"
+  - "possible brake in attempt"
+last_reviewed: "2026-05-01"
+date_created: "2026-05-01"
 ---
 
 # What to do if… someone is outside your home refusing to leave and you are inside alone (UK)
+
 ## Short answer
-Stay inside with doors/windows locked and call 999 if you feel in danger, threatened, or think they may try to enter or damage property. Keep the door closed and avoid face-to-face contact.
+Stay inside, keep the door closed, lock doors and accessible windows, and call 999 now if you feel in danger, threatened, or think they may try to enter or cause serious damage.
 
 ## Do not do these things
 - Do not open the door “just to talk”, even on a chain.
 - Do not step outside to try to move them on.
-- Do not argue or negotiate through an open door/window.
+- Do not argue or negotiate through an open window.
 - Do not threaten them or tell them what you have inside the home.
-- Do not assume you’re “wasting police time” if you feel unsafe.
-- Do not get pulled into recording from close range—staying behind a locked barrier matters more.
+- Do not assume you are “wasting police time” if you feel unsafe.
+- Do not move close to record them if it puts you nearer to the door, window, or outside.
 
 ## What to do now
-1. **Make a safer pause inside.** Lock the front/back doors, close and lock accessible windows, and move away from the door (but keep a way to observe via peephole/doorbell camera/window without being seen).
-2. **If it feels urgent, call 999 now.** Call 999 if it feels like the situation could get heated or violent soon, you feel threatened, they’re trying doors/handles, or you think property may be damaged.
-3. **If you can’t safely speak, still call 999 and stay on the line.** Follow the operator’s prompts. If you hear an automated message asking you to **press 55** to be put through to police, do that. If you don’t follow the prompts, the call may be ended.
-4. **Start with your address/postcode if you can.** Your phone network may provide some location information, but don’t rely on it—say your exact address as early as you safely can. Tell them you are **inside alone**, where the person is, and what they’re doing.
-5. **Keep the barrier: the closed, locked door.** If you choose to communicate, do it briefly through a closed door or intercom: “You need to leave. I’m not opening the door. Police have been called.” Then stop responding.
-6. **Increase deterrence without confrontation.** Turn on outside lights (or lights that illuminate the entrance). If you have an alarm/doorbell camera, ensure it’s recording.
-7. **Bring essentials to a safer room.** Take your phone, charger/power bank if nearby, keys, and any necessary medication. Choose a room that locks from the inside and ideally has a second exit. Stay quiet and out of sight if that feels safer.
-8. **Get another person “present” without opening the door.** Call a trusted neighbour/friend/family member and keep them on the line. If you can, ask a neighbour to look out from their window and/or call 999 too—**do not** ask them to confront the person.
-9. **If the person tries to force entry, treat it as an immediate emergency.** Go to your safer room, lock the door, put solid furniture between you and the entry, and stay connected to 999. Follow the call handler’s instructions.
+1. **Create a safer pause inside.** Lock the front door, back door, and any accessible windows. Move away from the entrance. Only check a peephole, doorbell camera, or window if you can do it without being seen or moving closer to danger.
+2. **Call 999 now if it feels urgent.** Call if the situation could get heated or violent soon, you feel threatened, they are trying doors or handles, a crime appears to be happening now, or you think there may be serious damage to property.
+3. **If you cannot safely speak, still call 999.** From a mobile, listen to the operator, cough or tap if you can, and press 55 if prompted so the call is treated as a genuine emergency. If you do not respond or press 55 when prompted, the call could be ended. From a landline, stay connected if you can, because the call may give emergency services location information.
+4. **Give your address early if you can.** Say your address and postcode first, then say: “I am inside alone. Someone is outside refusing to leave.” Describe where they are, what they are doing, and whether they have tried to enter.
+5. **Keep the locked door as the barrier.** If you choose to speak at all, keep it brief and through a closed door or intercom: “You need to leave. I am not opening the door. Police have been called.” Then stop responding.
+6. **Increase visibility without confrontation.** Turn on outside lights or hallway lights if you can do that safely. If you already have an alarm or doorbell camera, let it record without going outside.
+7. **Move essentials with you.** Take your phone, charger or power bank if nearby, keys, and any essential medication. Move to a room away from the entrance, but do not trap yourself somewhere you cannot leave if told to move by the 999 call handler.
+8. **Bring in support without opening the door.** Call a trusted neighbour, friend, or family member and keep them on the line if that helps. You can ask a neighbour to look from their own window or call 999 too, but do not ask them to confront the person.
+9. **If they try to force entry, treat it as an immediate emergency.** Move away from the entry point, stay connected to 999, keep as many locked barriers between you and them as you safely can, and follow the call handler’s instructions.
 
 ## What can wait
-- You do not need to decide right now whether to make a formal statement—focus on safety first.
-- You do not need to identify the person with certainty before calling—describe what you can.
-- If the person leaves and it’s no longer urgent, you can report what happened later via **101** or online.
-- You can sort out longer-term security changes (locks/cameras/lights) after the situation is stable.
+- You do not need to decide now whether to make a formal statement.
+- You do not need to identify the person with certainty before calling.
+- You do not need to prove a crime has happened before asking for urgent help if you feel unsafe.
+- If the person leaves and it is no longer urgent, you can report what happened later through 101 or online.
+- Longer-term choices about locks, cameras, lights, neighbours, or routines can wait until the immediate situation is stable.
 
 ## Important reassurance
-Feeling frozen, shaky, or unsure what “counts” is a normal stress response. Staying behind a locked barrier and asking for help when you feel unsafe is a sensible, protective choice.
+Feeling frozen, shaky, or unsure what “counts” is a normal stress response. Staying behind a locked barrier and asking for help when you feel unsafe is a sensible protective choice.
 
 ## Scope note
-This is first-steps-only guidance for the next minutes to hour. After it’s over, you may want follow-up support depending on what happened.
+These are first steps for the next few minutes to hour. Later decisions, such as reporting, housing concerns, harassment concerns, or home security changes, may need specialist help.
 
 ## Important note
-This guide is general information, not legal advice. If at any point you think you are in immediate danger, prioritise emergency help.
+This guide is general information only. It is not legal, medical, financial, therapeutic, security, or other professional advice. If you think you are in immediate danger, prioritise emergency help.
 
 ## Additional Resources
 - https://www.police.uk/pu/contact-us/

@@ -1,89 +1,100 @@
-﻿---
+---
 title: "What to do if… a tree has uprooted or is leaning toward your home after severe weather"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
-  - tree leaning toward house
-  - uprooted tree after storm
-  - storm damaged tree risk
-  - tree about to fall on home
-  - fallen tree near property
-  - cracked trunk after high winds
-  - exposed roots after severe weather
-  - tree in yard leaning
-  - neighbour tree leaning over
-  - tree threatening roof
-  - tree threatening windows
-  - hanging limbs after storm
-  - storm cleanup tree danger
-  - downed power line near tree
-  - tree on power line
-  - emergency tree removal
-  - unsafe tree after hurricane
-  - windblown tree near building
-last_reviewed: "2026-03-04"
+  - "tree uprooted near home"
+  - "tree leaning toward home"
+  - "storm damaged tree near house"
+  - "tree about to fall on house"
+  - "windblown tree threatening home"
+  - "tree roots lifted after storm"
+  - "tree leaning after severe weather"
+  - "tree unstable near roof"
+  - "what do i do if tree uprooted"
+  - "what do i do if tree is leaning"
+  - "what do i do if tree threatens home"
+  - "what do i do if roots are lifted"
+  - "help i have an uprooted tree"
+  - "help i have a leaning tree"
+  - "help i see exposed tree roots"
+  - "my tree is leaning toward house"
+  - "my tree moved after storm"
+  - "exposed roots beside leaning tree"
+  - "cracked trunk after severe weather"
+  - "hanging limbs above home"
+  - "soil lifting around tree roots"
+  - "tree resting against roof"
+  - "tree near downed wire"
+  - "fallen tree still partly standing"
+  - "tree tilted after storm"
+  - "tree root plate lifted"
+  - "tree looks uproted after storm"
+  - "tree leening toward home"
+  - "after hurricane tree leaning"
+  - "after tornado tree uprooted"
+  - "after high winds tree leaning"
+  - "neighbor tree leaning toward home"
+  - "large tree close to house"
+  - "tree leaning near driveway"
+last_reviewed: "2026-06-02"
+date_created: "2026-06-02"
 ---
 
 # What to do if… a tree has uprooted or is leaning toward your home after severe weather (USA)
 
 ## Short answer
-Keep everyone out of the fall zone and away from any wires. If there’s immediate danger or any involvement of power lines, call 911; otherwise contact your utility (if lines are nearby), your insurer, and a licensed/insured tree professional to make it safe.
+Move everyone away from the tree, hanging limbs, exposed roots, and any possible fall path. Report any fallen or low-hanging wire to your electric utility. Call 911 from a safe location if anything is sparking or burning, someone may have had an electric shock, or anyone is in immediate danger.
 
 ## Do not do these things
-- Don’t go under the leaning side or near the lifted root plate (it can shift without warning).
-- Don’t touch or approach downed or low-hanging wires—assume they are energized.
-- Don’t drive through standing water if downed lines could be in or near it.
-- Don’t try to cut, pull, or brace a storm-damaged tree yourself.
-- Don’t use ladders, climb the tree, or work on the roof near it.
-- Don’t let children/pets into the yard/driveway area around the tree.
+- Do not walk beneath the leaning tree or hanging limbs.
+- Do not go near lifted soil, exposed roots, or the base of the tree.
+- Do not touch a fallen or low-hanging wire, the tree, or anything touching a wire. Treat wires as energized.
+- Do not drive through standing water if a downed line could be in or near it.
+- Do not cut, pull, brace, climb, or move the tree yourself.
+- Do not use a ladder or go onto a roof near the tree.
+- Do not let children or pets enter the yard, driveway, or other area around the tree.
+- Do not enter the affected area to move vehicles or protect property.
 
 ## What to do now
-1. **Move people to a safer spot and set a perimeter.**  
-   Get everyone away from the direction the tree could fall (including rooms in that path). Keep a wide buffer around the tree and any hanging limbs.
+1. **Move people and pets away from the possible fall path.**  
+   Leave rooms, entrances, and outdoor areas that the tree or hanging limbs could reach. Use a route that does not take you beneath the tree or near exposed roots.
 
-2. **Treat electricity as the top risk (assume all wires are live).**  
-   If the tree is on/near power lines, you see any downed wire, or anything is sparking:
-   - **Call 911 immediately** and say it’s a potential electrical hazard.
-   - **Report it to your electric utility** as well.  
-   Stay well back and keep others back until utility crews say it’s safe.
+2. **Keep away from wires and report electrical hazards.**  
+   Report any fallen or low-hanging wire to your electric utility. Call 911 from a safe location if anything is sparking or burning, someone may have had an electric shock, or anyone is in immediate danger. Stay away until emergency services or the utility says the area is safe.
 
-3. **If the tree is actively threatening occupied space, act like it could happen soon.**  
-   Move everyone out of the threatened area (or leave the home if the safest rooms are still in the fall zone). Keep exits clear.
+3. **Leave on foot if you suspect a gas leak.**  
+   If you smell gas or hear hissing near the damaged area, move away on foot. Do not operate switches, start a vehicle, open an automatic garage door, or use anything that could create a spark in the affected area. Do not use a phone until you are away from the affected area. Call 911 from a safe location.
 
-4. **If it’s in the public right-of-way, report it to local services.**  
-   If it’s blocking a street/sidewalk/parkway or appears to be a public “street tree,” use **911 for immediate danger**; otherwise contact your **city/county public works, parks, or street-tree service**.
+4. **Contact an ISA-credentialed arborist when there is no immediate danger.**  
+   Say that the tree uprooted or began leaning toward the home after severe weather. Mention exposed roots, hanging limbs, roof contact, and any nearby wires. Ask the provider about insurance before arranging work.
 
-5. **If it’s on private property, get professional help quickly.**  
-   Contact a **licensed and insured tree service/arborist** and describe: “uprooted/leaning toward the house after severe weather.” Avoid anyone suggesting DIY bracing or quick cutting without a site assessment.
+5. **Report blocked public access routes.**  
+   If the tree blocks a road, sidewalk, or other public access route, contact the relevant local authority when it is safe to do so. Use 911 if the blockage creates an immediate danger.
 
-6. **Reduce the impact if it falls (only if safe and quick).**  
-   From a safe position: move vehicles and loose items out of the fall zone; keep doorways/driveways clear for responders.
-
-7. **Document and notify your insurer.**  
-   Take photos/video from a safe distance (lean angle, exposed roots, proximity to roof/windows, any visible damage). Contact your homeowners insurer to report potential storm damage and ask about emergency mitigation.
-
-8. **If the house has been hit or looks structurally stressed, leave and get help.**  
-   If you see major cracks, shifting/sagging, or smell gas, leave the building and call **911**. Only shut off utilities if you can do it without entering the danger area.
+6. **Stay out of a damaged building.**  
+   If the tree has hit the home, or you hear shifting or unusual noises, leave by a safe route. Do not go back inside until emergency services, local authorities, or an appropriate qualified professional says it is safe.
 
 ## What can wait
-- You don’t need to decide fault/responsibility right now.
-- You don’t need to start cleanup immediately (especially not with chainsaws).
-- You don’t need repair estimates before the situation is made safe.
-- You can wait on non-urgent calls/messages until everyone is safe and hazards are controlled.
+- You do not need to decide who is responsible for the tree right now.
+- You do not need to begin cleanup or move branches yourself.
+- You do not need to move vehicles or belongings from the hazard area.
+- You do not need repair estimates before the area is made safe.
+- Photos, video, and an insurer call can wait until you can do them from a safe location.
 
 ## Important reassurance
-Wanting to “handle it quickly” is a normal reaction. Storm-damaged trees can move unpredictably, and the safest first move is usually **distance + perimeter + the right call(s)**—especially if electricity might be involved.
+Keeping your distance is a useful action, not a delay. A storm-damaged tree can continue to move after the weather has passed, and professional help is the safer next step.
 
 ## Scope note
-This covers first steps for the next few hours. After the immediate hazard is controlled, next steps may include insurer-directed mitigation, professional tree assessment/removal, and (if needed) a structural inspection.
+These are first steps only. Later decisions about tree removal, repairs, insurance, or responsibility may need help from an arborist, your utility, your insurer, local authorities, or another relevant specialist.
 
 ## Important note
-This is general information, not professional advice. If you think anyone is in immediate danger, call 911. Treat any downed or low-hanging wire as energized and keep away until cleared by professionals.
+This is general information, not legal, medical, financial, therapeutic, or other professional advice. Call 911 if anyone is in immediate danger.
 
 ## Additional Resources
 - https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-from-electrical-hazards.html
 - https://www.cdc.gov/hurricanes/safety/how-to-safely-stay-safe-after-a-hurricane-or-other-tropical-storm.html
-- https://www.ready.gov/evacuation
-- https://www.ready.gov/power-outages
-- https://www.firstenergycorp.com/help/safety/downed-power-lines.html
-- https://www.ready.gov/sites/default/files/2025-02/fema_full-suite-hazard-info-sheets.pdf
+- https://www.osha.gov/sites/default/files/publications/DOWNED_ELECTRICAL_WIRES.pdf
+- https://www.treesaregood.org/Portals/0/TreesAreGood_Storm%20Related%20Tree%20Damage_0721.pdf
+- https://certificates.directory.isa-arbor.com/
+- https://www.phmsa.dot.gov/safety-awareness/pipeline/pipeline-leak-recognition-and-what-do

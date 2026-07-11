@@ -1,87 +1,107 @@
-﻿---
+---
 title: "What to do if… a hospital asks you to come in urgently to discuss end-of-life decisions for a relative"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
-  - hospital urgent call
-  - end of life decisions
-  - surrogate decision maker
-  - health care proxy
-  - advance directive question
-  - living will discussion
-  - dnr order discussion
-  - polst form question
-  - family meeting hospital
-  - palliative care consult
-  - ethics consult request
-  - pressured to decide
-  - relative in icu
-  - comfort care decision
-  - life support questions
-  - what to ask the doctor
-  - who can consent
-  - hipaa personal representative
-  - making decisions for parent
-last_reviewed: "2026-03-03"
+  - "hospital asks for end-of-life decisions"
+  - "urgent hospital end-of-life meeting"
+  - "relative needs end-of-life decisions"
+  - "end-of-life decisions for relative"
+  - "hospital calls family urgently"
+  - "urgent care decisions for relative"
+  - "relative near end of life"
+  - "family asked about life support"
+  - "what do i do if hospital calls urgently"
+  - "what do i do if relative is dying"
+  - "what do i do if hospital wants decisions"
+  - "what do i do if family must decide"
+  - "help i need end-of-life decisions"
+  - "help i feel pressured by hospital"
+  - "my relative may be dying"
+  - "my family disagrees about treatment"
+  - "relative in icu"
+  - "hospital mentions dnr"
+  - "hospital mentions comfort care"
+  - "hospital asks about ventilator"
+  - "hospital asks about feeding tube"
+  - "relative cannot speak for themselves"
+  - "family meeting feels urgent"
+  - "dnr seems like no treatment"
+  - "comfort care feels like giving up"
+  - "i cannot find a living will"
+  - "i am unsure about health care proxy"
+  - "i do not know what polst means"
+  - "parent in hospital"
+  - "spouse in icu"
+  - "relative without advance directive"
+  - "family conflict at hospital"
+  - "out of state hospital call"
+  - "relative cannot make medical decisions"
+last_reviewed: "2026-05-31"
+date_created: "2026-05-31"
 ---
 
 # What to do if… a hospital asks you to come in urgently to discuss end-of-life decisions for a relative (USA)
 
 ## Short answer
-Go in (or join by phone/video) and ask the team to state clearly what decision is needed *today* and who is legally allowed to make it. Before agreeing to anything, ask whether there’s an advance directive or named health care proxy and request a palliative care conversation if end-of-life choices are on the table.
+Join the meeting in person or by phone or video. Ask what needs deciding now, whether a brief pause is medically possible, whether your relative can make the decision, and what document or state-law process the team is using if someone else needs to decide.
 
 ## Do not do these things
-- Do not consent to major treatment changes while you feel rushed—if it’s time-critical, ask for a brief, structured summary (options, likely outcomes, recommendation) and have your questions documented.
-- Do not assume the closest relative can automatically decide; authority depends on a health care proxy/guardian or your state’s surrogate rules.
-- Do not treat “DNR” as the whole conversation—ask what other treatments are (or aren’t) being recommended and why.
-- Do not sign paperwork you don’t understand; ask for the form name and a plain-language summary first.
-- Do not rely on memory alone—write down names, roles, and what was said.
+- Do not assume you need to answer every question immediately. Ask what is time-critical and whether a brief pause for a clear summary is medically possible.
+- Do not assume the closest relative automatically has authority to decide. Ask the team to explain the applicable document or state-law process.
+- Do not treat a DNR order as the whole conversation. Ask what it would cover and what other treatments are being discussed.
+- Do not sign a form you do not understand. Ask for the form name and a plain-English explanation.
+- Do not try to settle every family disagreement before the meeting. Ask the team to clarify the decision-making process.
 
 ## What to do now
-1. **Confirm the urgency and your options to join.** Ask: “Is this decision needed today, and what happens if I can’t arrive for a few hours?” If you can’t be there, request a **phone/video family meeting** and the unit’s direct number.
-2. **Ask the key legal-authority question immediately.** Say: “Who is the legally recognized decision-maker for my relative right now?” Ask them to check for:
-   - a **health care proxy / durable power of attorney for health care**
-   - a **living will / advance directive**
-   - a **court-appointed guardian** (if any)
-   - **POLST** or a similar portable medical order (names vary by state) — ask what it’s called locally and whether one is on file  
-   If you have documents, bring them or send clear photos.
-3. **Ask whether your relative can still make their own decisions.** If your relative has decision-making capacity, ask how the team will include them (and how you can support them without speaking over them).
-4. **Get clarity on what decision is actually being requested.** Ask: “Is this about DNR, intubation/ventilator, ICU transfer, dialysis, feeding tubes, surgery, antibiotics, or switching to comfort-focused care?”
-5. **Use a short, stabilizing question set.** Ask:
-   - “What are you most worried will happen in the next 24–72 hours?”
-   - “What is the best-case and most likely outcome with this treatment? Without it?”
-   - “What would this look like for them day-to-day if it ‘works’?”
-   - “What are you recommending, and what is the reasoning for this patient?”
-6. **Request the right teams for end-of-life decision support.**
-   - Ask for a **palliative care consult** (comfort, symptom control, goals-of-care conversations).
-   - If there is conflict or uncertainty, request an **ethics consult** (many hospitals have an ethics service) to help structure the decision process.
-7. **Protect against misunderstanding and later confusion.**
-   - Ask for a written summary in the chart (or a printed after-visit summary if available): “Can you document what we decided and why?”
-   - Ask for the specific order name if discussed (e.g., “DNR order”) and what it does and does not mean at that hospital.
-8. **If HIPAA is limiting what they’ll tell you, ask the right way.** Say: “Am I recognized as the patient’s personal representative or authorized contact? If not, what do you need from me (documents) to speak with me?” If your relative can still consent, ask staff to have them give permission for you to receive updates.
-9. **If family members disagree, slow it down and set a process.**
-   - Ask the team to identify the legally authorized decision-maker (one person).
-   - Request a scheduled family meeting with the attending physician (or ICU team) plus palliative care to reduce mixed messages.
+1. **Confirm how urgent the meeting is.** Ask: “What decision needs to be discussed now?” and “What may happen if I cannot arrive for a few hours?” Ask to join by phone or video if needed.
+
+2. **Ask whether your relative can make the decision.** Say: “Can my relative make this decision for themselves right now?” If the team says they cannot, ask them to explain what decision this applies to and what process they are using.
+
+3. **Ask the team to check for relevant documents.** Ask whether the chart includes:
+   - an advance directive or living will
+   - a health care proxy or health care power of attorney
+   - a court-appointed guardian, if relevant
+   - a POLST form or similar portable medical order, if relevant
+
+   If you have a document, ask how to provide a copy securely.
+
+4. **Ask what decision is actually being requested.** Ask whether the discussion is about CPR, a DNR order, a ventilator, dialysis, tube feeding, surgery, antibiotics, transfer to intensive care, or a shift toward comfort-focused care.
+
+5. **Ask for a short medical summary.** Use questions such as:
+   - “What are you most concerned may happen soon?”
+   - “What are the realistic options?”
+   - “What is the likely outcome with each option?”
+   - “What are you recommending for this patient, and why?”
+
+6. **Ask what a DNR order would and would not cover.** A DNR order concerns CPR if breathing or heartbeat stops. Ask which other treatments would still be considered and which treatments the team is discussing separately.
+
+7. **Ask for support with the conversation.** Ask whether palliative care can join to discuss comfort, symptoms, and goals of care. If there is disagreement or uncertainty, ask whether an ethics consultation or similar support service is available.
+
+8. **Ask what information the hospital can share with you.** If your relative can answer, ask whether they want staff to share updates with you. If they cannot answer, ask what information the team can share based on your involvement in care and whether the hospital needs documents to establish personal-representative status.
+
+9. **Ask the team to document the outcome.** Ask them to record the decision, the order name, and the next step in the chart. Ask what written summary is available.
+
+10. **If family members disagree, ask for one structured meeting.** Ask the team to explain the applicable decision-making process and arrange a meeting with the treating team and any available support service.
 
 ## What can wait
-- You do not need to make decisions today about funeral arrangements, obituaries, estate matters, or long-term family logistics.
-- You do not need to “solve” family conflict right now—focus on clarifying who decides and what your relative would want.
-- You do not need to remember everything—your immediate goal is clarity, documentation, and support.
+- You do not need to decide funeral arrangements, estate matters, or long-term family logistics now.
+- You do not need to resolve every family conflict before speaking with the hospital team.
+- You do not need to remember everything. Focus on the immediate decision, the patient’s wishes, and the next step.
 
 ## Important reassurance
-This meeting is often about matching care to the person’s values when time is short—not about you “choosing” whether they live or die. Hospitals call families in urgently because medical changes can happen quickly and they need informed decisions and clear documentation. Feeling overwhelmed, guilty, frozen, or tearful is a common, normal response.
+An urgent meeting can mean the medical situation or the available choices are changing. Asking for a clear explanation is reasonable. Feeling overwhelmed, tearful, frozen, or unsure does not mean you are failing your relative.
 
 ## Scope note
-This guide covers first steps for the urgent hospital meeting. The legal details of surrogate decision-making and specific forms (advance directives, POLST) vary by state and situation, so the hospital team may need to explain what applies in your case.
+These are first steps for an urgent hospital conversation. The decision-making process, relevant documents, and available support services may depend on the patient’s situation, the hospital, and state law. Later decisions may need help from the treating team or an appropriate specialist.
 
 ## Important note
-This is general information, not legal or medical advice. If you are unsure about authority to decide, ask the hospital to explain their policy and your state’s requirements, and consider requesting an ethics consult or the hospital’s patient relations/patient advocate support.
+This is general information, not legal, medical, therapeutic, financial, or other professional advice. Ask the hospital team to explain what applies in your relative’s situation.
 
 ## Additional Resources
 - https://medlineplus.gov/advancedirectives.html
-- https://medlineplus.gov/ency/patientinstructions/000472.htm
-- https://www.nia.nih.gov/health/end-life/making-decisions-someone-end-life
-- https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/personal-representatives/index.html
-- https://www.hhs.gov/hipaa/for-professionals/privacy/guidance/access/index.html
-- https://polst.org/
-- https://www.mayoclinic.org/healthy-lifestyle/consumer-health/in-depth/living-wills/art-20046303
+- https://medlineplus.gov/palliativecare.html
+- https://www.hhs.gov/hipaa/for-individuals/personal-representatives/index.html
+- https://www.hhs.gov/hipaa/for-individuals/family-members-friends/index.html
+- https://polst.org/for-patients/faqs/
+- https://code-medical-ethics.ama-assn.org/ethics-opinions/ethics-consultations

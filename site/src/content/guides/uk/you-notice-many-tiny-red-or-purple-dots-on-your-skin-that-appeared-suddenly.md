@@ -1,81 +1,103 @@
-﻿---
+---
 title: "What to do if… you notice many tiny red or purple dots on your skin that appeared suddenly"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
-  - sudden tiny red dots
-  - sudden purple dots on skin
-  - tiny red spots appeared suddenly
-  - tiny purple spots appeared suddenly
-  - petechiae sudden appearance
-  - non blanching rash
-  - rash that does not fade
-  - pinprick rash
-  - fleabite like spots
-  - small blood spots on skin
-  - new unexplained bruised dots
-  - rash after coughing or vomiting
-  - spots under skin not itchy
-  - dots on legs suddenly
-  - dots on arms suddenly
-  - red spots with fever
-  - purple spots with fever
-  - sudden blood spots under skin
-  - petechial rash in child
-  - purpura appeared suddenly
-last_reviewed: "2026-02-21"
+  - "sudden tiny red dots"
+  - "sudden purple dots"
+  - "tiny red spots suddenly"
+  - "tiny purple spots suddenly"
+  - "pinprick red rash"
+  - "pinprick purple rash"
+  - "small blood spots"
+  - "blood spots under skin"
+  - "non blanching rash"
+  - "rash that does not fade"
+  - "petechiae appeared suddenly"
+  - "purpura appeared suddenly"
+  - "red dots on skin"
+  - "purple dots on skin"
+  - "what do i do if red dots appear"
+  - "what do i do if purple dots appear"
+  - "what do i do if rash does not fade"
+  - "what do i do if spots appeared suddenly"
+  - "help i have red dots"
+  - "help i have purple dots"
+  - "help i have pinprick spots"
+  - "help i have blood spots"
+  - "my rash does not fade"
+  - "my child has red dots"
+  - "my skin has purple dots"
+  - "spots after coughing"
+  - "spots after vomiting"
+  - "dots with fever"
+  - "dots with headache"
+  - "dots with stiff neck"
+  - "dots with bruising"
+  - "dots inside mouth"
+  - "not itchy red dots"
+  - "flea bite like spots"
+  - "petichiae rash suddenly"
+  - "non blanch rash"
+last_reviewed: "2026-05-15"
+date_created: "2026-05-15"
 ---
 
 # What to do if… you notice many tiny red or purple dots on your skin that appeared suddenly (UK)
 
 ## Short answer
-Treat this as **urgent** until proven otherwise. **If the spots do not fade when pressed and you feel unwell (especially fever, confusion, severe headache, stiff neck, or rapidly worsening symptoms), call 999 now.**
+If the spots do not fade when pressed with a clear glass and you feel unwell, call 999 now. If you feel well but the spots are new, widespread, or unexplained, arrange same-day urgent medical advice.
 
 ## Do not do these things
-- Do not assume it’s “just a rash” if it appeared suddenly, is widespread, or you feel unwell.
-- Do not delay because you’re waiting to see if it goes away overnight.
-- Do not drive yourself to A&E if you feel very unwell, faint, confused, or drowsy.
-- Do not stop prescribed blood thinners, prescribed aspirin, steroids, or other regular medicines without urgent clinician advice (unless a clinician tells you to).
-- Do not start aspirin “just in case” for pain/fever unless a clinician has told you it’s appropriate for you.
+- Do not assume it is just a harmless rash if it appeared suddenly, is spreading, or you feel unwell.
+- Do not wait overnight if the spots do not fade under glass or there are fever, confusion, severe headache, stiff neck, fast breathing, or extreme sleepiness.
+- Do not drive yourself to A&E if you feel faint, confused, very drowsy, or very unwell.
+- Do not stop prescribed anticoagulants, antiplatelets, aspirin, steroids, chemotherapy, or other regular medicines unless a clinician tells you to.
+- Do not start aspirin for pain or fever unless a clinician has told you it is suitable for you.
 
 ## What to do now
-1. **Do a quick press test (a triage clue, not a diagnosis).**  
-   Using the side of a clear glass (or a clear plastic card), press firmly on a few spots:
-   - **If the spots stay red/purple and do not fade**, treat as **non-blanching**.
-2. **If the rash is non-blanching AND you feel unwell, call 999 immediately.**  
-   This is especially urgent with any of: fever/shivering, severe headache, stiff neck, light sensitivity, vomiting, confusion, extreme sleepiness, fast breathing, severe muscle/joint pains, cold hands/feet, or if the rash is spreading quickly.
-3. **If you feel “okay” but the rash is new and widespread, get same-day assessment.**  
-   - Call **NHS 111** for urgent advice and to be directed to the right service **today**.  
-   - Go to **A&E** now if symptoms are worsening, you can’t get urgent assessment, or you have other bleeding signs (next step).
-4. **Check for other bleeding signs right now (this changes urgency).**  
-   Look for: new/unusual bruising, bleeding gums, frequent nosebleeds, blood in urine/stool, or tiny spots inside the mouth/inner eyelids. If any are present, seek **same-day urgent assessment** (999 if severely unwell).
-5. **Note anything that increases bleeding risk (don’t change it yet—just record it).**  
-   Write down (or photograph) your medicines and recent changes, especially: anticoagulants (“blood thinners”), antiplatelets (including aspirin), chemotherapy/immunosuppressants, or any new medicine in the last 1–2 weeks.
-6. **Document what’s happening before you speak to a clinician.**  
-   - Take clear photos in good light.  
-   - Note the time it started and whether it’s spreading.  
-   - If safe, lightly mark the edge of a cluster with a pen to see if it expands.
-7. **If this is a child: treat a new non-blanching rash as urgent.**  
-   Children can look “not too bad” early on. A non-blanching rash generally needs **same-day hospital assessment**, unless there is a clear accidental/mechanical cause (for example, a very localized rash after intense coughing/vomiting/straining) and the child is otherwise well. If the child is unwell or getting worse, **call 999**.
+1. **Check whether the spots fade under pressure.**  
+   Press the side of a clear glass firmly over a few spots. If you can still see the red or purple spots through the glass and they do not fade, treat this as a non-blanching rash. If you are not sure, treat it as urgent.
+
+2. **Call 999 now if there are emergency warning signs.**  
+   Call 999 if the rash is non-blanching and you or the person affected feels unwell, or if there is fever or shivering, confusion, severe headache, stiff neck, light sensitivity, vomiting, extreme sleepiness, fast breathing, severe muscle or joint pain, cold hands or feet, pale or mottled skin, seizure, or the rash is spreading quickly.
+
+3. **If there is no emergency warning sign, get same-day urgent advice.**  
+   Use the urgent NHS route for where you are: NHS 111 online in England, NHS 24 111 in Scotland, 111 Wales, or GP out-of-hours in Northern Ireland if your GP surgery is closed. Say clearly: “I have sudden red or purple pinprick spots, and I need advice on whether they are non-blanching.”
+
+4. **Check for bleeding signs and tell the clinician.**  
+   Look for new or unusual bruising, bleeding gums, frequent nosebleeds, blood in urine or poo, unusually heavy periods, black mouth blisters, or tiny spots inside the mouth or inner eyelids. If any are present, seek same-day urgent assessment; call 999 if you are also very unwell.
+
+5. **Write down medicines and recent changes.**  
+   Note any anticoagulants, antiplatelets, aspirin, steroids, chemotherapy, immunosuppressants, antibiotics, or new medicines started recently. Do not change them yourself; have the list ready for the clinician.
+
+6. **Record what is happening.**  
+   Take clear photos in good light, note when the spots started, whether they are spreading, and whether you have fever, headache, neck stiffness, vomiting, breathlessness, pain, or unusual tiredness.
+
+7. **If this is a child, be more cautious.**  
+   A child who is unwell with a rash that looks like small bruises or bleeding under the skin and does not fade under a glass needs 999 or A&E now. If the child seems well but the non-blanching rash is new or you are worried, get urgent same-day medical advice.
 
 ## What can wait
 - You do not need to work out the cause right now.
-- You do not need to start creams, antihistamines, supplements, or “detox” treatments.
-- You do not need to decide about long-term follow-up until after you’ve had urgent assessment.
+- You do not need to decide whether it is petechiae, purpura, allergy, infection, bruising, or another condition before seeking help.
+- You do not need to start creams, antihistamines, supplements, or home treatments unless a clinician advises them.
+- You do not need to plan long-term follow-up until urgent causes have been checked.
 
 ## Important reassurance
-It’s normal to feel alarmed by sudden red/purple pinprick dots. Many causes are treatable and some are minor, but **some serious illnesses can start with a non-blanching rash**, so acting promptly is the safest way to reduce risk.
+Sudden red or purple pinprick dots can be frightening. Some causes are minor or treatable, but a non-blanching rash can sometimes be an early sign of serious illness, so quick medical triage is the safer choice.
 
 ## Scope note
-These are first steps for the first hours. Clinicians may need to examine you, check vital signs, and sometimes do blood tests to rule out serious infection or blood/platelet problems.
+These are first steps for the first hours only. A clinician may need to examine the rash, check observations, review medicines, and sometimes arrange blood tests or hospital assessment.
 
 ## Important note
-This is general information, not a diagnosis. If you are getting worse, feel very unwell, or the rash is non-blanching, treat it as urgent and seek immediate medical help.
+This is general information, not a diagnosis or medical advice. If you are getting worse, feel very unwell, or the rash does not fade under a glass, seek urgent medical help now.
 
 ## Additional Resources
 - https://www.nhs.uk/conditions/meningitis/symptoms/
-- https://cks.nice.org.uk/topics/meningitis-bacterial-meningitis-meningococcal-disease/diagnosis/assessing-the-rash/
-- https://cks.nice.org.uk/topics/meningitis-bacterial-meningitis-meningococcal-disease/
+- https://www.nhs.uk/symptoms/rashes-babies-and-children/
 - https://www.nice.org.uk/guidance/ng240/chapter/Recommendations
-- https://www.kingstonandrichmond.nhs.uk/services/healthcare-professionals/how-refer/paediatric-referrals/non-blanching-rashes-children
-- https://www.royaldevon.nhs.uk/media/jagftbi4/discharge-advice-for-carers-of-children-younger-than-5-years-who-have-a-fever-rde-20-140-002.pdf
+- https://111.nhs.uk/
+- https://www.nhs24.scot/111/
+- https://111.wales.nhs.uk/
+- https://www.nidirect.gov.uk/articles/gp-out-hours-service
+- https://www.nhs.uk/conditions/vasculitis/

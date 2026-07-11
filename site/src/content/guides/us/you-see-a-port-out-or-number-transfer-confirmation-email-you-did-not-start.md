@@ -1,91 +1,104 @@
-﻿---
-title: "What to do if… you see a “port-out” or “number transfer” confirmation email you did not start"
+---
+title: "What to do if… you see a port-out or number transfer confirmation email you did not start"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
-  - port-out email
-  - number transfer email
-  - unauthorized port out
-  - phone number transfer scam
-  - sim swap warning
-  - number hijacking
-  - mobile account takeover
-  - sms codes intercepted
-  - carrier port request you didn’t make
-  - wireless account compromised
-  - number transfer protection
-  - port freeze number lock
-  - unexpected carrier transfer
-  - phone number stolen
-  - two factor sms at risk
-  - account recovery risk
-  - porting confirmation you didn’t start
-  - telecom fraud
-last_reviewed: "2026-03-09"
+  - "port-out confirmation email"
+  - "number transfer confirmation email"
+  - "unauthorized port-out email"
+  - "unexpected number transfer"
+  - "phone number transfer scam"
+  - "mobile number port-out"
+  - "phone number hijacking"
+  - "wireless account takeover"
+  - "sim swap warning"
+  - "carrier transfer email"
+  - "what do i do if port-out email"
+  - "what do i do if number transfer"
+  - "what do i do if phone number"
+  - "what do i do if sim swap"
+  - "help i got a port-out email"
+  - "help i got a number transfer"
+  - "my phone number is transferring"
+  - "my carrier emailed a transfer"
+  - "my number transfer looks fake"
+  - "my port-out request is unauthorized"
+  - "no service after port-out"
+  - "sms codes stopped arriving"
+  - "calls stopped working"
+  - "texts stopped working"
+  - "carrier account changed"
+  - "bank codes at risk"
+  - "sim swap or port-out"
+  - "number port or transfer"
+  - "carrier email real or scam"
+  - "phone hacked or ported"
+  - "didnt request number transfer"
+  - "unauthorized portout email"
+  - "family plan number transfer"
+last_reviewed: "2026-06-23"
+date_created: "2026-06-23"
 ---
 
-# What to do if… you see a “port-out” or “number transfer” confirmation email you did not start (USA)
+# What to do if… you see a port-out or number transfer confirmation email you did not start (USA)
 
 ## Short answer
-Call your mobile carrier immediately (using the number from the carrier’s official website/app) and say it’s an **unauthorized port-out/number transfer**—ask them to cancel it and enable a **port/number-transfer lock** on your account.
+Contact your mobile carrier immediately using the official app, website, or a number you already trust. Say the port-out or number transfer is unauthorized and ask them to stop it, secure the account, and add a port lock or number-transfer lock if available.
 
 ## Do not do these things
 - Don’t click links, open attachments, or call numbers shown in the email.
-- Don’t assume it will “fail on its own” and wait—ports can complete fast.
-- Don’t use SMS text codes to reset important passwords right now (they may be intercepted if the transfer goes through).
-- Don’t trust unexpected “carrier support” or “bank security” calls/texts that show up right after this—hang up and call back using an official number/app you choose.
+- Don’t wait to see if it fails on its own; number transfers can move quickly.
+- Don’t use SMS text codes to reset important passwords right now if another option is available.
+- Don’t trust unexpected “carrier support,” “bank security,” or “fraud department” calls or texts that arrive after the email; end the contact and use an official app, website, or number you choose.
+- Don’t give anyone a one-time code, account PIN, password, or recovery code because they contacted you first.
 
 ## What to do now
-1. **Call your carrier and ask for the porting/number-transfer (or fraud) team.**  
-   Say: “I received a number transfer/port-out confirmation I did not request. This is unauthorized. Please stop/cancel the port and secure my account.”  
+1. **Contact your carrier and ask for the porting, number-transfer, or fraud team.**  
+   Say: “I received a number transfer or port-out confirmation I did not request. This is unauthorized. Please stop the transfer and secure my account.”  
    Ask them to:
-   - **Cancel/stop any pending port-out**
-   - **Enable Number Transfer Protection / Port Lock / Port Freeze** (carrier naming varies)
-   - **Reset your account PIN/passcode** and remove any unfamiliar emails/phone numbers on the account
-   - Confirm whether the request is pending or completed, and when it was initiated
-   - Provide a case/reference number
+   - cancel or block any pending port-out or number transfer
+   - add Number Transfer Protection, Port Lock, Port Freeze, or the closest available account lock if available on your account
+   - reset your carrier account PIN or passcode
+   - remove any unfamiliar email addresses, phone numbers, devices, authorized users, or shipping addresses
+   - tell you whether the request is pending or completed, and when it was requested
+   - give you a case or reference number
 
-2. **Check whether you’ve lost service.**  
-   If your phone shows “No Service,” can’t send texts, or calls fail, tell the carrier you may already be ported and need your number restored urgently.
+2. **Check whether your phone still has service.**  
+   If your phone shows “No Service,” cannot send texts, cannot receive calls, or loses mobile data unexpectedly, tell the carrier you may already have been ported and need the number restored urgently.
 
-3. **Secure your email account immediately (before everything else).**  
-   - Change your email password from a trusted device.
-   - Turn on two-factor authentication using an authenticator app or security key (not SMS if you can).
-   - Remove unknown forwarding, filters/rules, or recovery options.
+3. **Secure your email account before using it for recovery.**  
+   From a trusted device, change your email password. Turn on two-factor authentication with an authenticator app or security key if available, and remove unknown forwarding rules, filters, recovery emails, recovery phone numbers, and signed-in sessions.
 
-4. **Call your bank(s) and payment apps and warn them your phone number may be compromised.**  
-   Ask them to add extra verification and watch for attempted logins or transfers. If you see suspicious transactions, use their fraud process right away.
+4. **Warn your bank, card issuers, and payment apps.**  
+   Use their official apps, websites, or card-back numbers. Tell them your phone number may be compromised, ask for extra verification, and review recent logins, transfers, new payees, card changes, and password resets.
 
 5. **Lock down accounts tied to your phone number.**  
-   Prioritize: email, banking, Apple ID/Google account, your carrier online account, and messaging apps that can be re-registered to a number.  
-   - Change passwords.
-   - Replace SMS-based 2FA with app-based 2FA or security keys where possible.
+   Prioritize your email, bank accounts, payment apps, Apple ID or Google account, carrier account, and messaging apps that can be re-registered to a phone number. Change passwords where needed and move away from SMS-based two-factor authentication where the account offers an authenticator app or security key.
 
-6. **Create a minimal evidence trail.**  
-   Save the email, note the time received, and write down carrier case numbers and the dates/times you spoke to support.
+6. **Save a small evidence trail.**  
+   Keep the email, take screenshots if useful, note when you received it, and write down carrier case numbers, support names if given, and dates and times of calls or chats.
 
-7. **Add identity-theft protections if the port completed or accounts/money were targeted.**  
-   - **File a police report** if your number was taken over, accounts were accessed, or money was stolen.  
-   - **Place a fraud alert or freeze your credit** with the major credit bureaus if you’re worried about new-account fraud.  
-   - Consider reporting through the **FTC identity theft** channel if you’re dealing with broader identity misuse.  
-   - You can also **file an FCC complaint** about port-out fraud, especially if you’re not getting traction with the carrier.
+7. **Use identity-theft steps if the port completed or accounts were targeted.**  
+   If your number was taken, accounts were accessed, or money was stolen, consider filing an identity-theft report, placing a fraud alert or credit freeze, and making a police report if your bank, carrier, or identity-theft recovery process asks for one. You can also file an FCC complaint if the carrier is not resolving the porting problem.
 
 ## What can wait
-- You don’t need to diagnose how the attacker got your information right now.
-- You don’t need to contact every account today—focus on carrier, email, and money-related accounts first.
-- You don’t need to decide whether to change your number today; regain control and stabilize first.
+- You don’t need to work out how the attacker got your information right now.
+- You don’t need to contact every account today; focus on your carrier, email, bank, card, payment, and main identity accounts first.
+- You don’t need to decide today whether to change your phone number.
+- You don’t need to argue with suspicious callers or texters; use official routes and keep moving.
 
 ## Important reassurance
-Seeing this message is a legitimate reason to act quickly. Many cases are stopped if you reach your carrier fast and secure email and financial accounts right away.
+This email is a valid reason to act quickly, but it does not mean every account is already lost. Getting the carrier involved, securing email, and warning money-related accounts can reduce the immediate risk and help you regain control.
 
 ## Scope note
-These are first steps to stop a takeover and reduce immediate harm. After you’re stable, you can do a fuller audit (devices, recovery options, and account security) with more time and support.
+These are first steps only. Later decisions, including account recovery, identity-theft cleanup, credit issues, or disputes with a carrier or financial institution, may need specialist help.
 
 ## Important note
-This is general information, not legal advice. Carrier tools and names vary. If the first representative can’t help, ask to be escalated to the porting/number-transfer support team and request a case number.
+This is general information, not legal, financial, digital-security, or other professional advice. Carrier tools and names vary, so ask for escalation to the porting, number-transfer, or fraud team if the first representative cannot help.
 
 ## Additional Resources
-- https://www.fcc.gov/consumers/scam-alert/port-out-fraud-targets-your-private-accounts
-- https://www.fcc.gov/cell-phone-fraud
+- https://consumercomplaints.fcc.gov/hc/en-us
 - https://consumer.ftc.gov/consumer-alerts/2019/10/sim-swap-scams-how-protect-yourself
 - https://consumer.ftc.gov/articles/credit-freezes-and-fraud-alerts
+- https://www.identitytheft.gov/
+- https://www.consumerfinance.gov/ask-cfpb/what-do-i-do-if-i-think-i-have-been-a-victim-of-identity-theft-en-31/

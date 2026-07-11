@@ -1,92 +1,122 @@
-﻿---
+---
 title: "What to do if… your browser bookmarks, history, or extensions disappear after an update"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - bookmarks disappeared after update
-  - browser bookmarks missing
-  - browser history missing
-  - extensions disappeared
-  - chrome bookmarks gone
-  - edge favorites missing
-  - firefox bookmarks missing
-  - new browser profile appeared
-  - signed out of browser sync
-  - sync overwrote bookmarks
-  - browser reset after update
-  - lost saved passwords and history
-  - bookmarks bar empty
-  - extensions disabled after update
-  - missing favourites after windows update
-  - browser data seems wiped
-  - profile switched to guest mode
-  - bookmarks not showing but still exist
-  - after update everything reset
-last_reviewed: "2026-03-08"
+  - "browser bookmarks disappeared"
+  - "bookmarks disappeared after update"
+  - "browser history disappeared"
+  - "browser extensions disappeared"
+  - "chrome bookmarks disappeared"
+  - "edge favourites disappeared"
+  - "firefox bookmarks disappeared"
+  - "browser profile disappeared"
+  - "browser data disappeared"
+  - "favourites disappeared after update"
+  - "what do i do if bookmarks disappeared"
+  - "what do i do if browser history disappeared"
+  - "what do i do if extensions disappeared"
+  - "what do i do if chrome bookmarks vanished"
+  - "help i lost my bookmarks"
+  - "help i lost browser history"
+  - "help i lost browser extensions"
+  - "my bookmarks are gone"
+  - "my browser looks reset"
+  - "my favourites are missing"
+  - "bookmarks bar is empty"
+  - "browser signed me out"
+  - "new browser profile appeared"
+  - "guest profile opened"
+  - "extensions are disabled"
+  - "sync looks wrong"
+  - "browser update deleted bookmarks"
+  - "computer update deleted favourites"
+  - "browser reset itself"
+  - "profile switch not data loss"
+  - "bookmaks disappeared"
+  - "favrites missing"
+  - "after windows update"
+last_reviewed: "2026-05-23"
+date_created: "2026-05-23"
 ---
 
 # What to do if… your browser bookmarks, history, or extensions disappear after an update (UK)
+
 ## Short answer
-Stop making changes and avoid reinstalling or “resetting” the browser. First confirm you’re in the right browser profile and that sync hasn’t swapped you to an empty or older copy.
+Stop making changes, do not reset or reinstall the browser, and first check whether you have been moved into the wrong browser profile or signed out of sync. The safest aim is to find the copy that still has your bookmarks, history, or extensions before anything overwrites it.
 
 ## Do not do these things
-- Don’t uninstall/reinstall the browser yet (it can overwrite local recovery files).
-- Don’t use “Reset settings”, “Refresh”, or “Create new profile” as a first move.
-- Don’t turn sync on/off repeatedly across multiple devices (it can propagate the wrong version everywhere).
-- Don’t run “cleanup” tools that delete browser profiles/caches (they can remove backups).
-- Don’t assume it’s gone forever—this is often a profile switch, sync issue, or disabled items.
+- Don’t uninstall or reinstall the browser yet; it may make local recovery harder.
+- Don’t use “Reset settings”, “Refresh”, “Delete profile”, or “Create new profile” as a first move.
+- Don’t turn sync on and off repeatedly across several devices.
+- Don’t reset synced data, delete cloud data, or clear browser data while you are unsure which copy is correct.
+- Don’t run “cleanup” tools that delete browser profiles, caches, or old user data.
+- Don’t assume everything is gone; this is often a profile switch, sign-out, sync problem, disabled extension, or hidden bookmarks folder.
 
 ## What to do now
-1. **Freeze the situation (30 seconds).**
-   - Close extra browser windows. Don’t clear history/cache.
-   - If you’re on a work/school device, note it may be managed—pause and consider involving IT before making “repair” changes.
+1. **Freeze the situation.**
+   - Close extra browser windows.
+   - Do not clear history, cache, cookies, passwords, or site data.
+   - If this is a work, school, or managed device, pause before changing profiles or sync settings and contact IT if you can.
 
-2. **Check you’re in the correct profile (this fixes a lot).**
-   - Look for a profile icon (often top-right). If you see **Guest** or a new profile name, switch back to your usual profile.
-   - If there are multiple profiles, open each briefly to see if your bookmarks/extensions appear.
+2. **Check whether you are in the right browser profile.**
+   - Look for the profile icon, usually near the top right of the browser.
+   - If you see **Guest**, a blank profile, a work profile, or an unfamiliar name, switch back to your usual profile.
+   - Open each existing profile briefly and check whether your bookmarks, favourites, history, or extensions appear there.
 
-3. **Work out where the “good copy” is before you let anything sync.**
-   - Check another device (phone/laptop) where you normally use the same browser/account. If that device still shows the correct bookmarks, **treat it as your reference copy**.
-   - On the device that looks “empty”, avoid actions that might push changes outward (for example “reset sync” or repeated sign-in/out loops) until you’ve confirmed which copy is correct.
+3. **Check whether you have simply been signed out.**
+   - Open the browser’s profile or sync settings.
+   - Check whether you are signed in with the account you normally use for that browser.
+   - If there are several possible accounts, check the account name carefully before signing in or changing sync.
 
-4. **Check sync status, but avoid “reset sync” actions.**
-   - See whether you’ve been signed out (common after updates) and whether bookmarks/favourites and extensions are set to sync.
-   - If your reference device has the correct data, keep it stable while you bring the “empty” device back into line.
+4. **Find a safe reference copy before changing sync.**
+   - Check another phone, laptop, tablet, or desktop where the same browser account is normally used.
+   - If that device still has the correct bookmarks or favourites, stop using it for now and do not delete, tidy, or resync anything on it.
+   - Consider exporting bookmarks from that good device before trying bigger fixes on the empty one.
 
-5. **Look for built-in bookmark backup/restore (browser-specific).**
-   - **Firefox:** use the Bookmarks Manager “Restore” option to restore from automatic backups.
-   - **Chrome/Chromium-based browsers:** check the Bookmark Manager for “Other bookmarks” and any imported/restored folders.
-   - **Edge:** confirm favourites sync is enabled and restart the browser once; sometimes data returns after a short delay.
+5. **Check the bookmark or favourites manager.**
+   - In Chrome, open Bookmark Manager and check the bookmarks bar, “Other bookmarks”, and any imported folders.
+   - In Edge, open Favourites and check whether you are in the expected profile and whether favourites sync is enabled for that profile.
+   - In Firefox, open the Bookmarks Library and check recent folders before restoring anything.
 
-6. **If extensions vanished, check whether they were disabled (not removed).**
-   - Open the extensions page and look for toggles/disabled items.
-   - If the browser says extensions are disabled “by your organisation”, treat it as managed-device policy and involve IT.
+6. **Use built-in restore only where the browser offers it.**
+   - In Firefox, use the Bookmarks Library “Restore” option to look for automatic bookmark backups.
+   - Be careful: restoring a Firefox bookmark backup can replace the current bookmark set, so choose the dated backup deliberately.
+   - In Chrome or Edge, do not assume there is a simple undo or restore button; first check profiles, sync, exported files, and other devices.
 
-7. **If you suspect account compromise (unexpected sign-out, unknown extensions, changed search/homepage):**
-   - Change the password for the browser account (Google/Microsoft/Firefox account) from a trusted device, enable two-step verification if available, and review recent sign-ins.
-   - Run a reputable security scan on the device.
-   - If you’ve been affected by cyber crime or fraud in **England, Wales or Northern Ireland**, report it to **Report Fraud** (online or by phone). If you live in **Scotland**, report via **Police Scotland on 101**.
+7. **Check whether extensions are disabled rather than removed.**
+   - Open the browser’s extensions or add-ons page.
+   - Look for disabled toggles, warnings, or extensions hidden under a different profile.
+   - If the browser says extensions are disabled “by your organisation”, treat it as a managed-device policy issue and contact IT.
+
+8. **If the browser also looks compromised, secure the account from a trusted device.**
+   - Warning signs include unknown extensions, changed search engine or homepage, unexpected sign-outs, unfamiliar devices, or password alerts.
+   - Change the password for the browser account, such as Google, Microsoft, or Mozilla, from a trusted device.
+   - Turn on two-step verification if available and review recent sign-ins or connected devices.
+   - If money, accounts, or personal information have been misused, or you believe a cyber crime or fraud has happened, use Report Fraud in England, Wales, or Northern Ireland. If you are in Scotland, contact Police Scotland on 101.
 
 ## What can wait
-- You don’t need to decide today whether to switch browsers, rebuild bookmarks manually, or install new “recovery” software.
-- You don’t need to tidy extensions, reorganise folders, or “clean up” your computer right now.
-- You don’t need to reset sync or wipe profiles as a first step—those are last resorts after you’ve located a good copy or a backup.
-- Once things are back, you can later export/bookmark-backup for peace of mind—but not during the panic phase.
+- You don’t need to decide today whether to switch browsers.
+- You don’t need to rebuild all bookmarks manually while there may still be a recoverable copy.
+- You don’t need to install recovery software, cleanup tools, or new extensions right now.
+- You don’t need to reorganise bookmarks, tidy extensions, or optimise settings during the first check.
+- Exporting bookmarks for future peace of mind can wait until you have found the best available copy.
 
 ## Important reassurance
-This often looks catastrophic but is frequently reversible: a different profile opened, sync signed you out, or items were disabled after the update. The safest approach is to slow down and confirm where your data lives before you do anything that might overwrite it.
+This can look like a total loss, but it is often caused by the browser opening the wrong profile, signing out of sync, hiding a bookmarks folder, or disabling extensions after an update. Slowing down reduces the chance of overwriting the copy that may still exist.
 
 ## Scope note
-These are first steps to stabilise the situation and avoid irreversible loss. If the built-in restore/sync checks don’t bring it back, the next stage is careful, browser-specific recovery from profile folders and backups (best done slowly, or with help if you’re not confident).
+These are first steps to stabilise the situation and avoid avoidable data loss. Later recovery may need browser-specific help, device backups, employer or school IT support, or a careful look at local profile folders.
 
 ## Important note
-This is general information, not professional IT or legal advice. If the device is managed by an employer/school, follow their policies and use their support channels. If you think criminal access is involved, prioritise account security and appropriate reporting.
+This is general information, not professional IT, legal, financial, security, or technical support advice. Follow your organisation’s rules on managed devices, and use official reporting routes if you think criminal access, fraud, or phishing is involved.
 
 ## Additional Resources
 - https://support.mozilla.org/en-US/kb/restore-bookmarks-from-backup-or-move-them
+- https://support.google.com/chrome/answer/2364824?co=GENIE.Platform%3DDesktop&hl=en-GB
 - https://support.google.com/chrome/answer/96816?hl=en-GB
-- https://support.microsoft.com/en-gb/microsoft-edge/sign-in-to-sync-microsoft-edge-across-devices-e6ffa79b-ed52-aa32-47e2-5d5597fe4674
-- https://www.gov.uk/government/news/report-fraud-new-service-from-city-of-london-police
+- https://support.microsoft.com/en-us/edge/sign-in-to-sync-microsoft-edge-across-devices
 - https://www.reportfraud.police.uk/
-- https://www.police.uk/pu/contact-us/what-and-how-to-report/how-to-report/
+- https://www.reportfraud.police.uk/reporting-a-fraud/
+- https://www.scotland.police.uk/advice/cybercrime/
 - https://www.gov.uk/report-suspicious-emails-websites-phishing

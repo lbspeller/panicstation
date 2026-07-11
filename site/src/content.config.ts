@@ -8,6 +8,7 @@ const guides = defineCollection({
     category: z.string(),
     tags: z.array(z.string()).optional(),
     last_reviewed: z.string(),
+    date_created: z.string(),
   }),
 });
 

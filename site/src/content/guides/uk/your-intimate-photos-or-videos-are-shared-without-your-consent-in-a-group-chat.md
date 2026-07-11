@@ -1,71 +1,90 @@
-﻿---
+---
 title: "What to do if… your intimate photos or videos are shared without your consent in a group chat"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - intimate images shared
-  - intimate videos shared
-  - nudes shared in group chat
-  - private photos leaked
-  - private videos leaked
-  - image based abuse
-  - non consensual sharing
-  - revenge porn
-  - someone forwarded my nudes
-  - someone posted my nudes
-  - partner shared my photos
-  - ex shared my photos
-  - group chat leak
-  - whatsapp nude leak
-  - telegram nude leak
-  - i feel exposed online
-  - intimate content shared
-  - someone is humiliating me
-  - sexual images spread
-  - my photos are being passed around
-last_reviewed: "2026-03-12"
+  - "intimate images shared"
+  - "intimate photos shared"
+  - "intimate videos shared"
+  - "private photos leaked"
+  - "private videos leaked"
+  - "nudes shared in group chat"
+  - "sexual images shared"
+  - "image based abuse"
+  - "non consensual intimate images"
+  - "what do i do if intimate photos are shared"
+  - "what do i do if intimate videos are shared"
+  - "what do i do if nudes are leaked"
+  - "what do i do if private photos spread"
+  - "help i found my nudes in a chat"
+  - "help i am in a group chat leak"
+  - "help i feel exposed online"
+  - "help i am being humiliated"
+  - "my intimate photos are being shared"
+  - "my intimate videos are being shared"
+  - "my nudes are in a group chat"
+  - "my private photos are being passed around"
+  - "panic after nudes shared"
+  - "scared after intimate photos leaked"
+  - "ashamed after private photos shared"
+  - "group chat sharing my photos"
+  - "people forwarding my nudes"
+  - "someone threatening more leaks"
+  - "revenge porn"
+  - "sextortion confusion"
+  - "deepfake intimate images"
+  - "whatsapp nude leak"
+  - "telegram nude leak"
+  - "privte photos leaked"
+  - "intimate vedios shared"
+last_reviewed: "2026-05-26"
+date_created: "2026-05-26"
 ---
 
 # What to do if… your intimate photos or videos are shared without your consent in a group chat (UK)
 
 ## Short answer
-Get yourself to a calmer, safer moment, then act quickly to limit further sharing: ask for deletion, report the content in-app, and use UK specialist support to help with takedown and next steps.
+Get yourself to a safer pause, then use the app’s report tools and UK specialist support to limit further sharing. If you are in immediate danger or someone is threatening violence, call 999.
 
 ## Do not do these things
-- Don’t argue back-and-forth in the group chat or try to “shame” the sharer — it often increases re-sharing.
-- Don’t send the images/videos to anyone “as proof” (including friends). That can spread them further.
-- Don’t pay, comply, or bargain if someone is threatening to share more — especially if they demand money, more images, or silence.
-- Don’t repeatedly open the content to “check” it — it spikes distress and doesn’t help containment.
-- Don’t assume it’s “too late” to remove content — takedowns can still work after sharing.
+- Do not argue back-and-forth in the group chat or try to shame the person who shared it.
+- Do not send the photos or videos to friends as proof.
+- Do not pay, comply, or bargain if someone is threatening to share more.
+- Do not repeatedly open the content to check who has seen it.
+- Do not screenshot, record, forward, or share intimate images if anyone shown is under 18 or you are not sure they are over 18.
+- Do not assume it is too late to get help with removal or containment.
 
 ## What to do now
-1. **Create a short safety pause.** Move to a private place. If you’re in immediate physical danger, call **999**.
-2. **Limit spread inside the group chat (briefly, once).** Post: *“This is private and shared without my consent. Delete it now and do not forward it.”* If there’s a group admin, **message them directly** to remove the content and remove the sender.
-3. **Report the content in the app immediately.** Use the platform’s report tools (WhatsApp/Telegram/Signal/Messenger, etc.) for **non-consensual intimate imagery** and request removal (wording varies by platform).
-4. **Write down key details (without re-sharing the media).** Note the **platform**, **group name**, **who posted it** (usernames/phone numbers), and **date/time**. If you take screenshots, aim for **chat context** (who/when/where) rather than saving the intimate image itself. Store any evidence privately and don’t send it around.
-5. **Get specialist UK help for removal/containment.** If you’re **18+**, contact the **Revenge Porn Helpline** for confidential support and takedown help. You can also use **StopNCII.org** to help prevent re-uploads on participating platforms (hash-based; the image stays on your device).
-6. **If you’re under 18 (or the images were taken when you were under 18): use child-safety removal routes.** Don’t forward anything. Use **Childline’s Report Remove** tool (with the IWF) to help get images taken down, and seek support from Childline. If you feel at risk or pressured, involve a trusted adult and consider reporting to police.
-7. **If there are threats, stalking, coercive control, or you know who did it:** consider reporting. Use **999** if you’re in immediate danger; otherwise **101** (or your local force’s online reporting). You can also report anonymously to **Crimestoppers**.
-8. **Tell one trusted person what’s happening.** Ask them to help you file reports and keep track of actions so you’re not doing it alone.
+1. **Create a short safety pause.** Move away from people who may see your screen. Put the phone down for a moment if you are shaking or panicking. If there is immediate danger, call 999.
+2. **Report the post or message in the app.** Use the platform’s report option for non-consensual intimate imagery, intimate image abuse, sexual content shared without consent, harassment, or the closest available category.
+3. **Ask for deletion once, only if it feels safe.** A short message is enough: “This was shared without my consent. Delete it and do not forward it.” Then stop debating, mute the chat, or leave after reporting if staying in it is making you feel worse.
+4. **Message the group admin if there is one.** Ask them to remove the content, remove the sender, and stop further forwarding in the group.
+5. **Keep only minimal details if safe.** Note the platform, group name, username or phone number, and approximate time; do not screenshot, record, forward, or share the intimate content if anyone shown is under 18 or you are unsure.
+6. **Use adult specialist support if you are 18 or over.** Contact the Revenge Porn Helpline for confidential UK support with intimate image abuse and takedown options.
+7. **Use child-safety routes if you are under 18, or the images were taken when you were under 18.** Use Childline’s Report Remove service, and do not forward the image or video to anyone.
+8. **Use StopNCII if the image or video is of you, you were over 18 in it, and you have access to it on your device.** It can create a digital fingerprint on your device to help participating platforms detect matching uploads; it does not remove images from the whole internet and may not help with encrypted group chats.
+9. **Tell one trusted person what is happening.** Ask them to sit with you, help you report the content, or help you contact a support service without spreading the details.
 
 ## What can wait
-- You do **not** need to decide right now whether to make a formal statement, pursue charges, or confront the person.
-- You do **not** need a perfect explanation message to the group — one clear deletion request is enough.
-- You do **not** need to “collect everything” — a few key details are enough to start getting help.
+- You do not need to decide right now whether to report to police, make a formal statement, tell work or school, or confront the person.
+- You do not need to explain yourself to the group.
+- You do not need to collect everything before asking for help.
+- You do not need to make long-term decisions while you are panicking.
 
 ## Important reassurance
-Shock, panic, shame, anger, or numbness are common reactions to a sudden violation like this. You are not to blame for someone else sharing your private content. There are UK services that handle this every day, and containment/removal is often still possible.
+This is not your fault. Feeling shocked, ashamed, angry, numb, or frightened is a common response to a sudden violation like this. UK services deal with intimate image abuse and can help you take the next step without forcing you to decide everything at once.
 
 ## Scope note
-This covers first steps to reduce harm and slow further sharing. Later decisions (legal options, workplace/school involvement, ongoing safety planning, counselling) can come after you’re steadier and supported.
+These are first steps to reduce harm, slow further sharing, and get support. Later decisions about police, school, work, legal options, counselling, or ongoing safety may need specialist help.
 
 ## Important note
-This is general information, not legal advice. If you are in immediate danger, call 999. If you feel overwhelmed or unsafe with yourself, you can call **Samaritans on 116 123**. If the content involves anyone under 18, do not forward it — use child-safety reporting/removal routes.
+This is general information, not legal, medical, financial, therapeutic, or other professional advice. If you are in immediate danger, call 999. If you feel overwhelmed or unsafe with yourself, you can call Samaritans free on 116 123. If the content involves anyone under 18, do not screenshot, record, forward, or share it; use child-safety reporting and removal routes.
 
 ## Additional Resources
-- https://www.police.uk/advice/advice-and-information/online-safety/online-safety/intimate-image-abuse-revenge-porn/
+- https://www.police.uk/advice/advice-and-information/online-safety/online-safety/non-consensual-intimate-image-abuse-revenge-porn/
 - https://www.police.uk/advice/advice-and-information/online-safety/online-safety/intimate-image-abuse-revenge-porn/what-you-can-do-reporting-it-to-us/
 - https://revengepornhelpline.org.uk/
 - https://stopncii.org/how-it-works/?lang=en-gb
+- https://stopncii.org/faq/?lang=en-gb
 - https://www.childline.org.uk/info-advice/bullying-abuse-safety/online-mobile-safety/report-remove/
 - https://www.samaritans.org/how-we-can-help/contact-samaritan/talk-us-phone/

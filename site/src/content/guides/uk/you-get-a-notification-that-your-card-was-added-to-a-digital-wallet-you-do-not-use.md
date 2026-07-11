@@ -1,105 +1,122 @@
-﻿---
+---
 title: "What to do if… you get a notification that your card was added to a digital wallet you do not use"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
-  - card added to wallet alert
-  - digital wallet notification
-  - apple pay card added
-  - google wallet card added
-  - google pay card added
-  - card added to unknown device
-  - unauthorised digital wallet
-  - suspicious bank notification
-  - possible card token fraud
-  - payment card compromised
-  - one-time passcode scam
-  - verification code request
-  - bank app approve decline prompt
-  - wallet provisioning attempt
-  - card details stolen
-  - unexpected wallet verification
-  - new device payment alert
-  - card linked without permission
-  - card used via phone wallet
-  - contactless wallet fraud
-last_reviewed: "2026-01-10"
+  - "card added to digital wallet"
+  - "card added to wallet alert"
+  - "card added to phone wallet"
+  - "card added to unknown wallet"
+  - "digital wallet card notification"
+  - "digital wallet i do not use"
+  - "unknown digital wallet alert"
+  - "card linked without permission"
+  - "unauthorised wallet card"
+  - "suspicious card wallet message"
+  - "what do i do if my card was added to wallet"
+  - "what do i do if i got a wallet alert"
+  - "what do i do if card linked to wallet"
+  - "what do i do if digital wallet alert"
+  - "help i got a card wallet alert"
+  - "help i received a wallet notification"
+  - "my card is in unknown wallet"
+  - "my card was added to phone wallet"
+  - "wallet alert i did not request"
+  - "one-time code i did not request"
+  - "new device payment alert"
+  - "bank app approval prompt"
+  - "pending card transaction"
+  - "contactless spending i do not recognise"
+  - "unexpected card verification code"
+  - "digital wallet scam"
+  - "card token fraud"
+  - "phone wallet fraud"
+  - "payment wallet phishing"
+  - "digitial wallet alert"
+  - "unautorised wallet card"
+  - "apple wallet card alert"
+  - "google wallet card alert"
+  - "new phone payment alert"
+last_reviewed: "2026-05-11"
+date_created: "2026-05-11"
 ---
 
 # What to do if… you get a notification that your card was added to a digital wallet you do not use (UK)
 
 ## Short answer
-Don’t approve anything. Freeze/lock the card and contact your bank (use the number on the back of your card, your bank’s app, or dial 159 if you’re unsure you’re speaking to your real bank).
+Do not approve anything or share any code. Freeze or lock the card in your banking app if that option is available, then contact your bank using the app, the number on the back of your card, or 159 if you are worried about an unexpected bank call.
 
 ## Do not do these things
-- Don’t tap links in the notification/email/text to “secure” your account — open your banking app or type the bank’s website address yourself.
-- Don’t call any phone number provided in the message — use your bank’s app, the number on the back of your card, or 159.
-- Don’t share any one-time passcodes (OTPs), “verification codes”, or in-app approval prompts with anyone — even if they claim to be your bank, Apple, Google, or the police.
-- Don’t keep using the card “until you see fraud” — a digital wallet can be used immediately.
-- Don’t hand your card to a “courier” or anyone offering to “collect it for investigation”.
-- Don’t post screenshots of the alert online (they can include identifying details).
+- Do not tap links in the notification, email or text to “secure” your account. Open your banking app yourself or type the bank’s website address yourself.
+- Do not call any phone number provided in the message. Use your bank’s app, the number on the back of your card, or 159.
+- Do not share any one-time passcodes, verification codes, or in-app approval prompts with anyone, even if they claim to be your bank, Apple, Google, or the police.
+- Do not keep using the card while you wait to see whether fraud appears.
+- Do not hand your card to a courier or anyone offering to collect it for investigation.
+- Do not post screenshots of the alert online, because they may include identifying details.
 
 ## What to do now
-1. **Assume it might be real until you’ve checked safely.**  
-   Ignore the notification itself. Open your **banking app** or online banking and look for:
-   - a request to **approve/decline** adding your card to a wallet
-   - any “digital wallet” / “device” / “token” section (some banks show this)  
-   If you see an approval request and it wasn’t you: **decline**.
+1. **Check safely, without using links or phone numbers from the alert.**  
+   Open your banking app or online banking yourself and look for:
+   - a request to approve or decline adding your card to a wallet
+   - any digital wallet, device, or token section if your bank shows one
+   - any recent or pending card activity you do not recognise
 
-2. **Freeze/lock the card immediately.**  
-   Use your banking app’s **freeze/lock** feature. If you can’t, call your bank using a trusted route:
-   - the **number on the back of your card**, or
-   - your bank’s in-app calling/help, or
-   - **159** (if your bank supports it)
+   If you see an approval request and it was not you, decline it.
 
-3. **Tell the bank “my card was added to a digital wallet I don’t use” and ask for a wallet-token removal.**  
-   Ask them to:
-   - **remove/disable any digital wallet token(s)** linked to your card (they may call it a “token”, “device”, or “provisioned wallet”)
-   - **block and replace the card number** if they believe your card details were compromised
-   - confirm whether any wallet verification occurred and how (SMS code, in-app approval, etc.)
+2. **Freeze or lock the card immediately if your app offers this.**  
+   If you cannot freeze it in the app, contact your bank using a trusted route:
+   - the number on the back of your card
+   - your bank’s in-app help or calling option
+   - 159, which connects many UK current-account customers to their bank when they are worried about an unexpected call about money
 
-4. **Check transactions and pending authorisations right now.**  
-   In the app, review recent spending and any pending items. If anything is unfamiliar, **report it as fraud immediately** through your bank’s fraud flow or by phone.
+3. **Tell the bank exactly what happened.**  
+   Say: “My card appears to have been added to a digital wallet I do not use.” Ask the bank to:
+   - remove or disable any digital wallet token linked to the card
+   - check whether any wallet verification happened
+   - block and replace the card if they think the card details were compromised
+   - tell you whether any pending or authorised payments need to be reported as fraud
 
-5. **Secure the account that might have been used to add it (only via official settings).**  
-   If the alert mentions **Apple Pay/Apple Wallet** or **Google Wallet/Google Pay** and you have an Apple/Google account:
-   - change your password
-   - enable two-factor authentication
-   - review signed-in devices and sign out of any you don’t recognise  
-   If the card appears in a wallet you control, **remove it**.
+4. **Report unfamiliar card activity through the bank’s fraud route.**  
+   Check recent transactions and pending authorisations in the app. If anything is unfamiliar, report it to the bank as fraud straight away.
 
-6. **If your phone is missing or you think someone has access to it, treat it as higher risk.**  
-   Lock down the phone (screen lock) and use your phone account tools (e.g., Find My / device security) to restrict payment ability, then tell the bank you suspect device access.
+5. **Secure the account that may have been used for the wallet.**  
+   If the alert mentions Apple Wallet, Apple Pay, Google Wallet, or Google Pay, use the official Apple or Google account settings rather than links in messages. Check signed-in devices, sign out of devices you do not recognise, change the password if there is suspicious activity, and turn on two-factor authentication if it is not already on.
 
-7. **If you shared a code or approved an “add to wallet” prompt, say that clearly.**  
-   Tell the bank you **entered a code / approved a prompt** (if you did). Ask them to cancel wallet tokens and **reissue** the card.
+6. **Remove the card from any wallet you control.**  
+   If the card appears in Apple Wallet or Google Wallet on a device you own, remove it. Still ask the bank to remove any other wallet tokens, because a fraudster’s device may not be visible to you.
 
-8. **Make a quick record.**  
-   Note the time/date, what the alert said (Apple/Google), and what the bank confirmed they did (card frozen, token removed, new card issued).
+7. **If your phone is missing or someone may have access to it, say this to the bank.**  
+   Use your official device-account tools to mark the phone as lost, sign it out, or restrict access if you can do so safely. Tell the bank you are worried about device access as well as card compromise.
 
-9. **If it was a scam message or you lost money, report it.**  
-   - **England, Wales, Northern Ireland:** report via **Report Fraud** (online any time, or by phone during published hours).  
-   - **Scotland:** report to **Police Scotland** via **101**.
+8. **If you shared a code or approved a wallet prompt, say that clearly.**  
+   Tell the bank you entered a code or approved a prompt. Ask them to cancel wallet tokens and reissue the card.
+
+9. **Make a quick record.**  
+   Note the date and time, what the alert said, whether it mentioned Apple or Google, and what the bank confirmed it did, such as card frozen, token removed, or new card issued.
+
+10. **If it was a scam message or you lost money, report it.**  
+   In England, Wales and Northern Ireland, report cyber crime or fraud to Report Fraud online any time, or by phone on 0300 123 2040 Monday to Friday 8am–8pm. In Scotland, report fraud to Police Scotland via 101.
 
 ## What can wait
-- You don’t need to decide now whether to replace your phone, close your whole bank account, or change every password you have.
-- You don’t need to contact Apple/Google support before you’ve frozen the card and spoken to your bank.
-- You don’t need to argue with the sender/caller. Stop contact and use trusted channels.
+- You do not need to decide now whether to replace your phone, close your whole bank account, or change every password you have.
+- You do not need to contact Apple or Google before you have frozen the card and spoken to your bank.
+- You do not need to argue with the sender or caller. Stop contact and use trusted routes.
 
 ## Important reassurance
-This alert commonly appears in card-fraud and phishing situations. Freezing the card and getting your bank to remove any wallet token(s) is the right first move and usually stops further harm quickly.
+This kind of alert can happen in card-fraud and phishing situations. Freezing the card and asking the bank to remove any wallet token can reduce the chance of further spending while the bank investigates.
 
 ## Scope note
-This is first steps only: immediate containment, safe verification, and getting the right organisations involved. Later recovery steps depend on whether any transactions happened and what your bank finds.
+This is first steps only: immediate containment, safe verification, and getting the right organisations involved. Later recovery steps may depend on whether any transactions happened and what your bank finds.
 
 ## Important note
-This guide is general information, not legal or financial advice. If anything feels uncertain, slow down and use trusted routes (your bank’s official app, the number on the back of your card, or 159) before taking any action.
+This guide is general information, not legal, financial, technical, or professional advice. If anything feels uncertain, slow down and use trusted routes before taking action.
 
 ## Additional Resources
 - https://www.reportfraud.police.uk/
 - https://www.reportfraud.police.uk/guide-to-reporting/
 - https://stopscamsuk.org.uk/our-work/159-phone-number/
 - https://www.ukfinance.org.uk/fraud-and-scams
-- https://www.scotland.police.uk/guidance/scams-and-frauds/
-- https://support.apple.com/en-gb/101554
+- https://www.scotland.police.uk/advice/scams-and-frauds/
+- https://www.takefive-stopfraud.org.uk/protect-yourself/digital-wallet-fraud/
 - https://support.apple.com/guide/iphone/remove-cards-and-passes-iph3dd32dffe/ios
+- https://support.google.com/wallet/answer/12059601?hl=en-GB

@@ -1,102 +1,125 @@
-﻿---
+---
 title: "What to do if… family members are giving doctors conflicting instructions during an end-of-life situation"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
-  - end of life conflict
-  - family disagreement doctors
-  - conflicting instructions hospital
-  - who decides medical care
-  - patient lacks capacity
-  - best interests decision
-  - next of kin confusion
-  - power of attorney health
-  - welfare power of attorney
-  - welfare guardianship scotland
-  - advance decision refuse treatment
-  - advance care plan missing
-  - dnacpr disagreement
-  - treatment escalation dispute
-  - one spokesperson family
-  - hospital family meeting
-  - palliative care consult
-  - intensive care decisions conflict
-  - relatives arguing at bedside
-  - consent dispute end of life
-last_reviewed: "2026-03-03"
+  - "family members doctors conflict"
+  - "family members giving instructions"
+  - "doctors conflicting instructions"
+  - "end of life family conflict"
+  - "end of life treatment dispute"
+  - "hospital family disagreement"
+  - "relatives arguing with doctors"
+  - "conflicting medical instructions"
+  - "patient lacks capacity"
+  - "dying relative care conflict"
+  - "family members disagree doctors"
+  - "doctors hearing different instructions"
+  - "what do i do if family members disagree"
+  - "what do i do if doctors get conflicting instructions"
+  - "what do i do if relatives argue"
+  - "what do i do if patient lacks capacity"
+  - "help i disagree with family"
+  - "help i need one spokesperson"
+  - "help i cannot stop arguing"
+  - "help i do not know who decides"
+  - "my family is arguing with doctors"
+  - "my relative is dying"
+  - "family memebers confusing doctors"
+  - "end of life desicion conflict"
+  - "different updates from doctors"
+  - "no one knows patient wishes"
+  - "missing power of attorney"
+  - "no advance decision found"
+  - "dnacpr family disagreement"
+  - "resuscitation disagreement with relatives"
+  - "hospital bedside arguments"
+  - "unclear next of kin role"
+  - "uk hospital end of life"
+  - "intensive care family conflict"
+  - "palliative care family conflict"
+last_reviewed: "2026-04-29"
+date_created: "2026-04-29"
 ---
 
 # What to do if… family members are giving doctors conflicting instructions during an end-of-life situation (UK)
 
 ## Short answer
-Ask the senior clinician or nurse in charge to arrange an urgent “family meeting” and to confirm, in the notes, **who has legal authority to decide** and what the patient’s **recorded wishes** are.
+Ask the nurse in charge or senior doctor to arrange an urgent family meeting and to record, in the notes, who has authority to consent or refuse for this decision, who is being consulted, what the patient’s recorded wishes are, and who staff should contact for updates.
 
 ## Do not do these things
-- Do not try to “outvote” other relatives or pressure staff to “pick a side” at the bedside.
-- Do not give instructions to clinicians unless you are sure you are the recognised decision-maker for health decisions.
-- Do not argue in front of the patient (or within earshot) if it could distress them or undermine trust.
+- Do not try to outvote other relatives at the bedside.
+- Do not present your view as binding authority unless the hospital has checked the paperwork and confirmed this.
 - Do not assume “next of kin” automatically has legal authority to decide treatment.
-- Avoid recording staff or conversations unless the hospital agrees; it often escalates conflict and shuts down communication.
-- Do not demand a treatment “must be given” if clinicians say it is not clinically appropriate—ask for a review and explanation instead.
+- Do not argue in front of the patient, or within earshot, if it could distress them.
+- Do not demand a treatment be given if the clinical team says it is not clinically appropriate; ask for the reason, a senior review, and a clear explanation instead.
+- Do not secretly record conversations; ask the team how information can be shared and documented clearly.
+- Do not move the discussion into inheritance, old family conflict, or blame while urgent care decisions are still unclear.
 
 ## What to do now
-1. **Ask the team to identify the legal decision-maker for this hospital admission (today).**  
-   Ask the nurse in charge or consultant: “Who will you take treatment decisions from, and what documents do you have on file?”  
-   Ask them to check the record for:
-   - **England/Wales:** a **Health & Welfare Lasting Power of Attorney** and any **Advance Decision to Refuse Treatment** (ADRT).
-   - **Scotland:** a **welfare power of attorney** or **welfare guardian** paperwork under the Adults with Incapacity framework.
-   - If you’re unsure which framework applies where you are, ask the hospital to state which nation’s rules they are using.
+1. **Ask the team to identify the decision route for the specific decision being discussed today.**  
+   Say: “For this decision, who can legally consent or refuse, who will you consult, and what paperwork have you checked?”  
+   Ask the team to check for:
+   - a registered health and welfare Lasting Power of Attorney in England or Wales, and whether it covers this decision;
+   - any advance decision, advance directive, written refusal of treatment, or written statement of wishes;
+   - welfare power of attorney or welfare guardian paperwork in Scotland, and whether it covers this decision;
+   - the local Northern Ireland legal framework, if the patient is being treated there, and who is responsible for best-interests or other decision-making;
+   - any advance care plan, DNACPR form, locally used ReSPECT or emergency care planning form, letter, or documented preferences.
 
-2. **Ask for capacity (or lack of capacity) to be clearly documented for the specific decision.**  
-   Say: “Has capacity been assessed for this specific decision (for example, escalation, ventilation, or resuscitation), and is it written in today’s notes?”  
-   This helps stop “who decides” drifting from one conversation to the next.
+2. **Ask for capacity to be assessed and recorded for this decision.**  
+   Say: “Has capacity been assessed for this specific decision today, such as resuscitation, ventilation, surgery, antibiotics, feeding, or comfort-focused care?”  
+   If the patient can still communicate in any way, ask staff what support is being used to help them express a view.
 
-3. **Request a same-day, structured “family meeting” with a written outcome.**  
-   Ask for a meeting including the consultant/attending team, the nurse in charge, and (if available) palliative care.  
-   Script:
-   - “We are giving conflicting instructions. We need one recognised decision route and a plan based on the patient’s wishes and best interests.”
-   - “Please document the agreed plan (including comfort measures and any escalation limits) in the notes and tell us who staff will call.”
+3. **Request a same-day structured family meeting.**  
+   Ask for the consultant or senior doctor, the nurse in charge, and palliative care if available.  
+   Say: “We are giving mixed messages. We need one documented plan based on the patient’s wishes, the legal position, and what is clinically possible.”
 
-4. **Set one communication channel to prevent harm from mixed messages.**  
-   Propose: one named spokesperson + one backup, and one daily update time.  
-   Ask staff to document this in the chart/ward communication plan. If family can’t agree, ask the team to choose based on legal authority and document it.
+4. **Bring documents and patient wishes to the ward now.**  
+   Bring any power of attorney, guardianship, advance decision, advance directive, written refusal, advance care plan, DNACPR paperwork, locally used ReSPECT or emergency care planning form, letters, texts, or notes showing the patient’s wishes.  
+   Give copies to the ward and ask staff to record what has been received.
 
-5. **Bring proof of authority and any written wishes—today.**  
-   If someone says they are attorney/guardian, ask them to show the paperwork and provide a copy to the ward.  
-   Bring any written statements of the patient’s wishes (advance care plan, letters, previously recorded preferences). Keep discussion anchored on: “What would the patient want?”
+5. **Separate legal authority from family updates.**  
+   Ask staff to record:
+   - who has any confirmed authority for this decision;
+   - who else is being consulted about the patient’s wishes and values;
+   - one named spokesperson for routine updates;
+   - one backup contact if the spokesperson cannot be reached.
 
-6. **If there’s a stand-off about a major decision, ask for the hospital’s escalation route (not a bedside argument).**  
-   Say: “What is your process when relatives disagree—who reviews this, and how is it documented?”  
-   Ask for:
-   - a senior review (where appropriate),
-   - a clear explanation of clinical options and limits, and
-   - the decision + reasons recorded in the notes and explained to the recognised decision-maker.
+6. **Keep the discussion anchored on the patient.**  
+   Use one sentence repeatedly if the conversation starts to spiral: “We need to focus on what the patient would have wanted and what the doctors say is clinically possible.”
 
-7. **Use PALS to stabilise communication if things are breaking down.**  
-   Contact the hospital’s **PALS** service and say:  
-   “This is an end-of-life decision situation with conflicting family instructions. We need help arranging a meeting, clarifying decision-maker status, and improving communication.”
+7. **If relatives are still giving conflicting instructions, ask for the hospital escalation route.**  
+   Say: “What is your process when family members disagree about an end-of-life decision?”  
+   Ask for a senior review, a documented decision, the reasons for it, and the name of the person responsible for explaining it to the family.
 
-8. **If values/faith concerns are driving the conflict, ask for the right support early.**  
-   You can ask the ward to involve chaplaincy/spiritual care (or a faith/community representative the patient would want) so discussions focus on the patient’s values rather than family positions.
+8. **Use the hospital’s patient advice or liaison route if communication is breaking down.**  
+   Ask the ward, switchboard, or hospital website for the patient advice, liaison, feedback, or complaints service. In England this is often PALS.  
+   Say: “This is an end-of-life situation with conflicting family instructions. We need help arranging a meeting, clarifying the decision route, and improving communication.”
+
+9. **Ask for values or faith support if that is part of the disagreement.**  
+   Ask the ward to involve chaplaincy, spiritual care, or a faith or community representative the patient would have wanted. Keep the request focused on the patient’s values, not on who in the family is right.
 
 ## What can wait
-- You do not need to settle inheritance, family grievances, or “who was right” today.
-- You do not need to write a formal complaint right now unless you believe the patient is at immediate risk; focus first on a clear plan and comfort.
-- You do not need to decide long-term legal steps during the acute crisis—stabilise the care plan first.
+- You do not need to settle inheritance, funeral choices, family blame, or old grievances today.
+- You do not need to decide whether to make a formal complaint while the immediate care plan is still unclear.
+- You do not need to resolve every legal question at the bedside; first ask the hospital to record the decision route and the immediate plan.
+- You do not need to persuade every relative before asking staff to stop taking mixed instructions.
 
 ## Important reassurance
-Family conflict in end-of-life situations is common—especially when people are scared, exhausted, or hearing different updates. Moving decisions into a clear, documented process (who decides + what the patient wanted + a recorded plan) is often the fastest way to reduce chaos and protect the patient.
+Family conflict at the end of life is common when people are frightened, exhausted, or hearing different updates. A clear meeting, checked paperwork, one contact route, and a written plan can reduce chaos and help the team focus on the patient.
 
 ## Scope note
-These are first steps to stabilise communication and decision-making in the next hours/days. Later decisions may need specialist support (patient liaison/advocacy and, in some cases, legal guidance), especially where documents are missing or disputed.
+These are first steps to stabilise communication and decision-making in the next hours or days. Later decisions may need specialist help, such as hospital advocacy, patient advice services, mediation, or legal advice where authority or documents are disputed.
 
 ## Important note
-This is general information, not legal or medical advice. UK rules and processes differ across the UK nations; the hospital should tell you which framework they are applying locally. If you believe the patient is at immediate risk due to conflict or miscommunication, ask to speak to the nurse in charge and the on-call senior clinician immediately.
+This is general information, not legal or medical advice. Capacity, consent, attorney powers, guardianship, advance decisions, DNACPR processes, and complaints routes differ across the UK, so ask the hospital which local framework it is applying. If you believe the patient is at immediate risk because of confusion or mixed messages, ask to speak to the nurse in charge and the on-call senior clinician immediately.
 
 ## Additional Resources
 - https://www.nhs.uk/social-care-and-support/making-decisions-for-someone-else/mental-capacity-act/
-- https://www.legislation.gov.uk/ukpga/2005/9/contents
+- https://www.gov.uk/manage-lasting-power-attorney/health-welfare
+- https://www.nhs.uk/tests-and-treatments/end-of-life-care/planning-ahead/advance-decision-to-refuse-treatment/
+- https://www.nhs.uk/tests-and-treatments/do-not-attempt-cardiopulmonary-resuscitation-dnacpr-decisions/
 - https://www.nhs.uk/nhs-services/hospitals/what-is-pals-patient-advice-and-liaison-service/
 - https://www.gov.scot/publications/code-practice-continuing-welfare-attorneys-second-edition-updated-february-2018/pages/2/
 - https://www.mwcscot.org.uk/law-and-rights/adults-incapacity-act
-- https://www.nhs.uk/tests-and-treatments/do-not-attempt-cardiopulmonary-resuscitation-dnacpr-decisions/
+- https://www.health-ni.gov.uk/articles/mental-capacity-act-faqs

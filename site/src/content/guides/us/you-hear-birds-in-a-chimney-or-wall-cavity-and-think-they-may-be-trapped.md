@@ -1,76 +1,92 @@
-﻿---
+---
 title: "What to do if… you hear birds in a chimney or wall cavity and think they may be trapped"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
-  - birds in chimney
-  - bird stuck in chimney
-  - chirping in chimney
-  - scratching in chimney
-  - birds in wall cavity
-  - bird stuck in wall
-  - birds trapped in wall
-  - chicks in chimney
-  - nest in chimney
-  - birds in flue
-  - bird fell down fireplace
-  - bird in wall void
-  - wildlife in house
-  - strange chirping in walls
-  - animal sounds in chimney
-  - chimney swift in chimney
-  - migratory bird nest protection
-  - bird rescue at home
-last_reviewed: "2026-03-04"
+  - "birds in chimney"
+  - "bird in chimney"
+  - "bird stuck in chimney"
+  - "birds in wall cavity"
+  - "bird stuck in wall"
+  - "birds trapped in wall"
+  - "bird in fireplace"
+  - "birds in flue"
+  - "nest in chimney"
+  - "chicks in chimney"
+  - "what do i do if birds in chimney"
+  - "what do i do if bird in wall"
+  - "what do i do if chimney is chirping"
+  - "what do i do if bird fell down fireplace"
+  - "help i hear birds in chimney"
+  - "help i hear scratching in wall"
+  - "my chimney has birds"
+  - "my wall has chirping"
+  - "chirping in chimney"
+  - "scratching in chimney"
+  - "peeping in wall"
+  - "fluttering in fireplace"
+  - "bird noises in flue"
+  - "nesting sounds in wall"
+  - "animal sounds in chimney"
+  - "bird nest in vent"
+  - "chimney swift in chimney"
+  - "bird fell into fireplace"
+  - "birds behind wall"
+  - "birds near vent"
+  - "active nest in chimney"
+  - "blocked flue with birds"
+  - "brids in chimney"
+  - "chimny bird sounds"
+last_reviewed: "2026-06-16"
+date_created: "2026-06-16"
 ---
 
 # What to do if… you hear birds in a chimney or wall cavity and think they may be trapped (USA)
 
 ## Short answer
-Stop using the fireplace/wood stove or any appliance venting into that flue, keep things calm, and contact a licensed wildlife rehabilitator (or local animal control) for guidance before you try to reach the birds.
+Stop using the fireplace, wood stove, or any appliance that vents into that flue, keep the area quiet, and contact a licensed wildlife rehabilitator or local animal control before trying to reach the birds.
 
 ## Do not do these things
-- Don’t light a fire or run any appliance that vents into the chimney/flue (heat/smoke can kill or injure birds, and nesting material can create dangerous blockages).
-- Don’t try to force them out with smoke, chemicals, water, loud banging, or chimney brushes/rods.
-- Don’t cut into walls or dismantle parts of the chimney/fireplace unless a professional directs you (you can injure birds and create structural/fire or carbon monoxide hazards).
-- Don’t block the chimney top/vent openings “so they can’t get away” (you may trap them with no exit).
-- Don’t handle a bird with bare hands.
-- Don’t remove or destroy an active nest. **Most migratory birds, nests, and eggs are protected under federal law**, and additional state rules may apply—get guidance first.
+- Do not light a fire or run any appliance that vents into the chimney or flue.
+- Do not try to force birds out with smoke, chemicals, water, loud banging, chimney brushes, or rods.
+- Do not cut into walls or dismantle chimney, fireplace, vent, or flue parts unless a qualified professional directs you.
+- Do not block the chimney top, vent hood, soffit gap, or other opening while birds may be inside.
+- Do not remove or destroy a nest that may be active.
+- Do not handle a bird with bare hands.
+- Do not keep a wild bird to care for it yourself.
 
 ## What to do now
-1. **Make it safe to pause.** If it’s your chimney/flue: stop all fires immediately and **do not use** any connected flue appliance. If the sound is near a bathroom/kitchen vent: turn that fan off for now.
-2. **Figure out where the sound is strongest (without opening anything).** Listen in nearby rooms for 30–60 seconds and note whether it’s:
-   - **in the chimney/fireplace area**, or
-   - **in a wall/ceiling cavity** (often near vents, attic edges, soffits, or eaves).
-3. **If a bird is in the room (came through the fireplace):**
-   - Keep people/pets out; close interior doors so it stays in one room.
-   - Dim the room (turn off lights; close curtains) and **open a clear exit** (a window, or an exterior door if that’s safer/easier).
-   - Wait quietly. If it can’t leave, looks injured, or is exhausted, go to step 5.
-4. **If it sounds like chicks (repetitive peeping) and you don’t see a bird inside:** treat it as a **possible active nest**. Keep the area quiet; avoid disturbing the structure.
-5. **Call the right kind of help (most important).**
-   - Contact a **licensed wildlife rehabilitator** or your **local animal control** for next steps.
-   - If it’s inside the chimney/flue (or you suspect nesting material is blocking it), contact a **certified chimney professional** as well.
-6. **If you suspect a flue blockage or fumes:** ventilate, keep the appliance off, and get professional assessment before using anything connected to that flue again.
-7. **If you can safely observe outdoors (from ground level):** look for birds entering/exiting a chimney top, vent hood, soffit gap, or eave opening, and share what you see with the rehabilitator/professional.
-8. **If an injured bird must be moved only to get it to help:** follow rehabilitator instructions if you can (phone guidance), use gloves/towel if directed, and transport it directly to the rehabilitator/vet they recommend.
+1. Make the area safe to pause. Stop all fires and keep any connected flue appliance off. If the sound is near a bathroom, dryer, or kitchen vent, turn that fan or appliance off for now.
+2. Keep pets and children away from the fireplace, vent, wall, or room where the sound is strongest.
+3. Listen briefly without opening or pulling anything apart. Note whether the sound seems to come from the chimney or fireplace, a wall or ceiling cavity, a vent hood, a soffit, an attic edge, or an eave.
+4. If a bird has come into a room through the fireplace, close interior doors, keep people and pets out, dim the room, and open one clear outside exit such as a window or exterior door. Wait quietly from a distance.
+5. If you hear repeated peeping and cannot see an adult bird inside the house, treat it as a possible active nest. Keep the area quiet and avoid disturbing the structure.
+6. Contact a licensed wildlife rehabilitator or local animal control and describe where the sound is, whether you hear adult fluttering or chick peeping, and whether any bird is visible or injured.
+7. If the sound is in a chimney or flue, also arrange advice from a qualified chimney professional before using that flue again, especially if you suspect nesting material, debris, smoke backup, or a blockage.
+8. If a carbon monoxide alarm sounds, smoke or fumes enter the home, or anyone has headache, dizziness, weakness, nausea, vomiting, chest pain, confusion, faintness, or shortness of breath, leave the home and call 911.
+9. If you can safely observe from ground level outside, look for birds entering or leaving a chimney top, vent hood, soffit gap, or eave opening. Share that information with the rehabilitator, animal control, or chimney professional.
+10. If an injured bird must be moved only to get it to help, call the rehabilitator first if possible. Follow their instructions, use gloves or a towel if directed, place the bird in a ventilated box, keep it quiet and dark, and take it directly to the place they recommend.
 
 ## What can wait
-- You don’t need to identify the species right now.
-- You don’t need to decide today about chimney caps/guards or sealing gaps—first focus on immediate safety and getting correct guidance.
-- You don’t need to “clear the nest” yourself; the safe/legal route depends on the species and whether it’s active.
+- You do not need to identify the species right now.
+- You do not need to decide today about chimney caps, vent covers, repairs, or sealing gaps.
+- You do not need to clear a nest yourself.
+- You do not need to solve the long-term entry point until you know whether birds, eggs, or dependent young are still present.
 
 ## Important reassurance
-This happens a lot—especially with chimney-nesting species (like chimney swifts in some areas) and birds exploring vents. The safest first steps are to stop using the flue, keep things calm, and contact the right help so you don’t accidentally trap or harm them or create a home safety hazard.
+This is common enough that wildlife rehabilitators, animal control, and chimney professionals can usually tell you the safest next step. Pausing, keeping the flue off, and getting guidance reduces the chance of harming the birds or creating a fire or fumes hazard.
 
 ## Scope note
-These are first steps only. A wildlife rehabilitator, state wildlife agency, animal control, or a chimney professional can advise what’s appropriate for your exact setup and what protections apply.
+These are first steps only. Later decisions about removal, repair, cleaning, caps, vents, or permits may need help from a licensed wildlife rehabilitator, your state wildlife agency, local animal control, or a qualified chimney professional.
 
 ## Important note
-This is general information, not professional or legal advice. Wildlife rules vary by species and location; when in doubt, pause and get guidance from a licensed rehabilitator or local wildlife authority before taking action.
+This is general information, not legal, medical, veterinary, wildlife-control, fire-safety, or professional advice. Wildlife rules vary by species and location; many native birds, their eggs, and active nests are protected under federal law, and state rules may also apply. When in doubt, pause and get guidance before taking action.
 
 ## Additional Resources
 - https://www.fws.gov/story/what-do-if-you-find-baby-bird-injured-or-orphaned-wildlife
 - https://www.fws.gov/story/bird-nests
 - https://www.fws.gov/law/migratory-bird-treaty-act-1918
+- https://www.fws.gov/story/chimney-swifts
 - https://www.humaneworld.org/en/resources/what-do-about-chimney-swifts
-- https://www.nwrawildlife.org/page/Found_Injured_Wildlife
+- https://www.humaneworld.org/en/resources/find-wildlife-rescue-and
+- https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-during-a-power-outage.html

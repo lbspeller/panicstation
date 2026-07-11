@@ -1,80 +1,99 @@
-﻿---
+---
 title: "What to do if… you develop severe vomiting and diarrhea after eating foraged mushrooms or an unknown plant"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
-  - foraged mushrooms sickness
-  - wild mushroom poisoning
-  - unknown plant poisoning
-  - severe vomiting after foraging
-  - severe diarrhea after foraging
-  - vomiting and diarrhea poisoning
-  - ate wild mushrooms now sick
-  - ate unknown plant now sick
-  - stomach cramps after wild food
-  - possible toxin ingestion
-  - symptoms after eating wild mushrooms
-  - worried it’s not food poisoning
-  - dehydration from vomiting diarrhea
-  - poison control call now
-  - mushroom toxins suspected
-  - unknown berries or leaves eaten
-  - sudden vomiting after meal outdoors
-  - symptoms started after foraged food
-last_reviewed: "2026-02-23"
+  - "foraged mushroom poisoning"
+  - "wild mushroom poisoning"
+  - "unknown plant poisoning"
+  - "severe vomiting after foraging"
+  - "severe diarrhea after foraging"
+  - "vomiting and diarrhea after mushrooms"
+  - "ill after eating wild plants"
+  - "possible toxin ingestion"
+  - "what do i do if wild mushrooms made me sick"
+  - "what do i do if foraged mushrooms caused vomiting"
+  - "what do i do if an unknown plant made me ill"
+  - "what do i do if i ate poisonous mushrooms"
+  - "help i ate wild mushrooms"
+  - "help i am vomiting after foraging"
+  - "my stomach hurts after wild mushrooms"
+  - "my diarrhea started after foraging"
+  - "stomach cramps after wild mushrooms"
+  - "watery diarrhea after mushrooms"
+  - "repeated vomiting after wild plants"
+  - "vomiting after unknown plant"
+  - "diarrhea after unknown plant"
+  - "cannot keep fluids down"
+  - "dizziness after vomiting and diarrhea"
+  - "symptoms after foraged food"
+  - "maybe food poisoning after mushrooms"
+  - "worried it is stomach flu"
+  - "maybe mushrooms were edible"
+  - "unknown berries or leaves eaten"
+  - "symptoms hours after mushrooms"
+  - "family sick after foraged meal"
+  - "sick after park mushrooms"
+  - "unknown plant eaten outdoors"
+  - "diarhea after wild mushrooms"
+  - "mushrom poisoning symptoms"
+last_reviewed: "2026-06-13"
+date_created: "2026-06-13"
 ---
 
 # What to do if… you develop severe vomiting and diarrhea after eating foraged mushrooms or an unknown plant (USA)
 
 ## Short answer
-Treat this as a possible poisoning. **Call Poison Control now (1-800-222-1222)** for immediate guidance, or **call 911** / go to the ER if you’re seriously ill.
+If anyone collapses, has a seizure, has trouble breathing, or cannot be awakened, call 911 immediately. Otherwise, treat this as a possible poisoning and call Poison Help immediately at 1-800-222-1222.
 
 ## Do not do these things
-- Do **not** “wait it out” if symptoms are severe or you can’t keep fluids down.
-- Do **not** try to make yourself vomit.
-- Do **not** take **anti-diarrhea** medicine (like loperamide) **until** Poison Control or a clinician advises it.
-- Do **not** take random “antidotes,” leftover antibiotics, or “detox” remedies.
-- Do **not** drink alcohol.
-- Do **not** throw away the mushroom/plant or meal leftovers if you can safely keep a sample/photo.
+- Do not wait for the symptoms to pass before calling Poison Help.
+- Do not try to make yourself vomit.
+- Do not take medicines, remedies, or supplements for the symptoms unless Poison Help or a clinician tells you to.
+- Do not drink alcohol until Poison Help or a clinician says it is safe.
+- Do not taste the mushroom, plant, or meal again.
+- Do not drive yourself if you feel weak, dizzy, confused, or too unwell to drive safely.
+- Do not delay the call while trying to identify the mushroom or plant online.
 
 ## What to do now
-1. **Get the right help line first (now).**
-   - If anyone collapses/faints, has a seizure, has trouble breathing, can’t be awakened, is very confused, has severe dehydration, severe belly pain, or blood in vomit/stool: **call 911 now**.
-   - Otherwise: **Call Poison Control at 1-800-222-1222** (free, confidential, **24/7**). Say: **“Possible wild mushroom/unknown plant ingestion with severe vomiting and diarrhea.”**
-2. **If you’re alone, make the situation safer while you call.**
-   - Sit or lie on your side near a toilet/bucket.
-   - Keep your phone on speaker; unlock the door if safe; text someone to check in.
-3. **Collect what Poison Control/ER will ask for (1–2 minutes).**
-   - Write down: **time eaten**, **amount**, **time symptoms started**, **who else ate it**, and any alcohol/meds taken.
-   - Gather medication bottles/supplements you’ve taken today (if any).
-4. **Preserve identification clues safely (only if you can do it quickly).**
-   - Take **clear photos** of the mushroom/plant (top, underside/gills, stem, surrounding area) and the prepared food.
-   - If you still have it, keep a small amount in a **sealed bag/container** and **handle minimally**. **Wash hands** afterwards. Do not taste it again.
-   - If vomiting happens naturally, you can keep a small sample of vomit in a sealed bag/container **without** trying to make yourself vomit.
-5. **Hydrate carefully while you follow instructions (only if you can keep sips down).**
-   - Take **small, frequent sips** of water or an oral rehydration drink.
-   - If you can’t keep even small sips down, tell Poison Control / seek urgent care or the ER.
-6. **Don’t be reassured by brief improvement.**
-   - Some mushroom/plant toxins can cause serious organ injury even after stomach symptoms lessen. Follow Poison Control’s plan and seek same-day medical care if advised.
+1. Check whether anyone needs 911 immediately.
+   - Call 911 immediately if anyone collapses, has a seizure, has trouble breathing, or cannot be awakened.
+   - Otherwise, call Poison Help immediately at 1-800-222-1222.
+   - Say that you may have eaten a foraged mushroom or unknown plant and now have severe vomiting and diarrhea.
+2. Sit or lie down somewhere safe and keep your phone with you.
+   - If you need in-person care, ask another adult to take you or follow the emergency instructions you are given.
+3. Tell the poison expert what you know.
+   - Give the person’s age, weight, known health conditions, what was eaten, how much may have been eaten, when it was eaten, when symptoms started, whether vomiting has happened, whether anyone else ate the same food, and what you have already done for the symptoms.
+   - Give your exact location and say how long it would take to reach a hospital.
+4. Keep identification clues only if this does not delay the call.
+   - Set aside any leftovers in a closed container if they are easy to reach safely.
+   - Take clear photos of the mushroom, plant, or prepared food if you can do so without handling it more than necessary.
+   - For a mushroom, include the top, underside, full stem, base, and growing area when safely available.
+   - Ask Poison Help what to bring if you are sent for medical care.
+5. Report warning signs clearly.
+   - Tell Poison Help immediately if you cannot keep fluids down, are urinating much less than usual, feel faint or confused, have severe belly pain, see blood in vomit or stool, or are getting worse.
+   - Ask what you should drink and where you should be assessed.
+6. Follow the plan even if you briefly feel better.
+   - Some dangerous mushroom toxins can cause delayed liver injury after stomach symptoms ease.
 
 ## What can wait
-- Trying to identify the mushroom/plant yourself online.
-- Debating whether it was “just food poisoning.”
-- Cleaning up, driving long distances, or resuming activities.
-- Posting in foraging groups for an ID (do this later, after you’ve contacted Poison Control / been medically assessed).
+- Trying to identify the mushroom or plant yourself online.
+- Debating whether this is food poisoning, a stomach bug, or a toxin.
+- Cleaning up the meal.
+- Posting photos in a foraging group.
+- Deciding what to do about foraging in the future.
 
 ## Important reassurance
-Many people feel embarrassed or panicked after eating something foraged—this happens. Poison Control handles exactly this situation every day, and calling early can make care safer and faster.
+Calling Poison Help promptly is an appropriate next step. Poison experts are available around the clock and can tell you what to do based on the specific exposure and symptoms.
 
 ## Scope note
-These are immediate harm-reduction steps and the fastest path to appropriate care. Diagnosis and treatment decisions should be guided by Poison Control and clinicians.
+These are first steps only. Diagnosis, treatment, and later decisions may need Poison Help, emergency clinicians, or other specialist support.
 
 ## Important note
-This guide is general information, not medical advice or a diagnosis. If you think you may have been poisoned or you’re getting worse, call Poison Control, call 911, or go to the emergency room.
+This guide provides general information only. It is not medical, legal, financial, therapeutic, or other professional advice, and it is not a diagnosis.
 
 ## Additional Resources
-- https://poisonhelp.hrsa.gov/poison-centers
-- https://www.poison.org/
-- https://medlineplus.gov/ency/article/002724.htm
-- https://www.webpoisoncontrol.org/
-- https://www.msdmanuals.com/home/quick-facts-injuries-and-poisoning/poisoning/mushroom-poisoning
+- https://poisonhelp.hrsa.gov/faq/plants
+- https://poisonhelp.hrsa.gov/faq/calling-poison-help
+- https://poisonhelp.hrsa.gov/faq/first-steps-poisoning-emergency
+- https://www.poison.org/articles/wild-mushroom-warning

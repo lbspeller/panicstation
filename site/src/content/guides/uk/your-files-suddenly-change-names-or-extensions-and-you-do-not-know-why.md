@@ -1,83 +1,110 @@
-﻿---
+---
 title: "What to do if… your files suddenly change names or extensions and you do not know why"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - files renamed suddenly
-  - file extensions changed
-  - strange file extensions
-  - files look encrypted
-  - folders renamed
-  - random file names
-  - files have .locked extension
-  - files have .encrypted extension
-  - ransom note on computer
-  - possible ransomware
-  - possible malware infection
-  - cloud sync went wrong
-  - shared drive files changed
-  - external drive affected
-  - photos documents unreadable
-  - can't open my files
-  - windows files changed names
-  - mac files changed extensions
-  - happened all at once
-  - i don't know what changed them
-last_reviewed: "2026-03-09"
+  - "files renamed suddenly"
+  - "file extensions changed"
+  - "strange file extensions"
+  - "files look encrypted"
+  - "folders renamed suddenly"
+  - "random file names"
+  - "files have locked extension"
+  - "files have encrypted extension"
+  - "ransom note on computer"
+  - "possible ransomware"
+  - "possible malware infection"
+  - "cloud sync changed files"
+  - "shared drive files changed"
+  - "external drive files changed"
+  - "photos and documents unreadable"
+  - "cannot open my files"
+  - "what do i do if files renamed"
+  - "what do i do if extensions changed"
+  - "what do i do if files encrypted"
+  - "what do i do if ransomware note appears"
+  - "help i cannot open files"
+  - "help i see strange file names"
+  - "help i found ransom note"
+  - "my files changed names"
+  - "my documents look encrypted"
+  - "my photos will not open"
+  - "happened all at once"
+  - "file names became random"
+  - "extensions appeared overnight"
+  - "computer shows ransom message"
+  - "cloud backup looks changed"
+  - "shared folder looks encrypted"
+  - "windows files changed names"
+  - "mac files changed extensions"
+  - "ransomeware on computer"
+  - "files encryted suddenly"
+last_reviewed: "2026-05-25"
+date_created: "2026-05-25"
 ---
 
 # What to do if… your files suddenly change names or extensions and you do not know why (UK)
+
 ## Short answer
-Treat this as a possible ransomware/malware incident until proven otherwise: **disconnect the affected device from the internet and any shared drives immediately**, then **pause any cloud sync** before you do anything else.
+Treat this as possible ransomware or malware until proven otherwise. Disconnect the affected device from Wi-Fi, Ethernet, and mobile hotspot or mobile data, then pause cloud sync from a known-clean device if you can.
 
 ## Do not do these things
-- Don’t keep “trying fixes” (renaming files back, running random cleanup tools, restoring things repeatedly) while the device is still online.
-- Don’t plug in more USB drives “to back up quickly” until you’ve isolated the device (malware can spread to newly attached drives).
-- Don’t pay a ransom or respond to any ransom message in a rush.
-- Don’t wipe/reinstall straight away if you may need evidence for support, insurance, work IT, or reporting.
-- Don’t assume it’s “just a setting” if lots of files changed at once or you see a ransom note.
+- Don’t keep renaming files, running random cleanup tools, or repeatedly restoring files while the affected device may still be connected.
+- Don’t plug in extra USB drives or external drives to “back up quickly”.
+- Don’t pay, message attackers, or follow ransom-note instructions in a rush.
+- Don’t wipe or reinstall straight away if you may need help from work IT, a trusted repair professional, insurance, or a reporting service.
+- Don’t assume it is only a display setting if many files changed at once, files will not open, or a ransom note appears.
 
 ## What to do now
-1. **Isolate the device (containment first).**  
-   - Turn off Wi-Fi and Bluetooth, unplug Ethernet, and disconnect from mobile hotspot.  
-   - If it’s on a home/work network with shared storage, consider turning off Wi-Fi at the router briefly to stop spread.
-2. **Stop sync and sharing immediately (to prevent propagation).**  
-   - Pause cloud sync on the affected device (e.g., OneDrive/iCloud/Dropbox).  
-   - If you can do so safely, also pause sync from the provider’s web dashboard using another, known-clean device.  
-   - Disconnect external drives and unplug network-attached storage (NAS) if you suspect it’s being affected.
-3. **Document what you see (before it changes).**  
-   - Take photos/screenshots of: file extensions, error messages, ransom notes, and the time/date you noticed it.  
-   - Write down which folders/drives are affected (e.g., “Documents and Photos, but not Downloads”).
-4. **Check whether other devices are being hit (without reconnecting the suspect device).**  
-   - From a different, known-clean device, check whether the same folders in the cloud or on shared storage show the same renamed/encrypted files.  
-   - If other devices look affected, isolate them too.
-5. **Use the right reporting/support route quickly.**  
-   - If this is a work/school device: contact your IT/helpdesk immediately and say “possible ransomware/encryption and file renaming”.  
-   - If you’re an individual in the UK: report cyber crime/fraud via **Report Fraud** (the national reporting service; the older “Action Fraud” site name may redirect).  
-   - If you live in **Scotland**, reporting is typically via **Police Scotland (101)** for non-emergency.
-6. **Preserve a small “sample” safely (only after isolation).**  
-   - If you can do it while staying offline: copy a small set of changed files plus any ransom note text to a separate USB drive (ideally empty/newly formatted), then unplug it and label it (date/time).  
-   - Don’t reconnect that USB drive to other computers unless a trusted professional/IT advises you to.
-7. **If changes keep happening after you’ve disconnected networks.**  
-   - If file names/extensions continue changing even while offline, shut the device down to stop further damage, then hand over to IT or a reputable local computer security professional.
+1. **Isolate the affected device first.**
+   - Turn off Wi-Fi on the device.
+   - Unplug Ethernet.
+   - Disconnect it from any mobile hotspot or mobile data connection.
+   - If it is on a home or work network and files are still changing, consider turning off Wi-Fi at the router briefly while you get help.
+
+2. **Stop sync and sharing without reconnecting the suspect device.**
+   - From another device you trust, open the cloud provider’s website and pause sync, unlink the affected device, or stop sharing for the affected folders if those options are available.
+   - If the affected files are on a shared drive or NAS, disconnect that storage from the network if you can do so safely.
+   - Leave external drives unplugged until someone trusted has checked the situation.
+
+3. **Record what changed.**
+   - Take photos or screenshots of changed file names, new extensions, error messages, ransom notes, and the time and date you noticed the problem.
+   - Write down which folders, drives, or cloud areas look affected.
+   - Do not open ransom-note links or download anything from them.
+
+4. **Check for spread from a known-clean device.**
+   - Check whether the same changed files appear in your cloud storage, shared drive, or other devices.
+   - If another device shows the same sudden changes, disconnect that device from networks too.
+   - Do not reconnect the first device to “compare” files.
+
+5. **Use the right help route.**
+   - If this is a work, school, charity, or organisation device, contact IT or the person responsible for systems immediately and say: “possible ransomware, file renaming, and encryption”.
+   - If you are an individual in England, Wales, or Northern Ireland, use Report Fraud to report cyber crime or fraud.
+   - If you are in Scotland, use 101 unless it is an emergency.
+
+6. **If changes continue while the device is offline, stop using it.**
+   - If file names or extensions keep changing after you have disconnected networks and storage, shut the device down.
+   - Leave it off until IT or a reputable computer security professional can advise.
 
 ## What can wait
-- You do **not** need to decide today whether to wipe the device, pay anything, or tell everyone you know.
-- You do **not** need to identify the exact malware strain right now.
-- You do **not** need to attempt full recovery immediately; the priority is stopping spread and preserving what’s there.
+- You do not need to decide today whether to wipe the device.
+- You do not need to identify the exact malware name right now.
+- You do not need to attempt full recovery immediately.
+- You do not need to contact everyone you know before you have contained the device and checked whether anything else is affected.
 
 ## Important reassurance
-When lots of files suddenly change names/extensions, it’s normal to feel panicked and start clicking. Pausing and isolating the device first is the safest move and often prevents the situation from getting much worse.
+It is normal to feel panicked when many files suddenly change. Pausing, disconnecting, and documenting before trying fixes is a strong first move and can reduce further damage.
 
 ## Scope note
-This is first-steps-only guidance to contain damage and avoid irreversible mistakes. Recovery (restoring from backups, rebuilding devices, dealing with accounts) often needs careful, situation-specific support.
+These are first steps only, focused on containment and avoiding irreversible mistakes. Recovery, restoring backups, rebuilding devices, account security, insurance, and organisational reporting may need specialist help.
 
 ## Important note
-This is general information, not professional forensic or legal advice. If you’re unsure whether this is ransomware, acting as if it is (isolating, pausing sync, documenting) is usually the least-regret first step.
+This is general information, not professional forensic, legal, financial, or technical advice. If you are unsure what caused the change, acting cautiously as if it may be ransomware is usually the safer first step.
 
 ## Additional Resources
+- https://www.ncsc.gov.uk/ransomware/home
 - https://www.ncsc.gov.uk/section/respond-recover/sole-ransomware-attack
 - https://www.ncsc.gov.uk/guidance/mitigating-malware-and-ransomware-attacks
+- https://www.ncsc.gov.uk/section/respond-recover/citizen-infected-devices
 - https://www.reportfraud.police.uk/
 - https://www.reportfraud.police.uk/guide-to-reporting/
-- https://www.gov.uk/government/news/report-fraud-new-service-from-city-of-london-police

@@ -1,66 +1,86 @@
-﻿---
+---
 title: "What to do if… you accidentally put the wrong fuel in your vehicle and have not started the engine"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
-  - wrong fuel in car
-  - misfueled at gas station
-  - gasoline in diesel truck
-  - diesel in gasoline car
-  - wrong fuel not started
-  - engine not started yet
-  - wrong fuel in tank
-  - accidental misfueling
-  - filled wrong pump
-  - wrong nozzle used
-  - put wrong fuel in vehicle
-  - gas station fuel mix up
-  - misfueling mistake
-  - wrong fuel in rental car
-  - wrong fuel in work vehicle
-  - push car in neutral
-  - keyless start wrong fuel
-  - don’t start engine wrong fuel
-last_reviewed: "2026-03-10"
+  - "wrong fuel in vehicle"
+  - "wrong fuel in car"
+  - "wrong fuel in truck"
+  - "wrong fuel in tank"
+  - "accidental misfueling"
+  - "accidental misfuelling"
+  - "misfueled vehicle"
+  - "misfuelled vehicle"
+  - "gasoline in diesel vehicle"
+  - "diesel in gasoline vehicle"
+  - "what do i do if i used wrong fuel"
+  - "what do i do if my car has wrong fuel"
+  - "what do i do if i misfueled my car"
+  - "what do i do if wrong fuel engine off"
+  - "help i put gasoline in diesel"
+  - "help i put diesel in gasoline"
+  - "help i used the wrong pump"
+  - "help i filled the wrong fuel"
+  - "my vehicle has the wrong fuel"
+  - "my car has not started yet"
+  - "my engine is still off"
+  - "my fuel tank has wrong fuel"
+  - "wrong nozzle used"
+  - "wrong pump selected"
+  - "wrong fuel noticed at pump"
+  - "wrong fuel engine still off"
+  - "car still at gas station"
+  - "fuel receipt shows wrong fuel"
+  - "keyless car wrong fuel"
+  - "rental car wrong fuel"
+  - "company vehicle wrong fuel"
+  - "gasoline diesel mix up"
+  - "premium regular fuel confusion"
+  - "e85 fuel mistake"
+last_reviewed: "2026-06-06"
+date_created: "2026-06-06"
 ---
 
 # What to do if… you accidentally put the wrong fuel in your vehicle and have not started the engine (USA)
 
 ## Short answer
-Do not start the vehicle or turn the key to ON/ACCESSORY—then arrange roadside assistance/towing so a shop can drain the fuel system before it’s driven.
+Do not start the engine or switch the ignition to ON. Tell the gas-station attendant, then arrange roadside assistance or a tow so a repair shop can advise what service is needed for the exact fuel mistake.
 
 ## Do not do these things
-- Don’t start the engine, and don’t turn the ignition to ON/ACCESSORY “for a second”.
-- Don’t try to “dilute” it by topping up with the correct fuel and driving off.
-- Don’t attempt a DIY siphon/drain at the gas station (spill/fire risk and may violate station rules).
-- Don’t let a friend tow it in a way that could be unsuitable for your drivetrain (if unsure, request a flatbed tow).
-- Don’t keep fiddling with buttons on a keyless car—avoid anything that could prime the fuel system.
+- Do not start the engine or switch the ignition to ON, even briefly.
+- Do not assume that topping up with another fuel and driving away is safe.
+- Do not try to siphon or drain the tank yourself at the gas station. Fuel handling can create spill and fire risks.
+- Do not improvise a tow with another vehicle. Towing requirements vary by vehicle and drivetrain.
+- On a keyless vehicle, avoid unnecessary ignition-button presses. Ask the tow operator how to place the vehicle in neutral if that is needed.
 
 ## What to do now
-1. **Lock in the “no start” decision.** Put the key/fob away from the driver’s seat. Don’t press the start button and don’t switch on accessories.
-2. **Notify the station attendant.** Tell them you put in the wrong fuel and the vehicle has not been started. Ask where they want it moved so it’s out of the way.
-3. **If you must reposition the vehicle, move it without starting it.** Put it in **neutral** and, with help, **push** it to a safer spot (only if it’s safe to do so).
-4. **Call roadside assistance (AAA or your insurer’s roadside number) or a tow company.** Ask for **towing to a shop** or **mobile service** for a **fuel tank drain/clean**. Clearly state: wrong fuel added, approximate amount, and **engine not started**.
-5. **Contact the right “owner” if it’s not your personal car.**  
-   - **Rental:** call the rental company roadside number before authorizing tow/repairs if required by the contract.  
-   - **Company/fleet:** call your fleet manager/vendor so the tow and repair follow policy.
-6. **Document the basics for follow-up.** Keep the receipt, note the pump number, station address, and time.
+1. **Stop fueling and keep the engine off.** If fuel is still flowing, stop the pump. Put the key or fob away from the driver’s seat. Do not switch the ignition to ON. Use hazard lights if they are needed for safety.
+2. **Tell the station attendant immediately.** Say that the wrong fuel was added and the engine has not been started. If any fuel spilled or there is a strong fuel smell, tell the attendant and follow their instructions.
+3. **Ask whether the vehicle should stay where it is.** If the attendant says it needs to be moved, move it only if the route is safe and the vehicle can be placed in neutral without starting. Otherwise leave it in place for the tow operator.
+4. **Call your roadside-assistance provider or a tow company.** Ask for a tow to a repair shop. Tell them the vehicle make and model, the fuel added, the approximate amount, and that the engine has not been started.
+5. **Tell the repair shop exactly what happened.** Gasoline-diesel mix-ups commonly need professional draining and cleaning. Other fuel mistakes may be handled differently, so let the shop advise the next step.
+6. **Contact the vehicle owner when needed.**
+   - **Rental vehicle:** call the rental company before authorizing towing or repairs.
+   - **Company or fleet vehicle:** call the fleet contact before authorizing towing or repairs.
+7. **Keep basic records.** Save the receipt and note the pump number, station address, time, fuel type, and approximate amount.
 
 ## What can wait
-- You don’t need to decide right now whether to file an insurance claim—first prevent the engine from being started and get proper service arranged.
-- You don’t need to troubleshoot or scan codes—if the engine hasn’t run, focus on safe towing and professional draining.
-- You don’t need to negotiate with the station unless there’s clear evidence of mislabeling/contamination; just document details for now.
+- You do not need to decide now whether to make an insurance claim or ask for reimbursement.
+- You do not need to troubleshoot the vehicle or scan for fault codes.
+- You do not need to decide who may be responsible for the mistake.
+- You do not need to arrange repairs beyond getting the vehicle safely to a shop and explaining what happened.
 
 ## Important reassurance
-Catching this before starting the engine is the best moment to catch it. The goal now is simple: keep it off, and let roadside/repair professionals handle the drain/clean.
+Noticing the mistake before starting the engine gives the repair shop the simplest starting point. Keep the vehicle off and let the attendant, tow operator, and repair shop handle the next steps.
 
 ## Scope note
-These are first steps only. The exact drain/clean approach varies by vehicle and fuel system; the shop/technician will handle the specifics.
+These are first steps only. The service needed depends on the fuel added, the amount, and the vehicle. A repair shop, roadside provider, rental company, or fleet contact may need to guide the later decisions.
 
 ## Important note
-This is general information, not mechanical or legal advice. Follow your owner’s manual and the instructions from your roadside provider/tow operator and repair shop, especially about towing method and where the vehicle can be worked on safely.
+This is general information, not professional advice. Follow the vehicle owner’s manual and the instructions from the gas-station attendant, roadside provider, tow operator, rental company, fleet contact, and repair shop.
 
 ## Additional Resources
 - https://www.progressive.com/answers/car-insurance-and-accidental-fueling/
 - https://www.allstate.com/resources/car-insurance/fuel-faqs
 - https://www.kbb.com/car-advice/diesel-in-gas-engine/
+- https://afdc.energy.gov/fuels/ethanol-fuel-basics

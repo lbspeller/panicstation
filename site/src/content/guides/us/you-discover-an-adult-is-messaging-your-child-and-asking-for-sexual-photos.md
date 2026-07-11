@@ -1,73 +1,88 @@
-﻿---
+---
 title: "What to do if… you discover an adult is messaging your child and asking for sexual photos"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - adult messaging my child
-  - online grooming messages
-  - asking for sexual photos
-  - asking for nudes
-  - child sent nude
-  - child pressured for pictures
-  - sextortion threat
-  - online blackmail of a child
-  - stranger in dms
-  - predator contacting my child
-  - snapchat grooming
-  - instagram grooming
-  - imessage sextortion
-  - discord grooming
-  - fake profile as teen
-  - sexual messages to a minor
-  - explicit photo request
-  - child exploitation online
-  - adult asking for pics
-last_reviewed: "2026-03-13"
+  - "adult messaging my child"
+  - "adult texting my child"
+  - "adult asking my child"
+  - "child asked for sexual photos"
+  - "child asked for nudes"
+  - "online grooming messages"
+  - "child sexual photo request"
+  - "predator messaging my child"
+  - "stranger messaging my child"
+  - "minor asked for pics"
+  - "what do i do if adult messaging child"
+  - "what do i do if child asked for nudes"
+  - "what do i do if predator contacting child"
+  - "what do i do if child sextorted"
+  - "help i found sexual messages"
+  - "help i found grooming messages"
+  - "help i think child is sextorted"
+  - "help i found adult dms"
+  - "my child got sexual messages"
+  - "my child sent nudes"
+  - "my child is being blackmailed"
+  - "my child is scared"
+  - "sexual messages on phone"
+  - "explicit photo request in chat"
+  - "fake teen profile messaging"
+  - "threats to leak photos"
+  - "money demands after photos"
+  - "secretive messaging with adult"
+  - "online predator or scammer"
+  - "grooming or sextortion"
+  - "sexual photos or blackmail"
+  - "snapchat groomng"
+  - "sextorsion threat"
+last_reviewed: "2026-06-13"
+date_created: "2026-06-13"
 ---
 
 # What to do if… you discover an adult is messaging your child and asking for sexual photos (USA)
 
 ## Short answer
-Get your child to a calm, safe pause, stop the contact immediately, and report it (NCMEC CyberTipline / law enforcement) while preserving the message details so professionals can act.
+Get your child to a calm, safe pause. Preserve non-image details, stop the contact without deleting the account or messages, and report it through NCMEC’s CyberTipline, or 911/local police if there is immediate danger.
 
 ## Do not do these things
-- Don’t confront, threaten, or negotiate with the adult (it can escalate and make things worse).
-- Don’t pay money or comply with demands if threats are involved.
-- Don’t forward, upload, or re-share any sexual images, and don’t ask your child to send you any images.
-- If any sexual images exist in the chat: **don’t open, download, save, or screenshot them**. Keep your focus on stopping contact and capturing non-image details.
-- Don’t delete chats/accounts in a rush if you may report (you can stop contact without wiping everything).
-- Don’t pressure your child for a full explanation right now; safety first.
+- Don’t confront, threaten, or negotiate with the adult.
+- Don’t pay money, send gift cards, or comply with demands before getting urgent help from a trusted adult and a reporting route.
+- Don’t forward, upload, re-share, or ask your child to send you any sexual images.
+- If sexual images exist in the chat, don’t open, download, save, screenshot, or move them.
+- Don’t delete chats, accounts, usernames, or message threads in a rush.
+- Don’t make your child give a full explanation right now; safety and reporting come first.
+- Don’t try to identify or expose the adult yourself.
 
 ## What to do now
-1. **Get to a safer pause and stay with your child.** If the adult is making threats, asking to meet, or you believe there’s immediate danger, treat it as urgent.
-2. **Stop the contact immediately.** Block the account, tighten privacy settings, and turn off location sharing on the app/device (where applicable). If there are multiple accounts, block each one.
-3. **Preserve key details (without handling images).** Capture or write down:
-   - the account/profile identifiers (username/handle, display name, profile link if available)
-   - the platform/app and any phone number/email shown
-   - dates/times of the requests and any threats or coercion
-   - the message text (as safely as you can)
-
-   If sexual images are present, avoid capturing them. If you need a record of the conversation, consider photographing the screen with another device while keeping any images off-screen and off shared/cloud storage where possible.
-4. **Report using the right route (USA).**
-   - **If your child is in immediate danger:** call **911**.
-   - **Otherwise:** file a report with **NCMEC’s CyberTipline** (the U.S. centralized reporting system for suspected online exploitation of children) and consider reporting to your **local law enforcement** as well.
-5. **Report in the app/platform too (after saving key details).** Use the platform’s reporting tools for child sexual exploitation / solicitation / grooming. This can help the platform act quickly and preserve records.
-6. **If any sexual image of your child may exist or could be shared:** consider **NCMEC’s Take It Down** service (for images/videos taken when someone was under 18) as one step that may help reduce further spread.
-7. **If threats, money demands, or ongoing coercion are involved:** consider contacting the **FBI** (for example, via a local field office or an online tip option), in addition to the CyberTipline and local police.
+1. If your child may be in immediate danger, if a meeting is planned, if the adult knows your child’s current location, or if there are threats of violence, call 911 or local police now.
+2. Stay with your child and move them away from the conversation. Say clearly that they are not in trouble for telling you or for being scared.
+3. Write down non-image details before blocking if you can do that safely. Keep any explicit images closed and out of the record:
+   - the username, handle, display name, profile link, phone number, or email address
+   - the platform or app
+   - the date and time you found the messages
+   - the exact wording of requests, threats, money demands, or pressure
+   - any mention of meeting, location, other accounts, or other children
+4. Stop contact without deleting the account or message thread. Block the account, turn off location sharing for that app or device, and change privacy settings so unknown adults cannot message your child.
+5. File a report with NCMEC’s CyberTipline. It is the U.S. centralized reporting route for suspected online child sexual exploitation, including online enticement and sexual image concerns.
+6. Report the account inside the app or platform after you have saved the non-image details. Use the child sexual exploitation, grooming, solicitation, or safety-report option if the platform offers one.
+7. If threats, blackmail, money demands, or ongoing coercion are involved, also contact the FBI through its online tip form, a local FBI field office, or 1-800-CALL-FBI.
+8. If a nude, partially nude, or sexually explicit image of your child may already exist or may be shared online, look at NCMEC’s Take It Down service. Do not download, transfer, or create a new copy of an image in order to use it.
 
 ## What can wait
-- You do **not** need to decide right now whether to tell school, other parents, or extended family—keep sharing on a strict need-to-know basis.
-- You do **not** need to “solve” the adult’s identity yourself; reporting systems exist for investigation.
-- You do **not** need to do a full device audit while your child is panicking—stabilize first.
+- You do not need to decide tonight what to tell school, other parents, extended family, or your child’s friends.
+- You do not need to prove who the adult is.
+- You do not need to do a full device audit while your child is panicking.
+- You do not need to make long-term phone, app, therapy, school, or legal decisions before the immediate reporting and safety steps are started.
 
 ## Important reassurance
-Children can be manipulated, threatened, or frightened into responding—this is not a “bad choice” problem. The most protective thing you can do is stay calm, take over the reporting steps, and make sure your child isn’t dealing with the adult alone.
+Children can be manipulated, threatened, flattered, tricked, or frightened into responding. This is not a moment for blame; the most protective thing is to stay calm, stop the adult’s access, preserve safe details, and bring in specialist help.
 
 ## Scope note
-These are first steps to stop contact, preserve enough information for professionals to act, and connect you to specialist help. Longer-term steps (ongoing safety settings, school plans, counselling, and broader reporting decisions) can come later when things are steadier.
+These are first steps only: pause the contact, avoid irreversible mistakes, preserve enough safe information for professionals, and reach the right reporting routes. Later decisions about counselling, school, devices, legal options, and longer-term safety may need specialist help.
 
 ## Important note
-This is general information, not legal advice. If you believe a child is in immediate danger, call emergency services. If you’re unsure whether what you found “counts,” it’s still appropriate to report concerns—professionals can help you decide what matters.
+This is general information, not legal, medical, therapeutic, financial, or other professional advice. If you believe a child is in immediate danger, call 911 or local police.
 
 ## Additional Resources
 - https://www.missingkids.org/gethelpnow/cybertipline
@@ -75,3 +90,5 @@ This is general information, not legal advice. If you believe a child is in imme
 - https://takeitdown.ncmec.org/
 - https://www.missingkids.org/theissues/sextortion
 - https://www.fbi.gov/how-we-can-help-you/scams-and-safety/common-frauds-and-scams/sextortion
+- https://tips.fbi.gov/home
+- https://www.fbi.gov/contact-us/field-offices

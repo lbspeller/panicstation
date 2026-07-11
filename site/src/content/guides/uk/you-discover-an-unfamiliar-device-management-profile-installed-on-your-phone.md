@@ -1,93 +1,115 @@
-﻿---
-title: "What to do if… you discover an unfamiliar “device management” profile installed on your phone"
+---
+title: "What to do if… you discover an unfamiliar device management profile installed on your phone"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - unfamiliar device management profile
-  - unknown management profile on phone
-  - mdm profile i didn’t install
-  - phone says managed by organisation
-  - supervised iphone message
-  - vpn and device management profile
-  - configuration profile on iphone
-  - unknown work profile on android
-  - android work profile appeared
-  - device admin app i don’t recognise
-  - profile installed after link
-  - scammer told me to install profile
-  - remote management on personal phone
-  - my phone is enrolled in mdm
-  - device management profile removal
-  - worried phone is being monitored
-  - corporate management on my phone
-  - phone settings changed by profile
-last_reviewed: "2026-03-08"
+  - "unfamiliar device management profile"
+  - "unknown management profile on phone"
+  - "mdm profile i did not install"
+  - "phone says managed by organisation"
+  - "supervised iphone message"
+  - "vpn and device management profile"
+  - "configuration profile on iphone"
+  - "unknown work profile on android"
+  - "android work profile appeared"
+  - "device admin app unknown"
+  - "profile installed after link"
+  - "scammer installed phone profile"
+  - "remote management on personal phone"
+  - "phone enrolled in mdm"
+  - "device management profile stuck"
+  - "worried phone is monitored"
+  - "what do i do if phone is managed"
+  - "what do i do if mdm appeared"
+  - "what do i do if profile appeared"
+  - "what do i do if phone is monitored"
+  - "help i found a management profile"
+  - "help i installed a phone profile"
+  - "help i clicked a profile link"
+  - "my phone says supervised"
+  - "my phone has work profile"
+  - "my iphone has unknown profile"
+  - "managed by organisation message"
+  - "unknown certificate on phone"
+  - "vpn appeared on phone"
+  - "briefcase apps appeared"
+  - "settings changed by profile"
+  - "phone profile scam"
+  - "device managment profile"
+  - "unkown phone profile"
+last_reviewed: "2026-05-10"
+date_created: "2026-05-10"
 ---
 
-# What to do if… you discover an unfamiliar “device management” profile installed on your phone (UK)
+# What to do if… you discover an unfamiliar device management profile installed on your phone (UK)
+
 ## Short answer
-Pause and isolate the phone (airplane mode / Wi-Fi off), then record what you’re seeing (screenshots + name of the profile) before you remove anything—because removal can delete settings, accounts, or work data.
+Pause, stop using the phone for sensitive accounts, turn on Airplane mode, then turn Wi-Fi off. Record what the profile says before you remove anything, because removal can delete settings, apps, accounts, or work and school data.
 
 ## Do not do these things
-- Don’t keep using the phone for banking, passwords, or private messages until you’ve checked what the profile controls.
-- Don’t install any “removal” apps, remote-control apps, or “security certificates” someone sends you to “fix it”.
-- Don’t call back a number from a pop-up/text/email that told you to install the profile (use official contact routes you find yourself).
-- Don’t delete the profile if you rely on it for work/school access until you’ve confirmed it isn’t legitimately required (deleting can remove associated apps/data).
-- Don’t factory reset first unless you’re confident you can sign back in afterwards and it’s not legitimately work/school-managed; if in doubt, get advice from your carrier or official IT first.
+- Don’t keep using the phone for banking, passwords, private messages, or identity checks until you have checked what the profile controls.
+- Don’t install any “removal” apps, remote-control apps, certificates, or security profiles that someone sends you to “fix it”.
+- Don’t call back a number from a pop-up, text, email, or chat message that told you to install the profile.
+- Don’t delete the profile first if the phone may be work-managed, school-managed, borrowed, repaired, or second-hand.
+- Don’t factory reset first unless you are confident you can sign back in afterwards and you have considered whether the profile is legitimate.
 
 ## What to do now
-1. **Get to a safer pause and reduce exposure**
-   - Turn on **Airplane mode**, then manually switch **Wi-Fi and Bluetooth off**.
-   - If you need a connection for one quick task (e.g., to contact your provider), use a **trusted network** and turn it back off afterwards.
+1. **Get to a safer pause**
+   - Turn on **Airplane mode**.
+   - Check that **Wi-Fi and Bluetooth** are off as well, because device behaviour can vary.
+   - Use a different trusted phone or computer for banking, passwords, email, and support calls for now.
 
-2. **Capture basic evidence for your own records**
-   - Take **screenshots** of the profile details: name, organisation, any “managed by…” message, and any listed certificates/VPNs.
-   - Write down **when you first noticed it** and whether you recently tapped a link, installed an app, scanned a QR code, or received “IT support” messages.
+2. **Record what you can see**
+   - Take screenshots of the profile name, organisation name, “managed by” message, certificates, VPNs, and any admin or work-profile app names.
+   - Write down when you first noticed it and whether you recently tapped a link, scanned a QR code, installed an app, handed the phone to someone, or received “IT support” instructions.
 
-3. **Check whether the phone is actually being managed (and by whom)**
-   - **iPhone/iPad:** open **Settings → General → VPN & Device Management** (wording can vary). If you see a profile you don’t recognise, open it and note who it claims to be.
-   - **Android:** check for a **Work profile** (briefcase icon apps), and in Settings look for **Work profile / Accounts / Security / Admin apps** (names vary by manufacturer). Note any admin app you don’t recognise.
+3. **Check where the management is shown**
+   - **iPhone or iPad:** open **Settings → General → VPN & Device Management**. If a profile is listed, open it and note who it claims to be.
+   - **Android:** look for a **Work profile**, briefcase-marked apps, or settings named **Work profile**, **Accounts**, **Security**, **Device admin apps**, or similar. Names vary by manufacturer.
 
-4. **If it’s clearly not yours, remove the management profile/work profile**
-   - **iPhone/iPad:** in the profile screen, choose **Delete Profile**, then **restart** the phone. (Removing a profile can remove settings/accounts/apps installed by that profile.)
-   - **Android:** use **Remove work profile** if present. If the phone won’t let you remove it, look for an admin/management app that must be turned off before it can be uninstalled (labels vary), then restart.
+4. **If it is clearly not yours, remove it after recording it**
+   - **iPhone or iPad:** in the profile screen, choose **Delete Profile**, follow the prompts, then restart the phone. Removing a profile can remove settings, accounts, apps, and data linked to that profile.
+   - **Android:** use **Remove work profile** if it is available. If you do not see that option, remove the work account or turn off the unknown admin app only if you are sure it is not needed for work or school, then restart the phone.
+   - If the device says the organisation will not allow removal, stop and use a different trusted device to contact the legitimate workplace, school, seller, or manufacturer support route.
 
-5. **Immediately protect accounts that were used on that phone**
-   - From a **different, trusted device** (or a computer you trust), change the passwords for: email (especially your main inbox), Apple ID/Google account, banking, and any password manager.
-   - Turn on **two-step verification/2FA** where available, and review recent sign-ins/devices for your Apple/Google account.
+5. **Protect accounts from a different trusted device**
+   - Change the password for your main email account first.
+   - Change your Apple Account or Google account password.
+   - Change banking, payment, and password manager master passwords if they were used on the phone.
+   - Turn on two-step verification where available and review recent sign-ins and connected devices.
 
-6. **Contact the one place that can stop SIM/number abuse**
-   - Call your **mobile network provider** using the number from their official website/bill, ask them to check for **SIM swap** activity or unusual changes, and add any extra account security they offer (e.g., a passcode on the account).
+6. **Call your mobile network provider**
+   - Use the number from the provider’s official website, app, or bill.
+   - Ask whether there has been any SIM swap, number port, replacement SIM, address change, or unusual account access.
+   - Ask what extra account security they can add.
 
-7. **Report the scam messages (if that’s how this started)**
+7. **Report scam messages if this started from a message**
    - Forward suspicious emails to **report@phishing.gov.uk**.
-   - Forward suspicious text messages to **7726** (free).
+   - Forward suspicious text messages to **7726**.
 
-8. **If money or identity details may be involved, report it**
-   - If you think this is fraud/cybercrime in **England, Wales, or Northern Ireland**, report it to **Report Fraud**.
-   - If you live in **Scotland**, report to **Police Scotland via 101**.
-   - If the crime is happening now or you’re in immediate danger, call **999** (or **112**).
+8. **Report fraud or cyber crime if money, accounts, or identity details may be involved**
+   - If you are in **England, Wales, or Northern Ireland**, report cyber crime or fraud to **Report Fraud**.
+   - If you live in **Scotland** or the crime happened there, contact **Police Scotland on 101**.
+   - If a crime is happening now or anyone is in immediate danger, call **999**.
 
 ## What can wait
-- You don’t need to decide today whether the device is “totally compromised”.
-- You don’t need to publicly warn everyone, post screenshots online, or confront a suspected person right now.
-- You don’t need to factory reset unless removal + account protection doesn’t restore control (or you’re advised by your provider/IT).
+- You do not need to decide today whether the phone is “totally compromised”.
+- You do not need to post screenshots online, publicly warn everyone, or confront a suspected person right now.
+- You do not need to factory reset before you have recorded the profile, protected key accounts, and checked whether the management is legitimate.
 
 ## Important reassurance
-Seeing an unexpected management profile is frightening, but it’s a common tactic in scams and also something that can happen legitimately (work/school, second-hand devices, repairs). Slowing down, recording what you saw, and regaining account control is the safest first win.
+An unexpected management profile is alarming, but it does not always mean someone has total control of your phone. It can be a scam tactic, a leftover work or school setting, or something from a second-hand or repaired device; the safest first win is to pause, record it, remove it if it is clearly not yours, and protect your accounts.
 
 ## Scope note
-This is first-steps-only guidance to stabilise, prevent irreversible mistakes, and regain control. If the phone is work/school-managed or you suspect harassment, later steps may need specialist support.
+These are first steps only to stabilise the situation and prevent irreversible mistakes. Later decisions, especially for a work or school device, suspected stalking, fraud, or identity misuse, may need specialist help.
 
 ## Important note
-This is general information, not legal or professional advice. If you share a device with an employer/school, their management may be legitimate—confirm before making changes that could affect access or data.
+This is general information, not legal, financial, technical, security, or professional advice. If the device may belong to an employer, school, or organisation, confirm the position through a trusted official route before removing management that may be legitimate.
 
 ## Additional Resources
 - https://support.apple.com/en-gb/guide/personal-safety/ips327569a75/web
 - https://support.apple.com/guide/iphone/install-or-remove-configuration-profiles-iph6c493b19/ios
 - https://support.google.com/a/users/answer/7579983?hl=en
 - https://www.gov.uk/report-suspicious-emails-websites-phishing
-- https://www.ncsc.gov.uk/collection/phishing-scams/report-scam-email
-- https://www.reportfraud.police.uk/
+- https://www.ncsc.gov.uk/guidance/hacked-device-action-to-take
 - https://www.reportfraud.police.uk/reporting-a-fraud/
-- https://www.cityoflondon.police.uk/news/city-of-london/news/2025/december/report-fraud-service-goes-live-with-full-public-launch-in-january-2026/

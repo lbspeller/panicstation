@@ -1,93 +1,117 @@
-﻿---
+---
 title: "What to do if… you stop receiving text messages and cannot get SMS verification codes"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
-  - not receiving texts
-  - stopped getting sms
-  - sms verification not arriving
-  - cant get verification code
-  - one time code not received
-  - otp text not coming through
-  - short code texts not working
-  - 2fa sms not working
-  - phone not getting security codes
-  - texts suddenly stopped
-  - number not receiving sms
-  - verification texts delayed
-  - sms codes not delivered
-  - cannot receive login code
-  - account recovery without sms
-  - possible sim swap
-  - phone number hijacked
-  - port out fraud concern
-last_reviewed: "2026-03-08"
+  - "not receiving text messages"
+  - "stopped getting sms messages"
+  - "sms verification codes missing"
+  - "verification code not arriving"
+  - "one time code missing"
+  - "otp text not coming"
+  - "short code texts failing"
+  - "phone not getting codes"
+  - "what do i do if texts stopped"
+  - "what do i do if sms failed"
+  - "what do i do if verification codes stopped"
+  - "what do i do if short codes fail"
+  - "help i cannot receive texts"
+  - "help i am not getting sms"
+  - "help i lost verification texts"
+  - "help i cannot log in"
+  - "my sms codes stopped"
+  - "my phone stopped getting codes"
+  - "my number may be hijacked"
+  - "my verification texts are delayed"
+  - "sudden no service"
+  - "texts failing both directions"
+  - "calls failing too"
+  - "sim change alert"
+  - "esim activation alert"
+  - "number transfer alert"
+  - "maybe sim swap"
+  - "possible port out fraud"
+  - "short code block confusion"
+  - "carrier text problem"
+  - "verfication code missing"
+  - "messeges not arriving"
+last_reviewed: "2026-06-24"
+date_created: "2026-06-24"
 ---
 
 # What to do if… you stop receiving text messages and cannot get SMS verification codes (USA)
+
 ## Short answer
-Assume either a carrier provisioning/short-code block or a SIM-swap/port-out attack. Use another device to secure your key accounts, and contact your wireless carrier immediately to confirm your number hasn’t been moved.
+Treat this as urgent until your carrier confirms your number is safe. Use a trusted device or another phone to contact your wireless carrier, then secure the accounts that rely on SMS codes, especially email, banking, password manager, and Apple or Google.
 
 ## Do not do these things
-- Don’t keep requesting code after code for long stretches (you can trigger rate-limits and make delivery worse).
-- Don’t share verification codes with anyone, even if they claim to be your carrier, bank, Apple, Google, or “security”.
-- Don’t click links in unexpected “verification” texts or calls you didn’t start.
-- Don’t factory reset your phone as an early step (it can remove authenticators/passkeys and make recovery harder).
-- Don’t ignore it if you also lost service or got alerts about SIM/eSIM changes—treat that as possible takeover.
+- Don’t keep requesting code after code for a long time; some services may rate-limit you.
+- Don’t share verification codes with anyone, even if they claim to be your carrier, bank, Apple, Google, or security support.
+- Don’t click unexpected verification links in texts, emails, or calls you did not start.
+- Don’t factory reset your phone as an early step; it may remove authenticators, passkeys, or saved recovery access.
+- Don’t ignore it if you also lost mobile service or got an alert about a SIM, eSIM, or number transfer you did not request.
 
 ## What to do now
-1. **Check for takeover red flags (SIM swap / port-out).**
-   - Sudden “No Service”, calls failing, or texts failing both directions.
-   - Any notification about a **SIM change**, **eSIM activation**, or **number transfer/port** you didn’t request.
-   - If yes, go straight to steps 3, 4, and 5.
+1. **Check whether this looks like a number takeover.**
+   - Look for sudden “No Service”, calls failing, texts failing both ways, or mobile data dropping.
+   - Look for any carrier notice about a SIM change, eSIM activation, number transfer, port request, password reset, or account change you did not request.
+   - If any of these are present, move straight to steps 3, 4, and 5.
 
-2. **Do the quick “it’s blocked locally” checks (2 minutes).**
-   - Toggle Airplane mode on/off, restart the phone.
-   - Confirm you can receive a normal text from a friend.
-   - Check blocked numbers and message filtering settings so short codes/unknown senders aren’t being silently filtered.
+2. **Do quick local checks, but do not spend long on them.**
+   - Toggle Airplane mode off and on, then restart the phone.
+   - Ask someone nearby to send you a normal text, and try sending one back.
+   - Check blocked numbers, spam folders, unknown-sender filters, and message-filtering settings.
+   - Check whether only verification or short-code texts are missing, or whether all texts and calls are failing.
 
-3. **Call your wireless carrier from another phone and ask for specific actions.**
+3. **Contact your wireless carrier from another phone or trusted support route.**
    Ask them to:
-   - Confirm whether there was a **recent SIM/eSIM change** or a **port/number transfer** on your line, and stop/reverse anything you didn’t authorize.
-   - Confirm **short-code messaging** is enabled and your line is provisioned to **receive** SMS from short codes.
-   - Remove any account-level blocks that prevent verification texts (sometimes tied to anti-spam or premium/short-code settings).
-   - Add stronger protections (availability varies by carrier), such as **port-out/number-transfer protection** and a **number transfer PIN/account passcode**.
+   - Confirm whether there has been a recent SIM change, eSIM activation, port request, number transfer, device change, or account password change.
+   - Stop or reverse any change you did not authorize.
+   - Confirm that your line is active and provisioned to receive SMS and short-code messages.
+   - Check whether any account-level, spam, premium-message, or short-code block is preventing verification texts.
+   - Add any available account protections, such as a carrier account passcode, number-transfer lock, port-out protection, or transfer PIN.
 
-4. **Get into your accounts without SMS (right now), starting with the ones that control everything else.**
-   - Priority: your **primary email**, **banking**, **password manager**, and your **Apple/Google account**.
-   - From a trusted device, change your email password and switch 2FA to **non-SMS** (authenticator app, passkey, or hardware security key).
-   - If you’re locked out, use official account recovery options that don’t depend on SMS where possible.
+4. **Secure the accounts that could lock you out of everything else.**
+   - Start with your primary email, banking, password manager, and Apple or Google account.
+   - Use a trusted device that is already signed in where possible.
+   - Change the password on your primary email account if you suspect takeover.
+   - Where the service offers it, switch from SMS codes to an authenticator app, passkey, or hardware security key.
+   - Save new backup codes somewhere safe if the service provides them.
+   - If you are locked out, use the service’s official recovery page and choose options that do not depend on SMS where available.
 
-5. **If you suspect SIM swap fraud, take the money-risk steps immediately.**
-   - Contact your bank/credit card issuers using official numbers and ask them to watch for account takeover and unusual transfers.
-   - Review recent transactions and alerts for changes to contact details, new payees, or password resets.
+5. **If money or identity theft is possible, contact financial accounts now.**
+   - Call banks, credit card issuers, and payment apps using official numbers or in-app support.
+   - Ask them to watch for account takeover, unusual transfers, new payees, password resets, and contact-detail changes.
+   - Review recent transactions and alerts from the last few days.
 
-6. **Report and escalate if needed.**
-   - Report suspected SIM swap/port-out fraud to the **FTC** (for reporting and recovery guidance).
-   - If your carrier is not resolving the issue, file an **FCC consumer complaint** to escalate the problem.
+6. **Report or escalate when the immediate calls are done.**
+   - If someone may have used your identity or financial details, use IdentityTheft.gov for recovery steps.
+   - If your carrier is not resolving a SIM-swap, port-out, or phone-number problem, file an FCC consumer complaint.
+   - Keep carrier case numbers and complaint confirmation numbers together.
 
-7. **If there’s clear identity theft or financial loss, create an evidence trail.**
-   - Write down times, names/ID numbers, what the carrier changed, and keep any alerts/emails about SIM/port changes.
-   - If you’ve lost money, file a local police report if your bank or insurer asks for one.
+7. **Create a simple evidence trail.**
+   - Write down dates, times, carrier contacts, case numbers, and what each person said changed on your line.
+   - Save screenshots or emails about SIM changes, eSIM activations, port requests, password resets, or new sign-ins.
+   - If you have financial loss, ask your bank, insurer, or local authorities what documentation they need before filing extra reports.
 
 ## What can wait
-- You don’t have to decide today whether to change your number or switch carriers.
-- You don’t need to wipe your phone unless a trusted support channel tells you it’s necessary.
-- You can postpone “perfect security” improvements until you regain stable access—focus on regaining control first.
+- You do not have to decide today whether to change your number or switch carriers.
+- You do not need to wipe your phone unless a trusted support channel says it is necessary.
+- You can postpone broader security cleanup until you regain stable access; focus first on your phone number, primary email, and money-risk accounts.
 
 ## Important reassurance
-This problem is common and often fixable (carrier-side provisioning or short-code blocks happen), and it can also be an early sign of number takeover. Taking it seriously doesn’t mean panicking—it just means you’re preventing avoidable lockouts and losses.
+This can be caused by a carrier-side setting, a short-code delivery problem, or a temporary service issue, and those are often fixable. It can also be an early sign of SIM-swap or port-out fraud, so taking quick, calm steps is a protective move, not an overreaction.
 
 ## Scope note
-These are first steps to stabilize access, prevent account takeover, and get your carrier to fix or confirm what’s happening. After you’re back in, you can move important accounts away from SMS-based verification.
+These are first steps to stabilize access, reduce account-takeover risk, and get your carrier to confirm what happened. Later decisions, such as changing numbers, disputing losses, or rebuilding account security, may need specialist help.
 
 ## Important note
-This is general information, not legal, financial, or technical advice. If you suspect fraud or see unauthorized activity, use official contact channels and act quickly to reduce harm.
+This is general information, not legal, financial, technical, cybersecurity, or professional advice. Use official contact channels and act quickly if you see unauthorized activity.
 
 ## Additional Resources
 - https://consumer.ftc.gov/consumer-alerts/2019/10/sim-swap-scams-how-protect-yourself
-- https://www.fcc.gov/cell-phone-fraud
 - https://consumercomplaints.fcc.gov/hc/en-us
+- https://www.identitytheft.gov/
 - https://www.federalregister.gov/documents/2023/12/08/2023-26338/protecting-consumers-from-sim-swap-and-port-out-fraud
-- https://www.ctia.org/protecting-against-sim-swap-fraud
 - https://docs.fcc.gov/public/attachments/FCC-23-95A1.pdf
+- https://pages.nist.gov/800-63-4/sp800-63b.html

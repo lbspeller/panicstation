@@ -1,81 +1,115 @@
-﻿---
+---
 title: "What to do if… you hear loud squeaking or fluttering from a chimney or vent and suspect trapped wildlife"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
-  - animal in chimney
-  - bird stuck in chimney
-  - fluttering in chimney
-  - squeaking in chimney
-  - scratching in chimney
-  - wildlife in vent
-  - animal in vent duct
-  - bat in chimney
-  - birds in flue
-  - squirrel in chimney
-  - nesting in chimney
-  - chimney noise at night
-  - chimney noises daytime
-  - something stuck in flue
-  - animal fell down chimney
-  - vent cover rattling
-  - flue blocked by nest
-  - trapped wildlife in house
-  - animal behind fireplace
-last_reviewed: "2026-03-04"
+  - "animal in chimney"
+  - "bird stuck in chimney"
+  - "wildlife in chimney"
+  - "animal in vent"
+  - "wildlife in vent"
+  - "bat in chimney"
+  - "squirrel in chimney"
+  - "birds in flue"
+  - "animal behind fireplace"
+  - "trapped wildlife in house"
+  - "what do i do if animal in chimney"
+  - "what do i do if bird stuck in chimney"
+  - "what do i do if wildlife in vent"
+  - "what do i do if bat in chimney"
+  - "help i hear squeaking in chimney"
+  - "help i hear fluttering in chimney"
+  - "my chimney is making noises"
+  - "my vent has animal noises"
+  - "fluttering from chimney"
+  - "squeaking from chimney"
+  - "scratching in flue"
+  - "noises behind fireplace"
+  - "feathers in fireplace"
+  - "soot on bird"
+  - "chimney noise at night"
+  - "chimney noises daytime"
+  - "flue blocked by nest"
+  - "nest in chimney"
+  - "vent cover animal noise"
+  - "bird in gas fire"
+  - "animal stuck in flu"
+  - "sqeaking in chimney"
+  - "after lighting fireplace"
+  - "during nesting season"
+last_reviewed: "2026-05-13"
+date_created: "2026-05-13"
 ---
 
 # What to do if… you hear loud squeaking or fluttering from a chimney or vent and suspect trapped wildlife (UK)
 
 ## Short answer
-Stop using any fireplace/boiler/extractor that might connect to that chimney or vent, keep people and pets away from the opening, and get help from a chimney professional or wildlife rescue — especially if it could be bats.
+Stop using any fireplace, stove, gas fire, boiler, extractor, or appliance that may connect to that chimney, flue, or vent. Keep people and pets away from the opening, and get suitable professional help before using it again.
 
 ## Do not do these things
-- Don’t light a fire, run a stove/back-boiler, or try to “smoke it out” — this can injure/kill the animal and can create a blockage or fume risk.
-- Don’t block the chimney/vent outside “to stop it escaping” — you can trap it more firmly or block ventilation.
-- Don’t reach in bare-handed or try to grab it (bites/scratches; wildlife panics).
-- Don’t use poisons, glue traps, or improvised snares.
-- Don’t start building work, remove chimney pots/cowls, or seal gaps if there’s any chance it’s bats (they’re legally protected and you should get proper advice first).
+- Don’t light a fire, run a stove, or try to “smoke it out”.
+- Don’t use a gas fire, boiler, extractor, or any appliance connected to the affected flue or vent until it has been checked.
+- Don’t block, cap, seal, or cover the outside opening while you can still hear wildlife.
+- Don’t reach in bare-handed, grab the animal, or let pets near it.
+- Don’t use poison, glue traps, improvised snares, or pest-control products.
+- Don’t start repairs, remove cowls, seal gaps, or do building work if there is any chance it could be bats.
 
 ## What to do now
-1. **Make the appliance safe (and take fumes seriously).**
-   - If the noise is near anything that burns fuel (open fire, wood burner, multi-fuel stove, gas fire, boiler flue), **turn it off and don’t use it** until the chimney/flue is confirmed clear.
-   - If you **smell gas** or suspect **carbon monoxide/fumes**: **open doors/windows if safe, get everyone into fresh air, and call the National Gas Emergency Service on 0800 111 999 (24/7).**
-2. **Confine the problem area (calm + safety).**
+1. **Make the area and any appliance safe.**
+   - Turn off the affected fireplace, stove, gas fire, boiler, extractor, or connected appliance.
+   - Do not use it again until the chimney, flue, or vent has been checked and cleared by an appropriate professional.
    - Keep children and pets out of the room.
-   - Close internal doors so, if it comes into the room, it’s contained to one space.
-3. **If a bird has come into the room from the chimney, use the “quiet exit” approach.**
-   - **Open windows and any external doors** in the room.
-   - **Pull curtains fully back** so the bird can see the way out.
-   - **Leave the room** and keep it quiet; **monitor for up to about two hours** to see if it escapes on its own.
-4. **If it sounds like bats (light fluttering + rapid squeaks at dusk/dawn), switch to “bat-safe” actions.**
-   - **Do not** seal the chimney/vent or try to remove them yourself.
-   - Get advice first via the **National Bat Helpline (Bat Conservation Trust) on 0345 1300 228** before any exclusion, capping, or repairs.
-5. **Arrange the right help for “stuck in chimney/vent” cases.**
-   - **Call a chimney sweep/chimney professional** to inspect the flue/duct safely and confirm it’s clear before you use the appliance again.
-   - If you believe an animal is **trapped and cannot get out** (continued distress sounds for hours, weakening noises, or debris/feathers dropping into the fireplace), **contact a wildlife rescue/animal welfare service** for guidance on what’s feasible and humane in your setup.
-6. **Capture details that help professionals act quickly (no ladders/roof access).**
-   - Note: **time**, **where the sound is loudest** (fireplace opening, behind a vent grille, loft, outside stack), and whether it’s **fluttering vs scratching**.
-   - If safe, take a short **audio/video** from a distance.
+
+2. **Treat gas, fumes, and carbon monoxide as urgent.**
+   - If you smell gas, suspect a gas leak, or suspect carbon monoxide, stop using appliances, open doors and windows if safe, and get everyone into fresh air.
+   - Call the National Gas Emergency Service on 0800 111 999.
+   - If carbon monoxide is suspected, do not go back inside until you are told it is safe, and seek medical help if anyone feels unwell.
+
+3. **Contain the room without trapping the animal further.**
+   - Close internal doors to keep the situation to one room if the animal comes out.
+   - Keep the room quiet and dim.
+   - Do not stand over the fireplace, vent grille, or appliance opening.
+
+4. **If a bird comes into the room, give it one clear way out.**
+   - Open one external door or one window that leads outside.
+   - Turn lights down and cover other windows or mirrors so the bird is not pulled toward several bright surfaces.
+   - Leave the room quiet and monitor from outside the room for about two hours.
+   - If the bird looks injured, dazed, sooty, young, or unable to leave, contact a vet, wildlife rescue, or the RSPCA for advice.
+
+5. **If it could be bats, switch to bat-safe actions.**
+   - Do not seal the chimney or vent.
+   - Do not try to catch, move, exclude, or disturb them yourself.
+   - Get advice from the National Bat Helpline on 0345 1300 228 during its open hours, or use the Bat Conservation Trust website for current guidance.
+
+6. **Arrange the right practical help.**
+   - For a chimney or flue, contact a chimney sweep, chimney professional, or suitable builder to inspect safely and confirm it is clear.
+   - For anything behind or connected to a gas appliance, use a Gas Safe registered engineer for the gas work before anyone tries to move or access the appliance.
+   - For an injured, grounded, sooty, or visibly unwell animal, ask a vet, wildlife rescue, or animal welfare service what to do next.
+
+7. **Collect simple details from a safe distance.**
+   - Note when the noise started and where it is loudest: fireplace, vent grille, loft, outside stack, or behind an appliance.
+   - Note whether it sounds like fluttering, squeaking, scratching, or repeated impacts.
+   - Take a short audio or video only if you can do it without approaching the opening, climbing, or removing covers.
 
 ## What can wait
-- You don’t need to identify the exact species right now.
-- You don’t need to decide on repairs, capping, or long-term prevention until the animal is safely out and the flue/vent is confirmed clear.
-- You don’t need to climb onto the roof or dismantle vents in a panic.
+- You do not need to identify the exact species right now.
+- You do not need to decide on repairs, capping, cowls, guards, or long-term prevention until the animal is out and the flue or vent has been checked.
+- You do not need to climb onto the roof, dismantle vents, or handle wildlife in a panic.
 
 ## Important reassurance
-This is common, especially in nesting and colder months. Most harm happens when people try to “fix it fast” with fire, sealing, or handling — pausing and getting the right help is the safest move for you and the animal.
+Pausing is the safest move here. Most avoidable harm comes from using the appliance, sealing the exit, or trying to handle a frightened animal before the right help is in place.
 
 ## Scope note
-This is first-steps guidance to stabilise the situation and avoid harmful actions. Removal methods and any building work can vary by species, building type, and legal protections (especially for bats and active nests).
+These are first steps only. Safe removal, appliance checks, repairs, and any later prevention work may need a chimney professional, builder, Gas Safe registered engineer, vet, wildlife rescue, or bat specialist depending on the species and setup.
 
 ## Important note
-This is general information, not a substitute for professional inspection, veterinary advice, or legal advice. If there’s any sign of gas leak or fumes, treat it as an emergency and use official emergency channels.
+This is general information, not legal, medical, veterinary, gas-safety, building, or professional advice. If there is any sign of gas, fumes, or carbon monoxide, use official emergency routes immediately.
 
 ## Additional Resources
 - https://www.rspca.org.uk/adviceandwelfare/wildlife/birds/trapped
 - https://www.gov.uk/guidance/bats-protection-surveys-and-licences
 - https://www.bats.org.uk/our-work/national-bat-helpline
-- https://www.bats.org.uk/advice/what-do-i-need-to-know-about-having-bats/what-is-bats-are-being-a-nuisance/managing-bats-entering-living-areas
+- https://www.bats.org.uk/advice/help-ive-found-a-bat
 - https://www.nationalgas.com/emergency-contacts
+- https://www.gassaferegister.co.uk/find-an-engineer-or-check-the-register/
 - https://nacs.org.uk/find-sweep/

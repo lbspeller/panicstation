@@ -1,75 +1,84 @@
-﻿---
+---
 title: "What to do if… a large tree limb is hanging over your roof after a storm"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
-  - tree limb over roof
-  - hanging branch after storm
-  - storm damaged tree near house
-  - cracked limb above house
-  - branch about to fall on roof
-  - tree branch threatening roof
-  - storm debris over property
-  - roof damage risk from tree
-  - unsafe tree limb after wind
-  - after storm home damage
-  - suspected roof impact
-  - water leak after storm tree
-  - downed power lines nearby
-  - utility hazard tree limb
-  - emergency arborist
-  - homeowners insurance claim
-  - neighbour tree over my roof
-  - tree limb removal safety
-last_reviewed: "2026-03-04"
+  - "tree limb hanging over roof"
+  - "large tree limb over roof"
+  - "storm damaged tree limb"
+  - "cracked tree limb above house"
+  - "tree branch threatening roof"
+  - "hanging branch after storm"
+  - "broken tree limb over home"
+  - "unsafe branch above roof"
+  - "what do i do if limb hangs"
+  - "what do i do if branch cracked"
+  - "what do i do if limb split"
+  - "what do i do if branch may fall"
+  - "help i have a hanging limb"
+  - "help i found a cracked branch"
+  - "my roof is under a tree limb"
+  - "my branch is hanging after storm"
+  - "branch creaking above roof"
+  - "limb split near trunk"
+  - "tree limb sagging after storm"
+  - "branch touching utility wire"
+  - "roof leak after tree damage"
+  - "ceiling sagging after roof impact"
+  - "tree limb or power line"
+  - "cable line or electric wire"
+  - "roof leak or tree damage"
+  - "fallen branch or hanging limb"
+  - "tree branch or storm debris"
+  - "neighbor tree limb over roof"
+  - "public tree limb over house"
+  - "wet ground near downed wire"
+  - "storm tree limb near driveway"
+  - "tree lim over roof"
+  - "tree brance over roof"
+last_reviewed: "2026-05-31"
+date_created: "2026-05-31"
 ---
 
 # What to do if… a large tree limb is hanging over your roof after a storm (USA)
 
 ## Short answer
-Assume it can fall at any moment: keep everyone out of the fall zone and off the roof. If there’s any chance it’s near a power line, stay far back and report it immediately.
+Treat the limb as unstable. Keep people and pets away from the rooms and outdoor areas beneath or within reach of it, and do not go onto the roof. If a wire is down, low-hanging, or possibly touching the limb, stay at least 35 feet away from the wire and anything it may be touching, then report it.
 
 ## Do not do these things
-- Don’t climb onto the roof or a ladder to inspect it.
-- Don’t try to cut it down yourself (storm-damaged limbs can be under tension and “kick back” unpredictably).
-- Don’t touch any wire/cable or anything contacting a wire (assume it’s energized).
-- Don’t stand underneath it to take photos.
-- Don’t let anyone cut or move storm-damaged branches **near possible power lines** until the utility confirms the area is safe (trees can hide snagged lines; wet wood can conduct electricity).
+- Do not climb onto the roof or use a ladder to inspect the limb.
+- Do not try to cut, pull, or move the limb yourself.
+- Do not stand beneath the limb to take photos.
+- Do not touch any downed or low-hanging wire, or anything the wire may be touching.
+- Do not assume a wire is safe because it looks like a cable or phone line.
+- Do not arrange roof work or tree removal near a possible utility hazard until the electric utility or emergency responders say the area is safe.
 
 ## What to do now
-1. **Make a safety perimeter.** Keep people and pets inside and away from the area the limb could reach if it drops (straight down plus a swing/bounce). Block off driveways/paths if needed.
-2. **Check for power-line risk from a distance.** If the limb is touching lines, hanging near lines, or you can’t be sure:
-   - **Stay at least 30 feet away, preferably more (around 35 feet), especially if the ground/branches are wet.**
-   - **Call 911** if there’s immediate danger (wires down, sparking/arcing, fire, blocking a roadway).
-   - **Call your electric utility** to report the hazard; do not assume a “cable/phone line” is safe.
-3. **Move away from rooms under the limb if anything looks or sounds wrong.** From indoors, look for: new ceiling sagging, spreading cracks, falling plaster/drywall, sudden leaks, or creaking/popping. If you see these, **relocate everyone to a different part of the home**.
-4. **Document safely for insurance.** Take a few photos/video **from inside or from a safe distance**. Note the date/time and what happened (e.g., “windstorm overnight”).
-5. **Contact your homeowners insurer promptly.** Describe it as a “hanging limb over the roof” and mention any leaks or visible roof impact. Ask:
-   - whether they have **preferred/approved vendors**,
-   - what emergency “make safe” work you can authorize now,
-   - how to handle temporary weather protection (e.g., tarp) if rain is expected.
-6. **Arrange professional removal and a roof check (once utility risk is cleared).** Hire a **licensed/insured tree service** experienced with storm-damaged trees, plus a **roofer** to assess hidden damage once it’s safe. (An ISA Certified Arborist can be a good sign of training, but the key is proper insurance and storm/structure experience.)
-7. **If the tree is a neighbor’s or from public property, keep it simple in the moment.**
-   - Notify the owner/neighbor briefly (text/email is fine) that there’s a hazardous limb over your roof.
-   - If it’s on/over a public road or sidewalk, report to local **public works/parks** — but don’t wait on bureaucracy to protect people and prevent further damage via insurer/emergency services.
+1. Move people and pets away from rooms, driveways, paths, and yard areas beneath or within reach of the limb. Use another part of the home if that keeps everyone clear of the hazard.
+2. Check from a safe distance for any downed or low-hanging wire, or any wire that may be touching the limb or nearby debris. Stay at least 35 feet away from the wire and anything it may be touching. Stay farther away if the ground is wet or if the utility or emergency responders direct you to do so.
+3. Call 911 if a wire is down, there is sparking or arcing, there is a fire, or anyone is in immediate danger. Report any possible electrical hazard to your electric utility as well.
+4. If the limb shifts, strikes the roof, or you notice leaking, ceiling sagging, cracking, or falling material, move everyone farther away from that part of the home. Call 911 if anyone may be in immediate danger.
+5. Take a few photos or a short video only from indoors or from a safe distance. Note when the storm happened and any visible roof impact, leaking, or fallen debris.
+6. Contact your homeowners insurer or agent promptly if the roof may be damaged. Ask what emergency work may be arranged now, what records and receipts to keep, and when permanent repairs can be authorized. Any temporary weather cover should be installed only by a professional after electrical and falling-limb hazards are cleared.
+7. Arrange a professional arborist or tree service after any utility hazard is cleared. Ask for proof of insurance, whether local licensing is required, and whether the company has experience with storm-damaged trees near structures. An ISA Certified Arborist can assess the damaged tree. Ask your insurer whether a roof inspection is needed after the limb is removed.
+8. If the tree belongs to a neighbor or appears to be on public property, send a brief notice or contact the relevant local authority when it is safe to do so. Do not delay a 911 call, utility report, or immediate safety step while trying to determine responsibility.
 
 ## What can wait
-- You don’t need to decide fault or argue with a neighbor today.
-- You don’t need to start permanent repairs until the limb is removed and the roof is inspected.
-- You don’t need multiple estimates before immediate safety work (confirm with your insurer what’s allowed).
+- You do not need to decide who is responsible for the tree today.
+- You do not need to argue with a neighbor or settle an insurance question now.
+- You do not need to choose permanent repairs before the limb is removed and the roof can be checked safely.
+- You do not need to gather multiple estimates before taking an immediate safety step. Ask your insurer what documentation is needed.
 
 ## Important reassurance
-Your urgency makes sense — but with storm-damaged limbs, “just checking quickly” is when many serious injuries happen. Creating distance and getting the utility/tree professionals involved is the safest way to regain control.
+Creating distance and making the first calls are useful actions. You do not need to solve the tree removal, roof repair, and insurance questions all at once.
 
 ## Scope note
-This covers first steps to stabilise the situation and avoid common hazards. Follow-up (repairs, claims disputes, tree responsibility) may require insurer guidance or local professional advice.
+These are first steps to stabilize the situation. Later decisions about removal, repairs, insurance coverage, or responsibility may need help from your insurer, an arborist, a roofer, or an appropriate local professional.
 
 ## Important note
-This is general information, not legal or professional advice. If you believe anyone is in immediate danger, call 911.
+This is general information, not legal, medical, financial, therapeutic, or other professional advice. Call 911 if anyone may be in immediate danger.
 
 ## Additional Resources
-- https://www.firstenergycorp.com/help/safety/downed-power-lines.html
-- https://www.nationalgridus.com/MA-Home/Electrical-Safety/Downed-Power-Line-Safety
 - https://www.esfi.org/downed-power-line-safety-always-assume-downed-lines-are-live/
-- https://www.ready.gov/power-outages
-- https://www.evergy.com/community/safety/electrical-safety/around-power-lines
+- https://www.treesaregood.org/Portals/0/TreesAreGood_Storm%20Related%20Tree%20Damage_0721.pdf
+- https://content.naic.org/sites/default/files/publication-post-disaster-claims-guide.pdf

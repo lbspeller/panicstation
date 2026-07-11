@@ -1,79 +1,107 @@
-﻿---
+---
 title: "What to do if… you notice soil washing away near a foundation or retaining wall and it seems to be accelerating"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
-  - soil washing away near foundation
-  - soil erosion by house
-  - erosion near retaining wall
-  - retaining wall washout
-  - foundation soil erosion
-  - ground washing away after rain
-  - sinkhole forming near house
-  - void under patio or driveway
-  - garden wall holding soil failing
-  - soil disappearing by basement wall
-  - water undermining foundation
-  - retaining wall bulging or leaning
-  - cracks near foundation after rain
-  - sudden erosion next to building
-  - accelerating soil loss at wall
-  - washout at footing
-  - collapse risk retaining wall
-  - stormwater scouring near house
-last_reviewed: "2026-03-05"
+  - "soil washing away near foundation"
+  - "soil erosion near foundation"
+  - "foundation soil washing away"
+  - "retaining wall washout"
+  - "retaining wall erosion"
+  - "ground washing away after rain"
+  - "water undermining foundation"
+  - "accelerating soil loss"
+  - "washout near footing"
+  - "sinkhole near house"
+  - "what do i do if soil washes away"
+  - "what do i do if foundation soil erodes"
+  - "what do i do if retaining wall washes out"
+  - "what do i do if ground disappears"
+  - "help i found soil erosion"
+  - "help i see a sinkhole"
+  - "help i have a wall washout"
+  - "help i think foundations are undermined"
+  - "my foundation soil is washing away"
+  - "my retaining wall is leaning"
+  - "my garden wall is bulging"
+  - "cracks near foundation after rain"
+  - "soft ground beside house"
+  - "void under patio"
+  - "driveway edge collapsing"
+  - "bulging retaining wall"
+  - "leaning wall holding soil"
+  - "water pooling by foundation"
+  - "is it subsidence"
+  - "is it a sinkhole"
+  - "is the wall failing"
+  - "after heavy rain"
+  - "near basement wall"
+  - "beside a driveway"
+  - "foundaton soil erosion"
+  - "retainng wall washout"
+last_reviewed: "2026-05-16"
+date_created: "2026-05-16"
 ---
 
 # What to do if… you notice soil washing away near a foundation or retaining wall and it seems to be accelerating (UK)
+
 ## Short answer
-Treat this like a possible structural safety issue: keep people away from the area and stop water feeding the washout (runoff/leaks) while you arrange an urgent inspection by a Chartered Structural Engineer.
+Treat this as a possible structural safety issue: keep people away from the affected ground or wall, and stop water feeding the washout only if you can do that safely. Arrange an urgent assessment by a structural engineer, ideally a Chartered Structural Engineer.
 
 ## Do not do these things
-- Don’t stand close to the edge of any newly formed void, soft ground, or sinkhole-like depression (it can give way suddenly).
-- Don’t try to “pack in” soil, rubble, or concrete as a quick fix (it can hide the problem and add load in the wrong place).
-- Don’t dig near the foundation/retaining wall to “see how bad it is” (you can trigger further movement).
-- Don’t pressure-wash, hose down, or otherwise add water “to clear it” or “test it”.
-- Don’t park vehicles, stack materials, or place heavy items near the affected edge or behind a retaining wall.
-- Don’t ignore new warning signs (fresh cracks, tilting, bulging, doors/windows suddenly sticking).
+- Don’t stand close to the edge of a void, soft ground, sinkhole-like dip, or unsupported paving.
+- Don’t let children, pets, visitors, or passers-by near the affected area.
+- Don’t try to pack the hole with soil, rubble, concrete, or blocks as a quick fix.
+- Don’t dig beside the foundation or retaining wall to see how bad it is.
+- Don’t hose, pressure-wash, or add water to test or clear the area.
+- Don’t park vehicles, place skips, stack materials, or put heavy planters near the washout or behind the retaining wall.
+- Don’t ignore fresh cracks, a bulging or leaning wall, sudden door or window sticking, or ground that is dropping quickly.
 
 ## What to do now
-1. **Create a no-go zone immediately.** Keep children, pets, and everyone else away. If it’s near a path/driveway, block access and don’t drive over/near it.
-2. **Check for immediate threat to life (from a distance).** Examples: active collapse, rapid ground drop, a wall that looks like it could fall any moment, someone trapped, or danger to passers-by.  
-   - If you believe there’s an **immediate threat to life or serious injury**, **call 999**.
-3. **Stop water feeding it (only if safe and simple).**
-   - If there’s an obvious plumbing leak (e.g., overflowing gutter/downpipe failure aimed at the washout, burst pipe), **turn off the relevant supply** if you know how and it’s safe.
-   - If it’s rain/runoff: **divert water away from the area** using low-risk, temporary measures (e.g., extend a downpipe temporarily with a hose to a safer discharge point, place a tarp to shed rain away from the washout, clear a blocked gutter *from the ground* if you can do it safely).
-   - Avoid redirecting water onto a neighbour’s property or into public areas.
-4. **Document what you’re seeing before it changes.** Take clear photos/video from multiple angles (include something for scale), and note the time, weather, and what changed (e.g., “gap widened since yesterday”).
-5. **Arrange an urgent professional assessment.**
-   - **Contact a Chartered Structural Engineer** for an urgent inspection and say it’s “accelerating erosion/washout near a foundation/retaining wall.”
-   - If a retaining wall is involved, ask them to comment specifically on **drainage failure** and **loss of backfill** and what (if anything) is safe as a temporary measure.
-6. **If there’s any chance utilities are involved, keep extra distance.**
-   - If you smell gas or suspect a gas/CO emergency: move people away and **call 0800 111 999**.
-   - If there’s damaged electrical equipment (e.g., damaged cabinet, exposed cables, a pole issue), keep well clear and report it. **In Great Britain, call 105**. (In Northern Ireland, use your electricity network operator’s emergency number.)
-7. **Report it to the right place (so it can be made safe if needed).**
-   - **Home insurer:** report as potential subsidence/structural damage or retaining wall/foundation instability and ask what evidence they need.
-   - **Local authority:** if it could affect the public, a shared boundary, or adjoining property, report it as a potentially dangerous structure. (In **England & Wales**, you can report a dangerous building/structure via your local council.)
+1. **Make a no-go zone now.** Keep everyone away from the affected ground, the top and bottom of any retaining wall, and any path or driveway edge that may be unsupported. Use chairs, bins, tape, or another visible barrier if you can do this without going near the edge.
+
+2. **Check for immediate danger from a safe distance.** If there is active collapse, a wall that may fall, a rapidly widening hole, someone trapped, or danger to passers-by, call **999** and keep clear.
+
+3. **Stop water making it worse, but only from a safe place.**
+   - If a stop tap or isolation valve is easy to reach and you suspect a plumbing leak, turn off the relevant water supply.
+   - If a downpipe or overflow is discharging into the washout, divert it away using a temporary extension only if you can do this without standing near the unstable ground.
+   - If rain is entering the damaged area, a weighted sheet or tarp may help shed water away, but do not step onto soft, cracked, or unsupported ground to place it.
+   - Do not divert water onto a neighbour’s property, a public footpath, or a road.
+
+4. **Look for urgent warning signs without probing the ground.** From a safe distance, check whether the wall is leaning, bulging, cracking, losing soil from behind it, or weeping water. Check whether paving, steps, drains, gullies, or a driveway edge are dropping or separating.
+
+5. **Record what is happening before it changes.** Take photos or video from safe positions, include something for scale if you can, and write down when you first noticed it, recent rain or leaks, and whether the gap or crack is getting larger.
+
+6. **Arrange an urgent professional assessment.** Contact a structural engineer, ideally a Chartered Structural Engineer, and say: “There is accelerating soil washout near a foundation or retaining wall, and I need urgent advice on safety and temporary measures.” If a retaining wall is involved, ask them to consider drainage, loss of backfill, surcharge loads, and whether the area should stay closed off.
+
+7. **Check utilities if the washout is near pipes, cables, meters, or service covers.**
+   - If you smell gas, suspect carbon monoxide, or think a gas pipe may have been struck, move people away. In England, Wales and Scotland call **0800 111 999**. In Northern Ireland call **0800 002 001** for a natural gas emergency.
+   - If there are exposed cables, damaged electrical equipment, a damaged pole, or a power supply problem, keep well clear. In England, Wales and Scotland call **105**. In Northern Ireland call **03457 643643**.
+
+8. **Tell the organisations that may need to act.**
+   - Contact your home insurer and describe it as urgent ground washout, possible structural movement, retaining wall instability, or possible escape of water. Ask what evidence they want before anyone carries out temporary or permanent works.
+   - If the issue could affect a public path, road, shared boundary, adjoining property, or passers-by, report it to the relevant local council as a potentially dangerous building or structure. In England and Wales, GOV.UK provides a dangerous building reporting route. In Scotland, dangerous building reports are handled through local authorities. In Northern Ireland, nidirect says the local council is the first point of contact.
 
 ## What can wait
-- Choosing a permanent repair method (underpinning, wall rebuild, drainage redesign) — that comes after an engineer has assessed cause and risk.
-- Debating liability with neighbours/contractors — first make it safe and get it assessed.
-- Cosmetic repairs (repointing, patching cracks, re-laying paving) — don’t do these until the ground movement/erosion is addressed.
-- Detailed measurements — photos and a short written timeline are enough for now.
+- Choosing a permanent repair, such as underpinning, rebuilding the wall, replacing drains, or redesigning surface water drainage.
+- Deciding who is legally responsible, including neighbours, contractors, previous owners, or the council.
+- Cosmetic work such as repointing, filling cracks, re-laying paving, or landscaping.
+- Taking exact measurements close to the edge. Photos, video, and a short timeline are enough for now.
 
 ## Important reassurance
-It’s very common to feel a surge of panic because the ground and structure feel “non-negotiable”. You don’t have to solve it today — your job is to **reduce risk, stop water making it worse, and get a qualified set of eyes on it quickly**.
+This is frightening because it involves the ground and part of the building, but you do not have to diagnose or fix it yourself today. The first job is to keep people away, reduce water feeding the washout, preserve simple evidence, and get qualified eyes on it.
 
 ## Scope note
-These are first steps to stabilise the situation and avoid irreversible mistakes. The right fix depends on the cause (runoff, drainage failure, broken pipe, soil conditions, or wall defects) and needs professional assessment.
+These are first steps only. Later decisions about cause, temporary works, drainage, insurance, liability, or permanent repair may need help from a structural engineer, drainage specialist, insurer, solicitor, or local authority.
 
 ## Important note
-This is general first-step safety guidance, not engineering advice for your specific property. If you think there is immediate risk of collapse or injury, contact emergency services and keep people well away.
+This is general first-step safety information, not engineering, legal, insurance, financial, or professional advice. If you think there is an immediate risk of collapse, serious injury, fire, gas, or electrical danger, contact the relevant emergency service and keep people well away.
 
 ## Additional Resources
 - https://www.gov.uk/report-dangerous-building-structure
+- https://www.gov.scot/publications/procedural-handbook/pages/11/
+- https://www.nidirect.gov.uk/articles/dangerous-or-derelict-properties
 - https://www.istructe.org/find-an-engineer/
 - https://www.nationalgas.com/emergency-contacts
+- https://www.gassaferegister.co.uk/gas-emergency/what-to-do-in-a-gas-emergency/
 - https://prepare.campaign.gov.uk/be-informed-about-hazards/power-cuts/
-- https://powercuts.nationalgrid.co.uk/how-to-report-a-power-cut
-- https://www.buckinghamshire.gov.uk/planning-and-building-control/building-regulations-and-control/report-a-potentially-dangerous-building-or-structure/

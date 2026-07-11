@@ -1,84 +1,91 @@
-﻿---
+---
 title: "What to do if… your notes app shows different versions on different devices and syncing will not complete"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - notes not syncing
-  - notes different on devices
-  - notes app conflict
-  - sync stuck spinning
-  - syncing will not complete
-  - missing notes iphone mac
-  - icloud notes mismatch
-  - onenote not syncing
-  - google keep not syncing
-  - duplicate notes versions
-  - notes reverted to old version
-  - notes only on one device
-  - sync error notes app
-  - unsynced notes panic
-  - notes disappeared after sync
-  - different note content ipad iphone
-  - notes app shows old copy
-  - cloud notes conflict
-last_reviewed: "2026-03-09"
+  - "notes app not syncing"
+  - "notes showing different versions"
+  - "notes sync will not complete"
+  - "notes stuck syncing"
+  - "notes different on devices"
+  - "notes app conflict"
+  - "cloud notes mismatch"
+  - "duplicate notes versions"
+  - "missing notes on phone"
+  - "missing notes on laptop"
+  - "note reverted to old version"
+  - "note only on one device"
+  - "what do i do if notes are not syncing"
+  - "what do i do if notes look different"
+  - "what do i do if note versions conflict"
+  - "what do i do if syncing is stuck"
+  - "help i have lost notes"
+  - "help i see old notes"
+  - "my notes will not sync"
+  - "my notes are different"
+  - "sync spinner will not stop"
+  - "old note content showing"
+  - "new note content missing"
+  - "recently deleted notes confusion"
+  - "wrong notes account selected"
+  - "notes in wrong folder"
+  - "cloud sync conflict"
+  - "notes backup before sync"
+  - "iphone notes mismatch"
+  - "ipad notes mismatch"
+  - "note app not synching"
+  - "notes app syncng stuck"
+last_reviewed: "2026-05-26"
+date_created: "2026-05-26"
 ---
 
 # What to do if… your notes app shows different versions on different devices and syncing will not complete (UK)
 
 ## Short answer
-Stop editing everywhere, then quickly make a safe copy of the “most complete” version from at least one device before you try any fixes.
+Stop editing the note on every device, then make a safe copy of the most complete version before you try to force syncing, sign out, reinstall, or delete anything.
 
 ## Do not do these things
-- Don’t keep “fixing” the text on multiple devices at once — that often creates more conflicts.
-- Don’t sign out of your cloud account, delete the notes app, or factory reset a device until you’ve copied out any unsynced notes.
-- Don’t assume the newest-looking device is correct — pick one “source” device and preserve what’s on it first.
-- Don’t delete the “wrong” version yet — it may contain the only copy of some lines.
+- Don’t keep editing the same note on several devices at once; this can create more conflicting versions.
+- Don’t sign out of your cloud account, delete the notes app, or reset a device until you have copied any unsynced notes somewhere safe.
+- Don’t assume the newest-looking device has the best copy; preserve what is on it before comparing.
+- Don’t delete the “wrong” version yet; it may contain the only copy of some text.
+- Don’t empty Recently Deleted, Trash, or a recycle bin while you are still checking versions.
 
 ## What to do now
-1. **Freeze changes (30 seconds).** Put *all but one* device into Airplane Mode (or turn off Wi-Fi/data). Choose one device to be your “source” for the next steps.
-2. **Preserve the best version immediately.** On the source device:
-   - Duplicate the affected note(s) if the app allows it, **or**
-   - Copy all text into a brand-new note titled like “BACKUP — 2026-03-09”.
-   - If possible, export/share as a file (PDF/text) to local storage. (If you send it anywhere, keep it private and secure.)
-3. **Check you’re comparing the same account and the same folder.**
-   - In the notes app, look for **accounts/folders** (e.g., “On my device”, “iCloud”, “Google”, “Outlook”) and confirm you’re viewing the same one on each device.
-   - Check **Recently Deleted/Trash** for moved/deleted notes.
-4. **Check whether the cloud service is having an outage.** If the app uses a cloud provider (iCloud/OneDrive/Google), check the provider’s **official system status** page. If there’s an incident, keep your backup copy and avoid further edits until services recover.
-5. **Confirm you’re signed into the same account everywhere (one device at a time).** Check the email/Apple Account/Microsoft account is identical on each device and that notes syncing is enabled for that account.
-6. **For iCloud Notes specifically: confirm iCloud Notes sync is enabled on the device that’s “wrong.”** On iPhone/iPad, check that Notes syncing is turned on for iCloud, then return to Notes and wait.
-7. **Do a low-risk “refresh” (many apps don’t have a manual sync button).**
-   - Fully close the notes app and reopen it.
-   - Refresh the notes list (if the app supports it) and then **wait a few minutes** on a stable connection.
-8. **After you have backups: restart the device that won’t sync.** Restarting is a common, low-risk step that can restart stuck iCloud syncing.
-9. **Use the web version as a neutral reference (if available).**
-   - Sign in to the provider’s web app (e.g., iCloud Notes / OneNote on the web / Google Keep web) and see which version appears there.
-   - If the web version has the “best” copy, copy it into your “BACKUP” note on your source device too.
-10. **Reconnect other devices one by one.**
-   - Take the next device out of Airplane Mode, open the app, and let it settle.
-   - If it shows an older/wrong version, **don’t edit it** — first copy anything unique from it into your “BACKUP” note, then let it attempt to finish syncing.
-11. **If sync still won’t complete, escalate safely.**
-   - Take screenshots of any error/spinner and note the account used, device models, OS/app versions, and approx. time it started.
-   - Use the app/provider’s **official support** channel (for Apple, the relevant support page includes a “Get support” route).
+1. **Pause changes.** Put all but one device into flight mode, or turn off Wi-Fi and mobile data. Choose one device to be your source device for the next few minutes.
+2. **Preserve the best version immediately.** On the source device, duplicate the affected note if the app allows it. If not, copy all the text into a brand-new note called `BACKUP — 2026-05-26`. If the app can export or share the note as a PDF or text file, save a local copy somewhere private.
+3. **Make a second quick copy if the note is important.** Copy the text into a plain text document, email draft, or other local file that does not depend on the same notes sync. Do not share it with anyone unless you need to.
+4. **Check whether you are comparing the same account and folder.** In the notes app, look for accounts or folders such as On My Device, iCloud, Google, Outlook, OneDrive, work, school, or personal. Confirm that each device is viewing the same account and the same folder.
+5. **Check Recently Deleted, Trash, or the notebook recycle bin.** If a note was moved or deleted during syncing, it may be there. Do not permanently delete anything while checking.
+6. **Check whether the provider is having a service incident.** Use the provider’s official status or support page if one is available. If there is an incident, or the status page does not cover your exact notes service, keep your backup and avoid further edits while you check.
+7. **Check that notes syncing is enabled for the account.** On each device, check that the same Apple Account, Google account, Microsoft account, work account, or school account is signed in and that notes syncing is turned on for that account.
+8. **For iCloud Notes, check the iCloud Notes switch on the device that looks wrong.** On iPhone or iPad, go to Settings, tap your name, tap iCloud, tap Notes, and make sure Sync this device is on. Then return to Notes and give it time on a stable connection.
+9. **Try a low-risk refresh.** Fully close the notes app, reopen it, and refresh the notes list if the app supports that. Some apps and versions have a manual sync option; others do not. Wait a few minutes on a stable connection before doing anything more forceful.
+10. **After you have backups, restart the device that will not sync.** Restarting may help a stuck sync process, but only do this after the unsynced text has been copied somewhere safe.
+11. **Use the web version as a reference if the service has one.** Sign in through the provider’s official web app and check which version appears there. Treat it as a reference point, not automatically the correct copy. If the web version has unique text, copy that text into your backup too.
+12. **Reconnect other devices one at a time.** Take the next device out of flight mode, open the notes app, and let it settle. If it shows older or different text, do not edit it yet; copy any unique lines into your backup first.
+13. **If syncing still will not complete, collect the details before contacting support.** Take screenshots of any error message or spinner. Note the account used, device models, app names, operating system versions, and roughly when the problem started. Use the app or provider’s official support route.
 
 ## What can wait
-- You don’t need to “clean up duplicates” or merge everything perfectly right now.
-- You don’t need to decide whether to change apps or move platforms today.
-- You don’t need to reinstall the app or sign out everywhere as a first move.
+- You do not need to clean up duplicate notes right now.
+- You do not need to merge every version perfectly before you have a backup.
+- You do not need to decide today whether to change notes apps or move platform.
+- You do not need to reinstall the app, sign out everywhere, or reset a device as a first move.
 
 ## Important reassurance
-This is a very common cloud failure mode: one device gets “ahead”, another gets stuck, and you see mismatched versions. The safest first move is exactly what you’re doing here — stop edits, preserve a copy, then troubleshoot from a stable base.
+This can happen when one device has a newer local copy and another device has not finished syncing. The safest first step is to stop making changes, preserve the text you can see, and then troubleshoot from that safer position.
 
 ## Scope note
-These are first steps to prevent loss and get you back to one reliable version. If you rely on these notes for work, study, legal, or care responsibilities, it may be worth getting platform support involved once you have backups.
+These are first steps to reduce the risk of losing notes and to help you get back to one reliable version. Later decisions, especially for work, study, legal, medical, financial, or care-related notes, may need help from the app provider, your workplace IT team, or another appropriate specialist.
 
 ## Important note
-This is general information, not legal or professional advice. Device/app menus vary by version. If your notes contain sensitive personal data, keep backups private while troubleshooting and use official support channels when sharing diagnostics.
+This is general information, not legal, medical, financial, therapeutic, technical support, or professional advice. Device menus and app features vary by version. If your notes contain sensitive personal data, keep backup copies private and use official support channels when sharing diagnostics.
 
 ## Additional Resources
 - https://support.apple.com/en-gb/121669
 - https://support.apple.com/en-gb/guide/icloud/mm8685520792/icloud
-- https://support.apple.com/en-gb/118446
 - https://www.apple.com/uk/support/systemstatus/
 - https://support.microsoft.com/en-gb/office/fix-issues-when-you-can-t-sync-onenote-299495ef-66d1-448f-90c1-b785a6968d45
+- https://support.microsoft.com/en-gb/office/fixes-or-workarounds-for-recent-issues-in-onedrive-36110213-f3f6-490d-8cb7-3833539def0b
 - https://support.google.com/keep/answer/6102239?co=GENIE.Platform%3DAndroid&hl=en
+- https://www.google.com/appsstatus/dashboard/

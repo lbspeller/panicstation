@@ -1,87 +1,109 @@
-﻿---
+---
 title: "What to do if… an investigator shows up at your workplace asking questions about you"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
-  - investigator at work
-  - law enforcement at workplace
-  - federal agent at my job
-  - police questioning at work
-  - asked to answer questions now
-  - asked to give a statement
-  - unexpected official visit
-  - subpoena at workplace
-  - warrant question workplace
-  - asked to search my desk
-  - asked for my phone at work
-  - asked to unlock my phone
-  - asked for passwords
-  - hr investigatory interview
-  - union investigatory interview
-  - weingarten rights
-  - request a union representative
-  - refuse consent to search
-  - asked if free to leave
-  - i want a lawyer
-last_reviewed: "2026-03-06"
+  - "investigator at my workplace"
+  - "investigator asking questions about me"
+  - "workplace investigator asking questions"
+  - "unexpected investigator at work"
+  - "investigator came to my job"
+  - "investigator wants an interview"
+  - "workplace questioning about me"
+  - "questions about me at work"
+  - "what do i do if investigator arrives"
+  - "what do i do if questioned at work"
+  - "what do i do if investigator calls"
+  - "what do i do if investigator is waiting"
+  - "help i am questioned at work"
+  - "help i have investigator at work"
+  - "help i am asked about myself"
+  - "my workplace has an investigator"
+  - "my job has investigator questions"
+  - "unexpected workplace interview request"
+  - "asked for immediate answers at work"
+  - "investigator waiting in reception"
+  - "asked about my phone at work"
+  - "asked about my desk at work"
+  - "asked to give workplace statement"
+  - "outside investigator or workplace investigator"
+  - "workplace interview or official questioning"
+  - "workplace inquiry or subpoena"
+  - "workplace questioning or personal interview"
+  - "investigator at workplace during shift"
+  - "investigator asking questions in office"
+  - "investigator at remote workplace"
+  - "investgator at my workplace"
+  - "workplace investigater asking questions"
+last_reviewed: "2026-06-03"
+date_created: "2026-06-03"
 ---
 
 # What to do if… an investigator shows up at your workplace asking questions about you (USA)
 
 ## Short answer
-Don’t answer substantive questions on the spot. Get the investigator’s name/agency and contact information, say you won’t answer without a lawyer, and route everything through your employer’s designated contact (HR/legal).
+Pause before answering substantive questions. Find out who the investigator is, what they are asking for, and whether this is a law-enforcement contact or an employer interview. Do not guess, volunteer details, or agree to searches on the spot.
 
 ## Do not do these things
-- Do not try to “clear it up” or chat casually—small details can be used later in ways you don’t expect.
-- Do not consent to a search of your phone, bag, car, or personal accounts.
-- Do not unlock your phone, share passwords, or hand over devices “temporarily”.
-- Do not sign statements or “consent” forms without legal advice.
-- Do not argue, resist, or physically block anyone—keep it calm and verbal.
-- Do not discuss details with coworkers or on work messaging/email.
+- Do not try to clear things up through casual conversation.
+- Do not lie, guess, or fill silence with extra details.
+- Do not volunteer consent to search your personal phone, bag, car, accounts, or belongings.
+- Do not volunteer passwords or unlock personal devices.
+- Do not delete messages, alter records, move files, or ask coworkers to coordinate accounts.
+- Do not sign a statement, consent form, or acknowledgment that you do not understand.
+- Do not argue, resist, or physically block anyone.
+- Do not send broad workplace messages or post about the situation online. You can still contact a lawyer, union representative, or trusted support person.
 
 ## What to do now
-1. **Create a safe pause and reduce the audience.**  
-   Ask: “Can we step to a private room?” If that’s not possible, say you can’t talk right now and will follow up later.
-2. **Identify them and take control of the channel.**  
-   Ask for a business card/credentials and write down: name, agency, badge/ID number, callback number, and what they’re requesting (interview? documents? access?).
-3. **Use a simple boundary that’s accurate in any setting.**  
-   Say: **“I’m not answering questions without a lawyer.”**  
-   Then stop. If you’re unsure what you must provide, don’t guess—ask: “Am I free to leave and return to work?”
-4. **If you are detained or told you are not free to leave, invoke rights clearly.**  
+1. **Create a pause.**  
+   Say: **“I need a moment before answering questions.”** Move away from coworkers if that is safe, but do not let the pause turn into an immediate private interview.
+
+2. **Identify the investigator.**  
+   Ask for their name, organization, contact details, and the purpose of the request. Write down who is present and whether they are asking for an interview, documents, access to an area, or a device.
+
+3. **If this is law enforcement or another government investigator, use a short boundary.**  
+   Say: **“I do not want to answer substantive questions without legal advice.”**  
+   If you are unsure whether you can leave, ask: **“Am I free to leave?”**
+
+4. **If a law-enforcement officer says you are not free to leave, state your position clearly.**  
    Say: **“I am going to remain silent. I want a lawyer.”**  
-   Then do not answer questions.
-5. **Route everything through your workplace’s point person.**  
-   Tell reception/your manager/HR: “Law enforcement is here asking about me. Please connect them with HR/legal.”  
-   This reduces the chance you’re cornered and helps your workplace keep consistent records.
-6. **If they request to search areas or seize items, ask for the legal authority.**  
-   Ask: “Do you have a warrant or subpoena? What does it cover?”  
-   Do not consent to searches of **your personal belongings**. For employer property/areas, your employer may decide—your job is to avoid volunteering access to personal items or accounts.
-7. **If this is an employer investigatory interview (HR questioning), use representation rights if applicable.**  
-   If you are union-represented and reasonably fear discipline, say: **“I request a union representative.”**  
-   (You generally must request this clearly; it is not automatic.) If you’re not unionized, ask to schedule the meeting later and request a support person or attorney (they may say no, but asking can slow things down).
-8. **Make a fast personal record right after (off work systems if possible).**  
-   Time/date, who was there, what was requested, whether you were told you were free to leave, and the exact boundary words you used.
-9. **Contact a lawyer promptly (criminal defense; immigration counsel if immigration was involved).**  
-   If you don’t have one, your state/local bar association referral service can help you find an attorney.
+   Then stop answering substantive questions. Do not resist physically.
+
+5. **Notify the workplace contact.**  
+   Tell your manager, reception, HR, or the workplace legal contact that an investigator is asking about you. Ask them to handle workplace access and employer-property questions. Do not assume that the employer’s representative is your personal lawyer.
+
+6. **If anyone asks to search an area, take an item, or access an account, ask what authority they are relying on.**  
+   Ask to see the document, note what it says, and ask for a copy. A warrant and a subpoena are not the same. A subpoena generally calls for testimony or documents and does not itself authorize an immediate search. Do not volunteer consent to search personal belongings or personal accounts. Do not physically interfere. For employer-owned devices, accounts, or areas, ask the workplace contact to handle the request and seek advice before taking extra steps.
+
+7. **If this is an employer investigatory interview, ask whether the meeting is required and whether it could lead to discipline.**  
+   If you are represented by a union and reasonably believe the interview may result in discipline, say: **“I request a union representative.”**  
+   If you are not represented by a union, you may ask whether the meeting can be rescheduled and whether a support person or lawyer is allowed.
+
+8. **Make a factual note as soon as you can.**  
+   Use a personal device or paper if possible. Record the date, time, names, organization, contact details, what was requested, any documents shown, and whether you were told you could leave.
+
+9. **Get legal advice promptly if the contact was from law enforcement, an immigration agency, or another government investigator.**  
+   A criminal-defense lawyer may be appropriate for law-enforcement questioning. An immigration lawyer may be appropriate if immigration enforcement is involved. A lawyer-finding service can help you locate advice in your area.
 
 ## What can wait
-- You do not need to decide today whether to “cooperate fully” or tell your side.
-- You do not need to prepare a detailed written statement immediately.
-- You do not need to talk to coworkers, post online, or explain beyond “I’m getting legal advice.”
-- You do not need to consent to anything on the spot.
+- You do not need to decide immediately whether to give a detailed account.
+- You do not need to write a statement on the spot.
+- You do not need to explain the situation to coworkers.
+- You do not need to decide immediately how to respond to a subpoena or written request. Keep the document and note any deadline.
+- You do not need to work out why the investigator is interested in you before taking the first steps.
 
 ## Important reassurance
-Being questioned unexpectedly at work is destabilizing. You don’t have to be persuasive or “sound innocent.” A short script—“I’m not answering questions without a lawyer”—is a normal, protective step.
+An unexpected workplace visit can make it hard to think clearly. A pause, a short boundary, and a factual note are enough for the first few minutes. You do not need to sound persuasive or solve the whole situation immediately.
 
 ## Scope note
-These are first steps only. The best next step depends on who the investigator is (local police, federal agents, workplace investigator, immigration) and whether you are a witness, victim, or suspect—get specific legal advice before giving any account.
+These are first steps only. Later decisions may depend on who the investigator is, whether the request is voluntary, whether any written authority was shown, your workplace policies, your state, and whether specialist legal advice is needed.
 
 ## Important note
-This is general information, not legal advice. Laws and what you must provide (like your name/ID) can vary by state and situation. If you are detained or feel unsafe, focus on staying calm, setting a clear boundary, and requesting a lawyer.
+This is general information, not legal advice or professional advice. Rules can vary by state and situation. Do not ignore a warrant, subpoena, workplace instruction, or deadline. Keep a copy if available, avoid guessing, and seek advice about what applies to you.
 
 ## Additional Resources
 - https://www.aclu.org/know-your-rights/what-do-when-encountering-law-enforcement-questioning
-- https://www.aclu.org/know-your-rights/stopped-by-police
-- https://www.law.cornell.edu/wex/miranda_warning
 - https://www.nlrb.gov/about-nlrb/rights-we-protect/your-rights/weingarten-rights
-- https://www.nilc.org/resources/a-guide-for-employers-what-to-do-if-immigration-comes-to-your-workplace/
+- https://www.americanbar.org/groups/legal_services/flh-home/
+- https://www.justice.gov/usao/justice-101/glossary
+- https://www.nilc.org/wp-content/uploads/2025/01/2025-Subpoenas-Warrants_.pdf

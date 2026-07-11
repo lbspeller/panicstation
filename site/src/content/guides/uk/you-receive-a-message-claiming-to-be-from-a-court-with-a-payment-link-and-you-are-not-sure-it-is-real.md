@@ -1,77 +1,93 @@
-﻿---
+---
 title: "What to do if… you receive a message claiming to be from a court with a payment link and you are not sure it is real"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
-  - court text message scam
-  - fake court payment link
-  - court fine link not sure
-  - suspicious court sms
-  - hmcts impersonation message
-  - urgent court payment demand
-  - pay now court link
-  - unknown court reference number
-  - court notice looks real
-  - message says warrant unpaid fine
-  - bailiff enforcement text scam
-  - government-looking payment page
-  - clicked court link by mistake
-  - gave details to court text
-  - court email or text phishing
-  - unexpected court contact
-  - court summons by text
-  - court fee demand message
-  - is this court message real
-  - tribunal payment link text
-last_reviewed: "2026-03-07"
+  - "court message payment link"
+  - "fake court payment link"
+  - "court text message scam"
+  - "court email payment link"
+  - "court fine payment message"
+  - "fake court fine message"
+  - "suspicious court text"
+  - "suspicious court email"
+  - "court warrant text message"
+  - "court payment demand"
+  - "what do i do if court text asks for payment"
+  - "what do i do if court link looks fake"
+  - "what do i do if court message says warrant"
+  - "what do i do if court fine text arrives"
+  - "help i got a court payment link"
+  - "help i clicked a court link"
+  - "help i entered details on court link"
+  - "help i got a court fine text"
+  - "my court message looks suspicious"
+  - "my court text says pay now"
+  - "my court email has a payment link"
+  - "my phone says court fine"
+  - "unknown court reference number"
+  - "unexpected court payment request"
+  - "message says unpaid court fine"
+  - "message says warrant for fine"
+  - "sender name looks official"
+  - "government-looking payment page"
+  - "fake tribunal payment link"
+  - "bailiff text message scam"
+  - "enforcement officer payment text"
+  - "court summons by text"
+  - "cort payment link"
+  - "tribunal paymant link"
+last_reviewed: "2026-05-18"
+date_created: "2026-05-18"
 ---
 
 # What to do if… you receive a message claiming to be from a court with a payment link and you are not sure it is real (UK)
 
 ## Short answer
-Don’t click the link or pay. Verify independently by contacting the relevant court/tribunal using official contact details you find yourself (not from the message).
+Do not click the link or pay from the message. Verify it separately using official court or tribunal contact details you find yourself.
 
 ## Do not do these things
-- Don’t click the payment link “just to see what it says” or enter any details.
-- Don’t reply to the message or call any number it provides.
-- Don’t let urgency (“pay today”, “warrant”, “final warning”) push you into paying before you verify.
-- Don’t share personal details (date of birth, NI number, address) to “confirm your identity” via text/email.
-- Don’t assume it’s real because it looks official — sender names and links can be faked.
+- Do not click the payment link “just to see what it says”.
+- Do not enter card details, bank details, passwords, your National Insurance number, your date of birth, or your address into the linked page.
+- Do not reply to the message or call a number given in the message.
+- Do not let words like “urgent”, “warrant”, “final warning”, or “pay today” push you into paying before you verify.
+- Do not assume it is real because the sender name, logo, or website looks official.
 
 ## What to do now
-1. **Pause and treat it as suspicious by default.** Scammers often impersonate courts and enforcement to create panic.
-2. **Capture evidence safely:** screenshot the message (showing the sender and the link), then stop interacting with it.
-3. **Verify using official contact routes (not the message):**
-   - **England & Wales (and some tribunals):** use the GOV.UK **Find a court or tribunal** service to get the genuine contact details, then ask if anything is actually outstanding in your name.
-   - **Scotland:** for most court matters, use **Scottish Courts and Tribunals Service** contact details (not the message) to verify. (The GOV.UK finder is limited in Scotland.)
-   - **Northern Ireland:** use **Northern Ireland Courts and Tribunals Service** contact details to verify. (The GOV.UK finder cannot be used for Northern Ireland.)
-4. **Report the message:**
-   - **Forward the text to 7726 (SPAM)** to report it to your mobile provider.
-   - If it’s fraud (or you’ve lost money), report it to **Report Fraud (Action Fraud)** if you’re in **England, Wales, or Northern Ireland**. If you’re in **Scotland**, report to **Police Scotland** (101 or online reporting for non-urgent matters).
-5. **If you clicked the link or entered details:**
-   - **Contact your bank/card provider immediately** (use the number on the back of your card or your banking app) and say you may have entered details on a fraudulent payment page. Ask them to **stop/flag payments and replace cards** if needed.
-   - **Secure your email first:** change your email password and turn on two-factor authentication, then change any other accounts that reuse that password.
-   - If you downloaded anything, **run a device security scan** and avoid logging into banking until you’re confident the device is clean (get help from a trusted person if you’re unsure).
+1. **Pause and treat the message as unverified.** Court and enforcement impersonation scams can use official-looking names, links, and urgent wording to make people act quickly.
+2. **Save the message without interacting with it.** Take a screenshot showing the sender, date, wording, and link, then stop opening, replying to, or tapping anything in it.
+3. **Check for any real case or fine using official contact details only.**
+   - In England and Wales, and for many tribunals, use the GOV.UK Find a court or tribunal service to find the genuine contact details.
+   - In Scotland, use the Scottish Courts and Tribunals Service website to find the genuine court, tribunal, or office contact details.
+   - In Northern Ireland, use Northern Ireland Courts and Tribunals Service information from the Department of Justice website.
+4. **When you contact the official court or tribunal, keep it simple.** Say you received a message with a payment link, give the reference number shown in the message if there is one, and ask whether anything is genuinely outstanding in your name.
+5. **Report the suspicious text or message.** Forward a suspicious text to 7726. You can also report suspicious websites, emails, phone numbers, calls, or texts through the GOV.UK phishing reporting page.
+6. **If you paid, entered details, or think money may be at risk, contact your bank or card provider now.** Use the phone number on the back of your card or your banking app, not any number in the message. Tell them you may have used a fraudulent court payment page and ask what they can block, reverse, monitor, or replace.
+7. **If you entered login details, secure those accounts.** Change the password for that account, change any other account using the same password, and turn on two-factor authentication where available.
+8. **If you downloaded an attachment or installed anything, stop using that device for banking for now.** Run a security scan or get help from a trusted person or reputable repair service before using it for payment or banking again.
+9. **Report fraud if money was lost or your details were misused.** Use Report Fraud if you are in England, Wales, or Northern Ireland. In Scotland, report fraud to Police Scotland by calling 101 or using an official Police Scotland reporting route.
 
 ## What can wait
-- You don’t need to decide now whether to “fight it” or “pay it” — first confirm whether it’s real.
-- You don’t need to analyse the website or the wording; verification via official contacts is safer.
-- You don’t need to contact multiple agencies at once: report it, and only take bank/account steps if you interacted with the link.
+- You do not need to decide now whether to pay, dispute, appeal, or complain.
+- You do not need to analyse the wording, logo, or web address yourself.
+- You do not need to contact several organisations at once; first verify through the official court or tribunal route, then take bank or reporting steps if needed.
+- You do not need to delete the message until you have saved what you may need for reporting.
 
 ## Important reassurance
-It’s normal to feel a jolt of fear when a message mentions courts, fines, or warrants — that reaction is exactly what scammers try to trigger. Slowing down and verifying through official contact details is a safe, sensible response.
+A message about courts, fines, or warrants can feel frightening, especially when it includes a payment link. Pausing and checking through official contact details is a sensible protective step, not an overreaction.
 
 ## Scope note
-This is first-steps-only guidance to reduce harm and prevent a rushed payment. If the court/tribunal confirms something genuine is outstanding, you may want specialist advice about next steps.
+These are first steps only to reduce panic, avoid a rushed payment, and help you verify whether the message is real. If an official court or tribunal confirms that something genuine is outstanding, later decisions may need specialist legal or debt advice.
 
 ## Important note
-This is general information, not legal advice. Processes vary across the UK and by case type. If you feel at immediate risk, use emergency services.
+This is general information, not legal, financial, cybersecurity, or professional advice. Processes can vary by UK nation, court, tribunal, and case type. If there is immediate danger, call 999.
 
 ## Additional Resources
 - https://www.gov.uk/guidance/guidance-on-hmcts-related-suspicious-phone-calls-emails-and-text-messages
 - https://www.gov.uk/report-suspicious-emails-websites-phishing
 - https://www.gov.uk/find-court-tribunal
+- https://www.scotcourts.gov.uk/courts-and-tribunals/courts-tribunals-and-office-locations/find-us/
+- https://www.justice-ni.gov.uk/topics/courts-and-tribunals
 - https://www.ofcom.org.uk/phones-and-broadband/scam-calls-and-messages/7726-reporting-scam-texts-and-calls
-- https://www.ncsc.gov.uk/collection/phishing-scams/report-scam-text-message
-- https://www.reportfraud.police.uk/reporting-a-fraud/
+- https://www.reportfraud.police.uk/
 - https://www.scotland.police.uk/advice/scams-and-frauds/

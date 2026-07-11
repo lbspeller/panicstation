@@ -1,89 +1,110 @@
-﻿---
+---
 title: "What to do if… you are asked to train someone and you suspect they are replacing you"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
-  - asked to train someone
-  - training my replacement
-  - train a new starter
-  - train a new hire
-  - train someone for my role
-  - handover to someone new
-  - being pushed out at work
-  - suspect redundancy coming
-  - role being phased out
-  - manager asked me to train
-  - job at risk signs
-  - sudden knowledge transfer request
-  - training duties added suddenly
-  - replacement hire rumour
-  - restructure warning signs
-  - worried about being sacked
-  - asked to document my job
-  - new colleague shadowing me
-last_reviewed: "2026-01-08"
+  - "asked to train someone"
+  - "training my replacement"
+  - "train a new starter"
+  - "train a new hire"
+  - "train someone for my role"
+  - "handover to someone new"
+  - "new colleague shadowing me"
+  - "manager asked me to train"
+  - "being pushed out at work"
+  - "suspect redundancy coming"
+  - "what do i do if i am training my replacement"
+  - "what do i do if my role is changing"
+  - "what do i do if my manager hired someone"
+  - "what do i do if work asks for handover"
+  - "help i am being replaced"
+  - "help i was asked to train someone"
+  - "help i think redundancy is coming"
+  - "help i have to handover my job"
+  - "my boss wants me to train someone"
+  - "my job is being documented"
+  - "sudden knowledge transfer request"
+  - "training duties added suddenly"
+  - "replacement hire rumour"
+  - "role being phased out"
+  - "job at risk signs"
+  - "access removed at work"
+  - "duties changed without warning"
+  - "workload changed for training"
+  - "cross-training or replacement"
+  - "restructure or redundancy"
+  - "handover or performance issue"
+  - "knowlege transfer request"
+  - "replacment at work"
+last_reviewed: "2026-05-04"
+date_created: "2026-05-04"
 ---
 
 # What to do if… you are asked to train someone and you suspect they are replacing you (UK)
 
 ## Short answer
-Stay calm, keep doing your job, and get the training request and the reason for it clarified in writing while you protect your options. Do not resign or refuse suddenly.
+Keep the training professional, but get the request, purpose, workload impact, and any change to your role clarified in writing. Do not resign, accuse anyone, or refuse suddenly while you are still trying to understand what process, if any, is happening.
 
 ## Do not do these things
-- Do not accuse anyone of replacing you in the moment or send an angry message you can’t take back.
-- Do not refuse to train without first clarifying what’s being asked and what it means for your workload and role.
-- Do not resign “to get ahead of it” in a panic. (If there’s an immediate health/safety risk, get urgent support/advice first.)
-- Do not take or copy confidential company information “just in case”.
+- Do not accuse anyone of replacing you in the moment or send an angry message you cannot take back.
+- Do not refuse to train without first clarifying what is being asked, how much time it will take, and what happens to your normal work.
+- Do not resign “to get ahead of it” in a panic, especially if the situation may involve discrimination, retaliation, whistleblowing, redundancy, or an unsafe workplace.
+- Do not take, forward, download, or copy confidential company information “just in case”.
 - Do not rely on rumours as your only source of truth.
+- Do not confront the person you are being asked to train.
 
 ## What to do now
-1. **Get the request pinned down in writing (or confirm it in writing).**  
-   Ask: what topics, which systems/processes, who the trainee is, how long it should take, and the deadline. Ask what work should be deprioritised to make time.
+1. **Get the training request pinned down in writing.**  
+   Ask what topics, systems, processes, documents, meetings, dates, and deadlines are involved. Ask how much time you should spend on training and which of your normal tasks should be paused, delayed, or reduced.
 
 2. **Ask the key question calmly: “Is my role changing?”**  
-   Keep it neutral: “Is this cross-training/cover, or is there a restructure/redundancy process I should be aware of?” If they answer verbally, email a brief summary of what you understood.
+   Keep it neutral: “Is this cross-training and cover, or is there a restructure or redundancy process I should be aware of?” If the answer is verbal, email a short summary of what you understood.
 
-3. **If they won’t confirm anything, ask what process this is.**  
-   Request clarity on whether this is normal coverage, performance management, a restructure, or redundancy planning — and ask who is the decision-maker for your role going forward.
+3. **Ask what workplace process applies.**  
+   If the answer is unclear, ask whether this is normal cover, performance management, a restructure, redundancy planning, or something else. Ask what the next formal step would be if your role is affected.
 
-4. **Start a clean, private record of facts.**  
-   Note dates, who asked what, any changes to your duties/access, and anything said about headcount or “handover.” Keep it factual. Save relevant emails, meeting invites, objectives, and recent feedback.
+4. **Start a clean private timeline of facts.**  
+   Record dates, who said what, what you were asked to train, any changes to your duties or system access, and anything said about headcount, handover, restructuring, or redundancy. Keep it factual and do not add guesses.
 
-5. **Check your contract and policies today.**  
-   Find your notice period, job description, redundancy policy, and grievance policy (often in your handbook or intranet). You’re looking for what the employer says they will do when roles change.
+5. **Keep documents safely and properly.**  
+   Keep copies of your own contract, job description, objectives, recent feedback, rota or workload notes, and emails you are allowed to keep. Do not remove confidential material or breach workplace policies.
 
-6. **Have one practical 1:1 with your manager (then write it up).**  
-   Focus on workload, priorities, and what “good” looks like for the training. Afterward, send a short follow-up email confirming the plan and any statements about your role.
+6. **Check your contract and workplace policies.**  
+   Find your notice period, job description, redundancy policy, grievance policy, disciplinary or performance policy, and any policy about role changes. You are looking for what your employer says it will do when duties, roles, or headcount change.
 
-7. **If redundancy/restructure is hinted at, ask for the proper consultation steps.**  
-   If you’re told you’re “at risk,” ask what stage things are at, when consultation starts, how selections are made (if relevant), and what alternative roles exist.
+7. **Have one practical 1:1 with your manager.**  
+   Focus on workload, priorities, and what “good” looks like for the training. After the meeting, send a short follow-up email confirming the training plan, any adjusted deadlines, and anything said about whether your role is changing.
 
-8. **Use support that exists in your workplace early.**  
-   If you’re in a union, contact your rep before anything escalates. If HR is involved, ask (in writing) what process applies and what to expect next.
+8. **If redundancy or restructure is mentioned, ask for the consultation steps.**  
+   If you are told you are “at risk” or your role may no longer be needed, ask what stage the process is at, when consultation starts, how selection will usually be handled if relevant, and whether alternative roles are being considered.
 
-9. **If the situation feels unfair or unsafe, use the grievance route (starting informal).**  
-   Raise concerns as a process issue (unclear role status, inconsistent treatment, being set up to fail with workload). If that goes nowhere, use the formal grievance procedure and keep it evidence-based.
+9. **Use workplace support early.**  
+   If you are in a union, contact your rep before the situation escalates. If HR is involved, ask in writing what process applies and what you should expect next.
 
-10. **Keep the training professional and bounded.**  
-   Ask for a simple training plan and calendar time. Confirm that your normal deliverables are adjusted so you’re not later criticised for “missed work” or “poor cooperation.”
+10. **If the situation feels unfair, raise it as a process concern.**  
+   If safe and appropriate, start informally: unclear role status, workload not adjusted for training time, inconsistent treatment, or being set up to fail. If that does not work, or the issue is serious, use the formal grievance procedure and keep it evidence-based.
 
-11. **If you’re dismissed or pushed out quickly, get things in writing and act promptly.**  
-   Ask for the reason in writing. In some situations employers must provide written reasons; even when not required, a written explanation can help you understand your position and next steps. If you’re considering a claim, be aware tribunal time limits are tight and Acas Early Conciliation is a key early step.
+11. **Keep the training bounded and documented.**  
+   Ask for a simple training plan, calendar time, and named priorities. Confirm that your normal deliverables are adjusted so you are not later criticised for missed work while training someone else.
+
+12. **If you are dismissed or pushed out quickly, ask for the reason in writing and get advice promptly.**  
+   Employees with at least 2 years’ service can usually ask for written reasons for dismissal, and employees dismissed while on Statutory Maternity Leave have a right to written reasons without asking. Employment tribunal time limits are usually short, often 3 months less 1 day, and Acas Early Conciliation is usually an early step before many tribunal claims.
 
 ## What can wait
-- You do not need to decide today whether to quit, “fight,” or start a full job search.
+- You do not need to decide today whether to quit, fight, negotiate, or start a full job search.
 - You do not need to confront the new person or warn colleagues.
-- You do not need to write a long complaint right now; first get clarity and capture facts.
-- You do not need to negotiate severance or settlement until something concrete is proposed.
+- You do not need to write a long complaint before you have pinned down the facts.
+- You do not need to negotiate severance or a settlement unless something concrete is proposed.
+- You do not need to prove today whether the training request is innocent or a sign of replacement.
 
 ## Important reassurance
-Feeling blindsided by a sudden “train them” request is common and understandable. Sometimes it’s genuinely cover or cross-training; sometimes it signals a planned change. Staying calm, getting clarity in writing, and keeping a factual record protects you either way.
+A sudden request to train someone can feel threatening, and that reaction is understandable. Sometimes it is only cover, cross-training, or succession planning; sometimes it is part of a role change. Calm written clarification and a factual record protect you either way.
 
 ## Scope note
-These are first steps only. If this becomes redundancy, dismissal, discrimination, retaliation, or whistleblowing-related, the right next move depends on your exact facts and timelines.
+These are first steps only. If this becomes redundancy, dismissal, discrimination, retaliation, whistleblowing, or a settlement discussion, later decisions may need specialist help based on your contract, status, length of service, and exact timeline.
 
 ## Important note
-This is general information, not legal advice. Employment rights and processes depend on your status, contract terms, length of service, and what your employer is actually doing. If you think the situation is moving fast or involves an unlawful reason, get independent advice promptly.
+This is general information, not legal, financial, medical, therapeutic, or other professional advice. Employment rights and processes depend on your employment status, contract terms, length of service, workplace policies, and what your employer is actually doing. If the situation is moving quickly or may involve an unlawful reason, get independent advice promptly.
 
 ## Additional Resources
 - https://www.acas.org.uk/how-to-raise-a-problem-at-work
@@ -93,3 +114,4 @@ This is general information, not legal advice. Employment rights and processes d
 - https://www.acas.org.uk/employment-tribunal-time-limits
 - https://www.acas.org.uk/your-rights-during-redundancy/how-your-employer-must-consult-you
 - https://www.acas.org.uk/dismissals/unfair-dismissal
+- https://www.gov.uk/dismissal

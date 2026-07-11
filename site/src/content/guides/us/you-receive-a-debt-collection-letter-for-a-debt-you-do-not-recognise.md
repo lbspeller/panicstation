@@ -1,84 +1,114 @@
-﻿---
+---
 title: "What to do if… you receive a debt collection letter for a debt you do not recognise"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
-  - debt collection letter not mine
-  - debt i do not recognize
-  - collection notice unknown debt
-  - wrong person debt collector
-  - debt validation request
-  - dispute debt within 30 days
-  - debt collector contacting me
-  - collections letter scam
-  - identity theft collection letter
-  - account i never opened
-  - credit report unknown debt
-  - debt buyer letter surprise
-  - demand letter for debt
-  - mistaken identity in collections
-  - collector wants payment now
-  - debt not my responsibility
-  - verify alleged debt in writing
-  - stop debt collector contact
-last_reviewed: "2026-01-08"
+  - "unknown debt collection letter"
+  - "debt collection letter not mine"
+  - "debt i do not recognize"
+  - "debt i do not recognise"
+  - "collection notice unknown debt"
+  - "wrong person debt collector"
+  - "identity theft debt letter"
+  - "debt buyer letter surprise"
+  - "account i never opened"
+  - "mistaken identity collections letter"
+  - "what do i do if a debt collector wrote"
+  - "what do i do if debt is not mine"
+  - "what do i do if i got collections"
+  - "what do i do if collection notice is wrong"
+  - "help i got a debt letter"
+  - "help i do not recognize debt"
+  - "help i got collections by mistake"
+  - "my debt collection letter looks wrong"
+  - "my credit report shows unknown debt"
+  - "collector says i owe money"
+  - "letter asks for payment now"
+  - "unfamiliar creditor name"
+  - "wrong amount in collections"
+  - "old address on debt letter"
+  - "collector has partial ssn"
+  - "scam collection letter"
+  - "fake debt collector"
+  - "validation notice confusion"
+  - "credit report tradeline unknown"
+  - "statute of limitations confusion"
+  - "after a debt was sold"
+  - "after identity theft"
+  - "before paying collector"
+  - "before calling debt collector"
+  - "usa debt collection letter"
+  - "debt colector letter"
+  - "colletion notice not mine"
+last_reviewed: "2026-06-20"
+date_created: "2026-06-20"
 ---
 
 # What to do if… you receive a debt collection letter for a debt you do not recognise (USA)
 
 ## Short answer
-Don’t pay or admit the debt. Send a **written** dispute/validation request promptly—ideally immediately, and within **30 days** of the validation notice—so the collector must verify it before continuing collection.
+Do not pay, agree the debt is yours, or give sensitive information until you have checked it. Send a written dispute and request for verification promptly, ideally within 30 days after you receive the validation notice.
 
 ## Do not do these things
-- Don’t call in a panic and “confirm” sensitive information (SSN, full DOB, bank details).
-- Don’t make any payment or agree to a plan “just to make it go away” before you get verification in writing.
-- Don’t ignore later letters that look like legal notices or court papers.
-- Don’t rely on phone conversations—keep it written and keep copies.
+- Do not click links, scan QR codes, or call numbers from the letter if you are unsure it is real.
+- Do not give your Social Security number, full date of birth, bank details, card details, or online passwords.
+- Do not make a small payment or agree to a payment plan just to reduce pressure before the debt is verified.
+- Do not say or write that the debt is yours unless you are sure.
+- Do not ignore anything that appears to be court papers, a summons, or a deadline from a court.
+- Do not rely on a phone call alone; keep copies of letters, envelopes, screenshots, and delivery proof.
 
 ## What to do now
-1. **Lock in your evidence.**  
-   Scan/photograph the letter (all pages) and the envelope. Start a log with dates/times and a note of what they claimed.
-2. **Do a quick legitimacy check (without using their links).**  
-   Make sure the letter includes the collector’s name and mailing address, the amount, and the creditor name. If anything feels off, don’t click links or call numbers from the letter—look up the company independently and use the verified mailing address.
-3. **Send a written dispute + request for verification.**  
-   In one short letter, say:
-   - “I dispute this debt because I don’t recognize it,” and  
-   - “Please provide verification of the debt,” and (if needed) “Please provide the name and address of the original creditor.”  
-   **Important:** a written dispute/request within the 30-day window is what triggers the requirement to pause collection until they mail verification. Keep a copy and proof you sent it (for example, certified mail/return receipt or another trackable method).
-4. **Check your credit reports using the official source.**  
-   Get your reports at **AnnualCreditReport.com** and look for unfamiliar accounts, collection tradelines, addresses, and hard inquiries. Save screenshots/PDFs of anything you don’t recognize.
-5. **If identity theft is possible, contain it now.**  
-   - Place a **credit freeze** with **Equifax, Experian, and TransUnion** (strongest for stopping new accounts).  
-   - Consider a **fraud alert** as well if you want creditors to take extra steps to verify you.  
-   - If you believe your identity was used, make a report and recovery plan at **IdentityTheft.gov**.
-6. **Dispute credit-report errors in two places.**  
-   If the debt is on your credit report, dispute it with the **credit bureaus** and also dispute it directly with the **company furnishing the information** (the collector or lender). Attach your documentation (your dispute letter, delivery proof, and any identity theft report).
-7. **If contact becomes overwhelming, you can limit it—carefully.**  
-   You can send a written request to stop further communication. Under federal law, they may still contact you in limited ways (for example, to confirm they’ll stop or to notify you about specific actions like a lawsuit). Keep watching your mail.
-8. **Escalate if they won’t fix it or seem abusive.**  
-   File a complaint with the **Consumer Financial Protection Bureau (CFPB)** and report scams/impersonation to the **FTC**. Include your timeline and copies of letters.
-9. **If you’re served with a lawsuit, treat it as urgent.**  
-   Court deadlines are short and vary by state. Get legal help quickly (legal aid or a consumer attorney) and respond on time—even if the debt isn’t yours.
+1. **Save the letter and envelope.**  
+   Photograph or scan every page, including the envelope. Start a simple note with the date received, the collector name, the amount claimed, the creditor name, account numbers shown, and any contact attempts.
+
+2. **Check the notice without using its links first.**  
+   Look for the collector’s name and mailing address, the amount, the current creditor, any original creditor, when you received it, and how the notice says to dispute. If anything feels suspicious, search for the collector independently and compare the letter with an official website, state licensing record, or CFPB and FTC information.
+
+3. **Send a short written dispute and verification request.**  
+   Write to the debt collector at the mailing address given for disputes. Keep it plain:
+   - “I dispute this debt because I do not recognize it.”
+   - “Please provide verification of the debt.”
+   - “Please provide the name and address of the original creditor, if different from the current creditor.”
+
+4. **Keep proof that you sent it.**  
+   Make a copy before sending. Use certified mail with return receipt, another trackable mail service, or the collector’s stated electronic dispute route if the notice clearly provides one. Save delivery proof.
+
+5. **Check your credit reports through the official site.**  
+   Use AnnualCreditReport.com. Look for unfamiliar accounts, collection entries, addresses, names, employers, phone numbers, and hard inquiries. Save copies or screenshots of anything you do not recognize.
+
+6. **If identity theft is possible, block new damage.**  
+   Place a free credit freeze with Equifax, Experian, and TransUnion. You can also place an initial fraud alert by contacting one of the three bureaus; that bureau must tell the other two. If you believe your identity was used, make a recovery report at IdentityTheft.gov.
+
+7. **Dispute any matching credit-report entry.**  
+   If the debt appears on a credit report, dispute it with the credit reporting company and also with the company that reported it, such as the collector or lender. Send copies of your documents, not originals.
+
+8. **Limit contact only after you have protected your dispute.**  
+   If calls or messages are overwhelming, you can write asking the collector to stop contacting you. They may still contact you in limited ways, such as to confirm they will stop or to tell you about a specific action they may take. Keep checking your mail for court papers or official notices.
+
+9. **Escalate if it looks fake, abusive, or unresolved.**  
+   File a CFPB complaint for debt collection or credit-report problems. Report scam or impersonation concerns to the FTC. Include your timeline, copies of letters, delivery proof, and credit-report screenshots.
+
+10. **Treat any lawsuit papers as urgent.**  
+   Court deadlines vary by state and can be short. Get legal aid, a consumer attorney, or court self-help information quickly, and respond by the court deadline even if the debt is not yours.
 
 ## What can wait
-- You don’t need to decide today whether to hire a lawyer—first, get your written dispute/verification request sent and secure your credit.
-- You don’t need to argue details on the phone; keep it written and factual.
-- You don’t need to “prove a negative” immediately—your first job is to dispute, document, and force verification.
+You do not need to decide today whether to hire a lawyer unless you have court papers. You do not need to argue on the phone, prove every detail immediately, or work out whether the debt was sold. First, preserve the letter, send the written dispute, check your credit reports, and protect your identity.
 
 ## Important reassurance
-Getting a collection letter for a debt you don’t recognize is common—errors happen, debts are sold with messy data, and scams exist. A fast written dispute plus credit-protection steps usually brings things back under control.
+A debt collection letter for a debt you do not recognize does not mean you owe it. Mistaken identity, sold-debt records, reporting errors, and scams can happen, and a written dispute gives you a calmer way to slow the situation down.
 
 ## Scope note
-This is first steps only: prevent accidental admission/payment, trigger verification rights, and protect your credit. If you receive court papers, you may need state-specific legal help.
+These are first steps only: preserve evidence, avoid accidental payment or admission, request verification, and protect your credit. Later decisions may need help from legal aid, a consumer attorney, a credit-reporting specialist, or the court self-help service in your state.
 
 ## Important note
-This is general information, not legal advice. Rights and deadlines can vary by situation and state. When in doubt, keep everything in writing and act promptly when you receive official notices.
+This is general information, not legal, financial, credit, or professional advice. Rights, deadlines, court procedures, and state rules can vary, so check official notices carefully and get qualified help for lawsuits or deadlines.
 
 ## Additional Resources
 - https://www.law.cornell.edu/uscode/text/15/1692g
 - https://www.consumerfinance.gov/ask-cfpb/what-information-does-a-debt-collector-have-to-give-me-about-the-debt-en-331/
 - https://consumer.ftc.gov/articles/credit-freezes-and-fraud-alerts
-- https://www.annualcreditreport.com/aboutThisSite.action
+- https://www.annualcreditreport.com/index.action
 - https://www.identitytheft.gov/
 - https://www.consumerfinance.gov/complaint/
 - https://www.law.cornell.edu/uscode/text/15/1692c
+- https://reportfraud.ftc.gov/

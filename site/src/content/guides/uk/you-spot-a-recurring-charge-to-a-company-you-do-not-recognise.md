@@ -1,92 +1,116 @@
-﻿---
+---
 title: "What to do if… you spot a recurring charge to a company you do not recognise"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
-  - recurring charge i don't recognise
-  - unknown subscription payment
-  - mystery merchant on statement
-  - card payment i didn't authorise
-  - recurring card payment stopped
-  - continuous payment authority issue
-  - direct debit not mine
-  - unfamiliar direct debit refund
-  - standing order i don't know
-  - monthly charge unknown company
-  - small repeated charge fraud
-  - subscription i never signed up
-  - bank statement strange merchant
-  - payment taken every month
-  - unknown merchant descriptor
-  - chargeback for unknown payment
-  - card details compromised worry
-  - recurring payment cancel now
-last_reviewed: "2026-01-09"
+  - "recurring charge not recognised"
+  - "recurring charge unknown company"
+  - "unknown recurring payment"
+  - "mystery monthly charge"
+  - "unfamiliar subscription payment"
+  - "unknown merchant on statement"
+  - "company name not recognised"
+  - "repeated card charge"
+  - "continuous payment authority worry"
+  - "direct debit not recognised"
+  - "what do i do if recurring charge"
+  - "what do i do if unknown company charged me"
+  - "what do i do if subscription not recognised"
+  - "what do i do if merchant name unknown"
+  - "help i found a recurring charge"
+  - "help i do not recognise a payment"
+  - "my bank statement has unknown charge"
+  - "my card keeps being charged"
+  - "my account has strange payment"
+  - "my direct debit looks wrong"
+  - "small charge every month"
+  - "same amount keeps leaving"
+  - "merchant descriptor looks strange"
+  - "payments taken on same date"
+  - "free trial became payment"
+  - "subscription under different name"
+  - "card charge or direct debit"
+  - "standing order or direct debit"
+  - "chargeback or refund confusion"
+  - "recouring charge not recognised"
+  - "unknown merchent charge"
+  - "bank app shows unknown company"
+last_reviewed: "2026-05-21"
+date_created: "2026-05-21"
 ---
 
 # What to do if… you spot a recurring charge to a company you do not recognise (UK)
 
 ## Short answer
-Treat it as potentially unauthorised: contact your bank/card issuer now, ask them to **stop any further payments to that merchant**, and start a dispute/refund process.
+Contact your bank or card issuer now using a trusted route, ask them what type of payment it is, and ask them to stop any further payments to that company. You can check the merchant name afterwards, but first stop more money leaving.
 
 ## Do not do these things
-- Don’t assume it’s harmless because it’s “only a small amount” or “only monthly”.
-- Don’t assume cancelling/replacing your card automatically stops recurring payments — they **may still continue**; explicitly ask your card issuer to stop the recurring payment with the merchant.
-- Don’t click links or call phone numbers from suspicious emails/texts that “explain” the charge.
-- Don’t “test” anything by trying another payment to see what happens.
-- Don’t delay while you “try to remember” — you can investigate after you’ve stopped further money leaving.
+- Do not assume it is harmless because the amount is small or monthly.
+- Do not rely on cancelling or replacing your card to stop it; recurring card payments may still continue.
+- Do not click links or call phone numbers from emails or texts that claim to explain the charge.
+- Do not make another payment to test whether the company is real.
+- Do not spend a long time trying to remember before contacting your bank or card issuer.
+- Do not give one-time passcodes, banking passwords, or full card details to anyone who contacts you.
 
 ## What to do now
-1. **Stop further payments (most important).**
-   - If it’s a **recurring card payment** (often called a “continuous payment authority”), tell your **card issuer** you withdraw consent and you want them to **stop future payments to that merchant**.
-   - If it’s a **Direct Debit**, tell your bank to **cancel the Direct Debit** immediately.
-   - If it’s a **standing order**, cancel it in your banking app/online banking or with your bank.
+1. **Use a trusted contact route.**
+   - Open your banking app yourself, use the number on your card, or use the number on your bank’s official website.
+   - Say: “I do not recognise this recurring payment. Please tell me whether it is a card payment, Direct Debit, standing order, or something else.”
 
-2. **Collect the key details before you call/message (2 minutes).**
-   - Note the **exact merchant name/descriptor**, amount, dates, and the last 3–4 payments.
-   - Take screenshots of the transactions (or write them down) so you can refer to them.
+2. **Ask for future payments to be stopped.**
+   - If it is a recurring card payment, also called a continuous payment authority, tell your card issuer that you withdraw consent and want future payments to that merchant stopped.
+   - If it is a Direct Debit, ask your bank to cancel the Direct Debit.
+   - If it is a standing order, cancel it in your banking app or ask your bank to cancel it.
+   - For a recurring card payment, try to contact the card issuer by the end of the business day before the next payment is due.
 
-3. **Check for a legitimate explanation (quick, but don’t get stuck here).**
-   - Search the exact descriptor shown on your statement (it may differ from the brand you know).
-   - Check email/app store receipts for subscriptions, free trials converting to paid, delivery services, VPNs, streaming, or memberships.
-   - If you find a likely match, cancel it using a **trusted route** (the company’s official website/app you navigate to yourself, not a link you were sent).
+3. **Record the transaction details before they disappear from view.**
+   - Write down or screenshot the exact merchant name, amount, transaction dates, and reference or descriptor.
+   - Note the last three or four payments if they are visible.
+   - Keep any message or reference number from your bank.
 
-4. **Ask your bank for the right remedy for the payment type.**
-   - **Direct Debit:** ask for a refund under the **Direct Debit Guarantee** if the payment was taken in error or you don’t recognise it, and ask them to cancel the Direct Debit.
-   - **Card payment:** ask to **dispute it** (often via chargeback) and ask for the recurring payment to be blocked going forward.
+4. **Do a quick legitimate-name check, without getting stuck.**
+   - Search the exact merchant descriptor shown on your statement.
+   - Check recent receipts, app-store subscriptions, free trials, delivery services, VPNs, streaming services, memberships, and family-card use.
+   - If you find the company and it looks genuine, cancel through the official website or app you navigate to yourself.
 
-5. **Do a fast “containment check” across accounts.**
-   - Check other recent transactions for anything else unfamiliar.
-   - If you suspect your card/bank login may be compromised: change your online banking password, check the contact details on the account (phone/email/address), and enable stronger sign-in options if available.
+5. **Ask your bank or card issuer about refunds or disputes.**
+   - For a Direct Debit, ask about the Direct Debit Guarantee if the payment was taken in error or you do not recognise it.
+   - For a card payment, ask the card issuer to dispute the payment and explain the available route for unauthorised or disputed payments.
+   - Ask them to confirm what they have done to stop the payment going forward.
 
-6. **If you suspect identity fraud (not just a subscription mix-up), create an official record.**
-   - **England, Wales, Northern Ireland:** report to **Report Fraud** and keep any reference number.
-   - **Scotland:** report to **Police Scotland** (via 101) and keep any incident/reference number.
-   - Consider checking your credit report(s) for accounts you don’t recognise. If you think you’re at ongoing risk, you can also consider adding an extra identity check such as **CIFAS Protective Registration**.
+6. **Check whether this looks wider than one subscription.**
+   - Look for other unfamiliar transactions, new payees, new Direct Debits, or changed contact details on the account.
+   - If your banking login may be compromised, change the password using the official app or website and strengthen sign-in if your bank offers it.
+   - If your card details may be compromised, ask the card issuer whether the card needs replacing as well as blocking the recurring merchant.
 
-7. **If your bank won’t stop the payments or won’t handle the complaint properly, escalate.**
-   - Make a formal complaint to the bank/card issuer.
-   - If unresolved, you can take it to the **Financial Ombudsman Service**.
+7. **If it looks like fraud or identity misuse, make an official report.**
+   - If you live in England, Wales, or Northern Ireland, use Report Fraud and keep the reference number.
+   - If you live in Scotland, use Police Scotland’s non-emergency reporting routes, online, by phone, or in person where suitable.
+   - If your personal details may be at ongoing risk, consider checking your credit reports and whether Cifas Protective Registration is appropriate.
+
+8. **If the bank or card issuer will not help, escalate calmly.**
+   - Make a formal complaint to the bank or card issuer.
+   - If they do not resolve it or do not reply in time, you can ask the Financial Ombudsman Service to look at the complaint.
 
 ## What can wait
-- You do **not** need to decide right now whether to take legal action or “prove” who did it.
-- You do **not** need to argue with the company first (especially if you can’t verify who they are).
-- You do **not** need to close every account you have — focus on **stopping the recurring payment** and securing the affected account.
+- You do not need to decide now whether to take legal action.
+- You do not need to prove who set it up before asking the bank or card issuer to stop future payments.
+- You do not need to contact the company first if you cannot verify who they are.
+- You do not need to close every account you have today; focus on stopping the payment and securing the affected account.
 
 ## Important reassurance
-It’s very common for genuine subscriptions to appear under an unfamiliar descriptor — and it’s also common for unauthorised payments to start as small recurring charges. Acting quickly to stop further payments is the right first move either way.
+Many real subscriptions appear under merchant names people do not recognise, and some unauthorised payments start as small recurring charges. Acting quickly is sensible in both cases and does not require you to know the full story yet.
 
 ## Scope note
-These are first steps to stop losses and stabilise the situation. Later steps (like deeper identity-fraud recovery or formal disputes) depend on what type of payment it was and what your bank finds.
+These are first steps to stop further payments and stabilise the situation. Later decisions, including formal disputes, fraud recovery, or identity-protection steps, may need specialist help from your bank, card issuer, the police reporting route, or a regulated advice service.
 
 ## Important note
-This is general information, not legal or financial advice. Processes can vary by bank and by payment type; if you’re unsure, your bank/card issuer can tell you exactly what kind of payment it is and what options apply.
+This is general information, not legal, financial, or professional advice. Processes can vary by bank, card issuer, payment type, and the facts of the transaction.
 
 ## Additional Resources
 - https://www.fca.org.uk/consumers/recurring-card-payments
-- https://www.citizensadvice.org.uk/debt-and-money/banking/stopping-a-future-payment-on-your-debit-or-credit-card/
 - https://www.directdebit.co.uk/direct-debit-guarantee/
-- https://www.gov.uk/government/news/report-fraud-new-service-from-city-of-london-police
 - https://www.reportfraud.police.uk/
+- https://www.scotland.police.uk/advice/scams-and-frauds/
 - https://www.financial-ombudsman.org.uk/consumers/complaints-can-help/banking-and-payments/regular-payments
 - https://www.cifas.org.uk/pr

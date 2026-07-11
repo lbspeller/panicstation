@@ -1,65 +1,86 @@
-﻿---
+---
 title: "What to do if… you experience sudden numbness or tingling in your face, arm, or leg that comes and goes"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
-  - sudden numbness face
-  - sudden tingling face
-  - arm numbness comes and goes
-  - leg numbness comes and goes
-  - pins and needles one side
-  - one-sided numbness
-  - face arm leg numb
-  - numbness that resolves
-  - symptoms disappeared now what
-  - mini stroke symptoms
-  - tia symptoms
-  - stroke symptoms come and go
-  - fast test symptoms
-  - sudden weakness or numbness
-  - transient neurological symptoms
-  - recurring numbness episodes
-  - brief numbness episode
-  - sudden facial numbness
-  - arm tingling episode
-  - leg tingling episode
-last_reviewed: "2026-01-17"
+  - "sudden numbness face"
+  - "sudden tingling face"
+  - "arm numbness comes and goes"
+  - "leg numbness comes and goes"
+  - "face arm leg numbness"
+  - "one-sided numbness"
+  - "pins and needles one side"
+  - "numbness that resolves"
+  - "brief numbness episode"
+  - "recurring numbness episodes"
+  - "what do i do if my face is numb"
+  - "what do i do if my arm tingles"
+  - "what do i do if numbness comes back"
+  - "what do i do if symptoms disappeared"
+  - "help i have sudden numbness"
+  - "help i have face tingling"
+  - "help i felt one-sided numbness"
+  - "help i may have had a mini stroke"
+  - "my arm went numb"
+  - "my leg keeps tingling"
+  - "my face arm leg felt numb"
+  - "my stroke symptoms went away"
+  - "face drooping or weakness"
+  - "arm weakness or numbness"
+  - "speech suddenly slurred"
+  - "vision suddenly blurred"
+  - "sudden confusion with numbness"
+  - "severe headache with numbness"
+  - "mini stroke symptoms"
+  - "tia symptoms"
+  - "stroke symptoms come and go"
+  - "pinched nerve or stroke"
+  - "migraine or mini stroke"
+  - "anxiety or stroke symptoms"
+  - "numbnes in face"
+  - "tingly arm sudden"
+  - "symptoms within 24 hours"
+  - "symptoms stopped now"
+last_reviewed: "2026-05-10"
+date_created: "2026-05-10"
 ---
 
 # What to do if… you experience sudden numbness or tingling in your face, arm, or leg that comes and goes (UK)
 
 ## Short answer
-Treat this as a possible stroke or TIA (mini-stroke): call **999** for an ambulance immediately, even if the symptoms have gone (including if they happened within the last 24 hours).
+Treat sudden numbness or tingling in your face, arm, or leg as a possible stroke or TIA. Call 999 for an ambulance now, even if the symptoms have gone or are coming and going.
 
 ## Do not do these things
-- Do not “wait and see” because it improved or comes and goes.
-- Do not drive yourself to A&E, and don’t let someone else drive you unless 999 tells you to.
-- Do not take extra medication (including painkillers or aspirin) unless a clinician/999 adviser tells you to.
-- Do not eat or drink if you’re having swallowing trouble or facial weakness.
-- Do not try to “test” yourself with strenuous activity to see if it comes back.
+- Do not “wait and see” because the symptoms improved or stopped.
+- Do not drive yourself to A&E.
+- Do not let someone else drive you unless 999 tells you to.
+- Do not take extra medication, including aspirin or painkillers, unless a clinician or 999 adviser tells you to.
+- Do not eat or drink if you are having swallowing trouble, facial weakness, or choking.
+- Do not test yourself with strenuous activity to see if symptoms come back.
 
 ## What to do now
-1. **Call 999 and say:** “Possible stroke/TIA. Sudden numbness/tingling in my face/arm/leg that came on suddenly and is/was coming and going.”  
-2. **Note the time** the symptoms first started (and when they stopped, if they did). If it happened in episodes, note the most recent episode time too. This matters for urgent treatment decisions.
-3. **Check for FAST signs** and tell 999 if any apply: facial droop/numbness, arm weakness/numbness, speech problems. **Even if FAST isn’t obvious, sudden numbness/tingling can still be urgent.**
-4. **If you’re alone,** unlock the door, put your phone on speaker, and (if you can) message a neighbour/family member to come sit with you until the ambulance arrives.
-5. **Gather essentials without delaying the ambulance:** NHS number (if known), current medications (or photos of labels), allergies, and any blood-thinner use (for example warfarin, apixaban, rivaroxaban, dabigatran) if applicable.
-6. **Sit somewhere safe** (ideally on the floor or a firm chair) in case symptoms worsen. Avoid stairs, baths, or cooking.
-7. **If symptoms return or change,** tell 999 immediately (new weakness, speech trouble, vision changes, severe headache, confusion, collapse).
+1. Call 999 and say: “Possible stroke or TIA. I had sudden numbness or tingling in my face, arm, or leg. It is or was coming and going.”
+2. Note the time the symptoms first started. If they stopped, note when they stopped. If there have been episodes, note the most recent episode time.
+3. Check for FAST signs and tell 999 if any apply: face drooping or weakness, arm weakness or numbness, or speech problems. Sudden numbness or tingling can still be urgent even if FAST signs are not obvious.
+4. If you are alone, unlock the door, put your phone on speaker, and message a neighbour, family member, or trusted person to come and sit with you until help arrives.
+5. Gather essentials only if this does not delay help: your current medications or photos of labels, allergies, NHS number if known, and any blood-thinner use, such as warfarin, apixaban, edoxaban, rivaroxaban, or dabigatran.
+6. Sit somewhere safe, such as on the floor or a firm chair. Avoid stairs, baths, cooking, driving, or standing for long.
+7. If symptoms return or change, tell 999 immediately. Mention new weakness, speech trouble, vision changes, severe headache, confusion, fainting, collapse, or trouble swallowing.
 
 ## What can wait
-- You do not need to work out whether it was a “mini-stroke,” migraine, pinched nerve, anxiety, or something else right now.
-- You do not need to search your symptoms online, contact your GP first, or decide about tests/treatment today.
-- You do not need to explain everything in detail to multiple people—focus on getting assessed urgently.
+- You do not need to work out whether this is a mini-stroke, migraine, trapped nerve, anxiety, or something else right now.
+- You do not need to search symptoms online or contact your GP before calling 999 if the symptoms are sudden, recent, or happening now.
+- You do not need to decide about scans, medicines, driving, work, or longer-term treatment today.
+- You do not need to explain everything to multiple people. Focus on getting urgent medical advice and staying safe while you wait.
 
 ## Important reassurance
-Symptoms that come and go can still be serious, and getting checked quickly is the safest choice. Many people feel embarrassed calling emergency services when symptoms improve—this is exactly the situation where it’s still appropriate to call.
+You are not wasting anyone’s time by calling 999 for sudden face, arm, or leg numbness that comes and goes. Symptoms that improve can still need urgent assessment, and calling now is the safer first step.
 
 ## Scope note
-These are first steps to keep you safe and get urgent assessment. Decisions about scans, medication, driving, work, or longer-term stroke prevention come after you’ve been assessed.
+These are first steps only, to help you get urgent assessment and avoid risky delays. Later decisions about tests, medication, driving, work, or stroke prevention may need specialist medical advice.
 
 ## Important note
-This guide is general information, not medical advice or a diagnosis. If you have sudden neurological symptoms (even if they resolve), urgent assessment is needed.
+This guide is general information, not medical advice or a diagnosis. If you have sudden neurological symptoms, 999 or a clinician can advise the safest next step.
 
 ## Additional Resources
 - https://www.nhs.uk/conditions/stroke/symptoms/

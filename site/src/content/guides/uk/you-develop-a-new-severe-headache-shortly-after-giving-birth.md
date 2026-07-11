@@ -1,80 +1,94 @@
-﻿---
+---
 title: "What to do if… you develop a new severe headache shortly after giving birth"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
-  - postpartum severe headache
-  - new headache after birth
-  - postnatal headache
-  - worst headache of life
-  - thunderclap headache postpartum
-  - headache that wont go away postpartum
-  - headache with blurred vision
-  - headache with flashing lights
-  - postpartum high blood pressure
-  - postpartum pre-eclampsia signs
-  - postnatal swelling face hands
-  - headache with upper belly pain
-  - headache after epidural
-  - spinal headache after birth
-  - headache worse when standing
-  - postpartum stroke symptoms
-  - postpartum seizure warning signs
-  - severe headache with vomiting postpartum
-  - days after delivery headache
-  - weeks after delivery headache
-last_reviewed: "2026-02-21"
+  - "new severe headache after birth"
+  - "severe headache after giving birth"
+  - "bad headache after birth"
+  - "postnatal severe headache"
+  - "postpartum severe headache"
+  - "new headache after birth"
+  - "headache shortly after birth"
+  - "headache after having baby"
+  - "worst headache after birth"
+  - "thunderclap headache after birth"
+  - "what do i do if postnatal headache"
+  - "what do i do if headache after birth"
+  - "what do i do if headache postpartum"
+  - "what do i do if severe headache"
+  - "help i have postnatal headache"
+  - "help i have severe headache"
+  - "my headache after birth is severe"
+  - "my postnatal headache is worse"
+  - "blurred vision after birth"
+  - "flashing lights headache"
+  - "face hands swelling"
+  - "pain below ribs headache"
+  - "headache worse standing"
+  - "headache better lying flat"
+  - "vomiting with headache after birth"
+  - "numbness with headache after birth"
+  - "headache after epidural"
+  - "spinal headache after birth"
+  - "pre eclampsia headache"
+  - "preclampsia headache"
+  - "headach after birth"
+  - "migraine after birth"
+last_reviewed: "2026-05-09"
+date_created: "2026-05-09"
 ---
 
 # What to do if… you develop a new severe headache shortly after giving birth (UK)
 
 ## Short answer
-Treat a new severe headache after giving birth as urgent. Call your **maternity triage/postnatal ward/community midwife line** now, and call **999** if it’s sudden “worst ever” or comes with vision changes, weakness/numbness, confusion, fainting, seizure, chest pain, or severe breathlessness.
+Treat a new severe headache after giving birth as urgent. Call your maternity triage, postnatal ward, labour ward, or community midwife line now, and call 999 if it came on suddenly and is extremely painful, or if you have vision changes, weakness, numbness, confusion, collapse, seizure, chest pain, or severe breathlessness.
 
 ## Do not do these things
-- Do not “wait and see” if this headache is **new, severe, or rapidly worsening**.
-- Do not drive yourself to hospital if the pain is severe, you feel faint, or you have any neurological symptoms (ask someone else, or use **999** if needed).
-- Do not take extra doses of painkillers above the label dose to “push through” symptoms.
-- Do not assume it’s “just tiredness” if you also have **blurred vision/flashing lights**, swelling, severe nausea/vomiting, or upper abdominal (under-rib) pain.
-- If possible, don’t stay alone caring for the baby if you feel faint, confused, very unwell, or at risk of collapsing. If you are alone, put the baby somewhere safe (cot/Moses basket), sit or lie down, and call for help.
+- Do not wait to see if a new, severe, or rapidly worsening headache settles by itself.
+- Do not drive yourself to hospital if the pain is severe, you feel faint, or you have any neurological symptoms.
+- Do not take extra doses of painkillers above the label dose.
+- Do not assume it is only tiredness if you also have blurred vision, flashing lights, swelling of your face or hands, severe nausea or vomiting, or pain below your ribs.
+- Do not stay alone caring for the baby if you feel faint, confused, very unwell, or at risk of collapsing. Put the baby somewhere safe, such as a cot or Moses basket, then sit or lie down and call for help.
 
 ## What to do now
-1. **Make the urgent contact now (choose the highest urgency that fits):**
-   - **Call 999** if the headache is sudden and extreme (“worst ever”), or you have **vision changes**, **weakness/numbness**, **slurred speech**, **confusion**, **severe drowsiness**, **collapse**, **seizure**, **new severe shortness of breath**, or **chest pain**.
-   - Otherwise, call your **maternity triage / postnatal ward / labour ward** (many provide advice by phone, often 24/7). If you can’t get through quickly, call **NHS 111** or go to **A&E**.
-2. **If you have a home blood pressure monitor, take one reading now** (seated and resting if you can) and write it down. Do not delay seeking help if you can’t take it.
-3. **Say these details clearly (it helps them triage you safely):**
-   - How long since birth (hours/days/weeks)
-   - Sudden onset vs building, and whether it’s getting worse
-   - Any **vision changes**, **swelling (face/hands)**, **upper abdominal/under-rib pain**, **nausea/vomiting**, **shortness of breath**, **chest pain**, **confusion**, **weakness/numbness**, **speech problems**, **fever**, or **neck stiffness**
-   - Any history of **high blood pressure in pregnancy** or pre-eclampsia, or current BP medication
-   - Whether you had an **epidural or spinal**, and whether the headache is **worse sitting/standing and better lying flat**
-4. **Make the next hour safer:**
-   - Ask an adult you trust to be with you and help with the baby.
-   - If you feel faint or “not right,” **lie on your side** and keep your phone in reach.
-   - If you’re being assessed in person, take (or photograph) your **discharge paperwork**, any **BP readings**, and a list of **medicines** taken today.
-5. **If the headache followed an epidural/spinal and improves when you lie flat:** still treat it as urgent. Call your **maternity unit** and say “possible post-spinal/epidural headache” so they can involve the right team.
-6. **If symptoms escalate while you’re waiting/deciding** (vision changes, weakness, confusion, severe breathlessness, chest pain, collapse, seizure): **call 999 immediately**, even if you’ve already called somewhere else.
+1. Choose the safest urgent contact:
+   - Call 999 now if the headache came on suddenly and is extremely painful, or you have vision loss, blurred or double vision, weakness or numbness, slurred speech, confusion, severe drowsiness, collapse, seizure, new severe shortness of breath, or chest pain.
+   - If those 999 symptoms are not present, call the maternity triage, postnatal ward, labour ward, or community midwife number you were given when you left hospital.
+   - If you cannot get through to maternity services quickly, call NHS 111 for urgent advice or go to A&E.
+2. If you have a home blood pressure monitor, take one reading now while seated and resting if you can, then write it down. Do not delay calling for help if you cannot take it.
+3. Tell the clinician these details clearly:
+   - how long it has been since birth, in hours, days, or weeks
+   - whether the headache started suddenly or built up, and whether it is getting worse
+   - whether you have blurred vision, flashing lights, swelling of your face or hands, pain below your ribs, nausea or vomiting, shortness of breath, chest pain, confusion, weakness, numbness, speech problems, fever, or neck stiffness
+   - whether you had high blood pressure, pre-eclampsia, or blood pressure medicine during pregnancy or after birth
+   - whether you had an epidural or spinal, and whether the headache is worse sitting or standing and better lying flat
+4. Make the next hour safer:
+   - Ask another adult to stay with you and help with the baby.
+   - If you feel faint, very unwell, or not right, sit or lie down somewhere safe and keep your phone in reach.
+   - If you are going to be assessed in person, take or photograph your discharge paperwork, blood pressure readings, and a list of medicines taken today.
+5. If the headache followed an epidural or spinal and improves when you lie flat, still treat it as urgent. Call your maternity unit and say you may have a headache after an epidural or spinal so they can involve the right team.
+6. If symptoms escalate while you are waiting, call 999 immediately, even if you have already spoken to another service.
 
 ## What can wait
 - You do not need to work out the cause right now.
-- You do not need to decide about investigations, complaints, or longer-term plans today.
-- You do not need to keep searching online for reassurance—your priority is getting assessed.
-- You do not need to make feeding decisions right now; mention breastfeeding/pumping/formula when you speak to the clinician.
+- You do not need to decide about investigations, complaints, birth reflections, or longer-term plans today.
+- You do not need to keep searching online for reassurance.
+- You do not need to make feeding decisions right now; just mention breastfeeding, expressing, or formula when you speak to the clinician.
 
 ## Important reassurance
-A severe new headache after birth is a common-enough reason to contact maternity services urgently, and you will not be wasting anyone’s time. Getting checked promptly is the safer choice because some serious postpartum problems can start with “just a headache.”
+It is appropriate to ask for urgent help for a new severe headache after birth. Some serious postnatal problems can begin with a headache, and getting checked promptly is the safer choice.
 
 ## Scope note
-This is first-steps guidance for the next minutes to hours. After assessment, you may be given a monitoring plan, treatment, and follow-up through maternity services or your GP.
+This is first-steps guidance for the next minutes to hours. After assessment, later decisions may need help from maternity services, an anaesthetist, your GP, or another specialist.
 
 ## Important note
-This guide is general information, not a diagnosis. If you think you or someone else is in immediate danger or you have severe or rapidly worsening symptoms, call **999**.
+This guide is general information only and is not medical or professional advice. If you think you or someone else is in immediate danger, or symptoms are severe or rapidly worsening, call 999.
 
 ## Additional Resources
-- https://www.nhs.uk/conditions/pre-eclampsia/symptoms/
+- https://www.nhs.uk/conditions/pre-eclampsia/
+- https://www.nhs.uk/conditions/migraine/
+- https://www.nhs.uk/nhs-services/urgent-and-emergency-care-services/when-to-use-111/
 - https://www.blmkhealthiertogether.nhs.uk/wessex-updated-content-jan-2022/headaches-after-you-have-had-your-baby
-- https://www.what0-18.nhs.uk/after-you-have-had-your-baby-2/concerns-about-my-health/headaches-after-you-have-had-your-baby
-- https://www.whittington.nhs.uk/default.asp?c=45215&print=1
-- https://www.stgeorges.nhs.uk/wp-content/uploads/2025/01/ANA_HAC.pdf
+- https://www.labourpains.org/other-resources/headache-after-an-epidural-or-spinal-injection
 - https://www.rcog.org.uk/for-the-public/browse-our-patient-information/pre-eclampsia/

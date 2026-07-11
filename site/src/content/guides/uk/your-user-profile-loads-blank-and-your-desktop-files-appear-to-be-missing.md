@@ -1,93 +1,109 @@
-﻿---
+---
 title: "What to do if… your user profile loads blank and your desktop files appear to be missing"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - blank user profile
-  - profile loads empty
-  - desktop files missing
-  - files disappeared
-  - missing documents folder
-  - missing downloads folder
-  - signed into wrong account
-  - temporary profile windows
-  - new user profile created
-  - onedrive desktop missing
-  - icloud desktop missing
-  - synced folders moved
-  - after update files missing
-  - after restart files missing
-  - ransomware warning screen
-  - suspected malware
-  - cloud sync confusion
-  - windows user folder missing
-  - mac desktop documents gone
-last_reviewed: "2026-03-08"
+  - "blank user profile"
+  - "empty desktop files missing"
+  - "desktop files disappeared"
+  - "documents folder missing"
+  - "downloads folder missing"
+  - "windows profile blank"
+  - "mac desktop missing"
+  - "onedrive desktop gone"
+  - "icloud desktop gone"
+  - "cloud files missing"
+  - "what do i do if desktop files disappeared"
+  - "what do i do if profile is blank"
+  - "what do i do if documents are missing"
+  - "what do i do if onedrive files vanished"
+  - "help i signed into a blank profile"
+  - "help i cannot find desktop files"
+  - "help i see an empty desktop"
+  - "help i think files are gone"
+  - "my desktop files are missing"
+  - "my user profile looks new"
+  - "blank desktop after restart"
+  - "empty documents folder"
+  - "temporary profile warning"
+  - "new looking user account"
+  - "ransom note on screen"
+  - "file names changed suddenly"
+  - "antivirus warning appeared"
+  - "wrong account signed in"
+  - "temporary profile confusion"
+  - "sync folder confusion"
+  - "files moved not deleted"
+  - "after windows update"
+  - "after computer restart"
+last_reviewed: "2026-05-28"
+date_created: "2026-05-28"
 ---
 
 # What to do if… your user profile loads blank and your desktop files appear to be missing (UK)
+
 ## Short answer
-Stop making changes, and first check whether you’re in a temporary/wrong profile or your Desktop/Documents have been redirected into cloud sync. If anything suggests malware/ransomware, disconnect from the internet before you do anything else.
+Stop making changes and first check whether you are in a temporary or wrong profile, or whether Desktop and Documents have been redirected into cloud sync. If you see a ransom note, sudden file-name changes, or security warnings, disconnect the device from the internet before doing anything else.
 
 ## Do not do these things
-- Don’t start “cleaning up” (moving folders, creating lots of new files, reinstalling apps) until you confirm where your original files are.
-- Don’t run “PC cleaner/driver fixer/file recovery” tools you just found online — many are scams and can overwrite recoverable data.
+- Don’t start tidying, moving folders, creating lots of new files, reinstalling apps, or resetting the device before checking where the original files may be.
+- Don’t run “PC cleaner”, “driver fixer”, or file-recovery tools you found in a panic; some are unsafe and some can overwrite recoverable data.
 - Don’t pay a ransom or follow pop-up “support” phone numbers if you see a ransomware-style message.
-- Don’t keep rebooting repeatedly if you’re hearing unusual disk noises or seeing repeated file errors — pause and protect what’s left.
-- Don’t sign out of cloud sync accounts in a panic without first checking whether your files are there (you can accidentally trigger more deletions).
+- Don’t keep rebooting repeatedly if you hear unusual disk noises or see repeated file errors; pause and protect what is left.
+- Don’t sign out of cloud sync accounts in a panic before checking the web version and recycle bin, because sync changes can spread.
 
 ## What to do now
-1. **Pause and preserve what you’re seeing.**  
-   Take photos/screenshots of: the blank desktop, your username at sign-in, any error messages, and the time/date. This helps if you need IT support or to report a cyber incident.
+1. **Pause and preserve what you are seeing.**  
+   Take photos or screenshots of the blank desktop, the username at sign-in, any error messages, any ransom-style note, and the date and time. This gives you a record for IT support, recovery help, or reporting.
 
-2. **If you suspect malware/ransomware, isolate the device first.**  
-   If you saw a ransom note, sudden file extensions changing, or antivirus warnings: disconnect Wi-Fi/Ethernet (and if it’s a work network, tell IT immediately). Avoid plugging in backup drives until you know what’s happening.
+2. **If malware or ransomware is possible, isolate the device first.**  
+   If you saw a ransom note, sudden file extensions changing, unexpected encryption messages, or antivirus warnings, turn off Wi-Fi or unplug Ethernet. Do not plug in backup drives or USB storage. If this is a work, school, or shared organisation device, tell IT or the helpdesk straight away.
 
-3. **Confirm you’re in the right account/profile (a common “blank profile” cause).**  
-   - **Windows:** check the signed-in user name (Start menu / lock screen). If it looks like a new profile or “temporary profile”, your original files may still exist under `C:\Users\` in a different folder name.  
-   - **Mac:** confirm you’re in the correct user account (Apple menu → System Settings → Users & Groups). A “new-looking” desktop can mean you’re in a different account.
+3. **Check whether you are in the right account or a temporary profile.**
+   - **Windows:** check the signed-in username on the Start menu or lock screen. If Windows says it cannot sign in to your account, or the profile looks temporary or newly created, your original files may still be under another folder in `C:\Users\`.
+   - **Mac:** check Apple menu → System Settings → Users & Groups and confirm you are in the expected user account. A new-looking desktop can mean you are in a different account.
 
-4. **Check the most likely “moved, not deleted” places (in this order).**
-   - **Cloud web view first (safer):** sign in via a browser to **OneDrive / iCloud Drive** and look for “Desktop”, “Documents”, or recently moved items.  
-   - **If OneDrive is on your Windows PC:** also check `C:\Users\<your-username>\OneDrive\Desktop` and `C:\Users\<your-username>\OneDrive\Documents` (Desktop can look empty if it’s now the OneDrive version).  
-   - **Recycle/Trash:** check OneDrive Recycle bin (if OneDrive is involved) and your local Recycle Bin/Trash.  
-   - **Local user folder:** look in `C:\Users\<your-username>\Desktop` / `Documents` (Windows) or your home folder (Mac).
+4. **Check the most likely “moved, not deleted” places first.**
+   - Sign in through a browser to OneDrive or iCloud Drive and look for Desktop, Documents, recently moved items, and deleted items.
+   - If OneDrive is used on the Windows PC, check `C:\Users\<your-username>\OneDrive\Desktop` and `C:\Users\<your-username>\OneDrive\Documents`.
+   - Check the local Recycle Bin or Trash.
+   - Check the local user folders: `C:\Users\<your-username>\Desktop`, `C:\Users\<your-username>\Documents`, or your Mac home folder.
 
-5. **If you recently updated Windows, check whether there’s a “previous install” folder.**  
-   If `C:\Windows.old` exists, use File Explorer search inside it for a distinctive missing file name, or for “Desktop” / “Documents”. Don’t delete `Windows.old` while you’re still looking for files.
+5. **If this happened after a Windows update, search before changing anything.**  
+   Use File Explorer to search This PC for a distinctive missing file name. If `C:\Windows.old` exists, search inside it for the missing file name, Desktop, or Documents. Do not delete `C:\Windows.old` while you are still looking.
 
-6. **If OneDrive is in use, use built-in recovery rather than guessing.**  
-   On OneDrive on the web, check the Recycle bin and (if available to you) “Restore your OneDrive” to roll back unwanted mass changes. This is safer than dragging folders around while you’re unsure what happened.
+6. **If OneDrive is involved, use OneDrive’s built-in recovery options rather than dragging folders around.**  
+   In OneDrive on the web, check the Recycle bin and missing-file guidance. If the option is available to your account, “Restore your OneDrive” can roll back unwanted mass changes.
 
-7. **If iCloud “Desktop & Documents” is involved (Mac), check the setting and the iCloud Drive location.**  
-   A change in iCloud Drive’s Desktop/Documents setting can make files *appear* to vanish locally because they’re now in iCloud Drive. Check iCloud Drive settings and look in iCloud Drive for your Desktop/Documents content.
+7. **If iCloud Desktop and Documents is involved, check iCloud Drive before assuming deletion.**  
+   On a Mac, a change to iCloud Drive Desktop and Documents can make files appear missing locally because they are shown through iCloud Drive. Check iCloud Drive in Finder and on the web for the Desktop and Documents folders.
 
-8. **If this is a work/school device, stop and escalate internally.**  
-   Don’t try “fixes” that could destroy evidence or make recovery harder. Contact your IT/helpdesk and tell them it looks like a profile load issue and/or missing redirected folders.
+8. **If this is a work, school, or managed device, stop DIY fixes and escalate internally.**  
+   Tell IT that the device loaded a blank or temporary-looking profile and that Desktop or Documents may be missing or redirected. Avoid registry edits, system resets, or recovery tools unless they ask you to use them.
 
-9. **If you think this was a cyber attack (not just sync/profile confusion), report it to the right place.**  
-   - If you’ve lost money, handed over passwords, or think this is linked to fraud: report via **Action Fraud** (England/Wales/Northern Ireland) or **Police Scotland** (if in Scotland).  
-   - If this affects an organisation, is ongoing, or is significant, follow internal incident reporting and consider reporting via the **NCSC** cyber incident reporting service.
+9. **If this looks like cyber crime or fraud, report through the right UK route.**  
+   If you have lost money, shared details, been hacked, or think fraud or cyber crime is involved, use Report Fraud if you are in England, Wales, or Northern Ireland. If you are in Scotland, contact Police Scotland by calling 101. If an organisation is affected, the incident is ongoing, or the impact is significant, also follow internal incident reporting and use the NCSC cyber incident reporting route.
 
 ## What can wait
-- You don’t need to decide today whether you’ll use paid recovery services.
-- You don’t need to reinstall Windows/macOS or “reset the PC” right now — that can reduce recovery options.
-- You don’t need to change every password immediately until you confirm whether this was a sync/profile issue vs. a security incident (but do avoid logging into sensitive accounts on the affected device if you suspect malware).
+- You do not need to decide now whether to pay for recovery services.
+- You do not need to reinstall Windows, reinstall macOS, or reset the device right now; that can reduce recovery options.
+- You do not need to change every password before checking whether this is a profile or sync issue. If you suspect account compromise or malware, change important passwords from a different, trusted device.
 
 ## Important reassurance
-This exact “everything looks blank” moment is often caused by signing into a different/temporary profile or by cloud sync redirecting Desktop/Documents — not instant permanent deletion. Going slowly and checking the common “moved” locations first gives you the best chance of getting everything back.
+A blank-looking desktop often means the computer has loaded the wrong profile, a temporary profile, or a cloud-synced Desktop or Documents location. Going slowly and checking the common moved locations first gives you a better chance of finding the files without making recovery harder.
 
 ## Scope note
-This is first steps only to stabilise the situation and prevent irreversible mistakes. Deeper recovery depends on whether this is a profile corruption, sync misconfiguration, an update side-effect, disk failure, or malware.
+These are first steps only to stabilise the situation and prevent irreversible mistakes. Later decisions may need specialist IT, cyber security, data recovery, employer, or reporting support.
 
 ## Important note
-This is general information, not professional IT or legal advice. If you suspect malware/ransomware or this involves an employer/organisation, prioritise isolation and official/internal reporting over DIY fixes.
+This is general information, not professional IT, legal, financial, cyber security, or recovery advice. If malware, ransomware, employer data, or an organisation’s device may be involved, prioritise isolation and official or internal reporting over DIY fixes.
 
 ## Additional Resources
 - https://support.microsoft.com/en-gb/office/restore-your-onedrive-fa231298-759d-41cf-bcd0-25ac53eb8a15
 - https://support.microsoft.com/en-gb/office/find-lost-or-missing-files-in-onedrive-0d929e0d-8682-4295-982b-4bd75a3daa01
+- https://support.microsoft.com/en-gb/windows/-we-can-t-sign-in-to-your-account-error-message-3e08c5c8-92cc-48dc-80a4-f66d072c6edb
 - https://support.apple.com/en-gb/109344
 - https://www.ncsc.gov.uk/section/respond-recover/ml-ransomware-attack
 - https://report.ncsc.gov.uk/
-- https://www.dell.com/support/kbdoc/en-uk/000134012/windows-10-reports-you-are-on-a-temporary-profile
 - https://www.reportfraud.police.uk/
+- https://www.scotland.police.uk/advice/cybercrime/

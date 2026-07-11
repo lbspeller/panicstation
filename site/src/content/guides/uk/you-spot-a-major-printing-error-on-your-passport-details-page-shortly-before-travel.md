@@ -1,69 +1,84 @@
-﻿---
+---
 title: "What to do if… you spot a major printing error on your passport details page shortly before travel"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
-  - passport printing error
-  - passport details page mistake
-  - passport biodata page error
-  - passport name misspelt
-  - wrong date of birth passport
-  - wrong place of birth passport
-  - wrong sex marker passport
-  - wrong nationality passport
-  - incorrect passport number
-  - passport photo wrong
-  - passport issued with error
-  - faulty passport just arrived
-  - travel soon passport incorrect
-  - flying tomorrow passport typo
-  - airline check in name mismatch
-  - urgent passport appointment
-  - urgent services passport uk
-  - emergency travel document uk
-  - passport correction before trip
-  - last minute passport problem
-last_reviewed: "2026-03-07"
+  - "passport printing error"
+  - "passport details page error"
+  - "passport details page wrong"
+  - "major passport error"
+  - "passport identity details wrong"
+  - "passport biodata page error"
+  - "passport printed wrong"
+  - "passport issued with mistake"
+  - "passport photo wrong"
+  - "passport name misspelt"
+  - "wrong birth date passport"
+  - "wrong passport number"
+  - "wrong nationality passport"
+  - "what do i do if passport has error"
+  - "what do i do if passport details wrong"
+  - "what do i do if passport name wrong"
+  - "what do i do if passport photo wrong"
+  - "help i found passport error"
+  - "help i travel soon passport wrong"
+  - "help i have wrong passport details"
+  - "my passport has a typo"
+  - "my passport details page is wrong"
+  - "my passport does not match booking"
+  - "airline name mismatch passport"
+  - "visa passport number mismatch"
+  - "passport typo before flight"
+  - "passport error before travel"
+  - "passport mistake shortly before travel"
+  - "passport mispelt name"
+  - "pasport details wrong"
+  - "uk passport printing error"
+  - "travel soon passport problem"
+last_reviewed: "2026-05-21"
+date_created: "2026-05-21"
 ---
 
 # What to do if… you spot a major printing error on your passport details page shortly before travel (UK)
+
 ## Short answer
-Treat this as urgent: contact HM Passport Office immediately (by phone if your travel is soon) and ask what to do for your specific travel date. Avoid travelling on a passport whose key identity details don’t match your booking and any visa/permission to travel.
+Contact HM Passport Office straight away and say you have found an error on a newly issued passport and you have travel booked soon. If the details page does not match your identity, booking, visa, or permission to travel, do not assume you can travel on it.
 
 ## Do not do these things
-- Do not write on, alter, laminate, tape, or “repair” the passport yourself.
-- Do not send your passport anywhere unless you are following HM Passport Office’s official instructions (for example via the Passport Adviceline/online enquiry/urgent services flow).
-- Do not assume an airline will accept a mismatch between your passport details and your booking/visa/permission to travel.
-- Do not pay for unofficial “passport help” sites found via ads or search results that are not HM Passport Office.
-- Do not cancel the whole trip yet if there is still time to switch to an urgent replacement route.
+- Do not write on, alter, laminate, tape, or try to repair the passport.
+- Do not post the passport anywhere until HM Passport Office tells you exactly where and how to send it.
+- Do not pay for an unofficial passport-help site.
+- Do not pay for a new urgent passport application unless HM Passport Office tells you that is the right route for your case.
+- Do not assume an airline, border officer, visa system, or permission-to-travel system will accept a mismatch.
+- Do not cancel the whole trip yet if there may still be time for HM Passport Office to give you an urgent route.
 
 ## What to do now
-1. **Confirm it’s a major error (60 seconds):** compare the passport details page to (a) your booking, (b) any visa/permission to travel you applied for, and (c) another ID document if you have one. Major problems include wrong name spelling, date of birth, nationality, sex marker, passport number, or photo.
-2. **Capture proof (fast):** take clear photos of the details page and the page showing issue information, plus your travel booking confirmation and any visa/permission-to-travel confirmation. Email copies to yourself so you can access them if your phone dies.
-3. **Contact HM Passport Office the right way for your timeline:**  
-   - **If travel is imminent:** call the **Passport Adviceline** rather than relying on the online enquiry route (which is typically answered within 72 hours).  
-   - If you have a little more time, you can also use web chat/online enquiry, but keep calling as your primary urgent route.
-4. **Ask specifically about the fastest official option for an error:**  
-   - If you are **in the UK**, ask whether you should use the GOV.UK **urgent services** booking flow (eligibility questions → appointment at a passport office) versus a fault-replacement process they may apply to your case.  
-   - If you are **already abroad** and cannot travel on the passport, ask whether a UK **Emergency Travel Document (ETD)** is appropriate for your route.
-5. **Do not create new mismatches while you wait for HMPO’s instruction:** don’t rush to change your airline booking name or redo visa/permission-to-travel details until you know whether you’ll be travelling on a corrected/replaced passport (and whether the passport number will change).
-6. **If HMPO tell you to return the faulty passport, follow their method exactly:** use the return channel they specify, send it securely/tracked, and keep tracking + any reference numbers.
-7. **Check airline/document requirements once you have a plan:** after HMPO confirms your path (urgent appointment, replacement, or ETD), contact your airline and ask what exact document details must match for check-in/boarding on your route. If an ETD is involved, ask about acceptance for your destination and any transit points.
+1. **Check the error against your travel documents.** Compare the passport details page with your booking, any visa or permission to travel, and another ID document if you have one. Major errors include the wrong name spelling, date of birth, place of birth, nationality, sex marker, passport number, or photo.
+2. **Keep quick evidence ready.** Take clear photos of the details page, the page showing issue information, your booking confirmation, and any visa or permission-to-travel confirmation. Save copies somewhere you can access if your phone battery dies.
+3. **Call the Passport Adviceline if travel is close.** Say: “My UK passport has been issued with an error on the details page, and I have travel booked on [date]. I need to know the correct urgent error-replacement route.” If your travel is in the next 2 weeks, say that clearly.
+4. **Use online contact only as a backup for urgent travel.** GOV.UK says the online enquiry form gets a reply within 72 hours, so phone is usually the safer first route when travel is very soon.
+5. **Ask which official route applies before paying or reapplying.** Ask whether HM Passport Office will handle this as an error replacement, an urgent counter appointment, a gratis replacement, a paid urgent service, or another route. Ask what evidence to bring or upload, and whether the old passport number will be cancelled or replaced.
+6. **If HM Passport Office tells you to attend an appointment, bring the key proof.** Take the passport with the error, your travel booking or arrangements, any visa or permission-to-travel confirmation, and any evidence that shows the correct details.
+7. **If HM Passport Office tells you to return the passport, follow their exact method.** Use the return address and postage method they give you. Keep proof of posting, tracking, reference numbers, and any message from HM Passport Office.
+8. **If you are already abroad, ask about an Emergency Travel Document.** This may be relevant if you are outside the UK, need to travel urgently, cannot use or replace your UK passport before travel, and your route can accept the document. Check the destination and any transit countries before relying on it.
+9. **Do not create new mismatches while waiting for instructions.** Do not rush to change your airline booking, visa, or permission-to-travel details until you know whether you will travel on the corrected passport, a replacement passport, or an Emergency Travel Document.
+10. **Once you have the HM Passport Office plan, check with the airline.** Ask what exact document details must match for check-in and boarding on your route, including any visa, electronic travel authorisation, or transit requirement.
 
 ## What can wait
-- Complaints, compensation, and reimbursement discussions.
-- Changing non-essential itinerary items (hotels, activities) until you know whether you’ll have a usable document in time.
+- A formal complaint about how the error happened.
+- Compensation, reimbursement, or refund discussions.
+- Changing hotels, activities, or non-essential travel plans.
 - Updating frequent flyer profiles or other accounts.
-- Reapplying for future visas/permissions (unless an existing application is blocked by the incorrect passport number—raise that after you’ve confirmed the replacement plan).
+- Reapplying for future visas or permissions, unless HM Passport Office or the visa authority tells you the current application cannot be used.
 
 ## Important reassurance
-Finding a printing error close to travel is stressful, but the situation is usually manageable when you move quickly through the **official** channels. The biggest time-saver is getting HM Passport Office to confirm the correct urgent route for your exact dates.
+A serious passport printing error close to travel is stressful, but it is exactly the kind of problem where a fast call through the official route can prevent avoidable mistakes. The main thing is to get HM Passport Office to confirm the correct route before you post the passport, pay again, or change travel records.
 
 ## Scope note
-These are first steps for the next few hours to prevent irreversible mistakes and protect your ability to travel. Later steps (complaints, refund attempts, re-linking visas/permissions to a new passport) can wait until you have a usable document.
+These are first steps only, to stabilise the situation and protect your options for the next few hours. Later decisions about complaints, refunds, visa records, or rearranged travel may need specialist help.
 
 ## Important note
-This is general information, not legal advice. Passport handling and airline acceptance can vary by route and carrier; follow HM Passport Office instructions and confirm requirements with your airline for your specific journey.
+This is general information, not legal, financial, travel-agent, or professional advice. Passport replacement, airline acceptance, visas, and Emergency Travel Document use can depend on your exact route and timing, so follow HM Passport Office instructions and check requirements for your journey.
 
 ## Additional Resources
 - https://www.gov.uk/passport-advice-line

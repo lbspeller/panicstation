@@ -1,76 +1,85 @@
-﻿---
+---
 title: "What to do if… you have sudden severe ear pain with fever and swelling behind the ear"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
-  - severe ear pain and fever
-  - swelling behind ear
-  - pain behind ear bone
-  - ear infection complications
-  - mastoiditis warning signs
-  - ear sticking out swelling
-  - sudden earache with temperature
-  - ear pain worse quickly
-  - discharge from ear and fever
-  - headache with ear pain
-  - hearing loss with earache
-  - child ear pain both ears
-  - adult severe earache fever
-  - redness behind the ear
-  - tender lump behind ear
-  - facial weakness with ear pain
-  - dizziness vomiting ear infection
-  - ear swelling after cold
-  - middle ear infection severe
-  - pain around ear and swelling
-last_reviewed: "2026-02-21"
+  - "severe ear pain fever"
+  - "swelling behind ear"
+  - "pain behind ear bone"
+  - "ear pain with fever"
+  - "ear swelling and fever"
+  - "earache with swelling behind ear"
+  - "ear sticking out swelling"
+  - "redness behind the ear"
+  - "tender lump behind ear"
+  - "sudden severe earache"
+  - "what do i do if ear hurts"
+  - "what do i do if ear is swollen"
+  - "what do i do if earache is severe"
+  - "what do i do if fever with ear pain"
+  - "help i have ear pain"
+  - "help i have swelling behind ear"
+  - "help i have earache and fever"
+  - "help i think my ear is infected"
+  - "my ear hurts badly"
+  - "my child has ear pain"
+  - "my ear is sticking out"
+  - "high temperature with earache"
+  - "hearing loss with earache"
+  - "discharge from ear and fever"
+  - "dizziness vomiting ear pain"
+  - "headache with ear pain"
+  - "ear infection getting worse"
+  - "ear ache fever"
+  - "earake with swelling"
+  - "fever sweling behind ear"
+last_reviewed: "2026-05-13"
+date_created: "2026-05-13"
 ---
 
 # What to do if… you have sudden severe ear pain with fever and swelling behind the ear (UK)
 
 ## Short answer
-Treat this as urgent: get same-day medical assessment now (A&E / Urgent Treatment Centre, or NHS 111 for urgent direction). Fever plus swelling behind the ear can signal a serious complication that needs prompt treatment.
+Treat severe ear pain with fever and swelling or tenderness behind the ear as urgent. Contact the urgent NHS advice service for where you are now, or ask for an urgent GP appointment today.
 
 ## Do not do these things
-- Do not “wait it out” overnight or through the weekend if you have fever and swelling behind the ear.
-- Do not put cotton buds, fingers, or any objects into the ear, and do not try to drain it yourself.
+- Do not wait overnight or through the weekend if there is fever with swelling or tenderness behind the ear.
+- Do not put cotton buds, fingers, tissue, or any object inside the ear.
+- Do not try to drain swelling, pus, or fluid yourself.
 - Do not use leftover antibiotics or someone else’s antibiotics.
-- Do not use ear drops if you might have a perforated eardrum (for example, sudden drainage with a sharp pain) unless a clinician has told you to.
-- Do not take more than the label dose of painkillers, and do not take aspirin if you’re under 16.
+- Do not start ear drops unless a pharmacist or clinician says they are suitable for you.
+- Do not take more than the packet dose of paracetamol or ibuprofen, and do not give aspirin to anyone under 16.
 
 ## What to do now
-1. **Get urgent in-person assessment today.**  
-   - **Go to A&E / an Urgent Treatment Centre now** if you feel very unwell, the swelling is increasing, you have severe headache, neck stiffness, confusion, fainting, a new rash, facial weakness, or severe dizziness/vomiting.  
-   - If you’re unsure where to go, **contact NHS 111 now** and tell them: **severe ear pain + fever + swelling/tenderness behind the ear**.
-2. **If it’s a child, do not delay.** Fever with swelling behind the ear in a child needs urgent assessment; if they are drowsy, floppy, struggling to stay awake, or you can’t keep fluids down, go to A&E.
-3. **Use safe pain/fever relief while you arrange care.**  
-   - Use **paracetamol** or **ibuprofen** if you can take them, following the packet instructions (and any medical advice you’ve previously been given).  
-   - Keep a note of what you took and when, to tell the clinician.
-4. **Keep the ear protected and simple.**  
-   - If there is discharge, **wipe only the outside** with clean tissue/gauze.  
-   - Avoid getting water into the ear (no swimming; keep showers brief and don’t aim water at the ear).
-5. **Prepare key details for the clinician (takes 2 minutes).**  
-   - When symptoms started, highest temperature, whether hearing changed, any discharge, and whether the ear is being pushed forward by swelling.  
-   - List allergies, regular medicines, and any immune problems (including recent chemotherapy/steroids).
+1. Contact urgent medical help now. Ask for an urgent GP appointment or use the urgent NHS advice route for where you are. In England, use NHS 111 online or call 111; in Wales, use NHS 111 Wales or call 111; in Scotland, call NHS 24 on 111; in Northern Ireland, use GP out of hours or Phone First if available in your area.
+2. Say clearly: “severe ear pain, fever, and swelling or tenderness behind the ear.” Also say if the ear looks pushed forward, there is discharge, hearing has changed, or the pain is getting worse quickly.
+3. Call 999 if symptoms seem life-threatening, such as collapse, being unconscious or very hard to wake, a seizure, or serious difficulty breathing.
+4. If it is a child, seek urgent help now rather than watching and waiting. Tell the clinician if the child is unusually sleepy, floppy, not drinking, vomiting repeatedly, or the ear looks pushed forward by swelling.
+5. Use pain and fever relief while arranging care, if it is safe for you. Paracetamol or ibuprofen may help; follow the packet instructions and keep a note of what was taken and when.
+6. Keep the ear simple and protected. If there is discharge, wipe only the outside of the ear with clean tissue or gauze; do not push anything into the ear canal. Avoid swimming and try not to get water or shampoo into the ear.
+7. Gather the details a clinician will ask for. Note when the pain, fever, swelling, discharge, dizziness, vomiting, hearing change, or headache started, and list allergies, regular medicines, diabetes, immune problems, recent chemotherapy, or steroid treatment.
 
 ## What can wait
-- You do not need to decide “what it is” or whether you need antibiotics—focus on being assessed urgently.
-- You do not need to clean the ear canal, use drops, or try home remedies right now.
-- You can deal later with work/school notes, travel plans, and follow-up appointments after you’ve been seen.
+- You do not need to decide what the diagnosis is right now.
+- You do not need to decide whether antibiotics are needed before you are assessed.
+- You do not need to clean the ear canal, try home remedies, or buy ear drops before speaking to a pharmacist or clinician.
+- Work, school, travel, and routine follow-up arrangements can wait until you have urgent medical advice.
 
 ## Important reassurance
-It’s common to feel alarmed by this combination of symptoms. Getting checked urgently is the right move and is exactly what urgent care services are for—especially when swelling appears behind the ear.
+This combination of symptoms can feel frightening, especially when swelling appears behind the ear. The useful next step is simple: get urgent same-day medical direction and avoid poking, draining, or treating the ear on your own.
 
 ## Scope note
-This is first-steps-only guidance for the next few hours. Ear infections and their complications need in-person assessment; treatment plans vary depending on what the clinician finds.
+These are first steps only for the next few hours. Ear infections and possible complications need in-person assessment, and later decisions may need help from a GP, urgent care clinician, or ear, nose, and throat specialist.
 
 ## Important note
-This is general information, not a diagnosis. Fever with swelling/tenderness behind the ear needs urgent same-day medical assessment. If you have life-threatening symptoms (such as severe confusion, collapse, seizure, or breathing difficulty), call **999**; otherwise use **A&E / an Urgent Treatment Centre** or **NHS 111** for urgent direction.
+This is general information, not medical advice, diagnosis, or a substitute for urgent care. If symptoms seem life-threatening, call 999; otherwise contact the urgent NHS advice service for where you are now or ask for an urgent GP appointment today.
 
 ## Additional Resources
 - https://www.nhs.uk/conditions/mastoiditis/
 - https://www.nhs.uk/symptoms/earache/
 - https://www.nhs.uk/conditions/ear-infections/
-- https://111.wales.nhs.uk/earinfection/
-- https://www.nhsinform.scot/illnesses-and-conditions/ears-nose-and-throat/middle-ear-infection-otitis-media/
-- https://www.swlondon-healthiertogether.nhs.uk/professionals/gp-primary-care-staff/safety-netting-documents-parents/earache-following-remote-assessment
+- https://www.nhs.uk/nhs-services/urgent-and-emergency-care-services/when-to-use-111/
+- https://www.nhs.uk/nhs-services/urgent-and-emergency-care-services/when-to-call-999/
+- https://www.nhs24.scot/
+- https://111.wales.nhs.uk/
+- https://www.nidirect.gov.uk/articles/urgent-and-emergency-care-services

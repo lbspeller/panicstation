@@ -1,74 +1,96 @@
-﻿---
+---
 title: "What to do if… you are asked to write an obituary or public notice and you are not ready"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
-  - asked to write an obituary
-  - not ready to write obituary
-  - pressured to publish notice
-  - death notice vs obituary
-  - public notice after death
-  - legal notice after death
-  - estate notice request
-  - funeral notice wording
-  - writing about someone who died
-  - grieving and overwhelmed
-  - family asking for obituary
-  - newspaper notice deadline
-  - who should write obituary
-  - what to include in obituary
-  - what not to include obituary
-  - privacy in death notice
-  - identity fraud after death
-  - obituary scam concerns
-  - can't face writing tribute
-last_reviewed: "2026-02-23"
+  - "asked to write obituary"
+  - "asked to write public notice"
+  - "not ready to write obituary"
+  - "not ready for public notice"
+  - "pressured to write obituary"
+  - "pressured to publish notice"
+  - "family wants obituary"
+  - "death notice confusion"
+  - "obituary public notice confusion"
+  - "estate notice confusion"
+  - "what do i do if asked to write obituary"
+  - "what do i do if family wants obituary"
+  - "what do i do if public notice needed"
+  - "what do i do if obituary feels too hard"
+  - "help i cannot write obituary"
+  - "help i feel pressured to publish notice"
+  - "help i am not ready"
+  - "help i need death notice wording"
+  - "my family wants an obituary"
+  - "my obituary deadline is today"
+  - "my public notice feels urgent"
+  - "my grief makes writing impossible"
+  - "shaking while writing obituary"
+  - "crying over public notice"
+  - "blank mind after death"
+  - "scared to publish details"
+  - "unsure what to say"
+  - "worried about wrong wording"
+  - "death notice vs obituary"
+  - "obituary or funeral notice"
+  - "public notice or estate notice"
+  - "newspaper notice or tribute"
+  - "private funeral notice"
+  - "executor asked for notice"
+  - "obiturary deadline panic"
+  - "public notise pressure"
+last_reviewed: "2026-05-04"
+date_created: "2026-05-04"
 ---
 
 # What to do if… you are asked to write an obituary or public notice and you are not ready (UK)
 
 ## Short answer
-Pause the task and confirm what kind of notice is actually needed (obituary/tribute, a short death notice, or an estate-related legal notice), then buy time by submitting a minimal “holding” notice or delegating the first draft.
+Pause before publishing anything. First confirm whether this is an obituary or tribute, a short funeral or death notice, or a deceased estates notice, because only some notices are time-sensitive and you may not be the right person to write them.
 
 ## Do not do these things
-- Do not agree to a deadline you can’t meet just to stop the pressure.
-- Do not publish unnecessary personal identifiers (for example: full home address, full date of birth, or details that could help fraudsters).
-- Do not include cause of death, circumstances, or family conflict if you’re unsure or the family hasn’t agreed.
-- Do not assume “public notice” means you personally must do it (often a funeral director, solicitor, or the executor can handle it).
-- Do not respond to unexpected calls/emails from “newspapers”, “printers”, or “official services” asking for urgent payment without verifying independently.
+- Do not agree to a deadline you cannot manage just to stop the pressure.
+- Do not publish unnecessary personal details, such as a full home address, full date of birth, financial details, or anything that could help someone impersonate the person who died.
+- Do not include cause of death, circumstances, family conflict, or private information unless the people with authority to approve it have clearly agreed.
+- Do not assume “public notice” means you personally must write or place it.
+- Do not pay or give personal details to anyone who contacts you unexpectedly about publishing, proofing, printing, or fees until you have checked them through a contact route you found yourself.
+- Do not try to settle family disagreements in the wording today.
 
 ## What to do now
-1. **Ask one clarifying question in writing:** “Do you mean (a) an obituary/tribute, (b) a short death notice with funeral details, or (c) an estate-related legal notice?”  
-   This separates an optional tribute from something time-sensitive.
-2. **Buy time immediately:** reply with a simple boundary like: “I can’t draft this today. I can send a short notice now and a fuller obituary later.”  
-   If there’s a deadline, ask for an extension.
-3. **If it’s a newspaper/funeral notice:** choose the smallest workable version today.  
-   Use only: name, town, and *either* “private funeral” or “funeral details to follow / enquiries to [funeral director]”. (You can add age if the family wants.)
-4. **If it might be an estate-related legal notice:** stop and route it to the right person.  
-   In the UK, you may hear this described as a “deceased estates notice” (sometimes linked to Trustee Act section 27 and placed via The Gazette). If you’re not the executor/personal representative (or you’re unsure who is), forward the request to whoever is handling probate or the solicitor and do not guess the wording or timing.
-5. **Delegate the drafting, keep control of approval:** ask a funeral director, trusted friend, or another family member to produce a first draft from facts only. You only approve/trim—no need to create from scratch.
-6. **Create a “facts pack” (5 minutes):** open a note and list only what you’re confident about (full name, preferred name, town, key relatives by relationship, funeral director contact). Mark anything uncertain as “TBC”.
-7. **Protect yourself from scams while you’re vulnerable:** if anyone contacts you about publishing, proofing, or fees, pause and verify using an official phone number you find yourself (not the one in the message).
+1. **Ask what kind of notice this is.** Send one written question: “Do you mean an obituary or tribute, a short funeral or death notice, or a deceased estates notice?” This separates an emotional writing task from a legal or estate-administration task.
+
+2. **Buy time with a clear boundary.** Use a short reply such as: “I cannot write a full obituary today. I can help confirm basic facts, or someone else can draft it for approval.” If there is a newspaper or funeral director deadline, ask what the latest safe time is for the shortest possible notice.
+
+3. **If it is a funeral or newspaper notice, use the smallest agreed wording.** Ask the funeral director or newspaper what fields are required. Keep it to basic agreed details, such as the name the person used, a short announcement of the death, and either “private funeral”, “funeral details to follow”, or “enquiries to the funeral director” if that is accurate.
+
+4. **If it is a deceased estates notice, do not guess the wording.** These notices are usually handled by the executor, personal representative, solicitor, or the person dealing with probate. Forward the request to that person and say: “I am not sure I have authority to place this, so please handle or confirm the exact wording.”
+
+5. **Check whether The Gazette is involved.** Deceased estates notices are placed through The Gazette, and the process can involve a grant of probate, letter of administration, or death certificate. If you are not handling the estate, this is a reason to step back, not a reason to rush.
+
+6. **Delegate the first draft.** Ask a funeral director, trusted friend, or another family member to make a facts-only draft. Your job can be limited to checking names, dates, and anything you want removed.
+
+7. **Make a five-minute facts note.** Write only what you are confident about: full name, preferred name, age if the family wants it included, funeral director contact, and any wording already agreed. Mark anything uncertain as “check first”.
+
+8. **Verify any payment request independently.** If someone asks for money or urgent approval, do not use the phone number or link in the message. Find the newspaper, funeral director, solicitor, or The Gazette contact details yourself and check before paying.
 
 ## What can wait
-- You do not have to decide the “perfect wording”, tone, or life story today.
-- You do not have to include achievements, cause of death, or detailed family information right now (or at all).
-- You do not have to handle estate-related notices personally if an executor/solicitor can do it.
-- You do not have to respond to everyone’s edits immediately—collect suggestions in one place and review later.
+- You do not have to write the perfect tribute today.
+- You do not have to include achievements, personality, cause of death, family history, or a life story now, or at all.
+- You do not have to decide who is “right” in a family wording dispute before sending a minimal notice.
+- You do not have to handle an estate-related notice yourself if the executor, personal representative, or solicitor can do it.
+- You do not have to answer everyone’s edits immediately. Put suggestions in one place and review them later.
 
 ## Important reassurance
-Not being ready is a normal grief response. Avoiding this today does not mean you loved them less—it means you’re protecting yourself from making a rushed, irreversible public statement.
+Not being ready to write publicly about someone’s death is a normal response to grief and shock. A short, careful notice is enough for now if a notice is genuinely needed; a fuller obituary or tribute can usually come later.
 
 ## Scope note
-These are first steps to reduce pressure and prevent mistakes. If this becomes a dispute (family conflict, money, or who has authority), it may need help from a solicitor or the person formally responsible for the estate.
+These are first steps to reduce pressure, avoid unnecessary disclosure, and prevent rushed public wording. Later decisions about probate, estate notices, newspaper publication, family disagreement, or suspected fraud may need help from the executor, personal representative, solicitor, funeral director, newspaper, or a fraud-reporting service.
 
 ## Important note
-This is general information, not legal advice. Processes vary depending on whether the request is a simple notice, a newspaper obituary, or an estate-related notice. If you’re unsure what you’re being asked to publish, slow down and confirm before sharing details publicly.
+This is general information, not legal, financial, bereavement, therapeutic, or professional advice. Processes can vary depending on whether the request is for a tribute, a funeral notice, a newspaper notice, or an estate-related notice, so confirm the type of notice before publishing or paying for anything.
 
 ## Additional Resources
 - https://www.gov.uk/after-a-death
-- https://www.thegazette.co.uk/all-notices/content/103403
 - https://www.thegazette.co.uk/wills-and-probate/place-a-deceased-estates-notice
-- https://www.legislation.gov.uk/ukpga/Geo5/15-16/19/section/27
-- https://www.acas.org.uk/time-off-for-bereavement
-- https://www.ataloss.org/resources-listings/protecting-against-identity-fraud
+- https://ico.org.uk/for-the-public/identity-theft/
+- https://www.reportfraud.police.uk/identity-fraud-and-identity-theft/

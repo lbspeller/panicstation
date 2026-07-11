@@ -1,96 +1,125 @@
-﻿---
+---
 title: "What to do if… your browser bookmarks, history, or extensions disappear after an update"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
-  - bookmarks disappeared after update
-  - browser bookmarks missing
-  - browser history missing
-  - extensions disappeared
-  - chrome bookmarks gone
-  - edge favorites missing
-  - firefox bookmarks missing
-  - new browser profile appeared
-  - signed out of browser sync
-  - sync overwrote bookmarks
-  - browser reset after update
-  - lost saved passwords and history
-  - bookmarks bar empty
-  - extensions disabled after update
-  - missing favorites after update
-  - browser data seems wiped
-  - profile switched to guest mode
-  - bookmarks not showing but still exist
-  - after update everything reset
-last_reviewed: "2026-03-08"
+  - "browser bookmarks disappeared after update"
+  - "browser bookmarks missing"
+  - "browser history missing"
+  - "browser extensions disappeared"
+  - "bookmarks history extensions missing"
+  - "favorites disappeared after update"
+  - "browser data disappeared"
+  - "browser profile changed"
+  - "browser sync looks empty"
+  - "browser reset after update"
+  - "what do i do if bookmarks disappeared"
+  - "what do i do if history disappeared"
+  - "what do i do if extensions vanished"
+  - "what do i do if browser reset"
+  - "help i lost my bookmarks"
+  - "help i lost browser history"
+  - "help i lost browser extensions"
+  - "help i opened an empty browser"
+  - "my bookmarks are gone"
+  - "my browser history is gone"
+  - "my extensions are missing"
+  - "my favorites disappeared"
+  - "bookmarks bar is empty"
+  - "browser signed me out"
+  - "new browser profile appeared"
+  - "guest profile opened"
+  - "sync overwrote bookmarks"
+  - "bookmarks not showing"
+  - "favorites not showing"
+  - "browser data wiped"
+  - "saved passwords missing"
+  - "managed extensions disabled"
+  - "bookmaks disappeared"
+  - "brower history missing"
+last_reviewed: "2026-06-26"
+date_created: "2026-06-26"
 ---
 
 # What to do if… your browser bookmarks, history, or extensions disappear after an update (USA)
+
 ## Short answer
-Pause and avoid reinstalling or “resetting” the browser. First confirm you’re using the correct browser profile and that sync hasn’t swapped you to an empty or older copy.
+Pause before reinstalling, resetting, or clearing anything. First check whether the browser opened the wrong profile, signed you out, or synced to an empty copy.
 
 ## Do not do these things
-- Don’t uninstall/reinstall the browser yet (it can overwrite local recovery files).
-- Don’t use “Reset settings”, “Refresh”, or “new profile” as your first move.
-- Don’t repeatedly toggle sync across multiple devices (it can spread the wrong version everywhere).
-- Don’t run “cleanup” utilities that delete browser data/profiles right now.
-- Don’t start installing random “recovery extensions” (they can add risk when you’re stressed).
+- Don’t uninstall or reinstall the browser yet unless official support or trusted IT support tells you to.
+- Don’t use “Reset settings”, “Refresh”, “Delete profile”, or “new profile” as your first move.
+- Don’t repeatedly turn sync on and off across multiple devices while you are unsure which device has the correct copy.
+- Don’t clear history, cache, site data, or browser storage right now.
+- Don’t run cleanup utilities that remove browser profiles or “unused” browser data.
+- Don’t install random recovery extensions or tools while you are stressed.
 
 ## What to do now
-1. **Stabilize (one minute).**
-   - Stop clicking around. Don’t clear cache/history.
-   - Close extra browser windows to reduce accidental changes.
+1. **Stabilize the browser.**
+   - Stop changing settings for a moment.
+   - Leave the browser installed.
+   - Close extra browser windows, but keep one window open if you can do that without changing anything.
 
-2. **Check you’re in the right profile (most common cause).**
-   - Look for the profile icon (often top-right). If it says **Guest** or shows a new profile name, switch back to your usual profile.
-   - If there are multiple profiles, open each briefly to see if your bookmarks/extensions are there.
+2. **Check whether you are in the right profile.**
+   - Look for the profile icon, usually near the top-right corner.
+   - If it says **Guest**, **Person**, a new name, a work or school profile, or an unfamiliar account, switch back to your usual profile.
+   - If several profiles are listed, open each one briefly and check whether your bookmarks, history, or extensions are there.
 
-3. **Find the “good copy” before you let anything sync.**
-   - Check another device where you normally use the same browser/account. If that device still has the right bookmarks, treat it as your reference copy.
-   - On the device that looks “empty”, avoid “reset sync” and repeated sign-in/out loops until you’re confident you’re not about to overwrite the reference copy.
+3. **Look for a good copy before you let sync spread changes.**
+   - Check another computer, phone, or tablet where you normally use the same browser account.
+   - If another device still has the correct bookmarks or favorites, do not change that device yet.
+   - Do not sign out, reset sync, or delete browser data on the device that still looks correct.
 
-4. **Check sync status carefully (avoid “reset sync” actions).**
-   - Confirm whether you got signed out during the update and whether bookmarks/favorites and extensions are selected to sync.
-   - If your reference device has the correct data, keep it stable while you bring the “empty” device back into line.
+4. **Check sync status carefully.**
+   - On the device that looks empty, check whether you were signed out during the update.
+   - Check whether bookmarks or favorites, history, passwords, settings, and extensions are selected to sync, if your browser offers those choices.
+   - If you are not sure which copy is correct, stop before choosing any reset, delete, or overwrite option.
 
-5. **Use built-in restore/backup options where available.**
-   - **Firefox:** use the Bookmarks Manager “Restore” option to restore from automatic backups.
-   - **Chrome/Chromium-based browsers:** check the Bookmark Manager for “Other bookmarks” and any imported/restored folders.
-   - **Edge:** confirm Favorites sync is enabled and restart the browser once; sometimes it reappears after a short delay.
+5. **Check the built-in bookmark and favorites areas.**
+   - Open the browser’s bookmark or favorites manager.
+   - Look for folders such as **Other bookmarks**, **Imported**, **Bookmarks bar**, **Favorites bar**, or old profile names.
+   - In Firefox, use the Library or Bookmarks Manager restore area only after you understand that restoring a backup can replace the current bookmark set.
+   - In Edge, also check whether the favorites bar is hidden rather than empty.
 
-6. **If extensions disappeared, check whether they were disabled.**
-   - Open the extensions page and look for disabled items you can re-enable.
-   - If the browser indicates extensions are disabled by policy (work/school management), treat it as a managed-device setting and contact IT rather than fighting it.
+6. **Check whether extensions are disabled rather than gone.**
+   - Open the browser’s extensions page.
+   - Look for extensions that are present but switched off, blocked, or marked as needing review.
+   - If the device is managed by work or school, or an extension says it is controlled by an organization, contact IT rather than trying to force changes.
 
-7. **If you suspect account compromise (unexpected sign-out, unknown extensions, changed search engine/homepage, security alerts):**
-   - Change the password for the browser account (Google/Microsoft/Firefox account) and enable two-factor authentication if available.
+7. **If the browser looks tampered with, secure the account.**
+   - Treat unknown extensions, an unexpected homepage or search engine, security alerts, or unfamiliar sign-ins as possible warning signs.
+   - Change the password for the browser account from a clean, trusted device.
+   - Turn on two-factor authentication if it is available.
    - Review recent sign-ins and connected devices for that account.
-   - Run a reputable security scan.
+   - Run a reputable security scan on the affected device.
 
-8. **If you believe this involved cyber-enabled fraud, theft, or identity misuse:**
-   - To report internet crime to the FBI, file with **IC3**. To reduce the risk of scams, **type the address directly** (ic3.gov / complaint.ic3.gov) rather than clicking links from emails, texts, or search ads.
-   - If identity theft is involved, use the federal government’s identity theft resource to create a recovery plan and report.
+8. **If money, identity theft, or cyber-enabled fraud may be involved, use official reporting routes.**
+   - For suspected internet crime, use the FBI Internet Crime Complaint Center.
+   - For identity theft, use the federal identity theft recovery site.
+   - Type official addresses directly into the address bar instead of following links from emails, texts, pop-ups, or search ads.
 
 ## What can wait
-- You don’t need to decide today whether to rebuild bookmarks manually or switch browsers.
-- You don’t need to “clean up” the computer or optimize anything right now.
-- You don’t need to reset sync or wipe profiles as a first response—those steps can make recovery harder.
-- Once recovered, you can later export bookmarks and note your sync settings—but don’t do that while you’re still unsure which copy is correct.
+- You do not need to rebuild all bookmarks manually right now.
+- You do not need to switch browsers today.
+- You do not need to clean up or optimize the computer while you are still trying to find the correct copy.
+- You do not need to reset sync, wipe profiles, or delete browser folders as a first response.
+- Later, after the correct copy is safe, you can export bookmarks and write down your sync settings.
 
 ## Important reassurance
-This usually has a mundane cause: the browser opened a different profile, sync signed you out, or the update disabled items. Going slowly prevents turning a recoverable problem into permanent loss.
+This often comes from a profile switch, a sign-out, hidden favorites bar, sync delay, or disabled extension rather than permanent loss. Slow, reversible checks give you the best chance of finding the original data.
 
 ## Scope note
-These are first steps only, meant to stop the damage and locate a good copy (profile/sync/backup). If these don’t resolve it, the next stage is careful, browser-specific recovery from profile folders and backups (best done deliberately, or with help).
+These are first steps only. If the data is still missing, later recovery may need careful browser-specific help with profile folders, backups, sync settings, or trusted IT support.
 
 ## Important note
-This is general information, not professional IT or legal advice. If your device is managed by an employer/school, use their support channels. If you think a crime occurred, prioritize account security and appropriate reporting.
+This is general information, not professional IT, legal, financial, or cybersecurity advice. If your device is managed by an employer, school, or other organization, use their support channel before changing managed settings.
 
 ## Additional Resources
 - https://support.mozilla.org/en-US/kb/restore-bookmarks-from-backup-or-move-them
-- https://support.google.com/chrome/answer/96816
-- https://www.microsoft.com/en-us/edge/learning-center/sync-your-browser-across-devices
-- https://www.ic3.gov/
-- https://complaint.ic3.gov/
+- https://support.google.com/chrome/answer/2364824
+- https://support.google.com/chrome/answer/165139
+- https://support.google.com/chrome/answer/188842
+- https://support.microsoft.com/en-us/edge/add-turn-off-or-remove-extensions-in-microsoft-edge
+- https://support.microsoft.com/en-us/edge/change-and-customize-sync-settings-in-microsoft-edge
+- https://support.microsoft.com/en-us/microsoft-edge/see-your-favorites-bar-in-microsoft-edge-566736f8-a11d-52e2-4f6f-7a713e1750d2
 - https://www.identitytheft.gov/
-- https://www.ftc.gov/news-events/topics/identity-theft/report-identity-theft

@@ -1,80 +1,96 @@
-﻿---
+---
 title: "What to do if… a partner insists on recording sex and becomes angry when you refuse"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - partner wants to record sex
-  - pressured to film sex
-  - boyfriend insists on sexvideo
-  - girlfriend insists on recording
-  - angry when i say no
-  - sexual consent withdrawn
-  - coerced into being filmed
-  - threatened with revenge porn
-  - nonconsensual sex recording
-  - hidden camera during sex
-  - phone camera during intimacy
-  - recording without permission
-  - intimate video coercion
-  - partner demands sexvideo proof
-  - scared to refuse sex act
-  - controlling sexual demands
-  - worried i was recorded
-  - pressure to send intimate videos
-  - boundaries ignored in sex
-last_reviewed: "2026-03-13"
+  - "partner wants to record sex"
+  - "partner insists on recording sex"
+  - "partner angry when refused"
+  - "pressured to film sex"
+  - "pressured to make sex video"
+  - "coerced into being filmed"
+  - "intimate video coercion"
+  - "recording sex without consent"
+  - "nonconsensual sex recording"
+  - "partner demands sex video"
+  - "what do i do if partner records sex"
+  - "what do i do if partner wants video"
+  - "what do i do if sex is filmed"
+  - "what do i do if consent is ignored"
+  - "help i refused recording sex"
+  - "help i was pressured to film"
+  - "help i think i was recorded"
+  - "help i fear revenge porn"
+  - "my partner wants sex video"
+  - "my partner ignores sexual boundaries"
+  - "my partner gets angry sexually"
+  - "angry after saying no"
+  - "phone camera during sex"
+  - "hidden camera during sex"
+  - "threatened with intimate images"
+  - "worried video already exists"
+  - "sexual consent confusion"
+  - "revenge porn threat"
+  - "secret filming during sex"
+  - "recording sex without concent"
+  - "partner wants a sex vidio"
+  - "uk partner recording sex"
+last_reviewed: "2026-04-27"
+date_created: "2026-04-27"
 ---
 
 # What to do if… a partner insists on recording sex and becomes angry when you refuse (UK)
 
 ## Short answer
-Stop the sexual situation and get to a safer pause away from them. Anger after a refusal is a safety warning sign—prioritise leaving and getting support over explaining or negotiating.
+Stop the sexual situation and get to a safer pause away from them. Anger after a refusal can be a warning sign, so prioritise distance, support, and safety over explaining or negotiating.
 
 ## Do not do these things
-- Do not “agree just to calm them down” or to prevent their anger escalating.
-- Do not hand over your phone, passcodes, or accounts to “prove” anything.
-- Do not argue about consent, legality, or “fairness” in the moment if they’re escalating.
+- Do not treat agreeing to be recorded as your only safe option.
+- Do not hand over your phone, passcodes, messages, or accounts to “prove” anything.
+- Do not argue about consent, legality, or “fairness” while they are escalating.
 - Do not try to grab, delete, or destroy their device if that could trigger violence.
-- Do not send “replacement” images/videos to avoid conflict.
+- Do not send replacement images or videos to avoid conflict.
 - Do not assume you must report to police to get support.
 
 ## What to do now
-1. **Create a safer pause.** End the sexual activity and move to somewhere you can lock a door or be around other people (bathroom, hallway, outside, a neighbour’s, a shop/café). Take essentials (phone, keys, bank card, meds) if you can do so without a confrontation.
-2. **Use a simple boundary line once, then disengage.** For example: “No. I’m not consenting to being recorded.” If they argue or get angrier, switch from explaining to leaving.
-3. **Contact specialist support while you’re away from them.**
-   - If you’re in immediate danger, **call 999**.
-   - If you’re in **England or Wales** and want confidential specialist support (whether or not you report), contact **Rape Crisis England & Wales 24/7 Rape & Sexual Abuse Support Line: 0808 500 2222**.
-   - If their anger is part of a wider pattern of control or intimidation, you can also contact the **24-hour National Domestic Abuse Helpline (Refuge): 0808 2000 247**.
-4. **If you think you may have been recorded (even secretly), focus on safety first.** When you’re safe, write down (or message yourself) what happened in plain terms: date/time, where, what was said, what device was used, and any threats. This is just to help you remember later.
-5. **Get medical and specialist help if anything sexual happened without your consent or under pressure.** A **Sexual Assault Referral Centre (SARC)** can offer confidential healthcare and support.
-   - **In England**, you can use the NHS “find a SARC” service search.
-   - **Elsewhere in the UK**, access routes can differ—if you’re unsure, a local sexual violence service, GP/primary care, or urgent care service can help you find the right option.
-6. **If they have threatened to share, or you think images/videos exist, consider police help when you feel ready.** In the UK, sharing or threatening to share intimate images without consent can be reported to police.
-   - Emergency: **999**
-   - Non-emergency: **101** (or online reporting). You can describe it as “intimate image abuse / threats to share intimate images”.
-7. **Make a quick “next safe place” plan for the next 24 hours.** Choose one: stay with a trusted person, go somewhere they can’t easily access, or ask a specialist service to help you safety-plan. If you’re worried they monitor your phone, use a safer device or a friend’s phone.
+1. **Create a safer pause.** End the sexual activity if you can and move somewhere with distance from them, such as a bathroom with a lock, a hallway, outside, a neighbour’s home, a shop, a café, or another place with other people nearby. Take your phone, keys, bank card, medication, and coat if you can do that without a confrontation.
+2. **Use one clear line, then disengage.** You can say: “No. I’m not consenting to being recorded.” If they argue, mock you, block you, follow you, or get angrier, stop explaining and focus on getting away from the room or building.
+3. **Call emergency help if there is immediate danger.** Call **999** if they are threatening violence, blocking you from leaving, trying to force sex, trying to take your phone, or you feel in immediate danger. If it is not an emergency but you want to report intimate image abuse, coercion, threats, or assault, you can usually contact police on **101** or use online reporting where available.
+4. **Contact specialist support from a safer device if you can.**
+   - In **England and Wales**, Rape Crisis England & Wales runs the 24/7 Rape and Sexual Abuse Support Line on **0808 500 2222** and online chat.
+   - In **Scotland**, Rape Crisis Scotland has a helpline on **08088 010302**.
+   - In **Northern Ireland**, the Domestic and Sexual Abuse Helpline is **0808 802 1414**.
+   Use a friend’s phone, work phone, library computer, or another safer device if you are worried they monitor your phone.
+5. **If you think you may have been recorded, do not confront them to check.** When you are away from them, write down or message yourself the date, time, place, what they said, what device was visible, whether any camera or phone was pointed at you, and any threats about sharing. Keep it brief and factual.
+6. **If anything sexual happened without your consent, or because you felt pressured or frightened, consider medical and specialist support.** A Sexual Assault Referral Centre can usually offer confidential healthcare and support; in England, you can use the NHS SARC finder. In Scotland, Wales, and Northern Ireland, a sexual violence helpline, NHS service, GP, urgent care service, or police can help you find the right local route.
+7. **If they have threatened to share images or videos, treat it as intimate image abuse.** Police can take reports of intimate image abuse, including threats to share; the exact law and wording varies across the UK. The Revenge Porn Helpline can support adult victims in the UK and may help with advice about reporting and removing intimate content that has been shared online.
+8. **Choose the next safe place for the next few hours.** Pick one practical option: stay with a trusted person, go somewhere they cannot easily access, ask someone to collect you, or contact a specialist service to safety-plan before you return.
 
-*If you may want to report later:* try not to delete messages, voicemails, or call logs connected to the pressure/threats. Only do this if it does not put you at risk.
+If you may want to report later, try not to delete messages, voicemails, call logs, images, or threats connected to what happened. Only keep them if doing so does not put you at more risk.
 
 ## What can wait
-- You do not need to decide right now whether to end the relationship, report to police, or “prove” anything.
+- You do not need to decide right now whether to end the relationship.
+- You do not need to decide right now whether to report to police.
+- You do not need to prove that you were right to refuse.
 - You do not need to confront them about whether they recorded you.
 - You do not need to post online, warn others, or take legal steps today.
-- You can choose support first, decisions later.
+- You can choose support first and decisions later.
 
 ## Important reassurance
-Refusing to be recorded is normal and reasonable. Someone becoming angry because you said no is not your fault, and it can be part of coercion and abuse. Your job right now is not to manage their feelings—it’s to keep yourself safe and get support.
+Refusing to be recorded during sex is a valid boundary. Someone becoming angry because you said no is not your fault, and you do not have to manage their feelings before protecting your own safety.
 
 ## Scope note
-This is first-steps-only guidance for the next minutes and hours. If you’re dealing with ongoing coercion, threats, stalking, or control, specialist services can help you plan next steps safely.
+These are first steps for the next minutes and hours only. If there is ongoing coercion, threats, stalking, monitoring, or control, later decisions may need help from a specialist sexual violence service, domestic abuse service, police, healthcare service, or legal adviser.
 
 ## Important note
-This guide is general information, not legal advice or a substitute for medical care. If you feel unsafe, seek urgent help. You can get specialist support whether or not you report to police.
+This guide is general information, not legal, medical, financial, therapeutic, or professional advice. If you feel unsafe or need urgent medical help, seek emergency help now.
 
 ## Additional Resources
 - https://rapecrisis.org.uk/get-help/want-to-talk/
 - https://247sexualabusesupport.org.uk/
+- https://www.rapecrisisscotland.org.uk/
+- https://nexusni.org/helpline/
 - https://www.nhs.uk/live-well/sexual-health/help-after-rape-and-sexual-assault/
 - https://www.nhs.uk/service-search/sexual-health-services/find-a-rape-and-sexual-assault-referral-centre/
 - https://www.police.uk/advice/advice-and-information/online-safety/online-safety/intimate-image-abuse-revenge-porn/what-you-can-do-reporting-it-to-us/
-- https://www.nationaldahelpline.org.uk/
+- https://revengepornhelpline.org.uk/

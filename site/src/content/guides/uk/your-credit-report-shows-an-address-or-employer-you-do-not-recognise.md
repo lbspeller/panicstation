@@ -1,99 +1,107 @@
-﻿---
+---
 title: "What to do if… your credit report shows an address or employer you do not recognise"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
-  - unknown address on credit report
-  - wrong address on credit file
-  - employer i do not recognise
-  - unknown employer on credit report
-  - credit report personal details wrong
-  - credit file identity mix up
-  - credit report strange address
-  - credit report wrong employment
-  - address i never lived
-  - job listed i never had
-  - credit report data entry error
-  - unexpected credit searches
-  - hard search i dont recognise
-  - new account i didnt open
-  - credit report identity fraud worry
-  - dispute credit report uk
-  - panic over credit file
-  - someone using my details
-last_reviewed: "2026-01-09"
+  - "unknown address on credit report"
+  - "wrong address on credit report"
+  - "strange address on credit report"
+  - "unfamiliar address on credit file"
+  - "address i do not recognise"
+  - "credit report address wrong"
+  - "unknown employer on credit report"
+  - "wrong employer on credit report"
+  - "employer i do not recognise"
+  - "credit report employer wrong"
+  - "what do i do if my credit report has wrong address"
+  - "what do i do if my credit file has unknown employer"
+  - "what do i do if address on credit report is not mine"
+  - "what do i do if employer on credit report is wrong"
+  - "help i found unknown address on credit report"
+  - "help i found wrong employer on credit file"
+  - "help i think my credit report is mixed"
+  - "help i see searches i did not make"
+  - "my credit report has wrong address"
+  - "my credit file shows unknown employer"
+  - "linked address i never lived at"
+  - "job listed i never had"
+  - "credit search i do not recognise"
+  - "new account i did not open"
+  - "financial associate i do not know"
+  - "debt at address not mine"
+  - "mixed credit file worry"
+  - "identity fraud credit report worry"
+  - "credit report data mix up"
+  - "credit file identity mix up"
+  - "credit report typo or fraud"
+  - "adress on credit report"
+  - "employer unkown on report"
+  - "uk credit report wrong details"
+last_reviewed: "2026-05-24"
+date_created: "2026-05-24"
 ---
 
 # What to do if… your credit report shows an address or employer you do not recognise (UK)
 
 ## Short answer
-Treat it as a potential identity-fraud warning until you’ve checked properly: pull your full credit files from Experian, Equifax, and TransUnion, then dispute the unfamiliar address/employer immediately.
+Treat the unfamiliar address or employer as something to check, not something to panic about. Save a copy of what you can see, check your files with Experian, Equifax and TransUnion, then dispute the entry wherever it appears.
 
 ## Do not do these things
-- Don’t assume it’s “just a typo” if you can’t explain it.
-- Don’t use phone numbers, emails, or links shown next to suspicious entries (look up official contact details yourself).
-- Don’t pay, “settle”, or acknowledge any debt or account you don’t recognise.
-- Don’t apply for new credit “to test it” until you’ve checked and secured your files.
-- Don’t send ID documents unless you’ve confirmed you’re dealing with a genuine credit reference agency or lender.
+- Don’t assume it is harmless if you cannot explain it.
+- Don’t use phone numbers, emails or links shown next to suspicious entries; use contact details you find independently.
+- Don’t pay, settle or acknowledge any debt or account you do not recognise.
+- Don’t apply for new credit just to test whether your file is affected.
+- Don’t send ID documents until you are sure you are dealing with a genuine credit reference agency, lender or official service.
 
 ## What to do now
-1. **Save what you’re seeing before you start disputes.**  
-   Download/print the pages showing the unfamiliar address/employer and note the date, which agency’s report it is, and exactly what is wrong.
+1. **Save what you are seeing before you start disputes.**  
+   Download or screenshot the page showing the unfamiliar address or employer. Note the date, the credit reference agency, and the exact wording of the entry.
 
-2. **Check your full credit files with all three UK credit reference agencies: Experian, Equifax, and TransUnion.**  
-   Use their official consumer services (including statutory report options) and compare the “personal details / addresses / employment” sections across all three. You’re looking for anything else that doesn’t belong to you.
+2. **Check your credit files with all three main UK credit reference agencies.**  
+   Check Experian, Equifax and TransUnion, because lenders may report to different agencies and the same mistake may not appear everywhere. Use the official statutory report routes or the agency’s own free report option.
 
-3. **Do a targeted scan for “this is more than a profile error”.**  
-   Check each file for:
-   - **linked/previous addresses** you don’t recognise
-   - **new accounts** you didn’t open (cards, loans, overdrafts, mobiles)
-   - **credit applications/searches** you didn’t make
-   - **defaults/collections** you don’t recognise
-   - **financial associates** you don’t know  
-   If any of these appear, treat it as suspected identity fraud.
+3. **Look for signs that this is more than a profile error.**  
+   In each file, check for:
+   - linked or previous addresses you do not recognise
+   - accounts you did not open, such as cards, loans, overdrafts or mobile contracts
+   - credit searches or applications you did not make
+   - defaults, collections or arrears you do not recognise
+   - financial associates you do not know
 
-4. **Dispute the unfamiliar address and employer with every agency where it appears.**  
-   Tell them it is inaccurate and ask:
-   - where the address/employer data came from (which organisation supplied it); and
-   - to correct it (and, if it looks like a “mixed file”, to separate you from the other person’s data).  
-   Keep dispute reference numbers and dates.
+4. **Dispute the unfamiliar address or employer with each agency where it appears.**  
+   Say the information is inaccurate and ask the agency to tell you which organisation supplied it. Ask for the entry to be corrected or removed, and ask whether your file may have been mixed with someone else’s. Keep the dispute reference number and the date you raised it.
 
-5. **Contact the organisation that supplied the wrong data (using independently verified contact details).**  
-   If the report shows a lender, employer-screening provider, or other “furnisher”, contact them and ask:
-   - what record/application created the address/employer; and
-   - for written confirmation they’ve corrected it and updated the credit reference agencies.
+5. **Contact the organisation that supplied the data, if it is named.**  
+   Use contact details from the organisation’s official website, not from a suspicious message or entry. Ask what record or application created the address or employer, and ask them to correct their record and update the credit reference agencies.
 
-6. **If you see any accounts or applications you didn’t make, act as fraud (not just “correction”).**  
-   - Contact the relevant lender(s) using official channels and ask for their **fraud/impersonation** process.  
-   - Report it to Action Fraud and keep the reference number (lenders/credit agencies may ask for it while removing fraudulent entries).  
-   - Consider **Cifas Protective Registration** to add extra checks when credit is applied for in your name.
+6. **If you see accounts or applications you did not make, treat it as suspected identity fraud.**  
+   Contact the relevant lender using official details and ask for its fraud or impersonation process. Report the issue through Report Fraud, the official fraud and cyber crime reporting service, and keep the reference number. You can also consider Cifas Protective Registration so lenders carry out extra checks when credit is applied for in your name.
 
-7. **Optional: add a Notice of Correction only if you need a lender to take extra care during a short window.**  
-   A Notice of Correction is a short statement (typically up to 200 words) lenders can see. It can slow automated decisions because it may trigger manual review. If you use one, keep it factual, and remember you may need to add it separately to each credit reference agency.
+7. **Use a Notice of Correction only if it would help in the short term.**  
+   A Notice of Correction is a short statement, usually up to 200 words, that lenders can see when they check your file. It may slow automated credit decisions because a lender may need to review the application manually. Keep it factual and add it separately to each credit reference agency if you decide to use one.
 
-8. **Reduce the chance of repeat misuse.**  
-   Change your email password (and enable two-step verification), then review your bank/card accounts for changed contact details, new payees, or unusual activity.
+8. **Secure the accounts most likely to be misused.**  
+   Change your email password, turn on two-step verification if available, and check your bank and card accounts for changed contact details, new payees or unusual activity. If money is being taken now, contact your bank or card provider immediately using official contact details.
 
 ## What can wait
-- You don’t need to decide today whether to make formal complaints or pursue legal routes—first get the wrong entries investigated and corrected.
-- You don’t need to pay for “credit repair” services to do the key steps above.
-- You don’t need to contact lots of organisations at once—start with the credit reference agencies and any named data supplier linked to the wrong entry.
-- If you’re not applying for credit right now, you don’t need to rush into new applications; prioritise accuracy and protection first.
+- You do not need to decide today whether to make formal complaints or take legal steps.
+- You do not need to pay a credit repair company to start the key checks and disputes.
+- You do not need to contact every organisation at once; start with the credit reference agencies and any named data supplier.
+- You do not need to make new credit applications while you are trying to understand and correct the file.
 
 ## Important reassurance
-An unfamiliar address or employer can happen through administrative error, outdated data, or a “mixed file” (parts of someone else’s record attaching to yours). It can also be an early warning sign of identity fraud. Taking calm, documented steps now is the safest way to protect yourself.
+An unfamiliar address or employer can be caused by an administrative error, outdated data or a mixed file. It can also be an early warning sign of identity fraud. Calm, documented steps give you the best chance of getting the record corrected and limiting any further misuse.
 
 ## Scope note
-This is first-steps-only guidance to stabilise the situation, prevent further harm, and start corrections. If you uncover fraudulent accounts or debts, you’ll usually need to follow each lender’s fraud process and may want specialist debt or consumer help.
+These are first steps only to stabilise the situation, protect your accounts and start corrections. If you find fraudulent accounts, disputed debts or a refusal to correct inaccurate data, you may need specialist debt, consumer or legal help.
 
 ## Important note
-This is general information, not legal or financial advice. If you believe money is being taken right now or accounts are being actively used, contact your bank or card provider immediately using official contact details.
+This is general information, not legal, medical, financial, therapeutic or professional advice. If money is being taken right now, contact your bank or card provider immediately using official contact details.
 
 ## Additional Resources
-- https://www.actionfraud.org.uk/report_fraud/
+- https://ico.org.uk/for-the-public/credit/
+- https://www.experian.co.uk/consumer/statutory-report.html
+- https://www.equifax.co.uk/products/credit/statutory-report
+- https://www.transunionstatreport.co.uk/CreditReport/AboutYou
 - https://www.reportfraud.police.uk/identity-fraud-and-identity-theft/
 - https://www.cifas.org.uk/pr
-- https://ico.org.uk/for-the-public/credit/
-- https://www.experian.co.uk/consumer/guides/notice-of-correction.html
-- https://www.transunion.co.uk/consumer/credit-report-help/what-is-a-notice-of-correction-and-how-can-i-add-one-to-my-credit-report-if-needed
-- https://www.transunion.co.uk/consumer/get-your-credit-report

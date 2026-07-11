@@ -1,93 +1,113 @@
-﻿---
+---
 title: "What to do if… a cloud drive app starts re-downloading everything and you fear data duplication or overwrite"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - cloud drive re-downloading
-  - cloud sync restarting
-  - sync downloading everything again
-  - fear of overwrite
-  - fear of duplicate files
-  - duplicate folders appearing
-  - conflicted copy files
-  - cloud drive resync loop
-  - onedrive re-syncing
-  - google drive for desktop resync
-  - dropbox syncing again
-  - files reappearing after delete
-  - cloud storage taking up disk
-  - syncing stuck downloading
-  - pause cloud sync
-  - stop sync temporarily
-  - disconnect cloud account
-  - version history cloud files
-  - sync conflict resolution
-  - sudden mass re-download
-last_reviewed: "2026-03-09"
+  - "cloud drive re-downloading everything"
+  - "cloud drive syncing again"
+  - "cloud files downloading again"
+  - "cloud folder duplicating files"
+  - "cloud storage filling up"
+  - "cloud sync restarting"
+  - "cloud sync loop"
+  - "sudden cloud re-download"
+  - "fear of duplicate files"
+  - "fear of overwritten files"
+  - "what do i do if cloud drive re-downloads"
+  - "what do i do if cloud sync restarts"
+  - "what do i do if files duplicate"
+  - "what do i do if cloud files overwrite"
+  - "help i see duplicate cloud files"
+  - "help i think sync is overwriting"
+  - "help i have conflicted copies"
+  - "help i deleted the wrong cloud file"
+  - "my cloud drive is downloading everything"
+  - "my cloud folder has duplicates"
+  - "many files appearing again"
+  - "conflicted copy files appearing"
+  - "files show as syncing"
+  - "disk space suddenly low"
+  - "deleted files reappearing"
+  - "same folders appearing twice"
+  - "onedrive downloading all files"
+  - "google drive downloading all files"
+  - "dropbox downloading all files"
+  - "cloud drive resynching"
+last_reviewed: "2026-04-25"
+date_created: "2026-04-25"
 ---
 
 # What to do if… a cloud drive app starts re-downloading everything and you fear data duplication or overwrite (UK)
 
 ## Short answer
-Pause syncing right now, then make a “safety copy” of the local cloud folder (with sync still paused) before you delete, rename, or move anything. Once things are frozen, check in the cloud website whether it’s only downloading—or also recording/uploads changes.
+Pause syncing or disconnect the device from the internet now, then copy the important visible local files to a place outside the synced folder before deleting, renaming, unlinking, resetting, or uninstalling anything. Once activity is frozen, check the cloud website to see whether the app is only downloading or whether it has also uploaded, renamed, moved, or deleted anything.
 
 ## Do not do these things
-- Don’t start deleting “duplicates” while syncing is still running—you can delete the wrong copy.
-- Don’t bulk-move/rename whole folders during the re-download; that often creates conflicts and more duplicates.
-- Don’t keep editing shared/work documents until you’re sure the app isn’t uploading from the wrong place.
-- Don’t uninstall the app before you’ve paused sync and made a safety copy (reinstalling can come later, once you’ve preserved your options).
-- Don’t assume “re-downloading” means “overwriting”—some services create conflicted copies or keep versions, but you need to confirm.
+- Don’t delete “duplicates” while syncing is still running; you may delete the only good copy.
+- Don’t bulk-move or bulk-rename whole folders during the re-download; this can create more conflicts.
+- Don’t keep editing shared, work, or school documents until you know which location is syncing.
+- Don’t unlink, reset, or uninstall the app until you have copied important visible local files outside the synced folder.
+- Don’t assume re-downloading means overwriting; some services create conflicted copies or keep previous versions, but you need to check.
 
 ## What to do now
-1. **Freeze changes on this device (stop sync activity).**
-   - In the desktop app, choose **Pause syncing** or **Quit/Exit**.
-   - If it won’t stay paused (or keeps restarting), use the app’s settings to **sign out / unlink / disconnect** this device.
-   - If you still can’t stop activity, temporarily **disconnect Wi-Fi/Ethernet** on the device to buy time.
+1. **Freeze sync activity on this device.**
+   - Use the desktop app’s **Pause syncing** option if it is available.
+   - If the app will not stay paused, quit the app from its menu or system tray.
+   - If activity continues or you feel unsure, disconnect Wi-Fi or Ethernet on this device to buy time.
+   - Avoid unlinking or disconnecting the account until you have copied important visible local files. Some streamed or online-only setups may remove offline files when an account is disconnected.
 
-2. **Make a quick safety copy (with sync still paused).**
-   - Copy the local cloud folder (or only the affected folders) to a separate location, clearly named like `Cloud Safety Copy - 2026-03-09`.
-   - If space is tight, prioritise **recently edited** folders and anything **irreplaceable**.
-   - If you suspect files were mid-download, don’t rely on those alone—plan to also grab a clean copy from the cloud website later.
+2. **Make a safety copy outside the synced folder.**
+   - Copy the affected local cloud folder, or the most important affected folders, to a separate non-synced place such as your Desktop, Documents folder outside the cloud drive, an external drive, or another local folder clearly named “Cloud safety copy 2026-04-25”.
+   - Prioritise recently edited files, shared work, personal records, photos, and anything irreplaceable.
+   - If some files are online-only, placeholders, or still downloading, do not rely on those local copies alone; plan to download clean copies from the cloud website after you check the account.
 
-3. **Check the cloud website for “what changed” and “what’s recoverable.”**
-   - Look at **Activity/Recent** to see whether there are unexpected changes.
-   - Check **Recycle bin/Trash** for recently removed items you may need to restore.
-   - Pick 2–3 important files and check **Version history/Previous versions** (to confirm you can roll back if needed).
+3. **Check the cloud website before changing local files.**
+   - Open the provider’s website in a browser, not the syncing folder.
+   - Look for Activity, Recent, Trash, Recycle bin, Version history, or Previous versions where the service offers them.
+   - Check whether there were unexpected uploads, moves, renames, deletions, or edits.
+   - Pick two or three important files and confirm whether older versions or deleted copies can be restored if needed.
 
-4. **Work out the duplication pattern before you touch anything.**
-   - Look for names like “conflicted copy”, “(1)”, “copy of”, or “conflict”.
-   - Open a couple of examples and compare **content** plus **last modified time** (not just file names).
+4. **Identify the duplication pattern before cleaning anything up.**
+   - Look for names such as “conflicted copy”, “copy”, “copy of”, “(1)”, or similar duplicate numbering.
+   - Open a few examples and compare the content and last modified time, not just the filename.
+   - Keep the newest and the older copy until you know which one has the correct content.
 
-5. **Reduce overwrite/conflict risk before resuming sync.**
-   - If available, switch temporarily to **online-only / files-on-demand** or use **selective sync** so you don’t pull everything while assessing.
-   - Confirm you have **enough free disk space** and your **device date/time** is correct (sync clients can misbehave when storage is low or the clock is wrong).
+5. **Reduce the chance of another mass download before resuming.**
+   - Check that the device has enough free disk space for the folders you are syncing.
+   - Check that the device date and time look correct.
+   - Where the app offers it, use online-only, files-on-demand, streaming, or selective sync so you do not immediately pull everything back down while assessing the problem.
+   - Make sure you are signed in to the expected account, especially if you have both personal and work or school accounts.
 
-6. **If this is work/school data, treat it like a potential data incident until proven otherwise.**
-   - Keep sync paused and report it through your organisation’s **IT/helpdesk or security** route (especially if personal data, shared drives, or client files are involved).
-   - Ask them whether you should re-link the device or whether they want to check account/session activity first.
+6. **If this is work or school data, pause and report it internally.**
+   - Keep sync paused or the device offline if files contain client, patient, pupil, staff, financial, or other personal data.
+   - Use your organisation’s IT, helpdesk, or security route before re-linking the device.
+   - Ask whether they want to check account activity, shared-drive activity, or device status first.
 
-7. **If you suspect account compromise on a personal account, secure it before re-syncing.**
-   - Change the account password and turn on **2-step verification (2SV)** for the cloud account and the email account connected to it.
-   - Review signed-in devices/sessions and sign out anything you don’t recognise.
+7. **If you suspect someone else accessed the account, secure it before re-syncing.**
+   - From a clean browser session, change the password for the cloud account.
+   - Turn on 2-step verification for the cloud account and the email account connected to it.
+   - Review signed-in devices and sessions, and sign out anything you do not recognise.
+   - Keep sync paused until the account looks secure.
 
-8. **Resume syncing in a controlled test.**
-   - Resume sync and watch the status for a few minutes.
-   - If you see unexpected uploads/renames/deletions starting, **pause immediately** and move to official support (or your IT team).
+8. **Resume syncing only as a small test.**
+   - Resume syncing or reconnect the internet only after you have a safety copy and have checked the cloud website.
+   - Watch the sync status and the cloud website activity for a few minutes.
+   - If unexpected uploads, renames, moves, or deletions start, pause syncing again or disconnect the internet and use official support or your organisation’s IT route.
 
 ## What can wait
 - You do **not** need to deduplicate folders right now.
 - You do **not** need to decide whether to reinstall the app right now.
-- You do **not** need to reorganise your cloud structure right now.
-- You can delay any “which copy is correct?” clean-up until you’ve confirmed activity and recovery options.
+- You do **not** need to reorganise your cloud storage right now.
+- You do **not** need to decide which copy is final until sync is frozen, important files are copied, and recovery options have been checked.
 
 ## Important reassurance
-A sudden full re-download is often triggered by settings changes, reindexing, cache resets, selective-sync changes, or a client update—not automatically by data loss. By pausing sync and making a safety copy first, you’ve already avoided the most common irreversible mistakes.
+A sudden full re-download can happen after a settings change, cache problem, reindexing, selective-sync change, or app update. It does not automatically mean your files have been overwritten or lost, and pausing sync plus making a safety copy gives you time to check calmly.
 
 ## Scope note
-These are first steps to stop harm and preserve options. Provider-specific troubleshooting (or IT support) may be needed afterwards to prevent repeats.
+These are first steps to stop possible damage and preserve options. Provider-specific troubleshooting, workplace IT help, or specialist support may be needed afterwards.
 
 ## Important note
-This is general information, not professional advice. Cloud services and app versions differ. If anything suggests unexpected uploads or widespread changes, keep sync paused and use the provider’s official support (or your organisation’s IT/security process) before proceeding.
+This is general information, not legal, technical, cybersecurity, financial, or professional advice. Cloud services and app versions differ, so use the provider’s official help pages or your organisation’s IT or security process if anything suggests unexpected uploads, deletions, account access, or widespread file changes.
 
 ## Additional Resources
 - https://support.microsoft.com/en-gb/office/how-to-pause-and-resume-onedrive-sync-2152bfa4-a2a5-4d3a-ace8-92912fb4421e

@@ -1,91 +1,108 @@
-﻿---
-title: "What to do if… you see a “port-out” or “number transfer” confirmation email you did not start"
+---
+title: "What to do if… you see a port-out or number transfer confirmation email you did not start"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - port-out email
-  - number transfer email
-  - unauthorised number port
-  - phone number hijacked
-  - sim swap warning
-  - pac request you didn’t make
-  - mobile number transfer scam
-  - unexpected porting confirmation
-  - phone line takeover
-  - sms codes at risk
-  - account takeover via phone number
-  - mobile provider security
-  - unexpected service transfer
-  - phone number stolen
-  - telecom fraud alert
-  - number portability fraud
-  - new sim activation you didn’t request
-  - mobile account compromised
-last_reviewed: "2026-03-09"
+  - "port-out email warning"
+  - "number transfer email"
+  - "unauthorised number port"
+  - "mobile number port fraud"
+  - "phone number takeover"
+  - "sim swap warning"
+  - "unexpected pac request"
+  - "phone line taken over"
+  - "what do i do if port-out email"
+  - "what do i do if number transfer email"
+  - "what do i do if pac request"
+  - "what do i do if sim swap"
+  - "help i got a port-out email"
+  - "help i lost phone signal"
+  - "help i got a pac text"
+  - "help i think my number moved"
+  - "my phone number is being transferred"
+  - "my mobile number was ported"
+  - "my number transfer was not me"
+  - "my phone has no service"
+  - "no service after port email"
+  - "texts stopped after pac request"
+  - "calls stopped after number transfer"
+  - "sms codes not arriving"
+  - "bank codes may be intercepted"
+  - "unknown pac request email"
+  - "number transfer scam"
+  - "sim swap or port-out"
+  - "spam or real port email"
+  - "port out or sim swap"
+  - "number tranfer email"
+  - "sim swop warning"
+last_reviewed: "2026-05-20"
+date_created: "2026-05-20"
 ---
 
-# What to do if… you see a “port-out” or “number transfer” confirmation email you did not start (UK)
+# What to do if… you see a port-out or number transfer confirmation email you did not start (UK)
 
 ## Short answer
-Contact your mobile network immediately (using the number from your provider’s official website or app) and tell them it’s an unauthorised port-out/number transfer request—ask them to stop it and lock your account.
+Contact your mobile network immediately using the number or chat in your provider’s official app or website. Say you did not request a port-out, number transfer, PAC, or SIM change, and ask them to stop any transfer and secure the account.
 
 ## Do not do these things
-- Don’t click any links or open attachments in the email (even if it looks legitimate).
-- Don’t reply to the email or use any phone numbers inside it.
-- Don’t assume it’s “just spam” and wait—port-outs can complete quickly.
-- Don’t reset important passwords using SMS codes right now (those codes may be intercepted if the port succeeds).
-- Don’t trust unexpected “network” or “bank security” calls that arrive right after this email—hang up and call back using a trusted number.
+- Do not use links, attachments, or phone numbers in the email until you have verified it another way.
+- Do not reply to the email with personal details, codes, passwords, or account answers.
+- Do not ignore it as “just spam”; a UK mobile number port can normally complete within one working day once a PAC is used.
+- Do not rely on SMS codes for important password resets right now, because calls and texts may be at risk if the transfer succeeds.
+- Do not trust an unexpected “network”, “bank”, or “security” call that arrives after the email; hang up and contact the organisation through an official route.
 
 ## What to do now
-1. **Call your mobile network’s support and ask for the porting/number-transfer or fraud team (from another phone if possible).**  
-   Say: “I’ve received an unexpected port-out/number transfer confirmation. I did not request this. Please cancel/stop the port and secure my account.”  
+1. **Contact your mobile network from a trusted route.**  
+   Use the provider’s official app, official website, or a phone number from a bill or bank-card-style account page you already trust. If possible, use another phone in case your line is already affected.  
+   Say: “I’ve received an unexpected port-out, number transfer, PAC, or SIM-change confirmation. I did not request this. Please stop any transfer and secure my account.”
+
+2. **Ask the network to check and secure the mobile account.**  
    Ask them to:
-   - **Stop/cancel any porting request in progress**
-   - **Lock your account against porting/SIM changes** (whatever your network calls it)
-   - **Reset your account security** (new account PIN/password; remove any unknown contact details)
-   - **Confirm whether a PAC or porting request was generated**, and when
+   - cancel or stop any porting, PAC, number-transfer, or SIM-change request in progress
+   - confirm whether a PAC was generated, when it was generated, and how it was requested
+   - add any available porting block, SIM-swap block, extra password, account PIN, or fraud marker
+   - remove any unknown email address, postal address, device, payment method, or contact number
+   - give you a case or reference number
 
-2. **Check your phone service right away.**  
-   If your phone has suddenly lost signal (calls/texts stop, “No service”), treat that as urgent—tell your network you may already be ported or SIM-swapped and you need service restored.
+3. **Check whether your phone service is still working.**  
+   Try making a call and receiving a text. If your phone shows “No service”, calls fail, or texts stop arriving, tell the network this may already be a SIM swap or number port and ask how they will restore your number.
 
-3. **Secure your email first (because it can control everything else).**  
-   - Change your email password from a trusted device.
-   - Turn on two-step verification for email using an authenticator app (not SMS) if you can.
-   - Check for new “forwarding”, “rules”, or recovery email/phone changes you didn’t make, and remove them.
+4. **Secure your main email account next.**  
+   From a trusted device, change the password for the email account that received the warning. Turn on two-step verification if it is not already on, preferably using an authenticator app or security key rather than SMS. Check for forwarding rules, filters, recovery email changes, recovery phone changes, app passwords, and signed-in devices you do not recognise.
 
-4. **Contact your bank(s) and any financial apps you use.**  
-   Tell them your phone number may be taken over and **SMS one-time codes may be compromised**. Ask them to add extra verification and watch for unusual activity.  
-   If you’ve had an unexpected call/text about a “financial problem”, you can **hang up and dial 159** to reach many major UK banks safely (use your own bank’s official number if 159 doesn’t route you).
+5. **Contact your bank and payment apps.**  
+   Tell them your mobile number may be under takeover and SMS one-time codes may be compromised. Ask them to add extra checks, watch for unusual activity, and tell you what they need you to do next. If you receive an unexpected call about a financial problem, hang up; 159 can connect many UK bank current-account customers safely, but use your bank’s official app or the number on your card if 159 does not route you.
 
-5. **Lock down the accounts that use your phone number to sign in.**  
-   Prioritise: main email, banking, payment apps, Apple ID/Google account, WhatsApp/Signal, and any cryptocurrency accounts.  
-   - Change passwords.
-   - Replace SMS-based two-step verification with an authenticator app or security key where possible.
+6. **Lock down the accounts most likely to use your phone number.**  
+   Prioritise your main email, banking, payment apps, Apple ID or Google account, WhatsApp, Signal, social media, and any cryptocurrency accounts. Change passwords where needed, remove unknown devices, and replace SMS-based two-step verification with an authenticator app or security key where possible.
 
-6. **Document what happened (to reduce chaos later).**  
-   Note the time the email arrived, any reference numbers, and what your network tells you. Save screenshots of the email (and the email headers if you know how).
+7. **Keep a simple record.**  
+   Save the email, take screenshots, note the time it arrived, and write down what your network and bank tell you. Keep any case numbers together so you do not have to repeat everything from memory.
 
-7. **Report it as fraud if the takeover progressed or money/accounts were targeted.**  
-   If your number was taken over, accounts were accessed, or you lost money, report it to **Action Fraud / Report Fraud** (online, or by phone on **0300 123 2040**). Keep your mobile network case/reference number.
+8. **Report it if the transfer progressed, accounts were accessed, or money was targeted.**  
+   If money has left an account, contact the bank first so they can act quickly. If you are in England, Wales, or Northern Ireland, report fraud or cyber crime to Report Fraud online or by calling 0300 123 2040. If you are in Scotland, report fraud to Police Scotland through its non-emergency reporting routes; call 999 if someone is in danger or the incident is happening now.
 
 ## What can wait
-- You don’t need to figure out how they got your details right now.
-- You don’t need to contact every service you’ve ever used—start with mobile account, email, and money.
-- You don’t need to decide today whether to change your phone number (focus on regaining control first).
+- You do not need to work out exactly how someone got your details right now.
+- You do not need to contact every account you have ever opened; start with your mobile network, email, banks, payment apps, and accounts that use your phone number.
+- You do not need to decide today whether to change your phone number.
+- You do not need to buy new security products before you have stopped the transfer and secured your email.
 
 ## Important reassurance
-This is a common fraud pattern and it’s normal to feel shaken. Acting quickly—especially with your mobile network and your email—can prevent the most damaging outcomes.
+This is a recognised fraud pattern, and it is reasonable to feel shaken. The most useful first moves are practical ones: stop the mobile transfer if possible, protect your email, and warn your bank before a criminal can use SMS codes or calls.
 
 ## Scope note
-These are first steps to stop a takeover and reduce immediate loss. Once you’re stable again, you can do a deeper security clean-up and follow your provider’s longer investigation process.
+These are first steps only, to reduce immediate harm and help you regain control. Later decisions, complaints, reimbursement issues, identity-protection steps, or a deeper security clean-up may need help from your provider, bank, fraud-reporting service, or another specialist.
 
 ## Important note
-This guide is general information, not legal or financial advice. Processes and names of “port locks” vary by network. If the first person can’t help, ask to be transferred to the porting/number-transfer team and request a case/reference number.
+This guide is general information, not legal, financial, technical, or professional advice. Mobile networks use different names for porting, PACs, SIM changes, fraud locks, and account protections, so ask for the closest available option and a case number.
 
 ## Additional Resources
 - https://www.met.police.uk/SysSiteAssets/media/downloads/force-content/met/campaigns/fraud/cyber-protect_protect-yourself-from-sim-swap-fraud.pdf
+- https://www.ofcom.org.uk/phones-and-broadband/switching-provider/switching-mobile
+- https://www.ncsc.gov.uk/collection/top-tips-for-staying-secure-online/activate-2-step-verification-on-your-email
 - https://stopscamsuk.org.uk/our-work/159-phone-number/
-- https://www.gov.uk/government/publications/frauds-tricks-and-scams/fraud-tricks-and-scams
-- https://www.actionfraud.police.uk/contact-us
-- https://www.gov.uk/government/publications/joint-fraud-taskforce-telecommunications-charter/fraud-sector-charter-telecommunications-accessible-version
-- https://www.cifas.org.uk/services/identity-protection/protective-registration
+- https://www.reportfraud.police.uk/contact-us
+- https://www.scotland.police.uk/advice/scams-and-frauds/
+- https://www.gov.uk/government/publications/fraud-sector-charter-telecommunications
+- https://www.cifas.org.uk/pr

@@ -1,89 +1,107 @@
-﻿---
+---
 title: "What to do if… you lose a physical security key used for two-factor sign-in"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - lost security key
-  - lost yubikey
-  - lost titan key
-  - lost fido2 key
-  - lost u2f key
-  - hardware 2fa key missing
-  - security key stolen
-  - misplaced security key
-  - cannot log in without key
-  - locked out of account
-  - two factor key lost
-  - passkey on security key
-  - passwordless key login
-  - work account security key lost
-  - google security key lost
-  - microsoft security key lost
-  - remove security key from account
-  - recovery codes missing
-  - second factor device lost
-  - security key revoked
-last_reviewed: "2026-03-08"
+  - "lost physical security key"
+  - "missing physical security key"
+  - "lost two factor key"
+  - "lost hardware 2fa key"
+  - "security key stolen"
+  - "misplaced security key"
+  - "lost fido2 key"
+  - "lost u2f key"
+  - "lost passkey key"
+  - "security key gone"
+  - "what do i do if security key lost"
+  - "what do i do if yubikey lost"
+  - "what do i do if titan key lost"
+  - "what do i do if 2fa key missing"
+  - "help i lost my security key"
+  - "help i cannot use my security key"
+  - "help i lost my 2fa key"
+  - "my security key is missing"
+  - "my passkey key is gone"
+  - "cannot log in without key"
+  - "account asks for security key"
+  - "key not in usual place"
+  - "security key not recognised"
+  - "no backup key available"
+  - "recovery codes missing"
+  - "lost passkey or security key"
+  - "security key or authenticator app"
+  - "yubikey lost or stolen"
+  - "key missing or account hacked"
+  - "two factor or passkey problem"
+  - "securty key missing"
+  - "secirity key lost"
+  - "work account security key lost"
+  - "primary email security key lost"
+  - "password manager key lost"
+last_reviewed: "2026-05-14"
+date_created: "2026-05-14"
 ---
 
 # What to do if… you lose a physical security key used for two-factor sign-in (UK)
 
 ## Short answer
-Assume the key could be found by someone else: use another sign-in method to remove the missing key from every account it protects, and tell your workplace IT/helpdesk immediately if it’s a work key.
+Use another trusted sign-in method to remove the missing key from every account it protects, starting with your email or password manager, and contact your workplace IT or helpdesk now if it is a work or school key.
 
 ## Do not do these things
-- Don’t “wait to see if it turns up” before removing it from your accounts if there’s any chance it was lost in public.
-- Don’t turn off multi-factor security entirely as the immediate fix; remove the lost key and keep another second step active.
-- Don’t keep trying random logins if you’re locked out (you can trigger temporary lockouts that make recovery harder).
-- Don’t share recovery codes, backup codes, or screenshots of account security pages with anyone (including “support” messages that contact you first).
-- Don’t buy/register a replacement key from an unknown seller because you feel rushed.
+- Don’t wait to remove the key if it may have been lost in public.
+- Don’t turn off multi-factor security entirely; remove the lost key and keep another second step active.
+- Don’t keep guessing recovery steps or passwords if the account starts warning you about lockouts.
+- Don’t share recovery codes, backup codes, one-time codes, or screenshots of security settings with anyone.
+- Don’t use links or phone numbers sent in unexpected messages claiming to be support.
+- Don’t buy or register a replacement security key from an unknown seller because you feel rushed.
+- Don’t delete your only remaining recovery method before you have another safe way back in.
 
 ## What to do now
-1. **Pause and classify the loss: “probably at home” vs “lost in public.”**  
-   If there’s any realistic chance it’s in a taxi, café, office, train, or anywhere accessible to others, treat it as **lost in public**.
+1. **Treat the missing key as usable until you remove it.**  
+   If it could be in a taxi, café, office, train, hotel, shared home, or anywhere accessible to others, act as though someone else may find it.
 
-2. **Write a 60-second list of the accounts that key could unlock.**  
-   Start with: your **primary email**, your **password manager**, any **work/school single sign-on**, **banking/finance**, **cloud storage**, and any account you use to reset others.
+2. **Make a short list of the accounts the key could protect.**  
+   Start with your primary email, password manager, work or school single sign-on, cloud storage, banking or finance accounts, and any account used to reset other accounts.
 
-3. **Get into your most critical account first (usually email) using another second step.**  
-   Use what you already have (backup key, authenticator app, SMS/voice where enabled, recovery codes, or another registered passkey).  
-   *A security key usually isn’t enough by itself without your password or device unlock — but if you set up passwordless/passkeys on that key for any service, treat this as higher risk and move fast.*
+3. **Secure the account that controls the others first.**  
+   This is usually your email account or password manager. Sign in using a backup security key, authenticator app, recovery code, trusted device, SMS or voice backup where already enabled, or the provider’s official recovery flow.
 
-4. **Remove the missing security key from that account’s security settings immediately.**  
-   Look for “Security key / Passkeys / Two-step verification / Security” and **delete/remove** the specific key entry.
+4. **Remove the missing key from that account.**  
+   Look for wording such as “Security key”, “Passkeys”, “Two-step verification”, “Security info”, or “Sign-in methods”. Delete or remove the specific missing key entry.
 
-5. **Sign out other sessions and change the password for the account you just secured (starting with email).**  
-   Use “Sign out of all devices / Log out other sessions” (wording varies), then change the password — especially if the key was lost with anything that could reveal your password or unlock your devices.
+5. **Check recent sign-in activity before moving on.**  
+   Sign out unfamiliar sessions if the service offers that option. Change the password if you see suspicious activity, reused that password elsewhere, lost the key with password notes or an unlocked device, or the provider tells you to.
 
-6. **Repeat: remove the missing key from every account on your list (highest impact first).**  
-   Don’t aim for perfection — your goal is to make the lost key stop working everywhere it was registered.
+6. **Repeat the removal for the highest-impact accounts first.**  
+   Work down your list: email, password manager, work or school access, cloud storage, finance, then other accounts. The aim is to make the lost key stop working wherever it was registered.
 
-7. **If this is a work or school account, contact your IT/helpdesk now and say: “lost security key used for 2FA.”**  
-   Ask them to **revoke/remove the security key (FIDO2) credential**, check for suspicious sign-ins, and issue the organisation’s approved replacement process.  
-   Use your organisation’s **known** support route (intranet/portal/switchboard) — not phone numbers sent in messages.
+7. **If it is a work or school key, contact the official IT route now.**  
+   Say: “I have lost a security key used for two-factor sign-in.” Ask them to remove or block the lost key, revoke the FIDO2 credential if that is their term, check for suspicious sign-ins, and tell you the approved replacement process.
 
-8. **If you cannot sign in at all, use the provider’s official account-recovery flow.**  
-   Use “Try another way” / “Can’t use your security key?” / “Account recovery” for that service. Prioritise regaining access to your primary email account first.
+8. **If you cannot sign in at all, use the provider’s official recovery page.**  
+   Use options such as “Try another way”, “Can’t use your security key?”, “Account recovery”, or “Security info”. Prioritise regaining access to email or your password manager before less important accounts.
 
 ## What can wait
-- Buying a replacement key (do it after you’ve removed the missing one from your accounts).
-- Deciding whether to change your whole security setup or provider.
-- A full audit of every account you own (do the critical ones now; the rest can follow later).
-- Cleaning up and “optimising” your security settings (stabilise first).
+- Buying a replacement key, unless your organisation tells you to use a specific approved route.
+- Choosing a new long-term security setup.
+- Auditing every account you have ever created.
+- Renaming keys, tidying security settings, or optimising backups.
+- Deciding whether the key is definitely lost if you have already removed it from critical accounts.
 
 ## Important reassurance
-Losing a security key is common, and quick action usually prevents harm. The stabilising move is straightforward: remove the missing key from your accounts and keep another second factor active until you register a replacement.
+A lost security key is stressful, but the first stabilising step is simple: remove the missing key from important accounts and keep another second factor active. Most harm is prevented by making the lost key stop working before someone else can try to use it.
 
 ## Scope note
-This is first-steps guidance to reduce immediate risk and get you back into your accounts. Later decisions may benefit from provider support or your organisation’s IT team.
+These are first steps only, to reduce immediate account risk and help you regain access. Later decisions may need provider support, your organisation’s IT team, or specialist cyber security help.
 
 ## Important note
-This is general information, not legal, financial, or professional IT advice. Account interfaces and recovery rules vary by provider and organisation, so follow the official recovery and security steps for each service and use your workplace’s approved IT process.
+This is general information, not legal, financial, professional IT, or cyber security advice. Account interfaces and recovery rules vary by provider and organisation, so follow each service’s official recovery and security steps and use your workplace’s approved IT process.
 
 ## Additional Resources
 - https://www.ncsc.gov.uk/guidance/recovering-a-hacked-account
 - https://www.ncsc.gov.uk/guidance/setting-2-step-verification-2sv
+- https://www.ncsc.gov.uk/guidance/authentication-methods-choosing-the-right-type
 - https://support.google.com/accounts/answer/9153624?hl=en-GB
 - https://support.google.com/titansecuritykey/answer/9115656?hl=en-GB
 - https://support.microsoft.com/en-gb/account-billing/removing-a-sign-in-verification-method-4099aa36-bb4e-429e-a0d7-9e05617084f1
-- https://support.microsoft.com/en-us/account-billing/set-up-a-security-key-as-your-verification-method-2911cacd-efa5-4593-ae22-e09ae14c6698
+- https://support.microsoft.com/en-gb/account-billing/set-up-a-security-key-as-your-verification-method-2911cacd-efa5-4593-ae22-e09ae14c6698

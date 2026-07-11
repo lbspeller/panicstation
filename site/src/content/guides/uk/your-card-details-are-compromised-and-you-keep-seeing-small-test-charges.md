@@ -1,92 +1,109 @@
-﻿---
-title: "What to do if… your card details are compromised and you keep seeing small “test” charges"
+---
+title: "What to do if… your card details are compromised and you keep seeing small test charges"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
-  - card details compromised
-  - card details stolen
-  - unauthorised card payments
-  - small test charges
-  - penny test transactions
-  - card not present fraud
-  - mystery merchant descriptor
-  - micro charges on statement
-  - suspicious pending authorisation
-  - verification charge confusion
-  - continuous payment authority
-  - recurring card payment scam
-  - unknown subscription charge
-  - bank fraud phone call
-  - fake bank text message
-  - asked for one-time passcode
-  - card added to digital wallet
-  - replace bank card
-  - freeze card in app
-  - stop future card payments
-last_reviewed: "2026-01-08"
+  - "card details compromised"
+  - "card details stolen"
+  - "card number exposed"
+  - "card security code stolen"
+  - "small test charges"
+  - "tiny card charges"
+  - "penny test transactions"
+  - "card not present fraud"
+  - "unknown card payments"
+  - "what do i do if card details compromised"
+  - "what do i do if card details stolen"
+  - "what do i do if small test charges appear"
+  - "what do i do if unknown card charges show"
+  - "help i see small card charges"
+  - "help i think my card was stolen"
+  - "my card has test charges"
+  - "my card details may be compromised"
+  - "my bank card has unknown payments"
+  - "unknown merchant descriptor"
+  - "micro charges on statement"
+  - "suspicious pending authorisation"
+  - "repeated small card payments"
+  - "card added to digital wallet"
+  - "bank fraud phone call"
+  - "verification charge confusion"
+  - "subscription charge confusion"
+  - "preauthorisation charge confusion"
+  - "recurring card payment scam"
+  - "continuous payment authority problem"
+  - "card deetails stolen"
+  - "card detailes compromised"
+  - "uk bank card fraud"
+last_reviewed: "2026-05-23"
+date_created: "2026-05-23"
 ---
 
-# What to do if… your card details are compromised and you keep seeing small “test” charges (UK)
+# What to do if… your card details are compromised and you keep seeing small test charges (UK)
 
 ## Short answer
-Freeze/lock the card immediately, then call your bank/card provider using a trusted number to cancel and replace the card and stop further payments.
+Freeze or lock the card immediately, then contact your bank or card provider using a trusted route and say you are seeing small test charges you do not recognise. Ask them to cancel and replace the card, stop further payments where possible, and record the transactions as unauthorised.
 
 ## Do not do these things
-- Don’t ignore “small” charges — they can be a test before bigger fraud.
-- Don’t assume it’s a harmless “verification” hold if you don’t recognise the merchant — treat unknown activity as fraud until your provider confirms otherwise.
-- Don’t click links or call numbers from unexpected texts/emails about “fraud” — use the number on the back of your card or inside your official banking app.
-- Don’t share one-time passcodes, PINs, or online banking passwords with anyone.
-- Don’t hand your card to a “courier” or anyone who turns up to “collect it”.
+- Don’t ignore small charges; they may be used to check whether the card still works.
+- Don’t assume an unknown merchant is only a harmless verification hold until your provider confirms it.
+- Don’t click links or call numbers from unexpected texts, emails, or calls about fraud.
+- Don’t share one-time passcodes, PINs, card security codes, or online banking passwords with anyone.
+- Don’t approve a banking-app request unless you are sure you started it.
+- Don’t hand your card to a courier, caller, or anyone who says they have come to collect it.
 
 ## What to do now
-1. **Freeze/lock the card and stop using it.**  
-   Use your banking app to freeze/lock the card straight away. If you can’t, don’t make further payments with it.
+1. **Freeze or lock the card and stop using it.**  
+   Use your banking app if you can. If you cannot freeze it in the app, contact the provider straight away using the number on the back of the card, your statement, or the official app or website.
 
-2. **Call your card provider’s fraud team (trusted number only).**  
-   Use the number on the back of the card or inside the official app/website. Say you’re seeing repeated small “test” charges and you want:
-   - the card **cancelled and replaced** (new number)
-   - the suspicious merchant(s) **blocked**
-   - them to check for **any pending authorisations** and advise what will drop off vs what is actually captured
+2. **Contact your card provider’s fraud team using a trusted route only.**  
+   Say: “I am seeing repeated small test charges I do not recognise.” Ask for:
+   - the card to be cancelled and replaced with a new card number
+   - the suspicious transactions to be recorded as unauthorised
+   - any pending authorisations to be checked
+   - advice on which pending items may drop off and which have been taken
 
-3. **Ask them to remove any “tokenised” versions of the card too.**  
-   Ask the provider to check whether your card was added to any digital wallet (on any device) and to **revoke/suspend any wallet tokens** and other stored-card tokens linked to the compromised card.
+3. **Ask about digital wallet and stored-card tokens.**  
+   Ask whether the compromised card has been added to any digital wallet or device you do not recognise. Ask the provider to revoke or suspend any wallet tokens or stored-card tokens linked to the compromised card where they can.
 
-4. **Report each transaction you don’t recognise as unauthorised and ask about the refund timing.**  
-   Generally, for unauthorised card payments your provider should refund you promptly (and no later than the end of the next business day after they become aware), unless they reasonably suspect fraud by you. Ask them to confirm what they’ll refund now vs later, and how they’ll contact you.
+4. **Ask what will be refunded now and what is still pending.**  
+   For unauthorised payments from an account, providers are generally expected to refund by the end of the next business day after you tell them, unless one of the limited refusal grounds applies. Credit-card or overdrawn-account cases can differ, so ask them to confirm what they will refund, temporarily credit, or review.
 
-5. **If it’s a recurring payment, cancel it via the card provider and withdraw consent.**  
-   Tell them clearly: “I withdraw consent for this recurring card payment and want it stopped.” Ask them to:
-   - cancel the continuous payment authority/recurring card payment
-   - block future attempts from that merchant
-   - confirm what to do if the merchant retries
+5. **If the charge looks recurring, withdraw consent through the card provider.**  
+   Tell them clearly: “I withdraw consent for this recurring card payment and want future payments to stop.” Ask them to:
+   - cancel the continuous payment authority or recurring card payment
+   - tell you whether they can block future attempts from that merchant
+   - note your instruction on the account
+   - give you a reference number or confirm who you spoke to
+   - tell you what to do if the merchant tries again
 
-6. **Lock down the accounts that might have stored the card details.**  
-   After the card is frozen and you’ve spoken to the provider:
-   - check email and banking alerts for “card added” / “new device”
-   - remove saved card details from major shopping/subscription accounts you control
-   - change passwords for your email and any account that stores payment details; turn on two-step verification
+6. **Secure the accounts most likely to hold the card details.**  
+   After the card is frozen and the provider has been contacted:
+   - check your banking app and email for “card added”, “new device”, or “new login” alerts
+   - change the password on your email account if you think someone else may have access
+   - change passwords on shopping, delivery, travel, or subscription accounts that stored this card
+   - turn on two-step verification where it is available
 
-7. **Save a quick record.**  
-   Screenshot or note the dates, amounts, and merchant descriptors for every “test” charge (and whether it shows as pending or completed). Keep any texts/emails you received.
+7. **Save a short record.**  
+   Note or screenshot the date, amount, merchant descriptor, and whether each item is pending or completed. Keep any texts, emails, or call details connected to the suspicious charges, including the date and time of your call to the provider.
 
-8. **If you want an official crime report reference, use the right reporting route for where you live.**  
-   - **England, Wales, Northern Ireland:** report fraud via Action Fraud (including the official Report Fraud service).  
-   - **Scotland:** report to Police Scotland (101).
+8. **Use the right fraud reporting route if you want a police report reference.**  
+   If you live in England, Wales, or Northern Ireland, report fraud through Report Fraud. If you live in Scotland, report to Police Scotland by calling 101 or using Police Scotland’s reporting routes. If someone is at your door, you feel threatened, or a crime is happening now, call 999.
 
 ## What can wait
-- Updating legitimate subscriptions with the new card details (do this after the new card arrives and the fraud has stopped).
-- Checking your credit file for knock-on identity fraud (important later, not in the first 10 minutes).
-- Formal complaints/escalations unless your provider refuses to act.
-- Deciding whether to switch banks.
+- Updating genuine subscriptions with the new card details can wait until the replacement card arrives and the fraud has stopped.
+- Checking your credit file for wider identity fraud can wait until the card is blocked and the provider has recorded the case.
+- A formal complaint can wait unless the provider refuses to act or you disagree with the outcome.
+- Deciding whether to switch banks does not need to be decided now.
 
 ## Important reassurance
-Repeated tiny charges are a common fraud pattern. Freezing the card and speaking to the provider’s fraud team quickly is usually enough to stop escalation and get the refund/dispute process moving.
+Small test charges are alarming, but freezing the card and contacting the provider quickly usually stops the card number being used again. You do not need to solve the whole fraud pattern in one sitting; the urgent part is blocking the card, reporting the unauthorised activity, and keeping a record.
 
 ## Scope note
-These are first steps to stop further card payments and start the refund/dispute process. If this expands into identity fraud (new accounts, letters you didn’t request), you may need additional protections.
+These are first steps to stop further card payments and start the refund or dispute process. If this turns into wider identity fraud, such as new accounts, credit searches, or letters you did not request, later steps may need specialist help.
 
 ## Important note
-This is general information for urgent first steps, not legal or financial advice. Processes can vary by provider, so follow your card issuer’s fraud team instructions and keep your notes.
+This is general information for urgent first steps, not legal, financial, or professional advice. Processes can vary by provider, so follow your card issuer’s fraud-team instructions and keep your notes.
 
 ## Additional Resources
 - https://www.fca.org.uk/consumers/fraudulent-payments
@@ -95,4 +112,5 @@ This is general information for urgent first steps, not legal or financial advic
 - https://www.citizensadvice.org.uk/debt-and-money/banking/stopping-a-future-payment-on-your-debit-or-credit-card/
 - https://www.reportfraud.police.uk/
 - https://www.reportfraud.police.uk/courier-fraud/
-- https://www.scotland.police.uk/guidance/scams-and-frauds/
+- https://www.scotland.police.uk/advice/scams-and-frauds/
+- https://www.scotland.police.uk/contact-us/

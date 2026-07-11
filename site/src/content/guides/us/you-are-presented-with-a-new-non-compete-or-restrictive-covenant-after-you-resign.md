@@ -1,89 +1,101 @@
-﻿---
+---
 title: "What to do if… you are presented with a new non-compete or restrictive covenant after you resign"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
-  - new noncompete after resignation
-  - asked to sign noncompete after quitting
-  - restrictive covenant after notice
-  - noncompete presented at exit
-  - pressured to sign on last day
-  - new employment restriction after resigning
-  - severance conditioned on noncompete
-  - non-solicit clause added late
-  - nda and noncompete confusion
-  - contract change after resignation
-  - can i refuse to sign noncompete
-  - worried noncompete blocks next job
-  - exit paperwork noncompete
-  - state noncompete ban question
-  - final paycheck held hostage
-  - threatened lawsuit over noncompete
-  - surprise post-employment restriction
-  - “sign today” noncompete
-last_reviewed: "2026-01-08"
+  - "new non-compete after resignation"
+  - "restrictive covenant after resignation"
+  - "new covenant after resigning"
+  - "post-resignation non-compete"
+  - "exit paperwork restrictive covenant"
+  - "late non-compete request"
+  - "surprise non-compete agreement"
+  - "new employment restriction after resignation"
+  - "what do i do if asked to sign a non-compete"
+  - "what do i do if my employer adds a covenant"
+  - "what do i do if non-compete arrives after resignation"
+  - "what do i do if exit paperwork has restrictions"
+  - "help i got a non-compete after resigning"
+  - "help i am pressured to sign a covenant"
+  - "help i found a restrictive covenant in exit papers"
+  - "my employer wants a new non-compete"
+  - "pressured to sign today"
+  - "worried about my next job"
+  - "final paycheck feels conditional"
+  - "exit meeting signing pressure"
+  - "unexpected contract after notice"
+  - "threatened over unsigned covenant"
+  - "nda or non-compete confusion"
+  - "non-solicit or non-compete confusion"
+  - "severance agreement or non-compete"
+  - "amendment or new agreement"
+  - "non compete after resignation"
+  - "restictive covenant after resignation"
+  - "after giving notice at work"
+  - "on my last day"
+  - "before starting a new job"
+  - "with severance paperwork"
+  - "after quitting my job"
+last_reviewed: "2026-06-09"
+date_created: "2026-06-09"
 ---
 
 # What to do if… you are presented with a new non-compete or restrictive covenant after you resign (USA)
 
 ## Short answer
-Don’t sign it on the spot. Get a copy, put your response in writing, and check the rules that apply in your state before you agree to anything.
+Do not sign new restrictions on the spot. Ask for the complete document, create a written record, and get state-specific advice before agreeing to anything.
 
 ## Do not do these things
-- Do not sign in a meeting, on your phone, or under a “right now” deadline.
-- Do not “accept” by email/text if you’re unsure what it means.
-- Do not provide your next employer’s name, your start date, pay, or client plans to justify yourself.
-- Do not assume it’s enforceable—noncompete enforceability varies a lot by state.
-- Do not confuse earned wages with optional benefits (like severance); don’t let anyone rush you by blending them together.
-- Do not delete messages or documents about being pressured to sign.
+- Do not sign during an exit meeting, on your phone, or under a same-day deadline before you have had time to review the full document and get state-specific advice.
+- Do not send an email or text saying you accept the terms while you are still unsure what they mean.
+- Do not assume the restriction is enforceable or unenforceable.
+- Do not disclose your next employer, start date, pay, clients, or plans unless you have a clear reason to do so.
+- Do not let anyone blur together earned pay, optional severance, benefits, and new restrictions.
+- Do not delete relevant communications or versions of the document that you are entitled to keep.
+- Do not take confidential, proprietary, client, or trade-secret materials from your employer.
 
 ## What to do now
-1. **Create a pause and get the complete document.**  
-   Say: “I’m not able to sign new legal terms today. Please email me the full document to review.”
+1. **Create a pause and ask for the complete document.**  
+   Send a short message: “I am not able to sign new terms today. Please email me the complete document so I can review it.”
 
-2. **Ask what this is (new agreement vs. amendment) and what you get in exchange.**  
-   One short message:  
-   “Please confirm whether this is a new agreement or an amendment to an existing agreement, and what consideration is being offered for signing.”
+2. **Ask what the document is and whether anything is being offered in exchange.**  
+   Send: “Please confirm whether this is a new agreement or an amendment to an existing agreement, whether anything is being offered in exchange for signing, and the date by which you want a response.”
 
-3. **Pull your existing agreements and list what already applies.**  
-   Look for: noncompete, nonsolicit/non-deal, confidentiality/NDA, inventions/IP, trade secrets, arbitration, and choice-of-law/venue clauses. If you already signed restrictions earlier, this may be trying to expand them after the fact.
+3. **Gather the agreements you are entitled to keep.**  
+   Look for any existing employment agreement, offer letter, confidentiality agreement, non-solicitation clause, non-compete, inventions or intellectual-property clause, arbitration clause, and choice-of-law or venue clause.
 
-4. **Check the legal “map” that actually governs you: state law first.**  
-   In the U.S., noncompetes are mostly state-law driven. Some states broadly ban employee noncompetes (for example, California and Minnesota for most new employment noncompetes), while others allow them with limits (such as income thresholds or reasonableness tests). Your immediate goal is not to debate—it's to avoid signing until you confirm what your state allows.
+4. **Write down the states connected with the situation.**  
+   Note where you worked, where you live, where the employer is based, and whether the document names a state’s law or a court location. Non-compete rules vary significantly by state, and other restrictive terms may be treated differently.
 
-5. **Be clear about final pay: don’t let them bundle it into a negotiation.**  
-   If anyone implies “sign or you won’t get your last paycheck,” respond in writing:  
-   “Please confirm my final paycheck will be paid on the required schedule and is not conditional on signing new terms.”  
-   If your final pay is late, contact your state labor department and/or the U.S. Department of Labor Wage and Hour Division.
+5. **Keep final pay separate from the new document.**  
+   If anyone suggests that signing affects your final paycheck, send: “Please confirm the date my final paycheck will be paid and whether you are saying payment is conditional on signing this new document.” Check your state’s final-pay rules. If the regular payday has passed and you have not been paid, contact the U.S. Department of Labor Wage and Hour Division or your state labor office.
 
 6. **Preserve a clean record.**  
-   Save the document version you were given plus any emails/texts/slack messages about signing, deadlines, threats, or promises (especially anything tying pay or a reference to signing).
+   Save the version you were given and relevant messages about deadlines, threats, promises, pay, benefits, or references, but only keep records you are entitled to retain. Do not remove work files or confidential materials.
 
-7. **Get state-specific advice quickly.**  
-   Choose one: an employment lawyer in your state (even a short paid review can be worth it), your state/local bar association’s lawyer-referral service, or legal aid if you qualify.
+7. **Get state-specific legal help before signing.**  
+   Contact an employment lawyer licensed in a relevant state. A state or local bar association lawyer-referral service can help you find one.
 
-8. **If a new job is pending, reduce risk while you review.**  
-   Tell the new employer only what they need: “I was presented with a post-employment restriction; I’m getting it reviewed.” Avoid sharing the document widely until you understand it.
+8. **Use a narrow message if a new job is pending.**  
+   You can say: “My employer presented me with a post-employment restriction after I resigned. I am getting it reviewed.” Do not forward the document broadly. Share it only with an appropriate adviser or another person who genuinely needs it.
 
 ## What can wait
-- You do not need to decide today whether to turn down your new job or change industries.
-- You do not need to negotiate the “best” wording until you know what your state law and existing agreements already say.
-- You do not need to argue with HR about enforceability; “I’m reviewing this with counsel” is enough.
-- You do not need to disclose your new employer or role details while you confirm your obligations.
+- You do not need to decide today whether to abandon a new job, change industries, or disclose your plans.
+- You do not need to argue with your employer about enforceability.
+- You do not need to negotiate detailed wording before you understand the document and the state-specific rules.
+- You do not need to respond to pressure with a rushed signature.
 
 ## Important reassurance
-It’s common to feel blindsided by a new noncompete after resigning. You’re allowed to slow the process down. Also, the FTC’s attempted nationwide noncompete ban is not in effect and not enforceable—so your real-world rights and risks usually turn on your state’s rules and the exact wording you already agreed to.
+A surprise restriction after resignation can feel urgent, but signing can create obligations that may be difficult to unwind. The FTC’s nationwide Noncompete Rule is not in effect and is not enforceable, so the practical next step is to pause and get advice based on the states involved and the exact wording of the document.
 
 ## Scope note
-These are first steps only—focused on preventing an irreversible mistake (signing away mobility under pressure) and buying time. What to do next depends on your state, your job role, and the document’s wording.
+These are first steps only. Later decisions may need help from an employment lawyer licensed in a relevant state.
 
 ## Important note
-This is general information, not legal advice. Noncompete rules vary by state and can change. If the document could affect your ability to work—or if severance/benefits are tied to signing—get advice from a qualified professional in your state before you sign anything.
+This is general information, not legal, medical, financial, therapeutic, or other professional advice. Laws and procedures can change, and the right next step depends on the facts and the document.
 
 ## Additional Resources
 - https://www.ftc.gov/legal-library/browse/rules/noncompete-rule
 - https://www.dol.gov/general/topic/wages/lastpaycheck
+- https://www.dol.gov/agencies/whd/state/contacts
 - https://www.americanbar.org/groups/lawyer_referral/resources/lawyer-referral-directory/
-- https://www.revisor.mn.gov/statutes/cite/181.988
-- https://law.justia.com/codes/california/code-bpc/division-7/part-2/chapter-1/section-16600/
-- https://eig.org/state-noncompete-map/

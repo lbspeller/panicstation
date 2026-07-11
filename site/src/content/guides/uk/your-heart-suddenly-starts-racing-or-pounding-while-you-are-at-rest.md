@@ -1,85 +1,100 @@
-﻿---
+---
 title: "What to do if… your heart suddenly starts racing or pounding while you are at rest"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
-  - heart racing at rest
-  - heart pounding suddenly
-  - palpitations while resting
-  - rapid heartbeat episode
-  - fast pulse sitting down
-  - fluttering in chest
-  - irregular heartbeat feeling
-  - sudden tachycardia at rest
-  - pounding heartbeat lying down
-  - skipped beats sensation
-  - new heart palpitations
-  - lightheaded with palpitations
-  - dizzy during rapid heartbeat
-  - shortness of breath and palpitations
-  - chest pain with palpitations
-  - anxiety-like heart symptoms
-  - unexplained fast heartbeat
-  - resting heart rate feels high
-  - sudden pounding heart at night
-last_reviewed: "2026-01-17"
+  - "heart racing at rest"
+  - "heart pounding at rest"
+  - "palpitations while resting"
+  - "rapid heartbeat while sitting"
+  - "fast pulse while resting"
+  - "fluttering heartbeat at rest"
+  - "irregular heartbeat feeling"
+  - "sudden racing heart"
+  - "pounding heart lying down"
+  - "skipped beats at rest"
+  - "what do i do if my heart races"
+  - "what do i do if palpitations start"
+  - "what do i do if my pulse races"
+  - "what do i do if my chest pounds"
+  - "help i have palpitations"
+  - "help i feel my heart racing"
+  - "my heart is pounding"
+  - "my pulse suddenly feels fast"
+  - "my heartbeat feels irregular"
+  - "dizzy with palpitations"
+  - "lightheaded with racing heart"
+  - "short of breath with palpitations"
+  - "chest tightness with palpitations"
+  - "faint feeling with fast heartbeat"
+  - "heart fluttering in chest"
+  - "anxiety-like heart symptoms"
+  - "panic attack or palpitations"
+  - "tachycardia or anxiety"
+  - "heart palpations at rest"
+  - "heart palpatations suddenly"
+  - "at rest heart racing"
+  - "night time pounding heart"
+  - "new palpitations at rest"
+  - "pregnant with palpitations"
+last_reviewed: "2026-05-26"
+date_created: "2026-05-26"
 ---
 
 # What to do if… your heart suddenly starts racing or pounding while you are at rest (UK)
 
 ## Short answer
-Stop what you’re doing, sit or lie down, and check for red-flag symptoms. If you have chest pain, shortness of breath, dizziness/lightheadedness, or fainting/near-fainting, call **999**.
+Sit or lie down, stop exertion, and check for emergency symptoms. If you currently have palpitations with chest pain or tightness, shortness of breath, feeling faint, fainting, dizziness, or lightheadedness, call 999 now.
 
 ## Do not do these things
-- Do not **drive yourself** to A&E or “push through it”.
-- Do not take **extra doses** of heart/blood pressure medicines, aspirin, or someone else’s medication “just in case”.
-- Do not try to “burn it off” with exercise.
-- Do not add stimulants right now (energy drinks, lots of caffeine, nicotine, recreational drugs).
-- Do not take **new** “cold/flu” medicines to self-treat (some can worsen palpitations), unless a pharmacist/clinician advises it for you.
-- Do not ignore it if this is **new**, happens at rest, or keeps recurring.
+- Do not drive yourself to A&E.
+- Do not try to exercise it away.
+- Do not take extra doses of heart or blood pressure medicines, aspirin, or someone else’s medication unless a clinician has told you to.
+- Do not add stimulants now, such as energy drinks, lots of caffeine, nicotine, alcohol, or recreational drugs.
+- Do not start a new cold, flu, decongestant, or stimulant medicine for this unless a pharmacist or clinician says it is suitable for you.
+- Do not ignore it if it is new, happens at rest, does not settle, or keeps coming back.
 
 ## What to do now
-1. **Get stable first.** Sit with back support or lie down. If you feel faint, lie flat and raise your legs slightly.
-2. **Red-flag check — call 999 or go to A&E now if you have palpitations with any of these:**
-   - Chest pain/pressure (including pain spreading to arm/jaw/back)
-   - Shortness of breath
-   - Feeling dizzy or lightheaded
-   - Fainting or feeling like you might faint
-3. **If no red flags, capture what’s happening (this helps clinicians).**
-   - Note the **time it started** and what you were doing.
-   - Feel your pulse at your wrist/neck: does it feel **regular** or **irregular**?
-   - If you can, count beats for **30 seconds** and write the number down.
-   - If you have a smartwatch/fitness tracker, **save the reading** (and any ECG recording if you already know how to do it safely).
-4. **Reduce strain for the next 10–15 minutes.**
-   - Loosen tight clothing. Avoid standing up quickly.
-   - Breathe slowly and steadily.
-   - Sip water if you may be dehydrated (skip if it makes nausea worse).
-   - Stop caffeine/nicotine/alcohol for now.
-5. **Only use a clinician-taught technique if you’ve been taught it before.**
-   - If you’ve previously been taught a manoeuvre for episodes of fast, regular rhythm, use **only** what you were taught — and **only** if you feel otherwise well (no chest pain, no breathlessness, no dizziness/near-fainting).
-   - If you haven’t been taught one, don’t experiment. Move to step 6.
-6. **Get the right level of help based on how it’s going.**
-   - If it’s **still happening** (even without red flags), call **NHS 111** (or use 111 online) for urgent advice.
-   - If it’s **stopped** but this was new, unusually strong, lasted more than a few minutes, or keeps coming back, ask your GP surgery for an **urgent appointment** or contact **111**.
-7. **Seek urgent advice sooner if you’re higher risk.** For example: known heart disease/arrhythmia, pregnancy/postpartum, recent procedure, severe infection/fever, significant dehydration, or medication changes that affect heart rhythm.
+1. Sit with back support or lie down. If you feel faint, lie flat and raise your legs slightly if you can do that safely.
+2. Call 999 now, or have someone take you to A&E without you driving, if the palpitations are happening now and you have any of these:
+   - chest pain, pressure, or tightness
+   - pain spreading to your arm, jaw, back, neck, or stomach
+   - shortness of breath
+   - dizziness or lightheadedness
+   - fainting, blacking out, or feeling like you might faint
+3. If there are no emergency symptoms, note what is happening without delaying help:
+   - the time it started
+   - whether it began while sitting, lying down, sleeping, eating, using caffeine, using nicotine, drinking alcohol, taking a medicine, or feeling unwell
+   - whether the pulse feels regular, irregular, very fast, fluttery, or like skipped beats
+   - any smartwatch heart-rate or ECG reading you already have
+4. Reduce strain for the next few minutes:
+   - keep sitting or lying down
+   - loosen tight clothing
+   - avoid standing up quickly
+   - sip water if you may be dehydrated and can swallow normally
+   - pause caffeine, nicotine, alcohol, and recreational drugs
+5. If a clinician has previously taught you a manoeuvre for a fast regular rhythm, use only what you were taught, and only if you have no chest pain, breathlessness, dizziness, or faint feeling. If you have not been taught one, do not experiment.
+6. If the palpitations do not go away, are getting worse, or you feel unable to manage them, call 111 where available, use 111 online in England, or use your local NHS urgent advice route.
+7. If the episode has stopped but it was new, unusually strong, lasted more than a few minutes, or keeps recurring, ask your GP surgery for an urgent appointment, call 111 where available, or use your local NHS urgent advice route.
+8. Seek advice sooner if you have known heart disease, a known arrhythmia, pregnancy or recent birth, a recent heart procedure, fever or severe infection, significant dehydration, or a recent medicine change that may affect heart rhythm.
 
 ## What can wait
-- You don’t need to work out the exact cause right now.
-- You don’t need to decide today about long-term tests or treatment.
-- You don’t need to keep re-checking your pulse repeatedly once you’ve noted the key details.
+- You do not need to work out the exact cause right now.
+- You do not need to decide today about long-term tests or treatment.
+- You do not need to keep checking your pulse again and again once you have noted the key details.
+- You do not need to search for every possible cause while the episode is happening.
 
 ## Important reassurance
-A sudden pounding or racing heartbeat can feel frightening even when it settles. Taking calm, practical steps and using the red-flag check is a sensible way to stay safe and get appropriate help.
+A racing or pounding heartbeat can feel frightening, and many episodes are not dangerous. The safest first move is to stay still, check for emergency symptoms, and use NHS help if it does not settle or you feel unwell.
 
 ## Scope note
-This covers first steps for the first minutes/hours. If episodes recur, clinicians may recommend ECG monitoring and blood tests, and review medicines and triggers.
+These are first steps for the first minutes or hours. If episodes recur, a clinician may later suggest checks such as an ECG, heart monitoring, blood tests, or a medicine review.
 
 ## Important note
-This is general information, not a diagnosis. If you think you’re having a medical emergency or you feel seriously unwell, call **999**.
+This is general information and not legal, medical, financial, therapeutic, or professional advice. It is not a diagnosis or a substitute for urgent care. If you think this may be an emergency or you feel seriously unwell, call 999.
 
 ## Additional Resources
 - https://www.nhs.uk/symptoms/heart-palpitations/
 - https://www.nhs.uk/conditions/arrhythmia/
 - https://www.nhsinform.scot/illnesses-and-conditions/cardiovascular-disease/heart-disease/heart-palpitations/
 - https://www.bhf.org.uk/informationsupport/heart-matters-magazine/medical/when-do-you-still-need-to-get-medical-help
-- https://www.uhsussex.nhs.uk/resources/palpitations-emergency-department-leaflet/

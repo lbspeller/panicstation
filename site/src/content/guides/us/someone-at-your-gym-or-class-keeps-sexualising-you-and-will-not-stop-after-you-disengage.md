@@ -1,83 +1,84 @@
-﻿---
+---
 title: "What to do if… someone at your gym or class keeps sexualising you and will not stop after you disengage"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
-  - gym harassment
-  - fitness class harassment
-  - being sexualised at gym
-  - unwanted sexual comments
-  - unwanted flirting won’t stop
-  - persistent gym member attention
-  - coach making you uncomfortable
-  - trainer crossing boundaries
-  - sexual remarks about my body
-  - being stared at in gym
-  - being followed at gym
-  - gym creep won’t leave me alone
-  - someone keeps approaching me
-  - sexual jokes in class
-  - intimidation at gym
-  - unsafe feeling at gym
-  - boundary not respected
-  - harassment after saying no
-  - repeated unwanted contact
-  - unwanted contact after disengaging
-last_reviewed: "2026-03-13"
+  - "gym sexual harassment"
+  - "class sexual harassment"
+  - "someone sexualising me at gym"
+  - "someone sexualizing me at gym"
+  - "unwanted sexual comments at gym"
+  - "repeated sexual remarks in class"
+  - "gym member will not stop"
+  - "unwanted attention after disengaging"
+  - "what do i do if someone sexualises me"
+  - "what do i do if gym harassment continues"
+  - "what do i do if they will not stop"
+  - "what do i do if i feel unsafe at gym"
+  - "help i am being sexualised"
+  - "help i feel unsafe at class"
+  - "someone at my gym keeps approaching me"
+  - "my trainer keeps sexualising me"
+  - "sexual remarks about my body"
+  - "being stared at in gym"
+  - "being followed after class"
+  - "repeated unwanted contact after disengaging"
+  - "sexual jokes aimed at me"
+  - "pressure after i disengage"
+  - "unwanted flirting will not stop"
+  - "gym creep will not stop"
+  - "trainer crossing boundaries"
+  - "coach making me uncomfortable"
+  - "not sure if gym harassment"
+  - "at a college gym"
+  - "during a fitness class"
+  - "after leaving the class"
+  - "at a school run class"
+  - "gym harrassment"
+  - "trainer making me uncomforable"
+  - "someone at class keeps approaching me"
+  - "someone at gym ignores disengagement"
+last_reviewed: "2026-06-04"
+date_created: "2026-06-04"
 ---
 
 # What to do if… someone at your gym or class keeps sexualising you and will not stop after you disengage (USA)
 
 ## Short answer
-Go to staff/instructor now and ask them to intervene and keep the person away from you. If you feel in danger, leave and call 911.
+Move to a staffed, public area and ask staff or the instructor to keep the person away from you. If you are in immediate danger or need emergency assistance, call 911.
 
 ## Do not do these things
-- Do not go to an isolated area to avoid them (empty studio, hallway, parking lot). If you need to use locker rooms to leave, ask staff to walk with you or wait close by.
-- Do not agree to meet them outside or “talk it out”.
-- Do not keep responding, explaining, or negotiating—end contact and switch to staff support.
-- Do not assume you have to “tough it out” to avoid causing a scene.
-- Do not confront them alone if you feel fear, pressure, or escalation.
+- Do not go to an isolated area to avoid the person.
+- Do not meet them outside or agree to talk privately.
+- Do not keep responding, explaining, or negotiating after you have disengaged.
+- Do not feel pressured to confront them alone.
+- Do not leave through a quiet area alone if you feel unsafe.
 
 ## What to do now
-1. **Get to a safer, public spot.** Walk to the front desk, stand near the instructor, or move to a crowded area with staff nearby.
-2. **Use one clear boundary line, then disengage.** Example: “Stop. Do not talk to me like that.” Then turn away and focus on getting help.
-3. **Ask staff for specific actions (be direct).**
-   - “I’m being sexually harassed. I need you to step in and keep this person away from me.”
-   - Ask them to **stay with you**, **speak to the person**, and **separate you** for the rest of the session.
-4. **Ask for a supervisor/manager and a written incident report.** Have them record: date/time, location, what was said/done (briefly), name/description, witnesses, and what staff did.
-5. **Use immediate safety options the venue controls today.** For example:
-   - switching you to a different class time today
-   - escorting you to your car/ride
-   - if policies allow, **separating you** and **removing or suspending the person for the session** if they won’t stop
-6. **Save what’s already there—don’t “investigate”.**
-   - Screenshot/save any DMs or texts.
-   - If the gym has cameras, ask them to **retain/preserve video** for the relevant time window as soon as possible.
-7. **If this is a college/university facility or a school-run program, consider Title IX reporting.**
-   - Ask for the **Title IX Coordinator/Office** and say you want to report sex-based harassment connected to an education program or activity.
-   - You can also file a complaint with the **U.S. Department of Education Office for Civil Rights (OCR)** if applicable.
-8. **Consider law enforcement when there’s threat, stalking, repeated harassment, or you feel unsafe.**
-   - Immediate danger: **911**
-   - Not an emergency: your local police department’s non-emergency number (ask staff to help you place the call if you don’t want to do it alone).
-9. **Get confidential support even if you’re unsure what “counts”.**
-   - You can contact **RAINN** for confidential support and options.
+1. **Move to a safer pause.** Go to the front desk, stand near the instructor, or move to a staffed public area.
+2. **Tell staff what is happening.** Say: “This person keeps making sexual comments or approaching me after I disengaged. I need help keeping them away from me.”
+3. **Ask for immediate separation.** Ask staff to stay nearby, keep the person away from you, and explain what safe options are available for the rest of the session.
+4. **Ask for help leaving safely.** Ask a staff member to walk with you to your ride or wait with you while you arrange transport.
+5. **Call 911 for immediate danger or emergency assistance.**
+6. **Preserve only what already exists if you choose.** You may save existing messages and ask the venue to preserve any existing footage.
+7. **Contact RAINN if relevant.** If the behavior involved sexual assault or abuse, or you want to ask about support options, RAINN may be able to help.
 
 ## What can wait
-- You do not need to decide today whether to file a police report, seek a protective order, or change gyms.
-- You do not need to craft a perfect timeline right now—write down the basics and pause.
-- You do not need to respond to the person’s messages or accept apologies.
+- You do not need to decide today whether to make a police report, change gyms, or take any further formal step.
+- You do not need to write a detailed account right now.
+- You do not need to respond to messages or accept an apology.
+- You do not need to decide now whether to contact a school or college support office. If the facility is part of its program, that office can explain whether Title IX may apply.
 
 ## Important reassurance
-Your reactions (freezing, laughing nervously, trying to stay polite) can be automatic stress responses. The fact you disengaged and it continued is enough to justify getting staff involved.
+Freezing, laughing nervously, trying to stay polite, or leaving quietly can be stress responses. You do not need to prove that the behavior was serious enough before asking staff to help keep you safe.
 
 ## Scope note
-This covers immediate first steps to reduce risk and get support. If it becomes ongoing, you may want additional help from advocacy services, your school (if applicable), or local legal resources—but you do not have to solve that today.
+These are immediate first steps only. Later decisions may need support from a specialist service, the venue, or a school or college support office if relevant.
 
 ## Important note
-This is general information, not legal advice. If you are in immediate danger, call 911. If you’re unsure what to do next, involving staff, documenting the incident, and getting confidential support are strong first moves.
+This is general information, not legal, medical, financial, therapeutic, or professional advice. If you are in immediate danger or need emergency assistance, call 911.
 
 ## Additional Resources
 - https://rainn.org/help-and-healing/hotline/
+- https://www.911.gov/calling-911/
 - https://www.ed.gov/laws-and-policy/civil-rights-laws/title-ix-and-sex-discrimination
-- https://www.ed.gov/laws-and-policy/civil-rights-laws/file-complaint
-- https://www.justice.gov/ovw/stalking
-- https://ovc.ojp.gov/topics/stalking

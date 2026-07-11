@@ -1,78 +1,89 @@
-﻿---
+---
 title: "What to do if… your washing machine is leaking and water is spreading across the floor"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
-  - washing machine leaking
-  - washer leak
-  - water spreading on floor
-  - laundry room flood
-  - utility room flooding
-  - water near sockets
-  - leaking washing machine hose
-  - burst inlet hose washer
-  - washer drain hose leak
-  - leaking from under washer
-  - water pooling under machine
-  - stopcock emergency
-  - inside stop valve location
-  - tenant washing machine leak
-  - flat communal stop valve
-  - water damage panic
-  - leak during wash cycle
-  - appliance leak sudden
-  - slippery wet floor hazard
-last_reviewed: "2026-03-04"
+  - "washing machine leaking"
+  - "leaking washing machine"
+  - "washer leaking water"
+  - "washer leak on floor"
+  - "washing machine flood"
+  - "water spreading from washer"
+  - "laundry room flooding"
+  - "utility room flooding"
+  - "water under washing machine"
+  - "what do i do if washing machine leaking"
+  - "what do i do if washer flooding"
+  - "what do i do if water near sockets"
+  - "what do i do if washer hose leaking"
+  - "help i have washer leak"
+  - "help i see water spreading"
+  - "help i cant stop leak"
+  - "help i have water near electrics"
+  - "my washing machine is leaking"
+  - "my washer is flooding"
+  - "my floor is wet"
+  - "my kitchen is flooding"
+  - "slippery wet floor"
+  - "water near plug socket"
+  - "water near extension lead"
+  - "water pooling under washer"
+  - "leak during wash cycle"
+  - "drain hose leaking"
+  - "inlet hose leaking"
+  - "stopcock hard to find"
+  - "stop tap not obvious"
+  - "wasing machine leaking"
+  - "wahsing machine leaking"
+  - "rented flat washer leak"
+  - "flat below water leak"
+last_reviewed: "2026-05-28"
+date_created: "2026-05-28"
 ---
 
 # What to do if… your washing machine is leaking and water is spreading across the floor (UK)
+
 ## Short answer
-Stop the water at the source (usually the washer’s isolation valves or your inside stop valve) and keep electricity away from the water.
+Stop the water at the source if you can do it from a dry, safe place, and keep electricity away from the water. Do not step into water to reach plugs, sockets, switches, the meter cupboard, or the consumer unit.
 
 ## Do not do these things
 - Don’t step into water to reach plugs, extension leads, sockets, the meter cupboard, or the consumer unit.
-- Don’t keep the wash running “to finish the cycle”.
-- Don’t pull the machine out while it’s still powered and leaking (you can rip hoses and worsen the flood).
-- Don’t mop water towards electrical outlets, appliances, or under kitchen units.
-- Don’t plug in fans/heaters or use a hairdryer to “dry it quickly” while the area is damp or electrics may be affected.
+- Don’t keep the wash running to finish the cycle.
+- Don’t pull the machine out while it is still powered and leaking; this can pull hoses loose and worsen the flood.
+- Don’t mop water towards sockets, appliances, boilers, or under kitchen units.
+- Don’t plug in fans, heaters, or a hairdryer while the area is damp or electrics may be affected.
+- Don’t turn the machine back on to test it before the leak source has been found.
 
 ## What to do now
-1. **Get to a safer pause.** Keep people and pets out of the wet area (slip + electric-shock risk). Put shoes on if you need to move around.
-2. **Stop the washing machine safely.** If you can reach the controls without standing in water, press stop/pause and turn the machine off.
-3. **If water is near electrics, only isolate power from a dry, safe spot.**  
-   - If you can reach your **consumer unit** without stepping in water, and it is clearly dry, switch off the relevant circuit(s) (or the main switch if you can’t identify the circuit).  
-   - **Do not touch the consumer unit or meter cupboard if you suspect water has got into/onto it, or if you see signs of overheating/arcing.** Get a qualified electrician (or your electricity network/operator) to advise.
-4. **Shut off the water feeding the washer.**  
-   - Turn off the **isolation valves** (hot and cold) on the pipes behind/near the machine if you can reach them safely.  
-   - If you can’t, turn off your **inside stop valve (stopcock/stop tap)**—often under the kitchen sink, in an airing cupboard, or where the water pipe enters the home.
-5. **Limit the spread.** Use towels, a mop, or absorbent cloths to create a “dam” so water doesn’t reach sockets, boilers, or other rooms. If it’s still coming out, place a bowl/tray under the drip point.
-6. **Protect nearby items quickly.** Move anything that will be ruined by water (power strips, chargers, rugs, cardboard boxes, paperwork). Lift furniture legs onto towels/foil/blocks if you can.
-7. **If you’re in a flat or there’s a unit below, alert them once it’s safe.** After water is off and you’re out of immediate danger, notify your downstairs neighbour/building manager so they can check for water ingress.
-8. **Document what you can.** Take a few photos/video of: the leak source area, the water spread, and any damaged items (useful for landlord/insurer).
-9. **Get the right help for your housing situation.**  
-   - **If you rent:** contact your landlord/letting agent (use their emergency repairs route if available).  
-   - **If you own:** contact a plumber/appliance engineer.  
-10. **Before you turn anything back on:** don’t restore water or power to the machine until the leak source is identified and areas around electrics are dry and safe.
+1. **Get to a safer pause.** Keep people and pets out of the wet area. Put shoes on before moving near the water, and stay on dry flooring where you can.
+2. **Stop the washing machine only if you can reach it safely.** If you can use the controls without standing in water, press stop or pause and turn the machine off.
+3. **Treat water near electrics as the main danger.** If water is near plugs, sockets, extension leads, the consumer unit, or the meter area, do not touch them from the wet area. If you can reach the consumer unit from a dry, safe place and it is clearly dry, switch off the affected circuit or the main switch.
+4. **Do not touch electrical equipment that may be wet.** If water may have reached the consumer unit, meter cupboard, fixed wiring, sockets, or switches, keep away from it and get advice from a qualified electrician. If you think supply or meter equipment is dangerous, use the official power-cut or electricity network emergency contact for your part of the UK.
+5. **Shut off the water feeding the washing machine.** If you can reach it safely, turn the small isolation valve or valves on the hose or hoses behind or near the machine. If you cannot reach them safely, turn off your inside stop valve, also called a stopcock or stop tap. It is often under the kitchen sink, in an airing cupboard, under the stairs, near the front door, or where the water pipe enters the home.
+6. **Limit the spread.** Use towels, a mop, or absorbent cloths to make a barrier so water does not reach sockets, boilers, other rooms, or ceilings below. If water is still dripping and it is safe to get close, put a bowl, tray, or bucket under the drip point.
+7. **Move vulnerable items away from the water.** Move power strips, chargers, rugs, paperwork, cardboard boxes, and small items from the wet area. Lift light furniture legs onto towels, foil, or blocks if you can do it without strain.
+8. **If you are in a flat, warn anyone who may be affected below.** Once the water is off and you are safe, contact the downstairs neighbour, building manager, concierge, landlord, or freeholder so they can check for water coming through.
+9. **Take simple records once it is safe.** Take a few photos or a short video of the leak area, the spread of water, and any damaged items. Do not move back into the wet area just to get photos.
+10. **Contact the right repair route.** If you rent, contact your landlord or letting agent and use their emergency repairs route if they have one. If you own the home, contact a plumber or appliance engineer.
+11. **Keep the washer off.** Do not restore water or power to the washing machine until the leak source has been identified and the area around electrics is dry and safe.
 
 ## What can wait
-- You don’t need to diagnose the exact failed part right now.
-- You don’t need to decide about replacing the machine today.
-- You don’t need to start a full “deep dry-out” immediately beyond stopping spread and making it safe.
+- You do not need to diagnose the exact failed part right now.
+- You do not need to decide today whether to repair or replace the machine.
+- You do not need to start a full dry-out beyond stopping the water, keeping electrics safe, and limiting spread.
+- You do not need to sort insurance, landlord responsibility, or neighbour damage before the immediate leak is controlled.
 
 ## Important reassurance
-Most washer leaks look dramatic because they spread fast, but the situation usually improves quickly once the **water is off** and **electrics are kept dry**. Your job in the first minutes is safety and stopping further damage.
+Washing machine leaks can look dramatic because water spreads quickly across hard flooring. The first minutes are about making the area safe, stopping the water, and preventing water from reaching electrics or the flat below.
 
 ## Scope note
-This is first-steps-only guidance to stabilise the situation. If there’s water into ceilings below, under flooring, behind units, or near fixed wiring/meter equipment, you may need professional assessment.
+These are first steps only to stabilise the situation. If water has reached fixed wiring, sockets, the consumer unit, the meter area, ceilings below, flooring, or hidden spaces behind units, later decisions may need help from a qualified electrician, plumber, appliance engineer, landlord, insurer, or building manager.
 
 ## Important note
-This is general information, not professional or legal advice. If you can’t safely access shutoffs from a dry position, or you suspect water has affected your consumer unit/meter area, prioritise personal safety and get qualified help.
+This is general information, not legal, electrical, plumbing, insurance, tenancy, or other professional advice. If you cannot safely reach the shutoffs from a dry place, keep away from the wet area and get qualified help.
 
 ## Additional Resources
 - https://www.electricalsafetyfirst.org.uk/guidance/safety-around-the-home/flooding-advice/
-- https://www.ukpowernetworks.co.uk/safety-equipment/advice/safety-advice-and-resources
-- https://powercuts.nationalgrid.co.uk/power-cut-advice/safety-first
-- https://www.thameswater.co.uk/help/water-and-waste-help/how-to-turn-your-water-on-and-off/how-to-find-and-use-your-inside-stop-valve
 - https://www.watersafe.org.uk/advice/general_plumbing_advice/turning_off_your_water/
+- https://prepare.campaign.gov.uk/be-informed-about-hazards/power-cuts/
 - https://www.gov.uk/private-renting/repairs
-- https://england.shelter.org.uk/housing_advice/repairs/landlord_and_tenant_responsibilities_for_repairs

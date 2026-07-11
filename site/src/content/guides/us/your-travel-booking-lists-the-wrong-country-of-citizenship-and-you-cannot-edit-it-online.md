@@ -1,74 +1,100 @@
-﻿---
+---
 title: "What to do if… your travel booking lists the wrong country of citizenship and you cannot edit it online"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
-  - wrong citizenship on booking
-  - wrong nationality on booking
-  - booking shows wrong country
-  - cannot edit passenger details
-  - airline reservation nationality error
-  - apis details wrong
-  - advance passenger info mismatch
-  - secure flight data concern
-  - passport country mismatch booking
-  - check-in nationality incorrect
-  - travel agent booking wrong details
-  - dual citizenship booking issue
-  - booking citizenship vs passport issue
-  - cannot check in online
-  - tsa screening mismatch worry
-  - denied boarding risk
-  - international flight passenger data
-  - passport details wrong booking
-  - travel document verification failed
-last_reviewed: "2026-03-08"
+  - "wrong citizenship on booking"
+  - "wrong nationality on booking"
+  - "booking shows wrong country"
+  - "airline citizenship mistake"
+  - "passenger citizenship incorrect"
+  - "passport country mismatch"
+  - "apis details wrong"
+  - "advance passenger mismatch"
+  - "check-in nationality incorrect"
+  - "travel document mismatch"
+  - "what do i do if booking citizenship wrong"
+  - "what do i do if nationality wrong on booking"
+  - "what do i do if passport country differs"
+  - "what do i do if i cannot edit booking"
+  - "help i entered wrong citizenship"
+  - "help i cannot check in online"
+  - "help i picked wrong nationality"
+  - "help i see wrong passport country"
+  - "my booking has wrong citizenship"
+  - "my passport details are wrong"
+  - "citizenship field locked online"
+  - "nationality field greyed out"
+  - "check-in says document mismatch"
+  - "airline app rejects passport"
+  - "reservation shows different country"
+  - "apis vs passport"
+  - "citizenship vs nationality"
+  - "passport issuing country confusion"
+  - "secure flight mismatch worry"
+  - "tsa mismatch worry"
+  - "dual citizen booking"
+  - "international flight booking"
+  - "online travel agency booking"
+  - "airport check-in problem"
+  - "citzenship wrong booking"
+  - "passprot country wrong"
+last_reviewed: "2026-07-04"
+date_created: "2026-07-04"
 ---
 
 # What to do if… your travel booking lists the wrong country of citizenship and you cannot edit it online (USA)
 
 ## Short answer
-Get the airline (or the agency that issued the ticket) to correct your passenger/APIS details to match your passport; if online editing is locked, plan to have it corrected at the airport check-in desk well before departure.
+Ask the airline or the agency that issued the ticket to correct the citizenship, nationality, or passport details so they match the passport you will travel with. If online editing is locked, use staffed check-in before any boarding pass is issued.
 
 ## Do not do these things
-- Don’t cancel and rebook just to “start over” unless the airline/agent confirms the data cannot be corrected (you may pay more and still hit the same checks).
-- Don’t change high-impact identity fields (like your name or date of birth) if they already match your ID—those are critical for security screening.
-- Don’t enter a different citizenship in any government travel permission (visa/ESTA, where applicable) to match a mistaken booking—government forms must match your real documents.
-- Don’t rely on gate staff to fix it; gate time is the most constrained.
-- Don’t send passport images to unknown third parties offering “PNR correction.”
+- Don’t cancel and rebook just to “start over” unless the airline or agent confirms the record cannot be corrected.
+- Don’t change your name, date of birth, or other identity details if they already match your travel document.
+- Don’t put a false citizenship or passport country into a visa, ESTA, or other official travel permission to match the mistaken booking.
+- Don’t leave this for the gate if you can reach the airline, agency, or staffed check-in earlier.
+- Don’t send passport images to unknown third parties offering a quick correction.
 
 ## What to do now
-1. **Confirm exactly what’s wrong.**  
-   Note whether it’s “citizenship/nationality” versus “passport issuing country.” Write down what the booking shows and what it should show based on the passport you’ll travel with.
-2. **Save proof and identifiers.**  
-   Screenshot the passenger details page and any error message. Keep your airline record locator (PNR) and (if applicable) the travel agency itinerary/ticket number.
-3. **Contact whoever can edit your booking record.**  
-   - Booked **direct with the airline**: request an update to your **APIS (Advance Passenger Information System) / passport details** in the reservation.  
-   - Booked via an **online travel agency**: contact the agency first; they may need to push the change into the airline record.
-4. **Use wording that avoids a “name change” workflow.**  
-   Say: “My reservation shows the wrong country of citizenship/nationality and I can’t edit it online. Please update my APIS/passport information to match my passport.”
-5. **Make sure your Secure Flight identity details match your ID.**  
-   Airlines collect Secure Flight passenger data for TSA screening. Airline guidance commonly emphasizes providing your **full name, date of birth, and gender** as requested, matching your ID/travel document. If any of those are wrong in the booking, escalate immediately with the airline/agent (don’t wait for the airport).
-6. **If they tell you it must be handled at the airport, switch to staffed check-in and arrive early.**  
-   Go to the check-in desk (not only kiosk/bag drop) and ask them to correct the nationality/citizenship field in the passenger/APIS record before your boarding pass is issued.
-7. **If your trip involves international travel, keep permissions aligned with the passport you’ll use.**  
-   For routes where APIS is transmitted and for entry/transit rules, any required travel authorization (for example, a visa/ESTA where relevant) must match the passport you’ll actually present.
+1. **Check what field is wrong.**  
+   Look for the exact label: “citizenship,” “nationality,” “passport issuing country,” or “passport country.” Write down what the booking shows and what the passport you will travel with shows.
+
+2. **Save the booking details.**  
+   Take screenshots of the passenger details page and any error message. Keep the airline record locator, ticket number, and travel agency booking reference together.
+
+3. **Contact the party that controls the record.**  
+   If you booked direct with the airline, ask the airline to update the APIS or passport details in the reservation. If you booked through an online travel agency, contact the agency first and ask whether they or the airline must update the passenger record.
+
+4. **Use wording that avoids a name-change problem.**  
+   Say: “My reservation shows the wrong country of citizenship or nationality, and I cannot edit it online. Please update my APIS or passport information to match the passport I will present.”
+
+5. **Check the Secure Flight identity fields separately.**  
+   For U.S. aviation security screening, airlines collect Secure Flight passenger data such as full name, date of birth, and sex or gender, as the booking asks. If those identity fields are wrong, ask the airline or agent to fix them before check-in if possible.
+
+6. **If they say it must be fixed at the airport, use staffed check-in.**  
+   Go to the airline check-in desk rather than relying only on online check-in, a kiosk, or bag drop. Ask the agent to correct the citizenship, nationality, or passport country field before issuing the boarding pass.
+
+7. **Keep official travel permissions tied to the passport you will present.**  
+   If your trip involves a visa, ESTA, transit authorization, or more than one passport, check that the permission is for the same passport and citizenship you will use for that part of the trip. Some ESTA passport, citizenship, and date-of-birth mistakes may require a new application rather than a simple update.
 
 ## What can wait
-- You don’t need to decide now whether to complain or seek compensation—focus on getting the record corrected so you can board.
-- You don’t need to research every border rule while panicking; the immediate goal is: **correct passenger data + correct passport/permissions in hand**.
+- You do not need to decide now whether to complain, seek a refund, or ask for compensation.
+- You do not need to research every border rule while panicking; first focus on the booking record, the passport you will present, and any required travel permission.
+- You do not need to solve every dual-citizenship question right now unless it affects the passport you must use for this journey.
 
 ## Important reassurance
-This kind of passenger-data mismatch is common and usually fixable—either by the airline/agent updating your reservation/APIS details or by a correction at staffed check-in. Acting before departure day reduces stress and prevents last-minute denials.
+A wrong citizenship or nationality field in a booking does not automatically mean the trip is lost. It often can be corrected by the airline, the agency, or staffed check-in, and acting before departure day gives you more room to fix it calmly.
 
 ## Scope note
-These are first steps only. If your itinerary involves multiple passports, visas, or complex transit, you may need route-specific guidance later—but you can defer that until the booking data is corrected and you’re steady.
+These are first steps only. If your itinerary involves multiple passports, visas, transit rules, or a country where you may also be a citizen, later decisions may need airline, consular, or immigration-specific help.
 
 ## Important note
-This is general information, not legal advice. Airline policies, TSA screening processes, and border/entry requirements vary by route and traveller status. If you suspect the wrong citizenship could affect entry permission for any stop on your journey, treat correction as time-sensitive and use official guidance for your exact itinerary.
+This is general information, not legal, immigration, financial, travel-agent, or professional advice. Airline systems, TSA screening processes, APIS requirements, and border rules can vary by route, document, and traveller status.
 
 ## Additional Resources
 - https://www.cbp.gov/travel/travel-industry-personnel/advance-passenger-information-system
 - https://www.cbp.gov/travel/travel-industry-personnel/apis/apis-departure-req
-- https://www.dhs.gov/sites/default/files/publications/pia_tsa_secureflight_18%28h%29_july2017.pdf
-- https://www.united.com/en/us/fly/travel/airport/secure-flight.html
+- https://www.ecfr.gov/current/title-49/subtitle-B/chapter-XII/subchapter-C/part-1560
+- https://www.help.cbp.gov/s/article/Article-1439?language=en_US
+- https://www.help.cbp.gov/s/article/Article-1255?language=en_US
+- https://travel.state.gov/en/international-travel/planning/personal-needs/dual-nationality.html

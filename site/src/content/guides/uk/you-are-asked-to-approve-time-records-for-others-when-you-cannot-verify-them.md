@@ -1,70 +1,80 @@
-﻿---
+---
 title: "What to do if… you are asked to approve time records for others when you cannot verify them"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
-  - approve time records i can’t verify
-  - asked to sign off timesheets
-  - pressured to approve hours worked
-  - manager asked to approve payroll
-  - can’t confirm staff hours
-  - timekeeping records seem wrong
-  - asked to rubber stamp timesheets
-  - concerned timesheets are inaccurate
-  - approve time entries without evidence
-  - approve clock in clock out for others
-  - payroll approval i’m not comfortable with
-  - asked to confirm hours i didn’t witness
-  - timesheet sign off risk
-  - time records approval dispute
-  - approve overtime i can’t verify
-  - worried about inaccurate pay records
-  - asked to backdate time approvals
-  - asked to approve timesheet corrections
-last_reviewed: "2026-01-07"
+  - "asked to approve time records"
+  - "cannot verify time records"
+  - "asked to approve others hours"
+  - "asked to approve others timesheets"
+  - "pressured to approve time records"
+  - "pressured to sign time records"
+  - "approve time records without evidence"
+  - "approve time records for others"
+  - "time records seem inaccurate"
+  - "others time records look wrong"
+  - "what do i do if timesheets are wrong"
+  - "what do i do if payroll records are wrong"
+  - "what do i do if hours cannot be verified"
+  - "what do i do if time records lack evidence"
+  - "help i cannot verify hours"
+  - "help i am being pressured to approve timesheets"
+  - "help i signed off wrong hours"
+  - "help i cannot confirm staff hours"
+  - "my manager wants timesheets approved"
+  - "my workplace wants time records signed"
+  - "missing clock in records"
+  - "hours do not match rota"
+  - "overtime records seem wrong"
+  - "payroll deadline and unverified hours"
+  - "timesheet corrections look unsupported"
+  - "backdated time records requested"
+  - "timesheets or payroll confusion"
+  - "time records or rota mismatch"
+  - "approval versus verification confusion"
+  - "sign off versus certify confusion"
+  - "timeshet approval problem"
+  - "payrol records wrong"
+last_reviewed: "2026-05-03"
+date_created: "2026-05-03"
 ---
 
 # What to do if… you are asked to approve time records for others when you cannot verify them (UK)
 
 ## Short answer
-Do not approve anything that implies you have “verified” hours you cannot check. Pause the approval, put your concern in writing, and ask for the organisation’s proper verification route (timekeeping/payroll controls).
+Do not approve anything that says or implies you have verified hours you cannot check. Pause the approval, put your concern in writing, and ask for the proper timekeeping or payroll verification route.
 
 ## Do not do these things
 - Do not “just sign it” to meet a deadline if the sign-off wording suggests you are confirming accuracy.
-- Do not accuse colleagues of fraud or dishonesty—stick to facts: “I can’t verify these entries from the records I can access.”
-- Do not edit or “fix” other people’s hours yourself unless the written process explicitly authorises you to, and you have evidence for the change.
-- Do not agree to off-the-record instructions (calls/chats) if you can’t later show what you were asked to do.
-- Do not ignore it and hope it goes away—if pay is wrong, it can escalate quickly.
+- Do not accuse colleagues of fraud or dishonesty. Stick to facts, such as: “I can’t verify these entries from the records I can access.”
+- Do not edit or “fix” other people’s hours yourself unless the written process authorises you to do that and you have evidence for the change.
+- Do not rely on off-the-record instructions if you may later need to show what you were asked to approve.
+- Do not leave the request unresolved without a written response. Keep it in the correct written process.
 
 ## What to do now
-1. **Stop and read what the approval actually means.** Check the wording in the system/email (for example: “I confirm these hours are correct”). If it implies verification, you need a different route than simple approval.
-2. **Reply (briefly) in writing to the requester the same day.** Use a neutral line such as: “I’m not able to verify these time entries from the records I have. Please advise the correct verification route or an alternate approver.” Keep it factual.
-3. **Ask for the verification basis (the records), not “trust”.** Request whatever your workplace uses as objective checks (rota/schedule, clock-in data, job tickets, system access logs where relevant, supervisor notes, field-service records).
-4. **Propose an immediate safe workaround that doesn’t misstate verification.** Examples:
-   - Employees re-submit with an explicit **employee confirmation** (“these hours are accurate”) if your policy allows.
-   - Mark as **“pending review”** (if your system supports it) and ask payroll/timekeeping for an extension.
-   - Route the item to a designated **timekeeper/payroll admin** for exception handling.
-5. **Escalate to the actual owner of timekeeping/payroll controls.** If your manager insists you approve anyway, forward the request and your written concern to **whoever owns timekeeping controls** in your organisation (for example: payroll, HR, finance, operations, or the business owner) and ask for instruction in writing.
-6. **Ask for the right person to certify.** If someone else has direct oversight (for example, the employee’s line manager, duty manager, site supervisor, or project lead), ask for them to approve instead—so the certification matches real supervision.
-7. **Keep a minimal, dated record for yourself.** Note what you were asked to approve, why you could not verify, who you told, and when. (Keep it professional and factual.)
-8. **If you think the issue could affect others and internal routes aren’t working, use formal routes.**
-   - If this is mainly about how you’re being instructed/treated (pressure to certify), you can raise a **formal grievance**.
-   - If you reasonably believe inaccurate records could lead to broader harm (for example, systemic mispayment, falsified records, or concealment affecting others), consider your organisation’s **whistleblowing** route (a disclosure in the public interest) or other appropriate channels.
+1. **Stop and read what the approval actually means.** Check the wording in the system or email, especially phrases such as “I confirm these hours are correct” or “verified by manager.” If it implies verification, do not approve until the correct route is clear.
+2. **Reply promptly in writing, especially if there is a payroll deadline.** Use a neutral line such as: “I’m not able to verify these time entries from the records I have. Please advise the correct verification route or an alternate approver.” Keep it factual.
+3. **Ask for the records you are expected to rely on.** Request the objective checks your workplace normally uses, such as rota records, clock-in data, job tickets, supervisor notes, field-service records, or other relevant system records.
+4. **Offer a safe temporary route that does not misstate verification.** Depending on your workplace process, this might be marking the entries as pending review, asking payroll or timekeeping for an exception route, or routing the request to the person who can actually verify the hours.
+5. **Ask for the right person to certify the entries.** If someone else had direct oversight, such as the employee’s line manager, duty manager, site supervisor, or project lead, ask for that person to approve instead.
+6. **Escalate to the owner of the payroll or timekeeping process.** If your manager still asks you to approve, forward the request and your written concern to the relevant owner, such as payroll, HR, finance, operations, or the business owner, and ask for written instruction.
+7. **Keep a minimal dated record for yourself.** Note what you were asked to approve, why you could not verify it, who you told, and when. Keep the record factual and professional.
+8. **Use a formal route only if the issue is not resolved safely.** If the issue is mainly about pressure on you at work, you may be able to raise a grievance. If you reasonably believe the issue involves wrongdoing that affects others, such as systemic mispayment, falsified records, or concealment, consider your workplace whistleblowing process, a prescribed person where appropriate, a trade union, Acas, Protect, or independent advice.
 
 ## What can wait
-- You do not need to decide right now whether anyone acted intentionally.
-- You do not need to “prove” wrongdoing yourself—your job is to avoid a false sign-off and route it to the correct process.
-- You do not need to decide today whether to raise a formal grievance or whistleblowing disclosure—start by pausing approval and escalating in writing.
-- You do not need to resolve historic inaccuracies today—focus on stopping an inaccurate sign-off happening now.
+- You do not need to decide now whether anyone acted intentionally.
+- You do not need to prove wrongdoing yourself. Your immediate job is to avoid a false sign-off and route the request to the correct process.
+- You do not need to decide today whether to raise a grievance or make a whistleblowing disclosure. Start by pausing approval and putting the concern in writing.
+- You do not need to fix historic inaccuracies right now. Focus on stopping an inaccurate sign-off happening now.
 
 ## Important reassurance
-It’s reasonable to feel anxious here: being asked to certify records you can’t confirm puts you in the middle of pay, compliance, and trust issues. Sticking to factual language and asking for the correct verification process is a normal, professional response.
+It is reasonable to feel anxious about being asked to certify records you cannot check. Using factual language, refusing to overstate what you know, and asking for the correct verification route is a normal professional response.
 
 ## Scope note
-This is first steps only—meant to prevent you making an irreversible sign-off under pressure. Later steps (policy, discipline, or legal routes) depend on your role, contract, and what your employer’s procedures say.
+These are first steps only, meant to prevent an inaccurate sign-off under pressure. Later decisions about policy, discipline, grievance, whistleblowing, or legal routes may need specialist help.
 
 ## Important note
-This is general information, not legal advice. Workplace policies and your authority to approve or amend time records vary. If you’re unsure about your obligations or you face retaliation for raising concerns, consider getting independent advice.
+This is general information, not legal, financial, employment, or professional advice. Workplace policies and your authority to approve or amend time records vary, so check your employer’s written process and consider independent advice if you are unsure or face retaliation.
 
 ## Additional Resources
 - https://www.acas.org.uk/acas-code-of-practice-on-disciplinary-and-grievance-procedures

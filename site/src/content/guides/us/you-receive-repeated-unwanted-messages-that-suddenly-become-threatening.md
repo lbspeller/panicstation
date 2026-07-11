@@ -1,88 +1,101 @@
-﻿---
+---
 title: "What to do if… you receive repeated unwanted messages that suddenly become threatening"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
-  - threatening messages
-  - unwanted messages escalating
-  - harassing texts
-  - menacing dms
-  - threatening emails
-  - online threats
-  - phone harassment
-  - repeated unwanted contact
-  - someone won't stop messaging
-  - anonymous threatening messages
-  - ex partner threatening texts
-  - social media harassment
-  - intimidation by message
-  - threats of violence by text
-  - threats to show up
-  - cyber harassment threat
-  - messages getting worse
-  - persistent unwanted contact
-  - threatening voice notes
-  - stalking type messaging
-last_reviewed: "2026-01-10"
+  - "repeated threatening messages"
+  - "unwanted messages threatening"
+  - "threatening text messages"
+  - "threatening direct messages"
+  - "threatening emails repeated"
+  - "messages suddenly threatening"
+  - "repeated unwanted contact"
+  - "online threats by message"
+  - "phone harassment threats"
+  - "ex partner threatening messages"
+  - "what do i do if messages turn threatening"
+  - "what do i do if texts become threats"
+  - "what do i do if someone keeps messaging"
+  - "what do i do if dms are threatening"
+  - "help i got threatening messages"
+  - "help i keep getting threats"
+  - "my messages suddenly became threatening"
+  - "my ex keeps sending threats"
+  - "sender says they will show up"
+  - "messages mention my address"
+  - "threats getting more specific"
+  - "unknown number keeps threatening me"
+  - "voice notes sound threatening"
+  - "messages are escalating fast"
+  - "cyber harassment threats"
+  - "stalking type messages"
+  - "online intimidation messages"
+  - "menacing texts"
+  - "harrassing texts"
+  - "threathening messages"
+  - "anonymous threatening messages"
+  - "workplace threatening messages"
+last_reviewed: "2026-06-23"
+date_created: "2026-06-23"
 ---
 
 # What to do if… you receive repeated unwanted messages that suddenly become threatening (USA)
 
 ## Short answer
-If you feel in immediate danger or believe the person could act soon, call **911** now. Otherwise, stop responding, preserve the messages, and report the threats to **local law enforcement** and the platform/provider.
+If you feel in immediate danger, believe the person may be nearby, or think they could act soon, call 911 now. If there is no immediate danger, stop engaging, preserve the messages, and contact local law enforcement through a non-emergency number or in person.
 
 ## Do not do these things
-- Don’t respond to “de-escalate,” argue, or negotiate — it can increase risk and encourages more contact.
-- Don’t agree to meet them or “handle it in person.”
-- Don’t delete messages, voicemails, DMs, or emails in panic.
-- Don’t click links or open attachments they send.
-- Don’t post the threats publicly to “warn others” — it can escalate and can reveal your location/details.
-- Don’t try to investigate or confront them yourself.
-- Don’t block until you’ve saved what you need (screenshots/copies) and you won’t lose access to the thread.
+- Don’t reply to argue, explain, plead, insult, or negotiate unless you need to do so for immediate safety or emergency services tell you to.
+- Don’t agree to meet them or handle it in person.
+- Don’t delete messages, voicemails, emails, call logs, usernames, or account notifications in panic.
+- Don’t click links, download files, open attachments, or enter passwords from anything they send.
+- Don’t post the threats publicly while you are still trying to get safe; it may reveal details about you or escalate the situation.
+- Don’t investigate, threaten, or confront the person yourself.
+- Don’t block in a way that destroys access to the thread before saving what you can; if the messages are overwhelming, mute or silence notifications after preserving key evidence.
 
 ## What to do now
-1. **Make sure you’re safe first.**  
-   Move to a safer place (a locked room, a public area, or with a trusted person). Tell someone you trust what’s happening and ask them to stay reachable. If you’re at work/school, inform front desk/security and ask them not to confirm whether you’re there.
+1. **Get to the safest available pause.**  
+   Move away from doors, windows, parking areas, or any place where the person could easily find you. Go to a locked room, a staffed public place, a trusted neighbour, workplace security, campus security, or a trusted person if that is safer.
 
-2. **Treat credible escalation as urgent.**  
-   Call **911** if you think there’s immediate risk (they’re nearby, they’re threatening to come “now,” you’re afraid to stay where you are, or the threat is specific/violent). If it’s not an emergency, contact your local police department’s **non-emergency** number or visit a station to make a report. When you report, ask for an **incident/report number** and the safest way for them to contact you back.
+2. **Call 911 if the threat may be immediate.**  
+   Call 911 if the person says they are coming now, says they are nearby, names your address, workplace, school, route, vehicle, or family member, threatens violence, or you are afraid to stay where you are. If it is not an emergency, contact your local police department’s non-emergency number or go to a station and ask how to make a report.
 
-3. **Preserve evidence the simple way (don’t overcomplicate it).**  
-   - **Don’t delete** the messages. Keep the thread open on the device if you can.  
-   - Take screenshots/photos that show the sender, date/time, and the threat.  
-   - Copy key details into notes: exact wording, usernames/handles, phone numbers/emails, dates/times, and any escalation pattern.
+3. **Tell one real person what is happening.**  
+   Send or show a trusted person the threatening messages and your location. Ask them to stay reachable, check in with you, or be with you while you report it. If you are at work, school, housing, or a venue with staff, ask security or reception not to confirm whether you are there.
 
-4. **Report it in two places: law enforcement and the platform/provider.**  
-   Report the threats inside the app/platform (harassment/threats) and, if it’s texting/calls, to your phone provider. Reporting to local law enforcement is appropriate even if it happened online.
+4. **Preserve the messages without trying to be a forensic expert.**  
+   Keep the original threads, voicemails, emails, call logs, and profile pages if you can. Take screenshots or photos that show the sender, username, phone number or email, date, time, and the threatening words. Write a simple note with the date, time, platform, exact wording, and whether the person mentioned a place, weapon, deadline, or showing up.
 
-5. **Lock down your accounts to reduce access to you.**  
-   Set accounts to private, turn off location sharing, and remove public-facing personal details (address, workplace, school, routine). If you think an account might be targeted, enable two-factor authentication and change passwords.
+5. **Report the threat through the safest official route.**  
+   For immediate danger, 911 comes first. For non-emergency reporting, use local law enforcement and ask for an incident or report number. If the threat is internet-enabled, involves hacking, extortion, fraud, impersonation, or online accounts, you can also file with IC3 or use DOJ/FBI reporting routes, but do not let federal reporting delay local safety steps.
 
-6. **If the person is a current/former partner or someone in your household, get specialist support too.**  
-   You can contact the **National Domestic Violence Hotline** for confidential support and safety planning (phone, chat, or text), even if you’re unsure what you want to do next.
+6. **Report and limit access on the platform or provider.**  
+   Use the app, website, email service, or phone provider’s report tools for threats, harassment, impersonation, or abusive contact. After saving key evidence, consider muting, filtering, restricting, or blocking the person if that helps you stay calmer and safer.
 
-7. **Optional: add a federal report if it clearly fits — but don’t delay local safety steps.**  
-   - If there’s **cyber-enabled crime** involved (for example: hacking, extortion, fraud/scams), you can file with **IC3**.  
-   - If the threat appears tied to a **federal crime** or broader risk (for example: organized/foreign-government intimidation), you can also contact the **FBI** (tip line or your local field office).  
-   These are add-ons; if you’re scared for your safety, **911/local police comes first**.
+7. **Reduce ways they can locate or reach you right now.**  
+   Turn off location sharing, live location, public check-ins, and story location tags. Set social accounts to private, remove public address, workplace, school, routine, and family details, and change passwords if you think an account may be accessed by someone else. Enable two-factor authentication on important accounts.
+
+8. **If the sender is a current or former partner, household member, or someone with access to you, add specialist support.**  
+   Contact the National Domestic Violence Hotline for confidential support and safety planning. You do not have to decide whether to report, leave, seek a protective order, or take legal action before asking for help.
 
 ## What can wait
-- You do **not** need to decide right now whether to seek a protective order, change your phone number, or delete accounts.
-- You do **not** need to “prove” it’s serious before contacting police — report what happened and how it escalated.
-- You can sort out longer-term digital safety, documentation, and legal options after you’re safe and a report is started.
+- You do not need to decide tonight whether to change your number, move, delete accounts, seek a protective order, or start a legal case.
+- You do not need to prove the person will definitely act before asking for help; report what they sent, what changed, and why it feels unsafe.
+- You can organise a full evidence folder, longer-term digital safety, workplace or school plans, and legal options after you are somewhere safer and have started a report or spoken to support.
 
 ## Important reassurance
-When messages turn threatening, it can feel surreal and hard to think clearly — that’s a normal stress response. Taking the threats seriously and getting help early is a practical safety move.
+Threatening messages can make ordinary decisions feel urgent and confusing. Taking a pause, saving the messages, and involving real-world help is a reasonable safety response, not an overreaction.
 
 ## Scope note
-This is first steps only: get safe, preserve information, and start official reporting/support. Longer-term options can be handled once you’re steadier and supported.
+These are first steps only: get safer, preserve key information, and start appropriate reporting or support. Later decisions about blocking, protective orders, account changes, housing, work, school, or legal options may need help from local law enforcement, a victim advocate, an attorney, or a specialist support service.
 
 ## Important note
-This guide is general information, not legal advice. If you are in immediate danger, call **911**.
+This guide is general information, not legal, medical, therapeutic, cybersecurity, or professional advice. If you are in immediate danger, call 911.
 
 ## Additional Resources
-- https://www.thehotline.org/get-help/
+- https://www.justice.gov/action-center/report-crime-or-submit-complaint
+- https://www.justice.gov/criminal/criminal-ccips/reporting-computer-internet-related-or-intellectual-property-crime
 - https://www.ic3.gov/
-- https://www.fbi.gov/investigate/counterintelligence/threat-intimidation-guide
 - https://www.fbi.gov/contact-us
-- https://www.fbi.gov/tips
+- https://www.thehotline.org/get-help/
+- https://www.stalkingawareness.org/what-to-do-if-you-are-being-stalked/

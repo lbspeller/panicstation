@@ -1,78 +1,96 @@
-﻿---
+---
 title: "What to do if… you realise your passport is missing the night before you travel"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
-  - passport missing night before travel
-  - lost passport before flight
-  - can't find passport
-  - passport gone day before holiday
-  - passport misplaced at home
-  - passport stolen before trip
-  - forgot where passport is
-  - passport missing before airport
-  - travel tomorrow no passport
-  - urgent passport uk
-  - last minute passport replacement
-  - passport not where it should be
-  - can't travel without passport
-  - missing travel documents
-  - panic lost passport uk
-  - passport disappeared overnight
-  - passport lost before international travel
-  - need passport urgently
-last_reviewed: "2026-03-07"
+  - "passport missing night before travel"
+  - "lost passport before flight"
+  - "missing passport before holiday"
+  - "passport gone before airport"
+  - "passport misplaced at home"
+  - "passport stolen before travel"
+  - "passport disappeared overnight"
+  - "travel tomorrow no passport"
+  - "cannot find passport"
+  - "cant find passport"
+  - "what do i do if passport missing"
+  - "what do i do if passport lost"
+  - "what do i do if passport stolen"
+  - "what do i do if passport vanished"
+  - "help i lost my passport"
+  - "help i cannot find passport"
+  - "help i fly tomorrow"
+  - "my passport is missing"
+  - "my passport was stolen"
+  - "my flight is tomorrow"
+  - "passport not in drawer"
+  - "passport not in bag"
+  - "passport not where left"
+  - "bag checked passport missing"
+  - "travel documents missing"
+  - "lost passport or stolen passport"
+  - "missing passport or misplaced passport"
+  - "urgent passport confusion"
+  - "last-minute passport panic"
+  - "uk passport missing"
+  - "adult passport missing"
+  - "international travel tomorrow"
+  - "holiday tomorrow passport lost"
+  - "pasport missing"
+  - "passprt lost"
+last_reviewed: "2026-05-17"
+date_created: "2026-05-17"
 ---
 
 # What to do if… you realise your passport is missing the night before you travel (UK)
 
 ## Short answer
-Do a fast, systematic search to confirm it’s truly missing. If you still can’t find it, assume you won’t be able to travel tomorrow, and switch to damage-control: protect yourself by cancelling it if it’s lost/stolen and move your travel date immediately.
+Do one focused search, then stop and switch to damage-control. If you still believe the passport is lost or stolen, cancel it through GOV.UK, contact your airline or travel provider, and check official urgent passport options for a later travel date.
 
 ## Do not do these things
-- Do not cancel your passport as “lost/stolen” until you’ve done a quick, focused search — cancellation makes it invalid for travel even if you find it later.
-- Do not delay cancelling if you genuinely believe it’s lost or stolen — cancelling as soon as possible reduces the risk of misuse.
-- Do not pay “same-day passport” services from unofficial third-party websites.
-- Do not go to the airport hoping it “might be fine” — airlines usually won’t let you board without the required document.
-- Do not share passport photos/numbers widely in messages while you’re stressed.
+- Do not cancel your passport as lost or stolen until you have done a quick, focused search; once cancelled, it cannot be used for travel even if you find it later.
+- Do not delay cancelling if you genuinely believe it is lost or stolen.
+- Do not pay unofficial third-party websites for urgent passport services.
+- Do not rely on being allowed to board without the required passport; check with your airline before travelling to the airport.
+- Do not send passport photos, scans, or passport numbers widely while you are stressed.
+- Do not start a new paid passport application if you have already applied for one; check official guidance first.
 
 ## What to do now
-1. **Do a focused 15-minute search (then stop).**  
-   Check the last places it was handled: bag used for the last trip, coat pockets, bedside drawers, “important documents” folder, safe/lockbox, printer/scanner area, between pages of notebooks, and inside luggage. Ask anyone you live with to check their “tidy-up” spots.
+1. **Do a focused 15-minute search, then stop.**  
+   Check the places where a passport is most likely to be: the bag used for your last trip, coat pockets, bedside drawers, your documents folder, a safe or lockbox, the printer or scanner area, inside luggage, and between notebook or paperwork pages. Ask anyone you live with to check places where they may have tidied documents.
 
-2. **If there’s any chance it’s been stolen, treat this as potential theft.**  
-   Do a quick check for other missing items (wallet/IDs). If it looks like theft or burglary, note what’s missing and when you last definitely saw the passport.
+2. **Check whether this looks like theft.**  
+   Look for other missing items, such as a wallet, bank cards, driving licence, or bag. If there are signs of burglary, a crime in progress, or immediate danger, move to a safe place and call 999. If it is not an emergency but you need to report theft, use the official police non-emergency route.
 
-3. **If you believe it’s lost or stolen, cancel it using the official online service.**  
-   This cancels the passport so it can’t be used. If you later find it, it will not become valid again.
+3. **If you believe the passport is lost or stolen, cancel it using the official GOV.UK service.**  
+   Cancelling reduces the risk of someone else using your passport or identity. If you later find the passport, it will not become valid again.
 
-4. **Contact your airline/travel provider now to change your plans.**  
-   Ask what your options are: move to a later date, rebook, or convert to credit. If you have travel insurance, ask what proof they’ll need and keep screenshots/notes of your contacts.
+4. **Contact your airline or travel provider before going to the airport.**  
+   Ask whether you can move the booking, rebook, get credit, or make a claim. Keep screenshots, booking references, names, times, and any written replies.
 
-5. **Check urgent UK passport options for your revised travel date (and act quickly).**  
-   - **1 day Premium:** renewals only, and only if your last adult passport was issued after **31 December 2001**. The earliest appointment is typically **2 days after you apply**, and you collect the new passport a few hours after the appointment.  
-   - **1 week Fast Track:** can renew or **replace** (including lost/stolen), and the earliest appointment is typically **the next day after you apply**. The new passport is delivered about a week after the appointment.  
-   Appointments can be limited, so look for the earliest slot you can realistically attend.
+5. **Check urgent UK passport options for your revised travel date.**  
+   The 1 day Premium service is for renewing an adult passport and requires an appointment; the earliest appointment is usually 2 days after applying, and the passport is collected after the appointment. The 1 week Fast Track service can be used to replace a lost or stolen passport, with the earliest appointment usually the next day after applying and delivery about 1 week after the appointment.
 
-6. **If your travel is for urgent government business or compassionate reasons, call the Passport Adviceline.**  
-   This route is for situations like urgent travel for medical treatment, urgent government business, or because a friend or family member is seriously ill or has died.
+6. **If the travel is urgent for medical treatment, urgent government business, or because a friend or family member is seriously ill or has died, call the Passport Adviceline.**  
+   Use the official HM Passport Office route rather than a third-party service.
 
-7. **Make a simple “proof pack” tonight (for rebooking/claims).**  
-   Save: booking confirmation, intended travel date/time, messages with the airline/travel provider, and (if relevant) any incident/crime reference details.
+7. **Make a simple proof pack tonight.**  
+   Save your booking confirmation, intended travel date and time, messages with the airline or travel provider, cancellation confirmation if you cancel the passport, and any police or incident reference if theft or burglary is involved.
 
 ## What can wait
-- You do not need to decide tonight whether to make a police report unless you’re confident it was stolen and you need it for insurance/safety.
-- You do not need to start a full replacement application until you’ve either found the passport or cancelled it as lost/stolen.
-- You do not need to “solve” blame or replay what happened — tonight is about preventing knock-on problems.
+- You do not need to decide tonight whether the whole trip is cancelled forever.
+- You do not need to make a police report solely because the passport is missing, unless there is theft, burglary, a safety issue, or your insurer or travel provider asks for it.
+- You do not need to start a full replacement application until you have either found the passport or cancelled it as lost or stolen.
+- You do not need to work out blame or replay every possible moment it went missing.
 
 ## Important reassurance
-This is a common, clock-driven panic. Once you switch from “make tomorrow happen” to “protect identity + move the travel date,” things usually become clearer and more controllable.
+This is a common, time-pressured problem. Once you move from “make tomorrow happen” to “protect the passport, contact the travel provider, and check the official next route,” the situation usually becomes more manageable.
 
 ## Scope note
-These are first steps for the night-before moment. What you can do next depends on whether this is a renewal vs replacement, adult vs child, and urgent appointment availability.
+These are first steps for the night-before moment. Later decisions may depend on whether the passport is lost, stolen, damaged, adult, child, already applied for, or eligible for an urgent appointment, and specialist help may be needed.
 
 ## Important note
-This guide is general information, not legal advice. Passport rules and appointment availability can change quickly; use official services and confirm directly with your airline/travel provider.
+This guide is general information, not legal, financial, travel, or professional advice. Passport rules, appointment availability, airline rules, and insurance requirements can change, so confirm directly with official services and your airline or travel provider.
 
 ## Additional Resources
 - https://www.gov.uk/report-a-lost-or-stolen-passport
@@ -80,3 +98,4 @@ This guide is general information, not legal advice. Passport rules and appointm
 - https://www.passport.service.gov.uk/help/urgent-services
 - https://www.gov.uk/renew-adult-passport/replace
 - https://www.gov.uk/government/organisations/hm-passport-office/about/about-our-services
+- https://www.gov.uk/contact-police

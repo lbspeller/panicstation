@@ -1,84 +1,94 @@
-﻿---
+---
 title: "What to do if… you receive an extortion message claiming your files were copied and you are unsure if it is real"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - extortion email about stolen files
-  - blackmail message says files copied
-  - ransomware style demand bitcoin
-  - data theft threat email
-  - hacker claims they have my files
-  - scam email says i was hacked
-  - email says they know my password
-  - sextortion style blackmail email
-  - i got an extortion dm
-  - someone threatens to leak my data
-  - unsure if breach is real
-  - urgent payment demand message
-  - account compromise warning email
-  - files exfiltrated threat
-  - received blackmail invoice email
-  - cyber extortion message
-  - email claims webcam recording
-  - data breach fear email
-last_reviewed: "2026-03-09"
+  - "extortion message about copied files"
+  - "copied files blackmail message"
+  - "files were copied threat"
+  - "unsure if extortion is real"
+  - "stolen files payment demand"
+  - "hacker claims copied files"
+  - "data copied ransom message"
+  - "blackmail email stolen files"
+  - "cyber extortion message"
+  - "email says files copied"
+  - "what do i do if files copied"
+  - "what do i do if extortion message"
+  - "what do i do if hacker threatens"
+  - "what do i do if blackmail email"
+  - "help i got extortion email"
+  - "help i received blackmail message"
+  - "help i clicked extortion link"
+  - "help i paid blackmail demand"
+  - "my files may be stolen"
+  - "my password is in email"
+  - "my cloud files are threatened"
+  - "my email says i was hacked"
+  - "urgent bitcoin payment demand"
+  - "old password in message"
+  - "webcam threat in email"
+  - "unknown sender demands money"
+  - "suspicious attachment opened"
+  - "account sign-in looks wrong"
+  - "fake ransomware email"
+  - "sextortion style scam email"
+  - "phishing blackmail message"
+  - "ransom note by email"
+  - "extorsion email copied files"
+  - "blackmale message stolen files"
+  - "work account extortion message"
+  - "school account extortion message"
+last_reviewed: "2026-05-19"
+date_created: "2026-05-19"
 ---
 
 # What to do if… you receive an extortion message claiming your files were copied and you are unsure if it is real (UK)
 
 ## Short answer
-Don’t reply or pay. Preserve the message, then quickly check for any real account/device compromise (from a clean device) and report it via the UK’s official reporting routes.
+Do not reply or pay. Preserve the message, then check your key accounts from a clean device and use the UK reporting routes.
 
 ## Do not do these things
-- Don’t pay, even “to make it go away” (it can trigger more targeting).
-- Don’t reply, negotiate, or click any links/attachments/QR codes in the message.
-- Don’t forward it to friends/colleagues “to ask if it’s real” (you may spread malicious links or expose personal data).
-- Don’t panic-change passwords on a device you suspect is infected (do changes from a clean device).
-- Don’t delete everything immediately (keep evidence first, then clean up).
+- Do not pay, even to make it stop; payment can invite more demands.
+- Do not reply, negotiate, click links, open attachments, scan QR codes, or call numbers in the message.
+- Do not forward the message to friends or colleagues to ask if it is real.
+- Do not change passwords on a device you think may be infected; use another trusted device.
+- Do not delete the original message until you have saved evidence and reported it.
 
 ## What to do now
-1. **Get to a calm pause and contain risk.** If you clicked a link/opened an attachment or entered a password, **disconnect that device from Wi-Fi/mobile data** (airplane mode) and stop using it until you’ve checked it.
-2. **Preserve evidence (2 minutes).** Take screenshots of the message, note the sender address/handle, payment details they provided, dates/times, and keep the original email/message (don’t “clean up” your inbox yet).
-3. **Report the message safely (UK).**
-   - **Email:** forward the suspicious email to **report@phishing.gov.uk**, then delete it.
-   - **Text message:** forward suspicious texts to **7726** (this spells SPAM on most keypads), then delete it.
-   - **In-app message/DM:** use the platform’s **Report** function and block the sender.
-4. **Check whether this is likely a bulk scam vs a real compromise (quick indicators).**
-   - If the email includes an **old password** you recognise: treat it as a warning sign your details were in a past breach, **not proof they’re in your device now**.
-   - If they provide **no specific proof** (no real filenames, no accurate private details, no unique screenshot of your files), assume scam until proven otherwise.
-5. **Check your accounts for real signs of compromise (from a clean device).**
-   - Email account first: review **recent sign-ins**, unfamiliar devices, and any **auto-forwarding rules** or “mail filters” you didn’t create.
-   - Cloud storage (e.g., iCloud/Google/Microsoft/Dropbox): review **recent activity** and any unfamiliar shared links or third-party app access.
-6. **Lock down your key accounts (from a clean device).**
-   - Change your **email password** first (email is the reset key for everything).
-   - Turn on **two-factor authentication (2FA)** for email and cloud accounts.
-   - Change passwords for any accounts that reused the same password; sign out of other sessions/devices where the service allows it.
-7. **If you suspect your device is infected, do a “clean check.”**
-   - Run a reputable antivirus scan and apply operating system updates.
-   - If signs persist (unknown admin accounts, security tools disabled, repeated logins you don’t recognise), **stop troubleshooting** and get help from a trusted repair professional or a cyber incident responder (especially for work devices).
-8. **If this involves work/school systems, escalate immediately.** Use your organisation’s IT/security contact (not the attacker). Don’t “handle it quietly” on your own.
-9. **If you think money, identity, or accounts are at risk, report as cybercrime.**
-   - **England/Wales/Northern Ireland:** report to **Action Fraud** (keep any reference number).
-   - **Scotland:** report to **Police Scotland via 101** (or your local police route).
-   - If there’s an immediate risk to you (threats of violence, stalking, or blackmail involving imminent harm), contact police via **999** (emergency).
+1. **Pause the contact.** Do not answer the sender. If you opened an attachment, clicked a link, scanned a QR code, or typed in a password, disconnect that device from Wi-Fi and mobile data and stop using it for account changes.
+2. **Save the evidence.** Take screenshots of the message, the sender address or handle, payment details, dates and times. Keep the original email or message for now.
+3. **Report the message safely.**
+   - For a suspicious email, forward it to report@phishing.gov.uk.
+   - For a suspicious text, forward it to 7726.
+   - For an in-app message or direct message, use the platform’s report function and block the sender.
+4. **Look for signs it may be a bulk scam.** If the message gives no real filenames, no unique screenshot of your files, and no accurate private details, treat it as likely scam while you check. If it includes an old password, that is often from a past data breach and is not proof they are inside your device now.
+5. **Check your email account first, from a clean device.** Look for unfamiliar sign-ins, unfamiliar devices, new recovery details, and forwarding rules or filters you did not create.
+6. **Check cloud storage and file accounts.** Review recent activity, shared links, connected apps, and devices signed in to services such as iCloud, Google, Microsoft, Dropbox, or any work file system you use.
+7. **Lock down important accounts.** Change your email password first. Then change any reused passwords, turn on two-step verification where available, and sign out of other sessions where the service offers that option.
+8. **Check the device only after accounts are safer.** Run updates and a reputable security scan. If you see unknown administrator accounts, disabled security tools, repeated sign-ins you do not recognise, or files changing without you, stop troubleshooting and get help from a trusted repair professional or cyber incident responder.
+9. **If this involves work or school systems, report it internally now.** Use your organisation’s IT, security, or safeguarding route. Do not try to handle a possible organisational breach privately.
+10. **If money, identity, or accounts are at risk, report it as cybercrime or fraud.** In England, Wales, or Northern Ireland, use Report Fraud. In Scotland, report cybercrime to Police Scotland. If there is immediate danger, call 999.
 
 ## What can wait
-- You do **not** need to decide today whether you will “pursue” anyone or make public statements.
-- You do **not** need to wipe your devices immediately; evidence and account control come first.
-- You do **not** need to contact the attacker to “test” them—silence is safer.
+- You do not need to decide today whether to make public statements or pursue the sender.
+- You do not need to wipe your devices immediately; evidence and account control come first.
+- You do not need to contact the sender to test whether they are real.
+- You do not need to solve every account at once; start with email, cloud storage, banking, and any account using the same password.
 
 ## Important reassurance
-These messages are commonly sent in bulk and are designed to trigger panic and fast payment. Feeling shocked or embarrassed is normal — but you can slow this down, verify calmly, and regain control step by step.
+These messages are often sent in bulk and are written to make you panic and pay quickly. You can slow the situation down, preserve what matters, and check for real compromise step by step.
 
 ## Scope note
-These are first steps to stabilise the situation and reduce harm. If you confirm a real compromise (especially involving work systems or sensitive personal data), you may need specialist technical and/or legal advice later.
+These are first steps only. If you confirm files were accessed, money was lost, work systems were involved, or sensitive personal data may have been exposed, later decisions may need specialist technical, organisational, legal, or victim-support help.
 
 ## Important note
-This guide is general information, not legal or professional security advice. If you believe you’re in immediate danger or being targeted directly, contact UK emergency services. If you’re dealing with organisational systems, follow your organisation’s incident process.
+This guide is general information, not legal, medical, financial, therapeutic, cyber security, or other professional advice. If you believe you are in immediate danger, call 999.
 
 ## Additional Resources
 - https://www.ncsc.gov.uk/collection/phishing-scams/report-scam-email
 - https://www.gov.uk/report-suspicious-emails-websites-phishing
+- https://www.ncsc.gov.uk/guidance/sextortion-scams-how-to-protect-yourself
+- https://www.ncsc.gov.uk/section/respond-recover/citizen-hacked-accounts
 - https://www.reportfraud.police.uk/
-- https://www.actionfraud.police.uk/report-phishing
-- https://www.ncsc.gov.uk/ransomware/home
+- https://www.scotland.police.uk/advice/cybercrime/

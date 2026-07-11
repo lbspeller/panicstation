@@ -1,93 +1,112 @@
-﻿---
+---
 title: "What to do if… you get an alert that a new credit account was opened in your name"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
-  - new credit account alert
-  - credit account opened in my name
-  - credit card opened in my name
-  - loan opened in my name
-  - identity theft new account
-  - unknown hard inquiry
-  - fraud alert credit report
-  - credit freeze how to
-  - dispute fraudulent account
-  - creditor fraud department
-  - identitytheft gov report
-  - annual credit report check
-  - strange address on credit report
-  - unauthorized credit application
-  - stolen ssn credit misuse
-  - stop new credit being opened
-  - suspicious credit monitoring alert
-last_reviewed: "2026-01-08"
+  - "new credit account alert"
+  - "new credit account opened"
+  - "credit account in my name"
+  - "credit card in my name"
+  - "loan opened in my name"
+  - "identity theft credit account"
+  - "unauthorized credit account"
+  - "fraudulent credit account"
+  - "new account identity theft"
+  - "suspicious credit account alert"
+  - "what do i do if credit account opened"
+  - "what do i do if account in my name"
+  - "what do i do if new loan opened"
+  - "what do i do if credit alert"
+  - "help i got credit alert"
+  - "help i found new credit account"
+  - "help i see unknown hard inquiry"
+  - "help i think identity theft"
+  - "my credit account alert"
+  - "my name on new account"
+  - "my credit report changed"
+  - "my ssn used for credit"
+  - "unknown hard inquiry"
+  - "unrecognized credit account"
+  - "strange address on credit report"
+  - "new phone on credit report"
+  - "unfamiliar lender on credit report"
+  - "suspicious credit monitoring alert"
+  - "identity theft or credit error"
+  - "fraud alert or credit freeze"
+  - "new account or hard inquiry"
+  - "id theft credit alert"
+  - "identitytheft credit account"
+  - "fraudlent credit account"
+last_reviewed: "2026-06-15"
+date_created: "2026-06-15"
 ---
 
 # What to do if… you get an alert that a new credit account was opened in your name (USA)
 
 ## Short answer
-Call the lender’s fraud department using a number you look up yourself (not the alert) and say you did not apply. Then place a **credit freeze** with each credit bureau (or, if you can’t yet, place a fraud alert) and create an IdentityTheft.gov report so you have an official paper trail to dispute the account.
+Do not use links or phone numbers in the alert. Look up the lender yourself, tell its fraud department you did not apply, then place credit freezes with Equifax, Experian, and TransUnion and make an IdentityTheft.gov report.
 
 ## Do not do these things
-- Don’t click links or call numbers in the alert until you’ve verified they’re legitimate (alerts are often used for phishing).
-- Don’t give out your Social Security number, passwords, or one-time codes to anyone who contacted you first.
-- Don’t pay a bill you don’t recognize to “keep it current” — first get it formally flagged as identity theft with the lender.
-- Don’t ignore mail from the lender or collections — unanswered contact can escalate.
-- Don’t send identity documents by regular email unless the company provides a secure, official upload method.
+- Don’t click links or call numbers in the alert until you have checked the lender through a source you found yourself.
+- Don’t give your Social Security number, passwords, or one-time codes to anyone who contacted you first.
+- Don’t pay a bill you do not recognise just to keep it current; first ask the lender to treat it as identity theft.
+- Don’t ignore letters, emails, or collection notices; save them and respond only through verified contact routes.
+- Don’t send identity documents by ordinary email unless the company gives you a secure official upload route.
 
 ## What to do now
-1. **Verify safely and contact the lender’s fraud department.**  
-   Find the lender’s official website/phone number independently. Tell them: “I did not open or apply for this account.” Ask them to:
-   - Close the application/account as **identity theft**
-   - Note that you **dispute** it and stop any further use
-   - Tell you what information was used to apply (address, phone, email)
-   - Provide a case/reference number and confirm in writing what they will do next
+1. **Verify the alert without using the alert itself.**  
+   Search for the lender’s official website or use a phone number from a statement or card you already know is genuine. Tell the fraud department: “I did not open or apply for this account.”
 
-2. **Freeze your credit with all three major bureaus (strongest immediate barrier).**  
-   A credit freeze helps stop most new credit from being opened in your name. You typically place and manage the freeze **separately** with **Equifax, Experian, and TransUnion**.
+2. **Ask the lender to lock down the application or account.**  
+   Ask them to:
+   - Treat the account or application as identity theft
+   - Stop any further use while they investigate
+   - Tell you what contact details were used to apply, such as address, phone number, or email
+   - Give you a case or reference number
+   - Confirm in writing what they will do next
 
-3. **If you can’t freeze immediately, place a fraud alert right away.**  
-   A fraud alert is weaker than a freeze, but it’s fast. You can place a fraud alert by contacting **one** bureau, and that bureau should notify the other two (this “one-and-done” routing applies to **fraud alerts**, not freezes).
+3. **Freeze your credit with all three major credit bureaus.**  
+   A credit freeze makes it much harder for someone to open new credit in your name. Place the freeze separately with Equifax, Experian, and TransUnion.
 
-4. **Get your credit reports and look for other damage.**  
-   Pull your reports and scan for:
+4. **If you cannot freeze immediately, place a fraud alert.**  
+   A fraud alert is not the same as a freeze, but it is quick. Contact one of the three major credit bureaus to place a fraud alert; that bureau must tell the other two.
+
+5. **Check your credit reports for other signs of misuse.**  
+   Use AnnualCreditReport.com and look for:
    - The new account
-   - Any other unfamiliar accounts
-   - Hard inquiries you didn’t authorize
-   - New addresses, phone numbers, or name variants  
-   Save copies (PDF/screenshot) of anything you don’t recognize.
+   - Other accounts you do not recognise
+   - Hard inquiries you did not authorise
+   - New addresses, phone numbers, or name variations  
+   Save a PDF or screenshot of anything unfamiliar.
 
-5. **Create an IdentityTheft.gov report (FTC) for “new account.”**  
-   This creates an official Identity Theft Report and a step-by-step recovery plan you can use when disputing with lenders and credit bureaus.
+6. **Make an IdentityTheft.gov report.**  
+   Choose the option that fits a new credit account or loan opened in your name. Save the FTC Identity Theft Report and any recovery steps or letters it gives you.
 
-6. **Dispute the fraudulent account and inquiries with the credit bureaus.**  
-   File disputes with each bureau that shows the fraudulent item(s). Provide your IdentityTheft.gov report and any documentation they request, and ask for the fraudulent account/inquiry to be removed/blocked as identity theft.
+7. **Dispute the fraudulent account and inquiries.**  
+   File disputes with any credit bureau showing the account or hard inquiry. Include your IdentityTheft.gov report if the bureau asks for supporting information.
 
-7. **Secure the accounts that can unlock everything else.**  
-   - Change your **email** password first and turn on multi-factor authentication.
-   - Change passwords for banking and credit logins; check for unknown devices/sessions.
-   - If you suspect a phone-number takeover, contact your mobile carrier and add extra account security (PIN/passcode).
+8. **Secure the accounts that could let this happen again.**  
+   Change your main email password and turn on multi-factor authentication. Then check your bank, credit card, and mobile phone accounts for unfamiliar logins, devices, contact details, or password reset settings.
 
-8. **Start a one-page log to reduce stress.**  
-   Record dates/times, who you spoke to, reference numbers, and what was agreed.
+9. **Keep one simple log.**  
+   Write down the date, company, person or department, reference number, and what they said would happen next.
 
 ## What can wait
-- Deciding whether to buy credit monitoring (free reports + freezes/alerts are the priority now).
-- Filing a police report unless a lender, bureau, or specific situation requires it (do it later if requested).
-- Longer-term cleanup steps (new account numbers, document replacement) unless you see additional confirmed misuse.
+- Buying credit monitoring does not need to be decided now.
+- Filing a police report can usually wait unless a lender, credit bureau, debt collector, or specific situation asks for one.
+- Longer-term cleanup, new account numbers, or document replacement can wait unless you find more confirmed misuse.
 
 ## Important reassurance
-An alert like this can feel urgent and personal — but there’s a clear sequence: stop new credit first, document the identity theft, then dispute and clean up. You don’t have to solve everything in one sitting; the first win is preventing more accounts from being opened.
+This is stressful, but there is a clear order: verify safely, block new credit, create a report, then dispute what is wrong. You do not have to fix every detail in one sitting.
 
 ## Scope note
-These are first steps only, focused on immediate damage control. Follow-on steps depend on what type of account it is, whether there are multiple inquiries, and what the lender/credit bureaus ask you to provide.
+These are first steps only. Later decisions may depend on the account type, what appears on your credit reports, and what the lender or credit bureaus ask you to provide.
 
 ## Important note
-This is general information, not legal advice. Requirements can vary by lender and bureau. If anything feels confusing or high-pressure, slow down and only act through official channels you independently verify.
+This is general information, not legal, financial, or professional advice. Requirements can vary by company and situation, so use official channels and ask for written confirmation when possible.
 
 ## Additional Resources
 - https://www.identitytheft.gov/
 - https://consumer.ftc.gov/articles/credit-freezes-and-fraud-alerts
 - https://www.annualcreditreport.com/index.action
 - https://www.consumerfinance.gov/ask-cfpb/what-do-i-do-if-i-think-i-have-been-a-victim-of-identity-theft-en-31/
-- https://www.ftc.gov/news-events/topics/identity-theft/report-identity-theft

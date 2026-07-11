@@ -1,69 +1,90 @@
-﻿---
+---
 title: "What to do if… you hear someone trying your door handle or testing windows from outside"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
-  - someone trying my door handle
-  - door handle jiggling outside
-  - rattling door handle at night
-  - someone testing windows outside
-  - window being tried from outside
-  - possible break in noise
-  - burglary in progress fear
-  - suspicious person at my door
-  - someone outside my home
-  - footsteps outside my window
-  - knocking and trying handle
-  - attempted break in sounds
-  - someone checking if door locked
-  - intruder trying to get in
-  - home intrusion concern
-  - lock clicking noise outside
-  - someone at door won’t leave
-  - unknown person at the window
-last_reviewed: "2026-01-10"
+  - "someone trying my door handle"
+  - "door handle moving outside"
+  - "door handle rattling at night"
+  - "someone testing windows outside"
+  - "window being tried outside"
+  - "someone checking door locked"
+  - "possible break in noise"
+  - "attempted break in sounds"
+  - "intruder trying to get in"
+  - "suspicious person outside home"
+  - "what do i do if door handle moves"
+  - "what do i do if windows rattle"
+  - "what do i do if someone is outside"
+  - "what do i do if someone tries door"
+  - "help i hear my door handle"
+  - "help i think someone is outside"
+  - "help i hear windows being tried"
+  - "help i think someone is breaking in"
+  - "my door handle is rattling"
+  - "my window is being tested"
+  - "rattling door handle outside"
+  - "footsteps outside my window"
+  - "lock clicking outside door"
+  - "shadow near my window"
+  - "unknown person at window"
+  - "knocking then handle moving"
+  - "burglary fear at night"
+  - "prowler outside my house"
+  - "home intrusion concern"
+  - "door handle prank fear"
+  - "night time break in fear"
+  - "alone at home at night"
+  - "children inside home"
+  - "flat door being tried"
+  - "breakin noises outside"
+  - "window handle jigling"
+last_reviewed: "2026-05-13"
+date_created: "2026-05-13"
 ---
 
 # What to do if… you hear someone trying your door handle or testing windows from outside (UK)
 
 ## Short answer
-Get everyone to a safer place inside, lock and barricade the door to that room if you can, and call 999 if you believe someone is trying to get in right now.
+Move yourself and anyone with you to a safer place inside, stay away from doors and windows, and call 999 if you think someone is trying to get in now. Give your address first if you can.
 
 ## Do not do these things
-- Don’t open the door “to check” or shout through it.
-- Don’t go outside to confront them or investigate.
-- Don’t stand in front of windows/doors where you can be seen.
-- Don’t assume it’s “probably nothing” if the handle/windows are being tried repeatedly.
-- Don’t chase someone if they move away — keep yourself safe and let police deal with it.
-- Don’t post live updates on social media (it can escalate risk and delay help).
+- Do not open the door to check.
+- Do not go outside to confront them or investigate.
+- Do not stand in front of doors or windows where you may be seen.
+- Do not shout threats through the door.
+- Do not chase anyone if they move away.
+- Do not post live updates on social media while the situation is happening.
 
 ## What to do now
-1. **Move to a safer spot immediately.** Take your phone, keys, and (if you have them) a torch. Get children/others/pets into the same room. Prefer a room with a **lockable door** and, if possible, another exit.
-2. **Secure the room you’re in.** Lock the door. If it’s safe and quick, place something heavy against it (for example a chair or chest of drawers) to slow entry. Stay low and away from the line of sight of windows.
-3. **Call 999 if you think someone is actively trying to get in or you feel in immediate danger.** Say clearly: your address, that someone is trying the door/windows **right now**, how many people are inside, and whether you can see/hear where the person is.
-4. **If you can’t speak safely, still dial 999 and don’t hang up.** Listen to the operator’s questions. If you can, make a small noise (a cough) or tap the handset. **If you’re calling from a mobile and you hear the automated prompt, press 55 (or tap) when prompted** to confirm it’s a genuine emergency so you can be connected to police.
-5. **Make your home look “awake” without exposing yourself.** If you can do it from where you are (or via an app), turn on lights. If you have an alarm with a panic function, use it. Avoid moving around the house to do this.
-6. **Gather quick details only if it’s safe.** Through a peephole/door camera/curtain gap (without being seen), note clothing, height/build, direction of travel, or whether there’s more than one person — then stop looking and focus on staying safe.
-7. **If someone claims to be the police at your door, don’t open it immediately.** Ask them to identify themselves through the closed door and tell them you’re calling (or have called) 999. Only open once you feel confident it’s actually police.
-8. **If they stop and leave, stay inside for now.** If you’re no longer in immediate danger, you can still report suspicious activity via **101** (or your local force’s online reporting) once you feel safe.
+1. **Move to a safer room inside.** Take your phone and keys if they are already close. Bring children, other people, and pets with you if you can do that without moving towards the noise.
+2. **Make that room harder to enter.** Lock the door if it locks. If it is safe and quick, put a solid object against it to slow entry, but do not block your only safe exit.
+3. **Stay low and away from sightlines.** Move away from windows, glass doors, letterboxes, and anywhere someone outside could see you clearly.
+4. **Call 999 if you think entry is being attempted or you feel in immediate danger.** Say your address, that someone is trying your door handle or windows right now, how many people are inside, and where you are in the property.
+5. **If you cannot speak safely, still call 999.** Listen to the operator. Cough, tap the phone, or answer quietly if you can. If you are calling from a mobile and are prompted, press 55 or tap when prompted so the call can be treated as a genuine emergency.
+6. **Make the home look occupied only if you can do it without moving towards risk.** Turn on a nearby light, use a phone app, or trigger an alarm panic function if you have one. Do not walk around the property to do this.
+7. **Gather only quick, safe details.** If you can see through a camera, peephole, or a safe covered position, note clothing, direction of travel, vehicle details, or whether there is more than one person. Stop looking if it exposes you.
+8. **If someone says they are police, keep the door closed for the moment.** Tell them through the closed door that you are calling 999 to check. Follow the 999 operator’s instructions.
+9. **If the person leaves, stay inside at first.** If there is no longer an immediate danger, you can report what happened by calling 101 or using your local police force’s online reporting route when you feel safe.
 
 ## What can wait
-- You do not need to decide right now whether it “counts” as an emergency — if you feel in danger or entry is being attempted, treat it as urgent.
-- You do not need to search the property, check every window, or review CCTV while you’re still shaken.
-- You do not need to call neighbours, a landlord, or insurance until the immediate situation has passed.
-- You do not need to give a perfect description — just the essentials: where you are, what you heard, and what you need.
+- You do not need to decide whether it definitely counts as a burglary.
+- You do not need to search the house or garden.
+- You do not need to review all CCTV while you are still unsafe or shaken.
+- You do not need to call neighbours, a landlord, or an insurer until the immediate risk has passed.
+- You do not need a perfect description before asking for help.
 
 ## Important reassurance
-Your body may go into shock (shaking, nausea, tunnel vision, freezing). That’s a normal stress response. The safest, most effective thing you can do is slow down, make yourself harder to reach, and get help — not to prove what’s happening.
+Freezing, shaking, nausea, tunnel vision, or feeling unreal can happen during sudden fear. The useful thing now is not to prove what is happening; it is to make yourself harder to reach, give your location, and get help.
 
 ## Scope note
-This is first steps only — focused on staying safe in the moment and avoiding irreversible mistakes. After things settle, you may want follow-up steps (security, reporting details, landlord/insurer), but those can wait.
+These are first steps only, for the earliest safe pause during a possible break-in or attempted entry. Later decisions about reports, locks, alarms, housing, or insurance may need specialist help, but they do not need to be solved in this moment.
 
 ## Important note
-This is general information, not legal advice. If you believe someone is trying to enter your home or you feel in immediate danger, prioritise getting to a safer place and contacting emergency services.
+This is general information, not legal, security, medical, therapeutic, financial, or professional advice. If you believe someone is trying to enter your home or you feel in immediate danger, prioritise moving to a safer place and contacting emergency services.
 
 ## Additional Resources
 - https://www.met.police.uk/contact/how-to-make-a-silent-999-call/
 - https://www.policeconduct.gov.uk/our-work/key-areas-of-work/silent-solution
-- https://www.westyorkshire.police.uk/advice/our-services/999-or-101-which-number/pocket-dial-silent-999-calls
 - https://www.police.uk/pu/contact-us/
+- https://www.police.uk/cp/crime-prevention/protect-home-crime/

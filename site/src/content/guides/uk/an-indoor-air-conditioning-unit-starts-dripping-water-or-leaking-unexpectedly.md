@@ -1,70 +1,84 @@
-﻿---
+---
 title: "What to do if… an indoor air-conditioning unit starts dripping water or leaking unexpectedly"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
-  - indoor ac leaking water
-  - air con dripping water
-  - ac unit dripping indoors
-  - split ac indoor unit leak
-  - wall mounted ac leaking
-  - air conditioner water leak
-  - condensate leak air con
-  - ac started leaking suddenly
-  - water dripping from ac
-  - ac leak onto wall
-  - ac leak onto floor
-  - ac leaking near electrics
-  - unexpected water from air con
-  - indoor unit dripping overnight
-  - ac leak after heavy use
-  - air con overflow
-  - dripping cassette unit
-  - dripping mini split
-  - ceiling drip from ac unit
-last_reviewed: "2026-03-03"
+  - "indoor air-conditioning unit leaking"
+  - "indoor air-conditioning unit dripping water"
+  - "air-conditioning unit leaking unexpectedly"
+  - "air con dripping water indoors"
+  - "air conditioner leaking indoors"
+  - "wall mounted ac leaking water"
+  - "split ac indoor unit dripping"
+  - "cassette ac dripping water"
+  - "condensate water from ac"
+  - "water leaking from ac unit"
+  - "what do i do if ac leaks"
+  - "what do i do if air con drips"
+  - "what do i do if ac water leaks"
+  - "what do i do if indoor ac drips"
+  - "help i found ac water"
+  - "help i have water dripping indoors"
+  - "my air con is leaking"
+  - "my indoor ac started dripping"
+  - "my wall ac is leaking"
+  - "water near plug socket"
+  - "wet wall below ac"
+  - "water on floor near ac"
+  - "ceiling drip below ac"
+  - "ac leak after heavy use"
+  - "air con overflow"
+  - "condensate drain problem"
+  - "blocked ac drain"
+  - "leaking aircon unit"
+  - "ac driping water"
+  - "rented flat ac leaking"
+  - "home office ac leak"
+  - "night time ac leak"
+last_reviewed: "2026-04-29"
+date_created: "2026-04-29"
 ---
 
 # What to do if… an indoor air-conditioning unit starts dripping water or leaking unexpectedly (UK)
+
 ## Short answer
-Turn the air-conditioning off (and isolate power if you can do so safely), then keep water away from electrics and contain the leak while you arrange a qualified engineer.
+Turn the air-conditioning off, keep water away from electrics, and contain the drip while you arrange a suitable air-conditioning engineer.
 
 ## Do not do these things
-- Don’t keep running the unit “to see if it stops” — leaks can quickly damage walls, ceilings, floors, and electrics.
-- Don’t open the indoor unit casing or poke inside it while it’s powered.
-- Don’t put towels or a bucket where water could run onto plugs, extension leads, sockets, or the consumer unit.
-- Don’t try to “top up” refrigerant or touch pipework/refrigerant components yourself.
-- Don’t ignore wet plasterboard, carpet/underlay, or skirting — lingering moisture can cause further damage and mould.
+- Don’t keep running the unit to see if it stops.
+- Don’t open the indoor unit casing or poke inside it while it is powered.
+- Don’t put towels, a bucket, or a tray where water could run onto plugs, extension leads, sockets, or the consumer unit.
+- Don’t touch refrigerant pipework or try to top up refrigerant yourself.
+- Don’t ignore wet plasterboard, carpet, underlay, or skirting; lingering moisture can cause further damage.
 
 ## What to do now
-1. **Switch the system off at the controller/remote.** If water is dripping near electrics or you feel unsure, **isolate power** at the local AC isolator switch (if fitted) or at the relevant circuit at the consumer unit **only if you can do it safely** (dry hands, dry floor).
-2. **Stop water reaching electricity.** Unplug nearby devices if safe. Move extension leads/power strips up and away from the wet area.
-3. **Catch and contain the water.** Put a bucket/tray under the drip line and place towels around it. If the leak is from above/inside a wall, protect flooring with a plastic sheet or bin liners under towels.
-4. **Reduce spread and damage for the next hour.**
-   - If water is running down a wall, gently tape a strip of plastic to guide drips into a container.
-   - Wipe up standing water promptly.
-5. **Only do homeowner-safe checks (no tools, no panels):**
-   - If you can see the **condensate drain pipe** where it exits the building, check for an obvious kink or disconnection (from the outside only, if safe).
-   - If your **user manual** clearly describes removing/cleaning a filter as a homeowner task, and you can do it without opening panels or using tools, you can check whether it’s heavily clogged and set it aside to dry. If you’re unsure, skip this and wait for an engineer.
-6. **Arrange the right help.**
-   - **If you rent:** contact your landlord/letting agent immediately, explain there is active water leakage, and ask for an **air-conditioning engineer**.
-   - **If you own:** book a reputable air-conditioning engineer. If the system contains refrigerant (most fixed split systems do), the company and personnel working on it should have the appropriate F-gas certification/qualifications.
-7. **Document the situation quickly.** Take a few photos/videos of the dripping, the surrounding damage, and the unit model/serial label (without opening panels). This helps the engineer and can help with insurance/landlord records.
-8. **If there’s significant water or ceiling bulging:** keep people out of that spot, place containers underneath, and consider calling an emergency property maintenance service if you cannot stop the leak and damage is escalating.
+1. **Switch the system off at the controller or remote.** If water is dripping near electrics, isolate power at the local AC isolator switch if fitted, or at the relevant circuit at the consumer unit, only if you can do this safely with dry hands and a dry floor.
+2. **Stop water reaching electricity.** Move nearby extension leads, chargers, power strips, and small appliances away from the wet area if it is safe to do so.
+3. **Catch and contain the drip.** Put a bucket or tray under the drip line and place towels around it, keeping all containers and towels away from electrical points.
+4. **Limit spread from the unit.** Wipe up standing water. If water is running down a wall, gently guide it into a container with a strip of plastic or a towel positioned away from sockets.
+5. **Look only for obvious, safe clues.** From the floor, check whether water is coming from the front of the indoor unit, behind it, the ceiling around it, or a visible condensate pipe. Do not remove panels or use tools.
+6. **Check the outside condensate drain only if it is safely reachable.** If you can see the drain pipe where it exits the building, look for an obvious kink, blockage at the end, or disconnection. Do not climb, lean out of windows, or dismantle anything.
+7. **Use the manual only for simple user tasks.** If your user manual clearly says filter removal or cleaning is a homeowner task, and it can be done without tools or opening service panels, you may remove a visibly clogged filter and let it dry. If unsure, leave it for the engineer.
+8. **Arrange the right help.**
+   - If you rent, contact your landlord or letting agent immediately, say there is active water leakage from the indoor air-conditioning unit, and ask for an air-conditioning engineer.
+   - If you own the property, book a reputable air-conditioning engineer. For fixed systems containing F gas, the business should have appropriate company certification, and anyone working with F gas should have their own qualification.
+9. **Record what happened.** Take photos or short videos of the dripping, the wet area, any visible drain pipe problem, and the unit model label if you can see it without opening panels.
+10. **If water is heavy, ceiling material is bulging, or electrics may be wet,** keep people away from that spot and get urgent property maintenance or electrical help.
 
 ## What can wait
-- You don’t need to diagnose the exact cause right now.
-- You don’t need to dismantle the unit, flush lines, or attempt internal cleaning in a panic.
-- You don’t need to decide about replacement today — focus on stopping water damage and getting it inspected.
+- You do not need to diagnose the exact cause now.
+- You do not need to decide whether the unit needs replacing today.
+- You do not need to flush pipes, dismantle the unit, remove panels, or attempt internal cleaning.
+- You do not need to dry hidden wall or ceiling spaces yourself before the leak source has been checked.
 
 ## Important reassurance
-A sudden indoor AC leak is common and often relates to drainage or airflow issues rather than something “catastrophic.” Turning it off and keeping water away from electrics is a safe, effective first response.
+An indoor AC leak is usually a problem to pause and contain, not a problem to solve in a panic. Turning the unit off, keeping water away from electrics, and arranging suitable help are useful first steps.
 
 ## Scope note
-This is first steps only — an engineer may need to inspect drainage, insulation, pipework, the condensate pump (if fitted), and any coil/refrigerant-related issues.
+These are first steps only. An engineer may need to inspect drainage, insulation, pipework, the condensate pump if fitted, and any coil or refrigerant-related issues.
 
 ## Important note
-This is general information, not professional electrical or engineering advice. If you cannot safely isolate power or water is reaching electrical points, prioritise safety and get qualified help.
+This is general information, not professional electrical, engineering, landlord, insurance, or property advice. If you cannot safely isolate power, or water may be reaching electrical points, prioritise safety and get qualified help.
 
 ## Additional Resources
 - https://www.electricalsafetyfirst.org.uk/guidance/safety-around-the-home/flooding-advice/

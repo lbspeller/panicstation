@@ -1,78 +1,101 @@
-﻿---
+---
 title: "What to do if… you see a large cash withdrawal on your account but you still have your card"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
-  - unknown cash withdrawal
-  - unauthorised cash withdrawal
-  - atm withdrawal fraud
-  - cash machine fraud
-  - cashpoint withdrawal
-  - debit card cash withdrawal
-  - still have my card
-  - card not stolen but money gone
-  - card details stolen
-  - pin compromise
-  - skimming suspicion
-  - cloned card
-  - bank account fraud
-  - suspicious withdrawal alert
-  - missing money from account
-  - cash withdrawal i did not make
-  - fraudulent cash withdrawal
-  - unexpected cash withdrawal
-last_reviewed: "2026-01-10"
+  - "unknown cash withdrawal"
+  - "unauthorised cash withdrawal"
+  - "large cash withdrawal"
+  - "atm cash withdrawal"
+  - "cash machine withdrawal"
+  - "cashpoint withdrawal"
+  - "debit card cash withdrawal"
+  - "bank account cash withdrawal"
+  - "card still with me"
+  - "money gone from account"
+  - "what do i do if cash withdrawn"
+  - "what do i do if money gone"
+  - "what do i do if card cloned"
+  - "what do i do if atm withdrawal"
+  - "help i still have my card"
+  - "help i see cash withdrawal"
+  - "help i did not withdraw cash"
+  - "help i think my card cloned"
+  - "my card is not stolen"
+  - "my account shows cash withdrawal"
+  - "cash withdrawal i did not make"
+  - "withdrawal while card with me"
+  - "pin compromise"
+  - "skimming suspicion"
+  - "cloned card"
+  - "suspicious withdrawal alert"
+  - "pending cash withdrawal"
+  - "posted cash withdrawal"
+  - "cash withdrawal fraud confusion"
+  - "bank error or fraud"
+  - "cashpoint fraud or skimming"
+  - "atm fraud or cloned card"
+  - "uk bank account"
+  - "uk debit card"
+  - "large cash withdrawl"
+  - "unauthorised cash withdrawl"
+last_reviewed: "2026-05-20"
+date_created: "2026-05-20"
 ---
 
 # What to do if… you see a large cash withdrawal on your account but you still have your card (UK)
+
 ## Short answer
-Freeze/block the card and contact your bank’s fraud team immediately using a trusted route (your banking app, the number on the back of your card, or by dialling 159). Ask them to stop further withdrawals and open a disputed cash withdrawal case right away.
+Freeze the card in your banking app if you can, then contact your bank’s fraud team using a trusted route. Say: “I did not make this cash withdrawal and I still have my card.”
 
 ## Do not do these things
-- Don’t call back a number from a text/email/call about the withdrawal; use your bank’s app, the card-back number, or 159 instead.
-- Don’t keep using the card “to test it” (including contactless) until the bank tells you it’s safe.
-- Don’t post details (screenshots, ATM location, times) on social media.
-- Don’t assume it’s “just pending” and wait days if the withdrawal is large or unusual.
-- Don’t accuse a specific person to staff or family while you’re still shocked; focus on locking things down first.
+- Don’t call back a number from a text, email, or unexpected call about the withdrawal.
+- Don’t keep using the card to test whether it still works.
+- Don’t share screenshots, ATM details, times, or account information on social media.
+- Don’t wait days to see whether it disappears if the withdrawal is large or clearly not yours.
+- Don’t accuse a specific person while you are shocked; focus first on stopping further access.
+- Don’t give anyone your PIN, passcode, one-time code, or full online banking password.
 
 ## What to do now
-1. **Lock the card immediately.** Use your banking app to freeze/block the card if you can. If not, call your bank now.
-2. **Contact your bank’s fraud team via a trusted route.** Use the number on the back of your card, your bank’s official app, or **dial 159** (then choose your bank) if you’re worried about spoofed calls.
-3. **Tell them clearly: “I didn’t make this cash withdrawal and I still have my card.”** Ask the bank to:
-   - **Block the card and issue a replacement**
-   - **Stop further cash withdrawals**
-   - **Open a disputed cash withdrawal / fraud investigation**
-   - **Confirm your case reference** (note the date/time and who you spoke to)
-4. **Write down the key facts while they’re fresh (30 seconds).** Amount, time shown, ATM/bank name/location (if shown), and whether it’s “pending” or “posted”. Save screenshots of the transaction list.
-5. **Secure your access immediately.**
-   - Change your online banking password (from a device you trust).
-   - Turn on login/transaction alerts if available.
-   - If your bank offers it, remove unknown devices from the account and review security settings.
-6. **Check for “more than one” problem.** Look for other cash withdrawals, card payments, new payees, or changes to contact details (email/phone/address). Tell the bank about anything else suspicious in the same call.
-7. **Report it to the national fraud reporting service.** Make a report to **Report Fraud** (online) or call **0300 123 2040** for advice/reporting. If you’re in Scotland, the reporting route may differ and you may be directed to report via Police Scotland (often via 101) — follow the prompts you’re given.
-8. **If the bank won’t help or closes it too quickly, escalate.**
-   - Make a formal complaint to the bank (ask how to do this during your fraud call).
-   - If it’s not resolved, you can take it to the **Financial Ombudsman Service**.
+1. **Lock or freeze the card now.** Use your banking app if available. If you cannot do this, phone your bank using the number on the back of your card or from your bank’s official app or website.
+
+2. **Use 159 if you are worried about spoofed calls.** Dial 159 and choose your bank if it is listed. If your bank is not listed or you cannot get through, use your bank’s official fraud contact route.
+
+3. **Tell the bank exactly what happened.** Say: “I did not make this cash withdrawal and I still have my card.” Ask the bank to:
+   - block the card or cash access;
+   - stop further unauthorised use;
+   - record the withdrawal as disputed;
+   - issue a replacement card if needed;
+   - give you a case or reference number.
+
+4. **Write down the key details while they are fresh.** Note the amount, date and time shown, cash machine or branch location if shown, and whether the transaction is pending or posted. Keep any screenshots private.
+
+5. **Check the account for other changes.** Look for other withdrawals, card payments, new payees, changed contact details, new devices, or messages you do not recognise. Tell the bank about anything else suspicious in the same call.
+
+6. **Secure online banking from a device you trust.** Change your password or passcode if your bank advises it or if you think someone may know it. Remove unknown devices if your app allows this, and turn on transaction alerts if available.
+
+7. **Report the fraud through the right police route.** If you are in England, Wales, or Northern Ireland, report it to Report Fraud online or by phone. If you are in Scotland, report it to Police Scotland on 101. If there is immediate danger or a crime is happening now, call 999.
+
+8. **Ask about the complaint route if the bank will not treat it as disputed.** Ask the bank how to make a formal complaint and keep the reference number. If the complaint is not resolved through the bank’s complaints process, you can usually take it to the Financial Ombudsman Service.
 
 ## What can wait
-- You do **not** need to work out exactly how it happened right now (skimming, PIN compromise, bank error, etc.).
-- You do **not** need to gather “proof” from the ATM yourself.
-- You do **not** need to decide today whether to close your account or change banks.
-- You can sort out longer-term credit file monitoring later; first, stop further losses and get the bank case opened.
+- You do not need to work out exactly how it happened right now.
+- You do not need to visit the cash machine or gather evidence from it yourself.
+- You do not need to decide today whether to close your account or change banks.
+- You do not need to sort out longer-term credit file checks before the card and account are secured.
 
 ## Important reassurance
-Seeing a cash withdrawal you didn’t make is a common shock reaction: racing thoughts, panic, and wanting to “fix everything” at once. The most protective move is simply freezing access and getting the bank’s fraud process started—everything else becomes easier once the account is secured.
+This is frightening, especially when the card is still in your possession. The useful first move is simple: stop further access, get the bank to record the transaction as disputed, and keep a clear note of what you reported.
 
 ## Scope note
-These are first-step actions to prevent further loss and start the bank’s formal dispute process. Next steps (refund handling, complaints, and longer-term identity protection) depend on what your bank finds.
+These are first steps only. Later decisions about refunds, complaints, identity protection, or specialist help may depend on what the bank finds and what else has happened on the account.
 
 ## Important note
-This is general information, not legal or financial advice. Bank processes can vary. If you feel personally threatened or pressured by someone (for example, a scammer or someone demanding your card/PIN), get to safety first and call emergency services if needed.
+This is general information, not legal, financial, or professional advice. Bank processes can vary. If someone is threatening you, pressuring you for your card or PIN, or making you feel unsafe, get to a safer place first and call emergency services if needed.
 
 ## Additional Resources
 - https://stopscamsuk.org.uk/our-work/159-phone-number/
-- https://www.citizensadvice.org.uk/debt-and-money/banking/banking-security-and-fraud/
-- https://www.reportfraud.police.uk/contact-us/
-- https://www.gov.uk/government/news/report-fraud-new-service-from-city-of-london-police
-- https://www.financial-ombudsman.org.uk/decisions-case-studies/case-studies/customer-notices-cash-withdrawals-bank-account-doesnt-recognise
-- https://www.legislation.gov.uk/uksi/2017/752/contents
+- https://www.fca.org.uk/consumers/fraudulent-payments
+- https://www.reportfraud.police.uk/reporting-a-fraud/
+- https://www.cyberscotland.com/report-an-incident/
+- https://www.financial-ombudsman.org.uk/consumers/complaints-can-help/fraud-scams

@@ -1,94 +1,109 @@
-﻿---
-title: "What to do if… your card details are compromised and you keep seeing small “test” charges"
+---
+title: "What to do if… your card details are compromised and you keep seeing small test charges"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
-  - card details compromised
-  - card info stolen
-  - unauthorized card charges
-  - small test charges
-  - penny test transactions
-  - card not present fraud
-  - unknown merchant descriptor
-  - micro charges on statement
-  - pending authorization confusion
-  - verification charge confusion
-  - credit card billing error
-  - written dispute within 60 days
-  - debit card reg e timing
-  - bank fraud phone call
-  - fake fraud alert text
-  - asked for verification code
-  - card added to digital wallet
-  - replace compromised card
-  - stop recurring card charges
-  - identity theft first steps
-last_reviewed: "2026-01-08"
+  - "card details compromised"
+  - "compromised card details"
+  - "card details stolen"
+  - "card details leaked"
+  - "card details fraud"
+  - "unauthorized card charges"
+  - "unknown card charges"
+  - "small test charges"
+  - "small card test charges"
+  - "penny test charges"
+  - "micro charges on card"
+  - "card number stolen"
+  - "what do i do if card compromised"
+  - "what do i do if card details stolen"
+  - "what do i do if test charges appear"
+  - "what do i do if small charges appear"
+  - "help i see test charges"
+  - "help i see card fraud"
+  - "help i found small charges"
+  - "help i got fraud alerts"
+  - "my card has test charges"
+  - "my card details are compromised"
+  - "my card has micro charges"
+  - "my debit card has charges"
+  - "pending authorization confusion"
+  - "verification charge confusion"
+  - "unknown merchant descriptor"
+  - "card not present fraud"
+  - "digital wallet card fraud"
+  - "recurring card fraud"
+  - "fake fraud alert text"
+  - "bank fraud call"
+  - "unauthorized card chrges"
+  - "compromised card detals"
+last_reviewed: "2026-06-27"
+date_created: "2026-06-27"
 ---
 
-# What to do if… your card details are compromised and you keep seeing small “test” charges (USA)
+# What to do if… your card details are compromised and you keep seeing small test charges (USA)
 
 ## Short answer
-Lock the card and call the card issuer/bank using a trusted number to replace the card, block the merchant, and start disputes immediately.
+Lock the card now, then contact the card issuer using a trusted number or the official app to replace the card and report every charge you do not recognize.
 
 ## Do not do these things
-- Don’t ignore “small” charges — they’re often a test before larger fraud.
-- Don’t assume it’s a harmless “verification” hold if you don’t recognize the merchant — treat it as fraud until your issuer confirms otherwise.
-- Don’t click links or call numbers from unexpected “fraud alert” texts/emails — use the number on the back of your card or the official app.
-- Don’t share one-time passcodes, PINs, or online banking credentials with anyone.
-- Don’t move money “to protect it” because a caller told you to.
+- Don’t ignore small charges; they can be a test before larger fraud.
+- Don’t assume an unknown merchant is only a harmless verification hold until your issuer confirms it.
+- Don’t click links or call numbers from unexpected fraud-alert texts or emails.
+- Don’t share one-time passcodes, PINs, card security codes, or online banking passwords.
+- Don’t move money because a caller says it will “protect” your account.
 
 ## What to do now
-1. **Lock/freeze the card and stop using it.**  
-   Use your issuer’s app or website to lock/freeze the card if available.
+1. **Lock or freeze the card and stop using it.**  
+   Use the issuer’s official app or website if you can do this quickly.
 
-2. **Call the issuer’s fraud department (trusted contact only).**  
-   Use the number on the back of the card or inside the official app/website. Tell them you’re seeing repeated small “test” charges and ask them to:
-   - **close and replace** the card (new number)
-   - **block** the suspicious merchant(s)
-   - tell you which items are **pending authorizations** vs completed charges
+2. **Contact the issuer’s fraud department using a trusted route.**  
+   Use the number on the back of the card, the official app, or the issuer’s official website. Say: “My card details appear to be compromised and I’m seeing repeated small charges I don’t recognize.” Ask them to:
+   - cancel or close the compromised card and issue a replacement with a new number
+   - tell you which items are pending authorizations and which are completed charges
+   - block the suspicious merchant if they can
+   - explain exactly how they want you to dispute each charge
 
-3. **Ask them to disable any tokenized versions of the card.**  
-   Ask the issuer to check whether the card was added to a digital wallet (on any device) and to **revoke/suspend wallet tokens** and other stored-card tokens tied to the compromised card.
+3. **Ask about digital wallets and saved-card versions.**  
+   Ask whether the card has been added to any digital wallet or device you do not recognize. Ask the issuer to remove unknown wallet access and revoke wallet tokens where possible.
 
-4. **Dispute every charge you don’t recognize, and keep a written trail.**  
-   - Dispute in the app/phone right away.  
-   - If it’s a **credit card**, also send a **written billing-error dispute** so it reaches the issuer within **60 days** after the first statement showing the charge. Keep copies and proof you sent it.
+4. **Dispute every charge you do not recognize, and keep a written trail.**  
+   Report the charges right away by the issuer’s app, phone line, or website. Ask how to send written confirmation or a dispute letter, and keep copies, screenshots, dates, times, confirmation numbers, and the names or IDs of people you speak with.
 
-5. **If it’s a debit card (or the charges hit your checking account), report fast and don’t miss statement deadlines.**  
-   Debit/EFT protections can depend on how quickly you notify the bank. Report as soon as you notice, and make sure the bank is notified no later than **60 days** after the statement was sent that shows the unauthorized transfer (ask the bank what they need from you).
+5. **If it is a credit card, protect the written dispute deadline.**  
+   For a credit card billing error, send a written dispute so it reaches the issuer within 60 days after the first statement showing the disputed charge was sent to you. Use the billing-inquiries address, not the payment address, unless the issuer tells you otherwise in writing.
 
-6. **Stop any “recurring” version of the fraud at the issuer level.**  
-   If the descriptor looks like a subscription/recurring payment, say: “These are unauthorized recurring charges — I need a stop/block on this merchant and any future payments.” Ask what will happen if the merchant retries.
+6. **If it is a debit card or the money came from checking, report it as soon as possible.**  
+   Debit-card and electronic-transfer protections can depend on how quickly you notify the bank. Report now, ask what written notice they need, and make sure the bank is notified no later than 60 days after the statement showing the unauthorized transfer was sent.
 
-7. **Lock down likely access points.**  
-   After the card is locked and you’ve contacted the issuer:
-   - check email and issuer alerts for “card added” / “new device”
-   - remove saved payment methods from major shopping/subscription accounts you control
-   - change passwords (start with email), and turn on multi-factor authentication
+7. **If the descriptor looks recurring, say that clearly.**  
+   Tell the issuer: “These are unauthorized recurring charges. Please block this merchant and tell me what happens if they try again.” Ask whether a replacement card number is enough to stop future attempts.
 
-8. **If you see signs of broader identity theft, start the federal identity theft process.**  
-   If there are other warning signs (new accounts, credit inquiries, missing mail), create an IdentityTheft.gov report and then place a **fraud alert or credit freeze**.
+8. **Check the most likely access points after the issuer has acted.**  
+   Check your email and issuer alerts for messages such as “card added,” “new device,” or “payment method updated.” Change the password on your email account and any shopping, delivery, travel, or subscription account showing unknown activity, and turn on multi-factor authentication where available.
+
+9. **If there are signs beyond this card, start identity-theft steps.**  
+   If you see new accounts, credit inquiries, missing mail, unfamiliar debt, or other personal information misuse, use IdentityTheft.gov and consider a fraud alert or credit freeze.
 
 ## What can wait
-- Updating legitimate subscriptions with the new card number (do it after the old card is closed and disputes are underway).
-- Deep-diving every place you’ve ever used the card — focus on stopping charges first.
-- Choosing credit monitoring services.
-- Filing extra reports beyond your issuer dispute unless you see wider identity theft.
+- Updating legitimate subscriptions with the new card number can wait until the compromised card is closed and disputes are underway.
+- You do not need to find every place you have ever used the card before calling the issuer.
+- You do not need to choose a credit-monitoring service right now.
+- Extra reports can usually wait unless you see signs of broader identity theft.
 
 ## Important reassurance
-This “tiny test charge” pattern is common. Acting quickly — locking the card and contacting the issuer — usually stops escalation and gets the dispute process moving.
+Small unknown charges are alarming, but this is a situation card issuers handle every day. Locking the card, reporting quickly, and keeping records gives you a clear next step instead of trying to solve everything at once.
 
 ## Scope note
-This guide covers first steps to stop additional charges and begin disputes. If it expands into identity theft, you may need credit freezes/alerts and additional paperwork.
+These are first steps to stop more charges and begin disputes. If the problem spreads beyond this card, later decisions may need help from your card issuer, bank, credit bureaus, identity-theft resources, or another qualified specialist.
 
 ## Important note
-This is general information for urgent first steps, not legal advice. Steps and timelines can vary by issuer and whether the card is credit or debit, so follow your issuer’s instructions and keep records of what you report.
+This is general information for urgent first steps, not legal, financial, identity-theft, or professional advice. Issuer procedures and protections can vary, especially between credit cards and debit cards, so follow your issuer’s instructions and keep records of what you report.
 
 ## Additional Resources
 - https://consumer.ftc.gov/articles/using-credit-cards-and-disputing-charges
 - https://consumer.ftc.gov/node/77546
 - https://consumer.ftc.gov/articles/lost-or-stolen-credit-atm-and-debit-cards
-- https://www.consumerfinance.gov/rules-policy/regulations/1005/6
+- https://www.consumerfinance.gov/rules-policy/regulations/1005/6/
 - https://www.identitytheft.gov/
 - https://consumer.ftc.gov/articles/credit-freezes-and-fraud-alerts

@@ -1,74 +1,90 @@
-﻿---
+---
 title: "What to do if… you receive an urgent message asking you to buy gift cards or make a payment for work"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
-  - fake boss scam
-  - ceo fraud email
-  - urgent gift card request
-  - asked to buy gift cards
-  - work payment scam
-  - payroll payment request
-  - finance transfer request
-  - invoice scam at work
-  - whatsapp boss message
-  - sms from manager scam
-  - email impersonation work
-  - business email compromise
-  - changed bank details email
-  - gift card codes request
-  - “can you do me a favour” email
-  - urgent confidential request
-  - new starter boss scam
-  - suspicious work email
-  - payment authorization scam
-last_reviewed: "2026-01-07"
+  - "fake boss gift card scam"
+  - "urgent work payment message"
+  - "work gift card request"
+  - "boss asking for gift cards"
+  - "manager asking for payment"
+  - "urgent message from boss"
+  - "work payment scam"
+  - "gift card codes at work"
+  - "invoice scam at work"
+  - "what do i do if gift card scam"
+  - "what do i do if boss texts"
+  - "what do i do if payment request"
+  - "what do i do if urgent invoice"
+  - "help i bought gift cards"
+  - "help i sent gift card codes"
+  - "my boss asked for payment"
+  - "my manager texted urgently"
+  - "confidential payment request"
+  - "urgent whatsapp from manager"
+  - "suspicious work email"
+  - "changed bank details email"
+  - "fake invoice from supplier"
+  - "payment link from boss"
+  - "gift card receipt requested"
+  - "gift card code photo"
+  - "new starter boss scam"
+  - "remote work payment request"
+  - "finance team payment request"
+  - "ceo fraud message"
+  - "business email compromise"
+  - "payment authorisation scam"
+  - "gift gard scam"
+  - "paymant request at work"
+last_reviewed: "2026-05-19"
+date_created: "2026-05-19"
 ---
 
 # What to do if… you receive an urgent message asking you to buy gift cards or make a payment for work (UK)
+
 ## Short answer
-Pause and do **not** pay or buy gift cards. Verify the request using a **known, separate** contact method, then report it internally as a suspected scam.
+Pause and do not pay, buy gift cards, or share codes. Verify the request using a known, separate contact method, then report it internally as a suspected scam.
 
 ## Do not do these things
-- Don’t buy gift cards “just to get it done”, even if you think you’ll be reimbursed later.
-- Don’t share gift card codes, photos of the back, screenshots, or receipts to anyone who asked.
-- Don’t click “invoice”, “payment link”, “share file”, or “confirm bank details” links from the message.
-- Don’t reply to the suspicious email/text to “check if it’s really you” — that keeps you in the scammer’s channel.
-- Don’t feel pressured by secrecy (“confidential”, “don’t tell finance”) or urgency (“in the next 10 minutes”).
-- Don’t delete the message yet (you may need it for IT/security and reporting).
+- Don’t buy gift cards “just to get it done”, even if the message says you will be reimbursed.
+- Don’t share gift card codes, photos of card backs, screenshots, receipts, invoice details, or payment confirmations with the sender.
+- Don’t click payment links, invoice links, file-sharing links, or “confirm bank details” links from the message.
+- Don’t reply in the same suspicious email, text, Teams, WhatsApp, or chat thread to check if it is genuine.
+- Don’t let secrecy or urgency override normal payment checks.
+- Don’t delete the message yet; your IT, security, finance, or manager may need it.
 
 ## What to do now
-1. **Stop the transaction mid-stream.** If you’re already at a till or checkout, stop and step aside. If you’ve opened a banking screen, close it and do nothing further.
-2. **Verify using a trusted channel you choose (not the message).**
-   - Call your manager/colleague on a number you already have (or from the company directory), or speak to them in person.
-   - If you can’t reach them quickly, treat it as a “no” until verified.
-3. **Report it inside your workplace immediately.**
-   - Forward the email (or screenshot the text/Teams/WhatsApp message) to your IT/security team or helpdesk.
-   - Tell your finance/accounts payable contact so they can watch for linked fraud attempts (for example, vendor bank-detail changes, fake invoices, payroll diversion).
-4. **If it came by email, report it as phishing (UK).** Forward the suspicious email to **report@phishing.gov.uk**.
-5. **If it came by text message (SMS), report it (UK).** Forward the SMS to **7726** (free) to report it to your mobile provider.
-6. **If you already paid or started a payment, act fast (don’t be embarrassed).**
-   - **Contact your bank or payment provider immediately** and ask them to try to **stop, recall, or reverse** the payment if possible. Write down the time you called and any reference/case number they give you.
-   - **If gift cards are involved:** contact the **gift card issuer/brand immediately** and ask what they can do to freeze/stop use of any remaining balance. Keep the physical cards and receipts.
-   - **Tell your employer’s finance team immediately** so they can check whether others are being targeted.
-7. **Make an official report if money was lost (UK).**
-   - If you’re in **England, Wales or Northern Ireland**, report fraud/cyber crime to **Report Fraud** (online).
-   - If you’re in **Scotland**, report fraud to **Police Scotland via 101**.
-8. **Make a quick record while it’s fresh.** Save the message, note the time/date, the sender details, any requested amounts, and any payment details given. This helps internal investigation and reporting.
+1. **Stop the transaction.** If you are at a till, checkout page, gift card display, banking app, or payment screen, pause and do nothing further.
+2. **Move out of the scammer’s channel.** Do not continue the conversation in the same thread, chat, or number that made the request.
+3. **Verify with a trusted route you choose.** Call your manager, colleague, finance contact, or supplier contact using a number from your company directory, a saved contact you already trust, or an in-person check. Do not use a number or link from the suspicious message.
+4. **Treat silence as a no.** If you cannot verify the request quickly, do not pay, buy gift cards, approve an invoice, change bank details, or send codes.
+5. **Report it inside your workplace.** Send the suspicious email or a screenshot of the text, Teams message, WhatsApp message, invoice request, payment link, or bank-detail change request to your IT, security, finance, accounts payable, or helpdesk route.
+6. **Warn the payment owner.** Tell the person or team who normally approves payments, expenses, gift cards, supplier changes, or payroll changes so they can check for linked attempts.
+7. **If it came by email, report it as phishing.** Forward the suspicious email to report@phishing.gov.uk. This route is for suspicious emails, not for reporting a crime.
+8. **If it came by SMS, report it to your mobile provider.** Forward the suspicious text to 7726 if your provider supports it. This is usually free.
+9. **If you already paid, bought gift cards, or shared codes, act quickly.**
+   - Contact your bank or payment provider immediately and ask what options are available to stop, recall, dispute, or recover the payment if possible.
+   - If gift cards are involved, contact the gift card issuer or retailer immediately and ask whether any remaining balance can be blocked or frozen. Keep the cards and receipts.
+   - Tell your employer’s finance, IT, security, or manager immediately so they can check whether other staff, supplier accounts, invoices, or payroll details are being targeted.
+10. **If money was lost, report the fraud.**
+   - If you are in England, Wales or Northern Ireland, report fraud or cyber crime to Report Fraud.
+   - If you are in Scotland, report fraud to Police Scotland by calling 101.
+11. **Save a simple record.** Keep the message, sender details, time and date, amount requested, payment details, gift card brand, card numbers if already shared, receipts, and any case or reference numbers.
 
 ## What can wait
-- You do not need to decide today whether to confront anyone, “prove” it was a scam, or handle disciplinary/policy issues.
-- You do not need to do a full device “clean” right now unless your IT/security team tells you to.
-- You do not need to write a perfect report — basic facts are enough to start.
+- You do not need to decide now whether to confront the sender, accuse anyone, or prove exactly how the scam happened.
+- You do not need to complete a perfect incident report before alerting the right internal team.
+- You do not need to decide reimbursement, complaint, disciplinary, insurance, or policy issues in this first moment.
+- You do not need to do a full device reset unless your IT or security team tells you to.
 
 ## Important reassurance
-These scams are designed to trigger helpfulness, urgency, and fear of “letting work down”. Getting a believable message does not mean you were careless — the safest response is to slow the situation down and verify.
+These scams are designed to copy authority, urgency, secrecy, and helpfulness at work. A believable message does not mean you were careless; slowing down, verifying separately, and reporting quickly is the right response.
 
 ## Scope note
-These are first steps to prevent immediate loss and contain workplace risk. Later steps (internal incident handling, password resets, training, formal reporting) can be done once you’re calm and supported by your organisation.
+These are first steps to prevent immediate loss and contain workplace risk. Later decisions about internal investigation, reimbursement, complaints, passwords, supplier checks, or formal reporting may need help from your employer, bank, payment provider, card issuer, insurer, union, adviser, or another specialist.
 
 ## Important note
-This guide provides general information and first-step actions, not legal, financial, or professional advice. Processes and available remedies can vary by bank/payment provider, card issuer, employer policies, and the details of the scam.
+This guide provides general information and first-step actions only. It is not legal, financial, cybersecurity, employment, therapeutic, or professional advice.
 
 ## Additional Resources
 - https://www.gov.uk/report-suspicious-emails-websites-phishing

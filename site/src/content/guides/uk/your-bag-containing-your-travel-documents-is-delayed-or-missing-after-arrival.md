@@ -1,78 +1,107 @@
-﻿---
+---
 title: "What to do if… your bag containing your travel documents is delayed or missing after arrival"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
-  - bag missing after landing
-  - delayed baggage with passport
-  - suitcase missing at baggage claim
-  - travel documents in checked bag
-  - passport in lost luggage
-  - visa in lost luggage
-  - brp in missing bag
-  - residence card missing in luggage
-  - boarding pass and bag tag lost
-  - airport baggage desk report
-  - property irregularity report pir
-  - missing luggage tracking reference
-  - identity documents delayed arrival
-  - stolen bag at airport arrivals
-  - hotel check-in without passport
-  - onward travel without documents
-  - returning to uk without documents
-  - airline baggage claim reference
-last_reviewed: "2026-03-07"
+  - "bag missing after landing"
+  - "delayed bag after arrival"
+  - "missing bag after flight"
+  - "lost luggage after landing"
+  - "suitcase missing at arrivals"
+  - "passport in missing bag"
+  - "travel documents in luggage"
+  - "documents in delayed baggage"
+  - "identity documents in suitcase"
+  - "what do i do if bag missing"
+  - "what do i do if passport in luggage"
+  - "what do i do if documents missing"
+  - "what do i do if suitcase has documents"
+  - "help i lost my bag at arrivals"
+  - "help i put passport in checked bag"
+  - "help i cannot find my luggage"
+  - "help i need my travel documents"
+  - "my passport is in lost luggage"
+  - "my visa is in missing bag"
+  - "my brp is in lost luggage"
+  - "no bag at baggage claim"
+  - "bag did not arrive"
+  - "passport missing after flight"
+  - "visa missing after arrival"
+  - "brp missing after arrival"
+  - "baggage tag missing"
+  - "no pir number"
+  - "lost bag or delayed bag"
+  - "missing luggage or stolen bag"
+  - "passport lost or delayed"
+  - "luggge missing after landing"
+  - "passprt in lost bag"
+  - "after arriving in uk"
+  - "airport arrivals baggage claim"
+last_reviewed: "2026-05-22"
+date_created: "2026-05-22"
 ---
 
 # What to do if… your bag containing your travel documents is delayed or missing after arrival (UK)
 
 ## Short answer
-Before you leave the airport, report the missing/delayed bag to the airline’s baggage desk and get a reference number (often a PIR). Then immediately start securing your identity documents (cancel/replace as needed) based on what’s missing.
+Before you leave the airport, report the missing or delayed bag to the airline or handling agent and get the reference number in writing, often called a PIR. Then use the official route for the exact document that is missing: passport, BRP, residence card, visa, or other identity document.
 
 ## Do not do these things
-- Do not leave the airport without making a formal baggage report and getting the reference number in writing.
-- Do not “wait and see” if your passport or immigration documents were in the bag—start the cancellation/replacement steps promptly.
-- Do not post photos of your documents, boarding pass, or bag tags online (they can be used for fraud).
-- Do not pay for “passport/visa help” from copycat websites or unofficial agents—use official channels.
+- Try not to leave the airport without making a baggage report and getting the reference number in writing, unless you need to leave for safety, health, or because the desk is unavailable.
+- Do not wait several days to act if a passport, BRP, residence card, visa, or other identity document was in the bag.
+- Do not post photos of your passport, visa, BRP, residence card, boarding pass, or bag tag online.
+- Do not pay for passport, visa, or immigration help from copycat websites or unofficial agents.
+- Do not throw away baggage tags, boarding passes, receipts, emails, or screenshots connected to the flight or bag.
 
 ## What to do now
-1. **Go straight to the airline/handling agent baggage desk in arrivals (before exiting).**  
-   File a missing/delayed baggage report and get the **Property Irregularity Report (PIR) / file reference**. Confirm:
-   - your **UK delivery address** (hotel/friend/home)
-   - a **phone/email contact** they will use
-   - a clear description of the bag and that **identity documents are inside**
-2. **Secure your proof and tracking details.**  
-   Keep: flight number/date, baggage tag number(s), PIR/reference, and the airline baggage contact details. Save a backup copy (e.g., email it to yourself).
-3. **If your UK passport is missing, cancel it as soon as you can.**  
-   Cancelling reduces the risk of identity misuse. If you later need to travel, you’ll apply for a replacement passport through the official route.
-4. **If you’re not a UK citizen and your passport is missing, contact your embassy/consulate in the UK.**  
-   Ask what they need for an emergency/replacement travel document and what they recommend if the passport might still be in airline possession.
-5. **If you have (or had) a BRP and it’s missing, report it even if it has expired.**  
-   Use the official Home Office reporting service. Keep the airline reference, and any police reference if theft is suspected.
-6. **If you have a UK residence card and it’s missing, report it using the Home Office instructions.**  
-   Do this promptly, and keep a record of what you sent (date/time and a copy of the email content).
-7. **Handle essentials and claims without overbuying.**  
-   If essentials are in the bag, buy only what you need for the next day or two and **keep receipts**. Ask the airline how to submit a **written claim** and what time limits and evidence they require (PIR/reference, receipts, list of essentials).
+1. **Go to the airline or handling agent baggage desk in arrivals before exiting, if you can.**  
+   File a missing or delayed baggage report and ask for the **Property Irregularity Report (PIR), file reference, or written confirmation**. Tell them clearly that **travel or identity documents are inside the bag**. Check they have:
+   - the safest delivery address you can give now, such as a hotel, friend’s address, or home address
+   - a phone number and email you can access today
+   - the bag tag number, if you have it
+   - a clear description of the bag and any urgent document issue
+
+2. **If you already left the airport, report it to the airline now.**  
+   Use the airline’s baggage website, app, phone line, or email. Ask for written confirmation of the report and save the reference number.
+
+3. **Put the key proof in one safe place.**  
+   Save the flight number and date, boarding pass if you have it, baggage tag number, PIR or airline reference, airline baggage contact details, delivery address given, and any receipts for essentials. Email screenshots to yourself or store them somewhere you can access from another device.
+
+4. **If your UK passport is missing, cancel it using GOV.UK as soon as possible.**  
+   Cancelling a lost or stolen UK passport reduces the risk of someone else using it. If you later need a replacement passport, use the official replacement route after cancellation.
+
+5. **If you are not a UK citizen and your passport is missing, contact your own embassy, high commission, or consulate in the UK.**  
+   Ask what they need for an emergency or replacement travel document, and tell them the passport may be inside airline-delayed baggage. Use official embassy or consulate contact details only.
+
+6. **If you had a BRP in the bag, report it using the official Home Office route.**  
+   BRPs have now expired, but GOV.UK still says a lost or stolen BRP must be reported. If you still have permission to stay in the UK, also check that you can access your eVisa or UKVI account.
+
+7. **If you have a UK residence card and it is missing, report it using the Home Office instructions.**  
+   Keep a copy of what you send and when you sent it. If theft is suspected and you make a police report, keep that reference too.
+
+8. **Buy only essentials for the next day or two and keep receipts.**  
+   Ask the airline how to claim for delayed baggage essentials and what evidence they want. Keep the PIR or written confirmation, receipts, and a short list of what you had to buy because the bag was delayed.
 
 ## What can wait
-- You do not need to decide today whether the bag is “lost forever.” Start the report and tracking first.
-- You do not need a perfect inventory immediately—do it once you’re somewhere calm, using photos/receipts/bank transactions.
-- You do not need to fight about compensation at the airport; secure the reference number and submit claims when you have the paperwork.
+- You do not need to decide today whether the bag is permanently lost.
+- You do not need a perfect list of everything in the bag before you have reported it.
+- You do not need to argue about compensation at the airport; the immediate job is to get the baggage reference and protect the missing documents.
+- You do not need to replace every item at once; start with documents, contact details, medication if relevant, toiletries, and essential clothing.
 
 ## Important reassurance
-It’s normal to feel panicky when documents are involved. Getting the airline reference number and starting cancellation/replacement quickly is enough to protect you while bag-tracing runs.
+A missing bag with documents inside is stressful, but the first protective steps are clear: get the airline reference, save proof, and use the official route for any missing document. You can deal with claims and longer replacement steps after the immediate reporting is done.
 
 ## Scope note
-These are first steps to reduce risk and keep you functioning today. Later steps (formal claims, complaints, longer replacement processes) can wait until you’re stable and have your reference numbers.
+These are first steps only, to reduce risk and keep you functioning today. Later decisions about insurance, airline claims, complaints, replacement documents, immigration status, or onward travel may need specialist help.
 
 ## Important note
-This is general information for immediate first actions, not legal advice. Processes vary by airline, airport, nationality, and immigration status. If you’re unsure which document route applies, prioritize the airline report plus official passport/immigration reporting channels and avoid unofficial “helpers.”
+This is general information for immediate first actions, not legal, immigration, financial, medical, therapeutic, or professional advice. Processes vary by airline, airport, nationality, document type, and immigration status; use official channels and avoid unofficial helpers.
 
 ## Additional Resources
 - https://www.caa.co.uk/passengers-and-public/passenger-guidance/baggage/lost-delayed-or-damaged-baggage/
 - https://www.gov.uk/report-a-lost-or-stolen-passport
 - https://www.gov.uk/renew-adult-passport/replace
 - https://www.gov.uk/biometric-residence-permits
-- https://www.biometric-residence-permit.service.gov.uk/lost-stolen/where
 - https://www.gov.uk/uk-residence-card/report-a-lost-or-stolen-card
+- https://www.gov.uk/government/publications/foreign-embassies-in-the-uk
 - https://www.citizensadvice.org.uk/consumer/holiday-cancellations-and-compensation/get-airline-compensation-for-lost-or-delayed-luggage/

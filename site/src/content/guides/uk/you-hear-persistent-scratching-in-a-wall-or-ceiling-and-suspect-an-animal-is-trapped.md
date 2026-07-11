@@ -1,81 +1,95 @@
-﻿---
+---
 title: "What to do if… you hear persistent scratching in a wall or ceiling and suspect an animal is trapped"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
-  - scratching in the wall
-  - scratching in the ceiling
-  - animal trapped in wall
-  - animal trapped in ceiling
-  - something stuck in the wall
-  - noises in loft at night
-  - noises in ceiling at night
-  - wildlife in the house
-  - trapped bird in chimney
-  - animal in chimney noises
-  - bat noises in loft
-  - suspected bats in roof
-  - squirrel in wall noise
-  - rat in ceiling scratching
-  - mouse in wall scratching
-  - unknown animal in cavity wall
-  - odd scraping behind plaster
-  - thumping and scratching sounds
-  - something living in the walls
-last_reviewed: "2026-03-04"
+  - "scratching in the wall"
+  - "scratching in the ceiling"
+  - "animal trapped in wall"
+  - "animal trapped in ceiling"
+  - "something stuck in wall"
+  - "scratching behind plaster"
+  - "noise inside wall"
+  - "noise inside ceiling"
+  - "animal in cavity wall"
+  - "creature trapped in wall"
+  - "what do i do if scratching in wall"
+  - "what do i do if scratching in ceiling"
+  - "what do i do if animal in wall"
+  - "what do i do if bird in chimney"
+  - "help i hear scratching"
+  - "help i think animal trapped"
+  - "my wall is scratching"
+  - "my ceiling is scratching"
+  - "my loft is making noises"
+  - "my chimney has noises"
+  - "scratching at night"
+  - "cheeping in loft"
+  - "gnawing in ceiling"
+  - "thumping behind wall"
+  - "flapping in chimney"
+  - "strong smell from wall"
+  - "not sure if rats"
+  - "not sure if bats"
+  - "not sure if birds"
+  - "could be squirrell"
+  - "scracthing behind wall"
+  - "rented home scratching"
+  - "loft scratching at night"
+  - "chimney animal noise"
+last_reviewed: "2026-05-13"
+date_created: "2026-05-13"
 ---
 
 # What to do if… you hear persistent scratching in a wall or ceiling and suspect an animal is trapped (UK)
 
 ## Short answer
-Don’t block holes or start drilling/cutting to “get it out”. Keep people and pets away from the area, and contact the right help (pest control or wildlife rescue advice — and get bat-specific advice first if it could be a bat).
+Do not block holes, light a fire, or start cutting into the wall or ceiling. Keep people and pets away from the area, then contact the right help: bat advice if bats are possible, wildlife rescue advice for birds or injured wildlife, or your council pest service or a reputable pest controller for likely rodents or squirrels.
 
 ## Do not do these things
-- Don’t seal vents, gaps, soffit holes, air bricks, or chimney openings “to stop the noise” — you can trap the animal inside and make things worse.
-- Don’t put poison/bait, smoke, fumes, or “repellents” into gaps or voids (you may create a dead animal in an inaccessible space and risk pets/people).
-- Don’t start smashing plasterboard, lifting boards, or cutting holes unless a professional has told you where to open and how to do it safely.
-- Don’t try to handle a bat or other wild animal with bare hands.
-- Don’t light a fire or use the fireplace if you suspect an animal is in the chimney.
+- Do not seal vents, gaps, soffit holes, air bricks, or chimney openings to stop the noise; you may trap the animal inside.
+- Do not put DIY poison, bait, smoke, fumes, or repellents into a wall, ceiling, loft void, or chimney.
+- Do not smash plasterboard, lift boards, or cut holes unless a suitable professional has advised where and how to open the space safely.
+- Do not try to handle a bat or other wild animal with bare hands.
+- Do not light a fire or use the fireplace if you suspect an animal is in the chimney.
+- Do not disconnect or move a gas fire yourself to reach an animal.
 
 ## What to do now
-1. **Create a calm, safe pause.** Keep children and pets out of the room/loft area and close the door. If the noise is in the loft, don’t go up there if you’re anxious about close contact.
-2. **Work out what kind of problem it most likely is (without opening anything).**
-   - **Bird in chimney** is more likely if the noise is coming from the fireplace/chimney breast, especially in daytime.
-   - **Bats** are more likely if you hear light scratching/cheeping in a loft at dusk/night, or you’ve seen bats outside at dusk near the roofline.
-   - **Rodents/squirrels** are more likely if the scratching is mainly at night, with heavier scurrying or gnawing sounds.
-3. **If it could be a bat: stop and get bat-specific advice before doing anything else.**
-   - Don’t block entry/exit points or attempt removal yourself.
-   - Contact the **Bat Conservation Trust National Bat Helpline** for next steps and to avoid accidentally breaking wildlife law (especially before any building work or sealing gaps).
-4. **If it could be a bird in a chimney (or you can hear it calling):**
-   - Keep the fireplace closed/covered if safe to do so (so the bird doesn’t drop into the room), and **do not** use the fireplace.
-   - Get wildlife-rescue guidance:
-     - **England & Wales:** contact the **RSPCA** for advice on a trapped bird.
-     - **Scotland:** contact the **Scottish SPCA** for advice.
-     - **Northern Ireland:** contact the **USPCA** (or a local wildlife rescue) for advice.
-5. **If it’s likely rodents/squirrels (or you’re unsure): contact “property” help rather than trying to force an exit.**
-   - **England & Wales:** check your **local council** “report a pest problem” service (some councils charge / have limited coverage) or hire a reputable pest controller.
-   - **Scotland / Northern Ireland:** contact your **local authority/environmental health** if they offer pest services, or hire a reputable pest controller.
-   - Tell them: where you hear it, how long it’s been going on, and whether it sounds active right now.
-6. **If you rent (anywhere in the UK):** tell your landlord/letting agent immediately in writing. Ask them to arrange professional help and confirm what work is planned before anyone blocks holes or opens walls.
-7. **Reduce harm while you wait.**
-   - Keep the area quiet and dark.
-   - If there’s an obvious open route to the outside you were about to seal (e.g., a vent cover missing), leave it as-is until you’ve had advice — blocking it is a common way animals end up trapped.
-8. **If you suspect the animal is already dead (strong odour, flies, no sound for a day or more):**
-   - Don’t start opening cavities yourself; contact pest control. They can advise on safe access, disposal, and odour control.
+1. **Create a calm, safe pause.** Keep children and pets out of the room or loft area and close the door. If the noise is in the loft, do not go up there if close contact would make you unsafe or likely to panic.
+
+2. **Place the sound without opening anything.** Note the room, wall, ceiling, chimney breast, loft hatch, or fireplace area where the sound is strongest. Write down when it happens and whether it is scratching, flapping, cheeping, gnawing, or thumping.
+
+3. **Treat bats as a special case if they are possible.** This may fit if you hear light scratching or cheeping in a loft at dusk or night, or you have seen bats near the roofline. Do not block entry or exit points, disturb a possible roost, or attempt removal yourself. Contact the Bat Conservation Trust National Bat Helpline for bat-specific advice before any building work, sealing, or pest-control action.
+
+4. **If the sound may be a bird in a chimney or fireplace, keep the fireplace unused.** Keep the room quiet. If the bird has come into the room, give it one clear exit to outside, darken other windows where safe, leave the room empty, and monitor quietly. If the bird is still trapped in the chimney, behind a fireplace, in a cavity wall, or near a gas fire, get advice from an appropriate wildlife rescue route or a suitable professional; use a Gas Safe registered engineer for any gas fire disconnection.
+
+5. **Use the correct wildlife advice route for your part of the UK.**
+   - In England and Wales, use RSPCA wildlife advice or report a concern if an animal appears injured, trapped, or in distress.
+   - In Scotland, use the Scottish SPCA for wildlife advice.
+   - In Northern Ireland, use the USPCA or a local wildlife rescue for advice.
+
+6. **If it seems more like rodents or squirrels, or you are unsure, contact property help rather than forcing an exit.** In England and Wales, check your local council pest service, as some councils charge or have limited coverage. Anywhere in the UK, you can also contact a reputable pest controller, such as one listed through the British Pest Control Association. Tell them exactly where the sound is, when it started, whether it is active right now, and whether bats, birds, or a chimney could be involved.
+
+7. **If you rent, tell your landlord or letting agent in writing now.** Ask them to arrange suitable professional help and to confirm that nobody will block holes, seal entry points, or open walls until the animal issue has been checked.
+
+8. **Reduce harm while you wait.** Keep the area quiet and dark. Leave any obvious outside route as it is until you have advice; blocking a gap, missing vent cover, or chimney opening can trap an animal that might otherwise leave.
+
+9. **If the sound has stopped but there is a strong odour, flies, staining, or fluid marks, do not open the cavity yourself.** Contact a pest controller or suitable contractor and explain that there may be a dead animal in a wall, ceiling, loft void, or chimney.
 
 ## What can wait
-- You don’t need to identify the exact species right now.
-- You don’t need to decide today whether to do permanent proofing/repairs — first focus on not trapping the animal and getting the right help.
-- You don’t need to open walls/ceilings “to check” unless a professional has located the best access point.
+- You do not need to identify the exact species right now.
+- You do not need to decide today about permanent proofing, repairs, new vent covers, or chimney cowls.
+- You do not need to open walls or ceilings to check unless a suitable professional has located a safe access point.
+- You do not need to argue about long-term responsibility before the immediate trapped-animal risk is handled.
 
 ## Important reassurance
-It’s very common to hear scratching and feel pressured to act fast. Most harm comes from panic actions like sealing gaps or ripping into a wall in the wrong place. A short pause and the right call-out usually prevents bigger damage and suffering.
+Scratching in a wall or ceiling is unsettling, but a short pause usually helps. The biggest avoidable problems often come from sealing gaps, using smoke or poison, or cutting into the wrong place before anyone has checked what is inside.
 
 ## Scope note
-These are first steps to stabilise the situation and avoid making it worse. After the immediate issue is handled, you may need follow-up proofing/repairs and (for bats) specialist advice before any work is done.
+These are first steps only, to reduce harm and avoid making the situation worse. Later decisions about pest control, repairs, proofing, protected species, tenancy responsibility, or building work may need specialist help.
 
 ## Important note
-This is general information, not professional pest-control, veterinary, or legal advice. If you feel unsafe, leave the area and get help. If you think the animal might be a bat, treat that as a special case and get bat-specific advice before blocking entrances or starting building work.
+This is general information, not professional pest-control, veterinary, legal, building, gas-safety, or tenancy advice. If you feel unsafe, leave the area and get help. If bats may be involved, get bat-specific advice before blocking entrances, disturbing the area, or starting work.
 
 ## Additional Resources
 - https://www.gov.uk/report-pest-problem
@@ -85,4 +99,4 @@ This is general information, not professional pest-control, veterinary, or legal
 - https://www.rspca.org.uk/reportaconcern
 - https://www.scottishspca.org/advice/bird/
 - https://uspca.co.uk/services/wildlife-rescue/out-of-hours-advice
-- https://www.pdsa.org.uk/pet-help-and-advice/looking-after-your-pet/birds-fish-and-other-pets/what-to-do-if-you-find-sick-or-injured-wildlife
+- https://bpca.org.uk/find

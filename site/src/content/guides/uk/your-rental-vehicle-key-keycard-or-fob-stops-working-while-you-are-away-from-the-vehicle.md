@@ -1,73 +1,97 @@
-﻿---
+---
 title: "What to do if… your rental vehicle key, keycard, or fob stops working while you are away from the vehicle"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
-  - rental car key not working
-  - hire car key fob stopped working
-  - rental keycard not working
-  - keyless entry not unlocking
-  - car won’t unlock with fob
-  - remote key stopped working
-  - key fob battery died away
-  - rental car lockout outside
-  - stranded away from vehicle
-  - can’t get into hire car
-  - rental car key signal blocked
-  - keyless entry interference
-  - forgot spare key rental
-  - rental car digital key not working
-  - car sharing keycard failed
-  - rental car access problem
-  - vehicle won’t lock or unlock
-  - key fob stopped responding
-last_reviewed: "2026-03-11"
+  - "rental vehicle key not working"
+  - "rental vehicle keycard failed"
+  - "rental vehicle fob stopped working"
+  - "hire car key not working"
+  - "hire car fob stopped responding"
+  - "rental car keycard not working"
+  - "rental car key fob dead"
+  - "keyless rental car not unlocking"
+  - "keyless hire car locked out"
+  - "rental app digital key failed"
+  - "what do i do if keycard fails"
+  - "what do i do if fob dies"
+  - "what do i do if car stays locked"
+  - "what do i do if app key fails"
+  - "help i cannot unlock rental car"
+  - "help i am locked out of hire car"
+  - "help i lost key signal"
+  - "help i have a dead key fob"
+  - "my rental car will not unlock"
+  - "my hire car keycard failed"
+  - "no lights from key fob"
+  - "keycard not recognised by car"
+  - "app says digital key unavailable"
+  - "car lights flash but locked"
+  - "boot opens but doors locked"
+  - "possible key fob battery problem"
+  - "possible signal interference rental car"
+  - "car keycard demagnetised"
+  - "immobiliser not recognising key"
+  - "rental car access problem"
+  - "hire car lockout problem"
+  - "outside car park stranded"
+  - "away from parked vehicle"
+  - "late night rental lockout"
+  - "airport hire car key failed"
+  - "bussiness rental key problem"
+  - "rentel car key problem"
+last_reviewed: "2026-05-27"
+date_created: "2026-05-27"
 ---
 
 # What to do if… your rental vehicle key, keycard, or fob stops working while you are away from the vehicle (UK)
 
 ## Short answer
-Get to a safe, well-lit place, then contact the rental company using the 24/7 roadside/assistance number in your rental paperwork or app. Avoid paying a locksmith or forcing entry until the rental company tells you what to do.
+Move to a safer, well-lit place first, then contact the rental company through the roadside assistance, help, or emergency route in your booking, rental agreement, key sleeve, or app. Do not force the vehicle open or pay for a locksmith unless the rental company tells you to.
 
 ## Do not do these things
-- Don’t keep walking farther from the vehicle “to see if it works again” — you can lose track of where it’s parked or leave it unattended longer than necessary.
-- Don’t force a door, wedge a window, or try “DIY” entry tools — damage is easy and can become your liability.
-- Don’t pay a locksmith or tow yourself without checking the rental company’s instructions first (it can complicate costs and authorisation).
-- Don’t repeatedly press the fob while standing near other people who seem to be watching — if you suspect interference or tampering, step away and reassess.
-- Don’t assume the car is unlocked/locked just because the lights flash — always physically check when you’re back at the vehicle.
+- Don’t force a door, wedge a window, use entry tools, or try to bypass the lock.
+- Don’t pay a locksmith, arrange recovery, or replace the key battery unless the rental company authorises it.
+- Don’t keep pressing the fob repeatedly in a place where you feel watched or unsafe.
+- Don’t leave the vehicle unsecured if you find it open.
+- Don’t assume the car is locked or unlocked just because the lights flash.
+- Don’t confront anyone if you suspect interference, tampering, or theft.
 
 ## What to do now
-1. **Pause and make the situation safer first.** Step into a well-lit, staffed area (shop, petrol station, hotel lobby) or near CCTV. If you feel threatened, call **999**.
-2. **Open your booking details and find the correct contact route.** Use the number printed on your rental agreement, key sleeve/tag, or in the rental app (“Roadside assistance” / “Help” / “Emergency”). Call that first rather than guessing.
-3. **Write down exactly what’s happening (for the agent).** Your booking/reference number, vehicle registration, location (car park level/bay if you know it), and what stopped working (unlock, lock, start, keycard).
-4. **Try the quickest “no-risk” checks before you walk back (or while you’re on the phone).**
-   - If it’s a **fob**: check it hasn’t been damaged or wet; make sure no button is stuck from being in a pocket/bag.
-   - If it’s a **keycard**: wipe it dry, keep it away from magnets/electronics, and try again once.
-   - If you have the rental **app/digital key**, make sure you have signal/Wi-Fi and you’re signed in.
-5. **Go back to the vehicle only when you’re ready to check access properly.** If the area feels unsafe, ask a staff member/security to accompany you, or wait where it’s safe while you stay on the line.
-6. **At the vehicle: confirm what’s true.** Check all doors and the boot. If it’s open, secure belongings and tell the rental company immediately.
-7. **Ask the rental company what they want next and follow that plan.** Typical options are: remote unlock (if supported), dispatching roadside assistance, directing you to the nearest open branch/desk for a replacement key, or arranging recovery if the vehicle can’t be secured.
-8. **If you suspect interference or tampering:** don’t confront anyone. Move back to a safe place and call the rental assistance line. If you feel at risk or witness suspicious behaviour, call **999**; for non-urgent reporting use **101** once you’re safe.
-9. **Document the situation briefly.** Note the time, take a photo of the vehicle where it’s parked, and keep screenshots of any app errors.
+1. **Make the immediate area safer.** Go to a staffed, well-lit place such as a shop, petrol station, hotel lobby, transport desk, or car park office. If you or someone else is in immediate danger, or a crime is in progress, call **999**.
+2. **Find the rental company’s correct help route.** Use the number or help button in your rental agreement, booking email, key tag, key sleeve, rental app, or roadside assistance paperwork. Use that route before searching for a locksmith.
+3. **Tell the rental company the useful facts.** Give your booking reference, vehicle registration if you have it, your exact location, where the vehicle is parked, and whether the problem is with a key, fob, keycard, app, lock, unlock, or start function.
+4. **Ask what they authorise before spending money.** Ask whether they want you to wait, try a specific access method, go to a branch or desk, accept roadside assistance, or arrange recovery through them.
+5. **Only return to the vehicle if it feels safe.** If the area feels unsafe, stay where there are staff or CCTV and ask the rental company, site security, or car park staff what to do next.
+6. **Do one calm access check when you are safely at the vehicle.** Try the normal unlock method once. Check whether any door or the boot is already open. If anything is open, damaged, or missing, step back, secure yourself, and tell the rental company immediately.
+7. **Try only low-risk checks the rental company agrees with.**
+   - For a **fob**: check it is dry, not cracked, and that no button is stuck in a pocket or bag.
+   - For a **keycard**: wipe it dry and keep it away from phones, magnets, payment cards, and other electronics before trying once more.
+   - For an **app or digital key**: check you are signed in, have mobile data or Wi-Fi, Bluetooth if required by the app, and enough phone battery.
+8. **If the vehicle becomes accessible, secure it first.** Remove visible valuables, close doors and windows, and check the lock with one physical handle check. Tell the rental company what happened before using the vehicle again, especially if the fault continues.
+9. **If you suspect interference, tampering, or theft, move away rather than investigating.** Call the rental company from a safer place. Use **999** for immediate danger or a crime in progress; use **101** for non-emergency police contact once you are safe.
+10. **Keep a short record.** Note the time, location, person you spoke to, instructions given, and any reference number. Take a photo of where the vehicle is parked and screenshots of app or key errors if it is safe to do so.
 
 ## What can wait
-- You don’t need to decide right now who will “pay” for it — just follow the rental company’s authorised process and keep receipts if you are told to pay anything.
-- You don’t need to troubleshoot the fob (battery replacement, re-pairing, etc.) on your own today unless the rental company specifically asks.
-- You don’t need to argue about responsibility at the roadside — focus on getting safe access and a clear instruction trail.
+- You do not need to decide who is responsible for the cost right now.
+- You do not need to repair, re-pair, or dismantle the fob yourself.
+- You do not need to argue about liability at the roadside.
+- You do not need to continue troubleshooting if the place feels unsafe.
+- You can deal with receipts, complaints, insurance questions, or contract disputes after the vehicle is secure and the rental company has given instructions.
 
 ## Important reassurance
-This is a common rental problem (fobs, keycards, apps and immobilisers can fail unexpectedly). The fastest way out is usually the rental company’s own assistance route, because they can authorise access, replacement keys, or recovery without you taking on avoidable liability.
+Key fobs, keycards, apps, locks, and immobilisers can fail or behave unpredictably. The safest route is usually to get the rental company involved early, because they can authorise access, replacement keys, assistance, or recovery without you creating avoidable damage or cost.
 
 ## Scope note
-These are first steps to stabilise the situation and prevent expensive mistakes. Once you’re safe and the rental company is engaged, they can tell you the correct next step for that vehicle and contract.
+These are first steps only, to help you stay safe, avoid damage, and get an authorised plan. Later decisions about charges, complaints, insurance, or contract responsibility may need help from the rental company, your insurer, a card provider, or another appropriate specialist.
 
 ## Important note
-This is general information, not legal advice or a substitute for the rental company’s instructions. If you’re in immediate danger, call 999.
+This is general information, not legal, financial, insurance, mechanical, or professional advice. Follow emergency services instructions, site security instructions, and the rental company’s authorised process.
 
 ## Additional Resources
 - https://www.enterprise.co.uk/en/help/roadside-assistance.html
-- https://www.enterprise.co.uk/en/help/contact.html
 - https://www.enterprisecarclub.co.uk/gb/en/help-centre.html
-- https://www.avis.co.uk/drive-avis/car-hire-services/breakdown-help
 - https://www.rac.co.uk/drive/advice/know-how/key-fob-not-working-heres-what-to-do/
+- https://www.gov.uk/contact-police
+- https://www.gov.uk/report-crime
 - https://www.police.uk/cp/crime-prevention/keeping-vehicles-safe/preventing-car-vehicle-theft/

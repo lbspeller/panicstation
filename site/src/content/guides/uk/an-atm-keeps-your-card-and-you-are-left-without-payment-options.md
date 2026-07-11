@@ -1,76 +1,100 @@
-﻿---
+---
 title: "What to do if… an ATM keeps your card and you are left without payment options"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
-  - cash machine kept my card
-  - cashpoint swallowed my card
-  - atm ate my card
-  - card retained by atm
-  - card captured by cash machine
-  - bank card stuck in atm
-  - debit card not returned
-  - card retained security reasons
-  - card jammed in cash machine
-  - atm kept my bank card
-  - no payment methods now
-  - stranded without money
-  - can’t pay for transport
-  - can’t pay for hotel
-  - card stuck after pin entry
-  - atm looked tampered with
-  - someone saw my pin at atm
-  - worried about card fraud
-last_reviewed: "2026-01-08"
+  - "cash machine kept my card"
+  - "cashpoint swallowed my card"
+  - "atm ate my card"
+  - "atm kept my bank card"
+  - "card retained by atm"
+  - "card trapped in atm"
+  - "card stuck in cash machine"
+  - "debit card not returned"
+  - "bank card stuck in atm"
+  - "cash machine swallowed card"
+  - "what do i do if atm keeps card"
+  - "what do i do if cashpoint swallows card"
+  - "what do i do if card stuck in atm"
+  - "what do i do if bank card gone"
+  - "help i lost my card at atm"
+  - "help i cannot pay now"
+  - "help i am stranded without money"
+  - "help i need cash today"
+  - "my card is stuck in atm"
+  - "my bank card was swallowed"
+  - "atm kept card after pin"
+  - "atm looked tampered with"
+  - "someone saw my pin"
+  - "stranger offered help at atm"
+  - "atm did not return card"
+  - "worried about card fraud"
+  - "cash machine looked loose"
+  - "card retained security reasons"
+  - "card captured by cash machine"
+  - "atm card jammed"
+  - "cashpoint ate card"
+  - "cant pay for transport"
+  - "cant pay for hotel"
+  - "without cash away from home"
+last_reviewed: "2026-04-29"
+date_created: "2026-04-29"
 ---
 
 # What to do if… an ATM keeps your card and you are left without payment options (UK)
 
 ## Short answer
-Freeze/lock the card immediately (in your banking app if possible) and contact your bank/card issuer straight away. Then secure a way to pay for the next 24 hours (in-app cardless cash if available, branch help, bank transfer, or a trusted person).
+Move away from the ATM if you feel pressured, then freeze or lock the card in your banking app and contact your bank or card issuer through a trusted route. Ask them how you can access money today.
 
 ## Do not do these things
-- Don’t accept “help” from a stranger hovering near the ATM or offering to “get your card back”.
-- Don’t share your PIN, passcodes, or one-time codes with anyone (even if they claim to be from your bank or the police).
-- Don’t keep trying your PIN or re-inserting your card if the ATM looks damaged, loose, or suspicious.
-- Don’t try to force the machine or retrieve the card yourself.
-- Don’t call a phone number someone gives you on the spot. If you do use a number shown on the ATM, cross-check it against the bank/operator’s official website first.
+- Don’t accept help from a stranger hovering near the ATM or offering to get your card back.
+- Don’t share your PIN, banking passcodes, passwords, or one-time codes with anyone.
+- Don’t keep trying your PIN or re-inserting another card if the ATM looks damaged, loose, or suspicious.
+- Don’t try to force the machine open or retrieve the card yourself.
+- Don’t call a phone number handed to you by someone nearby.
+- Don’t rely on the card being returned before you leave; focus on blocking risk and getting another way to pay.
 
 ## What to do now
-1. **Step to a safer spot and pause.** Move a few metres away or inside a nearby shop/branch if you can. If anyone is pressuring you, end the interaction and prioritise a well-lit, public place.
-2. **Freeze/lock your card immediately.**  
-   - Use your banking app to freeze/lock the card (or report it lost/stolen if that’s the option you have).  
-   - If you can’t, call your bank/card issuer using a trusted route (in-app calling, official website, or a number you already trust).  
-   If anyone calls you “from the bank” while you’re dealing with this, **hang up** and call back via your app/official number. If you’re unsure, you can **dial 159** to be routed safely to many UK banks.
-3. **Ask your bank to do three things on the call/chat:** (a) **stop/freeze** the card, (b) **check for recent activity** and note anything you don’t recognise, (c) **order a replacement** and tell you the quickest way to access money today.
-4. **Write down (or photograph) key ATM details.** Note the bank/brand, exact location, ATM ID/terminal number (often on a sticker), date/time, and any on-screen message/receipt. This helps your bank trace the incident.
-5. **If it’s your bank’s ATM and the branch is open, go inside with ID.** Staff may be able to help you regain access to funds today (even if the physical card cannot be returned).
-6. **Check your account activity and turn on alerts.** In your app (or with the bank on the phone), look for withdrawals, balance changes, or new pending transactions, and enable instant notifications if available.
-7. **Get a payment method for the next 24 hours. Pick the fastest option you can use now:**
-   - **In-app cardless cash (if your bank offers it):** Look for options like “Get Cash”, “Cardless cash”, or “Withdraw cash” in your banking app.
-   - **Mobile wallet:** If you already had the card in Apple Pay/Google Pay, you may be able to pay contactlessly *but it depends on your bank and may stop once the card is frozen*. Ask your bank if they can provide a **replacement digital/virtual card** quickly.
-   - **Bank transfer workaround:** If you urgently need to pay a person (taxi/hotel/friend), use a Faster Payment/bank transfer from your app, or ask a trusted person to pay and transfer them the money.
-8. **If you suspect tampering or that your PIN was seen, say so clearly to your bank.** Ask what extra protection they recommend (for example, changing your PIN, extra monitoring, or replacing card details).
+1. **Move to a safer pause.** Step away from the ATM, go into a nearby branch or shop if you can, and end any conversation with anyone pressuring you.
+
+2. **Freeze or lock the card immediately.** Use your banking app if you have it. If the app only gives you “lost or stolen” reporting, use that option.
+
+3. **Contact your bank or card issuer through a trusted route.** Use in-app support, the official website, the number already saved in your phone, or the number on another card or bank statement. If you get an unexpected call or message about this, hang up and contact the bank yourself. If your bank participates and you are unsure what number to use, you can dial 159 from the UK to reach many banks safely.
+
+4. **Ask the bank to do the urgent checks while you are on the call or chat.** Ask them to:
+   - confirm the card is frozen, blocked, or replaced;
+   - check recent and pending transactions;
+   - tell you what to do if any transaction is not yours;
+   - explain the quickest way to access money today.
+
+5. **Record the ATM details.** Write down or photograph the bank or operator name, exact location, ATM ID or terminal number if visible, time, date, and any on-screen message or receipt. Do this from a safe distance if the machine or nearby people feel suspicious.
+
+6. **If it is your own bank’s ATM and the branch is open, go inside with ID.** Ask whether staff can help you access cash, make an urgent payment, recover the card if their process allows it, or order a replacement.
+
+7. **Choose one immediate payment backup for the next 24 hours.** Depending on what your bank offers, this may be cardless cash in the app, an emergency cash option, a temporary digital card, a bank transfer to the person or business you need to pay, or a trusted person paying while you transfer money to them.
+
+8. **If the ATM looked tampered with or someone may have seen your PIN, say this clearly to the bank.** Ask whether you should change your PIN, keep the card blocked, add alerts, or take any extra fraud-protection steps.
+
+9. **Check your account activity again later today.** Turn on app notifications if available and report anything you do not recognise straight away.
 
 ## What can wait
-- Waiting around for the ATM to “give the card back” or chasing the ATM operator. For security reasons, retrieving a retained card is often not possible, so focus on replacement and access.
-- Replacing saved card details for subscriptions and online shops.
-- Making a formal complaint if you’re unhappy with how it was handled.
-- Reviewing longer-term backup options (spare card, emergency cash, etc.) — focus on getting through today first.
+- You do not need to solve every subscription, saved card, or online payment now.
+- You do not need to decide today whether to make a formal complaint.
+- You do not need to wait beside the ATM for the card to come back.
+- You do not need to plan long-term backup banking today; focus on blocking the card and getting through the next payment need.
 
 ## Important reassurance
-This happens to people for ordinary reasons (machine fault, delayed removal, security retention, or a damaged card). Freezing the card and contacting your bank quickly is the right move and usually prevents anything getting worse.
+A retained card can happen because of a machine fault, a damaged card, a blocked card, or a security setting. Acting quickly to freeze the card and contact the bank is the right first move.
 
 ## Scope note
-These are first steps to stabilise the situation, reduce fraud risk, and get you able to pay again. Any disputes, complaints, or longer-term banking changes can come later.
+These are first steps to reduce fraud risk, stabilise the situation, and get you able to pay again. Later disputes, complaints, replacement-card delays, or suspected fraud may need specialist help from your bank or a relevant support service.
 
 ## Important note
-This is general information, not financial or legal advice. Your bank/card issuer’s process is the one that matters for freezing, replacement, and access to funds. If you feel unsafe at the ATM location, prioritise leaving and getting to a safer place before making calls.
+This is general information, not financial, legal, or professional advice. Your bank or card issuer’s process is the one that matters for freezing, replacing, and accessing funds.
 
 ## Additional Resources
-- https://www.link.co.uk/helping-you-access-cash/learn-more-about-accessing-cash/cardholder-security/
-- https://www.barclays.co.uk/help/cards/using-cards/card-captured/
+- https://www.link.co.uk/helping-you-access-cash/learn-more-about-accessing-cash/cardholder-security
 - https://www.nationwide.co.uk/help/payments/card-payments-and-cash-machines/cash-machine-swallowed-my-card
 - https://www.hsbc.co.uk/help/security-centre/card-security/
 - https://stopscamsuk.org.uk/our-work/159-phone-number/
-- https://www.nationwide.co.uk/help/fraud-and-security
+- https://www.takefive-stopfraud.org.uk/protect-yourself/cash-machine-fraud/

@@ -1,88 +1,115 @@
-﻿---
+---
 title: "What to do if… your contact list or calendar entries disappear or merge unexpectedly"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
-  - contacts disappeared
-  - calendar events missing
-  - contacts merged unexpectedly
-  - duplicate contacts suddenly
-  - calendar entries merged
-  - phone contacts wiped
-  - synced contacts missing
-  - icloud contacts missing
-  - google contacts missing
-  - outlook contacts missing
-  - calendar trash restore
-  - undo contact changes
-  - wrong account signed in
-  - multiple accounts mixing
-  - sync conflict
-  - data overwritten by sync
-  - contacts missing after update
-  - calendar missing after new phone
-  - account takeover warning
-  - suspicious account activity
-last_reviewed: "2026-03-08"
+  - "contacts disappeared suddenly"
+  - "calendar entries disappeared"
+  - "contacts merged unexpectedly"
+  - "calendar events merged"
+  - "phone contacts missing"
+  - "synced contacts missing"
+  - "icloud contacts missing"
+  - "google contacts missing"
+  - "outlook contacts missing"
+  - "duplicate contacts appeared"
+  - "what do i do if contacts disappeared"
+  - "what do i do if calendar disappeared"
+  - "what do i do if contacts merged"
+  - "what do i do if events vanished"
+  - "help i lost contacts"
+  - "help i lost calendar events"
+  - "help i merged contacts"
+  - "help i synced wrong contacts"
+  - "my contacts are gone"
+  - "my calendar is empty"
+  - "missing names and numbers"
+  - "events not showing"
+  - "same contact repeated"
+  - "wrong names on contacts"
+  - "old calendar entries gone"
+  - "contact list looks wrong"
+  - "contacts wiped by sync"
+  - "calendar wiped by sync"
+  - "contacts missing after update"
+  - "calendar missing after new phone"
+  - "wrong account signed in"
+  - "multiple accounts mixed"
+  - "contacs disappeared"
+  - "calender entries missing"
+last_reviewed: "2026-06-28"
+date_created: "2026-06-28"
 ---
 
 # What to do if… your contact list or calendar entries disappear or merge unexpectedly (USA)
 
 ## Short answer
-Freeze syncing, confirm what still exists in the web account, then use the provider’s restore/undo features before you make any manual edits.
+Pause syncing on the affected device, check the web account to see what still exists, then use the provider’s restore, undo, or trash tools before making manual edits.
 
 ## Do not do these things
-- Don’t do bulk deletes, mass merges, or “clean up duplicates” while you’re unsure what changed.
-- Don’t keep syncing multiple devices “until it fixes itself” (it can propagate the wrong version everywhere).
-- Don’t factory reset, uninstall/reinstall, or sign out everywhere as a first step.
-- Don’t trust anyone who contacts you asking for verification codes or remote access because of this issue.
-- Don’t rebuild your contacts/events from memory until you’ve checked restore options.
+- Don’t do bulk deletes, mass merges, or “clean up duplicates” while you are unsure what changed.
+- Don’t keep syncing several devices hoping it will fix itself; the wrong version can spread.
+- Don’t factory reset, uninstall and reinstall, or sign out everywhere as a first step.
+- Don’t give verification codes, passwords, screen-sharing access, or remote access to anyone who contacts you about this.
+- Don’t rebuild contacts or events from memory until you have checked restore and trash options.
 
 ## What to do now
-1. **Pause sync on the device showing the problem.**  
-   - Use Airplane Mode *or* turn off Contacts/Calendar sync for the account involved (Apple ID / Google / Microsoft). The goal is to prevent overwriting a good copy.
-2. **Make a quick record of what happened.**  
-   - Screenshot missing/merged items and any sync/account warnings.  
-   - Write down: when you noticed, which app, and what you did right before (new phone, OS update, added an account, imported contacts, accepted a merge prompt, etc.).
-3. **Check the web version of the account to find the “source of truth.”**  
-   - Log in via a browser: iCloud.com, contacts.google.com, outlook.com People/Contacts, calendar.google.com.  
-   - If the web view is correct but your phone is wrong, treat it as a **device sync/display issue** and keep sync paused until you fix it safely.
-4. **Use built-in recovery/rollback tools (do this before manual edits).**  
-   - **Apple iCloud Contacts/Calendars:** use iCloud’s **Data Recovery** (for example via iCloud.com recovery tools) to restore Contacts and/or Calendars to an earlier archived version.  
-   - **Google Contacts:** use **Undo changes** to roll back the entire contact list **within the past 30 days**.  
-   - **Google Calendar (web):** open **Trash** and restore deleted events (deleted events stay in Trash for **30 days**). If you deleted a recurring series using options like “this and following”, some items may not appear in Trash.  
-   - **Outlook / Microsoft 365:** in People/Contacts, look for a **Deleted** folder (or check mailbox **Deleted Items**), then use **Recover deleted** / **Recover deleted items** if it’s available.
-5. **If the issue is “accounts mixing” (a common cause of merges): isolate accounts before re-enabling sync.**  
-   - On the device, confirm which accounts are enabled for Contacts and Calendars.  
-   - Temporarily leave only the one account you intend to be the default (for example, only Google *or* only iCloud), then re-enable sync cautiously.
-6. **If you suspect account compromise, secure the account right away.**  
-   - Change the password, sign out of all devices/sessions, and enable two-factor authentication (2FA).  
-   - Use your provider’s account activity/security pages to review recent logins and connected apps.
-7. **If this is a work/school account, involve the admin early.**  
-   - Ask IT/admin to check whether they can restore from Microsoft 365/Google Workspace admin tools/backups, and to confirm whether any retention policies affect recovery.
-8. **If you lost money, were scammed, or believe this is connected to a cybercrime, report it.**  
-   - Follow the FTC’s steps for recovering hacked email/social accounts.  
-   - Consider filing a complaint with the FBI’s IC3 if you’re a victim of cyber-enabled crime.
+1. **Pause sync on the device showing the problem.**
+   - Turn on Airplane Mode, or turn off Contacts and Calendar sync for the affected account in device settings.
+   - Leave other devices alone until you know which copy is correct.
+
+2. **Write down what changed.**
+   - Screenshot missing, duplicated, or merged contacts and calendar entries.
+   - Note when you noticed it, which app or account is affected, and whether you recently got a new phone, updated the operating system, imported contacts, added an account, or accepted a merge prompt.
+
+3. **Check the web account before editing anything.**
+   - Check the affected account in a browser, such as iCloud.com, Google Contacts, Google Calendar, Outlook People, or Outlook Calendar.
+   - If the web version is correct but the phone is wrong, treat this as a device sync or display problem and keep sync paused on the affected device.
+   - If the web version is also wrong, use the provider’s recovery tools before changing individual contacts or events.
+
+4. **Use built-in recovery tools before manual fixes.**
+   - **iCloud Contacts or Calendars:** use iCloud Data Recovery to restore Contacts or Calendars from an earlier archived version. Read the restore date carefully; restoring replaces the current iCloud contacts or calendars across your devices, although iCloud saves the current version before the restore.
+   - **Google Contacts:** use Undo changes to roll back contacts within the past 30 days. This affects the contact list as a whole, so choose a time just before the problem began.
+   - **Google Calendar:** on a computer, open Calendar Trash for the affected calendar and restore deleted events. Deleted events usually stay in that calendar’s Trash for 30 days. Check each calendar’s Trash separately. If a recurring event was deleted using “This and following” or “All following,” those instances may not be recoverable from Trash.
+   - **Outlook or Microsoft 365:** in People or Contacts, check Deleted first, then look for Recover deleted or Recoverable items if available. For work or school accounts, recovery can depend on administrator retention settings.
+
+5. **If accounts are mixing, isolate the accounts before turning sync back on.**
+   - On the device, check which accounts are enabled for Contacts and Calendars.
+   - Temporarily leave only the account you intend to use as the default for contacts or calendars.
+   - Re-enable sync one account at a time and stop if duplicates or merges start again.
+
+6. **If you suspect account compromise, secure the account without deleting data.**
+   - Change the password from the provider’s official site or app.
+   - Turn on two-factor authentication if it is not already on.
+   - Use the provider’s security page to review recent activity, connected apps, forwarding rules, and signed-in sessions where offered.
+
+7. **If this is a work or school account, contact the admin early.**
+   - Ask whether they can check account activity, retention settings, recoverable items, or backups.
+   - Tell them the approximate time the contacts or calendar entries changed.
+
+8. **If money was lost, you were scammed, or this appears connected to cybercrime, use official reporting routes.**
+   - Follow FTC guidance for recovering a hacked email or social media account.
+   - You may file a complaint with the FBI Internet Crime Complaint Center if you are a victim of cyber-enabled crime.
 
 ## What can wait
-- You don’t need to decide today whether to switch devices, apps, or providers.
-- You don’t need to manually re-create contacts or calendar entries until restore/undo options are exhausted.
-- You can delay any “dedupe/cleanup” until after you have a stable, restored dataset.
+- You do not need to decide today whether to switch phones, apps, email accounts, or providers.
+- You do not need to manually recreate contacts or calendar entries until restore, undo, and trash options have been checked.
+- You can delay deduping, cleanup, importing, exporting, or reorganising until the data is stable again.
 
 ## Important reassurance
-It’s normal to feel alarmed—contacts and calendars are “life infrastructure.” Many services keep backups, archives, or trash for a limited period, and the safest move is to stop sync from spreading the problem while you restore.
+Contacts and calendars can feel like life infrastructure, so it makes sense that this feels urgent. Many services have limited recovery tools, and the safest first move is to stop the bad version spreading while you check what can still be restored.
 
 ## Scope note
-These are first steps to prevent irreversible loss and maximize recovery. If this turns into an account security issue, you may later want more detailed help securing your accounts and devices.
+These are first steps only to reduce further data loss and help you find the safest recovery route. Later decisions, especially for work accounts, suspected compromise, or large data loss, may need specialist technical help.
 
 ## Important note
-This guide is general information, not professional advice. Recovery options and time limits vary by service and account type. If you’re unsure, pause sync first and use official restore/undo tools before making changes.
+This guide is general information, not legal, financial, cybersecurity, therapeutic, or other professional advice. Recovery options and time limits vary by provider, device, account type, and administrator settings.
 
 ## Additional Resources
 - https://www.icloud.com/recovery
-- https://support.apple.com/guide/icloud/recover-files-and-information-mme6182cfc37/icloud
+- https://support.apple.com/en-us/102508
 - https://support.google.com/contacts/answer/7280886?co=GENIE.Platform%3DDesktop&hl=en
 - https://support.google.com/calendar/answer/37113?co=GENIE.Platform%3DDesktop&hl=en
-- https://support.office.com/en-US/article/Recover-a-deleted-contact-in-Outlook-51c83288-6888-4dcd-8c99-4932daabf643
-- https://consumer.ftc.gov/how-recover-your-hacked-email-or-social-media-account
+- https://support.microsoft.com/en-us/outlook/people/restore-or-recover-a-deleted-contact-in-outlook
+- https://consumer.ftc.gov/articles/how-recover-your-hacked-email-or-social-media-account
 - https://www.ic3.gov/

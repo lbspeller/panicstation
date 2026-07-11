@@ -1,73 +1,94 @@
-﻿---
+---
 title: "What to do if… you receive an urgent message asking you to buy gift cards or make a payment for work"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
-  - fake boss scam
-  - ceo fraud email
-  - urgent gift card request
-  - asked to buy gift cards
-  - work payment scam
-  - wire transfer request
-  - zelle payment request work
-  - invoice scam at work
-  - manager texting scam
-  - whatsapp boss message
-  - business email compromise
-  - bec scam
-  - change vendor bank details
-  - send gift card codes
-  - urgent confidential request
-  - new employee scam
-  - payroll diversion scam
-  - suspicious work email
-  - payment authorization scam
-last_reviewed: "2026-01-07"
+  - "urgent work payment message"
+  - "urgent message from boss"
+  - "urgent gift card request"
+  - "work gift card request"
+  - "work payment request"
+  - "boss gift card message"
+  - "manager gift card text"
+  - "fake boss payment request"
+  - "fake ceo payment email"
+  - "vendor bank change message"
+  - "what do i do if my boss asks for gift cards"
+  - "what do i do if work asks for payment"
+  - "what do i do if a manager texts gift cards"
+  - "what do i do if an invoice looks fake"
+  - "help i got a boss gift card text"
+  - "help i sent gift card codes"
+  - "help i approved a work payment"
+  - "help i clicked a work invoice"
+  - "my boss asked for gift cards"
+  - "my manager wants a secret payment"
+  - "message says keep it confidential"
+  - "message says payment is urgent"
+  - "sender asks for gift card codes"
+  - "email changes vendor bank details"
+  - "invoice attachment seems suspicious"
+  - "payment request feels rushed"
+  - "boss scam or real request"
+  - "ceo fraud or normal email"
+  - "gift card scam or work task"
+  - "invoice scam or real invoice"
+  - "bec scam or vendor update"
+  - "new employee payment request"
+  - "wierd boss email"
+  - "gift card scamm"
+last_reviewed: "2026-06-22"
+date_created: "2026-06-22"
 ---
 
 # What to do if… you receive an urgent message asking you to buy gift cards or make a payment for work (USA)
+
 ## Short answer
-Do **not** pay or buy gift cards. Verify the request using a **known, separate** contact method, then report it to your employer and (if money moved) file reports to federal reporting sites.
+Do not buy gift cards, send codes, approve a payment, or change payment details from the message alone. Verify the request using a known, separate contact method, then report it inside your workplace; if money or credentials were involved, contact the payment provider and use the FTC or FBI IC3 reporting route as appropriate.
 
 ## Do not do these things
-- Don’t buy gift cards or send gift card codes/photos to anyone who asked.
+- Don’t buy gift cards or send gift card numbers, PINs, photos, or receipts to anyone who asked in the message.
 - Don’t send a wire, ACH, Zelle, Venmo, Cash App, crypto, or “test payment” based only on a message.
-- Don’t click payment links or open unexpected “invoice” attachments from the message.
-- Don’t keep it secret because the message says it’s “confidential” or “don’t tell accounting”.
-- Don’t continue the conversation in the same thread to “confirm” — use a different channel you control.
-- Don’t delete the message yet (your IT/security team may need it).
+- Don’t approve a vendor bank-detail change from the same email, text, chat, or attachment.
+- Don’t click payment links or open unexpected invoice attachments from the message.
+- Don’t keep it secret because the message says it is confidential, urgent, or not to tell accounting.
+- Don’t continue the conversation in the same thread to confirm it; use a different channel you already trust.
+- Don’t delete the message yet, because your IT, security, finance, bank, or a reporting form may need details from it.
 
 ## What to do now
-1. **Stop the transaction immediately.** If you’re at a store checkout, stop and step aside. If you’re logged into banking, close it and do nothing further.
-2. **Verify the request via a trusted channel (not the message).**
-   - Call your manager/colleague using a number you already have (or from the company directory), or speak in person.
-   - If you can’t reach them quickly, treat it as unverified and do not proceed.
+1. **Pause the transaction immediately.** If you are at a store checkout, step aside before paying. If you are in banking, payroll, expenses, or accounts payable software, stop before approving, sending, changing, or confirming anything.
+2. **Verify the request outside the message.**
+   - Call the manager, executive, colleague, vendor, or finance contact using a number from your company directory, a saved contact you already had, or an in-person conversation.
+   - Do not use a phone number, reply address, link, or contact detail supplied in the suspicious message.
+   - If you cannot verify it quickly, treat it as unverified and do not proceed.
 3. **Report it inside your workplace right away.**
-   - Send the message (or a screenshot for SMS/Teams/WhatsApp) to your IT/security team or helpdesk.
-   - Notify your finance/accounts payable lead so they can watch for related attempts (vendor bank-change requests, invoice fraud, payroll diversion).
-4. **If money was sent or accounts were used, act fast.**
-   - **Call your bank/card issuer immediately** and ask them to try to **stop, reverse, or recall** the payment.
-   - **Ask your bank to contact the financial institution that received the transfer** (this can matter for recovery when time is short).
-   - **If gift cards are involved:** contact the **gift card company/issuer right away**, tell them it was used in a scam, and **ask for your money back**. Keep the gift card and store receipt.
-5. **File reports (USA).**
-   - Report the scam to the **FTC** using **ReportFraud** (online).
-   - If this involved work payment instructions, impersonation of leadership, vendor changes, or compromised work email, file a complaint with the **FBI’s IC3** (online).
-6. **Preserve the evidence.** Save the email/text, sender details, requested amounts, payment instructions, receipts, and the times you acted. This helps your employer, your bank, and your reports.
-7. **If you shared login or payment credentials, contain it quickly.** Tell your IT/security team what was shared (even if you’re unsure), and follow their steps for password resets and account security.
+   - Forward the email to your IT, security, or helpdesk route if your workplace has one.
+   - For texts, Teams, WhatsApp, Slack, or similar messages, send screenshots and the sender details to IT or security.
+   - Tell finance, accounts payable, payroll, or the person who handles vendor records so they can watch for related invoice fraud, vendor bank-change requests, payroll diversion, or follow-up messages.
+4. **If money was sent, act fast but do not assume recovery is guaranteed.**
+   - Contact the bank, card issuer, wire company, payment app, crypto platform, or other service used to send the money. Tell them it was a scam or fraudulent transaction and ask whether they can stop, reverse, recall, freeze, or dispute it.
+   - For a bank wire or business transfer, ask your financial institution to contact the receiving financial institution as soon as possible.
+   - If gift cards were involved, contact the gift card issuer right away. Tell them the card was used in a scam, ask whether the funds can be frozen or refunded, and keep the gift card and store receipt.
+5. **File reports if this involved a scam, work payment, impersonation, vendor change, or compromised work email.**
+   - Use the FTC’s ReportFraud site for a scam report.
+   - Use the FBI’s IC3 complaint form for business email compromise, work-payment fraud, leadership impersonation, vendor-payment diversion, or cyber-enabled fraud.
+6. **Preserve the evidence.** Save the message, full email headers if available, sender address or phone number, usernames, requested amounts, payment instructions, links, attachments, receipts, card details, bank details, and the times you acted.
+7. **If you shared a password, login code, bank details, payroll details, or payment credentials, contain it quickly.** Tell IT or security exactly what was shared, even if you are not sure it was used, and follow their steps for account locking, password resets, and monitoring.
 
 ## What can wait
-- You don’t need to decide right now whether to confront anyone, “prove” it was a scam, or handle workplace policy issues.
-- You don’t need to do a deep technical investigation yourself — your IT/security team can take it from here.
-- You don’t need perfect wording in reports; basic facts are enough to start.
+- You do not need to decide right now whether to confront the sender or accuse anyone.
+- You do not need to prove the whole scam yourself before stopping the payment.
+- You do not need to complete a perfect report before calling the bank, payment provider, gift card issuer, or workplace security route.
+- Workplace policy reviews, training, disciplinary questions, and long-term security changes can wait until the immediate payment and account risk is contained.
 
 ## Important reassurance
-These scams are designed to feel like normal work urgency and authority. Being targeted (or even briefly fooled) is common — the safest move is slowing down, verifying outside the message, and escalating quickly to finance/IT.
+These messages are designed to imitate normal workplace urgency, authority, and confidentiality. Slowing down, verifying through a separate trusted channel, and involving finance or IT is the safest response, even if the request later turns out to be legitimate.
 
 ## Scope note
-These are first steps to prevent immediate loss and limit workplace exposure. Longer-term steps (incident review, policy changes, training, and security improvements) can happen once the immediate risk is contained.
+These are first steps only to prevent immediate loss, protect workplace accounts, and preserve the information needed for reporting. Later decisions about employment, insurance, legal claims, incident response, or recovery may need specialist help.
 
 ## Important note
-This guide is general information, not legal, financial, or professional advice. Options and outcomes vary by bank/payment method, gift card issuer, employer policies, and timing.
+This guide is general information, not legal, financial, technical, cybersecurity, or professional advice. Options and outcomes vary by employer, bank, payment method, gift card issuer, platform rules, timing, and the facts of what happened.
 
 ## Additional Resources
 - https://consumer.ftc.gov/articles/avoiding-and-reporting-gift-card-scams

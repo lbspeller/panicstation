@@ -1,93 +1,105 @@
-﻿---
+---
 title: "What to do if… you get a security alert about a new sign-in from an unknown device"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - security alert new sign-in
-  - unknown device login
-  - unrecognized sign-in notification
-  - new device sign-in alert
-  - was this me sign-in
-  - account takeover warning
-  - suspicious login email
-  - sign-in from new location
-  - compromised account check
-  - someone accessed my account
-  - unexpected verification code
-  - password changed without me
-  - email account compromised
-  - google security alert
-  - microsoft unusual sign-in
-  - apple account sign-in prompt
-  - two step verification setup
-  - sign out of all devices
-  - recovery email changed
-  - account security review
-last_reviewed: "2026-03-08"
+  - "security alert new sign-in"
+  - "security alert unknown device"
+  - "new sign-in unknown device"
+  - "unknown device sign-in alert"
+  - "unknown device login warning"
+  - "unexpected new sign-in"
+  - "suspicious sign-in alert"
+  - "suspicious login notification"
+  - "account takeover warning"
+  - "account access not recognised"
+  - "what do i do if security alert"
+  - "what do i do if unknown device"
+  - "what do i do if new sign-in"
+  - "what do i do if account hacked"
+  - "help i got a security alert"
+  - "help i see unknown device"
+  - "help i got a sign-in alert"
+  - "help i got login alert"
+  - "my account shows unknown device"
+  - "my email has new sign-in"
+  - "my password changed without me"
+  - "my recovery email changed"
+  - "new location in account"
+  - "unrecognised device on account"
+  - "verification code arrived unexpectedly"
+  - "password reset email arrived"
+  - "sign-in location looks wrong"
+  - "browser device not mine"
+  - "email forwarding rules appeared"
+  - "not sure if phishing"
+  - "security alert might be fake"
+  - "was this me login"
+  - "signin alert unknown device"
+  - "unkown device sign-in"
+last_reviewed: "2026-05-11"
+date_created: "2026-05-11"
 ---
 
 # What to do if… you get a security alert about a new sign-in from an unknown device (UK)
 
 ## Short answer
-Treat it as real until you’ve checked it yourself: go directly to the service (don’t use links in the alert), review the sign-in details, and if it wasn’t you, secure the account immediately (password change + sign out everywhere + turn on 2-step verification).
+Treat the alert as real until you have checked it safely. Open the app or type the website address yourself, check recent activity, and if the sign-in was not you, secure the account before doing anything else.
 
 ## Do not do these things
-- Don’t click “confirm/deny” links in an email/SMS alert unless you opened the service by typing the address/app yourself.
-- Don’t “test” passwords by trying variations (you can lock yourself out or trigger more risk).
-- Don’t ignore it because the location/device looks “sort of” plausible (locations can be misleading).
-- Don’t reuse an old password, or change it to something similar.
-- Don’t do account recovery while you’re on public/shared Wi-Fi or a shared computer if you can avoid it.
+- Do not use links or buttons in an email or text alert; open the app, type the web address yourself, or use a saved bookmark.
+- Do not reply with a verification code, password, PIN, recovery code, or one-time passcode.
+- Do not approve a sign-in prompt unless you are signing in right now.
+- Do not reuse an old password or change it to something similar.
+- Do not spend time working out how it happened before you have secured the account.
+- Do not ignore the alert just because the location looks familiar; sign-in locations can be approximate or misleading.
 
 ## What to do now
-1. **Pause and verify the alert safely (30–60 seconds).**  
-   Open the app or type the website address yourself (or use a known bookmark). Find **Security / Recent activity / Devices** and locate the exact sign-in: time, device type, browser/app, and approximate location.
+1. Open the service safely. Use the official app, a saved bookmark, or type the web address yourself. Go to settings for security, recent activity, devices, sessions, or sign-ins.
 
-2. **If there’s any chance it wasn’t you: take the “secure my account” option inside the service.**  
-   Many services have a built-in option such as **“No, secure account”** / **“This wasn’t me”** that triggers protective steps (ending sessions, forcing a password change, extra checks).
+2. Find the alert details. Check the time, device type, browser or app, and approximate location. If the activity is clearly yours, you can mark it as recognised inside the real service.
 
-3. **Change the password for that account right away (from a device you trust).**  
-   Use a new, unique password you’ve never used anywhere else. If you reused that old password on other accounts, plan to change those next (start with email and banking/payment accounts).
+3. If it was not you, choose the service’s secure-account option. It may say “No, secure account”, “This wasn’t me”, “Review activity”, or similar. Follow the provider’s recovery steps from inside the real app or website.
 
-4. **Force sign-out on other devices and remove anything you don’t recognise.**  
-   In the account security settings, choose options like **“sign out of all devices”**, **“log out of apps”**, remove unknown devices, and revoke access for unfamiliar third-party apps.
+4. Change the password for that account from a device you trust. Use a new, unique password that you have not used anywhere else.
 
-5. **Turn on 2-step verification (2SV) for the account (and your email).**  
-   Use an authenticator app or device prompt if available. If you can, avoid relying only on SMS.
+5. Sign out other sessions. In the account security settings, use options such as “sign out of all devices”, “log out of other sessions”, or “remove device”. Remove devices, browsers, and third-party app access you do not recognise.
 
-6. **Check your recovery and contact details for “quiet” changes.**  
-   Confirm your recovery email/phone, backup codes, and security questions. If anything was changed, fix it and re-secure the account.
+6. Turn on 2-step verification for the account. Use an authenticator app, device prompt, passkey, or security key if offered. If SMS is the only option, it is still usually better than having no 2-step verification.
 
-7. **If this is your email account: check forwarding rules and filters.**  
-   Look for auto-forwarding, “rules”, “filters”, or “delegates” you didn’t set up (attackers sometimes use these to keep receiving your mail even after you change a password).
+7. Check recovery details. Make sure the recovery email, phone number, backup codes, security questions, and trusted devices are yours. Change anything unfamiliar.
 
-8. **If the account is for work/school, stop and involve the right people.**  
-   Use your organisation’s official IT/security channel and follow their process; they may need to reset sessions or investigate centrally.
+8. If this is your email account, check mail forwarding and filters. Look for forwarding addresses, rules, filters, delegates, connected apps, or automatic replies you did not set up.
 
-9. **Capture minimal evidence, then move on.**  
-   Take screenshots of the alert/sign-in details (date/time/device/location) and any changes you notice. Don’t get stuck investigating while the account is still at risk.
+9. Secure the accounts that depend on this one. If the same password was used anywhere else, change those passwords next. Start with email, password manager, banking, payment accounts, and main social accounts.
 
-10. **If you’ve lost money or your account was used to scam others, consider reporting through UK police reporting routes.**  
-   In the UK, cyber crime and fraud are typically reported online via **Report Fraud** (the national reporting service). If you’re in Scotland, reporting routes can differ; for non-emergencies, Police Scotland is commonly contacted via **101**.
+10. If this is a work, school, or organisation account, stop and contact the official IT or security team. Use the route your organisation gives you, not contact details from the alert.
+
+11. Keep a small record. Take screenshots of the alert, recent activity, unknown device details, and any account changes you had to undo. Do not delay securing the account to investigate further.
+
+12. If money was lost, payment details were used, or your account was used to scam others, report it through official UK routes. In England, Wales and Northern Ireland, use Report Fraud. In Scotland, contact Police Scotland on 101 for non-emergency reporting.
 
 ## What can wait
-- You don’t need to figure out *how* it happened right now.
-- You don’t need to secure every account you’ve ever had today—prioritise: **email → password manager (if you use one) → banking/payment → primary socials**.
-- You don’t need to argue with anyone who messages you about it; you can respond later once you’re secure.
-- You don’t need to factory reset devices unless you keep seeing new sign-ins after you’ve secured the account.
+- You do not need to work out exactly how the sign-in happened right now.
+- You do not need to secure every account you have today; start with the accounts that protect money, email, passwords, and identity.
+- You do not need to reply immediately to people who message you about strange posts or messages from your account.
+- You do not need to factory reset your device unless new sign-ins continue after you have changed passwords, signed out sessions, and turned on 2-step verification.
 
 ## Important reassurance
-These alerts are designed to make you react fast, and it’s normal to feel shaky or angry. You’re not “too late” just because you saw one sign-in—quick, boring steps (verify, secure, sign out, 2SV) are exactly what limits damage.
+A security alert is stressful, but it is also a chance to stop further access. The most useful first steps are simple: open the real service, check the activity, change the password if needed, sign out other sessions, and add 2-step verification.
 
 ## Scope note
-This is first steps only: it focuses on regaining control and stopping further access. If you keep getting new sign-in alerts after doing the steps above, you may need device checks and deeper recovery with the account provider.
+These are first steps only. If you cannot get back into the account, keep seeing new sign-ins, have lost money, or the account belongs to work or school, you may need help from the account provider, your bank, your organisation, or official reporting routes.
 
 ## Important note
-This is general information, not legal or professional advice. If you think criminal activity is involved (especially fraud or financial loss), follow the service’s official recovery steps and use official UK reporting routes.
+This is general information, not legal, financial, technical, cyber-security, or professional advice. Follow the account provider’s official recovery process and use official UK reporting routes where fraud, cyber crime, or financial loss may be involved.
 
 ## Additional Resources
 - https://www.ncsc.gov.uk/guidance/recovering-a-hacked-account
-- https://www.ncsc.gov.uk/files/recovering-hacked-accounts-infographics.pdf
-- https://www.reportfraud.police.uk/guide-to-reporting/
+- https://www.ncsc.gov.uk/guidance/setting-2-step-verification-2sv
+- https://www.ncsc.gov.uk/collection/phishing-scams/report-scam-email
+- https://www.reportfraud.police.uk/reporting-a-fraud/
 - https://www.police.uk/advice/advice-and-information/fa/fraud/online-fraud/cyber-crime-fraud/
 - https://support.google.com/accounts/answer/2590353?hl=en
 - https://support.microsoft.com/en-gb/account-billing/what-happens-if-there-s-an-unusual-sign-in-to-your-account-eba43e04-d348-b914-1e95-fb5052d3d8f0
+- https://support.apple.com/en-gb/102560

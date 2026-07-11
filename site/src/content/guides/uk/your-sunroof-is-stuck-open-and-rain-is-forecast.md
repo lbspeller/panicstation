@@ -1,72 +1,81 @@
-﻿---
+---
 title: "What to do if… your sunroof is stuck open and rain is forecast"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
-  - sunroof stuck open
-  - sunroof won’t close
-  - panoramic roof stuck open
-  - glass roof stuck open
-  - car roof jammed open
-  - rain forecast car roof open
-  - water leaking into car
-  - car interior getting wet
-  - water in footwell
-  - protect car seats from rain
-  - wet car electronics risk
-  - temporary waterproof roof cover
-  - emergency car weatherproofing
-  - stuck sunroof switch
-  - can i drive with obstructed view
-  - car left open in rain
-  - sudden car leak from roof
-  - moonroof stuck open
-last_reviewed: "2026-03-11"
+  - "sunroof stuck open"
+  - "sunroof will not close"
+  - "sunroof wont close"
+  - "sunrof stuck open"
+  - "sunroof jammed open"
+  - "panoramic roof stuck open"
+  - "glass roof stuck open"
+  - "moonroof stuck open"
+  - "car roof stuck open"
+  - "car roof open in rain"
+  - "rain forecast car roof open"
+  - "what do i do if sunroof stuck open"
+  - "what do i do if sunroof wont close"
+  - "what do i do if car roof open"
+  - "what do i do if rain gets in car"
+  - "help i cannot close sunroof"
+  - "help i left sunroof open"
+  - "help i have water in car"
+  - "help i have wet car seats"
+  - "my sunroof is stuck open"
+  - "my car roof will not close"
+  - "my car is getting wet"
+  - "my car has water inside"
+  - "water leaking through sunroof"
+  - "water in footwell"
+  - "wet car seats"
+  - "wet car electrics"
+  - "car warning lights after rain"
+  - "sunroof switch not working"
+  - "sunroof motor stuck"
+  - "roof stuck before rain"
+  - "car outside before storm"
+  - "driving with roof cover"
+last_reviewed: "2026-05-28"
+date_created: "2026-05-28"
 ---
 
 # What to do if… your sunroof is stuck open and rain is forecast (UK)
+
 ## Short answer
-Get the car under cover and seal the opening with a temporary waterproof cover that stays secure, then arrange a proper repair before you drive in rain.
+Get the car under cover, stop more rain getting in, and only move it if your view is clear and any temporary cover is secure. Arrange help or repair rather than forcing the sunroof mechanism.
 
 ## Do not do these things
-- Don’t keep driving in rain “to get home” if water is entering the cabin—ongoing water ingress can damage wiring and safety systems.
-- Don’t put anything on/near the windscreen or side windows that reduces your view; windscreens and windows must be kept free from obstructions to vision.
-- Don’t rely on a loose sheet “tucked in” without securing it; it can come off and create danger for other road users.
-- Don’t use aggressive tape directly on painted trim or rubber seals if you can avoid it; it can damage trim and leave residue.
-- Don’t leave the car unattended and exposed with the roof open if you can avoid it (theft and further damage risk).
+- Don’t keep driving in rain if water is entering the cabin and you can safely stop; water can affect electrics, warning lights, and controls.
+- Don’t put anything on or near the windscreen or side windows that reduces your view.
+- Don’t drive with a loose sheet, tarp, or bag on the roof; it can come off and endanger other road users.
+- Don’t force the sunroof glass, rails, or motor if it is jammed.
+- Don’t use strong tape directly on paint, trim, or rubber seals unless there is no safer option.
+- Don’t leave the car unattended and exposed with the roof open if you can avoid it.
 
 ## What to do now
-1. **Get the car under shelter immediately.** A garage is best; otherwise a covered car park or any overhead cover. If you’re in an unsafe roadside location, prioritise moving to safety first.
-2. **Switch off, take the keys, and remove what will be ruined.** Move valuables and papers. If water is pooling, lift items off the floor and blot up what you can.
-3. **Put on a temporary rain cover that stays put.**
-   - Use a **clean waterproof sheet** (car cover, tarp, heavy plastic sheeting).
-   - Keep it **taut** to reduce flapping.
-   - If you need tape: put **low-tack/painter’s tape** on paint/trim first, then stronger tape over that (so strong tape isn’t directly on paint). Avoid taping to rubber seals if possible.
-4. **If you might need to move the car a short distance, make “safe view” non-negotiable.**
-   - Don’t drive if any cover blocks your view through the windscreen/side windows or if it won’t stay secure.
-   - If it’s safe to do so, move only as far as needed to reach shelter, slowly, avoiding fast roads and standing water.
-5. **Check your vehicle handbook for an emergency close/manual override (if present).** Some cars have a model-specific emergency procedure (for example, a reset sequence, a tool point, or an access panel). If you can’t confirm it in the handbook, don’t force the mechanism.
-6. **Arrange help that can secure or fix it.**
-   - Contact your breakdown provider and clearly say **“sunroof stuck open; rain forecast; water ingress risk.”**
-   - If you don’t have breakdown cover, call a local garage/body shop or your dealer service department and ask if they can **secure it temporarily** and book a repair.
-7. **If the interior is wet, reduce damage after the leak is stopped.**
-   - Remove wet mats; blot water.
-   - Ventilate under cover (doors open while supervised).
-   - If warning lights appear or you notice electrical oddities, keep the vehicle off until it’s assessed.
+1. **Get the car under shelter.** Use a garage, covered car park, petrol station canopy, or another safe overhead cover. If you are at the roadside, move to a safer place first if you can do that without creating danger.
+2. **Switch off and protect what is already inside.** Take the keys, remove valuables and papers, lift items off the floor, and blot any visible water.
+3. **Cover the sunroof opening from outside.** Use a clean waterproof car cover, tarp, bin bag, or heavy plastic sheet. Make it larger than the opening and keep it taut so water runs away from the gap.
+4. **Secure the cover without blocking your view.** Use straps, bungee cords, magnets made for car covers, or tape only where it will not obstruct windows, mirrors, lights, number plates, or door operation. If you need tape on paint or trim, put low-tack decorator’s masking tape down first, then stronger tape over that.
+5. **Do not drive with an unsafe cover.** If the cover flaps, slides, blocks your view, or may come loose, do not drive. Call your breakdown provider, a local garage, a body shop, or dealer service department and say: “My sunroof is stuck open, rain is forecast, and I need it secured.”
+6. **Check the handbook only for a model-specific emergency close.** Some vehicles have a reset or manual closing procedure. Use it only if the handbook clearly describes it for your vehicle; otherwise leave the mechanism alone.
+7. **After the opening is sealed, limit water damage.** Remove wet mats, blot the footwells and seats, and ventilate the car only while it is under cover and supervised. If warning lights appear, controls behave oddly, or you smell burning or damp electrics, keep the vehicle off until it has been assessed.
 
 ## What can wait
-- You don’t need to diagnose the motor/switch today.
-- You don’t need to decide about insurance immediately (but do take a few photos and note what happened).
-- You don’t need to deep-clean right now—first stop more rain getting in.
+- You do not need to diagnose the motor, switch, fuse, or rails today.
+- You do not need to choose a permanent repair option now.
+- You do not need to deep-clean the interior until the leak is stopped.
+- You do not need to decide about insurance immediately, though photos of the open roof and any water inside may help later.
 
 ## Important reassurance
-This is a common, fixable problem. Preventing further water getting into the cabin is the biggest step you can take to avoid costly damage.
+A stuck sunroof is stressful, but the first job is simple: stop more rain getting in and avoid unsafe driving. Once the car is dry and secure, the repair can usually be dealt with as a separate garage job.
 
 ## Scope note
-These are first steps to stabilise the situation and reduce immediate harm. A permanent fix may require a garage/dealer and can be model-specific.
+These are first steps only to stabilise the situation and reduce immediate damage. Later decisions may need help from a breakdown service, garage, dealer, body shop, insurer, or another suitable specialist.
 
 ## Important note
-This is general information, not mechanical or legal advice. If you can’t secure the opening without affecting safe visibility, don’t drive—get assistance instead.
+This is general information, not legal, medical, mechanical, insurance, financial, therapeutic, or professional advice.
 
 ## Additional Resources
 - https://www.gov.uk/guidance/the-highway-code/annex-6-vehicle-maintenance-safety-and-security

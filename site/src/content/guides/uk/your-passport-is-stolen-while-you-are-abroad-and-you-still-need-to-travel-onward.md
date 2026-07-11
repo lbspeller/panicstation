@@ -1,103 +1,135 @@
-﻿---
+---
 title: "What to do if… your passport is stolen while you are abroad and you still need to travel onward"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
-  - passport stolen abroad
-  - passport theft overseas
-  - lost passport abroad
-  - british passport stolen
-  - passport missing while travelling
-  - need to travel onward
-  - onward travel without passport
-  - emergency travel document
-  - etd application abroad
-  - travel within six weeks
-  - replacement passport from overseas
-  - visa in stolen passport
-  - border control problems abroad
-  - airline check-in without passport
-  - hotel safe passport theft
-  - police report for stolen passport
-  - travel insurance claim passport theft
-  - identity misuse after theft
-  - consular help lost passport
-last_reviewed: "2026-03-07"
+  - "passport stolen abroad"
+  - "stolen passport overseas"
+  - "lost passport abroad"
+  - "passport missing abroad"
+  - "british passport stolen"
+  - "uk passport stolen abroad"
+  - "passport theft while travelling"
+  - "passport gone overseas"
+  - "need onward travel"
+  - "stranded without passport"
+  - "what do i do if my passport is stolen abroad"
+  - "what do i do if my passport is stolen overseas"
+  - "what do i do if my passport is missing abroad"
+  - "what do i do if i need to travel without passport"
+  - "help i lost my passport abroad"
+  - "help i need onward travel"
+  - "help i cannot find my passport"
+  - "my passport was stolen abroad"
+  - "my passport is missing overseas"
+  - "passport stolen before flight"
+  - "passport stolen before border"
+  - "passport stolen from hotel"
+  - "passport stolen from bag"
+  - "passport missing before check-in"
+  - "no passport at airport"
+  - "visa in stolen passport"
+  - "emergency travel document confusion"
+  - "temporary passport abroad"
+  - "police report instead of passport"
+  - "embassy passport replacement"
+  - "pasport stolen abroad"
+  - "passort stolen overseas"
+last_reviewed: "2026-05-27"
+date_created: "2026-05-27"
 ---
 
 # What to do if… your passport is stolen while you are abroad and you still need to travel onward (UK)
 
 ## Short answer
-Cancel your stolen passport and start the official route for getting a valid travel document (usually an Emergency Travel Document) before you try to move on. Then check your carrier and route will accept the document you’ll be issued.
+Get somewhere safe, start the official UK emergency travel document route before you try to travel, and check that every country and carrier on your route will accept it. If you are applying for an emergency travel document, your stolen passport will usually be cancelled as part of that application after you pay.
 
 ## Do not do these things
-- Do not keep travelling on “hope” (turning up at a border/airport without valid documents often ends with refused boarding or being stuck).
-- Do not pay strangers or unofficial “agents” who claim they can get a passport/visa fast.
-- Do not book non-refundable onward travel until you know what document you’ll be issued and when you can collect it.
-- Do not share images of your passport or personal data publicly while trying to “recover” it.
-- Do not hand over original documents to anyone except official embassy/consulate staff or local authorities when required.
+- Do not turn up at a border, airport, ferry port, or train terminal expecting a police report to replace a passport.
+- Do not pay strangers or unofficial agents who claim they can get a passport, visa, or emergency document fast.
+- Do not book new non-refundable onward travel until you have the official email telling you how and when you can get your emergency travel document.
+- Do not post passport images, passport numbers, or personal data publicly while trying to recover the passport.
+- Do not give original documents to unofficial people or agents who are not part of the local authority, carrier, accommodation, or official consular process.
 
 ## What to do now
 1. **Get to a safer pause and secure what you still have.**
-   - Move somewhere calm and staffed (hotel reception, a police station lobby).
-   - Check bags carefully and ask your accommodation/transport provider to check lost property.
-   - If bank cards/phone were also taken, freeze accounts and lock your SIM as soon as you can.
+   - Move somewhere calm and staffed, such as hotel reception, a police station lobby, an airport help desk, or a trusted tour operator desk.
+   - Check bags, pockets, room safes, and recent seats carefully before you report it stolen.
+   - Ask your accommodation, transport provider, or venue to check lost property.
+   - If bank cards or your phone were also taken, freeze cards and lock the SIM or device as soon as you can.
 
-2. **Cancel your stolen UK passport as soon as you can.**
-   - Use the UK “cancel a lost or stolen passport” service so it can’t be misused.
-   - If you later find the passport, you still cannot use it for travel once it’s been cancelled.
+2. **Decide whether you need urgent travel or just cancellation.**
+   - If you need to travel urgently from abroad, start the UK emergency travel document application route.
+   - If you are applying for an emergency travel document, you do not usually need to cancel the passport separately first; it will usually be cancelled as part of the application after you pay.
+   - If you are not applying for an emergency travel document now, use the official UK lost or stolen passport cancellation service as soon as you can.
+   - If a cancelled passport later turns up, do not use it for travel.
 
-3. **Write down a quick record (2 minutes).**
-   - Date/time/place, what happened, what was taken, and any reference numbers you’re given.
-   - If you have a photo/scan of your passport details page, save it offline on your phone too.
+3. **Write down a quick record before details blur.**
+   - Note the date, time, place, what was taken, and where you last had the passport.
+   - Save any police, hotel, transport, bank, or insurer reference numbers.
+   - If you have a photo or scan of the passport details page, keep it private and available for the application.
 
-4. **Report the theft locally (when practical).**
+4. **Report the theft locally when practical.**
    - Ask local police how to report stolen ID and request a written report or reference number if they issue one.
-   - This often helps with travel insurance and explaining circumstances to carriers or authorities (even if not always required).
+   - A police report may help with local processes, insurance, and explaining the theft, but it is not a travel document.
+   - If you feel unsafe or need immediate help, contact the emergency services in the country you are in.
 
-5. **Check whether an Emergency Travel Document (ETD) fits your situation.**
-   - An ETD is typically used when you’re outside the UK, don’t have a valid British passport, and need to travel urgently.
-   - You can only apply online for an ETD if you’ve previously had a UK passport issued on or after **1 January 2006**.
-   - If you do not meet that condition, you’ll **usually** need to apply for a UK passport instead (which may affect your onward travel plans).
+5. **Check whether a UK emergency travel document fits your situation.**
+   - It is for British nationals outside the UK who need to travel urgently and cannot use their UK passport.
+   - You usually need to need travel within 6 weeks, be unable to renew or replace your passport before travel, and have had a valid UK passport issued on or after 1 January 2006.
+   - If you have not had a UK passport issued on or after 1 January 2006, you will usually need to apply for a UK passport instead, unless your situation is urgent, unplanned, and exceptional.
+   - If that applies, use the official contact route in the emergency travel document guidance rather than guessing.
 
-6. **Apply for the ETD (and plan your route before you submit).**
-   - The ETD is issued for a **specific journey** (including intended transit points), so write down a realistic route and dates before applying.
-   - Practical constraint: the ETD application fee is **£125** and is **not refundable**, so only apply once your route is as settled as you can make it.
+6. **Plan the route before you apply.**
+   - An emergency travel document is usually valid for one single or return journey.
+   - It can include travel through a maximum of 5 countries.
+   - Check the countries you need to leave, enter, and transit through, including whether you need a visa.
+   - Keep the route as settled as possible before applying; if your travel plans change, you may need to reapply and pay the fee again.
 
-7. **Contact the nearest British embassy/high commission/consulate for handling and collection.**
-   - You may need an appointment and/or to collect the ETD in person.
-   - If you must travel onward through multiple countries, say this clearly so you can confirm what’s possible for your route.
+7. **Apply online if you can.**
+   - You will usually need a valid digital passport photo, a contact telephone number, an email address, and a debit or credit card.
+   - The fee is £125 and is not refundable.
+   - A friend or relative can pay for you if your wallet or cards were stolen.
+   - After you apply, wait for the official email telling you what happens next.
 
-8. **Confirm acceptance with your carrier and next border before you move.**
-   - Ask your airline/train/bus/ferry operator what they will accept for check-in and boarding for your next leg.
-   - Check whether each transit/destination country will accept an ETD for entry/transit (acceptance can vary).
-   - If your visa/residence permit was in the stolen passport, contact the issuing authority about replacement before you attempt onward travel.
+8. **Follow the collection instructions exactly.**
+   - If the application is approved, you will be told how and when to collect the emergency travel document.
+   - You may need to attend or collect it from a British embassy, high commission, or consulate.
+   - It is usually ready to collect 2 working days after applying, but it may take several weeks if more checks, documents, payment, or an appointment are needed.
+   - If you are stuck, unsafe, or cannot understand the local process, contact the nearest British embassy, high commission, or consulate using the official GOV.UK finder.
 
-9. **Get your basics ready for the appointment/application.**
-   - A valid digital passport photo and a backup way to take one locally.
-   - Any evidence of identity/nationality you have (copy/photo of passport, driving licence, previous passport details, etc.).
-   - Payment method for fees (and a backup method if possible).
+9. **Confirm the next movement before you leave for the terminal.**
+   - Ask your airline, rail, ferry, coach, or other carrier what they will accept for check-in and boarding.
+   - Check every country on the emergency travel document route, including transit points.
+   - If a visa, residence permit, or entry stamp was in the stolen passport, contact the issuing authority before you attempt onward travel.
+   - Keep screenshots or written replies from the carrier or authority if you receive them.
 
-10. **Tell your travel insurer early (even if you’re not sure you’ll claim).**
-   - Ask what evidence they require (often a police report/reference, proof of travel changes, and receipts for document and travel costs).
-   - Keep all receipts and emails.
+10. **Tell your travel insurer early.**
+   - Ask what evidence they need for a passport theft claim.
+   - Keep police reports or reference numbers, receipts, fee confirmations, travel-change emails, and accommodation receipts.
+   - Do not delay the document application just to perfect an insurance file.
 
 ## What can wait
-- You do not need to decide today whether to apply for a full replacement passport from abroad if an ETD will get you through the next leg.
-- You do not need to fix every downstream admin task now (updating passport details on accounts, replacing every card/ID) until you are stable and moving again.
-- You do not need to argue at a check-in desk right now—first secure the correct document and written guidance where possible.
+- You do not need to decide every future travel change now; focus first on the document that lets you move lawfully.
+- You do not need to replace every account, card, or ID document before you have stabilised the immediate travel problem.
+- You do not need to argue at a check-in desk now; first get the official document route, carrier position, and country acceptance as clear as possible.
+- You do not need to choose between a full overseas passport replacement and an emergency travel document until you know whether the emergency travel document can cover your immediate route.
 
 ## Important reassurance
-This is a common travel crisis, and it feels worse because it blocks movement and control. If you slow down, cancel the stolen passport, and use official consular channels, you give yourself the fastest lawful path to continue.
+This is a common travel crisis, and it feels especially frightening because it blocks movement. Slowing down, using the official UK route, and checking the carrier and countries before travelling gives you the best chance of continuing without making the situation harder.
 
 ## Scope note
-This guide covers first steps to stabilise the situation and keep onward travel possible. Next steps (full passport replacement from overseas, visa re-issuance, longer identity-protection) depend on where you are and where you’re going.
+These are first steps only. Later decisions about a full replacement passport, visas, residence permits, insurance claims, or identity misuse may need help from the relevant authority, insurer, carrier, or specialist adviser.
 
 ## Important note
-This is general information, not legal advice. Requirements can vary by country, airline/carrier, and your circumstances. When something conflicts, follow written instructions from official authorities and your carrier.
+This is general information, not legal, immigration, financial, insurance, or professional advice. Requirements can vary by country, route, carrier, visa status, and your circumstances, so follow written instructions from official authorities and your carrier.
 
 ## Additional Resources
 - https://www.gov.uk/report-a-lost-or-stolen-passport
 - https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport
 - https://www.gov.uk/travel-urgently-from-abroad-without-uk-passport/how-to-apply
-- https://www.gov.uk/renew-adult-passport/replace
+- https://www.gov.uk/overseas-passports
+- https://www.gov.uk/guidance/victim-of-crime-abroad
+- https://www.gov.uk/world/embassies
+- https://www.gov.uk/government/collections/support-for-british-nationals-abroad
+- https://www.gov.uk/foreign-travel-advice

@@ -1,76 +1,93 @@
-﻿---
+---
 title: "What to do if… an indoor air-conditioning unit starts dripping water or leaking unexpectedly"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
-  - indoor ac leaking water
-  - air conditioner dripping inside
-  - ac unit leaking water indoors
-  - mini split indoor unit leak
-  - wall ac dripping water
-  - central ac water leak
-  - condensate drain clog
-  - overflowing drain pan
-  - ac leak near electrical outlet
-  - water coming from air handler
-  - ac leaking through ceiling
-  - hvac dripping water
-  - unexpected ac leak
-  - ac leak after running
-  - ac leaking at night
-  - ac water damage risk
-  - wet carpet from ac leak
-  - ac drain line overflow
-  - dripping evaporator coil area
-last_reviewed: "2026-03-03"
+  - "indoor ac leaking water"
+  - "air conditioner dripping indoors"
+  - "ac unit leaking unexpectedly"
+  - "mini split indoor unit leaking"
+  - "wall ac dripping water"
+  - "central ac leaking water"
+  - "hvac unit dripping indoors"
+  - "air handler leaking water"
+  - "what do i do if ac leaks"
+  - "what do i do if air conditioner drips"
+  - "what do i do if mini split leaks"
+  - "what do i do if ac drips indoors"
+  - "help i have an ac leak"
+  - "help i found water under ac"
+  - "my air conditioner is leaking"
+  - "my ac unit is dripping"
+  - "water coming from air handler"
+  - "ac leaking through ceiling"
+  - "wet carpet under ac unit"
+  - "overflowing ac drain pan"
+  - "water near ac outlet"
+  - "ac drip after running"
+  - "ceiling bulge near ac leak"
+  - "ac condensation leak"
+  - "ac drain line overflow"
+  - "condensate drain clog"
+  - "frozen ac coil dripping"
+  - "air conditoner leaking water"
+  - "condinsate drain clog"
+  - "ac leak near electrical outlet"
+  - "ac leak in rental apartment"
+  - "ac leak above ceiling"
+  - "ac leak during hot weather"
+  - "indoor ac water damage"
+last_reviewed: "2026-06-03"
+date_created: "2026-06-03"
 ---
 
 # What to do if… an indoor air-conditioning unit starts dripping water or leaking unexpectedly (USA)
 ## Short answer
-Turn the AC off and keep water away from electricity, then contain the leak and contact a licensed HVAC professional.
+Turn the AC off. Keep away from wet electrical equipment, contain the water only where it is safe to do so, and contact a qualified HVAC technician or company.
 
 ## Do not do these things
-- Don’t keep the system running to “dry it out” — overflow can worsen quickly.
-- Don’t touch wiring, open panels, or work inside the unit while it’s powered.
+- Don’t keep the system running. Continued operation may worsen the leak or water damage.
+- Don’t touch wet electrical equipment, enter standing water to reach a breaker panel, or open equipment panels.
 - Don’t use extension cords or power strips on a wet floor or where water could drip onto them.
-- Don’t attempt refrigerant work yourself; in the U.S., refrigerant handling is regulated and requires certified technicians.
-- Don’t leave wet materials sitting — moisture left in place can lead to mold and structural damage.
+- Don’t attempt work on the refrigerant circuit yourself. That work may require an EPA Section 608-certified technician.
+- Don’t stand beneath a dripping ceiling or a ceiling bulge.
+- Don’t leave soaked materials in place if they can be moved or dried safely.
 
 ## What to do now
-1. **Turn the system off at the thermostat.** If water is near electrical components (outlets, the air handler, a furnace, breakers), **shut off power** to the HVAC equipment at the breaker panel if you can do so safely (dry hands, dry footing).
-2. **Treat electrical danger as an emergency.** If you see sparking, smell burning, or water is actively entering an outlet/electrical box and you can’t safely shut power off, stay back and **call 911** (or your local emergency number).
-3. **Catch and contain the water immediately.**
-   - Place a bucket/tray under the drip.
-   - Use towels to stop spread; put plastic sheeting under towels to protect floors.
-4. **Protect the building for the next hour.**
-   - Wipe up standing water promptly.
-   - If water is dripping through a ceiling or you see a bulge, keep the area clear beneath it and move valuables away.
-5. **Do two safe checks that don’t involve opening equipment panels:**
-   - Look for an **obvious kink/disconnection** in any visible condensate drain tube (where it runs to a drain/exit), if accessible.
-   - If you have a **standard replaceable return-air filter** in a simple slot (not behind a sealed service panel), check whether it’s extremely dirty and restricting airflow; if so, plan to replace it soon.
-6. **Call the right help.**
-   - **If you rent:** notify your landlord/property manager right away and report “active AC water leak causing potential water damage.”
-   - **If you own:** call a licensed HVAC company. If refrigerant work is needed, technicians typically need EPA Section 608 certification for regulated refrigerants.
-7. **Reduce mold risk by drying promptly.** Increase ventilation and run fans if it’s safe to do so. If carpet/underlay or drywall is soaked, professional drying may be needed to prevent ongoing damage and mold.
-8. **Document the situation.** Take photos/video of the leak path, any damage, and the unit model/serial label (without opening panels). This helps both the technician and any insurance claim.
+1. Turn the system off at the thermostat.
+2. If water is touching or pooling near electrical equipment, outlets, wiring, or the air handler, switch off the affected circuit only if it is clearly identified, or switch off the main power. Do this only from a dry, safely accessible location. Do not enter standing water to reach a breaker panel. If you cannot switch power off safely, stay back and contact an electrician.
+3. If you see smoke, fire, sparking, or an immediate electrical danger, move away and call 911. If you notice a burning odor, switch off power only if it is safe to do so and contact an electrician. If you are unsure whether there is an immediate danger, move away and call 911.
+4. Catch the drip with a bucket or tray if you can do that without approaching wet electrical equipment. Use towels to limit the spread of water and move nearby valuables away.
+5. If water is coming through a ceiling or you see a bulge, keep people and pets clear of the area beneath it.
+6. Check only what is visible without opening a service panel:
+   - Look for an obvious kink or disconnection in an accessible condensate drain tube.
+   - If the system has an easily accessible return-air filter in a simple slot, check whether it is heavily clogged. Follow the manufacturer’s instructions for cleaning or replacement.
+7. Leave the system off until the leak has been addressed or a qualified technician says restarting it is safe.
+8. Arrange the appropriate help:
+   - If you rent, report the active AC water leak to your landlord or property manager promptly.
+   - If you own the property, contact a qualified HVAC technician or company. Work involving the refrigerant circuit may require an EPA Section 608-certified technician.
+9. Dry wet areas promptly once electrical hazards are controlled. Use ventilation or fans only where it is safe. If carpet, padding, drywall, or other porous materials are soaked and cannot be dried promptly, contact a water-damage professional.
+10. Take photos or video of the leak path, visible damage, and the unit label if it is accessible without opening a panel. This may help the technician, landlord, property manager, or insurer understand what happened.
 
 ## What can wait
-- You don’t need to pinpoint the cause right now.
-- You don’t need to disassemble the indoor unit or flush drain lines during a panic.
-- You don’t need to decide on major repairs or replacement today — stop water damage first, then get a proper diagnosis.
+- You don’t need to identify the exact cause right now.
+- You don’t need to open the indoor unit, disassemble parts, or flush a drain line while you are dealing with the leak.
+- You don’t need to decide on a major repair or replacement today.
+- You don’t need to clean up every damp item before electrical safety has been addressed.
 
 ## Important reassurance
-Indoor AC leaks are common and often come from condensate drainage or airflow issues. Turning the system off and preventing water from reaching electricity is the safest first move.
+A leaking indoor AC unit can be unsettling, but the first steps are limited: turn it off, avoid electrical hazards, limit the spread of water, and arrange help. Condensate drainage or airflow problems are possible causes, and a technician can check the system safely.
 
 ## Scope note
-This is first steps only — an HVAC professional may need to inspect the condensate drain/pan, pump (if present), coil condition, airflow, and any refrigerant-related issues.
+These are first steps only. A qualified HVAC technician may need to inspect the condensate drain, drain pan, pump if present, coil condition, airflow, and any refrigerant-related issue.
 
 ## Important note
-This is general information, not professional electrical or HVAC advice. If you can’t safely shut off power or water is contacting electrical equipment, prioritize safety and get urgent professional help.
+This is general information, not electrical, HVAC, insurance, or other professional advice. If water is near electrical equipment and you cannot safely switch power off, keep away from the area and get urgent professional help.
 
 ## Additional Resources
 - https://www.energy.gov/energysaver/air-conditioner-maintenance
 - https://www.energy.gov/energysaver/common-air-conditioner-problems
 - https://www.epa.gov/section608/section-608-technician-certification-requirements
+- https://www.cdc.gov/natural-disasters/response/what-to-do-protect-yourself-from-electrical-hazards.html
 - https://www.cdc.gov/mold-health/about/index.html
 - https://www.epa.gov/mold/brief-guide-mold-moisture-and-your-home

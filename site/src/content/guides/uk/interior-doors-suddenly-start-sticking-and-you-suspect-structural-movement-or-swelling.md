@@ -1,83 +1,116 @@
-﻿---
+---
 title: "What to do if… interior doors suddenly start sticking and you suspect structural movement or swelling"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
-  - interior doors sticking suddenly
-  - door suddenly won’t close
-  - door rubbing frame
-  - door misaligned overnight
-  - multiple doors sticking
-  - house movement signs
-  - structural movement worry
-  - swelling from damp
-  - humidity swelling woodwork
-  - new cracks near doors
-  - uneven floors new
-  - window and door binding
-  - possible subsidence signs
-  - recent leak and swelling
-  - after heavy rain doors stick
-  - after heatwave doors stick
-  - frame twisting concern
-  - rental landlord repairs urgent
-  - homeowner structural concern
-last_reviewed: "2026-03-04"
+  - "interior doors sticking suddenly"
+  - "internal doors sticking suddenly"
+  - "doors suddenly wont close"
+  - "door rubbing frame"
+  - "door frame misaligned"
+  - "multiple doors sticking"
+  - "sticking doors subsidence worry"
+  - "doors swollen from damp"
+  - "doors sticking after rain"
+  - "doors sticking after heatwave"
+  - "what do i do if doors stick"
+  - "what do i do if door wont close"
+  - "what do i do if walls crack"
+  - "what do i do if floors slope"
+  - "help i have sticking doors"
+  - "help i think house moved"
+  - "help i found new cracks"
+  - "help i smell damp"
+  - "my doors are stuck"
+  - "my door frame shifted"
+  - "new cracks near doors"
+  - "diagonal cracks by doors"
+  - "stepped cracks outside wall"
+  - "new gaps around skirting"
+  - "floor feels newly uneven"
+  - "window and door binding"
+  - "ceiling looks sagging"
+  - "wet patch near door"
+  - "subsidence or swelling"
+  - "settlement or subsidence"
+  - "humidity or structural movement"
+  - "leak or house movement"
+  - "subsidance signs doors"
+  - "strucural movement worry"
+last_reviewed: "2026-04-30"
+date_created: "2026-04-30"
 ---
 
 # What to do if… interior doors suddenly start sticking and you suspect structural movement or swelling (UK)
 
 ## Short answer
-Stop forcing the doors and do a quick safety check for major new cracks, sagging ceilings, or signs of a leak. If anything looks unsafe, move people away and escalate as a potential dangerous structure (in **England/Wales**, report to the local council; elsewhere in the UK, contact your local authority and call **999** if there’s immediate danger); otherwise, document what’s changed and contact your buildings insurer (or landlord/freeholder) promptly.
+Stop forcing the doors. Check for immediate danger such as severe new cracking, sagging ceilings, falling material, or an active leak; if anything looks unsafe, move people away and call 999 if anyone is in immediate danger. If there is no immediate danger, document what has changed and contact your buildings insurer, landlord, freeholder, or managing agent promptly.
 
 ## Do not do these things
-- Don’t plane, sand, or “force-fit” doors yet (it can hide a developing structural or moisture problem and may complicate insurance/repairs).
-- Don’t keep slamming or forcing a sticking door (you can damage frames and make it harder to tell what’s changing).
-- Don’t ignore it if it’s sudden and affects several doors/windows or is paired with new cracks, sloping floors, or damp.
-- Don’t go into lofts/voids or work under anything that looks stressed (sagging ceiling, bowed wall, falling debris).
-- Don’t seal up the home completely to “dry it out fast” if damp/mould is possible (trapped moisture can worsen swelling).
+- Don’t plane, sand, trim, or force-fit the door yet; it can hide movement or moisture evidence.
+- Don’t keep slamming or forcing the door, because it can damage the frame and make the change harder to assess.
+- Don’t ignore sudden sticking if several doors or windows are affected, or if it comes with new cracks, sloping floors, damp patches, bulging plaster, or a musty smell.
+- Don’t go into lofts, voids, or rooms below anything that looks stressed, sagging, bowed, cracked, or unstable.
+- Don’t trap moisture by sealing the home completely, and don’t blast heat at one wet or swollen area.
+- Don’t start paid repair work before checking with the responsible person or insurer, unless urgent action is needed to stop active water damage or keep people safe.
 
 ## What to do now
-1. **Make sure you still have a safe exit route.** If the sticking door affects a main escape route, ensure at least one alternative exit opens freely. Keep keys accessible.
-2. **Do a 2–3 minute “safety scan” nearby.** Look for:
-   - a doorframe that looks visibly racked/tilted,
-   - new or fast-growing cracks (especially diagonal/stepped cracks around doors/windows),
-   - new gaps between skirting/architrave and walls,
-   - floors that feel newly sloped or “different,”
-   - water signs: fresh staining, wet patches, musty smell, bulging plaster, dripping, or a nearby leak.
-3. **If you think there’s immediate danger, treat it as a dangerous-structure situation.**
-   - Move people (and pets) away from the affected rooms and below any suspect ceilings.
-   - If there’s risk of collapse or danger to the public, **call 999**.
-   - If it’s serious but not an immediate emergency: in **England/Wales**, report it to your **local council** as a dangerous building/structure. In **Scotland** or **Northern Ireland**, contact your **local authority** (building standards/building control route) for dangerous structure concerns.
-4. **If moisture is likely, limit further swelling/damage (without major repairs).**
-   - If safe and you can identify it: stop the source (e.g., turn off water at the internal stop tap for plumbing leaks).
-   - Ventilate gently (short window opens, extractor fans) and heat normally; avoid blasting heat at one spot.
-5. **Document what changed today (this matters for landlords/insurers/surveyors).**
-   - Take clear photos/videos of: where the door rubs, the frame, any cracks, any damp marks, and a wider shot of the whole wall.
-   - Note the date/time and what else changed (heavy rain, heat, plumbing issue, recent building works, heavy load in loft, etc.).
-   - If you have a ruler/coin, photograph crack widths next to it (don’t widen cracks; just measure).
-6. **Contact the right responsible party promptly.**
-   - **Homeowner:** contact your **buildings insurer** to report a potential structural/damp-related issue and ask what they want you to do next (and what not to do).
-   - **Renter/leaseholder:** report it **in writing** to your landlord/letting agent (and managing agent/freeholder if relevant), include photos, and say it’s a *sudden change affecting doors that may indicate movement or damp*.
-7. **Arrange an appropriate inspection if it’s not clearly “humidity only.”**
-   - If several openings are affected, or you see cracks/sloping/recurring changes, arrange a **chartered surveyor** assessment (often via a RICS surveyor) and follow your insurer’s instructions about using their experts first.
+1. **Make sure you have a safe way out.** If the sticking door affects a main exit route, check that another exit opens freely. Keep keys easy to reach.
+
+2. **Do a short safety scan from a safe place.** Look for:
+   - a doorframe that now looks tilted, twisted, or out of square,
+   - new or expanding cracks, especially diagonal or stepped cracks near doors and windows,
+   - new gaps between skirting, architrave, ceilings, and walls,
+   - a floor that feels newly sloped, dipped, or different underfoot,
+   - signs of water, such as fresh staining, wet patches, dripping, bulging plaster, mould, or a musty smell.
+
+3. **If anything looks dangerous, move away from it.**
+   - Keep people and pets away from the affected room and from rooms below a suspect ceiling.
+   - Call 999 if anyone is in immediate danger, if there is falling material, or if collapse seems possible.
+   - If it looks serious but not immediately life-threatening, report it to the local council or local authority as a dangerous building or dangerous structure. In England and Wales, GOV.UK provides a local council reporting route. In Scotland, dangerous-building concerns are handled through local authority building standards. In Northern Ireland, your local council is usually the first point of contact.
+
+4. **If water or damp may be causing swelling, limit further damage only if it is safe.**
+   - If you can clearly identify a plumbing leak, turn off the water at the internal stop tap if you can do so safely.
+   - Do not force a seized, corroded, or damaged stop tap.
+   - Move small items away from wet areas if it is safe.
+   - Ventilate gently and use normal heating; avoid intense heat aimed at one door or wall.
+
+5. **Record what changed before anything is altered.**
+   - Take clear photos or short videos of where the door rubs, the frame, nearby walls, cracks, damp marks, and the whole affected wall.
+   - Note the date and time you first noticed it.
+   - Write down recent triggers, such as heavy rain, a heatwave, plumbing work, a leak, nearby building work, or a heavy load recently placed above or near the area.
+   - If there is a crack, photograph it with a ruler or coin beside it without widening or picking at it.
+
+6. **Contact the responsible person promptly.**
+   - **Homeowner:** contact your buildings insurer, describe it as a sudden change affecting doors and possible movement or damp, and ask what they want you to do before arranging repairs or inspections.
+   - **Renter:** report it in writing to your landlord or letting agent straight away, include photos, and say whether there are damp signs, cracks, unsafe areas, or blocked escape routes.
+   - **Leaseholder:** contact the managing agent or freeholder as well as your insurer if the affected structure, shared parts, or external walls may be involved.
+
+7. **Arrange assessment if it is not clearly a short-term humidity issue.**
+   - If several doors or windows are sticking, cracks are new or widening, floors feel different, or damp keeps returning, ask the insurer, landlord, freeholder, or managing agent what inspection they will arrange.
+   - If you are arranging your own assessment, consider a RICS chartered surveyor or another suitably qualified building professional.
 
 ## What can wait
-- You don’t need to decide today whether it’s subsidence, normal settlement, poor joinery, or humidity swelling.
-- You don’t need to book repairs immediately unless there’s active water damage or a safety risk.
-- You don’t need to “fix” the door to prove the problem—photos and a short log are enough for now.
+- You do not need to decide today whether it is subsidence, settlement, humidity swelling, poor joinery, or a leak.
+- You do not need to fix the door today unless it blocks a safe exit or urgent access.
+- You do not need to book permanent repairs before the cause is checked.
+- You do not need a perfect record; clear photos, a date, and a short note of what changed are enough for now.
 
 ## Important reassurance
-Doors can stick suddenly for non-structural reasons (humidity changes, minor swelling, or a local leak). Taking a brief pause, avoiding DIY alterations, and documenting what you see keeps you safer and makes professional assessment clearer.
+Sticking internal doors can happen for non-structural reasons, including humidity changes, timber swelling, or a local leak. Pausing before cutting or forcing the door helps keep people safer and preserves useful evidence for the person who needs to assess it.
 
 ## Scope note
-This is first-step guidance for the next few hours to keep you safe, avoid masking the cause, and create a clean record for an insurer/landlord/surveyor. Later diagnosis and repairs depend on what’s driving the change.
+These are first steps only, intended to help you stay safe, avoid masking the cause, and create a clear record for an insurer, landlord, freeholder, managing agent, surveyor, or local authority. Later decisions about diagnosis, liability, repairs, or insurance claims may need specialist help.
 
 ## Important note
-This is general information, not engineering or legal advice. If you think anyone is at risk (collapse, falling masonry, severe cracking, electrical hazards from water), prioritise getting to a safer place and contacting emergency services/local authorities.
+This is general information, not engineering, legal, insurance, surveying, medical, financial, therapeutic, or other professional advice. If you think anyone is at risk from collapse, falling material, unsafe electrics, severe water damage, or blocked escape routes, prioritise getting to a safer place and contacting emergency services or the relevant local authority.
 
 ## Additional Resources
 - https://www.gov.uk/report-dangerous-building-structure
+- https://www.gov.scot/publications/scottish-building-standards-enforcement-handbook-first-edition/pages/7/
+- https://www.nidirect.gov.uk/articles/dangerous-or-derelict-properties
 - https://www.rics.org/consumer-guides/subsidence
-- https://www.rics.org/content/dam/ricsglobal/documents/consumer-guides/rics-consumer-guide-subsidence.pdf
 - https://www.financial-ombudsman.org.uk/consumers/complaints-can-help/insurance/home-insurance/subsidence-types-ground-movement
+- https://www.watersafe.org.uk/advice/general_plumbing_advice/winter_advice/locate-internal-stop-tap/
+- https://www.gov.uk/private-renting/repairs
+- https://www.gov.uk/government/publications/damp-and-mould-understanding-and-addressing-the-health-risks-for-rented-housing-providers/understanding-and-addressing-the-health-risks-of-damp-and-mould-in-the-home--2

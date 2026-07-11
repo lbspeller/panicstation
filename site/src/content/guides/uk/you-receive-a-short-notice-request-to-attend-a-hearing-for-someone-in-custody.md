@@ -1,89 +1,108 @@
-﻿---
+---
 title: "What to do if… you receive a short-notice request to attend a hearing for someone in custody"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
-  - short notice court hearing
-  - last minute hearing request
-  - asked to attend court today
-  - hearing for someone in custody
-  - remand hearing attendance
-  - bail hearing attendance
-  - magistrates court hearing notice
-  - crown court hearing notice
-  - custody court appearance
-  - urgent court attendance
-  - suspicious hearing message
-  - verify court hearing details
-  - being asked to be in court
-  - witness summons received late
-  - witness warning confusion
-  - court order to attend
-  - support person at court
-  - family member in custody hearing
-  - prison court hearing request
-  - police custody hearing request
-  - court list hearing time check
-last_reviewed: "2026-03-06"
+  - "short-notice hearing request"
+  - "last minute hearing request"
+  - "urgent custody hearing request"
+  - "hearing for someone in custody"
+  - "court hearing for custody"
+  - "remand hearing request"
+  - "bail hearing request"
+  - "family custody hearing request"
+  - "solicitor hearing request"
+  - "prison hearing request"
+  - "what do i do if court text"
+  - "what do i do if hearing today"
+  - "what do i do if custody hearing"
+  - "what do i do if short notice"
+  - "help i got a court message"
+  - "help i have court today"
+  - "help i was asked to attend court"
+  - "my relative is in custody"
+  - "my friend has a hearing"
+  - "my partner is in custody"
+  - "message says attend court today"
+  - "court call feels suspicious"
+  - "hearing details are unclear"
+  - "court time keeps changing"
+  - "custody location unknown"
+  - "witness summons confusion"
+  - "witness warning confusion"
+  - "support person at court"
+  - "court order confusion"
+  - "magistrates court hearing"
+  - "custordy hearing request"
+  - "court hearring request"
+  - "uk custody hearing request"
+last_reviewed: "2026-05-18"
+date_created: "2026-05-18"
 ---
 
 # What to do if… you receive a short-notice request to attend a hearing for someone in custody (UK)
+
 ## Short answer
-Pause and verify the request directly with the court (or the person’s solicitor) using official contact details before you travel or share any information.
+Pause and verify the request directly with the court or the person’s solicitor using contact details you find yourself from an official source. Do this before you travel, send money, share documents, or pass on custody details.
 
 ## Do not do these things
-- Don’t assume a text/WhatsApp/phone call is genuine just because it sounds “official”.
-- Don’t forward the message, case details, or custody location to other people “to ask around”.
-- Don’t share photos/screenshots of court papers in group chats (they can contain personal data).
-- Don’t turn up with lots of bags or items—court security screening is routine and rules vary by building.
-- Don’t argue with security or staff if you’re delayed; instead, contact the court/solicitor promptly.
-- Don’t contact witnesses/victims (or anyone you’ve been told not to contact) “to help” or “clear things up”.
+- Don’t assume a text, WhatsApp message, email, or phone call is genuine just because it sounds official.
+- Don’t use a phone number or link from a rushed message until you have checked it against an official court source.
+- Don’t send money, bank details, identity documents, or case papers because someone says the hearing will fail without them.
+- Don’t forward the message, case details, custody location, or screenshots into group chats.
+- Don’t contact witnesses, victims, complainants, co-defendants, or anyone you have been told not to contact.
+- Don’t agree to act as a bail surety or offer money before a solicitor or the court has explained what it may mean for you.
+- Don’t take lots of bags or unnecessary items to court; security checks are routine and some items may not be allowed.
+- Don’t argue with court security or staff if you are delayed; contact the court office or solicitor instead.
 
 ## What to do now
-1. **Identify what kind of request this is (in 60 seconds).**
-   - Is it an **official court notice**, a **call from a solicitor**, a **message from family**, or something unclear?
-   - If it’s unclear, rushed, or “off”: treat it as **unverified** until confirmed.
+1. **Work out what you have received.**
+   - Check whether it is an official court notice, a call from a solicitor, a message from family, or something unclear.
+   - If it is unclear, rushed, threatening, or asks for money, treat it as unverified until checked.
 
-2. **Verify the hearing using the right official route for where you are in the UK.**
-   - **England & Wales:** use the HM Courts & Tribunals Service court finder to get the court’s official phone number, then call to confirm the hearing details.
-   - **Scotland:** use Scottish Courts & Tribunals Service “Find us” to get the court’s official contact details, then call to confirm.
-   - **Northern Ireland:** use Northern Ireland Courts & Tribunals Service (NICTS) official contact details (or its public court lists) to confirm.
-   - Ask for: **court name/location, time/date, case reference (if any), and whether you are expected to do anything** (attend, give evidence, provide documents, or simply observe).
+2. **Find the correct court contact details yourself.**
+   - For England and Wales, use the official GOV.UK court finder or Find a Court or Tribunal service.
+   - For Scotland, use the Scottish Courts and Tribunals Service court location and contact pages.
+   - For Northern Ireland, use Northern Ireland Courts and Tribunals Service contact details or official court information pages.
+   - Do not rely only on an online hearing list if the request is urgent or unclear; call the court office or ask the solicitor.
 
-3. **Confirm whether you are required to attend, or only allowed to attend.**
-   - If you’ve been **ordered to attend** (for example, as a witness), ask the court what the document is (for example, **witness summons / court order**) and what to do if the notice is too short.
-   - If you’re going as a **supporter/family member**, ask whether the hearing is **open to the public** or has **restrictions** (some hearings are private or have reporting/attendance limits).
+3. **Ask the court or solicitor to confirm the basics.**
+   - Ask for the court name, building address, hearing date, hearing time, case reference if there is one, and the courtroom or list if known.
+   - Ask whether the person is definitely in custody and whether the hearing is in person, remote, or partly remote.
+   - Ask whether you are required to attend, allowed to attend, or simply being invited as support.
 
-4. **If you can, contact the person’s solicitor (or ask the court staff how to reach the duty solicitor route for that hearing).**
-   - Ask what your role is meant to be: **witness, character/support, bail surety, interpreter, or just presence**.
-   - If someone asks you to be a **bail surety**, do not agree immediately—ask the solicitor what the court will expect from you and what it could mean for you.
+4. **Check what your role is meant to be.**
+   - If you are said to be a witness, ask whether there is a witness summons, court order, warning, or other formal document, and what it requires.
+   - If you are going as a family member or supporter, ask whether the hearing is open to the public and whether there are any attendance or reporting restrictions.
+   - If someone says you are needed as a bail surety, ask the solicitor or court what commitment, money, address checks, or responsibilities may be involved before you agree.
 
-5. **If you decide to go, set yourself up to get in and find the right place quickly.**
-   - Take **photo ID** if you have it, and the **verified** details (court name, time, case reference if available).
-   - Arrive early for **security screening** and locating the courtroom.
-   - Bring only what you need: **ID, phone, charger, and any document the court/solicitor specifically asked for**.
+5. **If you are going, prepare only what helps you get in and find the hearing.**
+   - Take photo ID if you have it.
+   - Take the verified court details, the case reference if you have one, and the solicitor’s name or firm if known.
+   - Bring only essentials such as your phone, charger, medication, and any document the court or solicitor specifically asked for.
+   - Allow extra time for court security and finding the right room.
 
-6. **If you cannot attend, notify the right place quickly (don’t just “no-show”).**
-   - If you were **formally required** to attend, contact the **court immediately** using the official number and explain you received short notice and cannot attend.
-   - If you’re **not required** (supporter/family), tell the **solicitor** you cannot make it, so they can manage expectations.
+6. **If you cannot attend, tell the right person quickly.**
+   - If you have been formally required to attend, contact the court immediately using an official number and explain that you received short notice and cannot attend.
+   - If you are not formally required and were going as support, tell the solicitor or the person who verified the hearing, so they know not to expect you.
 
-7. **If the request smells like a scam, treat it as one until proven otherwise.**
-   - Red flags: demands for money, pressure to act in minutes, refusal to name a court, or links to unfamiliar sites.
-   - Safe action: **end the call**, find the court contact details independently, and verify.
+7. **If the request may be a scam, stop the contact and verify independently.**
+   - Red flags include pressure to act within minutes, demands for payment, refusal to name the court, unfamiliar links, or instructions not to call the court.
+   - End the call or stop replying, find the court’s official contact details yourself, and check before doing anything else.
 
 ## What can wait
-- You do not need to decide right now what you “think of the case” or what the outcome should be.
-- You do not need to write a statement, gather letters, or bring documents unless a solicitor/court specifically instructs you to.
-- You do not need to contact multiple agencies at once—**start by verifying the hearing with the court**, then speak to the solicitor.
+- You do not need to decide what you think of the case, what should happen, or whether the person is guilty or innocent right now.
+- You do not need to write a statement, gather character letters, contact other people, or bring documents unless the court or solicitor specifically asks.
+- You do not need to contact several agencies at once; first verify the hearing, then speak to the solicitor if there is one.
 
 ## Important reassurance
-Short-notice messages about custody hearings can feel urgent and intimidating. Taking a few minutes to verify details is a protective step that prevents scams, wrong-venue mistakes, and avoidable stress.
+Short-notice messages about custody hearings can feel urgent and intimidating. Taking a few minutes to check the source is a sensible protective step, not a delay or a failure to help.
 
 ## Scope note
-This is first-steps-only guidance for handling a sudden request. Anything about what to say in court, legal strategy, bail packages, or evidence should be handled with the person’s solicitor.
+These are first steps only for handling a sudden request to attend or respond. Decisions about evidence, bail, surety arrangements, what to say in court, or legal strategy may need the person’s solicitor or another qualified legal adviser.
 
 ## Important note
-This is general information, not legal advice. Court processes vary across the UK and by case type, and some hearings have special rules (including restrictions on attendance or reporting). When in doubt, confirm directly with the relevant court and/or the person’s solicitor.
+This is general information, not legal advice. Court processes vary across the UK and by case type, and some hearings have special rules about attendance, privacy, or reporting. When in doubt, confirm directly with the relevant court or the person’s solicitor.
 
 ## Additional Resources
 - https://www.gov.uk/find-court-tribunal

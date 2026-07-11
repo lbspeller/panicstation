@@ -1,85 +1,112 @@
-﻿---
+---
 title: "What to do if… an airline or border app requires a face scan and your phone camera is not working"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
-  - phone camera not working
-  - airline app face scan
-  - travel app face scan
-  - selfie check-in failed
-  - camera broken at airport
-  - can't take selfie for travel
-  - biometric check failed
-  - face scan required to board
-  - check-in verification stuck
-  - boarding pass app not working
-  - document check app failed
-  - last minute travel tech issue
-  - phone permissions camera issue
-  - front camera not working
-  - back camera not working
-  - uk border egates not working
-  - passport control manual check
-  - uk eta app face scan
-  - ukvi id check app face scan
-last_reviewed: "2026-03-07"
+  - "airline app face scan"
+  - "airline face scan failed"
+  - "airline camera check failed"
+  - "border app face scan"
+  - "border face scan failed"
+  - "phone camera not working"
+  - "phone camera broken"
+  - "front camera not working"
+  - "selfie camera not working"
+  - "app needs face scan"
+  - "what do i do if airline app fails"
+  - "what do i do if border app fails"
+  - "what do i do if phone camera breaks"
+  - "what do i do if face scan fails"
+  - "help i cannot scan my face"
+  - "help i cannot check in"
+  - "help i am stuck at airport"
+  - "help i have no boarding pass"
+  - "my airline app is stuck"
+  - "my border app is stuck"
+  - "my phone camera failed"
+  - "my face scan keeps failing"
+  - "live scan will not start"
+  - "camera permission blocked"
+  - "selfie check stuck"
+  - "boarding pass missing"
+  - "document check failed"
+  - "biometric check failed"
+  - "uk eta face scan problem"
+  - "uk immigration id check problem"
+  - "camra not working"
+  - "passprt app problem"
+last_reviewed: "2026-04-29"
+date_created: "2026-04-29"
 ---
 
 # What to do if… an airline or border app requires a face scan and your phone camera is not working (UK)
 
 ## Short answer
-Switch immediately to a staffed, manual route: the airline check-in desk (for boarding) and staffed UK passport control (Border Force officer) if eGates/automation cannot be used.
+Stop trying to force the scan if time is running out. Move to a staffed airline, airport, or border route and ask for a manual document check or another official way to complete the identity check.
 
 ## Do not do these things
-- Do not miss check-in/boarding cutoffs by waiting in a queue trying to “make the camera work”.
-- Do not hand your unlocked phone to strangers offering to “help” with the scan.
-- Do not try to spoof a live scan with a photo/video or use someone else’s identity.
-- Do not factory reset, wipe the phone, or do risky updates if you have no backup and you need tickets, banking, or contacts right now.
-- Do not argue with frontline staff about the app—move to the manual process and keep time on your side.
+- Do not miss check-in, bag drop, security, or boarding cutoffs by staying in the app for too long.
+- Do not hand an unlocked phone or passport images to strangers offering to help.
+- Do not try to spoof a live scan with a photo, video, or someone else’s identity.
+- Do not factory reset, wipe, or run a risky phone update if you still need tickets, payments, banking, maps, or contacts.
+- Do not argue about the app at the desk; calmly ask for the next manual or official route.
 
 ## What to do now
-1. **Save what you already have, then move to the manual option.**
-   - If you can, **screenshot/save** your booking reference, e-ticket email, and any in-app trip details you can still view (even without the camera).
-   - **For boarding:** go straight to the airline’s **check-in desk / customer service / gate staff** and say: *“The app requires a live face scan but my camera has failed. I need a manual document check and a boarding pass.”*
+1. **Keep proof of the booking visible.**
+   - Save or screenshot your booking reference, e-ticket, airline email, payment receipt, and any trip details the app still shows.
+   - Keep your passport or travel document in your hand luggage, not in checked baggage.
 
-2. **If the issue is about arrival processing in the UK, use the staffed route.**
-   - If **eGates do not work** (or you cannot use them), follow signs for **staffed passport control** and present your passport to a **Border Force officer**. This is the normal fallback when automated checks are not available for you.
+2. **For boarding, go to airline staff now.**
+   - Go to the airline check-in desk, customer service desk, bag drop desk, or gate staff.
+   - Say: “The app requires a live face scan but my phone camera has failed. I need a manual document check and a boarding pass or another way to complete check-in.”
+   - Ask staff to note that you presented yourself before the cutoff if time is close.
 
-3. **Do a 90-second “safe fix” attempt only if it won’t cost you your place/time.**
+3. **For UK arrival, use the staffed border route if automation fails.**
+   - If an eGate or automated check cannot process you, follow signs or staff instructions to speak to a Border Force officer.
+   - Present your passport and answer only what you are asked.
+   - If the issue is a digital permission such as an ETA or eVisa, tell the officer or airline staff that the app could not complete because the camera failed.
+
+4. **Try one short, safe camera fix only if it will not cost you time.**
    - Restart the phone.
-   - Check the app has **Camera permission** and no camera-blocking privacy setting is enabled.
-   - Try the **other camera** (front/back) if the app allows.
-   - Close other apps that might be using the camera (video calls, QR scanners).
-   If it still fails, stop troubleshooting and stay on the manual path.
+   - Check that the app has camera permission in phone settings.
+   - Close other apps that may be using the camera, such as video calls or QR scanners.
+   - Try the front or back camera if the app gives that option.
+   - If it still fails, stop troubleshooting and stay with the staffed route.
 
-4. **If the face scan is for a UK government application you can do online (not at the airport), switch channel/device.**
-   - **UK ETA:** you can apply **online or via the UK ETA app**. If your phone camera is failing, use **another compatible device you trust** and follow the official prompts for photos.
-   - **UK Immigration: ID Check / GOV.UK ID Check apps:** if you cannot complete the face scan on your device, use the official guidance/support routes for alternatives or next steps.
+5. **If this is for a UK government identity app away from the airport, switch to an official alternative.**
+   - For a UK ETA, use the online application route if the app cannot use your camera.
+   - For the UK Immigration: ID Check app, use the official help route shown in the guidance if scanning or the face check will not work.
+   - For GOV.UK One Login or GOV.UK ID Check identity checks, return to the government service you were using and look for another way to prove your identity, or use the official contact route.
 
-5. **If someone pressures you to “just use their phone,” protect your identity.**
-   - Prefer a device you fully control.
-   - If you must use a **trusted companion’s** phone, do it with them present, log out afterwards, and avoid leaving passport/ID images stored on their device.
+6. **Use another device only if you trust it.**
+   - Prefer a device you control.
+   - If you use a trusted companion’s phone, stay present, log out afterwards, and check that passport, face, or identity images are not left in their photos, files, downloads, or app account.
 
-6. **If you’re close to a cutoff, escalate quickly (calmly).**
-   - Ask for a **supervisor** and repeat the simple problem: *camera failed → app cannot complete live scan → need manual document check or alternative channel.*
+7. **Escalate calmly if a cutoff is close.**
+   - Ask for a supervisor.
+   - Repeat the same short sentence: “My camera has failed, so I cannot complete the live face scan. I need the manual document check or official alternative route.”
 
 ## What can wait
-- You do not need to diagnose whether this is a hardware failure, app bug, or settings problem right now.
-- You do not need to replace your phone today unless you are stranded without essential access (payments, contacts, tickets).
-- You do not need to make complaints at the airport—get through the journey first.
+- You do not need to work out whether this is a hardware fault, app bug, lighting issue, or settings problem right now.
+- You do not need to replace the phone at the airport unless you cannot access essentials such as tickets, payment, contacts, or accommodation.
+- You do not need to make a complaint while you are still trying to travel.
+- You do not need to decide future phone repairs, insurance claims, or data backups before the immediate travel problem is stable.
 
 ## Important reassurance
-This is a common failure mode in modern travel: apps, cameras, lighting, and biometrics can misbehave. Airlines and the UK border keep staffed/manual processes because automated routes do not work for everyone every time.
+This kind of failure can happen because travel apps, cameras, lighting, phone permissions, and biometric checks do not work perfectly every time. Staffed checks and official alternative routes exist because automated checks cannot process everyone in every situation.
 
 ## Scope note
-These are first steps to get you boarded / processed and to reduce the chance of an avoidable refusal or missed flight. After you’re safe and stable, you can sort the phone, backups, and any follow-up.
+These are first steps to help you avoid a missed flight, delay, or avoidable escalation. Later decisions about complaints, refunds, entry requirements, repairs, or immigration status may need specialist help.
 
 ## Important note
-This is general, practical information—not legal advice. Airline acceptance and border decisions can depend on your route, documents, nationality, and current rules. If you are unsure you meet entry requirements, use the staffed/manual route and ask what they need from you.
+This is general practical information, not legal, immigration, financial, technical, or professional advice. Airline acceptance and border decisions can depend on your route, documents, nationality, booking, and current rules.
 
 ## Additional Resources
 - https://www.gov.uk/eta/apply
 - https://www.gov.uk/guidance/using-the-uk-eta-app
-- https://www.gov.uk/government/publications/coming-to-the-uk/reasons-you-may-not-get-through-epassport-gates-egates
+- https://www.gov.uk/government/publications/getting-through-the-uk-border-faster/reasons-you-may-not-get-through-epassport-gates-egates
 - https://www.gov.uk/guidance/using-the-uk-immigration-id-check-app
 - https://www.gov.uk/guidance/using-the-govuk-id-check-app
+- https://www.gov.uk/using-your-gov-uk-one-login
+- https://www.caa.co.uk/air-passengers/about-your-trip/at-the-airport/
+- https://www.gov.uk/government/publications/air-passenger-travel-guide/air-passenger-travel-guide

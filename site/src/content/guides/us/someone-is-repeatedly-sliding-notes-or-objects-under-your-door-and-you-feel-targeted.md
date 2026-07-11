@@ -1,76 +1,90 @@
-﻿---
+---
 title: "What to do if… someone is repeatedly sliding notes or objects under your door and you feel targeted"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
-  - notes under my door
-  - objects under my door
-  - someone sliding notes
-  - repeated door harassment
-  - feeling targeted at home
-  - intimidation at my door
-  - anonymous notes at door
-  - unwanted contact at home
-  - apartment hallway harassment
-  - neighbour harassment apartment
-  - being watched at my door
-  - stranger leaving items
-  - stalking behaviour at home
-  - repeated unwanted contact
-  - threatening notes at home
-  - safety in my apartment
-  - unknown person outside door
-  - harassment at my address
-  - door area intimidation
-last_reviewed: "2026-01-17"
+  - "notes under my door"
+  - "objects under my door"
+  - "someone sliding notes under door"
+  - "repeated notes at my door"
+  - "repeated objects at my door"
+  - "anonymous notes under my door"
+  - "unwanted items under my door"
+  - "doorway harassment at home"
+  - "feeling targeted at home"
+  - "what do i do if notes keep appearing under my door"
+  - "what do i do if someone leaves objects under my door"
+  - "what do i do if i feel targeted at my apartment door"
+  - "what do i do if anonymous notes keep appearing"
+  - "help i keep finding notes under my door"
+  - "help i feel unsafe at my door"
+  - "help i think someone is targeting my apartment"
+  - "help i keep finding objects outside my door"
+  - "my door keeps getting anonymous notes"
+  - "my apartment door has unwanted objects"
+  - "my doorway keeps being targeted"
+  - "my neighbor keeps leaving notes"
+  - "unknown person near my door"
+  - "repeated footsteps outside my door"
+  - "repeated knocking at my door"
+  - "items appearing near my doorway"
+  - "notes appearing when i am home"
+  - "door notes are a prank"
+  - "neighbor dispute at my door"
+  - "stalking or repeated unwanted contact"
+  - "anonymous message feels threatening"
+  - "apartment hallway harassment"
+  - "rental building doorway harassment"
+  - "notes under apartment door"
+  - "objects outside apartment door"
+  - "anonymus notes under door"
+  - "harrasment at apartment door"
+last_reviewed: "2026-06-05"
+date_created: "2026-06-05"
 ---
 
 # What to do if… someone is repeatedly sliding notes or objects under your door and you feel targeted (USA)
 
 ## Short answer
-Stay behind your locked door and start documenting every incident. If you believe you need immediate help from police, fire, or medical services, call 911; otherwise contact your local police department’s non-emergency line to report the pattern.
+Stay behind your locked door and move away from the doorway. Call 911 if someone is trying to enter, threatening you, you reasonably suspect an item may be hazardous, or you otherwise need immediate police, fire, or medical help.
 
 ## Do not do these things
-- Do not open the door to confront them or try to “catch” them.
-- Do not step into the hallway/stairwell to search for the person.
-- Do not respond to the notes or leave messages back.
-- Do not throw items away or wipe the area before you document it.
-- Do not share details publicly in a way that could escalate (including building group chats).
-- Do not downplay it just because each individual incident seems “small”—the repetition is important.
+- Do not open the door to confront whoever may be outside or try to catch them.
+- Do not step into the hallway or stairwell to search for someone while you feel unsafe.
+- Do not touch, move, or open an item that you reasonably suspect may be hazardous.
+- Avoid replying to a note while you are frightened or angry. Ask a victim advocate for guidance if you are considering contact.
+- Do not post identifying details publicly or send messages that could escalate the situation.
+- Do not discard notes or ordinary objects that appear safe to retain. Keep a record even when each incident appears minor because a repeated pattern may matter.
 
 ## What to do now
-1. **Get to a safer pause and secure your space.** Lock your door; if you have a chain or secondary lock, use it. Move away from the doorway while you decide what to do next.
-2. **If you feel unsafe right now, call 911.** Use 911 for emergencies (for example, someone is outside your door, trying the handle, threatening you, or you fear immediate harm).
-3. **Document each incident immediately.** Take photos of what was left and where it was found, then write down: date, time, what was left, and anything you heard/saw (footsteps, knocks, voices).
-4. **Save the items together.** Put the notes/objects in a clean envelope or bag, label it with date/time found, and store it somewhere safe. Keep a single folder (paper or digital) for everything.
-5. **Contact your building management/landlord promptly (in writing if you can).** Ask them to:  
-   - create an incident report for your unit  
-   - check who has access to the building/floor  
-   - **preserve security camera footage** for the relevant times (footage may be overwritten on a short cycle)  
-   - tell you what immediate steps they can take (lighting fixes, entry-door repairs, access control)
-6. **Report the pattern to local law enforcement (non-emergency).** Call your police department’s **non-emergency number** (or file an online report if your city offers it). If you don’t know it, search “[your city/county] police non-emergency” or check your city/police website. Ask for a **case/incident number** and tell them you have dated photos and saved items.
-7. **Create a quick safety check-in plan for today.** Tell one trusted person what’s happening and arrange a check-in time. If you need to leave your apartment, consider asking a neighbor/friend to walk with you to/from the door.
-8. **Reduce opportunity without escalating.** Practical, low-conflict steps: ensure hallway lights work, ask management to fix broken entry doors, and consider a door sweep/brush strip if there’s a large gap under the door (only if allowed by your lease/building rules and it does not create a safety hazard).
+1. **Get to a safer pause.** Lock your door. Use an existing secondary lock if you have one. Move away from the doorway and keep your phone with you.
+2. **Call 911 if you need immediate help.** Call if someone is trying to enter, threatening you, or you reasonably suspect an item may be hazardous. Leave a potentially hazardous item alone and move away from it if you can do so safely.
+3. **Document the incident when it is safe to do so.** Take a photo from a safe position. Write down the date, time, what appeared, where it was found, and anything you heard or saw. Record observed facts rather than guesses about who was responsible.
+4. **Retain an ordinary note or object only when it appears safe and practical to do so.** If you are unsure whether an item is safe to handle, leave it alone and ask local law enforcement what to do.
+5. **Contact your building manager or landlord promptly.** Use writing if you can. Ask them to record the incident, check whether entry doors or hallway lighting need attention, and preserve relevant security-camera footage if it is available.
+6. **Report the observable pattern to local law enforcement.** For a non-emergency, look up the official website for the local law-enforcement agency where the incidents occurred. Ask whether the agency accepts a phone or online report and ask for an incident or case number if a report is taken.
+7. **Tell one trusted person what is happening today.** Arrange a check-in. If you need to leave your apartment and feel uneasy, ask a trusted person to accompany you or meet you at the door.
+8. **Keep one simple incident record.** Add each new note, object, date, time, photo, management response, and report number to the same paper or digital folder.
 
 ## What can wait
-- You do **not** have to identify the person or figure out their motive right now.
-- You do **not** need to confront neighbors or run your own investigation.
-- You do **not** need to make major life decisions today (moving, changing routines drastically, etc.).
-- Longer legal steps (like protective/restraining orders) can wait until you have an incident number and you’ve talked to local law enforcement or an advocate about your options in your state.
+- You do not have to identify the person or work out their motive right now.
+- You do not need to confront neighbors or conduct your own investigation.
+- You do not need to decide today whether to move or make major changes to your routine.
+- You do not need to decide on legal steps immediately. A local victim advocate can explain options that may be available in your state.
 
 ## Important reassurance
-It’s reasonable to feel rattled when something keeps happening at your own door. Taking early, calm steps—documenting, reporting, and getting building management involved—helps you regain control without escalating the situation.
+Repeated unwanted notes or objects at your door can feel unsettling. You can take observable incidents seriously without confronting anyone or solving everything today.
 
 ## Scope note
-This is first-steps-only guidance to stabilise the situation and reduce harm. If the behavior continues or escalates, you may need more tailored guidance from local law enforcement, your housing provider, or a victim advocate.
+These are first steps only to stabilize the situation and reduce harm. Later decisions may need support from local law enforcement, your housing provider, or a victim advocate.
 
 ## Important note
-This guide is general information, not legal advice. If you believe you are in immediate danger or need immediate help, call 911. Definitions and processes vary by state and city; local law enforcement or a victim advocate can explain your options based on where you live.
+This guide is general information, not legal, medical, therapeutic, or other professional advice. Processes and options vary by state and locality. If you believe you need immediate police, fire, or medical help, call 911.
 
 ## Additional Resources
-- https://www.911.gov/calling-911
-- https://www.fcc.gov/general/9-1-1-and-e9-1-1-services
-- https://www.nena.org/page/911tipsguidelines
+- https://www.911.gov/calling-911/
+- https://www.usa.gov/report-crime
 - https://ovc.ojp.gov/topics/stalking
-- https://victimsofcrime.org/
-- https://www.thehotline.org/resources/stalking-safety-planning/
+- https://www.stalkingawareness.org/what-to-do-if-you-are-being-stalked/
+- https://www.stalkingawareness.org/wp-content/uploads/2018/07/SPARC_StalkingLogInstructions_2018_FINAL.pdf
+- https://victimconnect.org/get-help/

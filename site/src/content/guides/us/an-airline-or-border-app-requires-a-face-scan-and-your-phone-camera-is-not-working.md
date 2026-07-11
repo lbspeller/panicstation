@@ -1,82 +1,101 @@
-﻿---
+---
 title: "What to do if… an airline or border app requires a face scan and your phone camera is not working"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
-  - phone camera not working
-  - airline app face scan
-  - border app face scan
-  - selfie verification failed
-  - camera broken at airport
-  - can't take selfie for travel
-  - biometric check failed
-  - mobile passport control selfie required
-  - cbp mpc photo submission failed
-  - global entry facial recognition issue
-  - check-in app not working
-  - boarding pass app failure
-  - identity verification app stuck
-  - last minute travel tech issue
-  - airport check-in fallback
-  - phone permissions camera issue
-  - front camera not working
-  - back camera not working
-  - passport control manual inspection
-last_reviewed: "2026-03-07"
+  - "airline app face scan required"
+  - "border app face scan required"
+  - "phone camera not working"
+  - "camera broken at airport"
+  - "travel face scan not working"
+  - "selfie verification failed"
+  - "biometric check failed"
+  - "passport app photo failed"
+  - "what do i do if camera breaks"
+  - "what do i do if face scan fails"
+  - "what do i do if selfie fails"
+  - "what do i do if travel app freezes"
+  - "help i cannot scan my face"
+  - "help i cannot use my camera"
+  - "my airline app camera is broken"
+  - "my border app selfie keeps failing"
+  - "front camera not working"
+  - "back camera not working"
+  - "camera permission blocked"
+  - "live selfie will not submit"
+  - "face scan screen stuck"
+  - "boarding pass locked in app"
+  - "mobile passport selfie not working"
+  - "global entry app selfie failed"
+  - "airport facial scan phone issue"
+  - "travel verification camera error"
+  - "at airport with broken camera"
+  - "before boarding with camera failure"
+  - "returning to usa camera broken"
+  - "international arrival selfie failed"
+  - "selfy verification failed"
+  - "camra not working at airport"
+last_reviewed: "2026-06-03"
+date_created: "2026-06-03"
 ---
 
 # What to do if… an airline or border app requires a face scan and your phone camera is not working (USA)
 
 ## Short answer
-Stop trying to “debug it in the line” and switch to a staffed/manual route: airline counter or gate agent for boarding, and a CBP officer lane for entry.
+Stop repeated attempts before they cost more time. Ask airline staff for the available non-app route for boarding; for U.S. entry, follow on-site arrival-processing signs or ask CBP staff where to go, and explain that the app photo step is unavailable.
 
 ## Do not do these things
-- Do not keep refreshing the app until you miss check-in or boarding cutoffs.
-- Do not give your unlocked phone to strangers offering to take your face scan.
-- Do not attempt to spoof a live scan with a photo/video or use someone else’s identity.
-- Do not factory reset or wipe the phone if you rely on it for tickets, boarding passes, banking, or contact info.
-- Do not assume you can do a required photo step “later” if the app needs it before boarding or at a specific stage.
+- Do not keep retrying the app while a check-in, bag-drop, or boarding deadline is getting closer.
+- Do not give your unlocked phone, passport, or account login to a stranger offering to fix the problem.
+- Do not try to spoof a live scan with a photo or video or use someone else’s identity.
+- Do not factory-reset or wipe the phone while you still rely on it for trip details, tickets, payment, or contact information.
+- Do not assume that an airline app, a CBP mobile app, and an airport facial-comparison camera use the same process.
 
 ## What to do now
-1. **Save what you already have, then switch to staffed help.**
-   - If you can, **screenshot/save** your record locator, e-ticket email, and any trip details you can still view.
-   - **For boarding:** go to the airline’s **check-in counter / customer service desk / gate agent** and say: *“The app requires a live face scan but my camera is not working. I need a manual ID check and a boarding pass.”*
+1. **Save the details you can still access and go to staffed help.**
+   - Save or write down your airline, flight number, booking reference, and destination.
+   - For boarding, go to the airline counter, customer-service desk, or gate agent and say: *“The app requires a face scan, but my phone camera is not working. What non-app check-in or boarding-pass route is available?”*
 
-2. **If you were planning to use Mobile Passport Control (MPC), expect that you may not be able to use it today.**
-   - CBP’s MPC flow includes **taking a self-photo** in the app as part of the submission. If your camera can’t do that, proceed via the **regular CBP inspection** rather than losing time repeatedly failing the app.
+2. **If Mobile Passport Control is failing, stop retrying after a brief attempt.**
+   - The Mobile Passport Control app includes a photo step as part of the submission.
+   - If you cannot complete the app submission, follow the on-site signs for arrival processing or ask CBP staff where to go. Tell them that you need the non-app route.
 
-3. **If you have Global Entry, follow the on-site process; be ready for a manual fallback.**
-   - Many locations use facial comparison. If the portal/kiosk/app flow can’t confirm you (or you cannot provide a photo), you may be directed to an officer/manual check. Follow signage and staff instructions.
+3. **If you use Global Entry, separate the mobile app from the airport portal.**
+   - The Global Entry mobile application uses a mobile-device photo.
+   - A Global Entry Touchless Portal has its own cameras, so a broken phone camera does not by itself prevent you from using an available portal.
+   - Follow signage or ask a CBP officer which available Global Entry or other arrival-processing route to use.
 
-4. **Do a fast, low-risk “camera recovery” attempt only if you’re not losing your place/time.**
+4. **Try only a brief, low-risk camera check if it will not delay staffed help.**
    - Restart the phone.
-   - Confirm the app has **Camera permission** and no “camera blocked” setting is enabled.
-   - Try the **other camera** (front/back) if the app allows.
-   - Close apps that may be using the camera (video calls, QR scanners).
-   If it still fails, stop and stay with the staffed/manual route.
+   - Check that the app has camera permission.
+   - Close other apps that may be using the camera.
+   - Try the other phone camera if the app allows it.
+   - If the scan still fails, stop troubleshooting and return to the staffed route.
 
-5. **If your boarding pass is trapped behind the face scan, ask for a printed/agent-issued boarding pass.**
-   - Airline staff can often issue a **printed boarding pass** or reissue a pass at the counter/gate after a manual ID check.
+5. **If the problem is an airport facial-comparison step rather than an app, ask staff what alternative processing is available.**
+   - Tell the airline representative or CBP officer that the facial-comparison step is not working or that you need help with the available processing route.
+   - Requirements can differ by traveler status, so follow the instructions given for your situation.
 
-6. **If someone suggests using their phone, protect your identity first.**
-   - Only use a device you trust and control.
-   - If a trusted travel companion helps, stay with them, log out afterwards, and avoid leaving passport/ID images saved on their device.
+6. **Use another device only after asking staff whether it is necessary.**
+   - Use a device you trust and control where possible.
+   - If you choose to use a trusted companion’s device, stay with the device, log out afterwards, and remove saved passport images or account details.
 
 ## What can wait
-- You do not need to diagnose whether this is hardware failure, iOS/Android permissions, or an app bug while you’re trying to travel.
-- You do not need to replace your phone today unless you’re stranded without essential access (payment, tickets, contacts).
-- You do not need to file complaints while at the airport—get through the journey first.
+- You do not need to work out whether the cause is a hardware fault, a permission setting, or an app bug while a travel deadline is approaching.
+- You do not need to replace the phone before asking staff for the available route.
+- You do not need to file a complaint or make a long-term travel-tech plan while you are trying to get through the immediate journey.
 
 ## Important reassurance
-Travel systems increasingly depend on phone cameras and biometrics, and failures happen every day. Airlines and CBP still have staffed processes because not everyone can complete app-based face scans reliably.
+A failed phone camera does not automatically mean there is no route forward. Tell staff what failed so they can identify the available route for your airline, airport, and traveler status.
 
 ## Scope note
-These are first steps to keep you moving and prevent avoidable missed flights or delays. Once you’re safe and stable, you can deal with phone repair, backups, and longer-term travel setup.
+These are first steps for the immediate travel problem only. Later decisions about phone repair, account security, complaints, or future travel setup may need specialist help.
 
 ## Important note
-This is general information, not legal advice. Procedures vary by airport, airline, and traveler status. If you’re unsure what lane/process applies, ask the airline staff or CBP officer and follow their instructions.
+This is general information, not legal, medical, financial, therapeutic, professional, or personalised advice. Airline and CBP procedures can vary by airport, route, app, and traveler status. Follow instructions from airline staff and CBP officers for your situation.
 
 ## Additional Resources
-- https://www.cbp.gov/travel/us-citizens/mobile-passport-control
-- https://www.cbp.gov/travel/trusted-traveler-programs/global-entry/global-entry-mobile-application
-- https://www.cbp.gov/travel/trusted-traveler-programs/global-entry/global-entry-touchless-portal-instructions
+- https://www.help.cbp.gov/s/article/Article-1366?language=en_US
+- https://www.help.cbp.gov/s/article/Article-1895?language=en_US
+- https://www.help.cbp.gov/s/article/Article-1899?language=en_US
+- https://www.help.cbp.gov/s/article/Article-1708?language=en_US

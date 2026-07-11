@@ -1,87 +1,110 @@
-﻿---
+---
 title: "What to do if… you have sudden worsening pain, redness, or discharge after a recent procedure or dental work"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
-  - worsening pain after procedure
-  - redness around incision
-  - pus or discharge from wound
-  - infected incision signs
-  - surgical site drainage
-  - fever after surgery
-  - post op infection concern
-  - tooth extraction getting worse
-  - infection after dental work
-  - jaw swelling after dentist
-  - bad taste and pus mouth
-  - facial swelling tooth infection
-  - abscess tooth symptoms
-  - pain worse after improving
-  - wound hot and tender
-  - incision smells bad
-  - swelling spreading redness
-  - drainage yellow green pus
-  - complications after procedure
-  - dental surgery infection signs
-last_reviewed: "2026-01-21"
+  - "worsening pain after procedure"
+  - "redness after procedure"
+  - "discharge after procedure"
+  - "drainage after surgery"
+  - "surgical wound infection concern"
+  - "incision redness and pain"
+  - "pus from incision"
+  - "dental work pain worsening"
+  - "tooth extraction pain worse"
+  - "jaw swelling after dentist"
+  - "bad taste after dental work"
+  - "pus after dental work"
+  - "what do i do if pain worsens after procedure"
+  - "what do i do if my incision is red"
+  - "what do i do if pus comes out"
+  - "what do i do if my jaw is swollen"
+  - "help i have wound discharge"
+  - "help i have pus after dental work"
+  - "help i have spreading redness"
+  - "help i feel worse after surgery"
+  - "my incision is leaking"
+  - "my tooth pain is worse"
+  - "my face is swelling"
+  - "my wound smells bad"
+  - "red hot tender wound"
+  - "yellow green drainage"
+  - "fever after procedure"
+  - "bad taste in mouth"
+  - "swollen jaw after extraction"
+  - "normal healing or infection"
+  - "dry socket or infection"
+  - "absess after dental work"
+  - "infecion after surgery"
+  - "recent dental procedure"
+  - "recent outpatient surgery"
+  - "after oral surgery"
+  - "after stitches or dressing"
+  - "higher risk infection concern"
+last_reviewed: "2026-06-16"
+date_created: "2026-06-16"
 ---
 
 # What to do if… you have sudden worsening pain, redness, or discharge after a recent procedure or dental work (USA)
 
 ## Short answer
-Treat this as urgent: **call your surgeon/clinic or dentist/oral surgeon right away** for guidance, because worsening pain, redness, or drainage can signal infection. If you have trouble breathing or swallowing, rapidly increasing face/neck swelling, confusion, or you feel severely ill, call **911** or go to the **ER** now.
+Call the surgeon, clinic, dentist, or oral surgeon who did the procedure now and say the pain, redness, swelling, discharge, or bad taste is getting worse. Call 911 or go to the ER now if you have trouble breathing or swallowing, rapidly spreading face or neck swelling, confusion, severe weakness, or uncontrolled bleeding.
 
 ## Do not do these things
-- Do not ignore symptoms that are worsening, especially after they were stable or improving.
-- Do not squeeze, poke, or try to drain a wound or gum area yourself.
+- Do not ignore symptoms that are clearly getting worse, especially after they were stable or improving.
+- Do not squeeze, poke, lance, or try to drain a wound, gum, tooth socket, or swollen area yourself.
 - Do not take leftover antibiotics or someone else’s antibiotics.
-- Do not remove packing, stitches, or dressings early unless your clinician told you to.
-- Do not scrub the area or put undiluted antiseptics/chemicals into a wound; only use rinses/cleansers if they’re part of your written aftercare.
-- Do not exceed labeled painkiller doses or mix meds you’re unsure about.
-- Do not drive yourself to the ER if you feel faint, confused, very sleepy, or severely swollen—get help.
+- Do not remove packing, stitches, staples, skin glue, or dressings early unless your clinician told you to.
+- Do not scrub the area or put undiluted antiseptics, peroxide, alcohol, or chemicals into a wound or tooth socket.
+- Do not exceed labeled painkiller doses or mix pain medicines when you are unsure they can be taken together.
+- Do not drive yourself for emergency care if you feel faint, confused, very sleepy, or your face, jaw, tongue, throat, or neck is swelling.
 
 ## What to do now
-1. **Check for emergency “go now” signs (use 911/ER if any apply):**
-   - **Trouble breathing or swallowing**, drooling, throat tightness, or swelling of the tongue/neck  
-   - **Rapidly increasing swelling** of the face/neck/jaw, or swelling affecting an **eye/vision**  
-   - New confusion, severe weakness, or you feel suddenly much worse  
-   - Uncontrolled bleeding from a procedure site
-2. **Call the right clinician first (same day):**
-   - **After a medical/surgical procedure:** call the post-op number on your discharge instructions (surgeon’s office, clinic line, or on-call service). Say: *“new/worsening pain, spreading redness, and drainage.”*
-   - **After dental work:** call your **dentist/oral surgeon** and report worsening pain, swelling, or pus/bad taste.
-   - **If you cannot reach them quickly:** choose the care setting based on severity:  
-     - **Go to the ER / call 911** for facial/neck swelling, fever with worsening symptoms, spreading redness with feeling very ill, or any breathing/swallowing concern.  
-     - **Urgent care** can be reasonable for milder symptoms when you’re stable (no rapid swelling, no breathing/swallowing issues), mainly to be assessed and directed appropriately.
-3. **Prepare a clear, fast summary (so you’re triaged correctly):**
-   - Procedure and date; where the problem is located  
-   - What changed today (worse pain, spreading redness, new pus/drainage, foul smell, bad taste)  
-   - Your temperature if you can check it; chills/shaking  
-   - Current meds (including antibiotics, pain meds, blood thinners) and allergies
-4. **Make the area safer while you arrange care (follow your aftercare first):**
-   - Wash hands before touching any dressing; avoid touching the site otherwise.  
-   - Keep dressings clean/dry unless you were instructed to change them.  
-   - For dental sites: avoid poking the area with fingers/tongue; follow your written post-op instructions until you’re told otherwise.
-5. **If you’re higher risk, escalate sooner (don’t wait):**
-   - Seek urgent advice the same day if you’re immunocompromised, have poorly controlled diabetes, are pregnant, have significant heart conditions, or the procedure involved an implant/prosthesis.
+1. Check for emergency signs first. Call 911 or go to the ER now if you have:
+   - trouble breathing or swallowing, drooling, throat tightness, or swelling of the tongue or neck
+   - rapidly increasing swelling of the face, neck, jaw, or swelling affecting an eye or vision
+   - new confusion, severe weakness, fainting, or feeling suddenly much worse
+   - uncontrolled bleeding from the procedure site
+2. Call the right clinician now.
+   - After a medical or surgical procedure, call the post-op number on your discharge instructions, the surgeon’s office, the clinic line, or the on-call service.
+   - After dental work, call your dentist or oral surgeon and report worsening pain, swelling, pus, drainage, bad taste, or bad smell.
+   - Say clearly: “I had a recent procedure and now I have worsening pain, redness, swelling, or discharge.”
+3. If you cannot reach them, choose care based on severity.
+   - Use 911 or the ER for breathing or swallowing trouble, rapidly spreading face or neck swelling, fever with severe symptoms, confusion, severe weakness, or uncontrolled bleeding.
+   - Urgent care may be reasonable if you are otherwise stable and the symptoms are milder, but tell them this followed a procedure or dental work so they can decide whether you need a surgeon, dentist, oral surgeon, or ER.
+4. Prepare a short summary before you call or leave.
+   - What procedure you had and the date it happened
+   - Where the problem is and what changed today
+   - Whether there is spreading redness, warmth, swelling, pus, cloudy drainage, bad smell, or bad taste
+   - Your temperature, if you can check it, and whether you have chills or shaking
+   - Your current medicines, including antibiotics, pain medicines, blood thinners, and any allergies
+5. Make the area safer while you arrange care.
+   - Wash your hands before touching a dressing, bandage, or the skin around the site.
+   - Keep dressings clean and dry unless your written aftercare says to change them.
+   - Do not touch the wound or tooth socket with fingers, tongue, cotton swabs, tools, or sharp objects.
+   - For dental sites, follow your written rinse, gauze, eating, and activity instructions until a dentist or oral surgeon tells you otherwise.
+6. Escalate sooner if you may be higher risk.
+   - Seek same-day medical or dental advice if you are immunocompromised, have poorly controlled diabetes, are pregnant, have an implant or prosthesis involved in the procedure, or have a heart condition your clinician told you needs special infection precautions.
 
 ## What can wait
-- You do not need to figure out exactly what’s happening (infection vs normal healing) before seeking help.
-- You do not need to search for home remedies, drain anything, or “finish the day” before calling.
-- You do not need to decide about reporting, billing disputes, or second opinions right now—first get assessed.
+- You do not need to decide whether this is infection, dry socket, normal healing, or irritation before asking for help.
+- You do not need to search for home remedies, drain anything, or wait until tomorrow to see whether it gets worse.
+- You do not need to decide about complaints, billing, second opinions, or long-term treatment choices right now.
+- You do not need to write a perfect message before calling; the key facts are that the symptoms are worsening and this followed a recent procedure or dental work.
 
 ## Important reassurance
-It’s common to feel alarmed when recovery changes direction. Many infections and post-procedure complications are treatable, and early evaluation is the safest move.
+A change in recovery can feel frightening, and calling early is a sensible safety step. Many post-procedure and dental infections can be treated, but they need the right clinician to assess the site and decide what care is needed.
 
 ## Scope note
-This guide is only for immediate first steps. Next steps (antibiotics, drainage, imaging, wound care changes) depend on an in-person exam and your specific procedure.
+These are first steps only. Later decisions about antibiotics, drainage, imaging, dressing changes, dental treatment, or follow-up may need a surgeon, dentist, oral surgeon, urgent care clinician, ER clinician, or another specialist.
 
 ## Important note
-This is general information, not medical advice or a diagnosis. If symptoms are rapidly worsening, you have face/neck swelling, fever with severe symptoms, or any breathing/swallowing trouble, choose **911/ER**.
+This is general information, not medical advice, dental advice, diagnosis, or a substitute for professional care. If symptoms are rapidly worsening, swelling is spreading, you feel severely ill, bleeding is uncontrolled, or you have any breathing or swallowing trouble, call 911 or go to the ER.
 
 ## Additional Resources
 - https://www.cdc.gov/surgical-site-infections/about/index.html
 - https://medlineplus.gov/ency/patientinstructions/000738.htm
 - https://medlineplus.gov/ency/article/007645.htm
-- https://www.ada.org/-/media/project/ada-organization/ada/ada-org/files/resources/coronavirus/covid-19-practice-resources/ada_covid19_dental_emergency_dds.pdf
+- https://www.mouthhealthy.org/dental-care/dental-emergencies
 - https://www.mayoclinic.org/diseases-conditions/tooth-abscess/symptoms-causes/syc-20350901
 - https://myoms.org/what-we-do/wisdom-teeth-management/potential-complications-of-wisdom-teeth-extractions/

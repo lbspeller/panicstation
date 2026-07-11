@@ -1,72 +1,89 @@
-﻿---
+---
 title: "What to do if… you cannot find keys to a home after a death and the property seems unsecured"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
-  - lost keys after a death
-  - can't find house keys bereavement
-  - deceased person's home unsecured
-  - property left open after death
-  - front door won't lock after death
-  - missing spare keys after bereavement
-  - worried about break-in after death
-  - empty house after someone dies
-  - securing a deceased estate home
-  - executor first steps property security
-  - next of kin securing property
-  - probate house urgent security
-  - keys missing estate property
-  - windows/doors not secure bereavement
-  - estate valuables at risk
-  - neighbour found door open after death
-  - who can enter after someone dies
-  - change locks after a death
-last_reviewed: "2026-03-03"
+  - "lost keys after death"
+  - "missing keys after death"
+  - "house keys lost after death"
+  - "home keys missing after death"
+  - "deceased home unsecured"
+  - "property unsecured after death"
+  - "unsecured home after death"
+  - "home unlocked after death"
+  - "door open after death"
+  - "windows open after death"
+  - "empty home after death"
+  - "deceased property unsecured"
+  - "what do i do if keys are missing after death"
+  - "what do i do if home is unlocked after death"
+  - "what do i do if deceased home is open"
+  - "what do i do if property is unsecured"
+  - "help i cannot find keys after death"
+  - "help i found an unlocked home"
+  - "help i am worried about break-in"
+  - "help i have an unsecured property"
+  - "my parent died and keys missing"
+  - "my relative died and home open"
+  - "my neighbour found door open"
+  - "front door will not lock"
+  - "spare keys missing"
+  - "signs of forced entry"
+  - "lock looks damaged"
+  - "window left open"
+  - "valuables seem at risk"
+  - "unknown keyholders after death"
+  - "family access unclear"
+  - "empty property before probate"
+  - "bereavment missing keys"
+  - "unsecure property after death"
+last_reviewed: "2026-05-09"
+date_created: "2026-05-09"
 ---
 
 # What to do if… you cannot find keys to a home after a death and the property seems unsecured (UK)
 
 ## Short answer
-Treat this as a property-security problem first: make the home physically secure (or have it secured) and create a simple record of what you did and what you found.
+Treat this as a property-security problem first: get the home physically secure, limit access, and make a simple record of what you found and what you did.
 
 ## Do not do these things
-- Don’t force entry (breaking a window, kicking a door) unless there’s an immediate safety reason (for example, you can smell gas or hear a fire alarm).
-- Don’t start “sorting” or moving belongings elsewhere while things are unclear — except where you must act to prevent immediate harm/damage (for example, a leak, an obvious fire risk, or spoiled food attracting pests). If you do move anything, note what you moved and why.
-- Don’t let lots of people come and go “to help” before you’ve controlled access (keys, locks, and who has permission).
-- Don’t assume the existing home insurance will automatically cover an empty/unsecured property.
-- Don’t post about the situation on social media or in group chats where it could be shared.
+- Don’t force entry unless there is an immediate safety reason, such as smelling gas, seeing smoke, or hearing a fire alarm.
+- Don’t start sorting, clearing, or moving belongings while access and authority are unclear, except where you must act to prevent immediate harm or damage.
+- Don’t let lots of people come and go before you have controlled keys, locks, and access.
+- Don’t assume the existing home insurance will automatically cover an empty or unsecured property.
+- Don’t post about the empty or unsecured home on social media or in group chats where the information could be shared.
+- Don’t accuse relatives, neighbours, carers, or visitors about missing keys in the first urgent moment unless there is an immediate safety issue.
 
 ## What to do now
-1. **Check immediate safety first.** If you suspect a break-in is happening right now, or you feel unsafe approaching the home, go somewhere safe and call **999**. If it’s not an emergency but you need police advice (for example, signs of forced entry), call **101**.
-2. **Do a “quick perimeter check” from outside.** Look for open doors/windows, obvious damage to locks, or anything that suggests forced entry. If anything looks actively disturbed, don’t touch it — step back and get police advice via **101**.
-3. **Make the home secure as a priority.** If the door won’t lock, keys are missing, or you can’t confirm who has access:
-   - Use a **reputable local locksmith** to regain entry (if you can’t get in) and **change the locks** or re-key them.
-   - If a door/window is damaged, arrange **urgent boarding/repairs** so the property is not left open.
-4. **Control access immediately.** Decide one person to hold the only working set of keys (or a sealed envelope with spare keys). If you’re not sure who the executor/administrator is yet, keep access as limited as possible until that’s clarified.
-5. **Make a simple record (takes 5 minutes).** Write down: date/time you attended, who was present, what you found unsecured (e.g., “back door open”), and what actions were taken (lock change, boarding, keys collected). Take a few photos of entry points and the general condition of main rooms **only** (avoid photographing personal items closely unless something looks stolen/damaged).
-6. **Stop “big damage” risks you can safely control.** Without rummaging:
-   - If safe, make sure **windows/doors are shut**. If the property will be empty and you can do so safely, consider turning off **water at the stopcock** (especially if you see leaks).
-   - If you smell gas or suspect a gas/carbon monoxide issue, **leave immediately** and call the **National Gas Emergency Service on 0800 111 999** (24/7).
-7. **Notify the insurer (or whoever pays the insurance) as soon as you can.** Tell them the homeowner has died and the property may be empty/unsecured, and ask what conditions apply (for example, inspections, alarms, heating/water requirements). Keep a note of the date/time and the name of the person you spoke to.
-8. **If there are neighbours, use them for “eyes on the property” (not access).** Ask a trusted neighbour to call you if they notice lights, doors, or unexpected visitors — but don’t hand out keys or tell multiple people where keys are kept.
+1. **Check immediate safety first.** If you suspect a break-in is happening now, or you feel unsafe approaching the home, go somewhere safe and call **999**. If it is not an emergency but you need police advice, such as signs of forced entry or damage, call **101** or use the police online reporting route.
+2. **Do a quick outside check before touching anything.** Look for open doors, open windows, damaged locks, broken glass, lights left on, or signs that someone may still be inside. If anything looks actively disturbed, step back and get police advice before handling doors, locks, or objects.
+3. **Make the home secure as the priority.** If a door will not lock, keys are missing, or you cannot tell who has access, contact a local locksmith or urgent repair service. Explain that the homeowner has died and ask what ID, proof of connection, or authority they need before they regain entry, change locks, re-key locks, or board up a damaged door or window.
+4. **Control keys and access.** Where possible, agree one named person to hold the working keys for now. If authority is unclear, keep access limited and write down who has keys, who has entered, and why.
+5. **Make a short record.** Write down the date and time, who was present, what was unsecured, and what action was taken, such as “back door open”, “lock changed”, or “window boarded”. Take photos of entry points, damage, and the general condition of rooms only; avoid close-up photos of private papers or personal items unless they show obvious damage or theft.
+6. **Reduce obvious damage risks without rummaging.** If it is safe, close windows and doors. If you see a leak or a risk of burst pipes, consider turning off the water at the stopcock if you know where it is and can do it safely.
+7. **If you smell gas or suspect carbon monoxide, leave immediately.** Open doors or windows as you leave if you can do that safely. Do not use switches, flames, or appliances. For natural gas in England, Wales or Scotland, call **0800 111 999**. In Northern Ireland, call **0800 002 001**.
+8. **Tell the home insurer as soon as you can.** Say that the homeowner has died, the property may be empty or was unsecured, and locks or repairs may be needed. Ask what conditions apply now, such as inspections, heating, water, alarms, locks, or unoccupied-property cover, and write down the date, time, and name of the person you spoke to.
+9. **Use neighbours for observation, not access.** Ask a trusted neighbour to contact you if they notice open doors, lights, damage, or unexpected visitors. Do not give out keys or tell several people where keys are kept.
 
 ## What can wait
-- You do **not** need to decide today who inherits what, whether to sell the home, or when to clear rooms.
-- You do **not** need to find every document or “do probate” immediately to secure the property.
-- You do **not** need to confront relatives or accuse anyone about missing keys right now — focus first on safety and access control.
+- You do not need to decide today who inherits anything, whether to sell the home, or when to clear rooms.
+- You do not need to find every document or complete probate before making the property secure.
+- You do not need to confront people about missing keys right now unless there is an immediate safety concern.
+- You do not need to make long-term decisions about contents, repairs, utilities, or sale while the immediate issue is an unsecured home.
 
 ## Important reassurance
-It’s very common after a death for keys, spares, and “who has access” to be unclear. Securing the home and limiting entry is a sensible, protective step — it reduces the chance of theft, damage, and family disputes later.
+It is common after a death for keys, spare keys, and access arrangements to be unclear. Securing doors and windows, limiting entry, and keeping a simple record are calm protective steps that can reduce theft, damage, and later disputes.
 
 ## Scope note
-These are first steps to stabilise an unsecured home after a death. Next steps (like formal authority to deal with the property, longer-term insurance, and handling belongings) may depend on whether there is a will and who becomes executor/administrator.
+These are first steps to stabilise an unsecured home after a death. Later decisions about legal authority, probate, insurance cover, belongings, utilities, and the future of the property may need help from the insurer, a solicitor, or another appropriate specialist.
 
 ## Important note
-This is general information, not legal advice. If there is conflict about access or you are unsure who has authority, it may be safer to limit entry and get guidance from a solicitor or the relevant authorities.
+This is general information, not legal, financial, insurance, security, or professional advice. If there is conflict about access, uncertainty about who has authority, or signs of crime, keep entry limited and get appropriate professional or official guidance.
 
 ## Additional Resources
 - https://www.gov.uk/contact-police
 - https://www.police.uk/pu/contact-us/
-- https://www.nationalgas.com/emergency-contacts
+- https://www.gassaferegister.co.uk/gas-emergency/what-to-do-in-a-gas-emergency/
 - https://www.gov.uk/when-someone-dies
 - https://www.citizensadvice.org.uk/family/death-and-wills/
+- https://www.financial-ombudsman.org.uk/consumers/complaints-can-help/insurance/home-insurance/unoccupied-properties

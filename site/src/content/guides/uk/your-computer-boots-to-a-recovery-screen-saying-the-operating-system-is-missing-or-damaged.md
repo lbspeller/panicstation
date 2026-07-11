@@ -1,95 +1,120 @@
-﻿---
+---
 title: "What to do if… your computer boots to a recovery screen saying the operating system is missing or damaged"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - os missing screen
-  - os damaged recovery screen
-  - operating system not found
-  - windows boot failure
-  - pc won’t start
-  - stuck in recovery
-  - boot device not found
-  - no bootable device
-  - startup repair loop
-  - blue recovery screen
-  - mac question mark folder
-  - flashing question mark folder
-  - disk not detected
-  - possible drive failure
-  - worried about losing files
-  - need data off laptop
-  - bios boot order wrong
-  - update broke windows
-  - windows recovery environment
-  - system won’t boot today
-last_reviewed: "2026-03-08"
+  - "operating system missing"
+  - "operating system damaged"
+  - "computer recovery screen"
+  - "windows boot failure"
+  - "pc will not start"
+  - "laptop will not boot"
+  - "no bootable device"
+  - "boot device not found"
+  - "startup repair loop"
+  - "blue recovery screen"
+  - "mac question mark folder"
+  - "what do i do if operating system missing"
+  - "what do i do if windows will not boot"
+  - "what do i do if pc says no boot device"
+  - "what do i do if laptop stuck in recovery"
+  - "help i see recovery screen"
+  - "help i cannot start windows"
+  - "help i need files from laptop"
+  - "help i think my drive failed"
+  - "my computer says operating system missing"
+  - "my pc says operating system damaged"
+  - "my laptop is stuck in recovery"
+  - "my mac shows question mark folder"
+  - "error code on boot"
+  - "internal drive not detected"
+  - "files may be lost"
+  - "recovery key requested"
+  - "possible hard drive failure"
+  - "possible ssd failure"
+  - "bios boot order wrong"
+  - "bitlocker recovery key confusion"
+  - "windows update broke startup"
+  - "operating systen missing"
+  - "recovry screen on laptop"
+last_reviewed: "2026-05-24"
+date_created: "2026-05-24"
 ---
 
 # What to do if… your computer boots to a recovery screen saying the operating system is missing or damaged (UK)
 
 ## Short answer
-Protect your data first: stop repeated restarts, unplug external drives, and avoid any reset/erase option until you’re sure you’ve recovered what you need.
+Protect your files first: stop repeated restarts, disconnect external drives, and avoid reset, erase, factory reset, or reinstall options until you know what data is safe.
 
 ## Do not do these things
-- Don’t choose options that say **Reset**, **Erase**, **Factory reset**, or **Reinstall and remove files** unless you’re fully sure you don’t need anything on the internal drive.
-- Don’t keep rebooting over and over “to see if it fixes itself” — if a drive is failing, repeated cycles can reduce recovery chances.
-- Don’t run random “miracle boot fix” tools found via ads/pop-ups.
-- Don’t plug in your backup drive “just to check” if you suspect malware/ransomware — keep backups disconnected.
+- Don’t choose options that say Reset, Erase, Factory reset, or Reinstall and remove files unless you are sure there is nothing on the internal drive that you need.
+- Don’t keep rebooting again and again to see if it fixes itself; if the drive is failing, repeated attempts may make recovery harder.
+- Don’t run random “miracle boot fix” tools from adverts, pop-ups, or unfamiliar sites.
+- Don’t reconnect backup drives or start restoring backups if there are signs of malware or ransomware.
+- Don’t hand the computer over for repair without saying clearly that the files matter and must not be erased.
 
 ## What to do now
-1. **Stabilise and capture what you’re seeing (for support and warranty).**
-   - Photograph the screen and write down the exact wording and any error code.
-   - Note what changed just before (update, power cut, new drive, drop/spill).
+1. Stabilise the situation.
+   - Leave the computer plugged into power if it is safe to do so.
+   - Photograph the recovery screen, including the exact wording and any error code.
+   - Write down what happened just before this started, such as an update, power cut, drop, spill, new drive, or unusual message.
 
-2. **Disconnect anything that could confuse booting (or get harmed).**
-   - Unplug USB drives, memory cards, external SSD/HDDs, docking stations, and non-essential peripherals.
+2. Disconnect anything that could confuse startup.
+   - Unplug USB drives, memory cards, external SSDs or hard drives, docking stations, and non-essential devices.
+   - Keep backup drives disconnected for now.
 
-3. **Do the simplest safe boot check.**
-   - Restart once with only power + keyboard/mouse.
-   - If your computer offers a boot-device menu, confirm it’s trying to boot from the internal drive (not USB/network).
+3. Try one simple safe restart.
+   - Restart once with only power, keyboard, and mouse connected.
+   - If the computer offers a boot-device menu, check that it is trying to start from the internal drive, not USB, network, or an external disk.
+   - If the internal drive is not shown at all, stop trying repair options and move to data-first help.
 
-4. **If Windows asks for a BitLocker recovery key, pause.**
-   - Don’t guess or brute-force.
-   - Retrieve the key via your Microsoft account (personal device) or your organisation/IT admin (work/school device), then continue only when you have it.
+4. If Windows asks for a BitLocker recovery key, pause.
+   - Don’t guess repeatedly.
+   - Note the recovery key ID shown on screen.
+   - Look for the key in the Microsoft account used on the device, a work or school account, a saved printout, or a USB drive where the key may have been stored.
+   - For a work, school, or managed device, contact the organisation’s IT support.
+   - If you cannot find the key and the files matter, don’t reset the device.
 
-5. **Use built-in repair tools before anything destructive.**
-   - **Windows:** in the recovery menu, choose **Troubleshoot → Advanced options → Startup Repair** (wording may vary). Prefer automatic repair over reset/reinstall.
-   - **Mac:** if you see a flashing folder with a question mark, start macOS Recovery and run **Disk Utility → First Aid** on the startup disk first.
+5. Use built-in repair tools before anything destructive.
+   - Windows: from the recovery screen, choose Troubleshoot, then Advanced options, then Startup Repair, if those options appear. Wording can vary.
+   - Mac: if you see a flashing folder with a question mark, start macOS Recovery and use Disk Utility to repair the startup disk.
+   - Stop before any option that says erase, format, reset, reinstall, or remove files.
 
-6. **If repair isn’t clearly working and you care about the files, switch to “data-first mode.”**
-   - Stop trying fixes that might write to the internal drive (reinstalling, resetting, partition/boot commands).
-   - Plan to copy files off the internal drive using a cautious approach (for example, a reputable technician or data-recovery provider; if you’re doing it yourself, aim to avoid actions that modify the disk and stop if you’re unsure).
+6. Switch to data-first mode if repair does not clearly work.
+   - Stop advanced boot commands, reinstall attempts, partition changes, and reset options.
+   - Contact a reputable repair technician or data-recovery provider and ask about copying the files first without erasing or reinstalling.
+   - Tell them the exact error message, whether the drive appears in recovery tools, and whether encryption or BitLocker is involved.
 
-7. **If you think this could be malware/ransomware (only if there were signs):**
-   - Disconnect from Wi-Fi/Ethernet.
-   - Keep backup drives unplugged and don’t restore backups yet.
+7. If there were signs of malware or ransomware, isolate the device.
+   - Disconnect Wi-Fi and Ethernet.
+   - Keep backup drives unplugged.
+   - Do not restore from backups until you are confident the computer and backup are clean.
 
-8. **If it’s under warranty or you may need consumer help, preserve your position.**
-   - Keep receipts and your photos/error codes.
-   - Contact the seller/manufacturer support with the exact wording and what you already tried.
-   - If the issue relates to **paid digital content** (e.g., a purchased OS/app/update) that’s faulty, UK digital-content rights can apply in some situations; for **hardware faults**, your retailer/warranty route is usually the practical first contact.
+8. Preserve basic consumer and warranty information.
+   - Keep receipts, order emails, warranty details, and the photos of the screen.
+   - Contact the seller or manufacturer support with the exact wording and what you have already tried.
+   - If the problem appears linked to bought software, an app, or a download, UK consumer help may be relevant, but you do not need to argue this while the files are still at risk.
 
 ## What can wait
-- You don’t need to decide today whether to reinstall the OS, replace the drive, or replace the computer.
-- You don’t need to run advanced command-line repairs while panicked.
-- You don’t need to reconnect backups or re-enable syncing immediately.
+- You don’t need to decide today whether to reinstall the operating system, replace the drive, or replace the computer.
+- You don’t need to run command-line repairs while panicked.
+- You don’t need to reconnect backups, restore files, or re-enable syncing immediately.
+- You don’t need to decide any consumer complaint or warranty argument before protecting the data.
 
 ## Important reassurance
-This screen is common after updates, power interruptions, wrong boot settings, or a failing drive. Slowing down and choosing data-first steps is often what prevents permanent loss.
+This screen can happen after updates, power interruptions, wrong boot settings, damaged startup files, or a failing drive. Slowing down and choosing data-first steps is often the safest way to avoid making the loss worse.
 
 ## Scope note
-These are first steps to avoid irreversible mistakes and get you to a safe next decision point (repair, recovery, or data retrieval). If the disk is failing or encrypted, specialist help may be needed.
+These are first steps only, to avoid irreversible mistakes and get you to a safer next decision point. Later decisions about repair, data recovery, replacement, warranty, or consumer rights may need specialist help.
 
 ## Important note
-This guide is general information, not professional IT, legal, or data-recovery advice. If you’re unsure whether an option will erase data, treat it as risky and pause until you can confirm.
+This guide is general information, not professional IT, legal, data-recovery, financial, therapeutic, or other professional advice. If you are unsure whether an option will erase data, treat it as risky and pause until you can confirm.
 
 ## Additional Resources
 - https://support.microsoft.com/en-gb/topic/-an-operating-system-wasn-t-found-error-when-booting-windows-2c149e3a-dc37-0322-4d79-336f3888906b
 - https://support.microsoft.com/en-gb/windows/startup-repair-85deb0b9-fa3d-44a3-a3d0-d0f1515c2c9b
 - https://support.microsoft.com/en-gb/windows/windows-recovery-environment-0eb14733-6301-41cb-8d26-06a12b42770b
-- https://support.microsoft.com/en-gb/windows/windows-startup-settings-1af6ec8c-4d4a-4b23-adb7-e76eef0b847f
+- https://support.microsoft.com/en-gb/windows/find-your-bitlocker-recovery-key-6b71ad27-0b89-ea08-f143-056f5ab347d6
 - https://support.apple.com/en-gb/102601
 - https://www.ncsc.gov.uk/section/respond-recover/ml-ransomware-attack
 - https://www.citizensadvice.org.uk/consumer/phone-internet-downloads-or-tv/problem-with-an-app-software-or-download/
-- https://commonslibrary.parliament.uk/faulty-goods-digital-content-services-2/

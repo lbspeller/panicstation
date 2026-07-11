@@ -1,87 +1,109 @@
-﻿---
+---
 title: "What to do if… your email account starts sending automatic replies you did not set up"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
-  - email hacked
-  - unexpected auto replies
-  - automatic reply not mine
-  - autoresponder turned on
-  - out of office sending
-  - ooo reply sent
-  - vacation responder on
-  - mailbox rules changed
-  - email forwarding added
-  - account takeover
-  - suspicious sign-in
-  - hacked gmail
-  - hacked outlook
-  - compromised email account
-  - email replying to strangers
-  - spam auto response
-  - unknown filters in inbox
-  - email sending messages itself
-  - someone in my email
-last_reviewed: "2026-03-08"
+  - "email account automatic replies"
+  - "automatic replies not mine"
+  - "automatic replies i did not set up"
+  - "email sending automatic replies"
+  - "email account sending replies"
+  - "out of office not mine"
+  - "vacation responder turned on"
+  - "email account compromised"
+  - "email account hacked"
+  - "mailbox rules changed"
+  - "what do i do if email replies automatically"
+  - "what do i do if automatic replies are on"
+  - "what do i do if my email is replying"
+  - "what do i do if my email was hacked"
+  - "help i found automatic replies"
+  - "help i think my email is hacked"
+  - "help i did not set out of office"
+  - "help i see unknown email rules"
+  - "my email is replying by itself"
+  - "my email account is sending replies"
+  - "my email has unknown forwarding"
+  - "my email has weird filters"
+  - "people got replies from my email"
+  - "strangers got email replies"
+  - "sent folder has strange messages"
+  - "unknown sign-in on email"
+  - "inbox messages are missing"
+  - "out of office stuck on"
+  - "vacation reply not mine"
+  - "auto reply not mine"
+  - "email acount compromised"
+  - "auto repy not mine"
+  - "new email account replies"
+last_reviewed: "2026-06-28"
+date_created: "2026-06-28"
 ---
 
 # What to do if… your email account starts sending automatic replies you did not set up (USA)
 
 ## Short answer
-Assume your email account is compromised. From a trusted device, disable the auto-reply, remove unknown rules/forwarding, change your password, and sign out of other sessions right away.
+Treat the account as possibly compromised. From a trusted device, turn off the automatic reply, remove unknown rules and forwarding, change the password, and sign out of other sessions.
 
 ## Do not do these things
-- Don’t keep emailing from the compromised account to “clarify” — it can spread scams and confirms your address is active.
-- Don’t click links inside “security warning” emails; go to the provider by typing the address or using the official app.
-- Don’t stop after changing the password — attackers often leave forwarding/rules/connected apps in place.
-- Don’t wipe your inbox immediately — you may need messages/settings for recovery or reports.
+- Don’t keep sending messages from the affected account to explain what happened; it may spread scam links or confirm the address is active.
+- Don’t click links in security-warning emails; go to the provider by typing the address yourself or using the official app.
+- Don’t stop after changing the password; unknown forwarding, filters, delegates, connected apps, or recovery details may still be in place.
+- Don’t delete your inbox or sent messages immediately; they may help you see what was changed or what was sent.
+- Don’t give anyone a verification code, password, or remote access because they claim they are helping with the account.
 
 ## What to do now
-1. **Get onto a trusted device and connection.** If possible, use a different device than the one you normally use, and a known network. If you suspect malware on your main device, don’t rely on it for account recovery.
-2. **Sign in to your provider directly (no email links).** Open your email provider’s official site/app and go to **Security** and **Settings**.
-3. **Stop the active behavior first.**
-   - Turn off “vacation responder/out of office/automatic replies”.
-   - Then check **rules/filters** and remove anything you didn’t create, especially rules that auto-reply, auto-forward, auto-delete, or hide messages.
-4. **Remove persistence paths.**
-   - Check for **forwarding**, “redirect”, “send a copy to”, “delegates/shared mailbox”, and “connected accounts”.
-   - Remove unknown forwarding addresses, delegates, unknown devices, and any third-party app access you don’t recognize.
-5. **Change your password and sign out other sessions.**
-   - Create a new, unique password.
-   - Use the provider feature to **sign out of other devices/sessions** or revoke access for devices/apps you don’t recognize.
-6. **Turn on multi-factor authentication (MFA) and verify recovery info.**
-   - Enable MFA (authenticator app or security key is generally stronger than SMS where available).
-   - Review recovery email/phone and remove anything you didn’t add.
-7. **Secure the accounts your email can unlock.**
-   - Prioritize banking, payment apps, shopping accounts, and any account where this email is the login.
-   - Change passwords and enable MFA there too, watching for password reset attempts.
-8. **Notify people using another channel.**
-   - Text/call key contacts: “My email may be compromised; don’t trust recent auto-replies/links.”
-9. **If this is tied to fraud, report it using the right federal portals.**
-   - **Cyber-enabled fraud / account takeover:** file a complaint with the FBI’s **IC3**.
-   - **Scams (including tech-support or impersonation scams):** report at **ReportFraud.ftc.gov**.
-   - **Identity theft recovery/reporting:** use **IdentityTheft.gov** if your personal info/accounts are being used in your name.
-10. **If you can’t regain control quickly, start provider recovery and containment.**
-   - Use the provider’s official account recovery flow.
-   - Consider creating a new email address for critical accounts and updating the most sensitive services first.
+1. **Use a trusted device and connection.** If possible, use a device you believe is clean and a network you know. If you think your usual computer may have malware, update its security software and run a scan before relying on it for account recovery.
+2. **Go to your provider directly.** Open Gmail, Outlook, Yahoo, Apple Mail, or your provider’s official site or app. Do not use links from emails or pop-ups.
+3. **Stop the automatic replies first.**
+   - Turn off vacation responder, out of office, or automatic replies.
+   - Check rules and filters for anything you did not create.
+   - Remove rules that auto-reply, auto-forward, auto-delete, archive, hide, or move messages.
+4. **Remove ways the attacker could stay connected.**
+   - Check forwarding, redirect, send a copy to, delegates, mailbox sharing, connected accounts, and third-party app access where your provider shows them.
+   - Remove unknown forwarding addresses, unknown delegates, unknown connected accounts, unknown apps, and unknown devices.
+5. **Change the account password and sign out other sessions.**
+   - Create a new password that is unique to this email account.
+   - Use the provider’s option to sign out of other devices or revoke sessions and apps you do not recognize.
+6. **Turn on multi-factor authentication and check recovery details.**
+   - Turn on MFA or 2FA if it is available.
+   - Use an authenticator app or security key where available.
+   - Check the recovery email, recovery phone, backup codes, and security questions, and remove anything you did not add.
+7. **Check what the account was used to unlock.**
+   - Look for password reset emails, deleted security alerts, bank or payment alerts, shopping orders, and account-change notices.
+   - Prioritize banking, payment apps, shopping accounts, work accounts, school accounts, and any account where this email is the login or recovery address.
+   - Change passwords and turn on MFA for those accounts if they may have been reached through this email.
+8. **Warn key people through another channel.**
+   - Text or call close contacts, coworkers, or anyone likely to trust the automatic reply.
+   - Use a simple message such as: “My email may be compromised. Please do not trust recent automatic replies, links, or attachments from it.”
+9. **Use official reporting routes if fraud or identity misuse is involved.**
+   - If money was stolen, a financial account was accessed, or there was account takeover fraud, file an IC3 complaint.
+   - If a scammer used the account to contact people or trick someone, report it to the FTC.
+   - If personal information or accounts are being used in your name, use IdentityTheft.gov.
+10. **If you cannot regain control, start official recovery.**
+   - Use the provider’s official account recovery process.
+   - For a work or school account, contact IT or the account administrator from a separate channel.
+   - Move the most sensitive accounts to a secure email address only after you have protected those accounts from further password resets.
 
 ## What can wait
-- You don’t need to identify the exact entry point right now.
-- You don’t need to notify everyone at once — focus on close contacts and anyone likely to act on a scam link.
-- You don’t need to make device-replacement decisions immediately (secure the account first).
+- You do not need to identify exactly how the account was accessed right now.
+- You do not need to notify every contact at once; start with people most likely to act on a scam link or attachment.
+- You do not need to decide whether to replace devices immediately; first stop the automatic replies, remove access paths, and secure the password and MFA.
+- You do not need to write a full incident history before taking the containment steps.
 
 ## Important reassurance
-Automatic replies you didn’t set up are a classic sign that someone changed settings or added rules to your mailbox. Removing rules/forwarding, signing out other sessions, and turning on MFA usually stops it quickly.
+Automatic replies you did not set up are a strong warning sign, but they are also a setting you can usually check and turn off. Removing unknown rules, forwarding, devices, apps, and recovery details often stops the immediate behavior while you work through recovery.
 
 ## Scope note
-These are first steps to stop damage and regain control. For work/school email, your IT/admin team may need to handle server-side rules, enterprise MFA, and logs.
+These are first steps to reduce damage and regain control. Later decisions, especially for work, school, business, fraud, or identity theft situations, may need help from your email provider, IT administrator, bank, law enforcement portal, or a qualified security professional.
 
 ## Important note
-This guide is general information for urgent first steps, not legal or professional advice. If you can’t recover access or you suspect broader compromise, use official provider recovery and consider qualified technical help.
+This guide is general information for urgent first steps. It is not legal, financial, technical, cybersecurity, or other professional advice.
 
 ## Additional Resources
 - https://support.google.com/accounts/answer/6294825?hl=en
-- https://support.microsoft.com/en-us/account-billing/what-happens-if-there-s-an-unusual-sign-in-to-your-account-eba43e04-d348-b914-1e95-fb5052d3d8f0
+- https://support.microsoft.com/en-US/accounts-billing/manage/how-to-recover-a-hacked-or-compromised-microsoft-account
+- https://consumer.ftc.gov/articles/how-recover-your-hacked-email-or-social-media-account
 - https://www.ic3.gov/CrimeInfo/AccountTakeover
 - https://reportfraud.ftc.gov/
 - https://www.identitytheft.gov/
-- https://consumer.ftc.gov/articles/how-spot-avoid-and-report-tech-support-scams

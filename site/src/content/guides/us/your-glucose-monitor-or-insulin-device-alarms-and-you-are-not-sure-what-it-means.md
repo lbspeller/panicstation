@@ -1,81 +1,94 @@
-﻿---
+---
 title: "What to do if… your glucose monitor or insulin device alarms and you are not sure what it means"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
-  - cgm alarm not sure
-  - glucose monitor alarm
-  - insulin pump alarm
-  - diabetes device beeping
-  - urgent low alarm
-  - low glucose alert
-  - high glucose alert
-  - sensor error message
-  - signal loss alert
-  - occlusion alarm
-  - no delivery alarm
-  - pump stopped alert
-  - low reservoir warning
-  - low battery pump
-  - false low reading
-  - cgm reading seems wrong
-  - infusion set problem
-  - site failure insulin pump
-  - closed loop alarm
-  - alarm at night diabetes
-last_reviewed: "2026-01-21"
+  - "glucose monitor alarm"
+  - "insulin device alarm"
+  - "insulin pump alarm"
+  - "cgm alarm unclear"
+  - "diabetes device beeping"
+  - "urgent low alarm"
+  - "high glucose alert"
+  - "sensor error message"
+  - "pump delivery alarm"
+  - "what do i do if glucose monitor alarms"
+  - "what do i do if insulin pump alarms"
+  - "what do i do if cgm alarms"
+  - "what do i do if diabetes device beeps"
+  - "help i got a low glucose alert"
+  - "help i cannot understand my pump alarm"
+  - "help i think my cgm is wrong"
+  - "help i have an insulin device alarm"
+  - "my glucose monitor keeps alarming"
+  - "my insulin pump says no delivery"
+  - "my diabetes device alarmed overnight"
+  - "shaky sweaty glucose alarm"
+  - "confused after cgm alarm"
+  - "sleepy during glucose alarm"
+  - "vomiting with high glucose alarm"
+  - "fruity breath high glucose alarm"
+  - "cgm reading seems wrong"
+  - "false low glucose reading"
+  - "signal loss on cgm"
+  - "sensor error or calibration alert"
+  - "pump occlusion or no delivery"
+  - "closed loop alarm at night"
+  - "phone app diabetes alert"
+  - "glucose moniter alarm"
+  - "insulin pump alrm"
+last_reviewed: "2026-06-29"
+date_created: "2026-06-29"
 ---
 
 # What to do if… your glucose monitor or insulin device alarms and you are not sure what it means (USA)
 
 ## Short answer
-Assume either your blood sugar may be unsafe or insulin delivery might be interrupted until proven otherwise. If you can, confirm with a fingerstick glucose check, and treat possible low blood sugar immediately.
+Assume your blood sugar may be unsafe or insulin delivery may be interrupted until you know more. If you can, confirm with a fingerstick glucose check; treat possible low blood sugar immediately.
 
 ## Do not do these things
 - Don’t ignore repeated alarms or silence them and go back to sleep without checking.
-- Don’t take extra insulin or extra carbs based only on a reading you don’t trust—confirm if you can.
-- Don’t drive or do risky activities while you’re unsure what the alarm means.
+- Don’t take an unplanned insulin correction, or keep taking carbs, based only on a reading you do not trust.
+- Don’t drive, swim, use machinery, or do risky activity while you are unsure what the alarm means.
 - Don’t give food or drink to someone who is very sleepy, confused, seizing, or unconscious.
-- Don’t change lots of things at once (sensor + site + app + settings) before confirming your actual glucose.
+- Don’t change the sensor, infusion site, app, and settings all at once before checking your actual glucose if you can.
 
 ## What to do now
-1. **Check how you feel first.** If you feel low (shaky, sweaty, weak, confused, blurred vision), treat it as low blood sugar right away.
-2. **If possible, check a fingerstick glucose now.** Treat based on the fingerstick result and symptoms if you don’t trust the CGM number.
-3. **If your blood sugar is low (often under 70 mg/dL) or you feel low:** use the **15–15 rule**: take **15g fast-acting carbs**, wait **15 minutes**, then recheck and repeat if still low. When you’re back up and stable, eat a snack/meal (follow your plan).
-4. **If someone can’t swallow safely, is unconscious, or having a seizure:** **call 911 immediately.** If you have glucagon and someone present knows how to give it, use it while waiting for emergency help.
-5. **Look at the alarm message and sort it into a simple bucket (don’t over-decode).**
-   - **Low / urgent low** → treat first.
-   - **High** → confirm with fingerstick; if you feel sick, think about ketones (next step).
-   - **Delivery problem / occlusion / no delivery / pump stopped** → assume insulin may not be getting in.
-   - **Sensor error / signal loss / calibration required / app disconnected** → assume the reading may be unreliable.
-   - **Low reservoir / low battery / “change set/sensor soon”** → fix once you’ve confirmed you’re safe.
-6. **If you suspect insulin delivery failed (pump alarm): act like insulin might be interrupted.**
-   - Check for: pump **suspended/stopped**, kinked tubing, dislodged/painful site, wet/leaking adhesive, empty cartridge/reservoir, expired insulin.
-   - If you can, **replace the infusion set/site and insulin**.
-   - Use your **backup plan** (many people are instructed to use insulin pens/syringes temporarily). If you don’t have a clear plan, **call your diabetes clinician/on-call line** rather than guessing doses.
-7. **If glucose is high and you feel unwell (especially if you use a pump):** if you have ketone strips/meter, **check ketones**.
-   - **Go to the ER / seek urgent evaluation now** if you think you could be developing DKA (for example vomiting, severe abdominal pain, deep/rapid breathing, fruity-smelling breath, confusion, extreme sleepiness), if ketones are moderate/high on your test, or if you can’t keep fluids down.
-8. **If the alarm comes through a phone/app:** reduce the risk of missing the next alert—check phone volume, silent mode, “Do Not Disturb,” notification permissions, Bluetooth connections (including car/audio accessories), and battery saver settings. Then confirm the alarm status on the device/app.
-9. **Stabilize the next hour.** Tell someone you trust what’s happening and ask them to check in; keep fast carbs, your meter/strips, and glucagon nearby; recheck frequently until you feel steady and readings make sense.
+1. **Check how you feel first.** If you feel low, such as shaky, sweaty, weak, confused, or have blurred vision, treat it as low blood sugar right away.
+2. **If possible, check a fingerstick glucose now.** Use the fingerstick result and your symptoms if the CGM number does not seem right.
+3. **If your blood sugar is low, often under 70 mg/dL, below your personal low threshold, or you feel low:** take 15 grams of fast-acting carbohydrate, wait 15 minutes, then recheck. Repeat if you are still low. Once you are back up and steady, eat a meal or snack if your next meal is not soon and that is part of your plan.
+4. **If someone cannot swallow safely, is unconscious, or is having a seizure:** call 911 immediately. If glucagon is available and someone present knows how to give it, use it while waiting for emergency help.
+5. **Read the alarm message and put it into one simple bucket.**
+   - **Low or urgent low**: treat first.
+   - **High**: confirm with a fingerstick if you can; if you feel sick, check ketones if you have supplies.
+   - **Delivery problem, occlusion, no delivery, or pump stopped**: assume insulin may not be getting in.
+   - **Sensor error, signal loss, calibration required, or app disconnected**: assume the reading may be unreliable.
+   - **Low reservoir, low battery, or change set or sensor soon**: fix it after you have checked that you are safe.
+6. **If a pump alarm suggests insulin delivery failed, act like insulin may be interrupted.** Check whether the pump is suspended or stopped, tubing is kinked, the site is loose, painful, wet, or leaking, the cartridge or reservoir is empty, or the insulin may be spoiled or expired. If you can, change the infusion set or site and insulin using your device instructions.
+7. **Use your backup insulin plan if pump delivery is not reliable.** Many people are told to use insulin pens or syringes temporarily when pump delivery fails. If you do not have a clear backup plan, call your diabetes clinician, after-hours line, or device support rather than guessing doses.
+8. **If glucose is high and you feel unwell, especially if you use a pump:** check ketones if you have urine strips or a blood ketone meter. Call your clinician urgently or seek urgent care if ketones are moderate or high by your strip or meter instructions, you are vomiting, you have severe abdominal pain, deep or rapid breathing, fruity-smelling breath, confusion, extreme sleepiness, or you cannot keep fluids down.
+9. **If the alarm comes through a phone or app:** reduce the risk of missing the next alert. Check volume, silent mode, Do Not Disturb or Focus settings, notification permissions, Bluetooth connections, and battery saver settings. Then confirm the alarm status on the device or app.
+10. **Stabilize the next hour.** Tell someone you trust what is happening and ask them to check in. Keep fast carbs, your meter and strips, ketone supplies if you use them, and glucagon nearby. Recheck until you feel steady and the readings make sense.
 
 ## What can wait
 - Perfectly interpreting trend graphs, alarm codes, or app history.
-- Firmware/app updates, re-pairing devices, and “deep troubleshooting.”
-- Non-urgent reporting. If you suspect a serious device malfunction or it caused harm, you can report it later to the **FDA (MedWatch)** and/or the manufacturer.
+- Firmware updates, app updates, re-pairing devices, and deep troubleshooting.
+- Non-urgent reporting. If you suspect a serious device malfunction or it caused harm, you can report it later to the FDA, MedWatch, and/or the manufacturer.
 
 ## Important reassurance
-It’s common to feel overwhelmed when diabetes tech alarms—especially at night. You don’t have to solve everything: confirm your glucose, treat lows first, and assume possible insulin interruption if a pump alarm suggests delivery trouble.
+Diabetes tech alarms can feel overwhelming, especially at night. You do not have to solve every device problem at once: confirm your glucose, treat lows first, and assume possible insulin interruption if a pump alarm suggests delivery trouble.
 
 ## Scope note
-These are first steps only. Your exact targets, correction doses, ketone action plan, and pump/closed-loop procedures should come from your clinician and your device’s official instructions.
+These are first steps only. Your exact targets, correction doses, ketone action plan, backup insulin plan, and pump or closed-loop procedures should come from your clinician and your device’s official instructions.
 
 ## Important note
-This is general information, not medical advice for your specific situation. If symptoms are severe, worsening, or you can’t reliably confirm your glucose or insulin delivery, seek urgent medical care.
+This is general information, not medical advice for your specific situation. If symptoms are severe or worsening, or you cannot reliably confirm your glucose or insulin delivery, seek urgent medical care.
 
 ## Additional Resources
 - https://diabetes.org/living-with-diabetes/hypoglycemia-low-blood-glucose
 - https://www.cdc.gov/diabetes/treatment/treatment-low-blood-sugar-hypoglycemia.html
 - https://www.cdc.gov/diabetes/about/diabetic-ketoacidosis.html
+- https://diabetes.org/about-diabetes/devices-technology/insulin-pumps-relief-and-choice
 - https://www.fda.gov/medical-devices/blood-glucose-monitoring-devices/how-report-problems-glucose-meters-and-continuous-glucose-monitoring-systems
 - https://www.fda.gov/safety/medwatch-fda-safety-information-and-adverse-event-reporting-program
 - https://www.fda.gov/news-events/press-announcements/fda-alerts-patients-potential-miss-critical-safety-alerts-due-phone-settings-when-using-smartphone

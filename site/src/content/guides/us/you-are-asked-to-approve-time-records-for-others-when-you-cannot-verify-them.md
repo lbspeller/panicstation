@@ -1,68 +1,85 @@
-﻿---
+---
 title: "What to do if… you are asked to approve time records for others when you cannot verify them"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
-  - asked to approve time records
-  - asked to sign off on timesheets
-  - pressured to approve hours worked
-  - can’t verify employee hours
-  - timekeeping approval without proof
-  - asked to certify payroll records
-  - manager wants me to rubber stamp time
-  - time entries look inaccurate
-  - approve overtime i didn’t verify
-  - asked to backdate time approvals
-  - asked to approve timecard changes
-  - payroll approval under pressure
-  - asked to confirm hours for others
-  - time clock records don’t match
-  - worried about wage and hour compliance
-  - asked to approve time edits
-  - asked to approve missing punches
-last_reviewed: "2026-01-07"
+  - "asked to approve time records"
+  - "asked to approve employee hours"
+  - "asked to sign off timesheets"
+  - "pressured to approve timecards"
+  - "cannot verify time records"
+  - "time records look inaccurate"
+  - "time clock records do not match"
+  - "payroll approval under pressure"
+  - "what do i do if timesheets look wrong"
+  - "what do i do if hours seem unverifiable"
+  - "what do i do if time records conflict"
+  - "what do i do if manager pressures approval"
+  - "help i cannot verify employee hours"
+  - "help i am pressured to approve timesheets"
+  - "my timecard approval feels inaccurate"
+  - "my manager wants a rubber stamp"
+  - "missing punches in time records"
+  - "unexpected edits in time records"
+  - "overtime hours cannot be verified"
+  - "time entries changed without explanation"
+  - "schedule and time clock conflict"
+  - "backdated time approval request"
+  - "timesheet error or payroll issue"
+  - "timecard mistake or false approval"
+  - "missing punch or inaccurate hours"
+  - "payroll delay or recordkeeping problem"
+  - "supervisor approving remote worker hours"
+  - "manager approving shift employee hours"
+  - "payroll deadline with disputed hours"
+  - "hourly worker time records unclear"
+  - "timeshet approval under pressure"
+  - "timeheet records look inaccurate"
+last_reviewed: "2026-06-07"
+date_created: "2026-06-07"
 ---
 
 # What to do if… you are asked to approve time records for others when you cannot verify them (USA)
 
 ## Short answer
-Don’t certify time records as “accurate” if you can’t verify them. Put your concern in writing, ask for the official verification process, and escalate to payroll/HR/compliance for documented instruction.
+Do not approve a record if the approval would say that you verified facts you cannot verify. Use the system’s exception route or send a brief written message asking payroll or HR how to route the records without making an inaccurate certification.
 
 ## Do not do these things
-- Do not approve if the sign-off implies you personally verified hours you can’t confirm.
-- Do not “estimate” or change other people’s time to make payroll run unless you’re explicitly authorized and have a documented basis.
-- Do not make accusations in the moment—use neutral facts (“I can’t verify these hours from available records”).
-- Do not rely on verbal direction alone if you’re uncomfortable; get guidance in writing.
-- Do not destroy, conceal, or alter records to “fix” the problem.
+- Do not approve a time record if the sign-off would misrepresent what you checked.
+- Do not guess, backdate, or edit another person’s time outside the approved correction process.
+- Do not accuse anyone of wrongdoing when the immediate issue is that the records cannot be verified.
+- Do not rely only on verbal instructions if your name will be attached to the approval.
+- Do not destroy, conceal, or alter records to make the issue appear resolved.
+- Do not copy confidential payroll records outside approved systems or channels.
 
 ## What to do now
-1. **Check what the approval actually certifies.** Read the exact language in the timekeeping system or approval email. If it says you “confirm” or “verify” accuracy, you need a different route than simply approving.
-2. **Send a short written message refusing to certify what you can’t verify.** Example: “I can’t verify these time entries. Please advise the approved verification method or alternate approver so payroll can be processed correctly.”
-3. **Ask for the documented timekeeping policy and the audit trail.** Request the organization’s standard evidence sources (time clock logs, schedules, job tickets, supervisor notes, “missing punch” forms, edit history, system access logs where relevant).
-4. **Offer a safe workaround to avoid a false certification.**
-   - Employee re-attestation (employee confirms entries are correct) if your process allows.
-   - Mark as pending/exception (if your system supports it) and route to payroll/timekeeping admin for exception handling.
-   - Ask payroll/HR for written instruction on how exceptions should be handled without misrepresenting verification.
-5. **Escalate immediately if you’re pressured to approve anyway.** Forward the request and your concern to **payroll and/or HR** (and compliance/ethics hotline if you have one), asking for written direction. If someone else has direct supervision of the hours (shift lead/site supervisor), ask for them to approve instead.
-6. **Keep a contemporaneous, factual record.** Note dates/times, who asked, what they asked you to approve, what you said, and what you did (or did not) approve.
-7. **If the issue may affect wages (underpayment/overpayment/overtime), treat it as serious.** Under the **FLSA**, the employer must keep accurate records of hours worked and pay. If internal escalation fails and you believe you’re being asked to participate in inaccurate recordkeeping or wage-and-hour violations, consider contacting the **U.S. Department of Labor Wage and Hour Division** or your **state labor agency** for guidance or to file a complaint.
+1. **Read the approval language.** Check whether the system asks you to verify accuracy, confirm that a review happened, or route an exception.
+2. **Send a short written message.** For example: “I cannot verify these time entries from the records available to me. Please advise the approved exception process or alternate approver so the records can be handled correctly.”
+3. **Ask for the approved records and process.** Request the timekeeping policy and the records available through approved channels, such as time entries, schedules, missing-punch records, supervisor notes, and edit history.
+4. **Ask payroll or HR how to route the exception.** Depending on the system, this may include an exception status, an alternate approver, or employee confirmation of the entries.
+5. **Escalate the specific concern if you are still pressured to approve.** Forward the request and your written response to payroll, HR, or the internal compliance channel. Ask for written instructions that do not require you to misstate what you verified.
+6. **Keep a brief factual note.** Record the date, the entries you could not verify, who asked for approval, and the route you used. Keep the note in a lawful, secure place. Do not remove confidential records from approved systems.
+7. **Treat possible pay errors carefully.** For covered nonexempt workers, federal law generally requires covered employers to keep accurate required records about hours worked and wages. Check whether state rules also apply. If you believe pay records may be inaccurate or a minimum-wage or overtime issue may exist and an internal route does not resolve it, you may contact the U.S. Department of Labor Wage and Hour Division for guidance. You can also check the U.S. Department of Labor list of state labor offices to find an appropriate state contact.
 
 ## What can wait
-- You do not need to decide today whether anyone intended wrongdoing.
-- You do not need to run your own investigation—ask for the formal records/process and escalate.
-- You do not need to threaten legal action or quit immediately; your priority is avoiding a false certification and creating a clear paper trail.
+- You do not need to decide whether anyone intended wrongdoing.
+- You do not need to investigate other people’s conduct yourself.
+- You do not need to decide immediately whether to make an external complaint, leave your job, or take legal action.
+- You do not need to solve the payroll process alone. Your immediate task is to avoid an inaccurate sign-off and route the exception.
 
 ## Important reassurance
-It’s normal to feel cornered when payroll deadlines collide with unclear records. Saying “I can’t verify this—please route it through the proper process” is a reasonable, professional boundary, especially when your name is being attached to a certification.
+A payroll deadline does not require you to claim that you verified something you could not check. A neutral written message and a request for the approved exception process are reasonable first steps.
 
 ## Scope note
-This is first steps only—focused on preventing an irreversible sign-off and getting the issue into the right internal channel. Next steps depend on your role, company policy, and whether the problem is isolated or systemic.
+These are first steps only. Later decisions may depend on your role, the timekeeping system, company policy, applicable state law, and whether the issue is isolated or recurring. Specialist help may be useful if the concern continues.
 
 ## Important note
-This is general information, not legal advice. Laws vary by state and by job classification. If you face retaliation for raising wage-and-hour concerns, you may want independent legal advice or to contact the appropriate labor agency.
+This is general information, not legal, medical, financial, therapeutic, or other professional advice. Laws and protections can depend on the facts, the type of concern, and the applicable federal and state rules. If you are concerned about retaliation after raising a recordkeeping, minimum-wage, or overtime issue, you may seek independent legal advice or contact the appropriate labor agency for guidance.
 
 ## Additional Resources
 - https://www.dol.gov/agencies/whd/fact-sheets/21-flsa-recordkeeping
 - https://www.dol.gov/general/topic/workhours/hoursrecordkeeping
 - https://www.dol.gov/agencies/whd/fact-sheets/77a-flsa-prohibiting-retaliation
 - https://www.dol.gov/agencies/whd/retaliation
+- https://www.dol.gov/agencies/whd/contact/complaints
+- https://www.dol.gov/agencies/whd/state/contacts

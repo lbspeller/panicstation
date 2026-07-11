@@ -1,73 +1,87 @@
-﻿---
+---
 title: "What to do if… you cannot pass urine and feel increasing discomfort"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
-  - cannot pass urine
-  - can’t pee at all
-  - unable to urinate suddenly
-  - pee won’t come out
-  - bladder feels full
-  - painful full bladder
-  - increasing lower belly discomfort
-  - acute urine retention
-  - urinary retention emergency
-  - can’t empty bladder
-  - severe urge but no urine
-  - stopped peeing suddenly
-  - distended bladder feeling
-  - pain and bloating low abdomen
-  - after surgery can’t pee
-  - after catheter removal can’t pee
-  - prostate trouble can’t pee
-  - urinary blockage concern
-  - new urinary difficulty with pain
-last_reviewed: "2026-01-21"
+  - "cannot pass urine"
+  - "cannot pee at all"
+  - "unable to urinate suddenly"
+  - "urine will not come out"
+  - "bladder feels full"
+  - "painful full bladder"
+  - "increasing bladder discomfort"
+  - "sudden urinary retention"
+  - "cannot empty bladder"
+  - "severe urge but no urine"
+  - "stopped passing urine suddenly"
+  - "lower belly discomfort no urine"
+  - "what do i do if i cannot pee"
+  - "what do i do if urine will not pass"
+  - "what do i do if my bladder feels full"
+  - "what do i do if i stopped passing urine"
+  - "help i cannot urinate"
+  - "help i cannot empty my bladder"
+  - "help i feel bladder pressure"
+  - "help i stopped peeing suddenly"
+  - "my bladder hurts and feels full"
+  - "my urine flow stopped suddenly"
+  - "my lower belly feels swollen"
+  - "pain and bloating low abdomen"
+  - "only drops of urine coming out"
+  - "strong urge with no urine"
+  - "urinary blockage concern"
+  - "constipation or urinary retention"
+  - "urinary infection or retention"
+  - "after surgery cannot pee"
+  - "after catheter removal cannot pee"
+  - "prostate trouble cannot pee"
+  - "urine retension discomfort"
+  - "urinary retenion pain"
+last_reviewed: "2026-06-12"
+date_created: "2026-06-12"
 ---
 
 # What to do if… you cannot pass urine and feel increasing discomfort (USA)
 
 ## Short answer
-Go to the **Emergency Department now** if you cannot pass urine at all and discomfort is increasing. Call **911** if you are very unwell, confused, fainting, or unable to get there safely.
+Go to an Emergency Department now if you cannot pass urine at all and discomfort is increasing. Call 911 for emergency assistance if you have collapsed, are confused or difficult to wake, or cannot get to the ED safely.
 
 ## Do not do these things
-- Do not keep straining to urinate (it can worsen pain and won’t clear a blockage).
-- Do not try to “push it through” by rapidly drinking lots of fluids.
-- Do not take someone else’s medication or start new OTC cold/flu medicines to self-treat.
-- Do not attempt to insert anything into your urethra or self-catheterize unless you have been specifically trained and instructed to do so for urinary retention.
-- Do not wait for it to “resolve on its own” if you cannot pass urine and discomfort is increasing.
+- Do not delay leaving by repeatedly trying to urinate.
+- Do not keep straining, as this may worsen discomfort.
+- Do not delay leaving by drinking large amounts of fluid in an attempt to force urination.
+- Do not insert anything into your urethra unless you have been trained and instructed to self-catheterize for your condition.
+- Do not force a catheter.
+- Do not take someone else’s medication.
+- Do not start new over-the-counter cold, flu, or allergy medication to self-treat while arranging care.
 
 ## What to do now
-1. **Go to an Emergency Department now.** Sudden inability to urinate with increasing pain needs prompt treatment.
-2. **Call 911 if any danger signs are present**, including: severe or escalating lower-abdominal pain, confusion/drowsiness, collapse/fainting, or if you are too unwell to travel safely.
-3. **Treat certain symptoms as an emergency.** If you have **new leg weakness**, **numbness in the groin/saddle area**, or symptoms after a **back injury**, **call 911**.
-4. **Don’t delay leaving to “keep trying.”**  
-   - If it does **not** delay you, you may make **one** gentle attempt to urinate (no straining), then stop.  
-   - Avoid repeated attempts.
-5. **Bring what helps the ED move fast (without slowing your departure).**  
-   - Approximate time you last urinated; whether none has come out versus only drops.  
-   - Any blood in urine, fever/chills, back/flank pain, recent injury, recent surgery/anesthesia, pregnancy/postpartum status.  
-   - A list/photos of all medications (prescription + OTC) and recent changes.  
-   - **ID and insurance card** if you have them (do not delay leaving if you can’t find them).
-6. **If you already have a urinary catheter and it has stopped draining:** treat it as urgent. Don’t pull on it—go to the ED (or call 911 if you are very unwell).
-7. **If you self-catheterize for a known condition and suddenly cannot:** do not force repeated attempts—seek urgent medical care immediately.
+1. **Go to an Emergency Department now.** Sudden inability to urinate can require emergency medical treatment.
+2. **Call 911 for emergency assistance if needed.** Call if you have collapsed, are confused or difficult to wake, or cannot get to the ED safely.
+3. **Do not delay departure by repeatedly trying to urinate.**
+4. **Tell the ED staff immediately about possible spinal warning signs.** These include new leg weakness, numbness around the groin or saddle area, loss of bowel control, or symptoms following a back injury. Call 911 if you need emergency assistance to get there safely.
+5. **Note a few details if this does not delay leaving.** Tell the ED when you last passed urine, whether no urine is coming out or only drops, and whether you have fever, chills, blood in your urine, back or side pain, recent surgery, anesthesia, or catheter removal. Bring a medication list or photos of medication labels if these are easy to take with you.
+6. **If you already have a urinary catheter and it has stopped draining, check for a visible kink and gently reposition the external tubing if needed.** Do not pull on or disconnect the catheter. If it still seems blocked, contact your clinician promptly. If you have increasing discomfort or a painful full-bladder feeling, go to the ED now.
+7. **If you normally self-catheterize and cannot drain your bladder, do not force repeated attempts.** Go to the ED now if discomfort is increasing.
 
 ## What can wait
-- You do **not** need to diagnose the cause right now (prostate enlargement, medication side effect, infection, nerve issue, stone, etc.).
-- You do **not** need to decide on long-term treatment today—focus on urgent evaluation and relieving the retention safely.
-- You do **not** need to “try a bunch of home fixes” first.
+- You do not need to work out the cause before leaving.
+- You do not need to decide on long-term treatment now.
+- You do not need to try multiple home remedies first.
+- You do not need to gather paperwork if finding it will delay departure.
 
 ## Important reassurance
-This is painful and scary, and it’s common to feel embarrassed or unsure about going to the ED. You’re not overreacting: acute urinary retention is a recognised urgent condition, and prompt care is appropriate.
+It is understandable to feel embarrassed or unsure about seeking help. Sudden inability to pass urine with increasing discomfort is an appropriate reason to go to the Emergency Department.
 
 ## Scope note
-These are immediate first steps only. Once the urgent problem is treated, clinicians can help determine the cause and next steps.
+These are first steps only. After the urgent problem is treated, clinicians can assess the cause and discuss later decisions with you.
 
 ## Important note
-This guide is general information, not medical advice or a diagnosis. If symptoms are severe, rapidly worsening, or you feel unsafe, call 911.
+This guide provides general information only. It is not medical advice, a diagnosis, or a substitute for care from a qualified healthcare professional.
 
 ## Additional Resources
-- https://www.niddk.nih.gov/health-information/urologic-diseases/urinary-retention/definition-facts
-- https://www.niddk.nih.gov/health-information/urologic-diseases/urinary-retention/symptoms-causes
-- https://my.clevelandclinic.org/health/diseases/15427-urinary-retention
 - https://medlineplus.gov/ency/article/003143.htm
+- https://medlineplus.gov/ency/patientinstructions/000140.htm
+- https://medlineplus.gov/enlargedprostatebph.html
+- https://www.911.gov/calling-911/frequently-asked-questions/
+- https://www.ncbi.nlm.nih.gov/books/NBK537200/

@@ -1,83 +1,115 @@
-﻿---
+---
 title: "What to do if… you hear loud squeaking or fluttering from a chimney or vent and suspect trapped wildlife"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
-  - animal in chimney
-  - animal in vent
-  - bird in chimney
-  - bat in chimney
-  - fluttering in vent
-  - squeaking in attic vent
-  - scratching in flue
-  - wildlife stuck in fireplace
-  - raccoon in chimney
-  - squirrel in chimney
-  - chimney noises at night
-  - chimney noises daytime
-  - something stuck in duct
-  - wildlife in dryer vent
-  - animal in exhaust vent
-  - trapped animal in house
-  - bat exposure concern
-  - nuisance wildlife removal
-  - chimney cap missing
-last_reviewed: "2026-03-04"
+  - "animal in chimney"
+  - "animal in vent"
+  - "bird in chimney"
+  - "bat in chimney"
+  - "bat in vent"
+  - "wildlife in chimney"
+  - "wildlife in vent"
+  - "fluttering in chimney"
+  - "squeaking in chimney"
+  - "squeeking in chimney"
+  - "scratchng in flue"
+  - "what do i do if animal in chimney"
+  - "what do i do if bird in chimney"
+  - "what do i do if bat in chimney"
+  - "what do i do if wildlife in vent"
+  - "help i hear fluttering in chimney"
+  - "help i hear squeaking in vent"
+  - "my chimney is making noises"
+  - "my vent has an animal"
+  - "loud squeaking from chimney"
+  - "fluttering from vent"
+  - "scratching in flue"
+  - "chirping in fireplace"
+  - "noises behind vent grille"
+  - "animal stuck in duct"
+  - "bird stuck in flue"
+  - "bat exposure concern"
+  - "raccoon in chimney"
+  - "squirrel in chimney"
+  - "wildlife in dryer vent"
+  - "chimney noises at night"
+  - "chimney cap missing"
+  - "gas appliance vent blocked"
+  - "fireplace animal noises"
+  - "bathroom fan vent noises"
+last_reviewed: "2026-06-16"
+date_created: "2026-06-16"
 ---
 
 # What to do if… you hear loud squeaking or fluttering from a chimney or vent and suspect trapped wildlife (USA)
 
 ## Short answer
-Stop using anything connected to that chimney/vent, keep the area contained, and contact animal control, your health department (for bats), a licensed wildlife control operator, or a chimney professional.
+Stop using anything connected to that chimney or vent, keep people and pets away, and contain the area. Then call local animal control, your local health department if bats may be involved, or a licensed or state-permitted wildlife control operator or chimney professional.
 
 ## Do not do these things
-- Don’t light a fire or run an appliance that vents through that chimney/flue to “drive it out.”
-- Don’t block the outside opening of the chimney/vent (you can trap the animal and worsen distress or create ventilation problems).
-- Don’t try to grab it with bare hands or poke it with tools (injury risk; wildlife may bite/scratch).
-- Don’t use poisons, glue traps, flooding, or smoke tactics.
-- Don’t keep “checking closer” if bats might be involved — focus on containment and professional/public-health guidance.
+- Do not light a fire or run an appliance that vents through that chimney, flue, or duct to try to drive the animal out.
+- Do not seal, cap, tape, or block the outside opening while the animal may still be inside.
+- Do not grab wildlife with bare hands, poke it with tools, or try to scare it deeper into the vent.
+- Do not use poison, glue traps, flooding, smoke, or chemical repellents.
+- Do not release a bat found in living space until you have spoken with animal control or your local health department.
+- Do not climb onto a roof or dismantle ducting while panicked.
 
 ## What to do now
-1. **Make the house systems safe first (and treat fume risk as urgent).**
-   - If it could be connected to a **fireplace, furnace flue, water-heater vent, wood stove, or gas appliance**, turn that appliance **off** and don’t use it until the vent path is confirmed clear.
-   - If you suspect **carbon monoxide** (headache, dizziness, nausea, unusual fatigue): **get fresh air immediately** (open doors/windows if safe, turn off combustion appliances, and leave the home). If someone is **not fully alert/unconscious**, **call 911**.
-2. **Contain the area and protect people/pets.**
-   - Keep kids and pets away from the fireplace opening or vent grille.
-   - Close interior doors to limit where the animal could go if it enters the room.
-3. **If a bat might be involved, treat it as a health-safety issue.**
-   - Don’t handle bats.
-   - If a bat is in living space, **confine it to one room** by closing interior doors (only if you can do so safely).
-   - **Contact animal control or your health department** for safe capture/testing guidance. **Do not release the bat until you’ve talked with a public health expert.**
-4. **Call the right help (best available locally).**
-   - **Animal control / local municipal services** (often fastest for “animal in the house”).
-   - A **licensed nuisance wildlife control operator** (many states regulate wildlife removal; a pro can remove and prevent re-entry legally).
-   - A **chimney professional** if it’s clearly in the flue and inspection/access is needed.
-5. **If it’s a bird that has dropped to the bottom of the chimney (fireplace below), set the room up so it can be handled safely.**
-   - Remove people/pets, **close doors to other rooms**, and **close blinds/curtains** to reduce frantic flying into glass.
-   - Keep the room quiet while you wait for animal control/wildlife control/chimney help.
-   - If you already know how your damper works and can open it **without forcing anything**, do so only in a controlled way; otherwise, **don’t try to “figure it out” under stress** — wait for a professional.
-6. **Write down what matters for the responder.**
-   - Time started, sound type (fluttering vs scratching), exact location (fireplace opening, dryer vent, bathroom fan vent, soffit vent), and any signs of nesting material/debris.
-   - If safe, take a short audio/video from a distance.
+1. **Stop the connected system.**
+   - If the noise may be in a fireplace, furnace flue, water-heater vent, wood-stove pipe, gas appliance vent, dryer vent, bathroom fan vent, or kitchen exhaust, stop using that system.
+   - If it involves a combustion appliance, turn it off only if you can do that safely. If you cannot, leave the area and call 911, the fire department, the utility emergency line, or your landlord.
+
+2. **Treat possible carbon monoxide symptoms as urgent.**
+   - If anyone has headache, dizziness, nausea, confusion, unusual tiredness, fainting, or symptoms that improve outside the home, get everyone into fresh air.
+   - Call 911 or local emergency help if symptoms are severe, anyone is confused, faint, not fully alert, or you cannot safely shut off a possible source.
+
+3. **Contain the room or area.**
+   - Move children and pets away from the fireplace, vent grille, appliance, or wall opening.
+   - Close interior doors so the animal has fewer places to go if it enters the room.
+   - Keep the area quiet and avoid repeated close checking.
+
+4. **If a bat might be involved, switch to public-health caution.**
+   - Do not touch the bat.
+   - If a bat is in a living space, close doors to keep it in one room only if you can do that safely.
+   - Call animal control or your local health department for safe capture, testing, and exposure guidance.
+   - Do not release the bat until a public health expert tells you what to do.
+
+5. **Call the right local help.**
+   - Call local animal control or municipal services for an animal in the house, chimney, or vent.
+   - Call a licensed or state-permitted wildlife control operator if your area uses that system.
+   - Call a chimney professional if the sound is in a fireplace, flue, or chimney and access or inspection is needed.
+   - Call an HVAC, dryer-vent, or appliance professional if the sound is inside a duct or appliance vent.
+
+6. **Make the room safer while waiting.**
+   - Keep fireplace doors or screens closed if they are already closed.
+   - If a bird or other animal has entered a room, close doors to other rooms and cover large windows or mirrors if you can do so calmly.
+   - Do not open a damper, vent cover, or access panel unless animal control, a wildlife professional, or a chimney professional tells you to.
+
+7. **Give the responder useful details.**
+   - Note when the sound started, where it is loudest, and whether it is fluttering, scratching, chirping, squeaking, or thumping.
+   - Mention the exact system involved, such as fireplace, dryer vent, bathroom fan, kitchen exhaust, furnace flue, water-heater vent, soffit vent, or attic vent.
+   - From a safe distance, take a short audio or video clip if it will not bring you closer to the animal.
 
 ## What can wait
-- You don’t need to identify the exact species before you call.
-- You don’t need to decide on permanent sealing, caps, screens, or repairs until after the animal is removed and you’re sure no young are present.
-- You don’t need to climb on the roof or dismantle ducting in a rush.
+- You do not need to identify the exact species before calling.
+- You do not need to decide on chimney caps, screens, permanent sealing, repairs, or pest-proofing right now.
+- You do not need to climb, take equipment apart, or solve the whole problem tonight.
+- Do not seal the opening until a qualified person says no animal, nest, eggs, or young are inside.
 
 ## Important reassurance
-Chimneys and vents can act like “hollow trees” for wildlife, and the noises can be startling. Most problems get worse when people use fire, seal openings, or try to handle wildlife — containment and the right help is the safest route.
+Wildlife can mistake chimneys and vents for hollow trees or sheltered spaces, and the noise can sound much worse than the actual risk. The safest first step is not to force the animal out; it is to stop connected systems, contain the area, and get the right local help.
 
 ## Scope note
-This is first-steps guidance to reduce harm and buy time. Specific removal methods depend on species, season (young may be present), and local/state rules about wildlife handling.
+These are first steps only. Removal methods, timing, and repairs may depend on the species, whether young are present, the type of vent or chimney, and local, state, or federal wildlife rules.
 
 ## Important note
-This is general information, not medical or legal advice. If bats are involved and there’s any chance of contact (especially if someone was asleep), follow public-health guidance promptly and avoid direct handling.
+This is general information, not medical, legal, veterinary, pest-control, chimney, HVAC, or professional safety advice. If bats, possible bites, possible contact, or carbon monoxide symptoms are involved, seek appropriate local public-health or emergency guidance promptly.
 
 ## Additional Resources
 - https://www.cdc.gov/rabies/prevention/bats.html
 - https://www.epa.gov/indoor-air-quality-iaq/protect-your-family-and-yourself-carbon-monoxide-poisoning
-- https://www.wihumane.org/wildlife/solutions/chimney
+- https://www.fws.gov/story/chimney-swifts
+- https://www.wihumane.org/resource/wildlife-in-my-chimney-or-fireplace/
 - https://www.humaneworld.org/en/resources/what-do-about-chimney-swifts
 - https://www.nwcoa.com/wildlife-issue-bats/
-- https://www.mayoclinic.org/diseases-conditions/carbon-monoxide/symptoms-causes/syc-20370642

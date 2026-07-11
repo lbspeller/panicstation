@@ -1,86 +1,116 @@
-﻿---
+---
 title: "What to do if… your authenticator app shows accounts missing after an update or phone change"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
-  - authenticator accounts missing
-  - 2fa codes disappeared
-  - authenticator app reset after update
-  - new phone authenticator empty
-  - lost 2fa app entries
-  - microsoft authenticator restore
-  - google authenticator transfer
-  - authy tokens missing
-  - otp accounts disappeared
-  - locked out of account 2fa
-  - phone upgrade lost authenticator
-  - update wiped authenticator
-  - missing two factor codes
-  - recovery codes for 2fa
-  - qr code 2fa setup again
-  - cannot access email 2fa
-  - suspected sim swap
-last_reviewed: "2026-03-09"
+  - "authenticator accounts missing"
+  - "authenticator app empty"
+  - "authenticator app reset"
+  - "authenticator codes gone"
+  - "two-factor codes missing"
+  - "two-step codes missing"
+  - "2fa codes disappeared"
+  - "otp accounts disappeared"
+  - "phone change authenticator missing"
+  - "new phone authenticator empty"
+  - "update wiped authenticator"
+  - "lost authenticator entries"
+  - "authenticator acounts missing"
+  - "authenicator codes gone"
+  - "what do i do if authenticator reset"
+  - "what do i do if codes vanished"
+  - "what do i do if 2fa disappeared"
+  - "what do i do if new phone lost codes"
+  - "help i lost authenticator accounts"
+  - "help i cannot get 2fa codes"
+  - "help i changed phones and lost codes"
+  - "help i updated authenticator and codes vanished"
+  - "my authenticator app is empty"
+  - "my 2fa codes are gone"
+  - "blank authenticator screen"
+  - "missing account list"
+  - "no verification code showing"
+  - "old phone still has codes"
+  - "new phone has no codes"
+  - "phone lost cell service"
+  - "app backup not enabled"
+  - "cloud sync turned off"
+  - "transfer accounts not done"
+  - "backup codes missing"
+  - "sim swap suspected"
+  - "after phone upgrade"
+  - "after app update"
+  - "after factory reset"
+  - "after number transfer alert"
+  - "old phone not wiped"
+last_reviewed: "2026-06-25"
+date_created: "2026-06-25"
 ---
 
 # What to do if… your authenticator app shows accounts missing after an update or phone change (USA)
 
 ## Short answer
-Stop and **don’t uninstall or reset the authenticator app yet**. First, try the app’s **restore/sync/transfer** features and use account **backup codes / alternate sign-in methods** to regain access safely.
+Do not uninstall, clear, reset, or wipe the authenticator app or old phone yet. First try the app’s restore, sync, or transfer option, then use backup codes or another verified sign-in method to get back into your most important accounts.
 
 ## Do not do these things
-- Do not uninstall/reinstall, clear storage, or “reset” the authenticator app before you’ve attempted restore/sync/transfer (you can erase the remaining recovery path).
-- Do not click sign-in “support” links from random messages—go to the real site/app directly.
-- Do not rush to disable two-factor authentication on accounts while panicked; do it only from verified account settings after you’re signed in.
-- Do not ignore it if you also lost cellular service or got alerts about a SIM change/number transfer.
+- Do not uninstall, reinstall, clear storage, or reset the authenticator app before trying restore, sync, or transfer.
+- Do not wipe the old phone if it may still show working authenticator codes.
+- Do not click sign-in or support links from unexpected texts, emails, or pop-ups; go to the real site or app directly.
+- Do not disable two-factor authentication while panicked unless you are already signed in through verified account settings and are immediately adding a safer replacement method.
+- Do not share screenshots that show live one-time codes.
+- Do not ignore it if you also lost cellular service, cannot receive calls or texts, or got a notice about a SIM change or number transfer.
 
 ## What to do now
-1. **Make the phone stable and keep evidence for support.**
-   - Plug in the phone and ensure you can unlock it reliably.
-   - Take screenshots of the authenticator app showing missing/empty accounts (helps if you need support).
+1. Make the phone stable before changing anything.
+   - Plug in the phone.
+   - Keep the authenticator app open if it still shows anything useful.
+   - Avoid updating, reinstalling, resetting, or clearing app storage unless an official recovery step specifically requires it.
+   - If you need screenshots for official support, hide or crop out any visible one-time codes.
 
-2. **Use the correct recovery flow for the authenticator you’re using (before reinstalling).**
-   - **Microsoft Authenticator:** use “Restore from backup” / “Begin recovery.” Microsoft states restores only work **to the same device type** (iOS↔iOS, Android↔Android).
-   - **Google Authenticator:** if you still have the old phone, use **Transfer accounts** (export on old, import/scan on new). If your version offers sign-in/cloud sync and you previously enabled it, sign in and check whether anything repopulates—but keep transfer/re-enrolment as your main plan.
-   - **Authy:** re-install and verify your phone number. If you previously enabled multi-device and backups, tokens may reappear. If they don’t, Twilio notes tokens can sometimes be permanently lost after device loss/factory reset/sync problems—so you may need to re-enrol 2FA with each service. If you can’t access Authy on any device but still control the phone number, use Authy’s **Recover Access** process (it can take time, and any Authy backup password/key can’t be recovered).
+2. Check the authenticator app’s own recovery path.
+   - For Microsoft Authenticator, open the app and use Restore from backup or Begin recovery before signing in normally. Microsoft says backup and restore generally work only on the same device type, such as iOS to iOS or Android to Android.
+   - For Google Authenticator, check that you are signed in to the correct Google Account in the app. If your codes were saved to a Google Account, they may sync when you sign in on the new device. If you used Google Authenticator without a Google Account and still have the old phone, use Transfer accounts, export on the old phone, and import by scanning the QR code on the new phone.
+   - For Authy, try the official Authy restore or account recovery route. Tokens may return if the needed settings and backups were already in place; if they do not, you may need each affected service to reset or re-enrol two-factor authentication.
 
-3. **If you still have the old phone, treat it as your recovery key.**
-   - Keep it powered; don’t wipe it.
-   - Transfer/export accounts if the app supports it.
-   - If transfer isn’t possible, use the old phone to sign in to your most important accounts and add a second sign-in method (backup codes, another authenticator, security key) before you lose access.
+3. If the old phone still has codes, use it first.
+   - Keep it powered on and connected.
+   - Use its current codes to sign in to your most important accounts.
+   - Once signed in, add a second sign-in method before removing the old authenticator entry.
+   - Save new backup codes somewhere you can reach without that phone.
 
-4. **Regain access in an order that prevents cascading lockouts.**
-   - **Email account(s)** used for password resets (first).
-   - **Cell carrier account** (so you can stop SIM/number takeovers quickly).
-   - **Password manager** (if you use one).
-   - **Financial accounts**, then everything else.
+4. Regain access in the order that reduces lockouts.
+   - Start with the email account used for password resets.
+   - Then secure your cell carrier account.
+   - Then secure your password manager, if you use one.
+   - Then handle financial accounts, work accounts, and the rest.
 
-5. **Use built-in “alternate verification” options on each account (don’t guess).**
-   - Look for: “Try another way,” “backup codes,” “security key,” “text/call,” “trusted device,” or “account recovery.”
-   - After you’re back in, go to the account’s security settings and **re-add/re-link the authenticator** and generate new backup codes.
+5. Use each account’s official alternate verification options.
+   - On the real website or app, look for options such as Try another way, backup codes, security key, trusted device, text, call, or account recovery.
+   - Do not guess codes repeatedly.
+   - After you get back in, remove the broken authenticator entry, add the authenticator again, and generate fresh backup codes.
 
-6. **Check quickly for signs of compromise.**
-   - Review your email account’s recent sign-ins, password reset emails, and any changes to recovery email/phone.
-   - If anything looks wrong, change the email password, sign out of other sessions, and secure recovery methods.
+6. Check for signs that this is more than an app problem.
+   - In your email account, review recent sign-ins, password reset messages, forwarding rules, recovery email changes, and recovery phone changes.
+   - If anything looks wrong, change the email password, sign out of other sessions, and secure recovery methods from a trusted device.
+   - Check high-risk accounts for new devices, changed recovery details, or unfamiliar transactions.
 
-7. **If you suspect a SIM swap/number port (you suddenly lose service or can’t receive calls/texts):**
-   - Contact your mobile carrier immediately to regain and lock down control of the number.
-   - Check bank/credit card accounts for unauthorized changes and contact your financial institutions if anything looks wrong.
-   - If you believe you’re a victim of SIM swapping or related fraud, file a report with the FBI via **IC3**.
+7. If you may be dealing with a SIM swap or number port, act on the phone number first.
+   - Contact your mobile carrier through its official app, website, store, or published support number to regain control of the number.
+   - Ask about locking the account or adding port-out protection.
+   - Check bank and credit card accounts for unauthorized changes or transactions.
+   - If you believe this involved cyber-enabled fraud, you can file a report with IC3.
 
 ## What can wait
-- You don’t need to pick the “best” authenticator app today—focus on restoring access first.
-- You don’t need to reset every password immediately; start with email and high-risk accounts.
-- You don’t need to perfect your long-term security setup today—just get back into accounts safely without creating new lockouts.
+You do not need to choose the best authenticator app today. You do not need to reset every password at once unless there are signs of compromise. You do not need to perfect your long-term security setup now; focus on preserving any remaining codes, getting into email, and avoiding new lockouts.
 
 ## Important reassurance
-This happens a lot during phone upgrades: many authenticator apps store codes locally unless backup/sync was enabled, so it can feel like everything vanished at once. Going step-by-step—email first, then re-enrolling 2FA—usually gets you back in.
+This can happen during phone upgrades, app changes, account sign-outs, or when backup was not enabled. It feels sudden, but working in order usually gives you the best chance of restoring access without making the loss worse.
 
 ## Scope note
-These are immediate first steps to stabilize access and prevent irreversible mistakes. Some services (banks, workplaces, government accounts) may require their specific identity checks to reset 2FA.
+These are first steps only. Some banks, workplaces, government accounts, schools, or platforms may require their own identity checks or administrator help before they reset two-factor authentication.
 
 ## Important note
-This is general information, not professional security, legal, or financial advice. If you think someone else may be accessing your accounts, use official support channels and treat it as a possible account compromise.
+This is general information, not professional security, legal, financial, or technical advice. Use official support channels for the specific app, carrier, or account involved.
 
 ## Additional Resources
 - https://support.microsoft.com/en-us/account-billing/restore-account-credentials-from-microsoft-authenticator-ce53096e-1e1c-4840-9e32-1618bc33cd43
@@ -89,5 +119,4 @@ This is general information, not professional security, legal, or financial advi
 - https://help.twilio.com/articles/19753413578523-Restoring-Authy-Access-on-a-New-Lost-or-Inaccessible-Phone
 - https://help.twilio.com/articles/19752893953051-My-Authy-Tokens-are-Missing-or-Lost
 - https://consumer.ftc.gov/consumer-alerts/2019/10/sim-swap-scams-how-protect-yourself
-- https://www.fbi.gov/contact-us/field-offices/phoenix/news/press-releases/fbi-tech-tuesday-sim-swapping
 - https://www.ic3.gov/

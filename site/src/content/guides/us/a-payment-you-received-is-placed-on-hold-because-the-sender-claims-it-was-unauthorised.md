@@ -1,100 +1,119 @@
-﻿---
+---
 title: "What to do if… a payment you received is placed on hold because the sender claims it was unauthorised"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
-  - payment on hold
-  - funds on hold
-  - payment dispute
-  - unauthorized payment claim
-  - sender says unauthorized
-  - unauthorized transaction dispute
-  - chargeback filed
-  - cardholder dispute
-  - payment reversal risk
-  - payment processor hold
-  - paypal funds hold
-  - buyer dispute opened
-  - seller dispute response
-  - proof of delivery
-  - proof of shipment
-  - digital delivery proof
-  - possible stolen card
-  - refund scam risk
-  - resolution center dispute
-  - account security check
-last_reviewed: "2026-01-10"
+  - "payment received on hold"
+  - "received payment disputed"
+  - "sender claims unauthorized payment"
+  - "unauthorized payment hold"
+  - "payment reversal pending"
+  - "chargeback on received payment"
+  - "buyer disputes received payment"
+  - "payment processor dispute"
+  - "funds frozen after payment"
+  - "received funds at risk"
+  - "what do i do if payment is held"
+  - "what do i do if sender disputes payment"
+  - "what do i do if buyer claims unauthorized"
+  - "what do i do if received funds are frozen"
+  - "help i received a disputed payment"
+  - "help i have a payment hold"
+  - "help i got a chargeback"
+  - "help i may lose received funds"
+  - "my received payment is on hold"
+  - "my buyer says payment was unauthorized"
+  - "my funds are frozen after payment"
+  - "payment marked unauthorized"
+  - "funds unavailable after sale"
+  - "dispute notice after payment"
+  - "chargeback notice from processor"
+  - "buyer denies making payment"
+  - "payment pending review"
+  - "buyer says card was stolen"
+  - "sender says account was hacked"
+  - "refund request outside platform"
+  - "payment hold or chargeback"
+  - "unathorized payment claim"
+  - "unauthorised payment hold"
+  - "payment hold after shipping"
+  - "payment hold after digital delivery"
+  - "payment hold after marketplace sale"
+  - "payment hold after service work"
+  - "payment hold after item handover"
+  - "payment disputed after delivery"
+  - "received payment fraud claim"
+last_reviewed: "2026-06-01"
+date_created: "2026-06-01"
 ---
 
 # What to do if… a payment you received is placed on hold because the sender claims it was unauthorised (USA)
 
 ## Short answer
-Do not treat the money as settled: stop spending it, pause any fulfilment you still can, and respond inside the payment provider’s dispute/chargeback process with proof of what you delivered.
+Treat the disputed amount as unavailable. Sign in to the payment provider directly, open the case, note the deadline, and follow the provider’s instructions before releasing anything else or submitting evidence.
 
 ## Do not do these things
-- Don’t “refund” by sending a new payment outside the platform (different app, wire, gift cards, crypto, etc.).
-- Don’t use email/text links to “fix the dispute” — sign in directly to your account.
-- Don’t ship/hand over more goods or provide more access while the payment is on hold.
-- Don’t take the sender’s word that they’ll “drop the dispute” if you pay them another way.
-- Don’t delete order records, messages, tracking, logs, or screenshots.
-- Don’t share sensitive info (SSN, bank login codes, one-time codes) with anyone claiming they can “release the hold.”
+- Don’t send a new refund through another app, a wire transfer, gift cards, or crypto.
+- Don’t use a link in an email or text to open the dispute. Sign in through the provider’s official app or website.
+- Don’t automatically ship, hand over, redirect, or unlock anything else before reading the case instructions.
+- Don’t rely on the sender saying they will withdraw the claim if you pay them another way.
+- Don’t delete messages, order details, tracking records, access logs, invoices, or screenshots.
+- Don’t share your SSN, bank password, login code, or one-time security code with anyone offering to release the hold.
 
 ## What to do now
-1. **Assume the funds could be reversed.**  
-   Until the dispute closes, treat that money as unavailable. Avoid spending it or moving it around as if it’s yours.
+1. **Set the disputed amount aside.**  
+   Do not spend it, withdraw it, or use it to make a separate refund. The provider may keep it on hold or reverse it while the case is reviewed.
 
-2. **Pause fulfilment immediately (if possible).**  
-   - Physical items: stop shipping; if already shipped, gather tracking and delivery confirmation.  
-   - Digital/services: pause new work or additional access; keep existing proof intact.
+2. **Open the case from inside your account.**  
+   Sign in directly to the payment provider. Record the case ID, disputed amount, reason shown, response deadline, and any instructions. If a message says there is a dispute but no case appears after direct sign-in, contact the provider through its official support route.
 
-3. **Open the dispute details from inside your account (not from a message).**  
-   Check the dispute type and the response deadline. “Unauthorized transaction” disputes often require different proof than “item not received.”
+3. **Pause and check before any further release.**  
+   - If an item has not shipped, do not automatically ship or release it. Read the case instructions immediately. If the next step is unclear, contact official provider support through the provider’s app or website because protection rules can be time-sensitive.  
+   - If an item is already in transit, save the tracking details. Check the provider’s instructions or official support route before requesting a redirect or intercept because changed delivery details can affect the available evidence.  
+   - If this involved digital access or service work, pause any new access or additional work while keeping existing records intact.  
+   - If an in-person handover has not happened, postpone it while you review the case.
 
-4. **Submit focused evidence through the official portal.**  
-   Strong evidence often includes:
-   - shipment/delivery proof (carrier tracking, delivery confirmation, signature if available)
-   - the shipping address on the order and that you shipped to it
-   - invoices/order confirmation and what was promised
-   - message history showing the buyer requested/approved the purchase
-   - for digital goods/services: logs showing delivery/access and timestamps (download logs, access logs, email delivery receipts, work handoff confirmation)
+4. **Gather records that match the claim.**  
+   Keep the originals and make a clear copy of the relevant items:
+   - the order, invoice, payment record, amount, and date
+   - messages or written confirmation connected to the purchase
+   - the shipping address shown on the order
+   - carrier tracking and delivery confirmation, if relevant
+   - access logs, download records, or work-handover records for digital goods or services
+   - any written communication from the sender about the transaction
 
-5. **If this was paid by card, expect a chargeback-style process.**  
-   The buyer’s bank/card issuer may be the decision-maker. Your practical task is to meet your processor/platform deadlines with clear fulfilment evidence and “ship-to/address-on-order” consistency.
+5. **Submit focused evidence through the official dispute workflow.**  
+   Use the provider’s requested categories and submit the most relevant records before the deadline shown in your account. Review the packet before sending it because some providers limit later changes or additional files.
 
-6. **Keep communication on-platform and minimal.**  
-   If you communicate with the sender, do it through the marketplace/payment messages and keep it factual: “I’ve responded in the dispute center with fulfilment evidence.”
+6. **Do not rely on informal assurances that the dispute is closed.**  
+   For a card-funded dispute, the processor usually forwards evidence and the card issuer commonly decides the outcome. Wallets and other payment methods may use a different process. Keep following the official case status until your account shows that the matter is closed.
 
-7. **Lock down your accounts today.**  
-   - Change your password and enable 2-factor authentication.  
-   - Review recent logins/devices and payout/bank details for changes.  
-   - Secure the email account linked to the payment account.
+7. **Secure your account if anything looks wrong.**  
+   If you clicked a suspicious link, see an unfamiliar login, receive an unexpected security code, or notice changed payout details, change your password, turn on two-factor authentication, secure the linked email account, review payout settings, and contact official support.
 
-8. **If you suspect fraud, report it and use the right bank process.**  
-   - Report scams/fraud to the FTC via its reporting system.  
-   - If a bank account, debit card, or other electronic fund transfer is involved (ACH/debit/prepaid), contact your bank and ask for their **“Regulation E / error resolution / unauthorized EFT”** process, then follow it as soon as you can.
-
-9. **If the company mishandles the case, escalate in writing.**  
-   Use the company’s complaint process first. If it’s a bank/credit card/consumer financial product and you’re stuck, you can submit a complaint to the CFPB (include the dispute ID, dates, and your best proof).
+8. **Report a suspected scam if needed.**  
+   If the sender is asking for money outside the provider, using pressure, or sending suspicious links, you can report the situation to the FTC and keep the report confirmation with your records.
 
 ## What can wait
-- Deciding whether to pursue the sender directly — wait for the dispute outcome first.
-- Trying to “outsmart” the process with extra documents — submit what the portal asks for, clearly labeled.
-- Any big financial decisions (closing accounts, switching banks) — handle the immediate dispute and security first.
+- Deciding whether to contact the sender outside the provider’s message system.
+- Sending extra documents that the dispute workflow has not asked for.
+- Closing accounts or switching payment providers.
+- Deciding whether you need specialist help after the immediate deadline is handled.
 
 ## Important reassurance
-Holds and “unauthorized” disputes happen even to honest sellers and ordinary people. A hold is the system pausing the money while the dispute is reviewed. The safest path is to slow down, keep everything on-platform, and provide clean proof by the deadline.
+A disputed-payment hold does not mean you have done something wrong. The useful next step is to slow down, treat the amount as unavailable, and respond through the official case workflow with clear records.
 
 ## Scope note
-These are first steps to reduce immediate loss and prevent irreversible mistakes. If the amount is large, you ship high-value items, or you see repeated disputes, consider specialist help later (merchant support, legal counsel, or a qualified advisor).
+These are first steps only. Later decisions may need help from the payment provider, a merchant-support service, or an appropriate professional, especially if the amount is large or similar disputes keep appearing.
 
 ## Important note
-This guide is general information, not legal advice. Dispute rules vary by payment method, card network, bank, and platform, and deadlines can be strict—always follow the instructions shown in your account.
+This guide is general information, not legal, financial, medical, therapeutic, or other professional advice. Processes and deadlines vary by payment method and provider. Follow the instructions shown in your account.
 
 ## Additional Resources
 - https://www.paypal.com/us/legalhub/paypal/seller-protection
-- https://consumer.ftc.gov/articles/using-credit-cards-and-disputing-charges
+- https://docs.stripe.com/disputes/how-disputes-work
+- https://docs.stripe.com/disputes/responding
+- https://squareup.com/help/us/en/article/7891-your-square-document-request-guide
 - https://consumer.ftc.gov/articles/what-do-if-you-were-scammed
-- https://reportfraud.ftc.gov/faq
-- https://www.consumerfinance.gov/ask-cfpb/how-do-i-get-my-money-back-after-i-discover-an-unauthorized-transaction-or-money-missing-from-my-bank-account-en-1017/
-- https://www.consumerfinance.gov/rules-policy/regulations/1005/11
-- https://www.consumerfinance.gov/complaint/
+- https://consumer.ftc.gov/articles/how-recognize-avoid-phishing-scams
+- https://reportfraud.ftc.gov/

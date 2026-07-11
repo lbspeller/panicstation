@@ -1,82 +1,118 @@
-﻿---
+---
 title: "What to do if… your files suddenly change names or extensions and you do not know why"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
-  - files renamed suddenly
-  - file extensions changed
-  - strange file extensions
-  - files look encrypted
-  - folders renamed
-  - random file names
-  - files have .locked extension
-  - file extension .encrypted
-  - ransom note on computer
-  - possible ransomware
-  - possible malware infection
-  - cloud sync went wrong
-  - shared drive files changed
-  - external drive affected
-  - photos documents unreadable
-  - can't open my files
-  - windows files changed names
-  - mac files changed extensions
-  - happened all at once
-  - i don't know what changed them
-last_reviewed: "2026-03-09"
+  - "files renamed suddenly"
+  - "file extensions changed"
+  - "strange file extensions"
+  - "files look encrypted"
+  - "folders renamed suddenly"
+  - "random file names"
+  - "ransom note on computer"
+  - "possible ransomware"
+  - "possible malware infection"
+  - "what do i do if files changed names"
+  - "what do i do if file extensions changed"
+  - "what do i do if my files are encrypted"
+  - "what do i do if folders renamed"
+  - "help i cant open files"
+  - "help i see a ransom note"
+  - "help i found locked files"
+  - "help i think ransomware"
+  - "my files have weird names"
+  - "my photos are unreadable"
+  - "my documents changed extensions"
+  - "files changed all at once"
+  - "files have locked extension"
+  - "files have encrypted extension"
+  - "computer shows ransom message"
+  - "cloud files renamed"
+  - "shared drive files changed"
+  - "external drive files changed"
+  - "windows files changed names"
+  - "mac files changed extensions"
+  - "cant open my files"
+  - "file extention changed"
+  - "randsom note on computer"
+last_reviewed: "2026-06-29"
+date_created: "2026-06-29"
 ---
 
 # What to do if… your files suddenly change names or extensions and you do not know why (USA)
+
 ## Short answer
-Assume it could be ransomware: **immediately isolate the affected device from networks and stop cloud syncing**, then document what you see before attempting fixes.
+Treat this as possible ransomware until you know otherwise. Disconnect the affected device from networks, pause cloud syncing, and document what you see before trying fixes.
 
 ## Do not do these things
-- Don’t keep the device online while you experiment (that can spread encryption to shared drives and cloud storage).
-- Don’t rename files back or run “miracle decryptor” tools you found randomly online.
-- Don’t attach extra USB drives “to back up” until the device is isolated (malware can reach newly attached drives).
-- Don’t wipe/reinstall immediately if you may need evidence for IT support, insurance, or reporting.
-- Don’t pay or negotiate in a rush.
-- Don’t pay “recovery fees” to unsolicited callers/messages claiming to be “IC3/FBI” or a “recovery agent” (this is a common follow-on scam).
+- Do not keep the device online while you experiment.
+- Do not rename files back, delete ransom notes, or run random “decryptor” tools you found online.
+- Do not plug in extra USB drives or external drives to “back up” the affected device.
+- Do not wipe or reinstall immediately if you may need IT help, insurance records, or a report.
+- Do not decide about payment in a rush.
+- Do not pay unsolicited callers, messages, or “recovery agents” claiming to be IC3, the FBI, or a guaranteed recovery service.
 
 ## What to do now
-1. **Disconnect the device from all networks (containment).**  
-   - Turn off Wi-Fi and Bluetooth, unplug Ethernet, disconnect from any hotspot.  
-   - If you use shared drives or NAS, disconnect that shared storage from the network to prevent spread.
-2. **Stop syncing and sharing (prevent propagation).**  
-   - Pause cloud sync on the affected device (OneDrive/iCloud/Dropbox/Google Drive).  
-   - If you can do so safely from another trusted device, pause sync from the provider’s web settings as well.
-3. **Capture evidence of what happened (quickly, calmly).**  
-   - Take photos/screenshots of ransom notes, changed extensions, and error messages.  
-   - Note the approximate time you first noticed changes and what you were doing just before (opened attachment, installed software, etc.).
-4. **Check if it’s spreading (without reconnecting the suspect device).**  
-   - From another device you trust, check whether cloud folders or shared drives show the same renamed/encrypted files.  
-   - If other devices are affected, isolate them too.
-5. **Contact the right support channel and report safely.**  
-   - If this is a work/school device: contact IT/security right away and say “possible ransomware/encryption; files renamed/extensions changed.”  
-   - Report to the **FBI Internet Crime Complaint Center (IC3)** and consider contacting your local FBI field office.  
-   - **Important:** type **www.ic3.gov** directly into your browser (avoid sponsored search results and lookalike sites). IC3/FBI won’t charge fees to “recover” money or files.
-6. **Preserve a small sample for recovery options later (after isolation).**  
-   - Copy a small set of affected files plus any ransom note text to a separate USB drive (ideally empty/newly formatted), then unplug it and label it (date/time).  
-   - Don’t reconnect that USB drive to other computers unless a trusted professional/IT advises you to.
-7. **If encryption still appears to be actively ongoing.**  
-   - If file names/extensions keep changing even after network disconnection, power the device down (CISA notes this can be appropriate if you can’t fully disconnect) and hand off to IT or a reputable incident response professional.
+1. Disconnect the affected device from networks.
+   - Turn off Wi-Fi.
+   - Unplug Ethernet.
+   - Disconnect from any hotspot.
+   - Leave the device disconnected while you check the next steps.
+
+2. Stop syncing and sharing.
+   - Pause OneDrive, iCloud, Dropbox, Google Drive, or any other sync app on the affected device if you can do that without reconnecting.
+   - From another trusted device, sign in to the cloud provider and pause sync or disconnect the affected device if that option is available.
+   - If a shared drive, NAS, or work server may be involved, disconnect that storage from the network or tell the person who manages it.
+
+3. Take quick evidence photos.
+   - Photograph or screenshot ransom notes, changed file extensions, error messages, and folder names.
+   - Write down the time you first noticed the change.
+   - Write down anything that happened just before it, such as opening an attachment, installing software, clicking a link, or connecting a drive.
+
+4. Check for spread without reconnecting the suspect device.
+   - Use a different trusted device to check whether cloud folders show the same renamed or unreadable files.
+   - Ask other people who use the same shared drive whether they see changed names or extensions.
+   - If another device shows the same changes, disconnect that device too.
+
+5. Contact the right support channel.
+   - For a work or school device, contact IT or security and say: “Possible ransomware or file encryption; files renamed or extensions changed.”
+   - For a personal device, contact a reputable computer repair or incident-response professional before restoring backups or running recovery tools.
+   - If you have cyber insurance, use the insurer’s incident contact route before making payment or recovery decisions.
+
+6. Report safely when you can.
+   - You can report ransomware to the FBI Internet Crime Complaint Center.
+   - Type www.ic3.gov directly into your browser address bar.
+   - Avoid sponsored search results and lookalike sites.
+   - IC3 will not charge a fee to recover money or files.
+   - You can also contact your local FBI field office.
+
+7. If file names or extensions keep changing after disconnection.
+   - If you cannot fully disconnect the device, or changes still appear to be actively happening, power the device down.
+   - Do not turn it back on or reconnect it until IT or a trusted professional tells you what to do next.
+
+8. Preserve samples only with care.
+   - Keep screenshots and notes.
+   - Do not attach new storage to the suspect device just to collect samples.
+   - If IT, law enforcement, or a trusted incident-response professional asks for a ransom note or affected file sample, follow their instructions after the device is isolated.
 
 ## What can wait
-- You do **not** need to decide right now whether to pay, wipe, or rebuild everything.
-- You do **not** need to identify the malware family today.
-- You do **not** need to start restoring backups immediately; containment and documentation come first.
+- You do not need to decide right now whether to pay, wipe, rebuild, or replace the computer.
+- You do not need to identify the malware family today.
+- You do not need to start restoring backups immediately.
+- You do not need to message every contact or change every password before containment, unless IT or a trusted professional tells you there is an account compromise.
 
 ## Important reassurance
-This is a common “freeze” moment: your brain wants to click and undo things fast. Taking one minute to isolate and pause syncing often prevents a bad situation from becoming much bigger.
+This is a common moment to freeze or click quickly. Slowing down, disconnecting the device, and stopping sync can limit the damage and buy time for safer recovery decisions.
 
 ## Scope note
-These are first steps to reduce harm and buy time. Full recovery (backups, account security, forensic review, notifications) depends on your exact setup and often needs specialist help.
+These are first steps only. Recovery, backup restoration, account security, forensic review, insurance, and notifications may need specialist help based on your device, network, and files.
 
 ## Important note
-This is general information, not legal, forensic, or professional incident-response advice. If you’re unsure what caused the changes, treating it as ransomware at first (isolate, stop sync, document, report) is typically the safest path.
+This is general information, not legal, forensic, cybersecurity, financial, or professional incident-response advice. If you are unsure what caused the file changes, treating it as possible ransomware at first is usually the safer path.
 
 ## Additional Resources
 - https://www.cisa.gov/stopransomware/ive-been-hit-ransomware
 - https://www.cisa.gov/ransomware-response-checklist
 - https://www.fbi.gov/how-we-can-help-you/scams-and-safety/common-frauds-and-scams/ransomware
+- https://www.ic3.gov
 - https://www.ic3.gov/PSA/2025/PSA250919

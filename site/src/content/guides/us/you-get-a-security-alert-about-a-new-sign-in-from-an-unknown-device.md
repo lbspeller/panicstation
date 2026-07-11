@@ -1,91 +1,109 @@
-﻿---
+---
 title: "What to do if… you get a security alert about a new sign-in from an unknown device"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
-  - security alert new sign-in
-  - unknown device login
-  - unrecognized sign-in notification
-  - new device sign-in alert
-  - was this me sign-in
-  - account takeover warning
-  - suspicious login email
-  - sign-in from new location
-  - compromised account check
-  - someone accessed my account
-  - unexpected verification code
-  - password changed without me
-  - email account compromised
-  - google security alert
-  - microsoft unusual sign-in
-  - apple account sign-in prompt
-  - multi factor authentication setup
-  - sign out of all devices
-  - recovery email changed
-  - account security review
-last_reviewed: "2026-03-08"
+  - "security alert new sign-in"
+  - "unknown device sign-in"
+  - "unknown device login"
+  - "unrecognized sign-in notification"
+  - "new device sign-in alert"
+  - "new sign-in warning"
+  - "suspicious login alert"
+  - "account takeover warning"
+  - "unexpected account access"
+  - "someone accessed my account"
+  - "what do i do if i got a security alert"
+  - "what do i do if someone logged in"
+  - "what do i do if my account was accessed"
+  - "what do i do if login was not me"
+  - "help i got a sign-in alert"
+  - "help i got a login warning"
+  - "my account says new device"
+  - "my email got a login alert"
+  - "my password may be compromised"
+  - "my account was logged into"
+  - "login from new location"
+  - "unexpected verification code"
+  - "password changed without me"
+  - "recovery email changed"
+  - "unfamiliar device listed"
+  - "unknown session active"
+  - "email forwarding rule appeared"
+  - "not sure if alert is real"
+  - "was this me sign-in"
+  - "phishing or real alert"
+  - "false security alert"
+  - "acount security alert"
+  - "unkown device login"
+  - "after clicking login alert"
+last_reviewed: "2026-06-15"
+date_created: "2026-06-15"
 ---
 
 # What to do if… you get a security alert about a new sign-in from an unknown device (USA)
 
 ## Short answer
-Assume it could be real: open the service directly (not through the alert), confirm the sign-in details, and if it wasn’t you, secure the account immediately by changing the password, signing out everywhere, and enabling multi-factor authentication.
+Treat it as possibly real. Open the service directly, not through the alert, check the sign-in activity, and if it was not you or you are unsure, secure the account now.
 
 ## Do not do these things
-- Don’t click links in the alert email/text to “verify” or “stop” the sign-in—go to the site/app yourself.
-- Don’t reply to the alert message or call a phone number shown in a suspicious email.
-- Don’t reuse an old password or a “slightly changed” version.
-- Don’t keep approving prompts/codes to “make the alert go away.”
-- Don’t spend time hunting for the attacker while your account is still open.
+- Don’t use links, buttons, phone numbers, or reply options in a suspicious alert message.
+- Don’t give anyone a verification code, one-time password, recovery code, or MFA approval.
+- Don’t reuse an old password or a slightly changed version of it.
+- Don’t keep approving prompts or codes to make the alerts stop.
+- Don’t spend time trying to identify the person while the account may still be open.
 
 ## What to do now
-1. **Verify the alert safely (fast).**  
-   Open the app or type the website address yourself. Go to **Security / Sign-in activity / Devices / Recent activity** and match the alert to an entry (time, device, location, device details if shown).
+1. **Open the account safely.**  
+   Open the app yourself or type the website address into your browser. Go to the account’s **Security**, **Sign-in activity**, **Devices**, or **Recent activity** area.
 
-2. **If it wasn’t you (or you’re unsure), use the service’s built-in “secure my account” flow.**  
-   Look for prompts like **“No, secure account”** or **“This wasn’t me”** and follow them—these often force session resets and extra checks.
+2. **Check whether the alert matches real activity.**  
+   Compare the alert with the account’s activity log. Look for the time, approximate location, device type, browser, or session details if the service shows them.
 
-3. **Change the password immediately (from a device you trust).**  
-   Make it new and unique. If you reused the old password anywhere else, put those accounts on a short list to change next (start with email and financial accounts).
+3. **If it was not you, or you are unsure, use the account’s secure-account option.**  
+   Choose options such as **This wasn’t me**, **No, secure account**, **Review activity**, or **Secure your account** if they appear. Follow the provider’s steps before doing anything else.
 
-4. **Sign out everywhere and remove unknown devices/sessions.**  
-   Use account settings to **sign out of all devices/sessions**, remove unfamiliar devices, and revoke access for unknown connected apps (“third-party access”).
+4. **Change the password from a device you trust.**  
+   Make the new password unique to this account. If the same password was used anywhere else, put those accounts on a short list to change next, starting with email, banking, payment, and password manager accounts.
 
-5. **Turn on multi-factor authentication (MFA) now.**  
-   Prefer an authenticator app, device prompt, or security key if available. Keep backup codes somewhere safe (not in the same email account you’re securing).
+5. **Sign out other sessions and remove unfamiliar access.**  
+   Use account settings to sign out of other devices or sessions if the service offers it. Remove unfamiliar devices, trusted devices, connected apps, delegates, or third-party access.
 
-6. **Check account recovery info for silent takeover.**  
-   Confirm recovery email/phone, backup methods, and any “trusted devices.” If anything is unfamiliar, remove it and re-secure the account.
+6. **Turn on multi-factor authentication.**  
+   Use an authenticator app, device prompt, passkey, or security key if available. Save backup codes somewhere you can reach later, not only inside the account you are securing.
 
-7. **If this is your email account, check forwarding and rules.**  
-   Look for auto-forwarding addresses, inbox rules/filters, delegates, or “mail rules” you didn’t create—remove them.
+7. **Check recovery details.**  
+   Confirm the recovery email address, phone number, backup methods, and trusted devices. Remove anything unfamiliar and update anything you no longer control.
 
-8. **If money, crypto, gift cards, or paid subscriptions are involved, act in parallel.**  
-   Contact the financial provider/platform using official contact methods (from their app/site). Ask what can be **stopped, reversed, frozen, or disputed**.
+8. **If this is an email account, check hidden mail access.**  
+   Look for auto-forwarding, inbox rules, filters, delegates, connected mail apps, or sent and deleted messages you do not recognize. Remove anything you did not set up.
 
-9. **If you believe identity theft is involved, use official U.S. recovery/reporting hubs (and type addresses yourself).**  
-   Use **IdentityTheft.gov** for a step-by-step recovery plan. For cyber-enabled fraud (including account takeover), you can file a complaint with the FBI’s Internet Crime Complaint Center—**type “ic3.gov” yourself** (don’t follow links from messages).
+9. **If money, identity documents, crypto, gift cards, or paid services are involved, contact the provider directly.**  
+   Use the official app or website. Ask what can still be stopped, frozen, reversed, or disputed.
+
+10. **If personal information may have been used, use official U.S. reporting and recovery routes.**  
+   Use IdentityTheft.gov for identity theft recovery steps. For cyber-enabled account takeover or fraud, you can file a complaint with the FBI’s Internet Crime Complaint Center.
 
 ## What can wait
-- You don’t need to diagnose the cause right now (phishing vs breach vs reused password).
-- You don’t need to secure every account today—prioritize: **email → password manager → banking/payment → primary social**.
-- You don’t need to wipe devices unless you keep seeing new sign-ins after you’ve reset passwords, signed out sessions, and enabled MFA.
-- You don’t need to confront anyone—focus on regaining control first.
+- You do not need to decide right now whether this was phishing, a breach, password reuse, or a stolen device.
+- You do not need to secure every account at once. Prioritize email, password manager, banking and payment accounts, then main social accounts.
+- You do not need to wipe devices unless new sign-ins continue after password changes, session sign-outs, recovery checks, and MFA setup.
+- You do not need to confront anyone. Regaining control comes first.
 
 ## Important reassurance
-A “new sign-in” alert is meant to trigger urgency, and it can feel violating. The good news is that the most effective actions are straightforward and under your control: verify safely, secure the account, end sessions, and add MFA.
+A new sign-in alert is meant to get your attention, so it is normal to feel rushed. The strongest first steps are simple: check the account directly, close unknown access, change the password, protect recovery options, and add MFA.
 
 ## Scope note
-This is first steps only to stop unauthorized access and stabilize the situation. If new sign-ins continue after these steps, you may need deeper provider support and device checks.
+These are first steps only to stop possible unauthorized access and stabilize the situation. Later decisions may need help from the account provider, a financial provider, official identity theft recovery routes, or a trusted technical specialist.
 
 ## Important note
-This is general information, not legal advice. If you have financial loss or identity theft concerns, use official recovery/reporting channels and follow your account provider’s official instructions.
+This is general information, not legal, medical, financial, therapeutic, technical, or professional advice. Follow your account provider’s official instructions and use official recovery or reporting channels for financial loss, identity theft, or cyber-enabled fraud.
 
 ## Additional Resources
 - https://www.identitytheft.gov/
-- https://www.ftc.gov/media/71314
-- https://www.cisa.gov/secure-our-world/turn-mfa
+- https://consumer.ftc.gov/articles/how-recover-your-hacked-email-or-social-media-account
+- https://consumer.ftc.gov/articles/creating-strong-passwords-and-other-ways-protect-your-accounts
 - https://www.ic3.gov/CrimeInfo/AccountTakeover
 - https://support.google.com/accounts/answer/2590353?hl=en
 - https://support.apple.com/en-us/102560
-- https://support.microsoft.com/en-us/account-billing/what-happens-if-there-s-an-unusual-sign-in-to-your-account-eba43e04-d348-b914-1e95-fb5052d3d8f0
+- https://support.microsoft.com/en-US/accounts-billing/security/what-happens-if-there-s-an-unusual-sign-in-to-your-account

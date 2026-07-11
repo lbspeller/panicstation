@@ -1,91 +1,115 @@
-﻿---
+---
 title: "What to do if… your domain registrar shows a transfer or ownership change you did not request"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - domain hijacking
-  - stolen domain name
-  - unauthorised domain transfer
-  - domain transferred out
-  - change of registrant
-  - registrant details changed
-  - whois changed unexpectedly
-  - registrar account hacked
-  - domain ownership changed
-  - nameservers changed
-  - dns records changed
-  - auth code compromised
-  - epp code leaked
-  - domain lock problem
-  - email takeover linked
-  - website redirecting
-  - business email at risk
-  - phishing from my domain
-  - uk domain .uk transfer issue
-  - regain control of domain
-last_reviewed: "2026-03-08"
+  - "domain registrar transfer"
+  - "domain ownership change"
+  - "unauthorised domain transfer"
+  - "stolen domain name"
+  - "domain hijacking"
+  - "registrar account hacked"
+  - "domain transferred out"
+  - "registrant details changed"
+  - "domain name stolen"
+  - "domain registrar hacked"
+  - "what do i do if my domain transferred"
+  - "what do i do if my domain was stolen"
+  - "what do i do if domain ownership changed"
+  - "what do i do if registrar changed"
+  - "help i lost my domain"
+  - "help i cannot access my domain"
+  - "help i got a domain transfer email"
+  - "help i think my registrar was hacked"
+  - "my domain has moved registrar"
+  - "my domain ownership changed"
+  - "nameservers changed unexpectedly"
+  - "dns records changed"
+  - "website redirecting somewhere else"
+  - "email stopped working"
+  - "mx records changed"
+  - "phishing from my domain"
+  - "registrant changed not owner"
+  - "whois changed unexpectedly"
+  - "domain lock confusion"
+  - "auth code leaked"
+  - "epp code compromised"
+  - "domain contact email hacked"
+  - "uk domain transfer"
+  - "business domain at risk"
+  - "domian registrar changed"
+  - "unauthorised tranfer notice"
+last_reviewed: "2026-05-25"
+date_created: "2026-05-25"
 ---
 
 # What to do if… your domain registrar shows a transfer or ownership change you did not request (UK)
 
 ## Short answer
-Treat this as urgent: contact your registrar’s security/abuse team immediately and ask them to **lock the domain and your account** and to **stop or reverse** any unauthorised transfer or change of registrant if possible.
+Treat this as urgent: contact your registrar’s security or abuse team now and ask them to lock the domain and account, freeze further changes, and stop, cancel, investigate, or reverse any unauthorised transfer or ownership change if possible.
 
 ## Do not do these things
-- Don’t “wait to see if it fixes itself” or assume it’s a harmless admin update.
-- Don’t keep trying to log in over and over if you suspect compromise—stop after one attempt and switch to **password reset + support escalation**.
-- Don’t delete emails, support tickets, invoices, or registrar notifications related to the change.
-- Don’t pay unsolicited “domain recovery” messages or anyone who claims they can “release” your domain for a fee.
-- Don’t make lots of DNS/website changes while ownership is unclear (it can complicate recovery and evidence).
+- Do not wait to see if it fixes itself or assume it is a harmless admin update.
+- Do not keep retrying logins if you suspect compromise; after one careful attempt, switch to password reset and support escalation.
+- Do not delete emails, support tickets, invoices, registrar alerts, or account notifications about the change.
+- Do not pay unsolicited “domain recovery” messages or anyone claiming they can release the domain for a fee.
+- Do not make lots of DNS, website, or mailbox changes while ownership is unclear unless your registrar tells you to.
 
 ## What to do now
-1. **Open an urgent ticket and use any real-time support channel your registrar offers.**
-   - Say: **“unauthorised transfer”** and/or **“unauthorised change of registrant.”**
-   - Ask them to confirm: *what changed* (registrar? registrant contact? nameservers? auth/EPP code?) and *exactly when*.
+1. Open an urgent support ticket and use any real-time support channel your registrar offers.
+   - Say: “unauthorised transfer” and “unauthorised change of registrant.”
+   - Ask them to confirm what changed: registrar, registrant contact, account email, nameservers, DNS records, auth or transfer code, or .uk tag change.
+   - Ask for the exact time of the change and the ticket reference.
 
-2. **Ask for immediate locks/holds the registrar can apply right now.**
-   - Request **registrar lock** on the domain (and any “transfer lock” options) plus an **account-level lock** if they offer it.
-   - If you’re told the domain is already “in transfer,” ask what **stop/cancel** options exist and what evidence they need to act quickly.
+2. Ask for immediate locks or holds the registrar can apply.
+   - Request any available registrar lock, transfer lock, account lock, or security hold.
+   - If the domain is already in transfer, ask what stop, cancel, dispute, or recovery options exist and what evidence they need from you now.
 
-3. **Secure the accounts attackers commonly use to take domains (start with email).**
-   - Change passwords for: the **registrar account**, the **email inbox used for the domain contact**, and any **DNS/hosting provider** accounts.
-   - Turn on **MFA** everywhere you can.
-   - In your email account, check for: **forwarding rules**, **new mailbox delegates**, and changes to **recovery email/phone**.
+3. Secure the accounts attackers commonly use to take domains.
+   - Change the password for the registrar account from a clean device.
+   - Change the password for the email inbox used as the domain contact.
+   - Change the password for any DNS, website hosting, and email hosting accounts connected to the domain.
+   - Turn on multi-factor authentication wherever it is available.
+   - In the email account, check for forwarding rules, new delegates, new app passwords, and changed recovery email or phone details.
 
-4. **Collect proof and a clean timeline (this helps your registrar/registry act).**
-   - Save screenshots/PDFs of: registrar alerts, account activity logs, WHOIS/registration details, invoices/receipts, and older registration/renewal confirmations.
-   - Write down exact timestamps (UK time), ticket numbers, and who you spoke to.
+4. Collect proof and make a simple timeline.
+   - Save screenshots or PDFs of registrar alerts, account activity logs, registration details, invoices, renewal confirmations, and DNS or nameserver changes.
+   - Write down times in UK time, ticket numbers, names of support agents, and what each person told you.
+   - Keep the original emails with full headers if you can do that without delaying the registrar escalation.
 
-5. **If it’s a .UK domain, ask about Nominet’s registry-level protections.**
-   - For **.uk / .co.uk / .org.uk**, your registrar can work with **Nominet** on registry status.
-   - Ask specifically whether **Nominet Domain Lock** (a paid, registrar-provided service) is relevant once you regain control, and whether any registry-side action is needed now.
+5. If it is a .uk, .co.uk, or .org.uk domain, ask about Nominet-related action.
+   - Ask your registrar whether any registry-side hold, investigation, or correction is needed.
+   - Ask whether Nominet Domain Lock is relevant once control is restored, especially if the domain is important to your business or public identity.
 
-6. **Check for immediate harm: DNS and email routing changes.**
-   - Check whether **nameservers** changed and whether key DNS records changed (especially **MX** for email).
-   - If you suspect phishing/impersonation, warn colleagues/customers through an alternate trusted channel and treat emails “from you” as untrusted until control is restored.
+6. Check for immediate harm from DNS and email changes.
+   - Check whether nameservers changed.
+   - Check whether MX records changed, because that can affect email delivery and interception.
+   - Check whether the website now redirects somewhere unexpected.
+   - If you suspect phishing or impersonation, warn colleagues, suppliers, or customers through a separate trusted channel and say emails from the affected domain may not be reliable until control is restored.
 
-7. **Report as cyber crime/fraud if there’s money loss, extortion, or customer impact.**
-   - If you live in **England, Wales or Northern Ireland**, report via **Report Fraud**.
-   - If you live in **Scotland**, report via **Police Scotland** (101 unless it’s an emergency).
+7. Report cyber crime or fraud if there is money loss, extortion, impersonation, customer harm, or wider criminal misuse.
+   - If you live in England, Wales or Northern Ireland, report through Report Fraud.
+   - If you live in Scotland, report through Police Scotland, using 101 or its online reporting route for non-emergencies.
+   - If there is immediate danger to life or an incident is happening now and needs an urgent police response, call 999.
 
 ## What can wait
 - You do not need to decide today whether to sue, rebrand, or move registrars.
-- You do not need to “fix security everywhere” right now—focus on the registrar account, the domain-contact email, and DNS/hosting access first.
-- You do not need to publish a public statement unless there is clear customer risk (for example, phishing from your domain).
+- You do not need to fix every security issue everywhere right now; start with the registrar account, domain-contact email, DNS, hosting, and email routing.
+- You do not need to publish a public statement unless there is clear risk to other people, such as phishing, impersonation, or emails being sent from your domain.
 
 ## Important reassurance
-This happens to competent people and organisations, often through email compromise or social engineering. Acting quickly and keeping good records can materially improve the chance of stopping further changes and recovering control.
+Domain compromise can happen to careful people and competent organisations, often through email compromise, reused access, or social engineering. Fast escalation, account locking, and a clear timeline can materially improve your chance of stopping further changes and recovering control.
 
 ## Scope note
-This is first-step guidance to stabilise the situation and preserve your ability to recover the domain. Later steps (formal disputes, complaints, legal action) may need specialist support.
+These are first steps to stabilise the situation and preserve your ability to recover the domain. Later decisions about disputes, complaints, insurance, contracts, or legal action may need specialist help.
 
 ## Important note
-This is general information, not legal advice. Registrar and registry processes vary by provider and domain type; follow your registrar’s security escalation process and keep evidence in case you need to prove ownership.
+This is general information, not legal, financial, technical, or professional advice. Registrar and registry processes vary by provider and domain type, so follow your registrar’s security escalation process and keep evidence in case you need to prove control or ownership.
 
 ## Additional Resources
 - https://www.ncsc.gov.uk/guidance/managing-public-domain-names
 - https://www.ncsc.gov.uk/collection/using-online-services-safely/protecting-your-public-domain-name
 - https://nominet.uk/uk-registry/security-and-protection/
-- https://registrars.nominet.uk/uk-namespace/security-tools-and-protection/domain-lock/
+- https://registrars.nominet.uk/uk-namespace/domain-abuse-prevention-and-disruption/domain-lock/
 - https://www.reportfraud.police.uk/
-- https://www.gov.uk/government/news/report-fraud-new-service-from-city-of-london-police
+- https://www.scotland.police.uk/advice/scams-and-frauds/

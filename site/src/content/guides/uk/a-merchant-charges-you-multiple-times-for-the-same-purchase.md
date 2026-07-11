@@ -1,85 +1,124 @@
-﻿---
+---
 title: "What to do if… a merchant charges you multiple times for the same purchase"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
-  - charged twice
-  - double charged
-  - multiple charges same purchase
-  - duplicate card charge
-  - duplicate transaction
-  - repeated card payment
-  - card payment duplicated
-  - merchant charged me twice
-  - pending duplicate charge
-  - card authorisation duplicated
-  - contactless charged twice
-  - chip and pin charged twice
-  - online order charged twice
-  - apple pay charged twice
-  - google pay charged twice
-  - paypal duplicate charge
-  - card statement duplicate payment
-  - billing error on card
-  - overdraft because charged twice
-last_reviewed: "2026-01-08"
+  - "charged twice same purchase"
+  - "double charged same purchase"
+  - "multiple charges same purchase"
+  - "duplicate card charge"
+  - "duplicate transaction on card"
+  - "merchant charged me twice"
+  - "repeated card payment"
+  - "same order charged twice"
+  - "card payment duplicated"
+  - "pending duplicate charge"
+  - "what do i do if charged twice"
+  - "what do i do if double charged"
+  - "what do i do if merchant charged twice"
+  - "what do i do if payment duplicated"
+  - "help i was charged twice"
+  - "help i have duplicate charges"
+  - "my card was charged twice"
+  - "my order was charged twice"
+  - "two payments for one purchase"
+  - "two charges on statement"
+  - "same merchant appears twice"
+  - "pending and completed charge"
+  - "overdraft after duplicate charge"
+  - "available balance gone down twice"
+  - "duplicate authorisation"
+  - "pre authorisation charge"
+  - "card hold mistaken for charge"
+  - "paypal duplicate charge"
+  - "chip and pin charged twice"
+  - "contactless charged twice"
+  - "online order charged twice"
+  - "apple pay charged twice"
+  - "google pay charged twice"
+  - "chargd twice same purchase"
+  - "double chared same order"
+last_reviewed: "2026-04-27"
+date_created: "2026-04-27"
 ---
 
 # What to do if… a merchant charges you multiple times for the same purchase (UK)
 
 ## Short answer
-First, check whether the extra charges are still “pending”. If a duplicate is posted (or a pending duplicate doesn’t drop off after a few days — timing varies), ask the merchant to refund it and be ready to raise a card dispute with your bank/card provider.
+Check whether the extra entry is still pending or has actually posted. If the duplicate has posted, or the hold is leaving you short for essentials, ask the merchant to reverse it and contact your bank or card provider if it is not fixed promptly.
 
 ## Do not do these things
-- Don’t assume every duplicate is final — “pending” card authorisations can appear twice and one may drop off later.
-- Don’t ignore it if it risks leaving you short for essentials (rent, bills, food) — act the same day to prevent fees and knock-on problems.
-- Don’t start multiple disputes for the same amount with different providers without noting what you’ve already done (it can create confusion and delays).
-- Don’t send original receipts/documents away — keep originals and share copies/screenshots.
-- Don’t cancel your card in a panic unless you suspect fraud (if you didn’t make the purchase, treat it as unauthorised instead).
+- Don’t assume every duplicate is final; pending card authorisations can appear and then disappear.
+- Don’t ignore it if it leaves you short for rent, bills, food, travel, or other essentials.
+- Don’t open overlapping claims without noting what you have already asked for and who you contacted.
+- Don’t send original receipts or documents away; keep originals and share copies or screenshots.
+- Don’t cancel your card in a panic unless you suspect fraud or your provider tells you to.
+- Don’t describe it as fraud if you did make the purchase and the problem is a duplicate charge; say “duplicate charge for the same purchase”.
 
 ## What to do now
-1. **Verify what you’re seeing (takes 2 minutes).**
-   - In your banking app/statement, note: the *merchant name as shown*, amounts, dates/times, and whether each entry says **pending** or **completed/posted**.
-   - If one entry is pending, re-check over the next few days (some pending entries fall off later). If money is tight, continue with the steps below today anyway.
+1. **Check what kind of duplicate it is.**
+   - Open your banking app or statement.
+   - Note the merchant name as shown, each amount, each date and time, and whether each entry says pending, completed, or posted.
+   - If one entry is pending, it may drop off, but continue with the next steps now if the hold is affecting money you need.
 
-2. **Save quick proof while it’s easy to find.**
-   - Keep the receipt/order confirmation, and take screenshots of the transaction list showing the duplicates.
-   - If it was in-store, note the store location and any receipt/till reference number.
+2. **Save quick proof.**
+   - Keep the receipt, order confirmation, invoice, or booking confirmation.
+   - Take screenshots showing the duplicate entries and the single purchase details.
+   - If it was in-store, note the shop location, till number, receipt number, or staff member you spoke to if you have it.
 
-3. **Ask the merchant to reverse the duplicate (same day if you can).**
-   - Provide: order/receipt number, the duplicate amounts, and the date/time.
-   - Ask for written confirmation that they will **refund the duplicate charge(s)** and when they expect it to show on your account.
+3. **Ask the merchant to reverse or refund the duplicate.**
+   - Say: “I was charged more than once for the same purchase.”
+   - Give the order or receipt number, the duplicate amounts, and the dates.
+   - Ask for written confirmation of whether they will void a pending authorisation or refund a posted duplicate payment.
+   - Ask when the correction should show on your account.
 
-4. **If the merchant won’t fix it promptly, contact your bank/card provider to dispute the duplicate.**
-   - Tell them it’s a **duplicate charge for the same purchase** and you’ve asked the merchant for a refund.
-   - Ask them to open a **chargeback/card dispute** and what evidence they need.
-   - Start early: chargeback rules commonly require the process to begin within a limited window (often around **120 days**, but it varies by provider and card scheme).
+4. **If the duplicate is on PayPal, use the PayPal transaction details.**
+   - Open the PayPal transaction and contact the seller or recipient from that page.
+   - Say it is a billing issue involving multiple charges for the same transaction.
+   - Ask the seller or recipient to refund the duplicate.
+   - If it is not resolved, use PayPal’s Resolution Centre and keep screenshots of the case and any messages.
 
-5. **If the payment was taken by Direct Debit (not a card payment), use the Direct Debit Guarantee.**
-   - Tell your bank a Direct Debit was taken in error/duplicated and ask for a **refund under the Direct Debit Guarantee**.
+5. **If the merchant does not fix it promptly, contact your bank or card provider.**
+   - Tell them it is a duplicate charge for the same purchase.
+   - Ask whether the extra entry is only a pending authorisation or whether it has posted.
+   - Ask them what evidence they need for a chargeback or card dispute.
+   - Start early; chargeback is usually not a legal right and your provider usually needs to start the process within a limited window, often 120 days.
 
-6. **If your provider doesn’t put it right after you complain, escalate (UK-specific).**
-   - Make a formal complaint to your bank/card provider and keep the reference number.
-   - If you receive a final response you disagree with, or they don’t respond within the allowed time, you can take it to the **Financial Ombudsman Service** (time limits depend on the complaint type).
+6. **If the payment was a Direct Debit, use the Direct Debit Guarantee instead.**
+   - Tell your bank or building society that a Direct Debit was duplicated or taken in error.
+   - Ask for a full and immediate refund under the Direct Debit Guarantee.
+   - This route is for Direct Debit payments, not ordinary card purchases.
+
+7. **If the duplicate charge has caused a money shortage, tell your provider now.**
+   - Explain that the duplicate has left you unable to cover essentials or may cause fees.
+   - Ask whether they can help with the pending hold, refund charges caused by the error, or add a note to your account while it is investigated.
+   - Keep a record of the date, time, and what they said.
+
+8. **If your provider refuses to put it right, make a complaint.**
+   - Make a formal complaint to the bank, card provider, or payment provider and keep the complaint reference.
+   - If you receive a final response you disagree with, or the provider does not respond within the relevant complaint response time, you can ask the Financial Ombudsman Service to look at it.
+   - The response time is usually up to 8 weeks, but some payment-service or e-money complaints may have shorter 15- or 35-day timeframes.
+   - Check the Financial Ombudsman time limits before waiting, especially after a final response.
 
 ## What can wait
-- You don’t need to decide right now whether to close accounts or change payment methods.
-- You don’t need to write a long explanation — the key facts are dates, amounts, and evidence of the single purchase.
-- You can leave reviews or broader complaints until your refund/dispute is underway.
+- You do not need to decide now whether to close the account or change banks.
+- You do not need to write a long explanation; dates, amounts, the merchant name, and proof of one purchase are enough to start.
+- You can leave reviews, wider complaints about service, or switching payment methods until the refund or dispute route is underway.
 
 ## Important reassurance
-This is a common processing error (especially with contactless/online systems), and it often resolves with either a merchant refund or a bank/card dispute. Acting quickly is a practical way to prevent overdrafts, missed payments, and extra fees.
+Duplicate charges and pending authorisations are common enough that banks, card providers, PayPal, and merchants have processes for handling them. The useful thing now is to keep clear evidence, use the right route for the payment type, and act quickly if the duplicate affects money you need.
 
 ## Scope note
-These are first steps to stabilise the situation and start the fastest legitimate refund/dispute route. If the merchant or bank challenges what happened, you may need more detailed help later (for example, formal complaints and extra documentation).
+These are first steps only to stabilise the situation and start the refund, reversal, dispute, or complaint route. Later decisions may need specialist help if the merchant, bank, card provider, or payment provider disputes what happened.
 
 ## Important note
-This is general information, not legal or financial advice. Processes and time limits can vary by bank, card type, and how the payment was made, so follow your provider’s instructions and keep records of every contact.
+This is general information, not legal, financial, or professional advice. Processes and time limits can vary by provider, card scheme, payment method, and account type, so follow your provider’s instructions and keep records of every contact.
 
 ## Additional Resources
 - https://www.moneyhelper.org.uk/en/everyday-money/credit/how-youre-protected-when-you-pay-by-card
 - https://www.ukfinance.org.uk/our-expertise/cards/chargeback-and-section-75
 - https://www.directdebit.co.uk/direct-debit-guarantee/
 - https://www.citizensadvice.org.uk/consumer/somethings-gone-wrong-with-a-purchase/getting-your-money-back-if-you-paid-by-card-or-paypal/
+- https://www.paypal.com/uk/cshelp/article/how-do-i-report-a-billing-issue-help272
 - https://www.financial-ombudsman.org.uk/make-complaint
 - https://www.financial-ombudsman.org.uk/consumers/expect/time-limits

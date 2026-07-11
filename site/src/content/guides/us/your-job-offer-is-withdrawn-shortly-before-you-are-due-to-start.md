@@ -1,75 +1,94 @@
-﻿---
+---
 title: "What to do if… your job offer is withdrawn shortly before you are due to start"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
-  - job offer rescinded
-  - offer rescinded before start
-  - new job fell through
-  - start date cancelled
-  - offer letter signed
-  - accepted offer then withdrawn
-  - at will job offer pulled
-  - job offer revoked
-  - job start delayed
-  - background check adverse action
-  - credit check employment denial
-  - drug test contingency
-  - reference check issue
-  - quit old job for new
-  - already gave notice
-  - relocation for new job
-  - hiring discrimination concern
-  - offer rescinded unfair
-  - relied on job offer
-last_reviewed: "2026-01-07"
+  - "job offer withdrawn"
+  - "job offer rescinded"
+  - "offer withdrawn before start"
+  - "offer rescinded before start"
+  - "new job fell through"
+  - "start date cancelled"
+  - "job start cancelled"
+  - "accepted offer withdrawn"
+  - "signed offer withdrawn"
+  - "job ofer withdrawn"
+  - "start date cancled"
+  - "what do i do if my job offer is withdrawn"
+  - "what do i do if my offer is rescinded"
+  - "what do i do if my start date is cancelled"
+  - "what do i do if my new job fell through"
+  - "help i lost my job offer"
+  - "help i already quit my job"
+  - "help i moved for a job"
+  - "my job offer was pulled"
+  - "my start date disappeared"
+  - "offer pulled after background check"
+  - "offer pulled after credit check"
+  - "offer withdrawn after drug test"
+  - "offer pulled after references"
+  - "offer withdrawn after relocation"
+  - "quit old job for new offer"
+  - "already gave notice"
+  - "moved for job offer"
+  - "background check problem"
+  - "credit report problem"
+  - "drug screen issue"
+  - "reference check problem"
+  - "role eliminated before start"
+  - "budget change before start"
+  - "discrimination after job offer"
+  - "retaliation after job offer"
+last_reviewed: "2026-06-30"
+date_created: "2026-06-30"
 ---
 
 # What to do if… your job offer is withdrawn shortly before you are due to start (USA)
 
 ## Short answer
-Get the rescission confirmed in writing and save every document immediately. Then act fast on the two biggest risks: (1) income disruption because you already quit or moved, and (2) a withdrawal tied to a background/credit report or discrimination.
+Get the withdrawal confirmed in writing and save every document now. Then focus on the two immediate risks: income disruption and whether the withdrawal involved a background check, credit report, or possible discrimination.
 
 ## Do not do these things
-- Do not rely on a verbal call alone—ask for written confirmation of the rescission and the stated reason.
-- Do not delete emails/texts, discard the offer letter, or lose access to any hiring portal—save copies now.
-- Do not accuse anyone in writing while you’re still missing facts; keep messages calm and specific.
-- Do not pay a third party to “fix” a background check outside formal channels—use the official dispute process.
-- Do not sign any release/waiver or “full and final” agreement without understanding what rights you’re giving up.
-- Do not assume unemployment is impossible—eligibility varies by state, and applying promptly can preserve your place in line.
+- Do not rely on a verbal call alone; ask for written confirmation of the withdrawal and the stated reason.
+- Do not delete emails, texts, offer documents, portal messages, or receipts connected to the offer.
+- Do not send an angry or accusatory message while you are still missing facts.
+- Do not pay a third party to “fix” a background check or credit report outside the official dispute process.
+- Do not sign a release, waiver, or separation-type agreement without understanding what it gives up.
+- Do not assume unemployment is impossible; eligibility is state-specific, and applying promptly can reduce delay.
 
 ## What to do now
-1. **Ask for the decision in writing (today).** Request:
-   - confirmation the offer is rescinded/withdrawn
-   - the date of the decision
-   - the stated reason (role eliminated, budget change, contingency not met, etc.)
-   - whether any contingency triggered it (background check, credit report, drug screen, references, credentialing)
-2. **Lock down your evidence.** Save/print: offer letter, acceptance, start date, pay, any relocation promises, emails/texts, portal screenshots (if safe/legal), and receipts for costs you incurred because you relied on the offer (travel, lease deposits, movers, penalties).
-3. **If this is tied to a background check or credit report, invoke your Fair Credit Reporting Act rights immediately.** If the employer used a “consumer report” to deny employment, they generally must provide a **pre-adverse action notice** that includes:
-   - a copy of the report they relied on, and
-   - a copy of “A Summary of Your Rights Under the Fair Credit Reporting Act.”  
-   Ask for those documents and the name/contact of the reporting company. Review the report for errors and dispute inaccuracies with the reporting company right away.
-4. **If you already quit your current job, try to stop the bleeding fast.** Contact your prior employer the same day and ask if rescinding your resignation, reinstatement, or a later end date is possible. Keep it brief and professional.
-5. **Ask the new employer for a concrete remedy (even if they won’t reinstate).** Examples: delayed start, placement in a similar role, reimbursement of specific reliance costs they promised, or a short bridge payment. Keep your request factual (“This is the cost/timeline impact”) and in writing.
-6. **Screen for discrimination/retaliation concerns and document what happened.** Write down (for yourself) exactly what was said and when—especially if the offer changed after you disclosed pregnancy, disability/medical needs, religion, age, or another protected characteristic, or after you requested an accommodation.
-7. **Protect EEOC deadlines now (even if you’re unsure).** In general, you must file an EEOC charge within **180 days** of the discriminatory act, extended to **300 days** in many places where a state/local agency enforces a similar anti-discrimination law (rules can differ for age claims). Don’t wait until you feel calm to at least check your deadline.
-8. **If you have no job/income now, file for unemployment with your state promptly.** You usually file in the **state where you worked**. If you worked in another state, or in multiple states, your current state’s unemployment agency can tell you how to file. Keep documentation showing the offer and rescission.
-9. **Pause job-related spending immediately.** Cancel or pause relocation, travel, or housing commitments tied to the job while refund windows are open, and list essential bills for the next 2–4 weeks so you can prioritize cash.
+1. **Ask for the decision in writing today.** Request confirmation that the offer is withdrawn, the date of the decision, the stated reason, and whether any contingency triggered it, such as a background check, credit report, drug screen, references, credentialing, budget change, or role elimination.
+
+2. **Save the evidence in a place you control.** Save or print the offer letter, acceptance, start date, pay terms, at-will or contingency wording, relocation promises, emails, texts, portal messages, and receipts for costs you incurred because you relied on the offer.
+
+3. **If a background check or credit report was involved, ask for the FCRA notices and report.** If the employer used a consumer report to deny employment, they generally must give you a pre-adverse action notice, a copy of the report they relied on, and “A Summary of Your Rights Under the Fair Credit Reporting Act” before taking the adverse action. Ask for those documents and the name and contact details of the reporting company. Review the report and dispute inaccurate information with the reporting company.
+
+4. **If you already quit your current job, contact that employer the same day.** Ask whether you can withdraw your resignation, return to the role, extend your end date, or be considered for a nearby opening. Keep the message brief, factual, and professional.
+
+5. **Ask the withdrawing employer for a practical remedy.** You can ask, in writing, whether they can delay the start instead of withdrawing the offer, place you in a similar role, reimburse specific costs they promised in writing, or provide another short-term solution. Keep the request tied to dates, documents, and specific costs.
+
+6. **Write down any discrimination or retaliation concern while it is fresh.** Note what happened, who said it, and when. This matters especially if the offer changed after you disclosed pregnancy, a disability or medical need, religion, age, national origin, race, sex, genetic information, or after you asked for an accommodation or raised a protected workplace concern.
+
+7. **Check the EEOC deadline before it is close.** For many private-sector discrimination claims, an EEOC charge generally must be filed within 180 calendar days of the discriminatory act, extended to 300 calendar days in many places where a state or local agency enforces a similar law. Age claims and federal job applicants can have different rules, including a much shorter federal-sector contact deadline, so check quickly if discrimination may be involved.
+
+8. **If you lost work or income, apply for unemployment promptly or check eligibility with your state.** Unemployment is handled by state programs. In most cases, you file in the state where you worked; if you worked in another state, worked remotely, or worked in multiple states, your state unemployment agency can tell you how to file. Keep the offer and withdrawal documents for your claim.
+
+9. **Pause job-related spending immediately.** Cancel or pause relocation, travel, housing, equipment, or other commitments tied to the job while refund windows are still open. List essential bills for the next two to four weeks so you can protect cash first.
 
 ## What can wait
-- You do not need to decide today whether you will sue or hire a lawyer—focus first on documentation and income stability.
-- You do not need to write a long complaint email. Short, factual messages are safer right now.
+- You do not need to decide today whether to sue, threaten legal action, or hire a lawyer.
+- You do not need to write a long complaint email; short, factual messages are safer right now.
 - You do not need to post publicly or name the employer online while facts and deadlines are still developing.
-- You do not need to negotiate a waiver/release immediately (if offered) without time to read it and get advice.
+- You do not need to negotiate or sign any release immediately.
 
 ## Important reassurance
-A rescinded offer can feel like the floor dropped out from under you—especially if you already gave notice or moved. The best protection in the first day or two is calm documentation and fast action on steps that preserve options (report rights, unemployment filing, and discrimination deadlines).
+A withdrawn offer can feel destabilising, especially if you already gave notice, turned down other work, or moved. The strongest first move is not a perfect legal argument; it is preserving documents, reducing immediate money pressure, and keeping deadline-sensitive options open.
 
 ## Scope note
-First steps only: this guide focuses on immediate stabilization and option-preserving actions. Longer-term legal strategy depends on state law, the exact wording of your offer letter, and what losses you incurred by relying on the offer.
+These are first steps only. Later decisions may need specialist help, especially if state law, offer-letter wording, discrimination, background-report errors, relocation costs, or a requested release are involved.
 
 ## Important note
-This is general information, not legal advice. Employment and unemployment rules vary by state, and discrimination deadlines can be strict. Before signing any waiver or giving up claims, consider qualified local advice.
+This is general information, not legal, financial, or professional advice. Employment and unemployment rules vary by state, and some deadlines can be strict. Before signing anything that gives up claims or rights, consider getting qualified local advice.
 
 ## Additional Resources
 - https://www.ftc.gov/business-guidance/resources/using-consumer-reports-what-employers-need-know
@@ -77,4 +96,3 @@ This is general information, not legal advice. Employment and unemployment rules
 - https://www.eeoc.gov/time-limits-filing-charge
 - https://www.usa.gov/unemployment-benefits
 - https://www.dol.gov/general/topic/unemployment-insurance
-- https://www.careeronestop.org/LocalHelp/UnemploymentBenefits/find-unemployment-benefits.aspx

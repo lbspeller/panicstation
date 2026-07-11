@@ -1,94 +1,125 @@
-﻿---
-title: "What to do if… your phone suddenly shows “No SIM” and your number stops working"
+---
+title: "What to do if… your phone suddenly shows No SIM and your number stops working"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
-  - no sim message
-  - phone says no sim
-  - invalid sim alert
-  - sim not detected
-  - sim card stopped working
-  - number stopped working
-  - calls and texts not working
-  - sudden loss of service
-  - cannot receive sms codes
-  - locked out of accounts by sms
-  - sim swap suspicion
-  - port out fraud
-  - number hijacked
-  - eSIM stopped working
-  - iPhone no sim
-  - android no sim
-  - carrier settings update
-  - mobile plan active but no service
-  - emergency contact from wifi
-  - phone number takeover worry
-last_reviewed: "2026-03-09"
+  - "no sim message"
+  - "phone says no sim"
+  - "invalid sim alert"
+  - "sim card not detected"
+  - "sim card stopped working"
+  - "number stopped working"
+  - "calls and texts stopped"
+  - "sudden loss of service"
+  - "cannot receive sms codes"
+  - "locked out by sms"
+  - "possible sim swap"
+  - "suspected port out fraud"
+  - "number hijacked"
+  - "esim stopped working"
+  - "what do i do if no sim"
+  - "what do i do if sim fails"
+  - "what do i do if number stopped"
+  - "what do i do if texts stopped"
+  - "help i lost phone service"
+  - "help i cannot get texts"
+  - "help i cannot receive codes"
+  - "my phone says no sim"
+  - "my number stopped working"
+  - "my sim suddenly failed"
+  - "no signal on phone"
+  - "status bar says sos"
+  - "no calls or texts"
+  - "carrier notifications missing"
+  - "bank codes not arriving"
+  - "sim swap worry"
+  - "port fraud confusion"
+  - "phone hacked worry"
+  - "sim swop suspicion"
+  - "sim card broked"
+  - "iphone no sim"
+  - "android no sim"
+  - "physical sim phone"
+  - "esim phone"
+last_reviewed: "2026-07-02"
+date_created: "2026-07-02"
 ---
 
-# What to do if… your phone suddenly shows “No SIM” and your number stops working (USA)
+# What to do if… your phone suddenly shows No SIM and your number stops working (USA)
 
 ## Short answer
-Assume it could be either a simple SIM/phone problem or a SIM-swap/port-out scam. Do the quick device checks, but if service doesn’t return fast, contact your wireless carrier from another phone and ask if your number was swapped or ported.
+Treat it as either a fixable SIM or phone problem, or a possible SIM-swap or port-out attempt. Do only the quick checks, then contact your wireless carrier through an official route and ask whether your number was moved, reissued, or ported.
 
 ## Do not do these things
-- Don’t click “carrier support” links from unexpected texts/emails or call back numbers from suspicious messages.
-- Don’t factory-reset your phone yet — it won’t fix a SIM swap and can erase useful clues.
-- Don’t share verification codes with anyone who contacts you “to restore service”.
-- Don’t delete your eSIM profile unless your carrier confirms it’s safe to do so.
+- Don’t click “carrier support” links from unexpected texts or emails.
+- Don’t call back numbers from suspicious messages about your phone service.
+- Don’t share verification codes, account PINs, passwords, or one-time codes with anyone who contacts you.
+- Don’t factory-reset your phone yet; it may not fix the problem and can erase useful information.
+- Don’t delete your eSIM profile unless your carrier tells you to do that.
+- Don’t assume it is fraud before checking, but don’t wait long if your number is suddenly unreachable.
 
 ## What to do now
-1. **Get online so you can act.**
-   - Connect to trusted **Wi-Fi**.
-   - Use a messaging/calling app you already have, or **borrow someone’s phone** to make carrier/bank calls.
+1. **Get a working connection.**
+   - Connect to trusted Wi-Fi.
+   - Use a calling or messaging app you already trust.
+   - Borrow another phone if you need to call your carrier, bank, or card issuer.
 
-2. **Do the fast, low-risk troubleshooting first (2–5 minutes).**
-   - Toggle **Airplane mode** on/off once.
-   - **Restart** the phone.
-   - If you have a **physical SIM**: power off, remove and reseat the SIM, then restart.
-   - Check for a **carrier settings update** / network update and install it if prompted.
+2. **Do the fast, low-risk phone checks.**
+   - Turn Airplane mode on, wait a few seconds, then turn it off.
+   - Restart the phone once.
+   - Check that the mobile line or SIM is turned on in your phone settings.
+   - If you have a physical SIM, power off the phone, remove and reseat the SIM, then restart.
+   - Install a carrier settings update, network update, or system update only if your phone offers one through normal settings.
 
-3. **Quickly test what failed: SIM vs phone vs account.**
-   - Try your SIM in **another compatible phone**, or try a **known-working SIM** in your phone.
-   - If your SIM fails in multiple phones, treat it as **SIM/account-level** until proven otherwise.
+3. **Check whether the problem follows the SIM or the phone.**
+   - If you have a physical SIM and a compatible spare phone is available, try your SIM in that phone.
+   - If a known-working SIM is available, try it in your phone.
+   - If your SIM fails in more than one phone, treat it as a SIM, carrier, or account issue until your carrier confirms otherwise.
 
-4. **Call your wireless carrier and ask for a fraud check right away.**
-   - Use the number on your **bill**, inside your carrier’s **official app**, or the carrier’s **official website** (not a number from a random text/email).
-   - Say: **“My phone shows ‘No SIM’ and my number stopped working. Please check whether there was a SIM change, eSIM reissue, or port-out on my line today. If yes, I need to reverse it and lock the account.”**
-   - Ask them to add/confirm an **account PIN/passcode**, and to enable any **port-out protection/port lock** option your carrier offers.
+4. **Contact your wireless carrier through an official route.**
+   - Use the phone number on your bill, the carrier’s official app, or the carrier’s official website.
+   - Say: **“My phone shows ‘No SIM’ and my number stopped working. Please check whether there was a SIM change, eSIM reissue, device change, or port-out request on my line today.”**
+   - Ask the carrier to stop any pending change, recover the number if possible, and lock the account against further changes.
+   - Ask them to add or confirm an account PIN or passcode.
+   - Ask whether they offer port-out protection, number lock, SIM protection, or another account-change lock, and turn it on if available.
 
-5. **If takeover is possible, secure your most important accounts now (order matters).**
-   - **Email first**: change password, sign out other sessions, strengthen 2-step verification (authenticator app/passkeys if available).
-   - **Banking/credit/crypto next**: call the number on your card or use the official app; ask them to monitor/stop suspicious transfers.
-   - **Apple ID / Google account next**: change password, review trusted devices and recovery options.
-   - Wherever you can, **switch away from SMS codes**.
+5. **Secure the accounts that could be exposed through SMS codes.**
+   - Start with your main email account: change the password, sign out of other sessions, and review recovery email, recovery phone, trusted devices, and forwarding rules.
+   - Then check banking, credit card, payment, and crypto accounts through their official apps or the phone number on the card.
+   - Ask financial institutions to watch for suspicious transfers or account changes.
+   - Check your Apple ID or Google account next: change the password, review trusted devices, and check recovery options.
+   - Where available, switch important accounts away from SMS codes to an authenticator app, passkey, or security key.
 
-6. **Document what you’re seeing.**
-   - Screenshot the **“No SIM”** alert, your status bar showing no service, and any **carrier notifications** about SIM changes/ports (with timestamps).
+6. **Save a simple record.**
+   - Screenshot the “No SIM” or “Invalid SIM” alert.
+   - Screenshot the status bar showing no service, SOS, or emergency-only service.
+   - Save any carrier emails, app notifications, or account alerts about SIM changes, eSIM activation, device changes, or port-out requests.
+   - Write down the time you first noticed the problem and the time you contacted the carrier.
 
-7. **If it looks like fraud, report it (after you’ve stabilised service and key accounts).**
-   - Use **IdentityTheft.gov** if personal info or accounts may be compromised.
-   - File an **FCC consumer complaint** if you want the issue logged (for example, SIM-swap/port-out fraud patterns).
+7. **Report it after the immediate lock is in place if fraud seems likely.**
+   - Use IdentityTheft.gov if personal information, banking, credit, or online accounts may have been compromised.
+   - Use the FCC consumer complaint route if you want the wireless-service issue logged or escalated.
+   - Keep any case numbers from your carrier, bank, card issuer, IdentityTheft.gov, or the FCC.
 
 ## What can wait
-- You don’t need to decide today whether to switch carriers, replace your phone, or change your number.
-- You can postpone a full audit of every online account until your carrier confirms your number is back under your control.
-- You don’t need to reset your phone unless troubleshooting confirms it’s a device/hardware issue.
+- You do not need to decide today whether to switch carriers, replace your phone, or change your number.
+- You do not need to reset the phone unless the carrier or device troubleshooting points to a device problem.
+- You can wait to review every low-risk account until your carrier account, main email, and financial accounts are stabilized.
+- You do not need to argue about blame while the number is still unsecured; focus first on stopping account changes and protecting access.
 
 ## Important reassurance
-A “No SIM” message is often a straightforward SIM/tray/carrier update problem. But sudden loss of your number can also be how SIM-swap or port-out fraud starts. Acting quickly with your carrier and locking down email/banking is the best way to limit harm.
+A “No SIM” or “Invalid SIM” message is often caused by an ordinary SIM, eSIM, carrier, or device issue. Taking the fraud possibility seriously is not overreacting; it is a way to protect your number and your most important accounts while the cause is checked.
 
 ## Scope note
-These are first steps to stabilize service and reduce immediate risk. If fraud is confirmed, you may need follow-up steps with your carrier and financial institutions, but you can do that once the immediate lock is in place.
+These are first steps only. Later decisions about carrier disputes, identity-theft recovery, financial losses, device repair, or account recovery may need help from the carrier, financial institutions, official complaint channels, or another qualified specialist.
 
 ## Important note
-This is general information, not legal, financial, or professional technical advice. If you feel unsafe or there is active theft in progress, seek urgent help right away.
+This is general information, not legal, financial, cybersecurity, technical, or professional advice. If there is immediate physical danger, call emergency services; if money or accounts are actively at risk, contact the carrier, bank, card issuer, or account provider through an official route.
 
 ## Additional Resources
 - https://support.apple.com/en-us/108914
+- https://support.google.com/pixelphone/answer/14116080
 - https://consumer.ftc.gov/consumer-alerts/2019/10/sim-swap-scams-how-protect-yourself
 - https://www.identitytheft.gov/
-- https://www.fcc.gov/sites/default/files/sim_swap_tip_card.pdf
+- https://www.ftc.gov/news-events/topics/identity-theft/report-identity-theft
 - https://consumercomplaints.fcc.gov/hc/en-us
-- https://www.federalregister.gov/documents/2023/12/08/2023-26338/protecting-consumers-from-sim-swap-and-port-out-fraud
-- https://www.ctia.org/protecting-against-sim-swap-fraud

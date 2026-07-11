@@ -1,72 +1,87 @@
-﻿---
+---
 title: "What to do if… a toilet keeps refilling or overflowing and you cannot stop it"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
-  - toilet overflowing
-  - toilet keeps refilling
-  - cistern won’t stop filling
-  - toilet won’t stop running
-  - water rising in toilet
-  - toilet tank overflowing
-  - can’t stop toilet water
-  - toilet flooding bathroom
-  - stopcock emergency
-  - stop tap location
-  - isolation valve toilet
-  - bathroom leak emergency
-  - water leak from toilet
-  - landlord repairs urgent
-  - council housing repairs
-  - water shut off house
-  - float valve stuck
-  - cistern lid removal
-  - panic home flooding
-last_reviewed: "2026-03-03"
+  - "toilet overflowing"
+  - "toilet keeps refilling"
+  - "cistern keeps filling"
+  - "toilet will not stop running"
+  - "toilet water keeps rising"
+  - "toilet flooding bathroom"
+  - "toilet cistern overflowing"
+  - "water leaking from toilet"
+  - "toilet tank overflowing"
+  - "what do i do if toilet overflows"
+  - "what do i do if toilet keeps refilling"
+  - "what do i do if cistern keeps filling"
+  - "what do i do if toilet water rises"
+  - "help i cannot stop toilet water"
+  - "help i have toilet flooding"
+  - "help i cannot find stopcock"
+  - "help i cannot turn off toilet"
+  - "my toilet is overflowing"
+  - "my toilet keeps running"
+  - "my bathroom is flooding"
+  - "water near bathroom sockets"
+  - "water reaching electrics"
+  - "wet floor by toilet"
+  - "cistern filling noise"
+  - "water running into toilet bowl"
+  - "small valve behind toilet"
+  - "stopcock stuck"
+  - "stop tap stuck"
+  - "toilet blockage or overflow"
+  - "float valve stuck"
+  - "toilet refill problem"
+  - "rented home toilet overflow"
+  - "flat toilet overflow"
+  - "shared building water leak"
+  - "toilet over flowing"
+  - "cistern over flowing"
+last_reviewed: "2026-04-28"
+date_created: "2026-04-28"
 ---
 
 # What to do if… a toilet keeps refilling or overflowing and you cannot stop it (UK)
 
 ## Short answer
-Stop the water supply to the toilet (or the whole property) first, then reduce flood damage and contact whoever is responsible for urgent repairs (landlord/agent/emergency plumber).
+Stop the water supply first, either at the toilet’s isolation valve or at the property stopcock. Keep clear of any wet electrics, then contact your landlord, agent, building contact, or an emergency plumber.
 
 ## Do not do these things
-- Don’t keep flushing repeatedly “to see if it fixes itself” — it can worsen the overflow.
-- Don’t touch electrical switches, plugs, or appliances if you’re standing in water or water is reaching electrics.
-- Don’t force a stuck valve hard with tools if it won’t turn — you can snap it and make the leak worse.
-- Don’t ignore water reaching light fittings, extension leads, or appliances — electricity + water is a serious hazard.
-- Don’t delay contacting your landlord/agent if you rent — this is usually urgent because it risks property damage.
+- Don’t keep flushing repeatedly to test it; this can worsen an overflow.
+- Don’t touch switches, plugs, sockets, extension leads, appliances, or light fittings if you are wet, standing in water, or the electrics are wet.
+- Don’t force a stuck stopcock or isolation valve hard with tools; it can break and make the leak worse.
+- Don’t dismantle the toilet while water is still flowing and you feel rushed.
+- Don’t delay telling your landlord or agent if you rent and the toilet, pipework, or water damage may need urgent repair.
 
 ## What to do now
-1. **Make a safer pause (10–30 seconds):** move towels/bathmats out of the way so you don’t slip. If water is spreading toward sockets, appliances, or light fittings, **keep people/pets out** of the wet area.
-2. **Try the toilet’s isolation valve (fastest):** look for a **small valve on the pipe** feeding the toilet (often behind/next to the pan or cistern). Turn it **clockwise** until it stops.  
-   - If it’s a **slot-head** isolation valve, use a flat screwdriver and turn **clockwise** to the stop. (The slot often ends up across the pipe, but the key check is whether the refilling stops.)
-3. **If that doesn’t work, turn off the property’s mains water:** use your **inside stop valve/stopcock** (often under the kitchen sink, in a utility cupboard, or near where the water pipe enters the home). Turn **clockwise** until it stops.
-4. **Relieve pressure (only once the water supply is off):** if the level is still high, **flush once** (or hold the flush briefly) to lower the level and reduce spill risk.
-5. **Limit damage immediately:** use towels to dam water away from doorways and electrics; place a bowl/container to catch drips if water is tracking down the outside of the cistern. If safe to do so, open a window for ventilation.
-6. **Contact the right “repair route” now (don’t wait):**
-   - **If you rent:** contact your landlord/letting agent’s **emergency repairs** route and clearly say: *“toilet is overflowing / I had to turn the water off.”*  
-   - **If you own:** call an **emergency plumber**.  
-   - If water has affected a **shared area** (e.g., flats), inform the building manager/freeholder if you have one.
-7. **If you had to turn off the mains:** let others in the property know (so nobody turns taps on and walks away), and avoid running appliances that rely on the water supply until repairs are underway.
+1. **Make the area safer:** step out of standing water if you can. Keep children, pets, and other people away from the wet area.
+2. **If water is near electrics, keep clear:** if you can reach the fuse box without standing in water or touching wet equipment, switch off the affected circuit or the main switch. If you cannot do that safely, stay away from the wet area and ask for urgent help, such as your landlord’s emergency repair line, an electrician, a plumber, or emergency services if there is immediate danger.
+3. **Turn off the toilet’s water supply:** look for the small isolation valve on the pipe feeding the toilet, often behind or beside the pan or cistern. Turn it off. If it is a slot-head valve, use a flat screwdriver and usually turn it a quarter-turn so the slot is across the pipe, then check whether the refilling stops.
+4. **If the toilet valve is missing, stuck, or does not stop the water, turn off the mains water:** use the inside stop valve, also called the stopcock or stop tap. It is often under the kitchen sink, in a utility cupboard, under the stairs, near the front door, in a garage, or close to where the water pipe enters the home. Turn it clockwise until the water stops; do not use excessive force.
+5. **Lower the level only if it is safe:** once the water supply is off, flush once only if the toilet bowl is not blocked and the water in the bowl is not already rising. Do not flush again if the bowl starts filling.
+6. **Limit the spread:** use towels to slow water moving towards doorways, skirting boards, or electrics. Put a bowl or container under any drip from the cistern or pipe if you can do this without touching wet electrics.
+7. **Contact the right repair route now:** if you rent, contact your landlord or letting agent’s emergency repairs route and say, “The toilet is overflowing or constantly refilling, and I have had to turn the water off.” If you own the property, contact an emergency plumber. If water may affect another flat, a shared hallway, or a ceiling below, tell the building manager, freeholder, or neighbour as soon as you safely can.
+8. **Tell anyone else in the property:** if the mains water is off, make sure nobody turns taps on and leaves them running, and do not run appliances that need water until the problem is being dealt with.
 
 ## What can wait
-- You do **not** need to diagnose the internal toilet fault right now.
-- You do **not** need to dismantle parts or attempt a “proper fix” while stressed.
-- You can deal with photos, insurance, and detailed cleanup **after** the water is stopped and repairs are arranged (unless your landlord/insurer asks immediately).
+- You do not need to diagnose whether the fault is the float valve, fill valve, flush valve, overflow, or pipework right now.
+- You do not need to buy parts or attempt a full repair while the water is still uncontrolled.
+- Photos, insurance details, messages to non-urgent contacts, and detailed cleaning can wait until the water is stopped and the wet area is safe.
 
 ## Important reassurance
-This is a common failure (often a valve/float issue) and it’s fixable. Your job in the first minutes is simply to **stop the water and prevent avoidable damage**, not to repair plumbing under pressure.
+This kind of toilet problem is usually repairable. The first job is not to fix the toilet perfectly; it is to stop more water coming in, avoid electrical danger, and get the repair route started.
 
 ## Scope note
-These are first steps to stabilise an active overflow/refill problem. The next stage (repairs and any drying/cleanup) may need a plumber or your landlord’s repair service.
+These are first steps only for stabilising a toilet that is refilling or overflowing. Repairs, drying out, electrical checks, landlord responsibilities, or insurance questions may need a plumber, landlord repair service, electrician, insurer, or housing adviser.
 
 ## Important note
-This is general information for urgent home stabilisation, not professional plumbing or legal advice. If water is near electrics or you’re unsure about electrical safety, keep clear of the area and get professional help.
+This is general information for urgent home stabilisation, not professional plumbing, electrical, legal, insurance, or property advice. If water is near electrics or you are unsure whether the area is safe, keep clear and get urgent professional help.
 
 ## Additional Resources
 - https://www.thameswater.co.uk/help/water-and-waste-help/how-to-turn-your-water-on-and-off/how-to-find-and-use-your-inside-stop-valve
+- https://www.watersafe.org.uk/advice/common_plumbing_questions1/fixtures-fittings/how-to-stop-running-toilet/
+- https://www.watersafe.org.uk/advice/hiring_a_plumber/emergency_plumbers/
 - https://www.gov.uk/private-renting/repairs
-- https://www.gov.uk/help-during-flood
-- https://www.citizensadvice.org.uk/housing/repairs-and-housing/repairs-and-housing-conditions/whos-responsible-for-repairs/check-if-your-landlord-has-to-do-repairs/
-- https://www.southampton.gov.uk/housing/council-housing-tenants-and-leaseholders/tenant-participation/tenants-link/article/do-you-know-how-to-turn-off-the-water-in-an-emergency/
+- https://www.electricalsafetyfirst.org.uk/guidance/safety-around-the-home/flooding-advice/

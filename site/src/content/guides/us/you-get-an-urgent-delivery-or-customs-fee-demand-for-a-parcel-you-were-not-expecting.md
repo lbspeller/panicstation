@@ -1,88 +1,102 @@
-﻿---
+---
 title: "What to do if… you get an urgent delivery or customs fee demand for a parcel you were not expecting"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
-  - unexpected customs fee demand
-  - urgent delivery fee text
-  - package stuck in customs text
-  - missed delivery payment request
-  - unpaid shipping fee notice
-  - parcel fee scam message
-  - smishing package tracking
-  - phishing delivery notification
-  - fake usps message
-  - fake ups tracking text
-  - fake fedex delivery email
-  - customs duty payment link
-  - pay to release package
-  - unknown tracking number alert
-  - unexpected package invoice
-  - delivery fee qr code
-  - bogus shipping notification
-  - parcel you did not order
-last_reviewed: "2026-01-10"
+  - "unexpected customs fee demand"
+  - "urgent delivery fee demand"
+  - "unexpected parcel fee demand"
+  - "parcel not expected"
+  - "package not expected"
+  - "customs fee text"
+  - "delivery fee text"
+  - "shipping fee demand"
+  - "redelivery fee demand"
+  - "package tracking scam"
+  - "fake delivery notification"
+  - "fake customs notice"
+  - "what do i do if customs fee text"
+  - "what do i do if delivery fee"
+  - "what do i do if parcel fee"
+  - "what do i do if unexpected package"
+  - "help i got customs fee text"
+  - "help i got delivery fee demand"
+  - "my package has a fee"
+  - "my parcel needs customs payment"
+  - "my tracking text looks fake"
+  - "unknown tracking number"
+  - "urgent payment link"
+  - "missed delivery fee"
+  - "address correction fee"
+  - "package stuck in customs"
+  - "customs duty or scam"
+  - "tariff fee or scam"
+  - "delivery fee or phishing"
+  - "unexpected international parcel"
+  - "custums fee demand"
+  - "delievery fee text"
+last_reviewed: "2026-06-15"
+date_created: "2026-06-15"
 ---
 
 # What to do if… you get an urgent delivery or customs fee demand for a parcel you were not expecting (USA)
 
 ## Short answer
-Assume it’s a scam until you confirm there’s a real shipment using the carrier’s official tracking site or official customer service contact details you find yourself.
+Do not click the link or pay from the message. Check for a real shipment only through the carrier’s official website, the retailer’s order page, or customer service details you look up yourself.
 
 ## Do not do these things
-- Don’t click the link, scan a QR code, or install an “update” or “tracking app” from the message.
-- Don’t reply to the text/email or call the number shown in it.
-- Don’t pay “customs,” “tariffs,” “re-delivery,” or “address correction” fees via a link in a text.
-- Don’t share sensitive info (SSN, bank info, card number, passwords) to “release” a package.
-- Don’t pay via gift cards, crypto, wire transfer, or any unusual method for a delivery fee.
+- Don’t click the link, scan a QR code, or install a tracking app from the message.
+- Don’t reply to the text or email, and don’t call the number shown in it.
+- Don’t pay a customs, tariff, redelivery, address correction, or release fee through a link in the message.
+- Don’t enter your Social Security number, bank details, card number, passwords, or one-time codes.
+- Don’t pay by gift card, cryptocurrency, wire transfer, payment app, or any unusual method because a message says it is urgent.
 
 ## What to do now
-1. **Stop and save the message (without interacting).**  
-   Screenshot it. Note the sender, date/time, amount requested, and any tracking/reference number.
+1. **Stop and keep a record without interacting.**  
+   Take a screenshot. Note the sender, date, time, amount requested, and any tracking or reference number.
 
-2. **Check whether you were expecting anything at all.**  
-   Look through recent order confirmations/shipping notices from retailers you trust, and ask household members if they ordered something to your address.
+2. **Check whether there is any real order.**  
+   Look at recent order confirmations from retailers you use. Ask household members whether they sent anything to your address.
 
-3. **Verify the tracking number the safe way.**  
-   Type the carrier’s official website (USPS/UPS/FedEx/DHL, etc.) into your browser yourself and enter the tracking number there.  
-   - If the tracking number isn’t found on the official site, or the details don’t match what you know, treat it as a scam.
+3. **Check the tracking number the safe way.**  
+   Type the carrier’s official website into your browser yourself and enter the tracking number there. If the number is not found, the carrier name does not match, or the details do not match anything you know, treat the demand as suspicious.
 
-4. **If it claims “customs,” “import duty,” or “tariff”: verify before paying anyone.**  
-   Legit import charges are typically handled through the carrier/broker process—not an urgent random text.  
-   - If you truly are importing something, contact the carrier using contact details you look up independently and ask what (if anything) is due.  
-   - If you’re told you must pay U.S. Customs and Border Protection (CBP), use only official CBP payment services (often via Pay.gov/CBP online services) that you reach by navigating from official CBP sites yourself—not a link from the message.
+4. **If the message says customs, duty, tariff, or import fee, verify before paying.**  
+   Real import charges are usually handled through a carrier, broker, retailer, or shipper process. Contact the carrier, retailer, broker, or shipper using details you find independently, not details from the message.
 
-5. **If you clicked a link or entered payment/personal details, act immediately.**
-   - **If you paid or entered card/bank info:** call your bank or card issuer immediately using the number on your card or your official banking app. Ask them to treat it as fraud and protect your account.
-   - **If you entered a password:** change it right away (and anywhere else you reused it) and enable two-factor authentication.
+5. **If you clicked the link or entered details, reduce harm now.**
+   - If you entered card or bank details, contact your bank or card issuer using the number on your card or your official banking app.
+   - If you paid, ask the bank or card issuer what fraud or dispute steps are available.
+   - If you entered a password, change it now and change it anywhere else you reused it.
+   - If you entered a one-time code, tell the affected bank, retailer, email provider, or account provider.
 
-6. **Report the scam (this helps shut it down).**
-   - **Forward suspicious texts to 7726 (SPAM)** to help your wireless provider investigate/block the sender.
-   - **If it’s USPS-related smishing:** email **spam@uspis.gov** (include the text content and a screenshot showing the sender number and date).
-   - Report it to the **FTC** via its fraud reporting site.
-   - If you lost money or shared sensitive info online, consider also reporting to **FBI IC3**.
+6. **Report the message when you can.**
+   - Forward suspicious texts to 7726.
+   - If it is USPS-related, email spam@uspis.gov with the message content and a screenshot showing the sender and date.
+   - Report the scam to the FTC.
+   - If you lost money or shared sensitive information online, you can also report it to FBI IC3.
 
-7. **If a delivery attempt happens anyway:**  
-   Don’t hand over cash or payment because of a text. You can often refuse delivery if you’re unsure. Either way, verify any real fees later via official carrier channels you initiate.
+7. **If someone tries to deliver a parcel anyway, do not pay because of the text.**  
+   Ask for the official carrier notice or tracking details. If you are unsure, refuse payment and verify later through official carrier or retailer channels you initiate.
 
 ## What can wait
-- You don’t need to decide right now whether to place a credit freeze or fraud alert unless you know highly sensitive identity info (like your SSN) was exposed.
-- You don’t need to engage with the sender to “fix” it. Ignoring and reporting is enough.
-- You don’t need to figure out how they got your number today—focus first on stopping loss and securing accounts.
+- You do not need to work out how the sender got your number right now.
+- You do not need to reply to prove the message is fake.
+- You do not need to decide on a credit freeze or fraud alert unless sensitive identity information, such as your Social Security number, may have been exposed.
+- You do not need to solve every account-security issue at once; start with any card, bank, email, retailer, or delivery account you entered into the fake page.
 
 ## Important reassurance
-These messages are designed to create urgency and get you to pay a small fee quickly. Verifying through official tracking and official customer service channels is the fastest way to stop a scam without missing a real delivery.
+These messages are meant to make a small payment feel urgent. Pausing and checking through official routes is a safe way to avoid a scam without ignoring a real delivery.
 
 ## Scope note
-This guide covers immediate harm-prevention steps. If money left your account or you shared identity details, follow your bank’s fraud process and consider additional identity-theft protections afterward.
+These are first steps only. Later decisions, such as bank disputes, identity-theft protections, or legal options, may need specialist help.
 
 ## Important note
-This is general information, not legal or financial advice. If you believe you’re at immediate risk of financial loss, contact your bank/card issuer right away using official contact details.
+This is general information, not legal, financial, cybersecurity, or other professional advice. For active account or payment risk, contact your bank, card issuer, or relevant account provider using official details.
 
 ## Additional Resources
 - https://www.uspis.gov/news/scam-article/smishing-package-tracking-text-scams
 - https://consumer.ftc.gov/consumer-alerts/2023/12/fake-shipping-notification-emails-text-messages-what-you-need-know-holiday-season
-- https://consumer.ftc.gov/articles/how-recognize-report-spam-text-messages
-- https://www.fcc.gov/how-identify-and-avoid-package-delivery-scams
-- https://www.cbp.gov/trade/basic-import-export/acceptable-electronic-payment-methods
+- https://consumer.ftc.gov/articles/how-recognize-and-report-spam-text-messages
 - https://reportfraud.ftc.gov/
+- https://www.ic3.gov/

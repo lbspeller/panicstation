@@ -1,71 +1,84 @@
-﻿---
+---
 title: "What to do if… you notice a new groin bulge with increasing pain and nausea"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
-  - new groin bulge
-  - painful groin lump
-  - groin swelling nausea
-  - groin bulge getting worse
-  - inguinal hernia concern
-  - suspected hernia emergency
-  - trapped hernia symptoms
-  - strangulated hernia signs
-  - incarcerated hernia worry
-  - vomiting with groin bulge
-  - sudden groin pain lump
-  - tender groin mass
-  - groin bulge won’t go away
-  - lower abdomen groin pain
-  - nausea and worsening pain
-  - bowel obstruction concern
-  - can’t pass gas with lump
-  - bulge turns red or purple
-  - fever with groin lump
-  - severe pain in groin
-last_reviewed: "2026-02-23"
+  - "new groin bulge"
+  - "painful groin bulge"
+  - "groin bulge nausea"
+  - "groin bulge getting worse"
+  - "groin bulge increasing pain"
+  - "sudden groin pain lump"
+  - "tender groin bulge"
+  - "hard groin bulge"
+  - "vomiting with groin bulge"
+  - "suspected groin hernia"
+  - "what do i do if groin bulge hurts"
+  - "what do i do if groin lump nausea"
+  - "what do i do if hernia hurts"
+  - "what do i do if bulge getting worse"
+  - "help i have groin bulge pain"
+  - "help i feel sick with groin bulge"
+  - "help i have a painful hernia"
+  - "my groin bulge is painful"
+  - "my groin lump is getting worse"
+  - "my hernia pain and nausea"
+  - "cannot pass wind with groin bulge"
+  - "cannot poo with groin bulge"
+  - "groin bulge feels firm"
+  - "groin bulge looks red"
+  - "groin bulge looks purple"
+  - "fever with groin lump"
+  - "hernia trapped worry"
+  - "strangulated hernia worry"
+  - "incarcerated hernia worry"
+  - "bowel blockage worry"
+  - "groin strain or hernia"
+  - "lymph node or hernia"
+  - "after lifting groin bulge"
+  - "alone with groin pain"
+  - "groin buldge pain"
+  - "hernia nausia"
+last_reviewed: "2026-05-14"
+date_created: "2026-05-14"
 ---
 
 # What to do if… you notice a new groin bulge with increasing pain and nausea (UK)
+
 ## Short answer
-Treat this as urgent. With a new groin bulge plus increasing pain and nausea (especially if you’re vomiting or the bulge is hard/tender), go to A&E now or call 999 if you can’t get there safely.
+A new groin bulge with increasing pain and nausea needs urgent medical assessment. Go to A&E now, or call 999 if you are too unwell to travel safely, might faint, are vomiting repeatedly, or have no safe way to get there.
 
 ## Do not do these things
-- Do not try to “push it back in” or massage the lump if it’s painful, hard, very tender, or you feel sick.
-- If you’re heading to A&E / being urgently assessed, avoid eating or drinking unless a clinician tells you to (if you need essential medication, take it with a small sip of water).
-- Do not take repeated doses of painkillers to try to “wait it out” instead of getting urgent help.
-- Do not drive yourself to hospital if you feel faint, are vomiting, or your pain is escalating.
+- Do not force the bulge back in or massage it if it is painful, firm, very tender, discoloured, or you feel sick.
+- Do not wait to see if repeated painkillers make it bearable instead of getting urgent help.
+- Do not drive yourself to hospital if you feel faint, are vomiting, or the pain is escalating.
+- Do not have a meal or alcohol while arranging urgent assessment. If you need essential medicine, have diabetes, are pregnant, or need fluids, ask 111, 999, or A&E staff what to do.
 
 ## What to do now
-1. **Check for emergency signs (seconds): go to A&E now.** If you feel too unwell to travel safely, symptoms are rapidly worsening, you might faint, or you’re alone without safe transport, **call 999**:
-   - sudden or worsening/severe pain, **nausea or vomiting**
-   - the bulge is **firm/hard**, very tender, or **cannot be pushed back in**
-   - **difficulty pooing or passing wind**
-   - the skin over it turns **red/purple/dark**, or you develop a **fever** or feel seriously unwell
-2. **If you’re not sure it’s “A&E right now”, still get urgent help today:** call **NHS 111** and say clearly:  
-   “**New groin bulge**, pain getting worse, **nausea** (and whether you’ve vomited / can’t pass poo or wind).”  
-   Follow their direction (they may send you to A&E).
-3. **Get into the safest waiting position:** lie down on your back with knees slightly bent, loosen tight clothing, and keep movement minimal (this reduces strain and may reduce pain while you arrange urgent care).
-4. **Make the journey safer:** ask someone to take you if possible (or use 999 if you’re worsening). Bring a phone charger if it’s within reach.
-5. **Prepare the key info (2 minutes):** your medication list, allergies, major conditions, and any prior hernia or abdominal surgery. Note the **time symptoms started** and how quickly they’ve worsened.
-6. **If you live alone:** message/call someone to stay available and tell them where you’re going.
+1. **Go to A&E now if any emergency sign is present:** worsening or severe pain, nausea or vomiting, a firm or very tender bulge, a bulge that will not go back in, difficulty pooing or passing wind, fever, feeling seriously unwell, or skin over the bulge turning red, purple, or dark.
+2. **Call 999 if getting to A&E is not safe:** say, “New groin bulge, pain getting worse, nausea,” and mention vomiting, faintness, colour change, fever, or not being able to pass poo or wind.
+3. **If you are unsure whether to go straight to A&E, get urgent medical direction now:** call 111 where it is available, use 111 online in England, or use your local urgent-care route. Say clearly, “New groin bulge, pain getting worse, nausea.” Follow their instruction if they tell you to go to A&E or call 999.
+4. **While arranging help, reduce strain:** lie on your back with your knees slightly bent, loosen tight clothing around your waist or groin, and avoid lifting, coughing hard where you can, straining on the toilet, or repeated checking of the lump.
+5. **Make the trip safer:** ask someone else to take you. Bring your medicines or medication list, allergies, major conditions, and details of any previous hernia or abdominal surgery.
+6. **Note the key facts:** when the bulge appeared, when the pain and nausea started, whether you have vomited, whether you can pass poo or wind, and whether the bulge has changed size, firmness, tenderness, or colour.
 
 ## What can wait
-- You do **not** need to decide whether it’s “definitely a hernia” right now.
-- You do **not** need to research home fixes, supports, trusses, or exercises.
-- You do **not** need to sort work/admin beyond a simple “medical emergency—going to hospital”.
+- You do not need to decide whether it is definitely a hernia right now.
+- You do not need to research supports, trusses, exercises, or home fixes.
+- You do not need to decide about surgery or long-term treatment now.
+- You do not need to sort work or admin beyond a simple message such as, “Medical emergency, going to hospital.”
 
 ## Important reassurance
-A new groin bulge with worsening pain and nausea can feel frightening because it may need urgent treatment. You’re not overreacting by getting assessed quickly—these are exactly the kinds of symptoms clinicians want checked promptly.
+You are not overreacting by getting this checked quickly. A painful groin bulge with nausea can sometimes mean something is trapped or blocked, and urgent assessment is the safest next step.
 
 ## Scope note
-These are first steps to reduce risk and get you into the right care quickly. Diagnosis and treatment decisions happen after an in-person assessment.
+These are first steps only, to reduce risk and get you into urgent care. Diagnosis, scans, pain relief, and treatment decisions may need an in-person clinician or surgical team.
 
 ## Important note
-This is general information, not a diagnosis. If symptoms are escalating, you’re vomiting, the lump is firm/tender or discoloured, or you can’t pass poo/wind, seek emergency care immediately.
+This is general information for first steps, not medical advice or a diagnosis. If symptoms are escalating, you are vomiting, the lump is firm, tender, discoloured, or you cannot pass poo or wind, seek emergency care immediately.
 
 ## Additional Resources
 - https://www.nhs.uk/conditions/hernia/
+- https://www.nhs.uk/nhs-services/urgent-and-emergency-care-services/when-to-go-to-ae/
 - https://www.nhs.uk/nhs-services/urgent-and-emergency-care-services/when-to-use-111/
 - https://www.nhs.uk/nhs-services/urgent-and-emergency-care-services/when-to-call-999/
-- https://www.england.nhs.uk/wp-content/uploads/2023/11/PRN00250-dst-making-a-decision-about-inguinal-hernia.pdf

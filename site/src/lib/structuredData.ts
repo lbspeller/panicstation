@@ -162,6 +162,7 @@ export function buildGuideStructuredData({
   title,
   category,
   tags = [],
+  dateCreated,
   lastReviewed,
   jurisdiction,
   pathname,
@@ -169,6 +170,7 @@ export function buildGuideStructuredData({
   title: string;
   category: string;
   tags?: string[];
+  dateCreated: string;
   lastReviewed: string;
   jurisdiction: string;
   pathname: string;
@@ -177,6 +179,7 @@ export function buildGuideStructuredData({
   const pageUrl = canonicalUrl(pathname);
   const categoryHref = canonicalUrl(categoryPath(jur.code, category));
   const categoryLabel = categoryLabelFromFullCategory(category);
+  const createdDateTime = schemaDateTime(dateCreated);
   const reviewedDateTime = schemaDateTime(lastReviewed);
 
   const authorOrganization = {
@@ -220,7 +223,7 @@ export function buildGuideStructuredData({
     image: SITE_IMAGE_OBJECT,
     author: authorOrganization,
     publisher: publisherOrganization,
-    datePublished: reviewedDateTime,
+    datePublished: createdDateTime,
     dateModified: reviewedDateTime,
     mainEntityOfPage: {
       "@type": "WebPage",

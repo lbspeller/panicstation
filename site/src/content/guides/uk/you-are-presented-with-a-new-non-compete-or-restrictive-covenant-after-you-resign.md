@@ -1,92 +1,101 @@
-﻿---
+---
 title: "What to do if… you are presented with a new non-compete or restrictive covenant after you resign"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
-  - new non-compete after resignation
-  - asked to sign non-compete last day
-  - restrictive covenant added after notice
-  - post-termination restriction surprise
-  - employer wants new contract after resigning
-  - pressured to sign employment document
-  - non-compete presented after resignation
-  - non-solicitation clause added late
-  - confidentiality and restrictive covenants
-  - settlement agreement with new restrictions
-  - resignation accepted then new terms
-  - contract variation after resignation
-  - leaving job covenant sign now
-  - threatened reference unless sign
-  - severance offer tied to non-compete
-  - exit paperwork new covenant
-  - “take it or leave it” covenant
-  - worried clause will block next job
-last_reviewed: "2026-01-08"
+  - "new non-compete after resignation"
+  - "restrictive covenant after resignation"
+  - "non-compete after resigning"
+  - "covenant after giving notice"
+  - "new restriction after notice"
+  - "post-termination restriction surprise"
+  - "exit paperwork new covenant"
+  - "last day non-compete"
+  - "restrictive covenant added late"
+  - "what do i do if non-compete after resignation"
+  - "what do i do if restrictive covenant after resigning"
+  - "what do i do if employer wants new covenant"
+  - "what do i do if pressured to sign"
+  - "help i resigned and got a non-compete"
+  - "help i am being pressured to sign"
+  - "help i got new exit restrictions"
+  - "help i might lose final pay"
+  - "my employer wants new restrictions"
+  - "my resignation triggered a covenant"
+  - "my exit paperwork has restrictions"
+  - "worried about next job"
+  - "reference threatened unless i sign"
+  - "final pay mentioned with covenant"
+  - "start date affected by non-compete"
+  - "new employer details requested"
+  - "settlement agreement confusion"
+  - "contract variation confusion"
+  - "confidentiality clause confusion"
+  - "non compete after resignation"
+  - "restrictive covenent after resignation"
+  - "senior employee leaving job"
+last_reviewed: "2026-05-05"
+date_created: "2026-05-05"
 ---
 
 # What to do if… you are presented with a new non-compete or restrictive covenant after you resign (UK)
 
 ## Short answer
-Do not sign anything on the spot. Take a copy away, respond in writing, and get independent advice before you agree to any new restriction.
+Do not sign or agree to the new restriction on the spot. Take a copy away, keep your response in writing, and get UK employment advice before you accept any new limit on your next job or business plans.
 
 ## Do not do these things
-- Do not sign “just to get it done” or because someone says it’s routine.
-- Do not “accept” verbally or by email/text (“fine with me”, “I agree”) if you haven’t decided.
-- Do not share your new employer, start date, clients, or role details to “prove” you’re not a threat.
-- Do not assume it’s enforceable because it’s presented by HR or a manager.
-- Do not let pressure about references, final pay, or your leaving date push you into signing.
-- Do not sign a settlement agreement without independent advice (it usually needs that to be valid).
+- Do not sign “just to get it done” or because someone says it is routine.
+- Do not reply with “I agree”, “fine with me”, or similar wording if you have not decided.
+- Do not disclose your new employer, start date, client list, or role details under pressure before you have reviewed what you are being asked to sign.
+- Do not assume the restriction is enforceable just because HR, a manager, or a lawyer has sent it.
+- Do not let pressure about references, final pay, holiday pay, or your leaving date push you into signing new terms.
+- If it is a settlement agreement, do not sign until you have had independent advice from a relevant insured adviser.
 
 ## What to do now
 1. **Create a pause and take the document away.**  
    Say: “I can’t sign new legal terms immediately. Please email me the full document and I’ll respond after I’ve reviewed it.”
 
-2. **Ask in writing what it is, and why it’s being introduced now.**  
-   Use one short email:  
-   “Please confirm whether this is (a) a new contract/variation, (b) a settlement agreement, or (c) a standalone restrictive covenant, and why it’s being requested after my resignation.”
+2. **Ask in writing what the document is.**  
+   Send one short message: “Please confirm whether this is a new contract variation, a settlement agreement, or a standalone restrictive covenant, and why it is being requested after my resignation.”
 
-3. **Anchor the key point (without arguing): contract changes usually need agreement.**  
-   Reply neutrally:  
-   “I’m reviewing this. As this appears to introduce new terms, I’m not agreeing today. Please confirm what terms you believe currently apply until my leaving date.”
+3. **Make clear that you are not agreeing today.**  
+   Reply neutrally: “I’m reviewing this. As this appears to introduce new terms, I’m not agreeing today. Please confirm what terms you believe currently apply until my leaving date.”
 
-4. **Pull your existing documents and compare line-by-line.**  
-   Find your employment contract and any later amendments/letters. Make a simple list of what you already have (for example: confidentiality, non-solicit, non-deal, non-compete) and what the new document adds (duration, geography, “competitor” definition, who counts as a “client”).
+4. **Compare it with what you already signed.**  
+   Find your employment contract, offer letter, handbook terms that say they are contractual, and any later amendments. List what already exists and what is new, especially any non-compete, non-solicitation, non-dealing, confidentiality, garden leave, client, geography, duration, or competitor wording.
 
-5. **Ask what you get in return for signing (and keep it in writing).**  
-   If they want new restrictions after you’ve resigned, ask:  
-   “What is being offered in exchange for these additional restrictions (for example, a payment, an agreed exit package, or another benefit)?”  
-   If the answer is “nothing,” that’s still useful information for your adviser.
+5. **Ask what is being offered for the new restriction.**  
+   If they want extra restrictions after you have resigned, ask: “What is being offered in exchange for these additional restrictions, such as a payment, agreed exit package, agreed reference, or other benefit?” Keep the answer for your adviser.
 
-6. **If it’s a settlement agreement, slow down immediately.**  
-   Treat it as a separate track: ask for the full settlement terms (payments, tax wording, reference wording, confidentiality, restrictions) and do not sign until you’ve had independent advice.
+6. **If it is a settlement agreement, treat it as separate.**  
+   Ask for the full settlement terms, including payments, tax wording, reference wording, confidentiality, restrictions, waiver of claims, and adviser contribution. Do not sign until you have independent advice.
 
-7. **If they hint your reference or final pay depends on signing, make them say it plainly.**  
-   Reply once, calmly:  
-   “Please confirm in writing that my final pay and any accrued holiday will be processed in the usual way and are not conditional on signing new terms.”  
-   Save their response (or lack of one).
+7. **If final pay, holiday pay, or a reference is mentioned, ask for clarity in writing.**  
+   Reply once, calmly: “Please confirm in writing that my final pay and any holiday pay will be processed in the usual way and are not conditional on signing new terms.” Save the response.
 
-8. **Get UK-specific help before you respond further.**  
-   Choose one: Acas helpline, your union, Citizens Advice, or an employment solicitor (especially if the restriction could block your next role or money is offered).
+8. **Get UK employment help before you respond further.**  
+   Use Acas, your union, or an employment solicitor. This is especially important if the wording could block your next role, your employer is threatening court action, or money is being offered for signing.
 
 ## What can wait
-- You do not need to decide today whether to change jobs/industry or delay your new start.
-- You do not need to negotiate perfect wording yet—first you need clarity on what’s being asked and what you already agreed to.
-- You do not need to debate “enforceability” with HR; you can simply say you’re taking advice.
-- You do not need to disclose your new employer or detailed plans while you review.
+- You do not need to decide today whether to delay your new start date.
+- You do not need to disclose your new employer or detailed plans while you are reviewing the document.
+- You do not need to negotiate perfect wording yet; first, identify what is new and what you already agreed to.
+- You do not need to debate enforceability with HR. You can simply say you are taking advice.
+- You do not need to decide whether to change industry, role, clients, or location while you are still at the first-step stage.
 
 ## Important reassurance
-Being handed a new non-compete after you resign is unsettling, but you still have choices. In the UK, post-termination restrictions are only enforceable in limited circumstances and usually must be reasonable and linked to a legitimate business interest—so the safest move is to slow down, keep everything in writing, and avoid accidental agreement while you get advice.
+Being handed a new non-compete or restrictive covenant after you resign can feel alarming, but you do not have to decide immediately. In the UK, non-compete wording may be enforceable only if the employer can show it is reasonable and protects a proper business interest, so the safest first move is to pause, avoid accidental agreement, and get advice.
 
 ## Scope note
-These are first steps only—focused on preventing an irreversible mistake (signing away your options under pressure) and buying time. Later decisions may need specialist advice.
+These are first steps only, focused on preventing an irreversible mistake and buying time. Later decisions about enforceability, negotiation, court risk, settlement terms, or your next role may need specialist employment-law help.
 
 ## Important note
-This is general information, not legal advice. Employment terms and restrictive covenants are fact-specific. If the document could affect your ability to work, or if money is being offered for signing, get independent advice before signing anything.
+This is general information, not legal, financial, tax, employment, or professional advice. Employment terms and restrictive covenants are fact-specific, so get independent advice before signing anything that could affect your ability to work or receive money.
 
 ## Additional Resources
+- https://www.gov.uk/handing-in-your-notice/restrictive-covenants
+- https://www.gov.uk/government/publications/reform-of-non-compete-clauses-in-employment-contracts-working-paper/working-paper-on-options-for-reform-of-non-compete-clauses-in-employment-contracts
 - https://www.acas.org.uk/changes-to-employment-contracts
 - https://www.acas.org.uk/changing-an-employment-contract/advice-for-employees
 - https://www.acas.org.uk/settlement-agreements
 - https://www.acas.org.uk/acas-code-of-practice-settlement-agreements/html
-- https://www.citizensadvice.org.uk/work/after-leaving-your-job/if-your-employer-says-you-cant-work-for-a-competitor/
-- https://www.citizensadvice.org.uk/work/negotiating-with-your-employer/making-a-settlement-agreement/

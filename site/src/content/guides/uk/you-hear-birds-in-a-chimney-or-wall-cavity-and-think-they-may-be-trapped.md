@@ -1,76 +1,111 @@
-﻿---
+---
 title: "What to do if… you hear birds in a chimney or wall cavity and think they may be trapped"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
-  - birds in chimney
-  - bird stuck in chimney
-  - chirping in chimney
-  - scratching in chimney
-  - birds in wall cavity
-  - bird stuck in wall
-  - birds trapped in wall
-  - chicks in chimney
-  - nest in chimney
-  - birds in flue
-  - bird fell down fireplace
-  - bird in wall void
-  - trapped wildlife in house
-  - strange chirping in walls
-  - animal sounds in chimney
-  - bird rescue at home
-  - nesting season chimney
-  - chimney bird noise at night
-last_reviewed: "2026-03-04"
+  - "birds in chimney"
+  - "bird stuck in chimney"
+  - "bird trapped in chimney"
+  - "chirping in chimney"
+  - "scratching in chimney"
+  - "birds in wall cavity"
+  - "bird stuck in wall"
+  - "birds trapped in wall"
+  - "bird in wall void"
+  - "nest in chimney"
+  - "chicks in chimney"
+  - "birds in flue"
+  - "bird fell down fireplace"
+  - "bird behind gas fire"
+  - "animal sounds in chimney"
+  - "strange chirping in walls"
+  - "what do i do if birds are in my chimney"
+  - "what do i do if a bird is stuck in my chimney"
+  - "what do i do if chicks are in my chimney"
+  - "what do i do if birds are in my wall"
+  - "help i hear birds in my wall"
+  - "help i found a bird in my fireplace"
+  - "help i think birds are trapped"
+  - "my chimney is chirping"
+  - "my wall is making bird noises"
+  - "my fireplace has a bird"
+  - "rapid peeping in chimney"
+  - "fluttering behind fireplace"
+  - "soot on trapped bird"
+  - "birds flying into chimney pot"
+  - "noise near roof vent"
+  - "chimney bird noice"
+  - "chimny bird trapped"
+  - "nesting season chimney noise"
+  - "wood burner chimney birds"
+last_reviewed: "2026-05-13"
+date_created: "2026-05-13"
 ---
 
 # What to do if… you hear birds in a chimney or wall cavity and think they may be trapped (UK)
 
 ## Short answer
-Stop using the fireplace/stove or any appliance venting into that flue, keep things calm, and contact a wildlife rescue/animal welfare service or a chimney professional for advice before you try to reach the birds.
+Stop using the fireplace, stove, gas fire, or any appliance connected to that chimney or flue. Keep the area quiet and get advice from a wildlife rescue, vet, or qualified chimney, gas, or property professional before trying to reach the birds.
 
 ## Do not do these things
-- Don’t light a fire, run a wood burner, or use any appliance that vents into the chimney/flue (smoke, heat, and fumes can injure birds and create dangerous blockages).
-- Don’t try to “smoke them out”, use sprays, pour water down, or use loud banging to force movement.
-- Don’t push brushes/rods up the flue, or dismantle the fireplace/cut into walls unless a professional tells you to (you can injure birds or turn nesting material into a blockage).
-- Don’t block the top of the chimney or outside vents “to stop them escaping” (you may trap them with no exit).
-- Don’t handle a bird with bare hands. Also avoid handling at all unless you have to for immediate safety—wildlife rescues may advise extra caution during avian flu controls.
-- Don’t assume it’s “definitely trapped”: it may be an active nest with chicks that are noisy but not in immediate danger.
+- Don’t light a fire, run a wood burner, use a gas fire, or use any appliance that vents into that flue.
+- Don’t try to smoke the birds out, spray chemicals, pour water down the chimney, or bang on the wall or flue.
+- Don’t push brushes, rods, hooks, or sticks into the flue while birds may be inside.
+- Don’t cut into walls, remove fireplace panels, or disconnect a gas appliance yourself.
+- Don’t block the chimney pot, air brick, soffit, or outside vent to stop movement; this may trap birds inside.
+- Don’t remove or disturb a possible active nest unless a wildlife rescue or relevant authority has told you what is safe and lawful.
+- Don’t handle a bird unless it is necessary for immediate safety or you have been advised to do so. If you are told to handle it, use gloves or a towel and keep pets and children away.
+- Don’t assume the birds are definitely trapped. Chicks in an active nest can sound distressed even when adults are still feeding them.
 
 ## What to do now
-1. **Make it safe to pause.** If it’s the chimney/flue: **stop using it immediately** (no fires; don’t run any appliance that vents into that flue). If it’s near a bathroom/kitchen extractor/vent: switch that fan off for now.
-2. **Locate the sound without opening anything.** Stand quietly in nearby rooms for 30–60 seconds and note where it’s loudest:
-   - clearly **in the chimney/fireplace/stove area**, or
-   - **in a wall/ceiling void** (often near vents, eaves, soffits).
-3. **If a bird is actually in the room (e.g., came through the fireplace):**
-   - Keep people and pets out; close interior doors so it stays in one room.
-   - Dim the room (turn off lights; close curtains) and **open a clear exit** (a window, or an external door if that’s safer/easier).
-   - Wait quietly. If it can’t leave, looks injured, or is exhausted, go to step 5.
-4. **If it sounds like chicks begging (rapid, repetitive peeping) but you don’t see a bird inside:** treat it as a **possible active nest**. Keep the area calm and don’t disturb the chimney/wall—parents may still be feeding them.
-5. **Get expert help early (most important).**
-   - Contact a **wildlife rescue/rehabilitator** or animal welfare organisation for advice.
-   - If it’s a chimney/flue issue (especially if you suspect nesting material or a bird part-way down), contact a **qualified chimney sweep** for safe assessment.
-6. **If you suspect fumes or a flue blockage:** ventilate the room, keep the appliance off, and get professional assessment before using anything connected to that flue again. If you suspect a gas emergency, use the UK gas emergency helpline.
-7. **If you can safely observe outside (from ground level only):** look for birds entering/exiting a chimney pot, vent, or gap under eaves. Share what you see with the rescue/professional.
-8. **Have key details ready when you call:** where you hear it, how long it’s been going on, whether you’ve seen adults flying in/out, and whether any appliance shares that flue.
+1. **Make the area safe to pause.** If the sound is in a chimney, fireplace, stove, or flue, stop using it now. If the sound is near an extractor, air brick, soffit, or vent, switch that fan off for now.
+
+2. **Keep people and pets away.** Close the room door if the sound is near a fireplace or wall cavity. Keep the room quiet so a loose bird is less likely to panic or injure itself.
+
+3. **Work out where the sound is coming from without opening anything.** Stand quietly in nearby rooms for 30–60 seconds and note whether the sound is loudest:
+   - in the chimney, fireplace, stove, or flue;
+   - behind or above a gas fire;
+   - inside a wall or ceiling void;
+   - near a vent, eaves, soffit, or roof gap.
+
+4. **If a bird has come into the room, give it one clear way out.** Keep people and pets out, close interior doors, turn lights off, cover closed windows, and open one external door or one window as the brightest exit. Leave the room quiet and monitor from outside the room.
+
+5. **If the bird cannot leave, looks injured, is covered in soot, seems exhausted, or has been trapped for hours, get help.** Contact the RSPCA in England and Wales, the SSPCA in Scotland, the USPCA in Northern Ireland, a local wildlife rescue, or a vet.
+
+6. **If the bird is inaccessible in a chimney, bricked-up fireplace, cavity wall, or ceiling void, do not try to open the structure yourself.** Ask a suitable professional, such as a chimney sweep for a chimney or flue, or a builder or property professional for a wall or ceiling cavity, how to access the area safely.
+
+7. **If you hear rapid, repeated peeping but cannot see a bird inside, treat it as a possible active nest.** Do not disturb the chimney, wall, roof space, or vent. Adults may still be feeding chicks, and active wild bird nests have legal protection.
+
+8. **If the sound is behind or above a gas fire, do not remove or disconnect anything yourself.** Contact a Gas Safe registered engineer before any rescue attempt involving the appliance.
+
+9. **If it is a chimney or stove flue, contact a qualified chimney sweep for advice.** Tell them you may have birds or nesting material in the chimney and do not use the appliance again until the flue has been checked and cleared when it is safe and lawful to do so.
+
+10. **If you suspect carbon monoxide, fumes, a blocked flue, or a gas emergency, leave the property.** For natural gas emergencies, call 0800 111 999 in England, Scotland, or Wales, or 0800 002 001 in Northern Ireland. If anyone has severe symptoms, is unconscious, confused, struggling to breathe, or in immediate danger, call 999.
+
+11. **Observe from ground level only if it is safe.** Look for adult birds entering or leaving a chimney pot, vent, eaves gap, or roofline hole. Do not climb onto roofs or ladders. Share what you see with the rescue, vet, chimney sweep, engineer, builder, or property professional.
+
+12. **Have the key details ready when you call.** Say where the sound is, how long it has been happening, whether you have seen adult birds entering or leaving, whether a bird is in the room, whether any appliance uses that flue, and whether there is any smell, soot, smoke, alarm, or illness.
 
 ## What can wait
-- You don’t need to decide today about fitting a chimney cowl/guard or sealing gaps.
-- You don’t need to identify the species right now.
-- You don’t need to clean out or “fix the nest problem” immediately—first prioritise safety and getting the right help.
+- You do not need to identify the species right now.
+- You do not need to decide today about a chimney cowl, bird guard, vent cover, or roof repair.
+- You do not need to clean, seal, sweep, or dismantle anything immediately.
+- You do not need to decide whether there is a legal issue yourself; get advice first.
+- Prevention work can wait until any active nest is no longer in use and the flue or opening has been checked.
 
 ## Important reassurance
-This is common, especially in nesting seasons. Noise doesn’t automatically mean immediate danger. The safest first move is usually to stop using the flue, keep things calm, and get advice before doing anything that could trap them further, harm them, or create a home safety hazard.
+Bird noise in chimneys, roof spaces, and wall cavities is common, especially during nesting season. Noise alone does not prove that a bird is trapped. The safest first move is to stop using the flue or vent, keep the area calm, and get the right help before doing anything that could harm birds or create a fire, gas, or carbon monoxide risk.
 
 ## Scope note
-These are first steps to reduce harm and prevent irreversible mistakes. A wildlife rescue and a chimney professional can advise what’s safe, lawful, and practical for your exact setup.
+These are first steps only. Wildlife rescues, vets, relevant authorities, chimney sweeps, Gas Safe registered engineers, builders, and property professionals may need to advise on later decisions for your exact property and location.
 
 ## Important note
-This is general information, not professional or legal advice. If you suspect fumes, a blocked flue, or a gas safety issue, treat it as urgent and get qualified help before using the appliance again.
+This is general information, not legal, veterinary, gas safety, building, fire safety, medical, or other professional advice. If you suspect fumes, carbon monoxide, a gas emergency, or immediate danger to a person, leave the property and use the appropriate emergency route.
 
 ## Additional Resources
 - https://www.rspca.org.uk/adviceandwelfare/wildlife/birds/trapped
-- https://www.rspb.org.uk/birds-and-wildlife/if-you-find-an-injured-bird
-- https://www.gov.uk/guidance/wild-birds-protection-surveys-and-licences
+- https://www.rspb.org.uk/birds-and-wildlife/birds-nests-and-nestboxes/birds-in-the-roof
+- https://www.rspb.org.uk/birds-and-wildlife/wildlife-and-countryside-act
+- https://www.hetas.co.uk/consumer/services/chimney-sweeps/
 - https://www.gassaferegister.co.uk/gas-safety/carbon-monoxide-poisoning/
-- https://www.london-fire.gov.uk/safety/the-home/carbon-monoxide-safety/
+- https://www.gassaferegister.co.uk/gas-emergency/what-to-do-in-a-gas-emergency/

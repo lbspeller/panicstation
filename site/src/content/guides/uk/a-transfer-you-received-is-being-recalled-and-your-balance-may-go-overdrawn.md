@@ -1,91 +1,113 @@
-﻿---
+---
 title: "What to do if… a transfer you received is being recalled and your balance may go overdrawn"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
-  - received transfer being recalled
-  - incoming payment reversed
-  - bank transfer clawback
-  - payment recall request
-  - balance may go overdrawn
-  - sudden negative balance risk
-  - bank says funds will be returned
-  - mistaken payment received
-  - unknown sender payment reversal
-  - sender asks for money back
-  - recall message in banking app
-  - overdraft interest and fees worry
-  - bills about to leave account
-  - returned payment may bounce
-  - transfer reversed after you spent it
-  - funds may be removed soon
-  - credit payment recovery process
-  - faster payments recovery request
-last_reviewed: "2026-01-09"
+  - "received transfer being recalled"
+  - "incoming transfer may reverse"
+  - "bank transfer being recalled"
+  - "payment recall on account"
+  - "balance may go overdrawn"
+  - "unexpected negative balance"
+  - "mistaken payment received"
+  - "unknown payment in account"
+  - "sender wants money back"
+  - "bank says transfer recall"
+  - "what do i do if transfer recalled"
+  - "what do i do if payment reversed"
+  - "what do i do if balance overdrawn"
+  - "what do i do if bank recalls money"
+  - "help i received wrong transfer"
+  - "help i may go overdrawn"
+  - "help i spent recalled money"
+  - "help i got unknown payment"
+  - "my balance might go negative"
+  - "my bank says payment recall"
+  - "my account may be debited"
+  - "my direct debit may bounce"
+  - "recall notice in banking app"
+  - "pending payments after recall"
+  - "overdraft fees after recall"
+  - "direct debits due soon"
+  - "transfer recall or scam"
+  - "payment recall or fraud"
+  - "chargeback or bank transfer"
+  - "bank recall or clawback"
+  - "faster payment recall worry"
+  - "credit payment recovery worry"
+  - "overdrawn after recalled transfer"
+  - "recieved transfer recalled"
+  - "recived payment recall"
+last_reviewed: "2026-04-28"
+date_created: "2026-04-28"
 ---
 
 # What to do if… a transfer you received is being recalled and your balance may go overdrawn (UK)
+
 ## Short answer
-Assume the money could be taken back: stop spending from that account and contact your bank (using the number in your app/on your card) to confirm what will happen and to ask them to prevent avoidable fees while it’s sorted.
+Treat the recalled amount as unavailable, stop non-essential spending from that account, and contact your bank through your app, card, or official website to ask what will happen to your balance.
 
 ## Do not do these things
-- Don’t send money back to the “sender” yourself (bank transfer, cash, crypto, gift cards), especially if they’re pressuring you. If it’s genuine, it should be handled bank-to-bank.
-- Don’t withdraw or move the funds out to “protect” them—if the money is later removed, you can be left with a bigger shortfall and fees.
-- Don’t assume a “recall” is always automatic. Some recoveries are requests; others can be enforced (for example if your bank believes the credit isn’t yours to keep). Treat it as uncertain until your bank confirms.
-- Don’t use phone numbers or links from texts/emails about the recall—use your bank’s official contact details.
-- Don’t close the account mid-incident unless your bank tells you to—this can complicate returns, holds, and complaints.
+- Don’t send money back to the sender yourself by bank transfer, cash, crypto, gift cards, or another account. If it is genuine, it should usually be handled bank-to-bank.
+- Don’t use phone numbers or links from texts, emails, or social media messages about the recall.
+- Don’t move or withdraw the money to “protect” it. If the bank later removes the credit, you could be left with a bigger shortfall.
+- Don’t assume the recall is automatic, harmless, or definitely a scam. Ask your bank to confirm the process in your secure banking channel.
+- Don’t share one-time codes, passwords, screenshots showing full account details, or extra personal information with the sender.
+- Don’t close the account during the incident unless your bank tells you to do that.
 
 ## What to do now
-1. **Stop non-essential spending immediately.**  
-   Consider the recalled amount unavailable until your bank confirms otherwise.
+1. **Stop spending the recalled amount.**  
+   Work out your balance as if the recalled transfer has already gone. Use that lower figure for any decisions today.
 
-2. **Check what’s about to leave the account in the next 48–72 hours.**  
-   In your app/online banking, list:
-   - pending card payments (including “offline” transactions that can settle later)
-   - scheduled payments/standing orders
-   - upcoming Direct Debits and essential bills  
-   If you can, **move your own money into this account** to cover essentials and prevent a knock-on of declined payments and charges.
+2. **Check what is due to leave the account soon.**  
+   In your banking app or online banking, check pending card payments, standing orders, Direct Debits, subscriptions, rent, mortgage, utilities, loan payments, and essential bills due in the next few days.
 
-3. **Call your bank and ask them to name the process and timeline.**  
-   Faster Payments generally can’t be “cancelled” once sent, so banks usually handle recovery through defined procedures (often referred to as **Credit Payment Recovery (CPR)**) or through fraud/error corrections. Ask:
-   - “Is this a **Credit Payment Recovery (CPR)** request, a fraud recovery, or a correction for bank error?”
-   - “Will my account be debited? If so, **when** and for **how much**?”
-   - “Have you placed a **hold** or any restriction on my account?”
-   - “Can you confirm this in a **secure message** in my app?”
+3. **Contact your bank through a trusted route.**  
+   Use the number in your app, on your card, or on your bank’s official website. Say: “A transfer I received is being recalled and it may take me overdrawn. Please tell me what process this is, whether money will be debited, whether there is a hold on my account, and what I should do about essential payments.”
 
-4. **Ask for immediate fee/interest protection if this could push you negative.**  
-   Say plainly: “If this debit happens, it may take me overdrawn. Can you **prevent or refund** any avoidable overdraft interest/fees and any returned-payment charges that result from this recall while it’s being investigated?”
+4. **Ask whether it is a Credit Payment Recovery request, a bank correction, a fraud issue, or something else.**  
+   Faster Payments usually cannot be cancelled once sent, but banks can use recovery or correction processes in some situations. Ask the bank to name the process and to confirm whether you can dispute anything, what evidence they need, and when they expect the next action.
 
-5. **Stabilise essentials before anything else.**  
-   If an essential payment might fail (rent, mortgage, utilities), contact the biller and ask for a short extension or an alternative payment method. Keep it minimal: “A banking adjustment may temporarily affect my balance.”
+5. **Ask for a clear balance and timing.**  
+   Ask: “What amount may be removed, when could it happen, and will it show as a hold, reversal, debit, or adjustment?” Ask them to confirm this in a secure message if they can.
 
-6. **If the sender contacts you, keep it bank-to-bank.**  
-   A safe script: “I can’t send money directly. Please contact your bank to work with my bank on the recovery.” Don’t share extra personal details, screenshots, or one-time codes.
+6. **Ask for fee and interest help before charges build up.**  
+   Say: “This recall may take me overdrawn. Can you stop, waive, or refund avoidable overdraft interest, unpaid-item fees, or returned-payment charges while this is being checked?” If you are struggling to pay essentials, say that clearly.
 
-7. **If you suspect fraud, report it and keep records.**  
-   Tell your bank you suspect fraud and ask them to note your account. Save screenshots of the recall notice, the original credit, and any messages.
+7. **Protect essential payments first.**  
+   If your bank confirms the account is usable and you can afford it, consider moving only your own money into the account to cover essential payments. If an essential payment may fail, contact the biller and ask for a short hold, new payment date, or alternative way to pay.
 
-8. **If you’re charged unfairly or your bank won’t help, escalate in the UK way.**  
-   Make a formal complaint to your bank first (ask how to do this in-app). If it’s not resolved, you can escalate to the **Financial Ombudsman Service**.
+8. **Keep sender contact bank-to-bank.**  
+   If the sender contacts you, use a short reply: “I cannot send money directly. Please contact your bank so they can work with my bank.” Do not argue about the money by message.
+
+9. **Keep records.**  
+   Save the original credit details, recall notice, bank messages, sender messages, dates, times, names of bank staff, and any fees or failed payments.
+
+10. **If you suspect fraud, tell your bank and report through the right official route.**  
+   Tell your bank you are worried this may be fraud or a scam. If you live in England, Wales, or Northern Ireland, you can report fraud through Report Fraud. If you live in Scotland, or the crime happened in Scotland, contact Police Scotland. If a crime is happening now or there is immediate danger, use the emergency route.
+
+11. **If the bank charges you unfairly or will not explain what is happening, complain to the bank first.**  
+   Ask how to make a formal complaint and keep the complaint reference. If you receive a final response you disagree with, or the bank does not respond within the relevant complaint timeframe, you can ask the Financial Ombudsman Service whether it can look at the complaint. Some payment-service complaints can have shorter response periods than the usual eight weeks.
 
 ## What can wait
-- You don’t need to decide today whether to “fight” the recovery or negotiate with the sender.
-- You don’t need a perfect timeline right now—just keep the transaction details and any messages.
-- You don’t need to take out credit immediately unless your bank confirms an unavoidable shortfall you cannot cover.
+- You do not need to decide today whether to fight the recovery, negotiate with the sender, or take legal action.
+- You do not need to explain the whole situation to every biller. A short message about a temporary banking issue is enough.
+- You do not need to take out credit immediately. First get the bank’s timeline, protect essentials, and ask about fee help.
+- You do not need a perfect written timeline tonight. Keep screenshots and notes as you go.
 
 ## Important reassurance
-This can happen because of mistakes, disputes, fraud checks, or bank corrections. Feeling panicky is normal. The quickest harm-reduction move is stopping new spending, getting a clear timeline from your bank, and preventing avoidable charges while the situation is clarified.
+A recall notice is stressful, especially if it could make your balance negative. The safest first move is not to solve the whole dispute; it is to stop new spending, get the bank’s confirmed position, protect essential payments, and avoid direct contact mistakes.
 
 ## Scope note
-These are first steps only to stabilise the next hours/days and reduce avoidable fees. Once your bank confirms what process is happening and what they need from you, you can decide next steps more calmly.
+These are first steps only to stabilise the next hours and days. Later decisions about complaints, debt support, recovery disputes, or legal options may need specialist help.
 
 ## Important note
-This is general information, not financial or legal advice. Bank policies and the reasons a credit might be removed vary. When in doubt, rely on your bank’s official channels and ask for written confirmation in-app of what will happen to your balance.
+This is general information, not financial, legal, debt, or professional advice. Bank processes, account terms, payment types, and complaint timescales can vary, so use your bank’s official channels and ask for written confirmation where possible.
 
 ## Additional Resources
 - https://www.wearepay.uk/what-we-do/payment-systems/faster-payment-system/how-faster-payments-work/
-- https://www.wearepay.uk/wp-content/uploads/2025/05/Pay.UK-Faster-Payments-System-Principles-v-10.1-May-2025.pdf
-- https://www.legislation.gov.uk/uksi/2017/752/regulation/90
+- https://www.fca.org.uk/consumers/making-receiving-payments
+- https://www.moneyhelper.org.uk/en/everyday-money/credit/overdrafts-explained
+- https://www.moneyhelper.org.uk/en/everyday-money/banking/how-to-reclaim-unfair-bank-charges
 - https://www.reportfraud.police.uk/reporting-a-fraud/
-- https://www.citizensadvice.org.uk/debt-and-money/borrowing-money/types-of-borrowing/bank-overdrafts/
 - https://www.financial-ombudsman.org.uk/make-complaint

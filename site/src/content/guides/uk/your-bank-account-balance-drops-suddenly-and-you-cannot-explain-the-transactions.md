@@ -1,107 +1,132 @@
-﻿---
+---
 title: "What to do if… your bank account balance drops suddenly and you cannot explain the transactions"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
-  - bank balance dropped suddenly
-  - money missing from account
-  - unrecognised bank transactions
-  - unauthorised payments on statement
-  - unexpected card transactions
-  - unknown cash withdrawal
-  - suspicious bank transfer out
-  - unknown direct debit taken
-  - unexpected standing order payment
-  - account drained overnight
-  - banking app card freeze
-  - bank account takeover suspicion
-  - scam call from “your bank”
-  - one time passcode request
-  - approved payment you didn’t mean
-  - card added to digital wallet
-  - merchant name you don’t recognise
-  - cannot explain outgoing payments
-last_reviewed: "2026-01-08"
+  - "bank account balance dropped suddenly"
+  - "bank account money missing"
+  - "bank account transactions unexplained"
+  - "bank account balance disappeared"
+  - "unrecognised bank account transactions"
+  - "unknown bank account payments"
+  - "bank account drained overnight"
+  - "money missing from bank account"
+  - "unexpected bank account withdrawals"
+  - "cannot explain bank transactions"
+  - "what do i do if bank balance drops"
+  - "what do i do if money missing"
+  - "what do i do if bank account drained"
+  - "what do i do if transactions unknown"
+  - "help i lost money from bank"
+  - "help i cannot recognise payments"
+  - "my bank account balance changed"
+  - "my bank account has unknown payments"
+  - "my bank account was emptied"
+  - "my card has unexpected payments"
+  - "unknown cash withdrawal"
+  - "unfamiliar merchant name"
+  - "new digital wallet payment"
+  - "unexpected direct debit"
+  - "unexpected standing order"
+  - "new payee bank transfer"
+  - "bank fraud or scam confusion"
+  - "card fraud or bank transfer"
+  - "direct debit or card payment"
+  - "pending or completed payment"
+  - "online banking access suspicious"
+  - "bank acount money missing"
+  - "unexplained bank transations"
+last_reviewed: "2026-05-22"
+date_created: "2026-05-22"
 ---
 
 # What to do if… your bank account balance drops suddenly and you cannot explain the transactions (UK)
 
 ## Short answer
-Freeze/block access immediately, then contact your bank’s fraud team using a trusted route (your app, the number on your card, or dial 159). The priority is stopping any further payments before you investigate.
+Freeze or block what you can in your banking app, then contact your bank’s fraud team using a trusted route: the app, the number on your card, or 159 if your bank is connected. The priority is stopping any further payments before trying to work out exactly what happened.
 
 ## Do not do these things
-- Don’t call back a number from a text/email/pop-up (even if it looks like your bank).
-- Don’t share passcodes, card reader codes, PINs, or one-time verification numbers with anyone.
-- Don’t approve app prompts for “new device / new payee / payee change” you didn’t start.
-- Don’t move money to a “safe account” because someone told you to.
-- Don’t install remote-access or screen-sharing apps because “the bank” asked.
-- Don’t delete texts/emails/call logs yet — you may need them for the investigation.
+- Don’t call back a number from a text, email, pop-up, or voicemail, even if it looks like your bank.
+- Don’t share passcodes, card reader codes, PINs, passwords, or one-time verification numbers with anyone.
+- Don’t approve app prompts for a new device, new payee, payee change, or digital wallet you did not start.
+- Don’t move money to a “safe account” because someone tells you to.
+- Don’t install remote-access or screen-sharing apps because a caller says they are from the bank.
+- Don’t delete texts, emails, app notifications, or call logs yet.
 
 ## What to do now
 1. **Stop further losses right now**
-   - In your banking app/online banking: **freeze your card** and switch off **online/contactless/ATM use** if those controls exist.
-   - If you can’t access the app: call your bank using the **number on the back of your card** (or a saved trusted number).
+   - In your banking app or online banking, freeze your card if that option exists.
+   - Switch off online, contactless, gambling, international, or cash-machine use if your bank gives those controls.
+   - If you cannot access the app, call your bank using the number on the back of your card or another trusted number you already know is genuine.
 
-2. **Contact your bank’s fraud team via a trusted route**
-   - If you’ve had a suspicious call: **hang up** and dial **159**, or call the number on your card.
-   - Say clearly: “My balance dropped suddenly; I don’t recognise these transactions; please block further payments and treat this as fraud.”
+2. **Contact your bank’s fraud team by a trusted route**
+   - If you have just had a suspicious call, hang up first.
+   - Use your banking app, the number on your card, or 159 if your bank is connected to that service.
+   - Say: “My balance dropped suddenly. I do not recognise these transactions. Please block further payments and treat this as possible fraud.”
 
-3. **Ask the bank to take specific protective actions**
-   - **Block/replace cards**, log you out of other devices, and remove any **newly added devices/digital wallets** you don’t recognise.
-   - **Stop/recall** anything that is pending (some payments/transfers can be stopped if caught early).
-   - If you think online banking access is compromised, ask about **temporarily restricting the account** and **moving to a new account number**.
+3. **Ask the bank to protect the account**
+   - Ask the bank to block or replace affected cards.
+   - Ask the bank to log out other devices and remove any new device or digital wallet you do not recognise.
+   - Ask whether any pending payment can be stopped, delayed, cancelled, traced, or recalled.
+   - If online banking access may be compromised, ask whether the bank should temporarily restrict the account, reset access, issue new credentials, or open a replacement account.
 
-4. **Sort the unknown items by type (this changes how they’re handled)**
-   - For each unfamiliar transaction, note whether it’s a **card payment**, **cash withdrawal**, **bank transfer**, **Direct Debit**, or **standing order**.
-   - Write down: date/time, amount, merchant/reference, and whether it’s pending or completed.
+4. **Sort the unknown items by payment type**
+   - For each unfamiliar item, note whether it is a card payment, cash withdrawal, bank transfer, Direct Debit, or standing order.
+   - Write down the date, time, amount, merchant or reference, and whether it is pending or completed.
+   - Tell the bank if the same merchant, device, payee, cash machine, or location appears more than once.
 
-5. **If any are Direct Debits, use the Direct Debit Guarantee**
-   - Tell the bank which Direct Debits were wrong and ask for a **refund under the Direct Debit Guarantee**.
-   - Also cancel the mandate in-app/with the bank so it can’t happen again.
+5. **If any items are Direct Debits, name them clearly**
+   - Tell the bank which Direct Debits you believe were wrong.
+   - Ask whether the payment can be refunded under the Direct Debit Guarantee if it was taken in error.
+   - Cancel the mandate in your app or with the bank if you do not recognise it.
 
-6. **If you were tricked into making a transfer, say that out loud**
-   - If you authorised a transfer because you were pressured, rushed, or deceived: tell the bank you believe it was a **bank transfer scam (APP scam)**.
-   - Ask the bank to log it as an APP scam claim and explain whether it’s **in-scope for reimbursement protections** for that payment type.
+6. **If you were tricked into making a transfer, say that clearly**
+   - If you authorised a transfer because you were pressured, rushed, deceived, or told your money was at risk, tell the bank this was a possible authorised push payment scam.
+   - Ask the bank to log it as an APP scam claim.
+   - Ask what reimbursement protections may apply to that payment type and what information they need from you now.
 
-7. **Secure your access (assume email + phone are part of the risk)**
-   - Change your **online banking password** and your **email password** (email is often used to reset banking access).
-   - Turn on **two-step verification** where available.
-   - If you recently shared your screen or installed “support” software, remove it and run a security scan.
+7. **Secure access from a device you believe is safe**
+   - Change your online banking password if the bank tells you it is safe to do so.
+   - Change the password for the email account linked to your bank.
+   - Turn on two-step verification where available.
+   - If you recently shared your screen or installed support software, disconnect from the internet, remove the software, and use a trusted device to contact the bank.
 
 8. **Report it through the right UK route**
-   - **England, Wales, Northern Ireland:** report to **Report Fraud (Action Fraud)**.
-   - **Scotland:** report to **Police Scotland via 101**, and you can also report scams via **Advice Direct Scotland / ConsumerAdvice.Scot**.
-   - If you are being threatened/coerced right now, call **999**.
+   - In England, Wales, or Northern Ireland, report fraud or cyber crime to Report Fraud.
+   - In Scotland, report it to Police Scotland on 101.
+   - If someone is threatening you or you are in immediate danger, call 999.
 
 9. **Reduce follow-on identity fraud**
-   - Check your credit file for unfamiliar accounts/searches.
-   - If you think your identity details are being misused, consider **Cifas Protective Registration** (it prompts extra checks when credit is applied for in your name).
+   - Check your credit file for unfamiliar searches, loans, cards, or accounts.
+   - If you think your identity details are being misused, consider Cifas Protective Registration so lenders and service providers are prompted to do extra checks.
+   - Keep a simple note of when you contacted the bank, what you were told, and any reference numbers.
 
 10. **If the fraud started with a message, report the message too**
-   - Forward suspicious **texts** to **7726** (free).
-   - Forward suspicious **emails** to **report@phishing.gov.uk**.
+   - Forward suspicious texts to 7726.
+   - Forward suspicious emails to report@phishing.gov.uk.
+   - Do not click links in the message while you are reporting it.
 
 ## What can wait
-- Figuring out exactly how it happened — first stop the losses and secure access.
-- Long calls with merchants. Route disputes through your bank while the trail is fresh.
-- Deciding whether to close every account you have. Stabilise first, then review.
-- Any “recovery service” that contacts you offering to get money back for a fee.
+- You do not need to figure out exactly how it happened before contacting the bank.
+- You do not need to make long calls to merchants before the bank has logged the fraud report.
+- You do not need to decide today whether to close every account you have.
+- You do not need to respond to anyone offering a paid “recovery service”.
 
 ## Important reassurance
-A sudden unexplained drop in balance is frightening, but banks handle this scenario every day. You don’t need a perfect explanation to act — your job is simply **block, report, document**.
+An unexplained drop in your bank balance is alarming, but you do not need a perfect explanation before acting. The useful first steps are simple: block further access, report it to the bank, and keep a record of what you can see.
 
 ## Scope note
-This guide covers first steps to stop further loss, start the bank process, and reduce follow-on harm. Next steps (complaints, ombudsman routes, longer investigations) depend on transaction type and what the bank finds.
+These are first steps only. Later decisions about complaints, reimbursement, identity protection, or ombudsman routes may need help from your bank, a regulated adviser, the police, or another specialist service.
 
 ## Important note
-This is general information, not financial or legal advice. Give your bank the facts as you currently understand them, including if you approved anything under pressure or deception. Only follow security steps you initiate through trusted contact routes.
+This is general information, not financial, legal, technical, therapeutic, or professional advice. Follow security steps only through contact routes you have chosen and trust.
 
 ## Additional Resources
-- https://www.actionfraud.org.uk/what-to-do-if-you-spot-fraud-on-your-bank-account/
+- https://www.reportfraud.police.uk/
 - https://stopscamsuk.org.uk/our-work/159-phone-number/
 - https://www.directdebit.co.uk/direct-debit-guarantee/
-- https://www.reportfraud.police.uk/
 - https://www.psr.org.uk/information-for-consumers/app-fraud-reimbursement-protections/
-- https://www.police.uk/advice/advice-and-information/fa/fraud/
-- https://www.scotland.police.uk/guidance/scams-and-frauds/
-- https://www.cifas.org.uk/pr
+- https://www.scotland.police.uk/advice/scams-and-frauds/
+- https://www.gov.uk/report-suspicious-emails-websites-phishing
+- https://www.takefive-stopfraud.org.uk/protect-yourself/banking-fraud/
+- https://www.financial-ombudsman.org.uk/consumers/complaints-can-help/fraud-scams

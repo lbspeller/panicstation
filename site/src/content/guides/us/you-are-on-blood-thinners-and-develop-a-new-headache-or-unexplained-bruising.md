@@ -1,90 +1,115 @@
-﻿---
+---
 title: "What to do if… you are on blood thinners and develop a new headache or unexplained bruising"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
-  - blood thinners new headache
-  - anticoagulant headache and bruising
-  - warfarin easy bruising headache
-  - blood thinner bruises for no reason
-  - doac bruising concern
-  - apixaban bruising and headache
-  - rivaroxaban new headache
-  - dabigatran easy bruising
-  - edoxaban bruising worry
-  - severe headache on blood thinner
-  - head injury while anticoagulated
-  - bruises getting bigger
-  - unexpected bleeding symptoms
-  - bleeding risk blood thinner
-  - new headache not usual
-  - unexplained bruising adult
-  - anticoagulant side effects fear
-  - warfarin high inr symptoms
-  - on anticoagulants and dizzy
-last_reviewed: "2026-01-21"
+  - "blood thinner new headache"
+  - "blood thinner unexplained bruising"
+  - "blood thinners new headache"
+  - "blood thinners unexplained bruising"
+  - "anticoagulant new headache"
+  - "anticoagulant unexplained bruising"
+  - "warfarin headache and bruising"
+  - "apixaban headache and bruising"
+  - "blood thinner bruises for no reason"
+  - "bruises getting bigger on blood thinners"
+  - "what do i do if blood thinners cause bruises"
+  - "what do i do if i have a headache on blood thinners"
+  - "what do i do if bruises appear on anticoagulants"
+  - "what do i do if bruising is unexplained"
+  - "help i have bruises on blood thinners"
+  - "help i have a new headache on warfarin"
+  - "my bruises are unexplained on anticoagulants"
+  - "my headache is new on blood thinners"
+  - "severe headache on blood thinners"
+  - "dizziness and bruising on blood thinners"
+  - "blood in urine on blood thinners"
+  - "black stools on blood thinners"
+  - "nosebleeds and bruises on anticoagulants"
+  - "bruises spreading on blood thinners"
+  - "blood thinner side effects or emergency"
+  - "normal bruising or serious bleeding"
+  - "migraine or bleeding on blood thinners"
+  - "minor bruise or unexplained bleeding"
+  - "after a head bump on blood thinners"
+  - "after a fall on blood thinners"
+  - "taking warfarin with new bruises"
+  - "taking apixaban with new headache"
+  - "blood thiner new headache"
+  - "unexplained brusing on blood thinners"
+last_reviewed: "2026-06-09"
+date_created: "2026-06-09"
 ---
 
 # What to do if… you are on blood thinners and develop a new headache or unexplained bruising (USA)
 
 ## Short answer
-If you’re on a blood thinner and have a **new headache** or **unexplained bruising**, get **urgent medical advice today**. If the headache is **sudden/severe**, you have **any neurologic symptoms**, or you had a **recent head injury/fall**, call **911** or go to the **ER** now.
+Contact a clinician promptly today if you are taking a blood thinner and develop a new headache or unexplained bruising. Call 911 now for stroke signs, fainting, a seizure, unusual difficulty staying awake, bleeding that will not stop, or severe or worsening symptoms after a head injury. Go to an emergency department now after a fall or head bump, even if symptoms seem mild or there is no visible bleeding.
 
 ## Do not do these things
-- Do **not** “wait it out” if the headache is new, worsening, or unusual for you.
-- Do **not** take **aspirin** or **NSAIDs** (like ibuprofen/naproxen) unless your clinician has already told you they’re safe with your blood thinner.
-- Do **not** stop or skip doses “just in case” without **urgent clinical advice**. If you’re going to the **ER/911** for suspected serious bleeding, **do not take further doses unless a clinician tells you to**, and bring your medication bottles/list.
-- Do **not** drive yourself to urgent care/ER if you feel faint, confused, or your vision/speech is affected.
-- Do **not** add new over-the-counter medicines or supplements without checking first (some increase bleeding risk or interact with anticoagulants).
+- Do not wait for emergency symptoms to pass on their own.
+- Do not stop, skip, double, or change your blood thinner dose unless a clinician gives you instructions.
+- Do not start or add aspirin, ibuprofen, naproxen, or other NSAIDs unless a clinician or pharmacist says they are safe for you.
+- Do not add new over-the-counter medicines or supplements before checking with a clinician or pharmacist.
+- Do not drive yourself if you feel faint, confused, unusually sleepy, unsteady, or unable to see or speak normally.
 
 ## What to do now
-1. **Check for “go now” signs and use emergency care if present.**  
-   Call **911** (or go to the **ER**) if you have:
-   - a sudden, severe, or “worst” headache
-   - new confusion, fainting, extreme sleepiness, seizure
-   - weakness/numbness on one side, facial droop, trouble speaking, vision changes, new imbalance
-   - a headache after a **fall, car crash, sports impact, or any head bump**
-   - vomiting blood or “coffee-grounds” material, black/tarry stools, red urine, bleeding that won’t stop, or you feel very weak/lightheaded
+1. **Call 911 now if you have emergency signs.** These include:
+   - a sudden severe headache
+   - new weakness or numbness on one side, facial droop, trouble speaking, confusion, vision trouble, or new loss of balance
+   - fainting, a seizure, or unusual difficulty staying awake
+   - bleeding that will not stop
+   - severe weakness, dizziness, or lightheadedness
+   - severe or worsening symptoms after a fall, car crash, sports impact, or head bump
 
-2. **If it’s not an emergency, contact a clinician urgently today.**  
-   - Call your prescribing clinician, anticoagulation clinic, or primary care office and say:  
-     “I’m on a blood thinner and I have a new headache and/or unexplained bruising.”  
-   - If you can’t reach anyone promptly, **go to an ER/ED** (urgent care may not be able to evaluate anticoagulant-related bleeding safely).
+2. **Go to an emergency department now after a fall or head bump.**
+   - Do this even if the injury seemed minor, symptoms seem mild, or you cannot see any bleeding.
+   - Call 911 rather than driving if symptoms are severe, you feel faint or confused, or you cannot travel safely.
 
-3. **Identify your blood thinner and last dose time (this changes what clinicians do next).**  
-   Have ready: medication name (warfarin/Coumadin or a DOAC like apixaban/Eliquis, rivaroxaban/Xarelto, dabigatran/Pradaxa, edoxaban/Savaysa), dose, and **time of last dose**.
+3. **Get immediate medical advice for other serious bleeding signs.**
+   - Contact a clinician immediately if you vomit blood or material that looks like coffee grounds, have red or black tarry stools, have red or brown urine, or have a bruise that is rapidly spreading or becoming large.
+   - Go to an emergency department if you cannot get immediate advice.
+   - Call 911 rather than driving if symptoms are severe or you feel faint, weak, confused, or unsafe to travel.
 
-4. **If you take warfarin, ask whether you need an urgent INR check.**  
-   Unexpected bruising or headache can be a reason for evaluation and possibly lab work. Bring your INR log/clinic contact if you have it.
+4. **Contact a clinician promptly today for a new headache or unexplained bruising without the signs above.**
+   - Call the clinician who prescribes your blood thinner, your anticoagulation clinic, or your primary care office.
+   - Say: “I take a blood thinner and I have a new headache or unexplained bruising.”
 
-5. **Look for other bleeding symptoms you might have overlooked.**  
-   Easy or spreading bruises; gum bleeding; frequent nosebleeds; unusually heavy menstrual bleeding; pink/red/brown urine; red or black stools; vomiting blood; dizziness/weakness.
+5. **Gather your medication details.**
+   - Find the exact name and dose of every prescribed blood thinner, including anticoagulant or antiplatelet medicines.
+   - Note when you took your last dose.
+   - Gather your medication bottles and a list of prescription medicines, over-the-counter medicines, vitamins, and supplements.
 
-6. **Make the next few hours safer while you arrange care.**  
-   - Avoid activities where a fall or bump could happen.  
-   - If possible, have someone stay with you and keep your phone nearby.  
-   - Gather medication bottles and a list of other meds/supplements.
+6. **If you take warfarin, ask whether you need a prompt PT/INR check.**
+   - Bring your INR log or anticoagulation-clinic details if you have them.
+
+7. **Note other bleeding signs to report.**
+   - Look for bruises that are spreading or getting bigger, gum bleeding, frequent nosebleeds, unusually heavy menstrual bleeding, red or brown urine, red or black stools, vomiting blood, dizziness, or weakness.
+   - Note when the symptoms started and where the bruises are.
+
+8. **Reduce the chance of another injury while you arrange care.**
+   - Avoid activities where you could fall or hit your head.
+   - Ask someone to stay with you or check on you while you wait for medical help, especially after an injury or if symptoms worsen.
 
 ## What can wait
-- You do **not** need to decide today whether you should stop anticoagulation long-term — that depends on your clot risk and should be guided by a clinician.
-- You do **not** need to pinpoint the cause of the bruising or headache before seeking help.
-- You do **not** need to “prove” it’s serious by taking pain meds first (some are unsafe with blood thinners).
-- You do **not** need to contact multiple services at once; one urgent clinical contact is enough unless emergency symptoms appear.
+- You do not need to decide whether to stop blood thinners long-term.
+- You do not need to identify the cause of the headache or bruising before seeking help.
+- You do not need to try new pain medicines before contacting a clinician.
+- You do not need to contact several services at once. Start with 911 for emergency signs, an emergency department after a fall or head bump, or one prompt clinical contact for other symptoms.
 
 ## Important reassurance
-Feeling scared is a normal response — blood thinners are important medicines, and new symptoms can feel ominous. The goal is not to panic-stop your medication, but to get timely evaluation so bleeding complications are caught early and treated safely.
+Bruising can happen more easily while taking blood thinners, but a new headache or unexplained bruising deserves prompt attention. Seeking advice does not mean you have to make a long-term medication decision now. It gives a clinician the information needed to decide what care is appropriate.
 
 ## Scope note
-This guide is **first steps only** for the next few hours. Follow-up testing, medication adjustments, and investigating bruising causes should be done with your healthcare team.
+These are first steps only. Testing, medication changes, and later decisions may need help from your clinician or another specialist.
 
 ## Important note
-This is general information, not a diagnosis or personalized medical advice. If symptoms are severe, sudden, worsening, or you’re unsure, choose emergency care.
+This is general information, not a diagnosis or legal, medical, financial, therapeutic, or other professional advice. Call 911 for emergency signs or seek prompt clinical care if symptoms are new, worsening, or concerning.
 
 ## Additional Resources
 - https://medlineplus.gov/bloodthinners.html
 - https://medlineplus.gov/druginfo/meds/a682277.html
 - https://medlineplus.gov/druginfo/meds/a613032.html
+- https://medlineplus.gov/lab-tests/prothrombin-time-test-and-inr-ptinr/
 - https://www.cdc.gov/stroke/signs-symptoms/index.html
-- https://packageinserts.bms.com/medguide/medguide_eliquis.pdf
-- https://www.accessdata.fda.gov/drugsatfda_docs/label/2007/040415s003lbl.pdf
-- https://connect.mayoclinic.org/blog/take-charge-healthy-aging/newsfeed-post/know-the-warning-signs-of-blood-thinner-complications/
+- https://www.ahrq.gov/patients-consumers/diagnosis-treatment/treatments/btpills/btpills.html

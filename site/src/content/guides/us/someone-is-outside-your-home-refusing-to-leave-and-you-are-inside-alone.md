@@ -1,71 +1,86 @@
-﻿---
+---
 title: "What to do if… someone is outside your home refusing to leave and you are inside alone"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
-  - someone outside my house
-  - person outside refusing to leave
-  - unwanted visitor at my door
-  - stranger outside home
-  - someone knocking repeatedly
-  - doorbell ringing nonstop
-  - someone banging on the door
-  - person trying to get inside
-  - feels unsafe at home alone
-  - alone in the house at night
-  - suspicious person outside property
-  - doorstep confrontation fear
-  - someone won’t leave the doorstep
-  - possible break in attempt
-  - harassment outside my home
-  - can’t safely open the door
-  - need urgent help at home
-  - worried they will force entry
-  - person loitering outside home
-  - threatened while inside home
-last_reviewed: "2026-01-10"
+  - "someone outside my home"
+  - "someone outside refusing to leave"
+  - "person outside my home wont leave"
+  - "unwanted person outside my home"
+  - "stranger outside my home"
+  - "visitor outside refusing to leave"
+  - "someone waiting outside my door"
+  - "person loitering outside my home"
+  - "someone banging on my door"
+  - "person trying my door handle"
+  - "what do i do if visitor wont leave"
+  - "what do i do if stranger is outside"
+  - "what do i do if someone keeps knocking"
+  - "what do i do if visitor refuses"
+  - "help i am alone with someone outside"
+  - "help i feel trapped inside my home"
+  - "help i think someone may get in"
+  - "help i am scared to open door"
+  - "my unwanted visitor will not leave"
+  - "my doorbell keeps ringing"
+  - "my front door is being banged"
+  - "my home feels unsafe while alone"
+  - "someone looking through my windows"
+  - "someone shouting outside my home"
+  - "someone trying to force entry"
+  - "possible break in attempt outside home"
+  - "doorstep harassment at my home"
+  - "suspicious person outside my home"
+  - "someone is outisde my home"
+  - "someone wont leave my door"
+  - "alone inside home at night"
+  - "apartment door visitor wont leave"
+  - "former partner outside my home"
+  - "delivery person refusing to leave"
+last_reviewed: "2026-06-05"
+date_created: "2026-06-05"
 ---
 
 # What to do if… someone is outside your home refusing to leave and you are inside alone (USA)
 ## Short answer
-Stay inside with doors/windows locked and call 911 if you feel unsafe, threatened, or think the person may try to enter. Keep the door closed and let the call-taker guide you.
+Stay inside with the doors and accessible windows locked. Call 911 if you feel unsafe, threatened, or think the person may try to enter, and follow the call-taker’s instructions.
 
 ## Do not do these things
-- Do not open the door “just to see what they want” or to tell them to leave.
-- Do not go outside to confront, record close-up, or “prove” anything.
-- Do not argue or negotiate through an open door/window.
-- Do not threaten them or announce what you have in your home.
-- Do not hang up on 911 unless the call-taker tells you it’s okay.
-- Do not get distracted posting/streaming—prioritize getting help and staying behind a barrier.
+- Do not open the door to find out what the person wants or to tell them to leave.
+- Do not go outside to confront the person, record them at close range, or get a better look.
+- Do not stand near exposed windows or door glass.
+- Do not argue, threaten the person, or announce what is inside your home.
+- Do not ask a neighbor, friend, or family member to approach the property or confront the person.
+- Do not hang up on 911 unless the call-taker instructs you to do so.
+- Do not focus on posting or streaming while you are trying to get help and stay behind a barrier.
 
 ## What to do now
-1. **Create a safer pause inside.** Lock the front/back doors, lock accessible windows, and move away from direct sightlines from outside (while still able to observe via peephole/camera/window without being seen).
-2. **Call 911 if you feel unsafe or it could escalate.** Tell the call-taker: your address first, that you are **inside alone**, where the person is (porch/driveway/back door), and what they’re doing (refusing to leave, shouting, trying the door, looking into windows).
-3. **Call if you can; text only if you can’t.** If it isn’t safe to speak, you can try texting 911 **only where it’s supported**. If your area can’t receive texts to 911, you should get a bounce-back message telling you it wasn’t delivered—switch to a voice call as soon as you safely can.
-4. **Give a description without exposing yourself.** From a safe spot, note clothing, approximate height/build, any vehicle description/plate if visible, and whether you can see a weapon. Use a doorbell camera if you have one—do not open the door to “get a better look.”
-5. **Keep the barrier: the closed, locked door.** If you choose to speak, do it briefly through a closed door or intercom: “I’m not opening the door. You need to leave. I’ve called 911.” Then stop responding.
-6. **Make your environment more secure.** Turn on porch/outside lights. Bring your phone, charger/power bank if nearby, keys, and any essential medication into one room.
-7. **Choose a safer room and stay put.** Pick a room that locks and, if possible, has a second exit. Stay out of sight. Follow any instructions the call-taker gives you.
-8. **Bring in support without creating more risk.** Call a trusted neighbor/friend/family member and keep them on the line. If you live in an apartment/condo, you can also contact building security/management—after you’ve contacted 911 if you feel in danger.
-9. **If they try to force entry, treat it as an immediate emergency.** Move to your safer room, lock it, put solid furniture between you and the entry, and stay connected to 911.
+1. **Create a safer pause inside.** Lock the doors and any accessible windows. Move away from the entrance and direct sightlines. Do not move toward the person to check another lock.
+2. **Call 911 if you feel unsafe or think the situation may escalate.** Give your address promptly, including an apartment or room number where relevant. Say that you are inside alone. Describe what the person is doing, such as refusing to leave, shouting, trying a door, or looking into windows. Answer the call-taker’s questions.
+3. **Call if you can; text if you can’t.** If speaking could put you at risk, try texting 911. In the first text, give your address and say that someone outside your home is refusing to leave. Text-to-911 availability varies by community. If you receive a bounce-back message saying the text was not delivered, make a voice call as soon as you safely can.
+4. **Give a description only from a safe position.** Share clothing, approximate height and build, a vehicle description, a license plate, or any visible weapon only when you can do so without approaching the person or exposing yourself. Use a peephole or camera only if it is safely accessible.
+5. **Move to a safer room if needed.** Choose a room away from the entrance. Lock the interior door if possible. Keep your phone with you and stay connected to 911.
+6. **Use nearby controls only when safe.** Turn on outside lights only if the controls are already safely reachable. Bring essential medication, a charger, or keys with you only if they are close by and collecting them does not take you toward danger.
+7. **Limit contact with the person outside.** Keep the door closed. Do not continue engaging unless the call-taker advises otherwise.
+8. **Contact a trusted person after calling 911 if it helps.** Tell them not to come to the property or confront the person. Ask them to remain available by phone.
+9. **Treat an attempted entry as an immediate emergency.** Tell the 911 call-taker immediately. Move away from the entry point. Lock an interior door and block it only if you can do so without moving toward danger.
 
 ## What can wait
-- You do not need to decide right now whether you want to file a longer report—focus on safety first.
-- You do not need to identify the person with certainty before calling—describe what you can.
-- If the person leaves and you’re safe, you can look up and use your local police **non-emergency** number to make a report (rather than calling 911).
-- You can deal with follow-up security upgrades after the situation is stable.
+- You do not need to identify the person with certainty before calling 911.
+- You do not need to decide now whether to make a longer report.
+- You do not need to review recordings, take photographs, or plan security upgrades while the person is outside.
+- If the person leaves, tell the 911 call-taker. Remain inside until you feel safe. A later report through your local police non-emergency number can wait until there is no immediate danger.
 
 ## Important reassurance
-It’s normal to feel shaky, frozen, or unsure whether this “counts.” If someone is outside your home refusing to leave and you’re alone and frightened, staying behind a locked barrier and calling for help is a reasonable, protective response.
+Feeling shaky, frozen, or uncertain is understandable. You do not need to open the door or confront the person. Staying behind a locked barrier and asking for help is a reasonable response.
 
 ## Scope note
-This guide covers first steps for the next minutes to hour. Afterward, you may want local follow-up depending on who the person was and what occurred.
+These are first steps for the earliest safe pause. Later decisions may depend on what happened and may need help from local services or an appropriate specialist.
 
 ## Important note
-This guide is general information, not legal advice. If you believe you are in immediate danger, prioritize emergency services and follow the call-taker’s instructions.
+This guide provides general information only. It is not legal, medical, financial, therapeutic, or other professional advice. If you believe you are in immediate danger, prioritize calling 911 and follow the call-taker’s instructions.
 
 ## Additional Resources
+- https://www.911.gov/
 - https://www.911.gov/calling-911/
 - https://www.911.gov/calling-911/frequently-asked-questions/
-- https://content.govdelivery.com/accounts/TXGOV/bulletins/7bbacc
-- https://county.milwaukee.gov/EN/Office-of-Emergency-Management/System-Status/Text-to-911

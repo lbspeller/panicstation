@@ -1,88 +1,129 @@
-﻿---
+---
 title: "What to do if… your password manager stops unlocking and you cannot access your saved logins"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
-  - password manager not unlocking
-  - password vault wont open
-  - cant access saved logins
-  - locked out of password manager
-  - forgot master password
-  - master password not working
-  - password manager stuck loading
-  - password manager app broken
-  - password manager sync not working
-  - cant get into 1password
-  - cant unlock bitwarden
-  - cant access lastpass vault
-  - icloud passwords not accessible
-  - google password manager locked out
-  - lost two factor codes
-  - lost authenticator access
-  - emergency access password manager
-  - recovery code not found
-  - cant reset passwords quickly
-  - password manager says wrong password
-last_reviewed: "2026-03-08"
+  - "password manager not unlocking"
+  - "password manager stopped unlocking"
+  - "password vault wont open"
+  - "password vault locked out"
+  - "saved logins inaccessible"
+  - "cannot access saved logins"
+  - "cant access saved logins"
+  - "locked out of password manager"
+  - "master password not working"
+  - "forgot master password"
+  - "two factor codes missing"
+  - "authenticator app unavailable"
+  - "what do i do if password manager wont unlock"
+  - "what do i do if saved logins disappeared"
+  - "what do i do if vault says wrong password"
+  - "what do i do if master password fails"
+  - "help i cant unlock password manager"
+  - "help i lost saved logins"
+  - "help i lost two factor codes"
+  - "help i forgot master password"
+  - "my password manager is locked"
+  - "my saved logins are trapped"
+  - "my vault says wrong password"
+  - "my authenticator is gone"
+  - "wrong password message"
+  - "unlock button does nothing"
+  - "sync error on password vault"
+  - "app stuck while unlocking"
+  - "unexpected login alerts"
+  - "recovery code missing"
+  - "passkey confused with password"
+  - "browser passwords versus vault"
+  - "account recovery not set up"
+  - "new phone no authenticator"
+  - "work password vault locked"
+  - "family password plan locked"
+  - "password manger locked out"
+  - "pasword manager not opening"
+last_reviewed: "2026-05-27"
+date_created: "2026-05-27"
 ---
 
 # What to do if… your password manager stops unlocking and you cannot access your saved logins (UK)
 
 ## Short answer
-Stop trying random passwords or “fixes” that could wipe your vault. First, stabilise: try unlocking on a second device/browser, check your device time/internet, and use any built-in recovery option (recovery code, emergency access, family/team recovery) before you reset anything.
+Stop making changes that could delete local vault data. Try a second already-signed-in device or web vault, then use only the password manager’s official recovery route before you reset, delete, or reinstall anything.
 
 ## Do not do these things
-- Don’t uninstall/reinstall the app, delete its data, or “reset” the vault unless you are sure you can sign back in and re-sync (this can erase the only local copy).
-- Don’t keep guessing the master password quickly; repeated attempts can trigger lockouts and makes mistakes more likely.
-- Don’t follow “recovery” videos/tools that ask you to upload your vault file, export, or share screenshots of recovery keys/QR codes.
-- Don’t immediately change lots of account passwords from memory; you can accidentally lock yourself out of the wrong accounts and create more damage.
-- Don’t assume it’s “just a glitch” if you also received unexpected login/MFA prompts — treat that as possible compromise and slow down.
+- Don’t uninstall the app, delete app data, clear browser profiles, or reset the vault unless you are sure your data is safely synced or backed up.
+- Don’t keep rapidly guessing the master password; repeated attempts may trigger extra checks, and panic makes typing mistakes more likely.
+- Don’t upload vault files, recovery keys, screenshots, QR codes, or exports to a “recovery” website or tool.
+- Don’t reset many account passwords from memory all at once; this can create more lockouts.
+- Don’t ignore unexpected login alerts, MFA prompts, password reset emails, or bank activity while you are locked out.
+- Don’t trust links in panic-search results or messages claiming to be support; go to the provider’s official website or app store listing yourself.
 
 ## What to do now
-1. **Pause and protect what you have.** Put the device in a calm, safe state: stop making changes, plug it in, and ensure you won’t lose power mid-process.
-2. **Try the least-destructive unlock checks (2–5 minutes):**
-   1) Check Caps Lock/keyboard layout and any password “autofill” oddities.  
-   2) Restart the app/browser and the device once.  
-   3) Confirm your device date/time is correct (wrong time can break encryption/MFA).  
-   4) If it’s a cloud-synced manager, try both **online** (Wi-Fi/4G) and **offline** (airplane mode) once.
-3. **Try a second access path immediately (this often reveals whether it’s local or account-related):**
-   - Another signed-in device (phone/tablet/laptop).
-   - The web vault (if your provider has one) in a private/incognito window.
-   - A different browser profile (extensions can interfere).
-4. **Check for provider-side issues (quick sanity check).** Look for your password manager’s official status page/service incident notice. If there’s an outage, stop troubleshooting and avoid resets.
-5. **Use the provider’s *official* recovery routes (only what applies to you):**
-   - **If you lost your second factor (2FA):** use the provider’s saved **recovery code(s)** (these are usually generated when you set up 2FA).  
-   - **If you set up “emergency access” / trusted contact access:** request access through that feature (don’t create new accounts or export anything).  
-   - **If this is a work/team vault:** ask your organisation admin whether **account recovery** is enabled for your account (some providers support admin recovery for organisation members).
-   - **If you use a family/team plan that supports recovery:** ask the family organiser/admin to start account recovery if available.
-6. **Secure the account that can unlock everything: your email.** If you can still access your primary email, do this now:
-   - Change the email password (unique, strong).
-   - Turn on MFA for the email account.
-   - Check for new “forwarding rules”/unknown devices and remove anything you don’t recognise.
-7. **If you suspect hacking or fraud (unexpected login alerts, MFA prompts, money moved):**
+1. **Pause and preserve the device.** Keep the device powered, do not clear data, and stop changing settings until you know whether another copy of the vault is accessible.
+
+2. **Try the least-destructive unlock checks.**
+   - Check Caps Lock, keyboard language, copied spaces, and whether autofill has inserted the wrong account password.
+   - Restart the password manager app, browser extension, or browser once.
+   - Check the device date and time; wrong time can stop time-based MFA codes working.
+   - Try online access once, then offline access once if your password manager normally keeps a local copy.
+
+3. **Try another access path before resetting anything.**
+   - Open another phone, tablet, laptop, or browser where the password manager may already be signed in.
+   - Try the provider’s web vault in a private window.
+   - Try a different browser profile if the problem is in a browser extension.
+   - If biometric unlock, Windows Hello, Touch ID, Face ID, or system authentication still works on any device, use that access carefully.
+
+4. **If you find an unlocked device, rescue access before logging out.**
+   - Look for any stored item that contains the password manager account details, recovery code, secret key, or setup details.
+   - Follow the provider’s official instructions for recovery or export.
+   - If you export a vault, keep the export offline, private, and temporary; delete it securely when you no longer need it.
+
+5. **Check whether this is a provider outage or local problem.**
+   - Use the provider’s official status page or support page.
+   - If there is a known outage, stop troubleshooting and wait to avoid making the lockout worse.
+   - If only one device fails but another works, treat it as a device or app problem and avoid account resets.
+
+6. **Use only official recovery routes that already apply to you.**
+   - If your provider gave you recovery codes, use the official recovery-code process.
+   - If you previously set up emergency access or trusted-contact access, ask that contact to start the provider’s official process.
+   - If this is a work vault, ask your organisation admin whether account recovery is available for your account.
+   - If this is a family or team plan, ask the organiser or admin whether recovery is available.
+   - If the provider says the vault cannot be decrypted without the master password, do not pay anyone who claims they can bypass that.
+
+7. **Secure the email account that controls password resets.**
+   - Confirm you can still sign in to your primary email.
+   - Check recovery email, recovery phone, signed-in devices, and forwarding rules.
+   - Remove anything you do not recognise.
+   - If you can do so without locking yourself out, change the email password to a unique strong password and turn on MFA.
+
+8. **If you suspect hacking, fraud, or active loss, prioritise containment.**
+   - If money is moving or a bank account is at risk, contact the bank using the number in its app, on your card, or on its official website.
+   - Secure email first, then banking and mobile phone accounts, then other important accounts.
    - Run a malware scan on the device you use for passwords.
-   - Prioritise regaining and securing **email first**, then **banking**, then everything else.
-   - If you received suspicious messages, **forward suspicious emails to** `report@phishing.gov.uk` and **forward scam texts to** `7726` (free).
-   - If you need to report fraud/cyber crime: use **Report Fraud** if you live in **England, Wales, or Northern Ireland**; in **Scotland**, report to **Police Scotland** (use 101 for non-emergencies).
+   - Forward suspicious emails to `report@phishing.gov.uk`.
+   - Forward suspicious texts to `7726`.
+   - If you need to report fraud or cyber crime and you are in England, Wales, or Northern Ireland, use Report Fraud.
+   - If you are in Scotland, report cybercrime to Police Scotland online, by phone, or in person; use 999 if there is an immediate threat to life.
 
 ## What can wait
-- You do **not** need to reset every password today.
-- You do **not** need to pick a new password manager immediately.
-- You do **not** need to decide whether to make any formal reports right now (unless money is actively leaving accounts).
-- You can wait to do “tidy-up” tasks (exports, reorganising vaults, changing security settings across every site) until you’ve regained stable access.
+- You do not need to reset every password today.
+- You do not need to choose a new password manager now.
+- You do not need to reorganise your vault, rename items, or tidy old passwords now.
+- You do not need to make a formal report this minute unless money is actively leaving accounts or someone is using your identity.
+- You can deal with lower-risk accounts after email, banking, phone, and the password manager account are stable.
 
 ## Important reassurance
-This situation feels catastrophic because it blocks lots of accounts at once — that reaction is normal. Most lockouts are caused by a small, fixable issue (wrong device path, time sync, extension interference, 2FA access problem), and careful, minimal steps prevent turning a temporary lockout into permanent data loss.
+This feels frightening because one locked vault can block many accounts at once. A careful pause protects your remaining options, and many lockouts turn out to be device-specific, MFA-related, outage-related, or recoverable through a route you already set up.
 
 ## Scope note
-These are first steps to stabilise access and avoid irreversible mistakes. If you’re locked out long-term, you may need provider support and a structured “account-by-account” recovery plan starting with email.
+These are first steps to stabilise access and avoid irreversible mistakes. Longer recovery may need provider support, workplace admin help, or a careful account-by-account plan starting with email and financial accounts.
 
 ## Important note
-This is general information, not legal, financial, or technical professional advice. Password managers vary: recovery may be limited by design, and some vaults cannot be decrypted without the correct master password/keys. If anything suggests fraud or active compromise, prioritise securing email and financial accounts.
+This is general information, not legal, financial, technical, cybersecurity, or other professional advice. Password managers vary, and some vaults cannot be recovered if the required master password, recovery code, secret key, or recovery route is missing. If anything suggests fraud or active compromise, prioritise email, banking, and official reporting routes.
 
 ## Additional Resources
 - https://www.ncsc.gov.uk/collection/top-tips-for-staying-secure-online/password-managers
-- https://www.ncsc.gov.uk/blog-post/trust-the-tech-using-password-managers-passkeys-to-help-you-stay-secure-online
+- https://www.ncsc.gov.uk/collection/phishing-scams
 - https://www.gov.uk/report-suspicious-emails-websites-phishing
 - https://www.reportfraud.police.uk/
 - https://www.scotland.police.uk/advice/internet-safety/cybercrime/

@@ -1,62 +1,78 @@
-﻿---
+---
 title: "What to do if… you accidentally put the wrong fuel in your vehicle and have not started the engine"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
-  - wrong fuel in car
-  - misfuelled at petrol station
-  - petrol in diesel car
-  - diesel in petrol car
-  - wrong fuel not started
-  - not started engine yet
-  - wrong fuel in tank
-  - misfueling mistake
-  - filled up wrong pump
-  - wrong nozzle used
-  - put wrong fuel in vehicle
-  - fuel mix up at forecourt
-  - accidentally misfuelled
-  - wrong fuel in van
-  - wrong fuel in rental car
-  - petrol station fuel error
-  - keyless start wrong fuel
-  - wrong fuel and panic
-last_reviewed: "2026-03-10"
+  - "wrong fuel in car"
+  - "wrong fuel in vehicle"
+  - "wrong fuel in van"
+  - "wrong fuel in tank"
+  - "wrong fuel not started"
+  - "wrong fuel engine off"
+  - "wrong fuel at forecourt"
+  - "wrong fuel in hire car"
+  - "misfuelled at petrol station"
+  - "petrol in diesel car"
+  - "diesel in petrol car"
+  - "fuel mix up at pump"
+  - "what do i do if wrong fuel"
+  - "what do i do if misfuelled"
+  - "what do i do if petrol in diesel"
+  - "what do i do if diesel in petrol"
+  - "help i put wrong fuel in"
+  - "help i used the wrong pump"
+  - "help i have not started engine"
+  - "help i filled with petrol"
+  - "my car has wrong fuel"
+  - "my vehicle has wrong fuel"
+  - "engine has not started"
+  - "ignition has not been turned"
+  - "car still at pump"
+  - "receipt shows wrong fuel"
+  - "pump label looks wrong"
+  - "stuck on petrol forecourt"
+  - "wrong nozzle used"
+  - "unleaded in diesel car"
+  - "desiel in petrol car"
+  - "wrong fule in car"
+last_reviewed: "2026-05-03"
+date_created: "2026-05-03"
 ---
 
 # What to do if… you accidentally put the wrong fuel in your vehicle and have not started the engine (UK)
 
 ## Short answer
-Keep the engine off and don’t turn the ignition on—then arrange professional recovery/fuel draining before the car is started or driven.
+Keep the engine off, do not turn the ignition on, and arrange professional wrong-fuel recovery before the vehicle is started or driven.
 
 ## Do not do these things
-- Don’t start the engine or turn the ignition on “just to move it”.
-- Don’t keep trying “a little bit of the right fuel” to dilute it and drive away.
-- Don’t attempt to siphon/drain the tank yourself on a forecourt (fire risk and spills).
-- Don’t let a friend tow it in a way that might be unsuitable for your vehicle (if unsure, request a flatbed recovery).
-- Don’t ignore it because the car seems normal right now—avoid any action that could make the fuel circulate.
+- Do not start the engine or turn the ignition on just to move the vehicle.
+- Do not add more of the “right” fuel and try to drive away.
+- Do not try to siphon or drain the tank yourself on a forecourt.
+- Do not let someone tow or move the vehicle in a way that may be unsuitable; ask the recovery provider what is safe for your vehicle.
+- Do not assume it is fine because the vehicle has not shown any symptoms yet.
 
 ## What to do now
-1. **Commit to “no ignition”.** Put the key/fob well away from the driver’s seat (out of reach). Avoid pressing unlock/start buttons. (On some vehicles, even “ignition on” can prime the fuel system.)
-2. **Tell the petrol station staff immediately.** Say you’ve misfuelled and the engine has not been started. Ask where they want the vehicle positioned so it’s safe and not blocking pumps.
-3. **Move the vehicle only without starting it (if needed and safe).** If you must clear a pump, put it in **neutral** and, with help, **push** it to a safe bay/quiet spot on the forecourt.
-4. **Call your breakdown provider (or your insurer’s breakdown line).** Ask specifically for **wrong-fuel assistance** (tank drain and, if needed, a flush). Tell them the fuel type added, approximate amount, your vehicle details, and that it has **not been started**.
-5. **Keep basic evidence for admin.** Keep the receipt (or note the pump number, time, and location). This can help if you need to claim via breakdown/insurance or you’re dealing with a fleet/rental policy.
-6. **If it’s a lease/company/rental vehicle, follow that process now.** Call the fleet/lease/rental contact before authorising work if your agreement requires it.
+1. **Keep it in “no ignition” mode.** Put the key or fob away from the driver’s seat. Avoid pressing start or turning the ignition on; if your vehicle can prime the fuel system when unlocked or switched on, follow the vehicle handbook or the recovery operator’s instructions.
+2. **Tell petrol station staff immediately.** Say you have put the wrong fuel in and the engine has not been started. Ask where they want the vehicle positioned so it is safe and not blocking pumps.
+3. **Move it only without starting it, if it is safe and necessary.** Put the vehicle in neutral and, with enough help, push it to a safe bay or quiet spot on the forecourt. Stop if this would put anyone near moving traffic or on a slope.
+4. **Call your breakdown provider or insurer’s breakdown line.** Ask for wrong-fuel assistance and explain that the vehicle has not been started. Tell them the fuel added, the approximate amount, your usual fuel type, the vehicle make and model, and your exact location.
+5. **Keep simple admin details.** Keep the receipt, or note the pump number, fuel grade, time, location and amount added. This can help with breakdown, insurance, fleet, lease or rental admin.
+6. **If it is a company, lease, hire or rental vehicle, follow that contact route now.** Call the fleet, lease or rental contact before authorising work if your agreement says you must.
 
 ## What can wait
-- You do **not** need to decide today whether to make an insurance claim—first prevent the engine from being started and get recovery arranged.
-- You do **not** need to research costs or argue with the station—document the basics and focus on safe recovery.
-- You do **not** need to diagnose anything—if the engine hasn’t been started, the priority is keeping it off until a professional drains the tank.
+- You do not need to decide now whether to make an insurance claim.
+- You do not need to research repair costs while still at the pump.
+- You do not need to diagnose the vehicle yourself.
+- You do not need to argue with the petrol station; keep the vehicle off, record the basics, and arrange recovery.
 
 ## Important reassurance
-This is a common mistake, and noticing it before starting the engine is the best-case timing. Keeping the ignition off usually prevents it turning into major damage.
+This is a common mistake, and spotting it before starting the engine is the best point to catch it. Keeping the engine and ignition off greatly lowers the chance of the wrong fuel being circulated.
 
 ## Scope note
-These are first steps only to stabilise the situation and avoid avoidable damage. The recovery technician/garage will advise what drain/flush steps are appropriate for your specific vehicle.
+These are first steps only to stabilise the situation and reduce the chance of avoidable damage. A recovery technician or garage can advise what drain, flush or recovery method is appropriate for your specific vehicle.
 
 ## Important note
-This is general information, not vehicle-specific mechanical advice. Always follow your vehicle handbook and the instructions from your breakdown provider/garage, especially for recovery/towing methods.
+This is general information, not vehicle-specific mechanical, legal, insurance or professional advice. Follow your vehicle handbook and the instructions from your breakdown provider, insurer, fleet contact, rental company or garage.
 
 ## Additional Resources
 - https://www.theaa.com/breakdown-cover/advice/wrong-fuel-advice

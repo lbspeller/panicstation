@@ -1,102 +1,105 @@
-﻿---
+---
 title: "What to do if… family members are giving doctors conflicting instructions during an end-of-life situation"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
-  - end of life conflict
-  - family disagreement doctors
-  - conflicting instructions hospital
-  - who decides medical care
-  - patient lacks capacity
-  - surrogate decision maker
-  - health care proxy dispute
-  - durable power of attorney
-  - advance directive missing
-  - living will questions
-  - dnr disagreement
-  - code status conflict
-  - polst confusion
-  - portable medical orders
-  - one spokesperson family
-  - care conference request
-  - ethics consult request
-  - patient relations advocate
-  - palliative care consult
-  - relatives arguing at bedside
-last_reviewed: "2026-03-03"
+  - "family conflict end of life"
+  - "family disagreement end of life"
+  - "conflicting instructions doctors"
+  - "relatives disagree medical care"
+  - "family arguing hospital care"
+  - "end of life care dispute"
+  - "family conflict patient wishes"
+  - "conflicting wishes bedside"
+  - "what do i do if family disagrees"
+  - "what do i do if relatives argue"
+  - "what do i do if doctors are confused"
+  - "what do i do if family cannot agree"
+  - "help i disagree with family about care"
+  - "help i am getting different updates"
+  - "my family is arguing at bedside"
+  - "my relatives disagree about treatment"
+  - "doctors receiving mixed instructions"
+  - "relatives arguing at bedside"
+  - "different family members calling doctors"
+  - "unclear patient wishes"
+  - "missing advance directive"
+  - "unknown health care agent"
+  - "next of kin confusion"
+  - "health care proxy confusion"
+  - "living will confusion"
+  - "dnr disagreement"
+  - "polst confusion"
+  - "hospital end of life conflict"
+  - "icu family disagreement"
+  - "patient cannot communicate"
+  - "patient may lack capacity"
+  - "conflicting instrutions doctors"
+  - "end of life disgreement"
+last_reviewed: "2026-06-03"
+date_created: "2026-06-03"
 ---
 
 # What to do if… family members are giving doctors conflicting instructions during an end-of-life situation (USA)
 
 ## Short answer
-Ask the care team to identify and document **the legally recognized surrogate/health care agent** (or advance directive) and hold an urgent **care conference** so the plan is written and communicated through one channel.
+Ask the clinician responsible for care, or in a hospital the attending physician or charge nurse, to clarify whether the patient can make or participate in the urgent decisions. Ask the team to identify any document guiding care, say who it is treating as the decision-maker, and use one main family contact for updates where appropriate.
 
 ## Do not do these things
-- Do not try to “vote” as a family at the bedside or give clinicians rapid-fire, contradictory requests.
-- Do not assume “next of kin” automatically has decision authority—surrogate priority rules vary by state.
-- Do not threaten staff or block care; it can delay comfort-focused treatment and escalate security involvement.
-- Avoid group chats or public posts about the situation; they often worsen conflict and spread distorted messages. Keep one clear channel with the care team.
-- Do not demand treatments the team says are medically inappropriate—ask for the options, the limits, and the hospital’s review process instead.
+- Do not try to settle urgent treatment decisions by a family vote at the bedside.
+- Do not speak over the patient. Even if the patient’s decision-making capacity is impaired, ask the team how the patient can still be involved.
+- Do not give the care team repeated, conflicting requests through several relatives. Ask for one main family contact and one backup where appropriate.
+- Do not assume that one relative automatically has authority to decide. Ask the team to check any documents, state law, and the care provider’s policy.
+- Do not assume every requested treatment must be provided. Ask the team to explain the options, the limits, and any review process.
+- Do not threaten staff, block care, or post private medical details publicly.
 
 ## What to do now
-1. **Ask the team to identify (and chart) the decision-maker they will accept today.**  
-   Ask the charge nurse, case manager/social worker, or attending physician:  
-   - “Is there an advance directive or named health care agent in the chart?”  
-   - “If not, who is the default surrogate under this state’s hierarchy, and can you document that in the chart?”  
-   Ask them to record who staff should call for consent and major decisions.
+1. Ask the clinician responsible for care to clarify the immediate decision-making process.  
+   In a hospital, ask the attending physician or charge nurse. Say: “Please tell us whether the patient can make or participate in the urgent decisions, whether any advance directive, named health care agent, or portable medical order is available, and who the team is treating as the decision-maker.”
 
-2. **If the patient might still have capacity, ask for a clear capacity assessment for this specific decision.**  
-   If the patient can communicate at all, ask the team to assess and document whether the patient can make the specific decision (code status, escalation, hospice, procedures).  
-   If the patient has capacity, their decision overrides family disagreement.
+2. Ask which decisions cannot wait.  
+   Ask the team to separate urgent decisions from decisions that can be discussed later. Ask it to explain the current care plan and any current orders in plain language.
 
-3. **Request a same-day care conference with a written summary note.**  
-   Ask for a meeting with: attending physician (or ICU intensivist), bedside nurse/charge nurse, case manager/social worker, and palliative care if available.  
-   Script:
-   - “We are giving conflicting instructions. We need one decision-maker identified and a documented plan based on the patient’s known wishes and best interests.”
-   - “Please document the goals of care and code status as orders, and write a short summary of what was decided and why.”
+3. Bring or securely send any available documents.  
+   Look for:
+   - an advance directive or living will,
+   - a durable power of attorney for health care or health care proxy document,
+   - a POLST form or another portable medical-order form used in the state.  
+   Ask how to add any documents to the care record.
 
-4. **Set one communications pathway immediately.**  
-   Choose one spokesperson (ideally the legal surrogate) plus one backup.  
-   Ask staff to route updates and decision calls only to those two people, and to note this in the chart.  
-   Ask for one daily update window to reduce fragmented messages that fuel conflict.
+4. Ask for a prompt discussion with the care team.  
+   Ask whether a care conference can be arranged as soon as available. Ask for the clinician responsible for care and, where appropriate, a nurse, social worker, case manager, or palliative-care clinician to be involved.  
+   Say: “We are giving different messages. Please help us clarify the patient’s wishes, the person the team is using for decisions, the current plan, and what remains unresolved.”
 
-5. **Bring the documents now (or locate them fast).**  
-   Ask relatives to search for and bring (or securely send) any:
-   - advance directive/living will,
-   - durable power of attorney for health care/health care proxy paperwork,
-   - portable medical orders such as **POLST** (or your state’s equivalent form, if used where you are).  
-   Ask the hospital to scan them into the record.
+5. Ask for one main communications pathway.  
+   Where appropriate, ask the team to use one main family contact and one backup for routine updates. Ask how that arrangement should be recorded and how other relatives can receive updates without sending separate instructions. This does not replace the patient’s direct involvement when the patient can participate.
 
-6. **If conflict continues, ask whether an ethics consultation service is available—and how to request it.**  
-   Say: “Is there an ethics consultation service that can help with surrogate conflict and goals-of-care disagreements? What’s the request process?”  
-   Ethics consults are designed to support structured decision-making when there is disagreement or uncertainty.
+6. Ask whether an ethics consultation is available if disagreement continues.  
+   Say: “Is an ethics consultation or another institutional resource available to help with disagreement about the appropriate decision-maker or the treatment plan?”
 
-7. **Use Patient Relations / a patient advocate if communication is breaking down.**  
-   Ask the unit clerk or nurse: “How do I reach Patient Relations / a patient advocate right now?”  
-   Ask them specifically to help schedule the care conference and ensure the decision-maker and plan are documented.
+7. If the patient is in a hospital and messages are still getting crossed, ask for the hospital’s communication or grievance contact.  
+   Ask how to reach Patient Relations, the patient representative, or the hospital grievance contact. Ask for help arranging a clear discussion and recording the communications pathway. In another care setting, ask which communication or complaint contact is available.
 
-8. **If no surrogate is clearly recognized and decisions are urgent, ask the hospital to explain the next step they use locally.**  
-   Say: “If we cannot establish a surrogate today, what is the hospital’s process for time-sensitive decisions, and who coordinates that?”  
-   (This may involve social work, legal/risk review, or court/guardianship pathways depending on the state and situation.)
+8. If no decision-maker is clearly identified and a decision is urgent, ask the care team to explain its local process.  
+   Say: “What process do you use under applicable law and policy when an urgent decision is needed and the appropriate decision-maker is unclear?”
 
 ## What can wait
-- You do not need to resolve family conflicts, old grievances, or blame today.
-- You do not need to decide on lawsuits, formal complaints, or social media posts right now—stabilize the care plan first.
-- You do not need to make long-term financial or inheritance decisions during the acute medical crisis.
+- You do not need to resolve old family conflicts or decide who is to blame now.
+- You do not need to decide whether to make a formal complaint or seek legal advice during the immediate discussion.
+- You do not need to post updates publicly or answer every message from relatives immediately.
+- You do not need to make inheritance, funeral, or long-term financial decisions during the acute medical crisis.
 
 ## Important reassurance
-Disagreement is common when people are frightened and grieving—especially if different relatives hear different updates. Once the legal surrogate is identified and the goals-of-care plan is written, many conflicts soften because the situation becomes clearer and less chaotic.
+A clear process can reduce crossed messages even when family members do not agree immediately. The immediate goal is to keep the patient’s wishes central, identify which decisions cannot wait, and make communication calmer and clearer.
 
 ## Scope note
-These are first steps for the next hours/days to reduce harm, clarify authority, and stabilize communication. Later steps may require state-specific guidance because surrogate priority rules and forms vary by state.
+These are first steps for the immediate situation. Later decisions may need state-specific medical, legal, or other specialist help.
 
 ## Important note
-This is general information, not medical or legal advice. Hospital policies and state laws vary. If you believe the patient is in immediate danger because of confusion or delay, ask to speak to the charge nurse and the attending physician immediately.
+This is general information, not medical, legal, financial, therapeutic, or other professional advice. State law, care-provider policy, the patient’s condition, and the available documents can affect the process. If confusion is delaying an urgent decision, ask for the clinician responsible for care immediately. In a hospital, ask for the charge nurse and attending physician.
 
 ## Additional Resources
-- https://www.nia.nih.gov/health/advance-care-planning/advance-care-planning-advance-directives-health-care
+- https://code-medical-ethics.ama-assn.org/ethics-opinions/decisions-adult-patients-who-lack-capacity
 - https://code-medical-ethics.ama-assn.org/ethics-opinions/ethics-consultations
-- https://www.law.cornell.edu/cfr/text/42/482.13
-- https://polst.org/
-- https://www.mayoclinic.org/healthy-lifestyle/consumer-health/in-depth/living-wills/art-20046303
-- https://www.americanbar.org/groups/law_aging/publications/bifocal/vol_36/issue_1_october2014/default_surrogate_consent_statutes/
+- https://www.ecfr.gov/current/title-42/chapter-IV/subchapter-G/part-482/subpart-B/section-482.13
+- https://polst.org/for-patients/about-polst-form/

@@ -1,82 +1,101 @@
-﻿---
+---
 title: "What to do if… you are asked to send passport or ID scans over an insecure channel urgently"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
-  - urgent passport scan request
-  - asked to email id scan
-  - hr wants passport copy
-  - insecure channel id request
-  - hiring paperwork time pressure
-  - right to work check panic
-  - share code instead of scan
-  - employer checking service option
-  - id documents over whatsapp
-  - identity theft prevention step
-  - recruiter asks for passport
-  - onboarding document request
-  - suspicious hr email request
-  - send passport via sms
-  - photo of passport request
-  - job offer document verification
-  - data protection at work
-  - verify requester identity
-last_reviewed: "2026-01-08"
+  - "urgent passport scan request"
+  - "asked to email id scan"
+  - "hr wants passport copy"
+  - "insecure channel id request"
+  - "passport scan over whatsapp"
+  - "passport scan over text"
+  - "recruiter wants passport scan"
+  - "onboarding passport request"
+  - "right to work check panic"
+  - "work id scan request"
+  - "what do i do if hr wants my passport"
+  - "what do i do if recruiter asks for passport"
+  - "what do i do if asked to email id"
+  - "what do i do if right to work feels unsafe"
+  - "help i sent my passport scan"
+  - "help i emailed my id"
+  - "help i got urgent hr request"
+  - "my employer wants id urgently"
+  - "my passport scan request feels suspicious"
+  - "my right to work check feels wrong"
+  - "urgent deadline for id scan"
+  - "unknown link for passport upload"
+  - "personal email wants passport"
+  - "whatsapp message asks for id"
+  - "sms asks for passport"
+  - "too many documents requested"
+  - "scan accepted for right to work"
+  - "share code confusion"
+  - "manual check confusion"
+  - "digital check confusion"
+  - "employer cheking service confusion"
+  - "pasport scan request"
+  - "remote onboarding id request"
+  - "new job document panic"
+last_reviewed: "2026-05-04"
+date_created: "2026-05-04"
 ---
 
 # What to do if… you are asked to send passport or ID scans over an insecure channel urgently (UK)
 
 ## Short answer
-Pause and verify the request using a trusted route, then offer a safer alternative (secure upload, a compliant right to work check route, or in-person/physical original document checking) instead of sending scans over an insecure channel.
+Pause before sending anything. Verify the request through a trusted HR route, then ask for a secure upload method or the correct right-to-work check route instead of sending passport or ID scans over an insecure channel.
 
 ## Do not do these things
-- Don’t send passport/ID scans to a personal email address, unknown mobile number, or a link you can’t verify.
-- Don’t let “urgent” pressure you into bypassing your employer’s normal HR/IT process.
-- Don’t assume a **scan** is acceptable for a **manual right to work check** — it isn’t.
-- Don’t send extra documents “just in case” (eg bank statement, NI letter, full passport plus driving licence).
-- Don’t share the scan in the email body or as an unprotected attachment.
-- Don’t keep forwarding the same scan to multiple people because “someone else asked”.
+- Don’t send passport or ID scans to a personal email address, unknown mobile number, chat app, or link you cannot verify.
+- Don’t let “urgent” pressure make you bypass your employer’s normal HR or IT process.
+- Don’t assume a scan is acceptable for a manual right to work check; it is not.
+- Don’t send extra documents “just in case”, such as a bank statement, National Insurance letter, full passport, and driving licence together.
+- Don’t put the scan in the email body or send it as an unprotected attachment.
+- Don’t keep forwarding the same scan to more people because someone else asked.
 
 ## What to do now
-1. **Stop and confirm who is asking.** Reply briefly: “I can provide what you need, but not over an insecure channel. Please confirm the secure method.” Then **verify independently** by calling HR/onboarding using the company directory or a known HR number (not the one in the message).
-2. **Ask what the check is actually for.** Ask: “Is this for a **right to work check**, or a general onboarding ID check?” Then ask **what exact document is needed, who will access it, and how long it will be kept**.
-3. **If this is right to work, offer the compliant route instead of emailing scans.**
-   - **If you’re eligible for the online right to work service:** offer to provide a **share code** (your employer checks it online).
-   - **If you can’t use the online service / don’t have a share code:** ask HR to use the **Employer Checking Service** (where appropriate) rather than asking you to email scans.
-   - **If you’re a British or Irish citizen with a valid passport:** ask whether they will do a **digital right to work check using a Digital Verification Service (DVS)**, or a manual check.
-4. **Be clear about the manual-check rule (this protects you).** For a **manual** right to work check, the employer must be in **physical possession of the original documents**. They **cannot** rely on inspection via a live video link of a scanned/faxed copy. If needed, offer one of these safer options:
-   - **Bring the original** to HR for them to check and copy, or
-   - If you’re remote, ask HR whether you can **post the original to HR** (tracked/signed-for) so they can hold it while you do any live video identity matching, or
-   - Use an employer-approved **DVS** route if you don’t want to send originals by post.
-5. **Insist on a secure transfer method for any copies they genuinely need.** Ask for a verified **HR portal / secure upload** or an IT-approved secure document process (and double-check the domain/owner before uploading).
-6. **If you must send a file today, reduce the risk (only after verification).**
-   - Put the scan in a **password-protected encrypted file** (eg encrypted PDF/ZIP).
-   - Send the **password via a different channel** (eg read it over the phone to HR on a known number).
-   - Send **only what’s requested**, to a **verified work address**.
-7. **Make a quick record.** Save the request and your reply. Note what you sent, to whom, and how (date/time).
-8. **If you already sent it insecurely, act quickly but calmly.**
-   - Tell HR and your IT/security team that personal ID was sent insecurely and ask them to **restrict access and confirm deletion**.
-   - Treat any follow-up request for more documents, money, or “fees” as a red flag until independently verified.
+1. **Stop and confirm who is asking.** Reply briefly: “I can provide what you need, but not over an insecure channel. Please confirm the secure method.” Then verify independently by calling HR or onboarding using the company directory, your offer paperwork, or a known switchboard number; do not use a number from the urgent message until you have checked it.
+2. **Ask what the check is for.** Ask: “Is this for a right to work check, or a general onboarding ID check?” Then ask what exact document is needed, who will access it, and how long it will be kept.
+3. **If this is a right to work check, ask HR to use the correct route.**
+   - If you are eligible to use the online right to work service, offer to provide a share code so the employer can check it online.
+   - If you are a British or Irish citizen with a valid passport, including an Irish passport card, ask whether HR can use an online identity service provider (IDSP) or check your original documents.
+   - If you cannot use the online service or cannot show documents, ask HR to check whether the Employer Checking Service is the right route for your situation.
+4. **Use the manual-check rule to slow the request down.** For a manual right to work check, the employer must obtain original documents. They cannot rely on checking a scan, faxed copy, or a document shown over a live video link. Offer a safer route instead:
+   - bring the original document to HR for checking and copying;
+   - ask whether HR has a secure original-document process for remote workers, such as tracked delivery, and what happens if the document is delayed or lost;
+   - use an employer-approved digital right-to-work route if one is available and suitable.
+5. **Ask for a secure transfer method for any copy they genuinely need.** Ask for a verified HR portal, secure upload link, or IT-approved secure document process. Check the domain, sender, and owner before uploading.
+6. **If HR confirms you must send a file today, reduce the risk first.**
+   - Send only the exact page or document requested.
+   - Use an encrypted file or secure transfer method approved by HR or IT.
+   - Send any password through a different verified channel, such as reading it over the phone to HR on a known number.
+   - Send it only to a verified work address or portal.
+7. **Make a quick record.** Save the request and your reply. Note what you sent, to whom, by what method, and the date and time.
+8. **If you already sent it insecurely, contain it now.**
+   - Tell HR and your IT or security team that personal ID was sent insecurely.
+   - Ask them to restrict access, confirm deletion from the wrong place, and tell you the correct secure route.
+   - Treat any follow-up request for more documents, money, fees, or account details as suspicious until independently verified.
 
 ## What can wait
-- You don’t need to decide right now whether to escalate externally; first **contain** it by switching to verified HR contacts and a secure method.
-- You don’t need to send “backup” IDs today unless HR confirms they’re required for a specific, named process.
-- You don’t need to argue with the sender; it’s enough to move the request onto the proper channel.
+- You don’t need to decide right now whether to escalate externally; first contain the risk by switching to verified HR contacts and a secure method.
+- You don’t need to send backup IDs today unless HR confirms the exact process and document needed.
+- You don’t need to argue with the sender; it is enough to move the request onto the proper channel.
 
 ## Important reassurance
-It’s normal to feel pressured when someone implies your start date depends on “sending it now”. Legitimate employers can complete right to work checks without you taking data-security risks — pressure is a reason to slow down.
+It is normal to feel pressured when someone implies your start date depends on “sending it now”. A genuine employer should be able to explain the lawful route, the exact document needed, and a secure transfer method.
 
 ## Scope note
-These are first steps to prevent irreversible mistakes (identity fraud/data leakage) while keeping onboarding moving. Later, if anything was mis-sent or mishandled, your organisation’s data protection/security contacts may need to follow their incident process.
+These are first steps to prevent irreversible mistakes while keeping onboarding moving. Later decisions about data protection, employment, immigration, or identity-fraud risk may need specialist help.
 
 ## Important note
-This guide is general information, not legal advice. Employer processes vary; when unsure, prioritise verified contacts, compliant right-to-work routes, and secure transfer methods.
+This guide is general information, not legal, immigration, employment, data protection, financial, or professional advice. Employer processes vary; when unsure, prioritise verified contacts, official right-to-work routes, and secure transfer methods.
 
 ## Additional Resources
 - https://www.gov.uk/prove-right-to-work
 - https://www.gov.uk/prove-right-to-work/get-a-share-code-online
 - https://www.gov.uk/view-right-to-work
 - https://www.gov.uk/government/publications/right-to-work-checks-employers-guide
-- https://www.employer-request-a-check.homeoffice.gov.uk/
+- https://www.gov.uk/employee-immigration-employment-status
 - https://ico.org.uk/for-organisations/uk-gdpr-guidance-and-resources/security/encryption/encryption-and-data-transfer/
 - https://ico.org.uk/for-organisations/advice-and-services/audits/data-protection-audit-framework/toolkits/information-and-cyber-security/information-transfer/

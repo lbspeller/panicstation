@@ -1,78 +1,83 @@
-﻿---
+---
 title: "What to do if… your overtime or shift premiums are missing from your pay"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
-  - overtime not paid
-  - missing overtime pay
-  - time and a half missing
-  - overtime missing from paycheck
-  - shift differential missing
-  - shift premium missing
-  - premium pay missing
-  - underpaid paycheck
-  - wrong pay stub
-  - missing overtime hours
-  - payroll error overtime
-  - unpaid extra hours
-  - unpaid wages overtime
-  - overtime rate wrong
-  - hours worked not paid
-  - wage complaint overtime
-  - shorted on paycheck
-  - missing night shift pay
-last_reviewed: "2026-01-08"
+  - "overtime not paid"
+  - "missing overtime pay"
+  - "unpaid overtime hours"
+  - "missing shift premium"
+  - "shift differential missing"
+  - "premium pay missing"
+  - "wrong overtime rate"
+  - "paycheck missing hours"
+  - "shorted on paycheck"
+  - "underpaid paycheck"
+  - "what do i do if overtime is missing"
+  - "what do i do if shift premium is missing"
+  - "what do i do if my paycheck is short"
+  - "what do i do if payroll missed overtime"
+  - "help i was not paid overtime"
+  - "help i am missing shift differential"
+  - "help i got shorted on pay"
+  - "help i worked overtime unpaid"
+  - "my overtime is missing"
+  - "my shift premium is missing"
+  - "my paycheck is wrong"
+  - "my pay stub is short"
+  - "timecard shows wrong hours"
+  - "pay stub missing overtime"
+  - "schedule shows extra hours"
+  - "clock-in records missing"
+  - "night shift pay missing"
+  - "holiday premium missing"
+  - "overtime approval missing"
+  - "payroll cut-off error"
+  - "ot not paid"
+  - "ovettime pay missing"
+  - "hourly worker missing pay"
+  - "union worker missing premium"
+last_reviewed: "2026-07-01"
+date_created: "2026-07-01"
 ---
 
 # What to do if… your overtime or shift premiums are missing from your pay (USA)
 
 ## Short answer
-Document the missing hours/premiums and ask payroll to correct it in writing — if it’s not fixed quickly, file a wage complaint (federal and/or state) rather than chasing forever.
+Save your pay records and ask payroll, in writing, to correct the missing overtime or shift premium. If it is not fixed or keeps happening, consider a Wage and Hour Division complaint and check whether your state has a wage-claim process too.
 
 ## Do not do these things
-- Do not assume it will be fixed “next pay period” without written confirmation and a date.
-- Do not alter time records, ask someone to clock you in/out, or “make up” hours later.
-- Do not sign anything that waives back pay or reclassifies your time unless you understand the impact.
-- Do not fire off threats as a first move — keep it factual so it stays resolvable.
-- Do not let it drag on; wage claims have time limits, and evidence gets harder to pull later.
+- Do not assume it will be fixed next pay period without written confirmation of what will be corrected.
+- Do not alter time records, ask someone else to clock you in or out, or try to make up the missing pay informally.
+- Do not sign anything that changes recorded hours, waives back pay, or reclassifies your time unless you understand what it does.
+- Do not start with threats; keep the first message factual and easy to resolve.
+- Do not let repeated missing pay drift without records, because wage claims can have time limits and evidence may get harder to retrieve.
 
 ## What to do now
-1. **Save evidence right now:** keep copies of pay stubs, timecards/clock-in history, schedules, overtime approvals, and any written policy/offer letter about shift differentials or premium pay.
-2. **Make a one-page “what’s missing” summary:**
-   - pay period dates
-   - days/hours worked
-   - what you expected (overtime and/or a stated premium like night shift differential)
-   - what you received
-   - your best estimate of the missing amount
-3. **Separate “overtime” from “premiums” (so you claim the right thing):**
-   - Under federal law, employees covered by the FLSA must receive overtime pay for **hours over 40 in a workweek** at **not less than 1.5×** the regular rate (unless properly exempt).
-   - Federal law does **not** require extra pay just because it’s a weekend or holiday — those premiums are usually owed only if your employer promised them (policy, offer letter, or union contract).
-   - Some bonuses and shift differentials can affect the “regular rate” used to calculate overtime, so missing premiums can also mean overtime was under-calculated.
-4. **Ask payroll/HR for a correction and a timeline (in writing):** request:
-   - the reason it’s missing (timecard cut-off, missing approval, wrong code, edit made to your time, etc.)
-   - whether they will run an **off-cycle payment**
-   - a corrected pay stub showing the overtime/premium line items
-5. **Escalate once internally if there’s no fast fix:** use your company’s payroll dispute process (ticket/email) and copy your supervisor. If you’re covered by a union contract, contact your steward and follow the required grievance steps.
-6. **File a complaint instead of chasing forever (especially if it repeats):**
-   - **Federal option:** contact the U.S. Department of Labor, Wage and Hour Division (WHD) to file a complaint about unpaid overtime/minimum wage (if covered).
-   - **State option:** many states have wage-claim agencies that can address unpaid wages and certain promised premiums; state rules can be stronger than federal.
-7. **Protect yourself from retaliation (calmly, in writing):** federal law generally prohibits retaliation for raising wage concerns, filing a complaint, or cooperating with a WHD investigation. Save any sudden schedule cuts, threats, or write-ups that appear after you report the missing pay.
-8. **If you think DOL already recovered wages for you:** check the Department of Labor’s **Workers Owed Wages (WOW)** database.
+1. **Save the pay evidence now.** Keep copies or screenshots of the pay stub, timecard or clock-in history, schedule, overtime approvals, messages about extra shifts, and any policy, offer letter, or union contract language about shift differentials or premium pay.
+2. **Write a short missing-pay summary.** Include the pay period dates, the days and hours worked, the overtime or premium you expected, what the pay stub shows, and your best estimate of the missing amount.
+3. **Separate overtime from shift premiums.** Covered, non-exempt employees generally must receive overtime for hours over 40 in a workweek at not less than time and one-half the regular rate. Federal law does not require extra pay just because work happens on a weekend or holiday, but a promised shift premium, night differential, holiday premium, policy, offer letter, or union contract may still matter.
+4. **Check whether the missing premium affected overtime.** Some pay, including some differentials or bonuses, may need to be included when calculating the regular rate for overtime. If a promised premium is missing, ask payroll whether the overtime rate was also recalculated correctly.
+5. **Ask payroll or HR for a written correction.** Send the summary and ask what caused the missing pay, whether any timecard edit or pay code caused it, whether they can correct it before the next regular payday or by off-cycle payment, and whether you will receive a corrected pay stub.
+6. **Escalate once inside the workplace if needed.** Use the payroll dispute ticket, payroll email, or written HR route and copy your supervisor if that is normal at your workplace. If you are covered by a union contract, contact your steward and ask what grievance step or deadline applies.
+7. **Use an agency route instead of chasing forever.** For unpaid overtime or minimum-wage issues, contact the U.S. Department of Labor Wage and Hour Division. For promised wages or premiums, check your state labor office or wage-claim agency because state rules may give additional routes.
+8. **Save retaliation evidence if anything changes after you raise it.** Federal law generally prohibits retaliation for raising FLSA wage concerns, filing a complaint, or cooperating with a Wage and Hour Division investigation. Keep copies of sudden schedule cuts, threats, discipline, or messages that appear connected to the pay complaint.
+9. **Check Workers Owed Wages only if you think DOL already recovered money for you.** Use the Department of Labor Workers Owed Wages database if you believe a Wage and Hour Division investigation may have already recovered back wages in your name.
 
 ## What can wait
-- You do not need to decide today whether to hire a lawyer — start with the written correction request and/or an agency complaint.
-- You do not need perfect math before speaking up — your time records plus a clear estimate is enough to start.
-- You do not need to confront executives — payroll + documented escalation is the first lane.
-- You do not need to win an “exempt vs. non-exempt” argument in real time — file based on what happened and let the process sort coverage.
+- You do not need to decide today whether to hire a lawyer.
+- You do not need perfect math before asking for correction; a clear estimate and your time records are enough to start.
+- You do not need to confront executives; payroll, HR, a union steward, or a wage agency are the first routes.
+- You do not need to solve every exempt-versus-non-exempt question in real time; describe what happened and preserve your records.
 
 ## Important reassurance
-This is common: timekeeping cut-offs, wrong pay codes, and misapplied differentials happen in ordinary workplaces. You’re doing the right thing by documenting it and pushing for a written correction instead of trying to “absorb it” or fix it informally.
+Missing overtime or premiums can happen because of timekeeping cut-offs, wrong pay codes, missing approvals, or payroll errors. Asking for a written correction is a normal, reasonable step, and keeping records helps you stay clear and calm.
 
 ## Scope note
-These are first steps to stop the immediate harm and preserve options. If this is repeated or tied to classification/regular-rate issues, you may need tailored help from a union, WHD/state agency, or an employment attorney.
+These are first steps only. If the missing pay repeats, involves classification, regular-rate calculations, a union contract, or retaliation, later decisions may need help from a union, the Wage and Hour Division, a state wage agency, or an employment attorney.
 
 ## Important note
-This is general information, not legal advice. Wage and overtime rules can vary by state, and whether overtime is owed can depend on your classification, job duties, and how your employer defines the workweek and calculates the regular rate. If you’re asked to sign anything that changes recorded hours or pay rates, consider getting advice first.
+This is general information, not legal, financial, professional, or employment advice. Wage and overtime rules can vary by state, job duties, classification, contract terms, and the way the employer defines the workweek and calculates the regular rate.
 
 ## Additional Resources
 - https://www.dol.gov/agencies/whd/fact-sheets/23-flsa-overtime-pay
@@ -82,3 +87,4 @@ This is general information, not legal advice. Wage and overtime rules can vary 
 - https://www.dol.gov/agencies/whd/fact-sheets/21-flsa-recordkeeping
 - https://www.dol.gov/agencies/whd/wow
 - https://www.worker.gov/actions-whd-claim/
+- https://www.dol.gov/agencies/whd/state/contacts
