@@ -2,27 +2,61 @@
 import { getCollection } from "astro:content";
 import SiteLayout from "../../layouts/SiteLayout.astro";
 import { CATEGORIES, CATEGORY_FULL } from "../../lib/categories";
-import { buildGuideStructuredData, deriveGuideDescription } from "../../lib/structuredData";
+import { buildGuideStructuredData, canonicalUrl, deriveGuideDescription } from "../../lib/structuredData";
 import "../../styles/guides.css";
 
 const enableAdsenseTest = import.meta.env.PUBLIC_ENABLE_ADSENSE_TEST === "1";
 
 export async function getStaticPaths() {
+  function normalizePairTitle(value: unknown) {
+    return String(value || "")
+      .trim()
+      .replace(/\s+/g, " ")
+      .toLocaleLowerCase("en");
+  }
+
   const guides = await getCollection("guides");
+  const guidePairs = new Map();
+
+  for (const entry of guides) {
+    const parts = entry.slug.split("/");
+    const jurisdiction = parts[0];
+    const slugParts = parts.slice(1);
+
+    if ((jurisdiction !== "uk" && jurisdiction !== "us") || slugParts.length === 0) {
+      continue;
+    }
+
+    const pairKey = normalizePairTitle(entry.data.title);
+    const pair = guidePairs.get(pairKey) || {};
+    pair[jurisdiction] = `/${jurisdiction}/${slugParts.join("/")}/`;
+    guidePairs.set(pairKey, pair);
+  }
 
   return guides.map((entry) => {
     const parts = entry.slug.split("/");
     const jurisdiction = parts[0];
     const slugParts = parts.slice(1);
+    const pair = guidePairs.get(normalizePairTitle(entry.data.title)) || {};
+    const hasCompletePair = Boolean(pair.uk && pair.us);
 
     return {
       params: { jurisdiction, slug: slugParts.join("/") },
-      props: { entry },
+      props: {
+        entry,
+        alternateLinks: hasCompletePair
+          ? [
+              { hreflang: "en-GB", href: canonicalUrl(pair.uk) },
+              { hreflang: "en-US", href: canonicalUrl(pair.us) },
+            ]
+          : [],
+        jurisdictionGuideHrefs: pair,
+      },
     };
   });
 }
 
-const { entry } = Astro.props;
+const { entry, alternateLinks = [], jurisdictionGuideHrefs = {} } = Astro.props;
 const { Content } = await entry.render();
 
 const urlJurisdiction = (Astro.params.jurisdiction || "us").toLowerCase();
@@ -76,6 +110,10 @@ function splitGuideTitle(title: string) {
 const guideTitle = splitGuideTitle(entry.data.title);
 const seoTitle = entry.data.seo_title.trim();
 const seoDescription = deriveGuideDescription(entry.data.title, entry.data.category);
+const searchKeywords = (entry.data.tags || [])
+  .map((tag) => String(tag || "").trim())
+  .filter(Boolean)
+  .join(" • ");
 
 /*
   Central switch for whether this guide is allowed to show ads.
@@ -89,7 +127,6 @@ const adsAllowed =
 const structuredData = buildGuideStructuredData({
   title: entry.data.title,
   category: entry.data.category,
-  tags: entry.data.tags || [],
   dateCreated: entry.data.date_created,
   lastReviewed: entry.data.last_reviewed,
   jurisdiction: fmJurisdiction,
@@ -103,6 +140,9 @@ const structuredData = buildGuideStructuredData({
   description={seoDescription}
   jurisdiction={urlJurisdiction}
   structuredData={structuredData}
+  alternateLinks={alternateLinks}
+  jurisdictionGuideHrefs={jurisdictionGuideHrefs}
+  searchKeywords={searchKeywords}
 >
   <div
     class="ps-guide"
@@ -117,10 +157,6 @@ const structuredData = buildGuideStructuredData({
 
     <span data-pagefind-filter={`category:${entry.data.category}`} class="ps-search-hidden">
       {entry.data.category}
-    </span>
-
-    <span data-pagefind-weight="2" class="ps-search-hidden">
-      {(entry.data.tags || []).join(" • ")}
     </span>
 
     <header class="ps-guide-hero">

@@ -12,6 +12,9 @@ const {
   description = "Calm, practical first-step guidance for sudden, stressful situations.",
   robots,
   socialTitle = title,
+  alternateLinks = [],
+  jurisdictionGuideHrefs = {},
+  searchKeywords = "",
 } = Astro.props;
 
 const path = Astro.url.pathname;
@@ -19,8 +22,12 @@ const isGuide = /^\/(uk|us)\//i.test(path);
 const isHome = path === "/";
 
 const guideSlug = isGuide ? path.replace(/^\/(uk|us)\//i, "") : "";
-const ukGuideHref = isGuide ? `/uk/${guideSlug}` : null;
-const usGuideHref = isGuide ? `/us/${guideSlug}` : null;
+const ukGuideHref = isGuide
+  ? jurisdictionGuideHrefs.uk || `/uk/${guideSlug}`
+  : null;
+const usGuideHref = isGuide
+  ? jurisdictionGuideHrefs.us || `/us/${guideSlug}`
+  : null;
 
 const isUkActive = jurisdiction === "uk";
 const isUsActive = jurisdiction === "us";
@@ -36,6 +43,8 @@ const isUsActive = jurisdiction === "us";
       type={isGuide ? "article" : "website"}
       robots={robots}
       socialTitle={socialTitle}
+      alternateLinks={alternateLinks}
+      searchKeywords={searchKeywords}
     />
 
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
@@ -343,6 +352,13 @@ const isUsActive = jurisdiction === "us";
         async function ensurePagefind() {
           if (pf) return pf;
           pf = await import("/pagefind/pagefind.js");
+          await pf.options({
+            ranking: {
+              metaWeights: {
+                search_terms: 4.0,
+              },
+            },
+          });
           return pf;
         }
 

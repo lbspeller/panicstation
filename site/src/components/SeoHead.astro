@@ -5,6 +5,11 @@ interface Props {
   type?: "website" | "article";
   robots?: string;
   socialTitle?: string;
+  alternateLinks?: Array<{
+    hreflang: string;
+    href: string;
+  }>;
+  searchKeywords?: string;
 }
 
 const SITE_NAME = "PanicStation.org";
@@ -18,6 +23,8 @@ const {
   type = "website",
   robots,
   socialTitle = title,
+  alternateLinks = [],
+  searchKeywords = "",
 } = Astro.props;
 
 function addBrand(value: unknown) {
@@ -43,9 +50,19 @@ const isNoindex = /\bnoindex\b/i.test(String(robots || ""));
 
 <title>{brandedTitle}</title>
 <meta name="description" content={metaDescription} />
+{searchKeywords && (
+  <meta
+    name="pagefind:search-terms"
+    content={searchKeywords}
+    data-pagefind-meta="search_terms[content]"
+  />
+)}
 
 {robots && <meta name="robots" content={robots} />}
 {!isNoindex && <link rel="canonical" href={canonicalUrl} />}
+{!isNoindex && alternateLinks.map((alternate) => (
+  <link rel="alternate" hreflang={alternate.hreflang} href={alternate.href} />
+))}
 
 <meta property="og:site_name" content={SITE_NAME} />
 <meta property="og:type" content={type} />

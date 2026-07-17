@@ -161,7 +161,6 @@ export function breadcrumbListSchema(
 export function buildGuideStructuredData({
   title,
   category,
-  tags = [],
   dateCreated,
   lastReviewed,
   jurisdiction,
@@ -169,7 +168,6 @@ export function buildGuideStructuredData({
 }: {
   title: string;
   category: string;
-  tags?: string[];
   dateCreated: string;
   lastReviewed: string;
   jurisdiction: string;
@@ -197,12 +195,7 @@ export function buildGuideStructuredData({
     logo: SITE_IMAGE_OBJECT,
   };
 
-  const cleanTags = (tags || [])
-    .map((tag) => String(tag || "").trim())
-    .filter(Boolean);
-
   /*
-    Keep detailed search phrases in keywords.
     Keep about broad and non-keyword-stuffed.
   */
   const about = [
@@ -232,7 +225,6 @@ export function buildGuideStructuredData({
     url: pageUrl,
     inLanguage: jur.language,
     articleSection: category,
-    keywords: cleanTags,
     about,
   };
 
