@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you smell exhaust fumes inside your car while stopped or parked"
+seo_title: "Smelling exhaust fumes inside your car"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "recirculate or fresh air"
   - "engine running in garage"
   - "tailpipe blocked by snow"
-last_reviewed: "2026-06-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-23"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you hear someone trying keys or a keycard on your door while you are inside"
+seo_title: "Someone trying keys or a keycard on your door"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "drunk person wrong door"
   - "someone trying my dooor"
   - "my appartment lock rattling"
-last_reviewed: "2026-06-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-16"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a notice from a prosecutor asking for a response or statement"
+seo_title: "Notice from prosecutor asking for response or statement"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "voicemail from prosecutor"
   - "police report sent for review"
   - "not sure notice is real"
-last_reviewed: "2026-06-21"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-21"
 ---
 

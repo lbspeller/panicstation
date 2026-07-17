@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your photo library has duplicates and you are worried about deleting the originals"
+seo_title: "Photo library has duplicates and you fear deleting originals"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "icloud fotos duplicated"
   - "photos duplicated after new phone"
   - "photos duplicated after computer import"
-last_reviewed: "2026-07-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-03"
 ---
 

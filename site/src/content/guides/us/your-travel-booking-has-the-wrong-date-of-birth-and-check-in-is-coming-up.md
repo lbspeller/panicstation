@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your travel booking has the wrong date of birth and check-in is coming up"
+seo_title: "Wrong date of birth on travel booking"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "last minute passenger correction"
   - "dob misatch checkin"
   - "flight ticket dob rong"
-last_reviewed: "2026-07-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-04"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are unsure about viewing the body of a loved one and family members disagree"
+seo_title: "Unsure about viewing a body and family disagreeing"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "i want a private goodbye after death"
   - "i am unsure about body veiwing"
   - "i am unsure about funral home viewing"
-last_reviewed: "2026-06-12"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-12"
 ---
 

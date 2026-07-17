@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you need to travel with cremated remains and are unsure about documentation or airport screening"
+seo_title: "Traveling with cremated remains and airport screening"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "bereavement travel stress"
   - "funeral home paperwork unclear"
   - "sealed urn travel worry"
-last_reviewed: "2026-06-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-17"
 ---
 

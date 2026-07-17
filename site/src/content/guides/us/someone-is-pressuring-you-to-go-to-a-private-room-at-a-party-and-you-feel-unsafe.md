@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone is pressuring you to go to a private room at a party and you feel unsafe"
+seo_title: "Feeling pressured to go to a private room at a party"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "house party private room pressure"
   - "pressured to go to privte room"
   - "party situation escallating"
-last_reviewed: "2026-06-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-05"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you suspect you have a serious reaction after a vaccine or injection"
+seo_title: "Serious reaction after a vaccine or injection"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "normal reaction or serious reaction"
   - "side affect after vaccine"
   - "vaccene reaction worry"
-last_reviewed: "2026-05-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-22"
 ---
 

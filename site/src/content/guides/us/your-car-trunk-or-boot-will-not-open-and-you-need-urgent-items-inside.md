@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your car trunk or boot will not open and you need urgent items inside"
+seo_title: "Car trunk or boot will not open with urgent items inside"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "rental car trunk stuck"
   - "parking lot trunk stuck"
   - "roadside trunk lockout"
-last_reviewed: "2026-06-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-26"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are told to continue working after a safety incident while it is being assessed"
+seo_title: "Told to keep working after a safety incident"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "night shift safety incident"
   - "maneger says keep working"
   - "saftey incident at work"
-last_reviewed: "2026-05-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-06"
 ---
 

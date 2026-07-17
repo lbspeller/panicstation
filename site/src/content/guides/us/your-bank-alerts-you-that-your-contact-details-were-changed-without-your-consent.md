@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your bank alerts you that your contact details were changed without your consent"
+seo_title: "Bank alert about changed contact details"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "bank acount hacked"
   - "bank adress changed"
   - "mobile banking contact changed"
-last_reviewed: "2026-06-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-25"
 ---
 

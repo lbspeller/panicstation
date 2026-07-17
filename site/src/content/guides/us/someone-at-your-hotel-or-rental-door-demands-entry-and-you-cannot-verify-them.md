@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone at your hotel or rental door demands entry and you cannot verify them"
+seo_title: "Someone at your hotel or rental door demanding entry"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "vrbo host demands entry"
   - "hotel security at door"
   - "maintenance person at hotel door"
-last_reviewed: "2026-06-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-09"
 ---
 

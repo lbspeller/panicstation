@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your visa or permit approval notice has a blank or inconsistent document number"
+seo_title: "Visa or permit approval notice has missing document number"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "right to rent check problem"
   - "visa aproval number blank"
   - "docment number field blank"
-last_reviewed: "2026-05-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-28"
 ---
 

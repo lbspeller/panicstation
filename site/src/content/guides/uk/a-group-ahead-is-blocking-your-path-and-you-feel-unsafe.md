@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a group ahead is blocking your path and you feel unsafe"
+seo_title: "Group ahead blocking your path and feeling unsafe"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "pavment blocked by group"
   - "side walk blockade"
   - "blocked near station"
-last_reviewed: "2026-04-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-26"
 ---
 

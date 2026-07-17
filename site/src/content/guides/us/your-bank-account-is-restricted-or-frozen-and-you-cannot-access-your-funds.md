@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your bank account is restricted or frozen and you cannot access your funds"
+seo_title: "Bank account restricted or frozen and funds inaccessible"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "legal hold confusion"
   - "bank acount restricted"
   - "complience review bank"
-last_reviewed: "2026-06-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-26"
 ---
 

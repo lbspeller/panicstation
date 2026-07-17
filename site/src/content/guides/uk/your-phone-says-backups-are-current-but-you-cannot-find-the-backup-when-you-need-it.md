@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your phone says backups are current but you cannot find the backup when you need it"
+seo_title: "Phone backup says current but cannot find data"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "new phone restore missing"
   - "icloud bakup missing"
   - "google bakup missing"
-last_reviewed: "2026-05-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-27"
 ---
 

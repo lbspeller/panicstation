@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your prebooked airport, ferry, or rail transfer does not arrive and you are under time pressure"
+seo_title: "Prebooked transfer does not arrive on time"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "prebooked transfer failed"
   - "separate travel bookings"
   - "single through journey"
-last_reviewed: "2026-05-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-22"
 ---
 

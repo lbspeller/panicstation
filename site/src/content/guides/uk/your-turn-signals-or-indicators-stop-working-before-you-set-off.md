@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your turn signals or indicators stop working before you set off"
+seo_title: "Turn signals or indicators not working"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "uk car indicators"
   - "turn signal failiure"
   - "indecators stopped working"
-last_reviewed: "2026-05-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-26"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone is outside your home refusing to leave and you are inside alone"
+seo_title: "Someone outside your home refusing to leave"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "inside a flat alone"
   - "somebody outisde my home"
   - "possible brake in attempt"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-01"
 ---
 

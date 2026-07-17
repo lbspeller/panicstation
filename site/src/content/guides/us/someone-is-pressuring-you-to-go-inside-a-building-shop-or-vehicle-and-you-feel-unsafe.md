@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone is pressuring you to go inside a building, shop, or vehicle and you feel unsafe"
+seo_title: "Pressured to enter a building or vehicle"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "unsafe outside a building"
   - "pressured to enter a vehical"
   - "unsafe near a bulding"
-last_reviewed: "2026-06-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-05"
 ---
 

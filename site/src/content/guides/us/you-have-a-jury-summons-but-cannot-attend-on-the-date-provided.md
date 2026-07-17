@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have a jury summons but cannot attend on the date provided"
+seo_title: "Jury summons date conflict or need to reschedule"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "federal jury summons conflict"
   - "county jury summons conflict"
   - "state court jury summons conflict"
-last_reviewed: "2026-06-20"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-20"
 ---
 

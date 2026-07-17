@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a carbon monoxide alarm sounds and you feel sick or have a headache"
+seo_title: "Carbon monoxide alarm sounding and feeling unwell"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "boiler smell no carbon monoxide"
   - "carborn monoxide alarm"
   - "carbon monixide alarm"
-last_reviewed: "2026-04-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-25"
 ---
 

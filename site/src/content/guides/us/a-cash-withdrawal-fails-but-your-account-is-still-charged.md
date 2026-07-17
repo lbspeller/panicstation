@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a cash withdrawal fails but your account is still charged"
+seo_title: "ATM withdrawal failed but account charged"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "atm withdrawal while traveling"
   - "atm withdrawl failed"
   - "atm debitted no cash"
-last_reviewed: "2026-05-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-30"
 ---
 

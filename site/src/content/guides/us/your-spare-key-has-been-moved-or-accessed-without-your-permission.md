@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your spare key has been moved or accessed without your permission"
+seo_title: "Spare key moved or accessed without permission"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "roommate may have key"
   - "spair key moved"
   - "lock box code changed"
-last_reviewed: "2026-06-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-19"
 ---
 

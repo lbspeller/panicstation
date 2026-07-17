@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to sign a document you do not understand"
+seo_title: "Asked to sign a document you do not understand"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "travelling with language barrier"
   - "signture requested abroad"
   - "offical document unclear"
-last_reviewed: "2026-05-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-04"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you suspect someone is trying to pickpocket you in a crowd"
+seo_title: "Suspecting someone is trying to pickpocket you"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "pick pocket attempt"
   - "picpocket in crowd"
   - "crowded train platform"
-last_reviewed: "2026-05-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-16"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a public electric vehicle charger will not accept your payment and you are low on charge"
+seo_title: "EV charger payment failed and battery is low"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "chargger payment declined"
   - "charger paymant error"
   - "public charger wont accept card"
-last_reviewed: "2026-06-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-01"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a toilet keeps refilling or overflowing and you cannot stop it"
+seo_title: "Toilet keeps refilling or overflowing"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "shared building water leak"
   - "toilet over flowing"
   - "cistern over flowing"
-last_reviewed: "2026-04-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-28"
 ---
 

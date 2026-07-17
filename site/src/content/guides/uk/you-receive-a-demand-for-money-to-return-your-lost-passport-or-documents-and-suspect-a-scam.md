@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a demand for money to return your lost passport or documents and suspect a scam"
+seo_title: "Demand for money to return lost passport or documents"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "british passport lost abroad"
   - "pasport return scam"
   - "documants held for money"
-last_reviewed: "2026-05-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-17"
 ---
 

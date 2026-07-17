@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are pressured to work off the clock or without pay"
+seo_title: "Pressured to work off the clock or without pay"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "unpaid weekend overtime"
   - "unpaid overime pressure"
   - "unpaid overtiem hours"
-last_reviewed: "2026-06-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-09"
 ---
 

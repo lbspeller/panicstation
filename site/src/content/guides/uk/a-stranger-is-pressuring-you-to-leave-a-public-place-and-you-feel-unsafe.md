@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a stranger is pressuring you to leave a public place and you feel unsafe"
+seo_title: "Stranger pressuring you to leave a public place"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "stranger pressuring me at station"
   - "stranger presuring me to leave"
   - "stranger presuring me outside"
-last_reviewed: "2026-04-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-28"
 ---
 

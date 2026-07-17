@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you think someone used your unlocked phone to search for or share intimate content while you were asleep"
+seo_title: "Suspected phone access and intimate content sharing while asleep"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "sexual boundary crossed asleep"
   - "phone privacy violation asleep"
   - "intamate content shared"
-last_reviewed: "2026-05-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-22"
 ---
 

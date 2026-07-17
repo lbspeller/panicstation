@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your bank warns an incoming payment may be reversed or is under review"
+seo_title: "Bank warns incoming payment under review or reversal"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "invoice payment under review"
   - "salary payment under review"
   - "large unexpected bank payment"
-last_reviewed: "2026-05-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-23"
 ---
 

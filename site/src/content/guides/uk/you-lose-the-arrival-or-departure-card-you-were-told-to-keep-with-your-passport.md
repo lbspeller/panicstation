@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you lose the arrival or departure card you were told to keep with your passport"
+seo_title: "Lost arrival or departure card kept with passport"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "leaving the country soon"
   - "card needed at exit"
   - "card kept with passport"
-last_reviewed: "2026-05-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-14"
 ---
 

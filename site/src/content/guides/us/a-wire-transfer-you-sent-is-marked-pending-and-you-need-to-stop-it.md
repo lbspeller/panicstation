@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a wire transfer you sent is marked pending and you need to stop it"
+seo_title: "Wire transfer marked pending and needs stopping"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "wrong account wire pending"
   - "wire tranfer pending"
   - "bank wier pending"
-last_reviewed: "2026-06-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-02"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a car-share app will not let you end your trip and charges keep running"
+seo_title: "Car-share app will not end trip"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "card charge after car return"
   - "carshare app wont end"
   - "car share ap stuck"
-last_reviewed: "2026-04-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-25"
 ---
 

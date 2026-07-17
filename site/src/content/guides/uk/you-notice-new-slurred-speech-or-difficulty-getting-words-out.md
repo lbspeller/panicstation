@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice new slurred speech or difficulty getting words out"
+seo_title: "New slurred speech or difficulty talking"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "speech problem came and went"
   - "older person slurred speech"
   - "blood thinners and speech"
-last_reviewed: "2026-05-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-16"
 ---
 

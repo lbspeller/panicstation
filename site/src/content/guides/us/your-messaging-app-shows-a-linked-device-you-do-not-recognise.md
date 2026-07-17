@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your messaging app shows a linked device you do not recognise"
+seo_title: "Messaging app shows unknown linked device"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "whatsapp companion device"
   - "signal linked device"
   - "google messages web paired"
-last_reviewed: "2026-06-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-30"
 ---
 

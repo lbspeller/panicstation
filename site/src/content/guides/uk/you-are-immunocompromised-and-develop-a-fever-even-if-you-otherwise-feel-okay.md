@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are immunocompromised and develop a fever even if you otherwise feel okay"
+seo_title: "Fever when immunocompromised"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "normal feeling but fever"
   - "immunocomprimised fever"
   - "immunosupressed fever"
-last_reviewed: "2026-05-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-05"
 ---
 

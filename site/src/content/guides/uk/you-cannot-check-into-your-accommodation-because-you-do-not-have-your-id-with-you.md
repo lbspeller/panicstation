@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you cannot check into your accommodation because you do not have your ID with you"
+seo_title: "Cannot check into accommodation without ID"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "accomodation needs id"
   - "pasport in room"
   - "travelling abroad no id"
-last_reviewed: "2026-05-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-09"
 ---
 

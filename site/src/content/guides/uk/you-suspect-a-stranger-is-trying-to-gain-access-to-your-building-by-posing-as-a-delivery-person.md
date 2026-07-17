@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you suspect a stranger is trying to gain access to your building by posing as a delivery person"
+seo_title: "Stranger posing as delivery person at building entrance"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "flat block delivery"
   - "appartment block buzzer"
   - "flat block buzer"
-last_reviewed: "2026-05-21"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-21"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you see water or condensation inside an outdoor electrical box or near your meter"
+seo_title: "Water or condensation in outdoor electrical box"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "meter cabnet wet"
   - "condensaton in meter box"
   - "after heavy rain meter box wet"
-last_reviewed: "2026-05-21"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-21"
 ---
 

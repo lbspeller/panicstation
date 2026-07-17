@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have been in the cold and cannot stop shivering or feel confused"
+seo_title: "Uncontrollable shivering or confusion after cold exposure"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "after cold water exposure"
   - "shiverring after cold"
   - "confussed after cold"
-last_reviewed: "2026-05-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-13"
 ---
 

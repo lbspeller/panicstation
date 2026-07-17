@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to attend a court hearing remotely for someone in custody tomorrow"
+seo_title: "Remote court hearing for someone in custody tomorrow"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "custordy court tomorrow"
   - "remot court hearing"
   - "tomorrow morning hearing"
-last_reviewed: "2026-05-20"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-20"
 ---
 

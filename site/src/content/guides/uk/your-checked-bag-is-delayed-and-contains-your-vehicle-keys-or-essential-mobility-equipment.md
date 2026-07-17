@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your checked bag is delayed and contains your vehicle keys or essential mobility equipment"
+seo_title: "Delayed bag with vehicle keys or mobility equipment"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "delayed bag with essentials"
   - "lugage delayed with keys"
   - "wheelchair delaid after flight"
-last_reviewed: "2026-05-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-24"
 ---
 

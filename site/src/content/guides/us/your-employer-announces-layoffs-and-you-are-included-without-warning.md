@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your employer announces layoffs and you are included without warning"
+seo_title: "Sudden layoff or redundancy announcement"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "remote worker laid off"
   - "large company layoff"
   - "layoff meeting today"
-last_reviewed: "2026-06-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-29"
 ---
 

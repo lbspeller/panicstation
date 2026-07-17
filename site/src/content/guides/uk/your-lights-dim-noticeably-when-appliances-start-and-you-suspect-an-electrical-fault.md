@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your lights dim noticeably when appliances start and you suspect an electrical fault"
+seo_title: "Lights dim when appliances start"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "flickring lights appliance"
   - "uk home electrical fault"
   - "rented home electrical fault"
-last_reviewed: "2026-05-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-26"
 ---
 

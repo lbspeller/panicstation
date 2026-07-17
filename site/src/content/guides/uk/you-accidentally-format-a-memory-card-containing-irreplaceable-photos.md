@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you accidentally format a memory card containing irreplaceable photos"
+seo_title: "Accidentally formatted memory card with important photos"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "phone memory card"
   - "holiday photos memory card"
   - "family photos memory card"
-last_reviewed: "2026-05-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-11"
 ---
 

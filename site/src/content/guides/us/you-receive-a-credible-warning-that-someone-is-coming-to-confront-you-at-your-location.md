@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a credible warning that someone is coming to confront you at your location"
+seo_title: "Warning that someone is coming to confront you"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "at home alone"
   - "at work with staff"
   - "managed building lobby"
-last_reviewed: "2026-06-20"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-20"
 ---
 

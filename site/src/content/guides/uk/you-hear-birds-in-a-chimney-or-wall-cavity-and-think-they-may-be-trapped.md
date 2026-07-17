@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you hear birds in a chimney or wall cavity and think they may be trapped"
+seo_title: "Birds trapped in chimney or wall cavity"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "chimny bird trapped"
   - "nesting season chimney noise"
   - "wood burner chimney birds"
-last_reviewed: "2026-05-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-13"
 ---
 

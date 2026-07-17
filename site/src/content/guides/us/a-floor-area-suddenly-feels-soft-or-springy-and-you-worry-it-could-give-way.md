@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a floor area suddenly feels soft or springy and you worry it could give way"
+seo_title: "Floor feels soft or springy and might collapse"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "my florr feels springy"
   - "sudden soft spot in floor"
   - "springy patch in floor"
-last_reviewed: "2026-05-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-30"
 ---
 

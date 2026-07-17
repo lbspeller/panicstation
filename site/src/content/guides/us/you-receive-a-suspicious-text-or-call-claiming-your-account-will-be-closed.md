@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a suspicious text or call claiming your account will be closed"
+seo_title: "Suspicious text or call about account closure"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "vishing bank call"
   - "fraud txt from bank"
   - "acount closure text"
-last_reviewed: "2026-06-20"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-20"
 ---
 

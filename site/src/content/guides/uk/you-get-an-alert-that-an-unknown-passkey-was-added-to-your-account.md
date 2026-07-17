@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you get an alert that an unknown passkey was added to your account"
+seo_title: "Alert that an unknown passkey was added to your account"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "work account passkey alert"
   - "banking app passkey alert"
   - "email account passkey alert"
-last_reviewed: "2026-05-12"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-12"
 ---
 

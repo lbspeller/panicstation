@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a lender or subscription service pulls more money than you authorised from your account"
+seo_title: "Lender or subscription took too much money"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "autopay overcharged account"
   - "subsciption took extra money"
   - "subcription took extra money"
-last_reviewed: "2026-04-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-26"
 ---
 

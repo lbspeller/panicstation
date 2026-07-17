@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone pressures you to drop a complaint by offering money or favours"
+seo_title: "Pressured to drop a complaint for money or favours"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "complaint pressure from intermediary"
   - "sexual missconduct complaint pressure"
   - "pressured to drop a complant"
-last_reviewed: "2026-06-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-05"
 ---
 

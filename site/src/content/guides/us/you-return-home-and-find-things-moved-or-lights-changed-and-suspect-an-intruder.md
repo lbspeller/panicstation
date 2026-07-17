@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you return home and find things moved or lights changed and suspect an intruder"
+seo_title: "Suspect intruder after returning home to disturbances"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "returning home alone"
   - "rental apartment looks disturbed"
   - "someone may still be inside"
-last_reviewed: "2026-06-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-23"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your bike’s quick-release, axle, or wheel feels loose and you suspect it may not be safe to ride"
+seo_title: "Bike wheel or axle feels loose and unsafe"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "axel feels loose"
   - "after leaving bike unattended"
   - "after bike crash"
-last_reviewed: "2026-05-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-23"
 ---
 

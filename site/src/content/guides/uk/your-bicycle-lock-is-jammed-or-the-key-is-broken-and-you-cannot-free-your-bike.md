@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your bicycle lock is jammed or the key is broken and you cannot free your bike"
+seo_title: "Bicycle lock jammed or key broken"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "cant unlock bike"
   - "bikelock jammed"
   - "bike locked far from home"
-last_reviewed: "2026-05-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-23"
 ---
 

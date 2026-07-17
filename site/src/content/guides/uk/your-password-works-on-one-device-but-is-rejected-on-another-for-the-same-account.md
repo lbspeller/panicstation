@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your password works on one device but is rejected on another for the same account"
+seo_title: "Password works on one device but rejected on another"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -34,7 +35,7 @@ tags:
   - "work account password rejected"
   - "new device login fails"
   - "passwrod not working"
-last_reviewed: "2026-05-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-02"
 ---
 

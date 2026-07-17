@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a joint account holder changes your account settings without your knowledge"
+seo_title: "Joint account holder changed settings without knowledge"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "financial control concern"
   - "joing account changed"
   - "bank acount settings changed"
-last_reviewed: "2026-04-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-26"
 ---
 

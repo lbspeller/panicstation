@@ -1,5 +1,6 @@
 ---
 title: "What to do if… police contact you asking you to come in for a voluntary interview"
+seo_title: "Police request for a voluntary interview"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "volentary interview police"
   - "police intervew worry"
   - "uk police interview"
-last_reviewed: "2026-04-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-30"
 ---
 

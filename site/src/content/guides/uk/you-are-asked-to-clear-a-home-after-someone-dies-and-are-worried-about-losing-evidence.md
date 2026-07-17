@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to clear a home after someone dies and are worried about losing evidence"
+seo_title: "Clearing a home after death and protecting evidence"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -34,7 +35,7 @@ tags:
   - "family pressure after death"
   - "deceased possesions dispute"
   - "clearence after death"
-last_reviewed: "2026-05-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-03"
 ---
 

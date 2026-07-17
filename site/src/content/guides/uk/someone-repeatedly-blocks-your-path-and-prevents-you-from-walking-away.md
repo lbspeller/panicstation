@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone repeatedly blocks your path and prevents you from walking away"
+seo_title: "Someone repeatedly blocking your path"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "public harassment while walking"
   - "intimidation in public"
   - "aggressive stranger nearby"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-01"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you smell gasoline or fuel around your parked vehicle"
+seo_title: "Smell of gasoline or fuel around parked vehicle"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -42,7 +43,7 @@ tags:
   - "underground car park fuel smell"
   - "pertol smell parked car"
   - "deisel smell near car"
-last_reviewed: "2026-05-21"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-21"
 ---
 

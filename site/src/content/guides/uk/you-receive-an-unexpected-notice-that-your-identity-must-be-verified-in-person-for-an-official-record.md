@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive an unexpected notice that your identity must be verified in person for an official record"
+seo_title: "Unexpected notice to verify identity in person"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "secure building identity check"
   - "id check notise"
   - "identity verifcation notice"
-last_reviewed: "2026-05-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-19"
 ---
 

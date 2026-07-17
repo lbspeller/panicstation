@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you find a ransom note or encrypted files on your computer"
+seo_title: "Ransom note or encrypted files on computer"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "home computer ransom note"
   - "work laptop ransom note"
   - "external drive connected"
-last_reviewed: "2026-06-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-14"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a date repeatedly ignores your no and keeps pressuring you for sex by text"
+seo_title: "Date repeatedly pressuring you for sex by text"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "after a first date"
   - "online dating pressure"
   - "late night sexual texts"
-last_reviewed: "2026-04-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-25"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you spot a major printing error on your passport details page shortly before travel"
+seo_title: "Passport printing error shortly before travel"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "pasport details wrong"
   - "uk passport printing error"
   - "travel soon passport problem"
-last_reviewed: "2026-05-21"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-21"
 ---
 

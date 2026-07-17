@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone in authority hints that an opportunity depends on sexual favours"
+seo_title: "Authority figure hinting at sexual favours"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "university sexual pressure"
   - "housing sexual pressure"
   - "internship sexual pressure"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-01"
 ---
 

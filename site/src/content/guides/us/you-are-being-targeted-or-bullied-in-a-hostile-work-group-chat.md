@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are being targeted or bullied in a hostile work group chat"
+seo_title: "Targeted or bullied in a work group chat"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "hostile teams group chat"
   - "remote work chat escalating"
   - "work chat escallating"
-last_reviewed: "2026-06-07"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-07"
 ---
 

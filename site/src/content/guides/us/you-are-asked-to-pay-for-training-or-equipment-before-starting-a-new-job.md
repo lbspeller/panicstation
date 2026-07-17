@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to pay for training or equipment before starting a new job"
+seo_title: "Asked to pay for job training or equipment"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "pre-employment expense demand"
   - "equiptment fee before first day"
   - "reimbursment promised by employer"
-last_reviewed: "2026-06-08"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-08"
 ---
 

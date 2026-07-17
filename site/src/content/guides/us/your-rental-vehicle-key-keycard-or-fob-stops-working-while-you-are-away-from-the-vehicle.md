@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your rental vehicle key, keycard, or fob stops working while you are away from the vehicle"
+seo_title: "Rental vehicle key or fob stops working"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "rental key not workng"
   - "rental keycard faield"
   - "away from rental vehicle"
-last_reviewed: "2026-07-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-03"
 ---
 

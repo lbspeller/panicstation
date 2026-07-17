@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your stools turn very pale while your urine becomes very dark"
+seo_title: "Pale stools and dark urine"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "after birth dark urine"
   - "new medicines dark urine"
   - "antibiotics pale stools"
-last_reviewed: "2026-05-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-28"
 ---
 

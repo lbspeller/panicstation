@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have a jury summons but cannot attend on the date provided"
+seo_title: "Jury summons date conflict or need to reschedule"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "wales jury summons date"
   - "scotland jury citation date"
   - "northern ireland jury summons date"
-last_reviewed: "2026-05-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-17"
 ---
 

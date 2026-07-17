@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked for proof of travel insurance and cannot find your policy documents"
+seo_title: "Cannot find proof of travel insurance documents"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "ghic mistaken for insurance"
   - "ehic mistaken for insurance"
   - "last-minute travel document panic"
-last_reviewed: "2026-05-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-04"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your phone is lost or broken abroad and your travel bookings are inaccessible"
+seo_title: "Phone lost or broken abroad with travel bookings inaccessible"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "passport safe phone gone"
   - "airport without phone"
   - "abroad with no sim"
-last_reviewed: "2026-05-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-27"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice purple spots or bruising that appear suddenly without injury"
+seo_title: "Sudden unexplained purple spots or bruising"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "new bruising on blood thinners"
   - "purple spots after new medicine"
   - "sudden bruising in child"
-last_reviewed: "2026-06-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-18"
 ---
 

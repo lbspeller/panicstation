@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are told there is no step-free boarding and you need an alternative plan"
+seo_title: "No step-free boarding or accessible route available"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "traveling with mobility device"
   - "local transit boarding failure"
   - "intercity rail boarding failure"
-last_reviewed: "2026-06-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-10"
 ---
 

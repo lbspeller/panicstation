@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you lock your keys inside your vehicle but still have your phone"
+seo_title: "Locked keys in vehicle with phone available"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "vehical keys locked inside"
   - "locked out in hot weather"
   - "locked out at night"
-last_reviewed: "2026-06-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-17"
 ---
 

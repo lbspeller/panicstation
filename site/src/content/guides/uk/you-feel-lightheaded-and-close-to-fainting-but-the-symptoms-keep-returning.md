@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you feel lightheaded and close to fainting but the symptoms keep returning"
+seo_title: "Feeling lightheaded and nearly fainting repeatedly"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "dizzy after hot shower"
   - "dizzy after not eating"
   - "lightheaded while pregnant"
-last_reviewed: "2026-05-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-10"
 ---
 

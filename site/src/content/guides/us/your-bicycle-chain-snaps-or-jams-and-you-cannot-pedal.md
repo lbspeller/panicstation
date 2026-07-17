@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your bicycle chain snaps or jams and you cannot pedal"
+seo_title: "Bicycle chain snapped or jammed while riding"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "bike drivetrain stuck"
   - "bicyle chain snapped"
   - "chain stuck in derailer"
-last_reviewed: "2026-06-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-26"
 ---
 

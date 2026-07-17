@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you lose a physical security key used for two-factor sign-in"
+seo_title: "Lost physical security key for two-factor sign-in"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "2fa key or authenticator confusion"
   - "yubky lost"
   - "securty key lost"
-last_reviewed: "2026-06-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-17"
 ---
 

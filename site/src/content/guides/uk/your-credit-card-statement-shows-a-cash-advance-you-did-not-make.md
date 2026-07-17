@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your credit card statement shows a cash advance you did not make"
+seo_title: "Unauthorised cash advance on credit card statement"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -33,7 +34,7 @@ tags:
   - "cash withdrawl on statement"
   - "cash advnce on statement"
   - "uk credit card statement"
-last_reviewed: "2026-05-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-24"
 ---
 

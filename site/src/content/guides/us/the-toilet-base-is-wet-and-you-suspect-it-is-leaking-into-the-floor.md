@@ -1,5 +1,6 @@
 ---
 title: "What to do if… the toilet base is wet and you suspect it is leaking into the floor"
+seo_title: "Toilet base is wet or leaking into floor"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -34,7 +35,7 @@ tags:
   - "upstairs toilet leaking below"
   - "toilet base leeking"
   - "toilet leak into flor"
-last_reviewed: "2026-06-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-06"
 ---
 

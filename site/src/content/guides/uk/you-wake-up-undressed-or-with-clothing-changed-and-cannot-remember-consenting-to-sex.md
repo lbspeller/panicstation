@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you wake up undressed or with clothing changed and cannot remember consenting to sex"
+seo_title: "you wake up undressed or with clothing changed"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "too scared to report"
   - "after a night out"
   - "in the uk"
-last_reviewed: "2026-05-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-22"
 ---
 

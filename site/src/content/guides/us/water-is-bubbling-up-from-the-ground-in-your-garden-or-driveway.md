@@ -1,5 +1,6 @@
 ---
 title: "What to do if… water is bubbling up from the ground in your garden or driveway"
+seo_title: "Water bubbling up from ground outside"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "buried pipe leak near sidewalk"
   - "buried pipe leak on rental property"
   - "buried pipe leak after freezing weather"
-last_reviewed: "2026-06-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-06"
 ---
 

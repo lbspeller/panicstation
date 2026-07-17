@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice a pending payment or transfer that you did not authorise"
+seo_title: "Unauthorised pending payment or transfer"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "mobile wallet payment pending"
   - "pending paymnt not authorised"
   - "unathorised payment pending"
-last_reviewed: "2026-05-15"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-15"
 ---
 

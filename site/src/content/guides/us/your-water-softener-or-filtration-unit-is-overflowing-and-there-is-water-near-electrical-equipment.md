@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your water softener or filtration unit is overflowing and there is water near electrical equipment"
+seo_title: "Water softener or filter leaking near electrics"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "under sink filter overflow"
   - "rental home water leak"
   - "after hours plumbing leak"
-last_reviewed: "2026-07-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-04"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have sudden loss of vision in one eye or a curtain-like shadow"
+seo_title: "Sudden vision loss or curtain shadow in one eye"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "new one-sided vision loss"
   - "suddon vision loss"
   - "curtan shadow vision"
-last_reviewed: "2026-06-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-16"
 ---
 

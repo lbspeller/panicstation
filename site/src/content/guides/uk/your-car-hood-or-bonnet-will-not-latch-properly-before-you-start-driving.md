@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your car hood or bonnet will not latch properly before you start driving"
+seo_title: "Car hood or bonnet will not latch properly"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "after checking engine bay"
   - "after filling washer fluid"
   - "parked with bonnet open"
-last_reviewed: "2026-05-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-23"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your public transport pass in an app shows as invalid even though you paid"
+seo_title: "Public transport app pass shows as invalid"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "contactless maximum fare problem"
   - "travle pass app invalid"
   - "tikcet app not working"
-last_reviewed: "2026-05-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-27"
 ---
 

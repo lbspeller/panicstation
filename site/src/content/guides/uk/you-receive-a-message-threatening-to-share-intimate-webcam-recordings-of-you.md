@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a message threatening to share intimate webcam recordings of you"
+seo_title: "Threatening message about intimate webcam recordings"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "after explicit video chat"
   - "on dating app"
   - "threat on social media"
-last_reviewed: "2026-05-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-18"
 ---
 

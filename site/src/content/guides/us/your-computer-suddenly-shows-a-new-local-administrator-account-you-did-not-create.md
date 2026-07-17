@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your computer suddenly shows a new local administrator account you did not create"
+seo_title: "Unknown administrator account appeared on computer"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "windows local admin appeared"
   - "mac administrator appeared"
   - "linux sudo user appeared"
-last_reviewed: "2026-06-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-28"
 ---
 

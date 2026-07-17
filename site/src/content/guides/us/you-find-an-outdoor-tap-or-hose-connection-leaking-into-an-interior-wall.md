@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you find an outdoor tap or hose connection leaking into an interior wall"
+seo_title: "Outdoor tap or hose leaking into interior wall"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "leak behind drywall"
   - "leeking outdoor faucet"
   - "spicket leaking into wall"
-last_reviewed: "2026-06-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-14"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… police ask you to identify property and you feel uneasy or suspicious"
+seo_title: "Police request to identify property feels suspicious"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "identifying stolen items"
   - "alone attending police station"
   - "worried its a scam"
-last_reviewed: "2026-04-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-30"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you suddenly have no hot water and your water heater shows an error or warning light"
+seo_title: "No hot water and water heater error light"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "breaker tripped water heater"
   - "hot watter stopped"
   - "water heeter warning light"
-last_reviewed: "2026-06-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-24"
 ---
 

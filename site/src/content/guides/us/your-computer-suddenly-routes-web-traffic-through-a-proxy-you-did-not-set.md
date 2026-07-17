@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your computer suddenly routes web traffic through a proxy you did not set"
+seo_title: "Computer suddenly using an unknown proxy setting"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "home computer proxy changed"
   - "proxie suddenly enabled"
   - "trafic routed through proxy"
-last_reviewed: "2026-06-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-28"
 ---
 

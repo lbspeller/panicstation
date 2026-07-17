@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice signs your door lock has been tampered with"
+seo_title: "Signs your door lock has been tampered with"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "rented home lock tampered"
   - "door lock tamperd"
   - "posible break in"
-last_reviewed: "2026-06-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-18"
 ---
 

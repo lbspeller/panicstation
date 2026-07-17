@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a shared folder suddenly appears on your computer and starts syncing unknown files"
+seo_title: "Unknown shared folder appearing and syncing files"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "unknown files in dropbox folder"
   - "shared folder apeared"
   - "syncing unkown files"
-last_reviewed: "2026-06-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-02"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your credit card is suddenly cancelled or your credit limit is reduced and bills are due"
+seo_title: "Credit card cancelled or limit reduced with bills due"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "reduced credit bills due"
   - "credit card cancled suddenly"
   - "creditt card reduced"
-last_reviewed: "2026-06-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-28"
 ---
 

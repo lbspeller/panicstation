@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your porch, balcony, or deck feels like it is pulling away from the building"
+seo_title: "Porch, balcony, or deck pulling away from building"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "deck pullng away"
   - "after storm balcony issue"
   - "after heavy rain deck issue"
-last_reviewed: "2026-05-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-27"
 ---
 

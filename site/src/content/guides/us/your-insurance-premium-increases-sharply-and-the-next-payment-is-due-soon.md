@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your insurance premium increases sharply and the next payment is due soon"
+seo_title: "Insurance premium increased and payment due soon"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "renewal or cancellation confusion"
   - "premium installment confusion"
   - "homeowners insurance mortgage"
-last_reviewed: "2026-06-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-30"
 ---
 

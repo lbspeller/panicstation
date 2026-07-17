@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your ticket or pass is rejected at a station gate"
+seo_title: "Station ticket or pass rejected at gate"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "multiple station gates not working"
   - "turnstyle wont accept ticket"
   - "fare gate wont acept ticket"
-last_reviewed: "2026-06-12"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-12"
 ---
 

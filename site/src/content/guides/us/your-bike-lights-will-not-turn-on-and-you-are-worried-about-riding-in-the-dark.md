@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your bike lights will not turn on and you are worried about riding in the dark"
+seo_title: "Bike lights not working before dark"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "commuter bike light failure"
   - "bicyle lights not working"
   - "bikelight not working"
-last_reviewed: "2026-06-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-26"
 ---
 

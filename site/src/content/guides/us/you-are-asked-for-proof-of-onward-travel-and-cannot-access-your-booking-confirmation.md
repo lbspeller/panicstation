@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked for proof of onward travel and cannot access your booking confirmation"
+seo_title: "Cannot access proof of onward travel at check-in"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "onward proof is unavailable at airport"
   - "onward tiket proof is missing"
   - "booking confimation email is missing"
-last_reviewed: "2026-06-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-11"
 ---
 

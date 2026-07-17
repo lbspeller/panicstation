@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a notice that your property may be searched or inspected as part of an investigation"
+seo_title: "Notice of property search or inspection"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "tenant property search notice"
   - "shared house search notice"
   - "business premises inspection"
-last_reviewed: "2026-05-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-18"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are pregnant and notice bleeding or persistent one-sided pain"
+seo_title: "Pregnant with bleeding or persistent one-sided pain"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "early pregnancy bleeding"
   - "first trimester bleeding"
   - "later pregnancy bleeding"
-last_reviewed: "2026-05-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-05"
 ---
 

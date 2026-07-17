@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive an unsolicited meet me now message from an unfamiliar or spoofed account"
+seo_title: "Unsolicited meet me now message from unknown account"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "phishing message to meet"
   - "whatsapp mesage looks suspicious"
   - "instgram dm from fake account"
-last_reviewed: "2026-05-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-19"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone follows you to an elevator and you feel unsafe getting in with them"
+seo_title: "Someone follows you to an elevator and you feel unsafe"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "building tailgating"
   - "unsafe elavator"
   - "unsafe elevater"
-last_reviewed: "2026-05-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-02"
 ---
 

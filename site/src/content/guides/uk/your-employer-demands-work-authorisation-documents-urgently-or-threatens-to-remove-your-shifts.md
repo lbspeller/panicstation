@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your employer demands work authorisation documents urgently or threatens to remove your shifts"
+seo_title: "Urgent employer request for work documents"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "uk employer document check"
   - "zero hours rota threat"
   - "agency shift document request"
-last_reviewed: "2026-05-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-06"
 ---
 

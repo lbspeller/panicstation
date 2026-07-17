@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone in a group chat is making unwanted sexual comments and others are joining in"
+seo_title: "Unwanted sexual comments in a group chat"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "school group chat sexual comments"
   - "adult intimate image threat"
   - "under 18 online sexual abuse"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-01"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your vehicle’s main screen goes blank and you have lost defrost or climate controls"
+seo_title: "Vehicle main screen blank and climate controls lost"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "defogger not working"
   - "defroster not working"
   - "main screan blank"
-last_reviewed: "2026-07-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-04"
 ---
 

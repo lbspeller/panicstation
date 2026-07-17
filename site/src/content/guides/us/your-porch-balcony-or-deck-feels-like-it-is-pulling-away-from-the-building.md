@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your porch, balcony, or deck feels like it is pulling away from the building"
+seo_title: "Porch, balcony, or deck pulling away from building"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "after snow deck sagging"
   - "rental balcony unsafe"
   - "apartment balcony pulling away"
-last_reviewed: "2026-07-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-03"
 ---
 

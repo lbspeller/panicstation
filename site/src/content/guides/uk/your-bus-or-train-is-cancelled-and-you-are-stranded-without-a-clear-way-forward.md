@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your bus or train is cancelled and you are stranded without a clear way forward"
+seo_title: "Bus or train cancelled and you are stranded"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "rural bus cancelled"
   - "rail replacement bus missing"
   - "travelling alone at night"
-last_reviewed: "2026-05-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-23"
 ---
 

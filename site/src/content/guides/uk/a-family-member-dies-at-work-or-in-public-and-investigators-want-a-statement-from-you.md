@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a family member dies at work or in public and investigators want a statement from you"
+seo_title: "Investigators asking for a statement after a death"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "death at work uk"
   - "public death uk"
   - "statment after family death"
-last_reviewed: "2026-04-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-25"
 ---
 

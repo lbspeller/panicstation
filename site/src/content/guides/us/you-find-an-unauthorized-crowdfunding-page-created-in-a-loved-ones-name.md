@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you find an unauthorized crowdfunding page created in a loved one’s name"
+seo_title: "Unauthorized crowdfunding page in a loved one's name"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "crowdfunding page using loved ones name"
   - "loved ones name used without consent"
   - "unknown crowdfunding page after bereavement"
-last_reviewed: "2026-06-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-13"
 ---
 

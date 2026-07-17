@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a debt collection letter for a debt you do not recognise"
+seo_title: "Debt collection letter for unknown debt"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "consumer credit debt letter"
   - "uk debt collection letter"
   - "debt letter after moving house"
-last_reviewed: "2026-05-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-17"
 ---
 

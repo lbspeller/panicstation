@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your car battery is dead while you are parked and you need to leave soon"
+seo_title: "Car battery dead while parked and need to leave"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "near traffic battery dead"
   - "car batery dead parked"
   - "cant leave soon"
-last_reviewed: "2026-06-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-27"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a notice that your visa or travel permission has been cancelled while you are abroad"
+seo_title: "Visa or travel permission cancelled while abroad"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "entry permission or current stay"
   - "visaa cancelled abroad"
   - "travle permission cancelled abroad"
-last_reviewed: "2026-05-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-18"
 ---
 

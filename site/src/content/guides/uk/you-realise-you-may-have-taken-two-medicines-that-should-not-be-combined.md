@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you realise you may have taken two medicines that should not be combined"
+seo_title: "Accidentally took two medicines that might interact"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "medicine mixup at home"
   - "medecine mix up"
   - "medication mixup"
-last_reviewed: "2026-05-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-17"
 ---
 

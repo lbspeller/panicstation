@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you hear loud squeaking or fluttering from a chimney or vent and suspect trapped wildlife"
+seo_title: "Loud squeaking or fluttering in chimney or vent"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "sqeaking in chimney"
   - "after lighting fireplace"
   - "during nesting season"
-last_reviewed: "2026-05-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-13"
 ---
 

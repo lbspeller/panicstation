@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive repeated unwanted messages that suddenly become threatening"
+seo_title: "Receiving repeated messages that turn threatening"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "threathening messages"
   - "anonymous threatening messages"
   - "workplace threatening messages"
-last_reviewed: "2026-06-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-23"
 ---
 

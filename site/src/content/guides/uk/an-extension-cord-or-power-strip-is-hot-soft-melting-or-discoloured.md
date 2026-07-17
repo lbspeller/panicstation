@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an extension cord or power strip is hot, soft, melting, or discoloured"
+seo_title: "Extension cord or power strip is overheating"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "surge protector overheating"
   - "extention lead getting hot"
   - "discoloured extention lead"
-last_reviewed: "2026-04-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-29"
 ---
 

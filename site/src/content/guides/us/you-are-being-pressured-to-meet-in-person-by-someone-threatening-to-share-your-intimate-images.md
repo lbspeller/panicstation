@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are being pressured to meet in person by someone threatening to share your intimate images"
+seo_title: "pressured to meet someone threatening to share your intimate imagess"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "intimate image threat involving a minor"
   - "sextorsion pressure to meet"
   - "intamate images used against me"
-last_reviewed: "2026-06-08"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-08"
 ---
 

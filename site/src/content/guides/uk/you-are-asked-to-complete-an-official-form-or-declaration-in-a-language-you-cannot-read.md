@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to complete an official form or declaration in a language you cannot read"
+seo_title: "Official form or declaration in a language you cannot read"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "health declaration confusion"
   - "immagration form not english"
   - "decleration in foreign language"
-last_reviewed: "2026-05-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-03"
 ---
 

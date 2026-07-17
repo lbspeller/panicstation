@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice sudden swelling in one leg"
+seo_title: "Sudden swelling in one leg"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "leg edema suddenly"
   - "suden leg swelling"
   - "calf swolen suddenly"
-last_reviewed: "2026-06-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-18"
 ---
 

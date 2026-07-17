@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you suspect someone is impersonating police or an official to intimidate you"
+seo_title: "Suspecting someone is impersonating police or officials"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -33,7 +34,7 @@ tags:
   - "fake court call"
   - "law enforcment impersonator"
   - "fake goverment official"
-last_reviewed: "2026-06-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-24"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you need to tell a child that a relative is dying soon"
+seo_title: "Telling a child that a relative is dying"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "hospice relative child"
   - "last goodbye with child"
   - "urgent family death conversation"
-last_reviewed: "2026-06-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-17"
 ---
 

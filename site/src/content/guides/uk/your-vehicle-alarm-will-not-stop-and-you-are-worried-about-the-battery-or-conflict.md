@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your vehicle alarm will not stop and you are worried about the battery or conflict"
+seo_title: "Vehicle alarm will not stop sounding"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "parked car alarm uk"
   - "car alarm at night"
   - "locked out alarm sounding"
-last_reviewed: "2026-05-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-28"
 ---
 

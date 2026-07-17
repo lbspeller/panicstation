@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your infant under three months has a fever or is unusually sleepy"
+seo_title: "Infant under three months has fever or is sleepy"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "newborn temp 38"
   - "baby tempreture high"
   - "newborn feaver"
-last_reviewed: "2026-04-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-29"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your circuit breaker keeps tripping when you use an appliance"
+seo_title: "Circuit breaker keeps tripping when using appliance"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "microwave trips circuit breaker"
   - "space heater trips breaker"
   - "rental breaker keeps tripping"
-last_reviewed: "2026-06-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-27"
 ---
 

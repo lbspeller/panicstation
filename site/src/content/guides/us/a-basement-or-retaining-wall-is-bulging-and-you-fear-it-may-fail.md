@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a basement or retaining wall is bulging and you fear it may fail"
+seo_title: "Basement or retaining wall is bulging or failing"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "bowing foundation wall"
   - "retaning wall bulging"
   - "basment wall bulging"
-last_reviewed: "2026-05-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-29"
 ---
 

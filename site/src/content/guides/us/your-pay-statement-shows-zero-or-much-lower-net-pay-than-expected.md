@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your pay statement shows zero or much lower net pay than expected"
+seo_title: "Pay statement shows zero or low net pay"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "pay statement says paid"
   - "paystubb net pay zero"
   - "paychek far lower"
-last_reviewed: "2026-06-21"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-21"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you discover an adult is messaging your child and asking for sexual photos"
+seo_title: "you discover an adult is messaging your child for sexual photos"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "discord grooming"
   - "messeging my child"
   - "adult asking for fotos"
-last_reviewed: "2026-05-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-10"
 ---
 

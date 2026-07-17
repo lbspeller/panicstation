@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked for photos or dental information to help identify a deceased person"
+seo_title: "Request for photos or dental info for identification"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "dental infomation is requested"
   - "dentist details are unknown"
   - "orthodontist details are unknown"
-last_reviewed: "2026-06-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-10"
 ---
 

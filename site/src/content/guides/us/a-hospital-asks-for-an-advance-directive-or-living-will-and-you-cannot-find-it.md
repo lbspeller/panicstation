@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a hospital asks for an advance directive or living will and you cannot find it"
+seo_title: "Cannot find advance directive or living will at hospital"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "during hospital admission"
   - "during serious illness"
   - "after transfer between hospitals"
-last_reviewed: "2026-05-31"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-31"
 ---
 

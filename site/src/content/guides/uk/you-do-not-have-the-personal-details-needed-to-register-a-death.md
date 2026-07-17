@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you do not have the personal details needed to register a death"
+seo_title: "Missing personal details for death registration"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "registrar appointment panic"
   - "bereavement paperwork panic"
   - "registar appointment panic"
-last_reviewed: "2026-05-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-03"
 ---
 

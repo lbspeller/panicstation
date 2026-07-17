@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are locked out of a storage unit or safe deposit box due to unpaid fees"
+seo_title: "Locked out of storage unit or safe deposit box"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "storage fee arreas"
   - "uk storage arrears"
   - "uk safe deposit box"
-last_reviewed: "2026-05-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-05"
 ---
 

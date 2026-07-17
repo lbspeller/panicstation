@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your email account recovery email or phone number is changed without your consent"
+seo_title: "Email account recovery details changed without consent"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "phishing email account hacked"
   - "recovery emale changed"
   - "email acount hacked"
-last_reviewed: "2026-05-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-25"
 ---
 

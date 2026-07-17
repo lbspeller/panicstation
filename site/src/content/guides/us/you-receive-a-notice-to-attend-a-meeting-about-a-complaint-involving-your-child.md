@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a notice to attend a meeting about a complaint involving your child"
+seo_title: "Notice to attend a meeting about a child complaint"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "letter about child complaint"
   - "recieved complaint notice"
   - "child meetting notice"
-last_reviewed: "2026-06-21"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-21"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an investigator shows up at your workplace asking questions about you"
+seo_title: "Investigator asking questions at your workplace"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "investigator at remote workplace"
   - "investgator at my workplace"
   - "workplace investigater asking questions"
-last_reviewed: "2026-06-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-03"
 ---
 

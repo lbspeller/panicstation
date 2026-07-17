@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your device suddenly asks for a disk-encryption recovery key after a restart"
+seo_title: "Device asks for disk encryption recovery key"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -34,7 +35,7 @@ tags:
   - "bitloker recovery key"
   - "filevualt recovery key"
   - "work laptop recovery key"
-last_reviewed: "2026-05-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-25"
 ---
 

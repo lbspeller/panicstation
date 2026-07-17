@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you develop a new rash that is spreading quickly"
+seo_title: "New rash that is spreading quickly"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "rash after infection"
   - "rash spreding quickly"
   - "alergic reaction rash"
-last_reviewed: "2026-05-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-09"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your work expense card is frozen or declined while you are travelling"
+seo_title: "Work expense card frozen or declined while travelling"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "out of pocket work travel"
   - "expence card frozen"
   - "buisness card declined"
-last_reviewed: "2026-04-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-29"
 ---
 

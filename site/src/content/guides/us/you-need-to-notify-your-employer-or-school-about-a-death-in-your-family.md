@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you need to notify your employer or school about a death in your family"
+seo_title: "Notifying work or school about a family death"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "student family emergency"
   - "employee family emergency"
   - "university bereavement absence"
-last_reviewed: "2026-06-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-17"
 ---
 

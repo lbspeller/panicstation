@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your irrigation or sprinkler system turns on unexpectedly and won’t shut off"
+seo_title: "Irrigation or sprinkler system will not shut off"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "yard sprinkler flooding"
   - "sprinkeler system stuck on"
   - "irrigaton system stuck on"
-last_reviewed: "2026-06-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-30"
 ---
 

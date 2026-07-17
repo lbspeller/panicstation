@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your home Wi-Fi name or password appears changed and your devices disconnect"
+seo_title: "Home Wi-Fi name or password changed unexpectedly"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "isp router at home"
   - "shared flat wifi changed"
   - "smart home wifi disconnected"
-last_reviewed: "2026-05-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-26"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your work expense claim is refused after you already received approval"
+seo_title: "Work expense claim refused after prior approval"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "travel expense reimbursement refused"
   - "client visit cost unpaid"
   - "remote work expense unpaid"
-last_reviewed: "2026-05-07"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-07"
 ---
 

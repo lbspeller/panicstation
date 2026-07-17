@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive an unexpected request to meet an investigator at a location you did not choose"
+seo_title: "Unexpected request to meet an investigator"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "under caution confusion"
   - "prison investigator request"
   - "probation investigator request"
-last_reviewed: "2026-05-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-19"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone at your gym or class keeps sexualising you and will not stop after you disengage"
+seo_title: "Persistent sexual harassment at gym or class"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "dreading gym class"
   - "gym harrasment"
   - "sexaul comments at gym"
-last_reviewed: "2026-04-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-30"
 ---
 

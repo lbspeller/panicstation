@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have severe constipation with increasing abdominal swelling and nausea"
+seo_title: "Severe constipation with swelling and nausea"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "constipated and nauseous"
   - "constapation with swelling"
   - "abdominal swelling after surgery"
-last_reviewed: "2026-06-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-16"
 ---
 

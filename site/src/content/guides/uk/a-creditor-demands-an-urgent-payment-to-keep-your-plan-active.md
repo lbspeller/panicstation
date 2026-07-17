@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a creditor demands an urgent payment to keep your plan active"
+seo_title: "Creditor demands urgent payment for plan"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "england and wales debt"
   - "scotland debt payment pressure"
   - "northern ireland debt pressure"
-last_reviewed: "2026-04-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-25"
 ---
 

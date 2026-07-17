@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you return home and find a window screen removed or a window left open"
+seo_title: "Returning home to a window screen removed or open window"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "alone outside home"
   - "nighttime possible break-in"
   - "shared house window open"
-last_reviewed: "2026-05-20"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-20"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a property tax delinquency notice because your escrow payments were not applied"
+seo_title: "Property tax delinquency notice for unpaid escrow"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "tax sale warning letter"
   - "escrow acount error"
   - "deliquent tax notice"
-last_reviewed: "2026-06-21"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-21"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a charging-system or battery warning light appears and you have pulled over safely"
+seo_title: "Charging system or battery warning light while stopped"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "a battery warning appears in electric vehicle"
   - "the batery warning light stays on"
   - "the alternater warning light appears"
-last_reviewed: "2026-05-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-30"
 ---
 

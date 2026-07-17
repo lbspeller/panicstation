@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to pay a funeral home deposit immediately and you are unsure what is normal"
+seo_title: "Asked to pay funeral home deposit immediately"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "before paying funeral deposit"
   - "funeral depozit worry"
   - "funeral deposite demand"
-last_reviewed: "2026-05-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-04"
 ---
 

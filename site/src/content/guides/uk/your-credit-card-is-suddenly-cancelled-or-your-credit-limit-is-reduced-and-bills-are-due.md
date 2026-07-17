@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your credit card is suddenly cancelled or your credit limit is reduced and bills are due"
+seo_title: "Credit card cancelled or limit reduced with bills due"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "energy bill card failed"
   - "credut card cancelled"
   - "crdit card declined"
-last_reviewed: "2026-05-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-24"
 ---
 

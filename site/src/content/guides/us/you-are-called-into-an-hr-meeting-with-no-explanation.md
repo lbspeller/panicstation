@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are called into an HR meeting with no explanation"
+seo_title: "Called into an HR meeting with no explanation"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "suprise hr meeting"
   - "discpline meeting surprise"
   - "hr meeting with no reason"
-last_reviewed: "2026-06-08"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-08"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you return home and find a window screen removed or a window left open"
+seo_title: "Returning home to a window screen removed or open window"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "ground floor window"
   - "window left oppen"
   - "screen remvoed from window"
-last_reviewed: "2026-06-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-23"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are told your property or assets may be seized for a legal judgment and deadlines are short"
+seo_title: "Threat of property or asset seizure for judgment"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -33,7 +34,7 @@ tags:
   - "court judgment confusion"
   - "county court judgment confusion"
   - "high court enforcement confusion"
-last_reviewed: "2026-05-08"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-08"
 ---
 

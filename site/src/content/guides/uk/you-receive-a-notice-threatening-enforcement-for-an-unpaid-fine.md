@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a notice threatening enforcement for an unpaid fine"
+seo_title: "Notice threatening enforcement for unpaid fine"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "council penalty enforcement"
   - "scotland sheriff officer letter"
   - "northern ireland enforcement letter"
-last_reviewed: "2026-05-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-18"
 ---
 

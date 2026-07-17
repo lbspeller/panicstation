@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are told your job is being eliminated effective immediately"
+seo_title: "Job eliminated effective immediately"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "remote worker role eliminated"
   - "multiple roles eliminated today"
   - "role eliminated while over 40"
-last_reviewed: "2026-06-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-11"
 ---
 

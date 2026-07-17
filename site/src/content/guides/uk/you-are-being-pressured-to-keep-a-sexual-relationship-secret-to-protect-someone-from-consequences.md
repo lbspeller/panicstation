@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are being pressured to keep a sexual relationship secret to protect someone from consequences"
+seo_title: "Pressured to keep a sexual relationship secret"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -34,7 +35,7 @@ tags:
   - "secret because of consequences"
   - "presured to keep secret"
   - "persured to stay silent"
-last_reviewed: "2026-05-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-05"
 ---
 

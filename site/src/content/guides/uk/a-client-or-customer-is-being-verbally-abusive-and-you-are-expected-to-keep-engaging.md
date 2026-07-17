@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a client or customer is being verbally abusive and you are expected to keep engaging"
+seo_title: "Handling a verbally abusive client or customer"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "call centre abusive customer"
   - "retail custmer abuse"
   - "abusive costumer at work"
-last_reviewed: "2026-04-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-25"
 ---
 

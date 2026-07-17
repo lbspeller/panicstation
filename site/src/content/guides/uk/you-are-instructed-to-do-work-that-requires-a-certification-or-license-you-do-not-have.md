@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are instructed to do work that requires a certification or license you do not have"
+seo_title: "Instructed to do work without required certification"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "health and safety risk"
   - "new job certification pressure"
   - "emergency job cover pressure"
-last_reviewed: "2026-05-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-05"
 ---
 

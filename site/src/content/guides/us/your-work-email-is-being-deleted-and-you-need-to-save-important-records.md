@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your work email is being deleted and you need to save important records"
+seo_title: "Work email access ending and saving important records"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "email archive confused with mailbox access"
   - "personnel file confused with email archive"
   - "handover folder confused with personal backup"
-last_reviewed: "2026-06-12"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-12"
 ---
 

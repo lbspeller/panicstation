@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you suspect someone is trying to pickpocket you in a crowd"
+seo_title: "Suspecting someone is trying to pickpocket you"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "on bus or train"
   - "crowded street or station"
   - "tourist area crowd"
-last_reviewed: "2026-06-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-18"
 ---
 

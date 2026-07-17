@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your train, subway, or tram stops unexpectedly and you are not getting information"
+seo_title: "Train, subway, or tram stopped unexpectedly"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "train stopped at night"
   - "subway anouncement missing"
   - "train evacution worry"
-last_reviewed: "2026-07-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-04"
 ---
 

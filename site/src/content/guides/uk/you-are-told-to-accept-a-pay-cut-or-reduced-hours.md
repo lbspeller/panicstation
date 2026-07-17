@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are told to accept a pay cut or reduced hours"
+seo_title: "Told to accept a pay cut or reduced hours"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "redundancy or pay cut confusion"
   - "paycut at work"
   - "salery reduced suddenly"
-last_reviewed: "2026-05-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-06"
 ---
 

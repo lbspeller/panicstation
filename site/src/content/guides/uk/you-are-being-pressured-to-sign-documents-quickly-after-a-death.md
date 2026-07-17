@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are being pressured to sign documents quickly after a death"
+seo_title: "Pressured to sign documents quickly after a death"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "bereavment paperwork pressure"
   - "probabte papers rushed"
   - "after a parent died"
-last_reviewed: "2026-05-21"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-21"
 ---
 

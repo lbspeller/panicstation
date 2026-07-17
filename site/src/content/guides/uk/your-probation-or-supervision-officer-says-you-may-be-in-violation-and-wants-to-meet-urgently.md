@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your probation or supervision officer says you may be in violation and wants to meet urgently"
+seo_title: "Probation or supervision officer requests urgent meeting"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "probaton breach warning"
   - "probation offcer urgent meeting"
   - "post release supervision problem"
-last_reviewed: "2026-05-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-27"
 ---
 

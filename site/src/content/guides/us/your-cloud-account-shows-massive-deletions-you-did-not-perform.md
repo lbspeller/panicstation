@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your cloud account shows massive deletions you did not perform"
+seo_title: "Cloud account shows massive unexpected file deletions"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "clould files deleted"
   - "accunt takeover cloud"
   - "personal cloud account deletions"
-last_reviewed: "2026-06-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-27"
 ---
 

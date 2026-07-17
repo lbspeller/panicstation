@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your photo library shows optimising and your photos look missing or low-quality"
+seo_title: "Photo library shows optimising or missing photos"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "cloud photo sync problem"
   - "after iphone update photos missing"
   - "after new phone photos missing"
-last_reviewed: "2026-07-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-03"
 ---
 

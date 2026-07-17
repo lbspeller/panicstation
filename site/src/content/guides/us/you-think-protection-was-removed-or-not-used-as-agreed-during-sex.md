@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you think protection was removed or not used as agreed during sex"
+seo_title: "protection removed or not used as agreed during sex"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "within days after sex"
   - "worrried about pregnancy"
   - "condom remved during sex"
-last_reviewed: "2026-06-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-25"
 ---
 

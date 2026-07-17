@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your email inbox is deleting messages and you did not set any rules"
+seo_title: "Email inbox deleting messages automatically"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "imap sync deleted emails"
   - "messeges disappearing from inbox"
   - "emials disappearing from inbox"
-last_reviewed: "2026-06-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-29"
 ---
 

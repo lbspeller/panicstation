@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your car locks or windows stop working and you cannot secure the vehicle"
+seo_title: "Car locks or windows will not secure"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "parked in unsafe area"
   - "stranded away from home"
   - "car after attempted break-in"
-last_reviewed: "2026-06-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-27"
 ---
 

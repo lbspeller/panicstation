@@ -1,5 +1,6 @@
 ---
 title: "What to do if… police contact you about a death and you are not sure what to say"
+seo_title: "Police contact about a death and questioning"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "police death enquiry"
   - "police deth enquiry"
   - "police statment about death"
-last_reviewed: "2026-04-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-30"
 ---
 

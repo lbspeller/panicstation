@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your building intercom keeps buzzing from someone you are not expecting"
+seo_title: "Building intercom keeps buzzing from unknown person"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "intercomm keeps buzzing"
   - "apartment building at night"
   - "shared entrance building"
-last_reviewed: "2026-06-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-26"
 ---
 

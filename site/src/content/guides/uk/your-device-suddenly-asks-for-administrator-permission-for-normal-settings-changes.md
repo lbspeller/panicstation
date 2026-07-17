@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your device suddenly asks for administrator permission for normal settings changes"
+seo_title: "Unexpected administrator permission prompt"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "windows admin prmpt"
   - "adminstrator permission prompt"
   - "phone permission prompt"
-last_reviewed: "2026-05-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-25"
 ---
 

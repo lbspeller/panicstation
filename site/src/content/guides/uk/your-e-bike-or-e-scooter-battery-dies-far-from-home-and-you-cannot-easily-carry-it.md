@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your e-bike or e-scooter battery dies far from home and you cannot easily carry it"
+seo_title: "E-bike or e-scooter battery dies far from home"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "pushing e-bike home"
   - "ebike battery dead"
   - "escooter battery dead"
-last_reviewed: "2026-05-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-25"
 ---
 

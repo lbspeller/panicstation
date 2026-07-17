@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a tax bill you cannot pay by the deadline"
+seo_title: "Tax bill received but cannot pay by deadline"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "tax ballance due notice"
   - "federal income tax notice"
   - "after filing tax return"
-last_reviewed: "2026-06-21"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-21"
 ---
 

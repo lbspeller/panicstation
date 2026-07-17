@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have new urinary pain and see blood in your urine"
+seo_title: "New urinary pain and blood in urine"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "blood thinners urine blood"
   - "kidney disease urine blood"
   - "recent urinary procedure"
-last_reviewed: "2026-05-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-13"
 ---
 

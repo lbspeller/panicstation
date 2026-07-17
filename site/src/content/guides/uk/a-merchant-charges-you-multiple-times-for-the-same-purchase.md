@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a merchant charges you multiple times for the same purchase"
+seo_title: "Merchant charged you multiple times for same purchase"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "google pay charged twice"
   - "chargd twice same purchase"
   - "double chared same order"
-last_reviewed: "2026-04-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-27"
 ---
 

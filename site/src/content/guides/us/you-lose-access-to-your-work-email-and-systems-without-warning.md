@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you lose access to your work email and systems without warning"
+seo_title: "Suddenly locked out of work email and systems"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "suspension with system lockout"
   - "it lockout at work"
   - "work acount disabled"
-last_reviewed: "2026-06-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-17"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are placed on a performance improvement plan unexpectedly"
+seo_title: "Unexpected performance improvement plan at work"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "pip after raising concerns"
   - "performence improvement plan"
   - "perfomance improvement plan"
-last_reviewed: "2026-05-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-05"
 ---
 

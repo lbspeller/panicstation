@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you accidentally take someone else’s prescription medication"
+seo_title: "Accidentally took someone else’s prescription medication"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "wrong medication taken with other meds"
   - "presciption medication mix-up"
   - "perscription medication mistake"
-last_reviewed: "2026-06-07"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-07"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a work attendance warning that you believe is inaccurate"
+seo_title: "Inaccurate work attendance warning or record"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "attendence warning wrong"
   - "timecard hours rong"
   - "remote work attendance mistake"
-last_reviewed: "2026-06-21"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-21"
 ---
 

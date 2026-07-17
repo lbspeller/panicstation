@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you hear arguing or sounds of distress from a neighbor and are unsure whether to intervene"
+seo_title: "Hearing arguing or distress from a neighbor"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "unsure whether to intervene"
   - "sounds like it may escalate"
   - "hear arguing and unsure"
-last_reviewed: "2026-06-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-16"
 ---
 

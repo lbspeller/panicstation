@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a tire pressure warning light comes on and you have pulled over to check it"
+seo_title: "Tire pressure warning light while pulled over"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -34,7 +35,7 @@ tags:
   - "tire warning at night"
   - "tire presure warning light"
   - "tyre presure warning light"
-last_reviewed: "2026-06-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-02"
 ---
 

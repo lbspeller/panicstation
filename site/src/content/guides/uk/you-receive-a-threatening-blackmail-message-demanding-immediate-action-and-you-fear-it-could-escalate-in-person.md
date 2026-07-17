@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a threatening blackmail message demanding immediate action and you fear it could escalate in person"
+seo_title: "Threatening blackmail message with risk of in-person escalation"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "coercive message"
   - "blackmale message"
   - "extorsion message"
-last_reviewed: "2026-05-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-11"
 ---
 

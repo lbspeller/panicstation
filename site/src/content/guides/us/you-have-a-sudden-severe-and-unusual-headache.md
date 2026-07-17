@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have a sudden, severe, and unusual headache"
+seo_title: "Sudden severe or unusual headache"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "sudden balance problems headache"
   - "severe hedache suddenly"
   - "thunder clap headache"
-last_reviewed: "2026-06-15"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-15"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your irrigation or sprinkler system turns on unexpectedly and won’t shut off"
+seo_title: "Irrigation or sprinkler system will not shut off"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "uk garden sprinkler system"
   - "rented home sprinkler problem"
   - "water near outdoor electrics"
-last_reviewed: "2026-05-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-26"
 ---
 

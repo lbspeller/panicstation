@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an operating system update locks you out of your device"
+seo_title: "Locked out of device after system update"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "school device login broken after update"
   - "phone login broken after update"
   - "computer login broken after update"
-last_reviewed: "2026-06-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-03"
 ---
 

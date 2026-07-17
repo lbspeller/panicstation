@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a partner keeps pressuring you for sex after you have said no"
+seo_title: "Partner keeps pressuring you for sex after no"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -34,7 +35,7 @@ tags:
   - "sextting pressure"
   - "dating partner pressure"
   - "online sexual conversations"
-last_reviewed: "2026-04-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-27"
 ---
 

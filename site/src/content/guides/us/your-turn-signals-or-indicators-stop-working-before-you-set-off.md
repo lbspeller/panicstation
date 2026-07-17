@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your turn signals or indicators stop working before you set off"
+seo_title: "Turn signals or indicators not working"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "local road to repair"
   - "turn singals stopped working"
   - "blinker lites not working"
-last_reviewed: "2026-06-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-30"
 ---
 

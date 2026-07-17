@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you develop sudden, wave-like flank pain that makes it hard to get comfortable"
+seo_title: "Sudden wave-like flank pain that is hard to settle"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "flank pain with kidney disease"
   - "flank pane in waves"
   - "kidney ston pain"
-last_reviewed: "2026-06-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-13"
 ---
 

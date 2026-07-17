@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you get notified of a data breach and you reuse that password on other accounts"
+seo_title: "Data breach notification and reused passwords"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "work password reused"
   - "breach notifcation email"
   - "pasword reused"
-last_reviewed: "2026-05-12"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-12"
 ---
 

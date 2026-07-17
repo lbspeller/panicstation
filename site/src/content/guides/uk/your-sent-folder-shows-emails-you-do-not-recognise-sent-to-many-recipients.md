@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your sent folder shows emails you do not recognise sent to many recipients"
+seo_title: "Unknown emails sent from your account"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "work email sent spam"
   - "emial account hacked"
   - "unkown sent emails"
-last_reviewed: "2026-05-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-28"
 ---
 

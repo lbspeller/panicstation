@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a landlord demands immediate access to a home after a tenant dies"
+seo_title: "Landlord demanding access after a tenant dies"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "family handling tenant death"
   - "landord demands immediate access"
   - "tenent died landlord wants entry"
-last_reviewed: "2026-05-31"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-31"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a call asking you to store property for someone in custody"
+seo_title: "Call asking you to store property for someone in custody"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -42,7 +43,7 @@ tags:
   - "from an unknown number"
   - "about someone else property"
   - "late night custody call"
-last_reviewed: "2026-05-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-17"
 ---
 

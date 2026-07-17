@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to provide a photo and life summary for a funeral or memorial on a tight deadline"
+seo_title: "Urgent funeral photo and life summary deadline"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "printed photo needs scanning"
   - "obiturary paragraph deadline"
   - "memoral photo deadline"
-last_reviewed: "2026-06-08"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-08"
 ---
 

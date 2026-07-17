@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your tap water suddenly turns brown, smells unusual, or looks unsafe to drink"
+seo_title: "Tap water looks discoloured or smells unusual"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "brown water after hydrant flushing"
   - "apartment water looks dirty"
   - "private well water suddenly changed"
-last_reviewed: "2026-07-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-04"
 ---
 

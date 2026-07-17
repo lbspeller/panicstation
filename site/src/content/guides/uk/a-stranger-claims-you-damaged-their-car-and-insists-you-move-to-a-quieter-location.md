@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a stranger claims you damaged their car and insists you move to a quieter location"
+seo_title: "Stranger claims car damage and demands you relocate"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "unlit road accusation"
   - "stranger dammaged car"
   - "stranger says i damadged car"
-last_reviewed: "2026-04-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-28"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a notice threatening immediate enforcement or legal action over a missed payment"
+seo_title: "Notice threatening immediate enforcement or legal action"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "real notice or fake"
   - "council tax enforcement"
   - "missed payment court fine"
-last_reviewed: "2026-05-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-18"
 ---
 

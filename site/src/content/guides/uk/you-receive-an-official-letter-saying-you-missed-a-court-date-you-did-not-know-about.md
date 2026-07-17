@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive an official letter saying you missed a court date you did not know about"
+seo_title: "Letter saying you missed a court date"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "england and wales court letter"
   - "scotland court letter"
   - "northern ireland court letter"
-last_reviewed: "2026-05-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-19"
 ---
 

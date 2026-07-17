@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your final paycheck is delayed and you are told it will be sorted later"
+seo_title: "Final paycheck is delayed and payment is uncertain"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "final pay after resigning"
   - "final pay after dismissal"
   - "final pay after sacking"
-last_reviewed: "2026-05-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-25"
 ---
 

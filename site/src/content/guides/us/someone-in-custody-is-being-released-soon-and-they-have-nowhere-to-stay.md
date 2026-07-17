@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone in custody is being released soon and they have nowhere to stay"
+seo_title: "Someone in custody being released without housing"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "rrc confusion"
   - "coordnated entry confusion"
   - "relese notice confusion"
-last_reviewed: "2026-06-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-22"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice a rash with fever and are unsure if it is serious"
+seo_title: "rash with fever and feeling unwell"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "adult fever with rash"
   - "pregnant with rash fever"
   - "immunocompromised rash fever"
-last_reviewed: "2026-06-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-18"
 ---
 

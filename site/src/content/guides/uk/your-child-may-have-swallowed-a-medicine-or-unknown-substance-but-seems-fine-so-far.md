@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your child may have swallowed a medicine or unknown substance but seems fine so far"
+seo_title: "Child may have swallowed medicine or substance"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "toddler possible poisoning"
   - "under five swallowed medicine"
   - "chlid swallowed medicine"
-last_reviewed: "2026-05-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-24"
 ---
 

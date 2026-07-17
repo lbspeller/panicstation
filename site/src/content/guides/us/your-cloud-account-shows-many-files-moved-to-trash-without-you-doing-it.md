@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your cloud account shows many files moved to trash without you doing it"
+seo_title: "Cloud files moved to trash unexpectedly"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "icloud files recently deleted"
   - "clowd files missing"
   - "cloud acount hacked"
-last_reviewed: "2026-06-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-27"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you discover water leaking into your attic or loft after a storm"
+seo_title: "Water leaking into attic or loft after storm"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "attic insulaton wet"
   - "renter attic leak"
   - "homeowner attic storm leak"
-last_reviewed: "2026-06-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-14"
 ---
 

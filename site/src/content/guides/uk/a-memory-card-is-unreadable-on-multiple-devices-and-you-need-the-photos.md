@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a memory card is unreadable on multiple devices and you need the photos"
+seo_title: "Memory card unreadable and photos need recovery"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "accidentally formatted warning"
   - "sd card unredable"
   - "photos dissapeared from card"
-last_reviewed: "2026-04-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-27"
 ---
 

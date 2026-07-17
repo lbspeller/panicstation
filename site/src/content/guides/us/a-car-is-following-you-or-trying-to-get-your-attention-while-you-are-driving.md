@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a car is following you or trying to get your attention while you are driving"
+seo_title: "Car following you or trying to get your attention"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "busy road unsafe"
   - "occupents trying to get attention"
   - "car pulles alongside"
-last_reviewed: "2026-05-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-29"
 ---
 

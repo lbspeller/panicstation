@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice someone photographing or filming you in a way that feels targeted"
+seo_title: "Someone filming or photographing you in a targeted way"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "filming at a station"
   - "filming on public transport"
   - "filming near my home"
-last_reviewed: "2026-05-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-16"
 ---
 

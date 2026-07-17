@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your mobile ticket will not load at a barrier or checkpoint"
+seo_title: "Mobile ticket will not load at barrier"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "eticket wont load"
   - "at railway barrier"
   - "on way to train"
-last_reviewed: "2026-05-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-09"
 ---
 

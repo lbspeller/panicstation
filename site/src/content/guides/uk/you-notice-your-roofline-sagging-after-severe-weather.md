@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice your roofline sagging after severe weather"
+seo_title: "Roofline sagging after severe weather"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "attic roof sagging"
   - "new build roof sagging"
   - "recent roof work sagging"
-last_reviewed: "2026-05-20"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-20"
 ---
 

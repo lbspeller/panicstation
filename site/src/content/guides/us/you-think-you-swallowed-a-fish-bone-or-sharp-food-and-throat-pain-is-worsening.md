@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you think you swallowed a fish bone or sharp food and throat pain is worsening"
+seo_title: "Swallowed fish bone or sharp food with worsening pain"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "fish dinner throat pain"
   - "child swallowed fish bone"
   - "adult swallowed fish bone"
-last_reviewed: "2026-06-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-25"
 ---
 

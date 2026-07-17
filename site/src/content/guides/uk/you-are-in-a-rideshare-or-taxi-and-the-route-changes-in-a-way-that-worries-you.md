@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are in a rideshare or taxi and the route changes in a way that worries you"
+seo_title: "Worried about your taxi or rideshare route"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "private hire route changed"
   - "app ride route changed"
   - "licensed taxi route worry"
-last_reviewed: "2026-05-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-05"
 ---
 

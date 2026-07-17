@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your employer says there is a system error with your recorded hours or attendance"
+seo_title: "Employer says recorded hours or attendance are wrong"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "payroll systm error"
   - "attendence record wrong"
   - "hourly paid worker"
-last_reviewed: "2026-05-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-06"
 ---
 

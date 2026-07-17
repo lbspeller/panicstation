@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you get a call claiming a family member has been detained or arrested"
+seo_title: "Call claiming a family member is detained"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "custdy phone call"
   - "uk family detention call"
   - "outside police station hours"
-last_reviewed: "2026-05-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-11"
 ---
 

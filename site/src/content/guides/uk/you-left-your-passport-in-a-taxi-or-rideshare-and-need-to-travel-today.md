@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you left your passport in a taxi or rideshare and need to travel today"
+seo_title: "Passport left in taxi or rideshare before travel"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "travel today no passport"
   - "passprot left in taxi"
   - "pasport missing before flight"
-last_reviewed: "2026-05-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-17"
 ---
 

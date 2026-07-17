@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are pressured to resign immediately with promises about your reference"
+seo_title: "Pressured to resign with reference promises"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -34,7 +35,7 @@ tags:
   - "probationary employee resignation pressure"
   - "seperation agreement pressure"
   - "resignaton under pressure"
-last_reviewed: "2026-06-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-09"
 ---
 

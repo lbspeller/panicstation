@@ -1,5 +1,6 @@
 ---
 title: "What to do if… water starts dripping through your ceiling and you cannot see the source"
+seo_title: "Water dripping through ceiling from unknown source"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "neighbour leak into flat"
   - "cant find stop tap"
   - "ceiling leeking water"
-last_reviewed: "2026-05-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-02"
 ---
 

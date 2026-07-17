@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to provide fingerprints, a DNA sample, or other identification for a case"
+seo_title: "Asked for fingerprints, DNA, or identification"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "asked at police station"
   - "finger prints request"
   - "dna swab requst"
-last_reviewed: "2026-05-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-04"
 ---
 

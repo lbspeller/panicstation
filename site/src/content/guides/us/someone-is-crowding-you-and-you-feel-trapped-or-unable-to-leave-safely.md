@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone is crowding you and you feel trapped or unable to leave safely"
+seo_title: "Someone is crowding you and you feel trapped"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "in a venue near exit"
   - "crowding me durign flirting"
   - "someone blocking my exsit"
-last_reviewed: "2026-06-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-05"
 ---
 

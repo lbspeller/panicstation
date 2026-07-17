@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a partner pressures you into sexual acts you feel are unsafe or risky"
+seo_title: "Partner pressuring you into unsafe or risky sex"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "confused about consent pressure"
   - "partner pressuring unsafe secks"
   - "worried about sti expousre"
-last_reviewed: "2026-04-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-27"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to pay a funeral home deposit immediately and you are unsure what is normal"
+seo_title: "Asked to pay funeral home deposit immediately"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "funral home deposit pressure"
   - "funeral depsoit request unclear"
   - "funeral home deposit scam concern"
-last_reviewed: "2026-06-08"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-08"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you develop hives or facial swelling after eating or taking a medication"
+seo_title: "Hives or facial swelling after eating or medication"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "hivs after medication"
   - "facial sweling after eating"
   - "swollen lips after medicine"
-last_reviewed: "2026-06-12"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-12"
 ---
 

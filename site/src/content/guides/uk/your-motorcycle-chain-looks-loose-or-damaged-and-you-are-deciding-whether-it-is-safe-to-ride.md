@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your motorcycle chain looks loose or damaged and you are deciding whether it is safe to ride"
+seo_title: "Motorcycle chain looks loose or damaged"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "pre-ride chain check"
   - "motercycle chain loose"
   - "motorbike chain looss"
-last_reviewed: "2026-05-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-26"
 ---
 

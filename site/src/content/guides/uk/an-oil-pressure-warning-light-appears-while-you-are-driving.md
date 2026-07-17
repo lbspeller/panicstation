@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an oil pressure warning light appears while you are driving"
+seo_title: "Oil pressure warning light while driving"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "hard shoulder oil warning"
   - "oil presure warning"
   - "oil warning lite"
-last_reviewed: "2026-04-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-29"
 ---
 

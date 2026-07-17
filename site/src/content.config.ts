@@ -4,6 +4,7 @@ const guides = defineCollection({
   type: "content",
   schema: z.object({
     title: z.string(),
+    seo_title: z.string().min(1),
     jurisdiction: z.enum(["UK", "USA"]),
     category: z.string(),
     tags: z.array(z.string()).optional(),

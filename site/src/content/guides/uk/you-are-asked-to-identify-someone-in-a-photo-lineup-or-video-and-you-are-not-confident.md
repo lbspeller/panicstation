@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to identify someone in a photo lineup or video and you are not confident"
+seo_title: "Unsure about identifying someone in a lineup"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "crime witness identification"
   - "uk police photo lineup"
   - "uk video identification"
-last_reviewed: "2026-05-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-04"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you realise you brought an old or cancelled passport instead of your current one"
+seo_title: "Brought old or cancelled passport to airport"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "uk passport holder abroad"
   - "wrong pasport at airport"
   - "cancled passport"
-last_reviewed: "2026-05-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-16"
 ---
 

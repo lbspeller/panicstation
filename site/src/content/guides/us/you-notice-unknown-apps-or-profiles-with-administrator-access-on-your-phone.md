@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice unknown apps or profiles with administrator access on your phone"
+seo_title: "Unknown administrator apps or profiles on phone"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "mdm or malware"
   - "unkown apps on phone"
   - "adminstrator access on phone"
-last_reviewed: "2026-06-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-19"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your email messages start auto-archiving or skipping your inbox unexpectedly"
+seo_title: "Email messages skipping inbox or auto-archiving"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -43,7 +44,7 @@ tags:
   - "messages disappearing from inbox"
   - "archive folder filling unexpectedly"
   - "inbox messages moved automatically"
-last_reviewed: "2026-06-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-03"
 ---
 

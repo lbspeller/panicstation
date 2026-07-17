@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are called into an HR meeting with no explanation"
+seo_title: "Called into an HR meeting with no explanation"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "uk workplace hr meeting"
   - "short notice work meeting"
   - "called into meeting suddenly"
-last_reviewed: "2026-05-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-04"
 ---
 

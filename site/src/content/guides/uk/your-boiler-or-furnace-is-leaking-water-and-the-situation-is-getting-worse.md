@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your boiler or furnace is leaking water and the situation is getting worse"
+seo_title: "Boiler or furnace leaking water and getting worse"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "renting with leaking boiler"
   - "leaking boiler in flat"
   - "leaking boiler at night"
-last_reviewed: "2026-05-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-23"
 ---
 

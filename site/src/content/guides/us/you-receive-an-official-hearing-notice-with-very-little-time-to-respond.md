@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive an official hearing notice with very little time to respond"
+seo_title: "Official hearing notice with little time to respond"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "in person hearing notice"
   - "state agency hearing notice"
   - "federal agency hearing notice"
-last_reviewed: "2026-06-21"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-21"
 ---
 

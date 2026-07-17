@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone is live-streaming you or your location in a way that feels targeted"
+seo_title: "Someone is live-streaming you or your location"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "traveling while location is streamed"
   - "live streeming my location"
   - "someone is livestreming me"
-last_reviewed: "2026-06-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-05"
 ---
 

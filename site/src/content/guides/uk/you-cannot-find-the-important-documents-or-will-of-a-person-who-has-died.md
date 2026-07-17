@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you cannot find the important documents or will of a person who has died"
+seo_title: "Cannot find will or important documents after death"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "deeds missing after death"
   - "berievement paperwork missing"
   - "soliciter details missing"
-last_reviewed: "2026-05-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-16"
 ---
 

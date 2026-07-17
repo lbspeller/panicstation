@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your security camera shows someone covering, moving, or disabling it outside your home"
+seo_title: "Security camera tampered with or disabled outside home"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "cctv or doorbell camera"
   - "camara outside covered"
   - "securty camera blocked"
-last_reviewed: "2026-05-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-28"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you suspect your car has been tampered with or sabotaged before you drive away"
+seo_title: "Suspecting car tampering or sabotage before driving"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "parking lot car damage"
   - "apartment parking car tampering"
   - "workplace parking car damage"
-last_reviewed: "2026-06-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-25"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a cheque you deposited is flagged as counterfeit and the bank reverses the funds"
+seo_title: "Cheque deposit reversed as counterfeit"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "counterfeit cheque uk"
   - "cheque reversal uk"
   - "cheque scam after selling goods"
-last_reviewed: "2026-04-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-25"
 ---
 

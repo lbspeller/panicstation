@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your mobility scooter stops working while you are out and you cannot walk home"
+seo_title: "Mobility scooter stops working while out"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "wheelchair accessible ride needed"
   - "mobilty scooter broke down"
   - "wheelchar accessible ride needed"
-last_reviewed: "2026-07-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-01"
 ---
 

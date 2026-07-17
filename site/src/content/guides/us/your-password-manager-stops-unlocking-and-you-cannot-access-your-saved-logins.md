@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your password manager stops unlocking and you cannot access your saved logins"
+seo_title: "Password manager locked and cannot access logins"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "password mannager not opening"
   - "new phone lost passwords"
   - "work password vault locked"
-last_reviewed: "2026-07-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-01"
 ---
 

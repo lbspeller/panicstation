@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your employer refuses or limits your job reference"
+seo_title: "Employer refuses or limits your job reference"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "after raising complaint reference"
   - "leaving job no reference"
   - "proof of employment problem"
-last_reviewed: "2026-05-08"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-08"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you smell burning from your vehicle and have pulled over safely"
+seo_title: "Smell of burning from your vehicle"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "short drive then burning"
   - "stopped after short drive"
   - "roadside with passengers"
-last_reviewed: "2026-06-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-23"
 ---
 

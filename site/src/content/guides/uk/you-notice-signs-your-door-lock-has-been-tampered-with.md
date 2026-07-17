@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice signs your door lock has been tampered with"
+seo_title: "Signs your door lock has been tampered with"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "rented home lock damage"
   - "flat door lock tampered"
   - "front door lock tampered"
-last_reviewed: "2026-05-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-16"
 ---
 

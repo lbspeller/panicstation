@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your device clock resets and secure websites stop loading correctly"
+seo_title: "Device clock reset and secure website errors"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "certificat error"
   - "secure websits not loading"
   - "public wifi secure websites fail"
-last_reviewed: "2026-05-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-25"
 ---
 

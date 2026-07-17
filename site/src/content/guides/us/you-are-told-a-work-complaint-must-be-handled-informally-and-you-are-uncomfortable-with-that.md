@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are told a work complaint must be handled informally and you are uncomfortable with that"
+seo_title: "Work complaint pressured to be handled informally"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "small workplace complaint pressure"
   - "complaint handeled informally"
   - "informal complaint proces unclear"
-last_reviewed: "2026-06-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-10"
 ---
 

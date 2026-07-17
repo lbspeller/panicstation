@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a finger or toe suddenly becomes cold, pale or blue and painful"
+seo_title: "Finger or toe suddenly cold, pale, or blue"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "after cold exposure toe blue"
   - "one-sided finger color change"
   - "one-sided toe color change"
-last_reviewed: "2026-05-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-30"
 ---
 

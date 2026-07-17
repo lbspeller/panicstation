@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you learn a loved one’s death may have involved drugs or alcohol and you fear stigma and gossip"
+seo_title: "Managing gossip and stigma after a sudden death"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "sensitive death in family"
   - "gosip after death"
   - "alcahol death rumours"
-last_reviewed: "2026-05-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-14"
 ---
 

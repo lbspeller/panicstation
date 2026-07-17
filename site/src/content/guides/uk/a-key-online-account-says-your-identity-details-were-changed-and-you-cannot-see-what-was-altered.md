@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a key online account says your identity details were changed and you cannot see what was altered"
+seo_title: "Online account identity details changed unexpectedly"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "work account details changed"
   - "acount identity details changed"
   - "indentiy details changed"
-last_reviewed: "2026-04-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-26"
 ---
 

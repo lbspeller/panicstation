@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a notice that your property may be searched or inspected as part of an investigation"
+seo_title: "Notice of property search or inspection"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "business under investigation"
   - "search warrent notice"
   - "inspecton notice property"
-last_reviewed: "2026-06-21"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-21"
 ---
 

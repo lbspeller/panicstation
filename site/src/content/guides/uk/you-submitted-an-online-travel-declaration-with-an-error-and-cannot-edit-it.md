@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you submitted an online travel declaration with an error and cannot edit it"
+seo_title: "Error on submitted online travel declaration"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "flight to uk today"
   - "arriving in uk soon"
   - "at airport with mistake"
-last_reviewed: "2026-05-21"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-21"
 ---
 

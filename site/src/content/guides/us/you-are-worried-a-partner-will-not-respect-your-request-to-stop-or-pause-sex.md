@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are worried a partner will not respect your request to stop or pause sex"
+seo_title: "Worried a partner will not respect your boundaries"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "during sex with partner"
   - "after unwanted sexual contact"
   - "when alone with partner"
-last_reviewed: "2026-06-12"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-12"
 ---
 

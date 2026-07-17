@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your vehicle security system or immobiliser prevents the engine from starting"
+seo_title: "Vehicle security system prevents engine from starting"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "after jump start wont start"
   - "stuck in car park"
   - "broken down on motorway"
-last_reviewed: "2026-05-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-28"
 ---
 

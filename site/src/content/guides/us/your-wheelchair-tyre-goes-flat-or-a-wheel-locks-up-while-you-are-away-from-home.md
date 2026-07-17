@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your wheelchair tyre goes flat or a wheel locks up while you are away from home"
+seo_title: "Wheelchair tyre flat or wheel locked away from home"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -33,7 +34,7 @@ tags:
   - "wheelchair tire pressure loss"
   - "wheel chair flat tire"
   - "wheelchair near traffic"
-last_reviewed: "2026-07-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-04"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a funeral provider says a body must be moved today due to capacity limits"
+seo_title: "funeral provider says body must be moved today"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "bereavement urgent call"
   - "funral provider capacity"
   - "mortury space shortage"
-last_reviewed: "2026-04-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-26"
 ---
 

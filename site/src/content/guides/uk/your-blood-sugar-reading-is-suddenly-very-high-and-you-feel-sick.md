@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your blood sugar reading is suddenly very high and you feel sick"
+seo_title: "Very high blood sugar and feeling sick"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "missed insulin high sugar"
   - "illness raises blood sugar"
   - "sglt2 and ketones risk"
-last_reviewed: "2026-05-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-23"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive bills or debt collection notices addressed to someone who has died"
+seo_title: "Bills or debt notices for someone who has died"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "personal liability confusion"
   - "deceased person bils"
   - "bills after deeth"
-last_reviewed: "2026-05-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-19"
 ---
 

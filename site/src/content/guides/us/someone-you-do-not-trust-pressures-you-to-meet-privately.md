@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone you do not trust pressures you to meet privately"
+seo_title: "Pressured to meet someone privately"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "pressured by someone i know"
   - "presured to meet privately"
   - "privte meeting feels unsafe"
-last_reviewed: "2026-06-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-06"
 ---
 

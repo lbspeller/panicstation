@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are overwhelmed by a flood of messages about a death in your family"
+seo_title: "Overwhelmed by messages after a family death"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "hospital death message flood"
   - "cannot reply to everyone"
   - "need someone to handle messages"
-last_reviewed: "2026-05-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-05"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you suspect someone is watching or signalling to others while you handle cash or valuables"
+seo_title: "Suspected surveillance or signalling while handling cash"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "watched inside a store"
   - "watched near parking lot"
   - "alone with valuables"
-last_reviewed: "2026-06-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-23"
 ---
 

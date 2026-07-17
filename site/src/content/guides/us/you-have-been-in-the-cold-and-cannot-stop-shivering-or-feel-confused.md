@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have been in the cold and cannot stop shivering or feel confused"
+seo_title: "Uncontrollable shivering or confusion after cold exposure"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "cold stress symptoms"
   - "hypotermia signs"
   - "shiverng after cold"
-last_reviewed: "2026-06-15"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-15"
 ---
 

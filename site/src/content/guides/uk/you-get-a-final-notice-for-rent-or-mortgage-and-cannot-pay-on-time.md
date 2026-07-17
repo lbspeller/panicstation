@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you get a final notice for rent or mortgage and cannot pay on time"
+seo_title: "Final notice for rent or mortgage arrears"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "council rent arrears"
   - "housing association rent arrears"
   - "owner occupier mortgage arrears"
-last_reviewed: "2026-05-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-11"
 ---
 

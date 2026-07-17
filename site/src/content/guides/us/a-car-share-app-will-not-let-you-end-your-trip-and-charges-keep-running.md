@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a car-share app will not let you end your trip and charges keep running"
+seo_title: "Car-share app will not end trip"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "hourly rental still charging"
   - "after returning shared car"
   - "late night car-share problem"
-last_reviewed: "2026-05-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-29"
 ---
 

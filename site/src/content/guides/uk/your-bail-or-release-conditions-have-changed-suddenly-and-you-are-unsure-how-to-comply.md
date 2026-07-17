@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your bail or release conditions have changed suddenly and you are unsure how to comply"
+seo_title: "Bail or release conditions changed suddenly"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "bale conditions changed"
   - "licence condtions changed"
   - "on bail in the uk"
-last_reviewed: "2026-05-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-22"
 ---
 

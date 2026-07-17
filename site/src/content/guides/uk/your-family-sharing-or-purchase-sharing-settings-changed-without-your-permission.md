@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your family sharing or purchase sharing settings changed without your permission"
+seo_title: "Family sharing or purchase settings changed unexpectedly"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "apple family sharng changed"
   - "google play famly changed"
   - "uk family sharing account"
-last_reviewed: "2026-05-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-25"
 ---
 

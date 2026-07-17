@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you get an unexpectedly high blood pressure reading and feel unwell"
+seo_title: "Unexpectedly high blood pressure and feeling unwell"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "postpartum high blood pressure"
   - "bp reeding high"
   - "blood presure high"
-last_reviewed: "2026-05-12"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-12"
 ---
 

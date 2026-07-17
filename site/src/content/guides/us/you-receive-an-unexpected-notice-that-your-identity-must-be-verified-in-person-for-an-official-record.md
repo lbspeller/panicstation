@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive an unexpected notice that your identity must be verified in person for an official record"
+seo_title: "Unexpected notice to verify identity in person"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "immigration biometrics notice"
   - "court record identity notice"
   - "federal record identity notice"
-last_reviewed: "2026-06-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-22"
 ---
 

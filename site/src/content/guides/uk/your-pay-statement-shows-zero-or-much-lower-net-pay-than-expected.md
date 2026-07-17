@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your pay statement shows zero or much lower net pay than expected"
+seo_title: "Pay statement shows zero or low net pay"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "monthly salary problem"
   - "payrole error"
   - "payslip deducions"
-last_reviewed: "2026-05-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-18"
 ---
 

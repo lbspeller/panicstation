@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you suspect your partner is interfering with your contraception or pregnancy choices"
+seo_title: "Partner interfering with contraception or pregnancy"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "on partners insurance"
   - "living with controlling partner"
   - "recent pregnancy risk"
-last_reviewed: "2026-06-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-25"
 ---
 

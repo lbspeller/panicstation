@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive an unclear notice that you are banned or barred from a location or event"
+seo_title: "Unclear notice of a ban or trespass warning"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "stadium or concert venue"
   - "campus or workplace"
   - "shared parking lot access"
-last_reviewed: "2026-06-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-23"
 ---
 

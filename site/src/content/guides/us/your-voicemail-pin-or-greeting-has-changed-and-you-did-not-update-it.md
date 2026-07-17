@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your voicemail PIN or greeting has changed and you did not update it"
+seo_title: "Voicemail PIN or greeting changed unexpectedly"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "voicemail greeting chnaged"
   - "prepaid voicemail password changed"
   - "family plan voicemail changed"
-last_reviewed: "2026-07-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-04"
 ---
 

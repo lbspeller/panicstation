@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice a pending payment or transfer that you did not authorise"
+seo_title: "Unauthorised pending payment or transfer"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "possible account takeover"
   - "unkown pending payment"
   - "unauth pending transaction"
-last_reviewed: "2026-06-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-18"
 ---
 

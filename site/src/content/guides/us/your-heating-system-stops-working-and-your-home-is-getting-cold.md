@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your heating system stops working and your home is getting cold"
+seo_title: "Heating system stops working and home getting cold"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "apartment no heat"
   - "furnece not working"
   - "thermostate not working"
-last_reviewed: "2026-06-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-30"
 ---
 

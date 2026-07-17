@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a court notice or summons with very little time to prepare"
+seo_title: "Court notice or summons with short notice"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "tribunal hearing notice"
   - "cort notice short notice"
   - "sumons to court tomorrow"
-last_reviewed: "2026-05-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-18"
 ---
 

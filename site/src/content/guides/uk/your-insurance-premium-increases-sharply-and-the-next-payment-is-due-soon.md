@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your insurance premium increases sharply and the next payment is due soon"
+seo_title: "Insurance premium increased and payment due soon"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "cant afford insurance payment"
   - "insurence premium increased"
   - "monthly policy payment"
-last_reviewed: "2026-05-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-26"
 ---
 

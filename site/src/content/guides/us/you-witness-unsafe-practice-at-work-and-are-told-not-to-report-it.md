@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you witness unsafe practice at work and are told not to report it"
+seo_title: "Witnessing unsafe work and told not to report it"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "whistleblowing at work"
   - "state plan workplace"
   - "public sector workplace safety"
-last_reviewed: "2026-06-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-25"
 ---
 

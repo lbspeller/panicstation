@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an automatic bill payment fails and you receive an urgent late notice"
+seo_title: "Automatic bill payment failed and late notice received"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "failed auto-pay notice"
   - "utility bill overdue"
   - "loan payment missed"
-last_reviewed: "2026-04-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-29"
 ---
 

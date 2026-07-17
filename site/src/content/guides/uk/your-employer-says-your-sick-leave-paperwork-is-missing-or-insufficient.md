@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your employer says your sick leave paperwork is missing or insufficient"
+seo_title: "Employer says sick leave paperwork is missing"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "sick pay admin error"
   - "sick pay payrol problem"
   - "sick note paperwok problem"
-last_reviewed: "2026-05-08"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-08"
 ---
 

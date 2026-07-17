@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are contacted by police about a missing person and asked to meet urgently"
+seo_title: "Police contact about a missing person and urgent meeting"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "unknown police department caller"
   - "polcie called about missing person"
   - "detecitve called about missing person"
-last_reviewed: "2026-06-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-09"
 ---
 

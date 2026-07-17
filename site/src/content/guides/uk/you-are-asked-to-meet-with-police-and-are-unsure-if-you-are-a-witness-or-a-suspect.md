@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to meet with police and are unsure if you are a witness or a suspect"
+seo_title: "Asked to meet police and unsure of status"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "voluntary interview or witness statement"
   - "precharge meeting confusion"
   - "suspect or witnes confusion"
-last_reviewed: "2026-05-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-03"
 ---
 

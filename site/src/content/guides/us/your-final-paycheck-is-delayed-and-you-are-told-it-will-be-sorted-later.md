@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your final paycheck is delayed and you are told it will be sorted later"
+seo_title: "Final paycheck is delayed and payment is uncertain"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "bonus missing from final pay"
   - "final payckeck delayed"
   - "last paychek missing"
-last_reviewed: "2026-06-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-29"
 ---
 

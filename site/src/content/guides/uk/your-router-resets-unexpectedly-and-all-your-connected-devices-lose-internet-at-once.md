@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your router resets unexpectedly and all your connected devices lose internet at once"
+seo_title: "Router resets and all devices lose internet"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "internet based landline offline"
   - "ruter reset unexpectedly"
   - "broad band went down"
-last_reviewed: "2026-05-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-27"
 ---
 

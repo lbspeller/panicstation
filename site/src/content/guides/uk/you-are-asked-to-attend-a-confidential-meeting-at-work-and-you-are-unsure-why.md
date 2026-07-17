@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to attend a confidential meeting at work and you are unsure why"
+seo_title: "Unexpected confidential meeting at work"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "meeting about leaving job"
   - "settlement discusion at work"
   - "confidential settlment meeting"
-last_reviewed: "2026-05-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-03"
 ---
 

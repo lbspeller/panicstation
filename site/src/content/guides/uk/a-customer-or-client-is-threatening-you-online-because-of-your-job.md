@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a customer or client is threatening you online because of your job"
+seo_title: "Customer or client threatening you online"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "frontline customer threat"
   - "work social media threat"
   - "personal account work threat"
-last_reviewed: "2026-04-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-25"
 ---
 

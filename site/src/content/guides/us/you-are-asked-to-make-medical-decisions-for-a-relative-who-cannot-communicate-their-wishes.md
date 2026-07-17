@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to make medical decisions for a relative who cannot communicate their wishes"
+seo_title: "Making medical decisions for a relative without capacity"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "relative lacks decision-making capacity"
   - "several adult children disagree"
   - "state rules unclear"
-last_reviewed: "2026-06-08"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-08"
 ---
 

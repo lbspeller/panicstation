@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone offers you a drink you did not see poured or opened and you feel uneasy"
+seo_title: "Uneasy about an offered drink you did not see"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "unsafe on a date"
   - "unsafe with someone i know"
   - "alone in a venue"
-last_reviewed: "2026-05-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-02"
 ---
 

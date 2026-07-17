@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you smell burning plastic or see scorching around an outlet or switch"
+seo_title: "Burning plastic smell or scorching at outlet or switch"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "burnt soccet smell"
   - "rented flat electrical fault"
   - "night time burning smell"
-last_reviewed: "2026-05-21"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-21"
 ---
 

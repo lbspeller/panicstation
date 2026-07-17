@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are served with a no-contact order or official communication restriction"
+seo_title: "Served with a no-contact order or communication restriction"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "no contct order notice"
   - "restraning order notice"
   - "official communication restriction"
-last_reviewed: "2026-05-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-18"
 ---
 

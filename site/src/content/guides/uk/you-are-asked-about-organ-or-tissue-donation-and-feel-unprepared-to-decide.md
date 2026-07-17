@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked about organ or tissue donation and feel unprepared to decide"
+seo_title: "Asked about organ or tissue donation and feel unprepared"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "during end-of-life care"
   - "family conflict at hospital"
   - "uk donation rules"
-last_reviewed: "2026-05-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-03"
 ---
 

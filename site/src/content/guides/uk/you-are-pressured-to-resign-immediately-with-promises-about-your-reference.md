@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are pressured to resign immediately with promises about your reference"
+seo_title: "Pressured to resign with reference promises"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "uk workplace resignation pressure"
   - "resignation refrence promise"
   - "referance promised at work"
-last_reviewed: "2026-05-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-05"
 ---
 

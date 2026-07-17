@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are a friend of someone who has died with no known family and you are being pressured to take responsibility"
+seo_title: "Friend died with no family and pressured to act"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "confused about funeral responsibility"
   - "freind died no family"
   - "funral costs worry"
-last_reviewed: "2026-05-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-10"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you suspect someone is using tracking or monitoring to control you"
+seo_title: "Suspecting someone is tracking or monitoring you"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "phone hacked by partner"
   - "icloud location sharing abuse"
   - "google location sharing abuse"
-last_reviewed: "2026-05-21"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-21"
 ---
 

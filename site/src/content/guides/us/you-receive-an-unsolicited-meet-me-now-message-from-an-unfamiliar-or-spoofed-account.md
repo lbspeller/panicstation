@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive an unsolicited meet me now message from an unfamiliar or spoofed account"
+seo_title: "Unsolicited meet me now message from unknown account"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "after a breakup"
   - "late at night"
   - "while traveling alone"
-last_reviewed: "2026-06-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-22"
 ---
 

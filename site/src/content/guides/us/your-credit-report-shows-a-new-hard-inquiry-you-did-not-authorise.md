@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your credit report shows a new hard inquiry you did not authorise"
+seo_title: "Unauthorised hard inquiry on your credit report"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "authorized user or hard inquiry"
   - "hard inqury not mine"
   - "credit raport hard inquiry"
-last_reviewed: "2026-06-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-28"
 ---
 

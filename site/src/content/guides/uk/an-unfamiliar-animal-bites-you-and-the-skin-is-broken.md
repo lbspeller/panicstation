@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an unfamiliar animal bites you and the skin is broken"
+seo_title: "Unfamiliar animal bite that broke the skin"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -34,7 +35,7 @@ tags:
   - "animal bite on face"
   - "animl bite broke skin"
   - "unkown animal bite"
-last_reviewed: "2026-04-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-29"
 ---
 

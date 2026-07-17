@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are being pressured to resign instead of being dismissed"
+seo_title: "Pressured to resign instead of being dismissed"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "severance release confusion"
   - "resignaton pressure"
   - "seperation agreement pressure"
-last_reviewed: "2026-06-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-24"
 ---
 

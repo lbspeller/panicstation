@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are told there will be an inquest or hearing and you do not know what to expect"
+seo_title: "Told there will be an inquest or hearing"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "summons or subpoena confusion"
   - "subpena after death"
   - "coroner inqust confusion"
-last_reviewed: "2026-06-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-10"
 ---
 

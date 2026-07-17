@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you get an urgent delivery or customs fee demand for a parcel you were not expecting"
+seo_title: "Unexpected delivery or customs fee demand"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "unexpected international parcel"
   - "custums fee demand"
   - "delievery fee text"
-last_reviewed: "2026-06-15"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-15"
 ---
 

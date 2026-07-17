@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are travelling with a pet and cannot access the required vaccination or microchip paperwork"
+seo_title: "Pet travel vaccination or microchip paperwork missing"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "rabies certificate missing"
   - "pet papework missing"
   - "pet vacination proof missing"
-last_reviewed: "2026-05-08"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-08"
 ---
 

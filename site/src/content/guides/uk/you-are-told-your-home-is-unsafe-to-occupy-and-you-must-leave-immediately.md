@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are told your home is unsafe to occupy and you must leave immediately"
+seo_title: "Told to leave home due to safety risk"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "rented home unsafe"
   - "council home unsafe"
   - "pets in unsafe home"
-last_reviewed: "2026-05-07"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-07"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a stranger claims to know you and insists you go somewhere with them"
+seo_title: "Stranger insists you go somewhere with them"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "stranger at shopping mall"
   - "stranger claims to recogize me"
   - "stranger will not leave me alne"
-last_reviewed: "2026-06-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-02"
 ---
 

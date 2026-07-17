@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you find an unauthorized crowdfunding page created in a loved one’s name"
+seo_title: "Unauthorized crowdfunding page in a loved one's name"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "memorial page or scam"
   - "crowdfuding page scam"
   - "fundraser in loved ones name"
-last_reviewed: "2026-05-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-10"
 ---
 

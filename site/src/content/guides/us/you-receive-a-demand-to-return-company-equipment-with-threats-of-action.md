@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a demand to return company equipment with threats of action"
+seo_title: "Demand to return company equipment with threats"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "after termination equipment dispute"
   - "final paycheck equipment dispute"
   - "nonexempt wage deduction concern"
-last_reviewed: "2026-06-20"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-20"
 ---
 

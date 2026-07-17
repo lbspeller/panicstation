@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you hear a repeated clicking sound from a wall or electrical outlet"
+seo_title: "Repeated clicking sound from wall or electrical outlet"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "clicking sound at night"
   - "electrical buzzing noice"
   - "socket clicking soud"
-last_reviewed: "2026-05-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-13"
 ---
 

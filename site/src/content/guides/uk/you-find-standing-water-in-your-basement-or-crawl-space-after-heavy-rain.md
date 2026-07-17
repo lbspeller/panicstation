@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you find standing water in your basement or crawl space after heavy rain"
+seo_title: "Standing water in basement or crawl space after rain"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "flooded underfloor void"
   - "after heavy rain"
   - "rented home flooding"
-last_reviewed: "2026-05-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-11"
 ---
 

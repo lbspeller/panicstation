@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a money transfer recipient cannot collect because of a name mismatch"
+seo_title: "Money transfer recipient name mismatch"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "possible money transfer scam"
   - "recipient id does not match"
   - "transfer paid out but not received"
-last_reviewed: "2026-04-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-27"
 ---
 

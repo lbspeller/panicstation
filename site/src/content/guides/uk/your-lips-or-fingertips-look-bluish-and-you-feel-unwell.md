@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your lips or fingertips look bluish and you feel unwell"
+seo_title: "Bluish lips or fingertips and feeling unwell"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "blue lips panic attack"
   - "blue fingetips"
   - "bluish finger tips"
-last_reviewed: "2026-05-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-26"
 ---
 

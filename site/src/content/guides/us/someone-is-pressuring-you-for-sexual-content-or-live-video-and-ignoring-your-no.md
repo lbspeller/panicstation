@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone is pressuring you for sexual content or live video and ignoring your no"
+seo_title: "Pressured for sexual content or live video"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "adult intimate image threat"
   - "sextorsion threat"
   - "webcam blackmale"
-last_reviewed: "2026-06-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-04"
 ---
 

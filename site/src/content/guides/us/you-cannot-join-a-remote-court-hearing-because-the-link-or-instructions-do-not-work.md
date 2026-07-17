@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you cannot join a remote court hearing because the link or instructions do not work"
+seo_title: "Cannot join remote court hearing link or instructions"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "last-minute court link failure"
   - "remote court hearng link broken"
   - "remote hearing instrutions missing"
-last_reviewed: "2026-06-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-11"
 ---
 

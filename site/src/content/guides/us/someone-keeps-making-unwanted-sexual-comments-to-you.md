@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone keeps making unwanted sexual comments to you"
+seo_title: "Someone keeps making unwanted sexual comments"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "sexual comments online"
   - "unwanted sexual commments"
   - "sexual comments crossing boundries"
-last_reviewed: "2026-06-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-05"
 ---
 

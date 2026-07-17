@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are pressured to meet privately after reporting sexual harassment and you feel unsafe"
+seo_title: "Pressured to meet privately after reporting harassment"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "unsafe meeting with coworker"
   - "sexual harasment meeting request"
   - "privat meeting after harassment"
-last_reviewed: "2026-06-08"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-08"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your credit card is over the limit and restricted due to interest or fees"
+seo_title: "Credit card over limit and restricted"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "card stopped working"
   - "credit limmit exceeded"
   - "intrest pushed card over"
-last_reviewed: "2026-04-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-30"
 ---
 

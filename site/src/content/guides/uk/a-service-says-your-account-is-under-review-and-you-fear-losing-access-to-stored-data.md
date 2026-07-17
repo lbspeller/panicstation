@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a service says your account is under review and you fear losing access to stored data"
+seo_title: "Service says account under review and data at risk"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "business files in account"
   - "acount under review"
   - "loosing access to data"
-last_reviewed: "2026-04-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-28"
 ---
 

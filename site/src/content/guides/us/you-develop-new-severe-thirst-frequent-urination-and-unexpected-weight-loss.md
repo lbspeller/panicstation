@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you develop new severe thirst, frequent urination, and unexpected weight loss"
+seo_title: "New severe thirst, frequent urination, and weight loss"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "thirst during pregnancy"
   - "thirst after recent illness"
   - "thirst while taking steroids"
-last_reviewed: "2026-06-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-13"
 ---
 

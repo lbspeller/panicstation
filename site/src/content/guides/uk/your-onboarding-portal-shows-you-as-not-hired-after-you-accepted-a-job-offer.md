@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your onboarding portal shows you as not hired after you accepted a job offer"
+seo_title: "Onboarding portal shows not hired after job offer accepted"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "rescinded offer confusion"
   - "onbordng portal says not hired"
   - "recuiter not responding"
-last_reviewed: "2026-05-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-26"
 ---
 

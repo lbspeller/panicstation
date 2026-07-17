@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to document your work processes and you suspect your job is being outsourced"
+seo_title: "Asked to document work and suspect outsourcing"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "new deadline for documentation"
   - "outsorcing worries"
   - "handover docummentation anxiety"
-last_reviewed: "2026-05-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-03"
 ---
 

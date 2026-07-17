@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your surviving parent is overwhelmed after a death and you need urgent support for them"
+seo_title: "Surviving parent overwhelmed after a death"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "after sudden death at home"
   - "first night after death"
   - "alone with grieving parent"
-last_reviewed: "2026-05-15"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-15"
 ---
 

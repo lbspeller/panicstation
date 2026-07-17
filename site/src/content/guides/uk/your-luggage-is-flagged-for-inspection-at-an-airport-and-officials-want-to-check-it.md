@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your luggage is flagged for inspection at an airport and officials want to check it"
+seo_title: "Airport luggage flagged for inspection"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "luggge restricted item"
   - "restriced item in bag"
   - "uk airport luggage rules"
-last_reviewed: "2026-05-08"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-08"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your building access badge stops working and you are told to wait outside"
+seo_title: "Building access badge stops working at work"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "badge deactivatd at work"
   - "work acess badge stopped"
   - "outside workplace in bad weather"
-last_reviewed: "2026-05-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-23"
 ---
 

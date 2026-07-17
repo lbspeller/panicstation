@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your brake lights stay on after you turn the vehicle off and you worry the battery will drain"
+seo_title: "Brake lights stay on after engine off"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "stuck brake lights uk"
   - "parked car brake lights on"
   - "manual car brake lights stuck"
-last_reviewed: "2026-05-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-23"
 ---
 

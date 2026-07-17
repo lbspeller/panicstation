@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your travel documents are locked in a room or bag you cannot access due to a dispute"
+seo_title: "Travel documents locked in room or bag due to dispute"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "american traveler abroad"
   - "us passport abroad"
   - "travel dispute abroad"
-last_reviewed: "2026-07-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-04"
 ---
 

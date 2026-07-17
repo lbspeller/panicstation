@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your electric vehicle charge port will not close after charging"
+seo_title: "Electric vehicle charge port will not close"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "after home charging"
   - "on freeway shoulder"
   - "in charging station bay"
-last_reviewed: "2026-06-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-27"
 ---
 

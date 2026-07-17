@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your trunk or hatch will not close and you need to travel with luggage"
+seo_title: "Trunk or hatch will not close with luggage"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "family trip too much luggage"
   - "boot wont clsoe"
   - "lugage wont fit"
-last_reviewed: "2026-05-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-23"
 ---
 

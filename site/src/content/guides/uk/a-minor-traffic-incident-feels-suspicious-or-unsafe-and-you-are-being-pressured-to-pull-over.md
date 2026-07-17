@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a minor traffic incident feels suspicious or unsafe and you are being pressured to pull over"
+seo_title: "Suspicious traffic incident or feeling unsafe after collision"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "quiet road collision"
   - "trafic incident feels suspicious"
   - "minor colision worry"
-last_reviewed: "2026-05-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-02"
 ---
 

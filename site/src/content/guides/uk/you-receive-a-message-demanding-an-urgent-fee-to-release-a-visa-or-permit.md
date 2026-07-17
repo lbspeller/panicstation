@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a message demanding an urgent fee to release a visa or permit"
+seo_title: "Message demanding urgent visa or permit fee"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "permit releese fee"
   - "visa procesing fee"
   - "travelling with visa worries"
-last_reviewed: "2026-05-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-18"
 ---
 

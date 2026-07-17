@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive an email about a case number that requires urgent action but you cannot verify the sender"
+seo_title: "Suspicious email about a case number"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "after clicking case email"
   - "after paying email fine"
   - "after sharing personal information"
-last_reviewed: "2026-06-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-22"
 ---
 

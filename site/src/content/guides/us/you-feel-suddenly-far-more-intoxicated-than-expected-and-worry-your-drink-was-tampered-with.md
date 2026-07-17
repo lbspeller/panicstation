@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you feel suddenly far more intoxicated than expected and worry your drink was tampered with"
+seo_title: "Suspected drink spiking or sudden unexpected intoxication"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "party drink spiked"
   - "drik spiked worry"
   - "spiked dring concern"
-last_reviewed: "2026-06-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-23"
 ---
 

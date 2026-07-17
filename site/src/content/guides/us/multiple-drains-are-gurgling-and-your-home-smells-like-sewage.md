@@ -1,5 +1,6 @@
 ---
 title: "What to do if… multiple drains are gurgling and your home smells like sewage"
+seo_title: "Multiple drains gurgling and sewage smell in home"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "gurgling drains with septic tank"
   - "sewage smell and gurggling drains"
   - "sewer oder in house"
-last_reviewed: "2026-06-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-03"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to sign a document you do not understand"
+seo_title: "Asked to sign a document you do not understand"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "official paperwork language barrier"
   - "document transalation unclear"
   - "interperter needed for document"
-last_reviewed: "2026-06-08"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-08"
 ---
 

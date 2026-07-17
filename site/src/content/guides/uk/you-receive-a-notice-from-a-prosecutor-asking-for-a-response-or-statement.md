@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a notice from a prosecutor asking for a response or statement"
+seo_title: "Notice from prosecutor asking for response or statement"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "case referred in uk"
   - "proscecutor notice received"
   - "prosecuter letter received"
-last_reviewed: "2026-05-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-18"
 ---
 

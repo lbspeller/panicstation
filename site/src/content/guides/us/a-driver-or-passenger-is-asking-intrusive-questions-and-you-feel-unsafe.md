@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a driver or passenger is asking intrusive questions and you feel unsafe"
+seo_title: "Driver or passenger asking intrusive questions"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "public transit passenger questions"
   - "passanger asking personal questions"
   - "intrussive questions in rideshare"
-last_reviewed: "2026-05-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-30"
 ---
 

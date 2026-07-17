@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone online is pressuring you for explicit photos and demanding secrecy"
+seo_title: "Online pressure for explicit photos and secrecy"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "explicit photos shared online"
   - "sextorion threat"
   - "sextorsion scam"
-last_reviewed: "2026-06-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-05"
 ---
 

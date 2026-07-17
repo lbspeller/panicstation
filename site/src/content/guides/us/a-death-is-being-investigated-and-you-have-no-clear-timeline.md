@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a death is being investigated and you have no clear timeline"
+seo_title: "Death investigation with no clear timeline"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "county process unclear"
   - "autospy results pending"
   - "death certifcate delayed"
-last_reviewed: "2026-06-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-10"
 ---
 

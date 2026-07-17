@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice swelling in your face or hands that develops over a day and your urine output drops"
+seo_title: "Sudden swelling and reduced urine output"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "possible kidney problem swelling"
   - "swolen face and hands"
   - "peeing less then normal"
-last_reviewed: "2026-05-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-16"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have lost your phone and cannot receive verification codes for your accounts"
+seo_title: "Lost phone and no access to verification codes"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "phone missing away from home"
   - "verfication codes unavailable"
   - "authenicator app unavailable"
-last_reviewed: "2026-06-12"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-12"
 ---
 

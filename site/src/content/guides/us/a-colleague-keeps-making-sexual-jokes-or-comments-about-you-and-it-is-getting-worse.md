@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a colleague keeps making sexual jokes or comments about you and it is getting worse"
+seo_title: "Colleague making sexual jokes or comments at work"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "sexual jokes after work events"
   - "sexual harrassment at work"
   - "collegue making sexual comments"
-last_reviewed: "2026-05-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-30"
 ---
 

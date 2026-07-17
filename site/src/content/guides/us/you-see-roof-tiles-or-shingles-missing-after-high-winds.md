@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you see roof tiles or shingles missing after high winds"
+seo_title: "Roof tiles or shingles missing after high winds"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "roof tile damge after wind"
   - "renter roof damage after storm"
   - "homeowner roof damage after storm"
-last_reviewed: "2026-06-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-23"
 ---
 

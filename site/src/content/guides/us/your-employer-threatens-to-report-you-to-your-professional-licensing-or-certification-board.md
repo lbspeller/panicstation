@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your employer threatens to report you to your professional licensing or certification board"
+seo_title: "Employer threatens to report you to licensing board"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "certified professional facing employer complaint"
   - "license bord notification"
   - "certification bord complaint"
-last_reviewed: "2026-06-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-11"
 ---
 

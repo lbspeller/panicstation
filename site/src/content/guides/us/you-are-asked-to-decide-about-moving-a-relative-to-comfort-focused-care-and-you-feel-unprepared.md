@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to decide about moving a relative to comfort-focused care and you feel unprepared"
+seo_title: "Deciding on comfort care for a relative when unprepared"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "relative near end-of-life"
   - "comfort care decison unprepared"
   - "paliative care confusion"
-last_reviewed: "2026-06-07"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-07"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your boarding pass or itinerary disappears from the airline app shortly before your flight"
+seo_title: "Boarding pass or itinerary missing from airline app"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "itenerary missing in app"
   - "domestic flight boarding pass missing"
   - "international flight itinerary missing"
-last_reviewed: "2026-06-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-26"
 ---
 

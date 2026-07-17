@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your banking app shows your account as unverified and blocks your transfers"
+seo_title: "Banking app shows unverified and blocks transfers"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "national bank app issue"
   - "bank app unverifed"
   - "transfer blokced"
-last_reviewed: "2026-05-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-29"
 ---
 

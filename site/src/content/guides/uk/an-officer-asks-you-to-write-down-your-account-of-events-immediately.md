@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an officer asks you to write down your account of events immediately"
+seo_title: "Police ask you to write a statement immediately"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "officer asking immediately"
   - "police statment request"
   - "memory statment police"
-last_reviewed: "2026-04-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-29"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive notice of conditions you must follow before your first court date"
+seo_title: "Conditions of release before your first court date"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "release notice confusion"
   - "before any court date"
   - "after release with conditions"
-last_reviewed: "2026-05-20"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-20"
 ---
 

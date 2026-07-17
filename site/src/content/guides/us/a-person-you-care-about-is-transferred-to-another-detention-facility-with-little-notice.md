@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a person you care about is transferred to another detention facility with little notice"
+seo_title: "Loved one transferred to another detention facility"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -42,7 +43,7 @@ tags:
   - "immigration detention transfer"
   - "detention facillity transfer"
   - "inmate tranfer little notice"
-last_reviewed: "2026-06-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-10"
 ---
 

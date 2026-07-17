@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your employer pressures you to choose a new role or sign documents immediately"
+seo_title: "Employer pressuring you to sign or choose a role"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "pay grade unclear after restructure"
   - "restructering at work"
   - "redudancy meeting pressure"
-last_reviewed: "2026-05-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-25"
 ---
 

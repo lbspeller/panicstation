@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your low-beam headlights stop working and you realise before setting off in the dark"
+seo_title: "Low-beam headlights not working before a night drive"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -34,7 +35,7 @@ tags:
   - "sidelights instead of dipped headlights"
   - "headlites not working at night"
   - "dipped beem not working"
-last_reviewed: "2026-05-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-26"
 ---
 

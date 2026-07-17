@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your manager demands you attend a meeting while you are on medical leave"
+seo_title: "Manager demands meeting while on medical leave"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "return to work meeting early"
   - "sick leave meetng request"
   - "medcial leave meeting"
-last_reviewed: "2026-05-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-26"
 ---
 

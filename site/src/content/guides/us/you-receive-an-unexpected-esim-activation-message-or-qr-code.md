@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive an unexpected eSIM activation message or QR code"
+seo_title: "Unexpected eSIM activation message or QR code"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "number transfer attempt"
   - "esim acivation message"
   - "sim swaping alert"
-last_reviewed: "2026-06-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-22"
 ---
 

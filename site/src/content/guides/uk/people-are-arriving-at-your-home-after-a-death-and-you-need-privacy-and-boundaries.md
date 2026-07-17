@@ -1,5 +1,6 @@
 ---
 title: "What to do if… people are arriving at your home after a death and you need privacy and boundaries"
+seo_title: "Managing visitors and privacy after a death"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "greif visitors at home"
   - "bereavment visitors at home"
   - "home boundaries after sudden death"
-last_reviewed: "2026-04-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-30"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to declare cash or valuables at customs and are unsure what to report"
+seo_title: "Unsure about declaring cash or valuables at customs"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "traveling with shared cash"
   - "cash declaraton confusion"
   - "travlers checks declaration unsure"
-last_reviewed: "2026-06-07"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-07"
 ---
 

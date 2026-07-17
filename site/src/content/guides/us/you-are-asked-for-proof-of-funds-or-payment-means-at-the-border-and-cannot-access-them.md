@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked for proof of funds or payment means at the border and cannot access them"
+seo_title: "Cannot access proof of funds at border"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "paymant means unavailable at border"
   - "visitor visa funds question"
   - "esta traveler funds question"
-last_reviewed: "2026-06-07"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-07"
 ---
 

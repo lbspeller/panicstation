@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an officer asks you to write down your account of events immediately"
+seo_title: "Police ask you to write a statement immediately"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "asked after a stressful event"
   - "asked for writen statement"
   - "asked to write statment now"
-last_reviewed: "2026-06-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-03"
 ---
 

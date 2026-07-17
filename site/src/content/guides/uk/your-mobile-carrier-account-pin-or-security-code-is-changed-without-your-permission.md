@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your mobile carrier account PIN or security code is changed without your permission"
+seo_title: "Mobile carrier account PIN or security code changed"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "uk mobile account fraud"
   - "pay monthly account changed"
   - "esim activated without me"
-last_reviewed: "2026-05-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-26"
 ---
 

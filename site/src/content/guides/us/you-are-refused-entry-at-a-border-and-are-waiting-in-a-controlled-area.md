@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are refused entry at a border and are waiting in a controlled area"
+seo_title: "Refused entry at a border and held in a controlled area"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -34,7 +35,7 @@ tags:
   - "controlled area overseas"
   - "entry refused at immagration"
   - "passport held at imigration"
-last_reviewed: "2026-06-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-29"
 ---
 

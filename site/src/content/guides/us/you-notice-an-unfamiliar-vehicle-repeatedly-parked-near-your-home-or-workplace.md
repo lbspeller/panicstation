@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice an unfamiliar vehicle repeatedly parked near your home or workplace"
+seo_title: "Unfamiliar vehicle repeatedly parked nearby"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "strange car outisde home"
   - "odd hours near home"
   - "odd hours near workplace"
-last_reviewed: "2026-06-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-18"
 ---
 

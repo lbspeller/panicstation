@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a hotel or car rental deposit hold leaves you without enough available balance"
+seo_title: "Hotel or car rental hold blocking available balance"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "holiday money held"
   - "hotel check-in deposit"
   - "car hire return hold"
-last_reviewed: "2026-07-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-11"
 ---
 

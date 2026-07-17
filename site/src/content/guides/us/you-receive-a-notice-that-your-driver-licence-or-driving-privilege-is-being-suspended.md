@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a notice that your driver licence or driving privilege is being suspended"
+seo_title: "Notice of driver licence or driving privilege suspension"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "work requires driving"
   - "dui administrative suspension"
   - "lisence suspension notice"
-last_reviewed: "2026-06-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-23"
 ---
 

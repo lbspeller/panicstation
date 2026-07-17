@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your flight is overbooked and you are being denied boarding"
+seo_title: "Flight overbooked and denied boarding"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "international flight from usa"
   - "airport gate overbooked"
   - "same day travel disrupted"
-last_reviewed: "2026-06-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-29"
 ---
 

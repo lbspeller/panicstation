@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to collect the belongings of someone who has died in a hospital or facility"
+seo_title: "Collecting belongings after a death in a facility"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "care home room clearance"
   - "belongins after death"
   - "hosptial belongings after death"
-last_reviewed: "2026-05-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-03"
 ---
 

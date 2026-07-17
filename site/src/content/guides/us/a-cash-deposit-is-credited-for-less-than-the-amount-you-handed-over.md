@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a cash deposit is credited for less than the amount you handed over"
+seo_title: "Cash deposit credited for less than amount handed over"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "atm cash deposit short after hours"
   - "cash deposit creditted short"
   - "cash depost credited short"
-last_reviewed: "2026-05-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-30"
 ---
 

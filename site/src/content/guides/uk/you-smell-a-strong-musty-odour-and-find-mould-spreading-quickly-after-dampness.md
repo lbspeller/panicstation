@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you smell a strong musty odour and find mould spreading quickly after dampness"
+seo_title: "Strong musty odour and fast-spreading mould"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "mould smel in room"
   - "rented home damp mould"
   - "social rented damp mould"
-last_reviewed: "2026-05-21"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-21"
 ---
 

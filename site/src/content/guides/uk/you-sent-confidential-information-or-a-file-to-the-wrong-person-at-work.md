@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you sent confidential information or a file to the wrong person at work"
+seo_title: "Sent confidential work information to wrong person"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "confidencial information sent wrong"
   - "workplace confidential email mistake"
   - "remote work wrong recipient"
-last_reviewed: "2026-05-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-17"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are suddenly excluded from key meetings and decisions at work"
+seo_title: "Suddenly excluded from work meetings and decisions"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "after raising a concern"
   - "key meetngs missing"
   - "decisons made without me"
-last_reviewed: "2026-05-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-05"
 ---
 

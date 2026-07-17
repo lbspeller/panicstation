@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a suspicious or unexpected death notification"
+seo_title: "Suspicious or unexpected death notification"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "identity theft after death claim"
   - "furneral scam"
   - "identy theft death notice"
-last_reviewed: "2026-06-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-24"
 ---
 

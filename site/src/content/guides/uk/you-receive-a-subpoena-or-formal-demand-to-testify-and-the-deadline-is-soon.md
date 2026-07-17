@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a subpoena or formal demand to testify and the deadline is soon"
+seo_title: "Subpoena or formal demand to testify with urgent deadline"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "witness summons or subpoena"
   - "civil witness summons"
   - "criminal witness summons"
-last_reviewed: "2026-05-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-19"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are unsure which platform, stop, or bay to use because service updates conflict"
+seo_title: "Conflicting platform, stop, or bay information"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "at a busy station"
   - "at a bus station"
   - "with rail replacement buses"
-last_reviewed: "2026-04-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-30"
 ---
 

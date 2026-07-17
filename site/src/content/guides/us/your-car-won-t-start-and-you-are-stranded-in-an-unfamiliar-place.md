@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your car won’t start and you are stranded in an unfamiliar place"
+seo_title: "Car won't start in an unfamiliar place"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "alone in unfamiliar parking lot"
   - "children in stranded car"
   - "extreme weather car stranded"
-last_reviewed: "2026-06-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-27"
 ---
 

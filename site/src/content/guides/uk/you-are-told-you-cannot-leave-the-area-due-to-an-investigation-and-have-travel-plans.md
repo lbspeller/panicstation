@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are told you cannot leave the area due to an investigation and have travel plans"
+seo_title: "Travel restrictions during an investigation"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "pre-charge bail travel"
   - "travle plans under investigation"
   - "bail conditons travel"
-last_reviewed: "2026-05-07"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-07"
 ---
 

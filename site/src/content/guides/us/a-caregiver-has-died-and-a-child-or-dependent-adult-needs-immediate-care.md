@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a caregiver has died and a child or dependent adult needs immediate care"
+seo_title: "Caregiver died and dependent needs immediate care"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "not sure who can pickup"
   - "temporary care confusion"
   - "tonight after caregiver death"
-last_reviewed: "2026-06-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-16"
 ---
 

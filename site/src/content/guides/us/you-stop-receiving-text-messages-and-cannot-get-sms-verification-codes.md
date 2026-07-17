@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you stop receiving text messages and cannot get SMS verification codes"
+seo_title: "Not receiving text messages or verification codes"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "carrier text problem"
   - "verfication code missing"
   - "messeges not arriving"
-last_reviewed: "2026-06-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-24"
 ---
 

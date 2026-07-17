@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone online is pressuring you for explicit photos and demanding secrecy"
+seo_title: "Online pressure for explicit photos and secrecy"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "adult intimate image threat"
   - "school online blackmail fear"
   - "workplace leak threat"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-01"
 ---
 

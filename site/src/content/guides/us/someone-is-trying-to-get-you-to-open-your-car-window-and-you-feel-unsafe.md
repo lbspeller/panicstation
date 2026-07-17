@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone is trying to get you to open your car window and you feel unsafe"
+seo_title: "Someone trying to get you to open your car window"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -33,7 +34,7 @@ tags:
   - "boxed in at intersection"
   - "followed then approached in car"
   - "scared to open car window"
-last_reviewed: "2026-06-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-05"
 ---
 

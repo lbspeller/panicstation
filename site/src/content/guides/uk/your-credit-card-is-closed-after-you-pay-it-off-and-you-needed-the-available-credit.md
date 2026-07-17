@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your credit card is closed after you pay it off and you needed the available credit"
+seo_title: "Credit card closed unexpectedly after payoff"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "credit card payed off closed"
   - "credit card payed and closed"
   - "urgent spending without credit card"
-last_reviewed: "2026-05-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-24"
 ---
 

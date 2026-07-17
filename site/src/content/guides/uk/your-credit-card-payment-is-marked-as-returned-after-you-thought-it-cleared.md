@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your credit card payment is marked as returned after you thought it cleared"
+seo_title: "Credit card payment marked as returned"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "credit card paymant returned"
   - "credut card payment bounced"
   - "payment returned near due date"
-last_reviewed: "2026-05-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-24"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… police contact you and ask for your side of the story"
+seo_title: "Police contact asking for your side of the story"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "police at my door asking questions"
   - "police asked me to come in"
   - "reported for something by someone"
-last_reviewed: "2026-06-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-04"
 ---
 

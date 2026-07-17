@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your user profile loads blank and your desktop files appear to be missing"
+seo_title: "User profile blank and desktop files missing"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "files moved not deleted"
   - "after windows update"
   - "after computer restart"
-last_reviewed: "2026-05-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-28"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone is trying to isolate you or make you feel unsafe during a night out"
+seo_title: "Feeling unsafe or isolated during a night out"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -43,7 +44,7 @@ tags:
   - "stranger at bar feels unsafe"
   - "freinds missing during night out"
   - "seperated from friends at bar"
-last_reviewed: "2026-06-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-05"
 ---
 

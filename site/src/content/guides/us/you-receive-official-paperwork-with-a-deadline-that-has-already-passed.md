@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive official paperwork with a deadline that has already passed"
+seo_title: "Official paperwork received after deadline passed"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "agency notice arrived late"
   - "offical paperwork arrived late"
   - "responce date passed"
-last_reviewed: "2026-06-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-23"
 ---
 

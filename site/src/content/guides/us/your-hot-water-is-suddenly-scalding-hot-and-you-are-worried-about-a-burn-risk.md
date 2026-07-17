@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your hot water is suddenly scalding hot and you are worried about a burn risk"
+seo_title: "Hot water suddenly scalding and burn risk"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "electric water heater concern"
   - "boilling hot tap water"
   - "scaldng hot water"
-last_reviewed: "2026-06-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-30"
 ---
 

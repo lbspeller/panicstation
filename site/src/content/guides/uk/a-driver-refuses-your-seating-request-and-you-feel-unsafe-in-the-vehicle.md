@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a driver refuses your seating request and you feel unsafe in the vehicle"
+seo_title: "Driver refuses seating request and you feel unsafe"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "late night taxi unease"
   - "private hire boundary worry"
   - "vehicle passenger safety worry"
-last_reviewed: "2026-04-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-25"
 ---
 

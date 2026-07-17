@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a toilet keeps refilling or overflowing and you cannot stop it"
+seo_title: "Toilet keeps refilling or overflowing"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "toilet overflwoing"
   - "toilet refiling"
   - "cannot stop toilet water"
-last_reviewed: "2026-06-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-02"
 ---
 

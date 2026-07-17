@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you keep receiving unwanted explicit images and the sender will not stop"
+seo_title: "Receiving unwanted explicit images repeatedly"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "coworker explicit images"
   - "unwanted nude fotos"
   - "unsolicited dick pics"
-last_reviewed: "2026-06-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-16"
 ---
 

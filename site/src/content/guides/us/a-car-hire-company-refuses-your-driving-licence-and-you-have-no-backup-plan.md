@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a car hire company refuses your driving licence and you have no backup plan"
+seo_title: "Car hire company refuses your driving licence"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "solo traveler no car"
   - "airport arrival no transport"
   - "holiday depends on car hire"
-last_reviewed: "2026-05-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-29"
 ---
 

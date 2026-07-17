@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked for biometric information at a border or for travel and feel unprepared"
+seo_title: "Unexpected biometric request at a border or travel"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "schengen entry biometrics"
   - "biometics information for entry"
   - "fingerpritns for entry"
-last_reviewed: "2026-05-07"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-07"
 ---
 

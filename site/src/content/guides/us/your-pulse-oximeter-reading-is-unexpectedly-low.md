@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your pulse oximeter reading is unexpectedly low"
+seo_title: "Pulse oximeter reading is unexpectedly low"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "darker skin oximeter accuracy"
   - "copd baseline oxygen"
   - "home oxygen low reading"
-last_reviewed: "2026-07-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-03"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your stools turn very pale while your urine becomes very dark"
+seo_title: "Pale stools and dark urine"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "urine color suddenly changed"
   - "pale stols dark urine"
   - "dark urin pale stool"
-last_reviewed: "2026-07-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-04"
 ---
 

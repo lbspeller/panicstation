@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your travel booking was changed to a different departure time without your consent"
+seo_title: "Travel booking changed without your consent"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "rebooking or voluntary change"
   - "rebookd without consent"
   - "departue time changed"
-last_reviewed: "2026-06-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-09"
 ---
 

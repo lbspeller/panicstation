@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your private nude photos or videos are being shared online without your consent"
+seo_title: "Private nude photos or videos shared online without consent"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "nude photo blackmail"
   - "nud photos posted online"
   - "privte photos leaked online"
-last_reviewed: "2026-05-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-11"
 ---
 

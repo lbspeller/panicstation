@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you think you were filmed or photographed in a sexual situation without your consent"
+seo_title: "Filmed or photographed in a sexual situation without consent"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "uk intimate image abuse"
   - "under 18 intimate image"
   - "online sexual blackmail"
-last_reviewed: "2026-05-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-22"
 ---
 

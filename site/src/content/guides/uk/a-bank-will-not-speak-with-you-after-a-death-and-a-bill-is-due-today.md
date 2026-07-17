@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a bank will not speak with you after a death and a bill is due today"
+seo_title: "Bank will not speak after death and bill is due"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "standing order after death"
   - "bereavment banking"
   - "probate dely"
-last_reviewed: "2026-04-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-24"
 ---
 

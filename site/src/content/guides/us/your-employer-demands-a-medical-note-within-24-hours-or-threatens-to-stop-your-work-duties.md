@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your employer demands a medical note within 24 hours or threatens to stop your work duties"
+seo_title: "Employer demands medical note within 24 hours"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "pregnancy limitation medical note"
   - "docter note due tomorrow"
   - "medcal note due tomorrow"
-last_reviewed: "2026-06-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-11"
 ---
 

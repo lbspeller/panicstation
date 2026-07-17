@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a cheque you deposited is returned unpaid and your balance drops"
+seo_title: "Deposited cheque returned unpaid and balance dropped"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "returned check after job offer"
   - "depositted check reversed"
   - "bounced chek deposit"
-last_reviewed: "2026-05-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-30"
 ---
 

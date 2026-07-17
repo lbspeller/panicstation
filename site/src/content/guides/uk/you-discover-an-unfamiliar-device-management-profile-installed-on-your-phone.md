@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you discover an unfamiliar device management profile installed on your phone"
+seo_title: "Unfamiliar device management profile on your phone"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "phone profile scam"
   - "device managment profile"
   - "unkown phone profile"
-last_reviewed: "2026-05-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-10"
 ---
 

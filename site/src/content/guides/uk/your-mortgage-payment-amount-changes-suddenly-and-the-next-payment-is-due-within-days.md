@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your mortgage payment amount changes suddenly and the next payment is due within days"
+seo_title: "Mortgage payment changed suddenly before due date"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "direct debit notice confusion"
   - "mortage payment changed"
   - "mortgage paymant changed"
-last_reviewed: "2026-05-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-26"
 ---
 

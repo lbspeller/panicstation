@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your work email is being deleted and you need to save important records"
+seo_title: "Work email access ending and saving important records"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "outlook account being removed"
   - "work emial deleted soon"
   - "mailox deleted at work"
-last_reviewed: "2026-05-08"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-08"
 ---
 

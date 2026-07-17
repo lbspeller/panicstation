@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a therapist, counsellor, or support worker sends you sexual or inappropriate messages"
+seo_title: "Therapist or support worker sends inappropriate messages"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "counsellor innapropriate messages"
   - "private therapist messages"
   - "online counselling messages"
-last_reviewed: "2026-04-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-28"
 ---
 

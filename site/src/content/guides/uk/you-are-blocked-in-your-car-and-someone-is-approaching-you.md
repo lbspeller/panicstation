@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are blocked in your car and someone is approaching you"
+seo_title: "Blocked in your car and someone is approaching"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "carpark confrontation"
   - "night car park danger"
   - "alone in a car park"
-last_reviewed: "2026-05-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-04"
 ---
 

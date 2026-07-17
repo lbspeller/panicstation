@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone keeps appearing where you go and making unwanted sexual comments"
+seo_title: "Someone appearing and making unwanted sexual comments"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "sexual harrasment in public"
   - "happening near my workplace"
   - "happening near my school"
-last_reviewed: "2026-06-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-05"
 ---
 

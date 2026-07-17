@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your employer changes your resignation notice period after you have handed it in"
+seo_title: "Employer changed your resignation notice period"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "resignaton notice dispute"
   - "uk employment notice dispute"
   - "leaving job notice problem"
-last_reviewed: "2026-05-08"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-08"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your cloud account shows a warning about permanent deletion or a verification issue"
+seo_title: "Cloud account deletion or verification warning"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "personal cloud storage"
   - "family photos in cloud"
   - "work files in cloud"
-last_reviewed: "2026-05-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-24"
 ---
 

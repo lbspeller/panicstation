@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone slips a note under your hotel door pressuring you to open it or call a number"
+seo_title: "Urgent note slipped under your hotel door"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "alone in hotel room"
   - "travelling alone in hotel"
   - "hotel note says imediately"
-last_reviewed: "2026-05-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-02"
 ---
 

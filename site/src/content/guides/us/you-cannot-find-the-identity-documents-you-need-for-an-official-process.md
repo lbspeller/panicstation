@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you cannot find the identity documents you need for an official process"
+seo_title: "Missing identity documents for an official process"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "documents may be stolen"
   - "identiy verification failed"
   - "birth certifcate missing"
-last_reviewed: "2026-06-08"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-08"
 ---
 

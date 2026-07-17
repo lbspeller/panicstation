@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are pressured to work off the clock or without pay"
+seo_title: "Pressured to work off the clock or without pay"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "salaried worker unpaid overtime"
   - "unpaid overime pressure"
   - "unpayed overtime hours"
-last_reviewed: "2026-05-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-05"
 ---
 

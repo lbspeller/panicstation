@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you hear someone outside calling your name when you are home alone"
+seo_title: "Someone outside calling your name while home alone"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "apartment hallway stranger"
   - "stranger outisde calling name"
   - "someon calling my name"
-last_reviewed: "2026-06-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-16"
 ---
 

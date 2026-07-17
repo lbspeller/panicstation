@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are trapped at a parking exit because the barrier or gate will not open"
+seo_title: "Trapped at a parking exit with stuck barrier"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "airport car park barrier stuck"
   - "carpark barrier stuck"
   - "car park barrrier stuck"
-last_reviewed: "2026-05-08"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-08"
 ---
 

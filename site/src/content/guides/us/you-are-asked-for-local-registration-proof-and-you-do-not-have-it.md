@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked for local registration proof and you do not have it"
+seo_title: "Asked for local registration proof you do not have"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "registration confirmation missing after check-in"
   - "registraton proof missing"
   - "registation confirmation missing"
-last_reviewed: "2026-06-08"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-08"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a gas appliance keeps going out and you suspect a leak or unsafe ventilation"
+seo_title: "Gas appliance keeps going out or smells unsafe"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "furnance keeps shutting off"
   - "ventillation may be unsafe"
   - "unsafe gas supply suspected"
-last_reviewed: "2026-05-31"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-31"
 ---
 

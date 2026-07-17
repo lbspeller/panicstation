@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an investigator shows up at your workplace asking questions about you"
+seo_title: "Investigator asking questions at your workplace"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "police questions at wok"
   - "at work and overwhelmed"
   - "during work hours"
-last_reviewed: "2026-04-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-29"
 ---
 

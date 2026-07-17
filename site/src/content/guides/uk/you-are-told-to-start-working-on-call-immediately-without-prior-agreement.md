@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are told to start working on-call immediately without prior agreement"
+seo_title: "Told to start on-call work immediately"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "it worker on-call duty"
   - "night on-call shift"
   - "last minute standby cover"
-last_reviewed: "2026-05-07"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-07"
 ---
 

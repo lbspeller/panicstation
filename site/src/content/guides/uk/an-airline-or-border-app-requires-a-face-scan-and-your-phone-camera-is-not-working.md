@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an airline or border app requires a face scan and your phone camera is not working"
+seo_title: "Travel app face scan fails due to broken camera"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "uk immigration id check problem"
   - "camra not working"
   - "passprt app problem"
-last_reviewed: "2026-04-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-29"
 ---
 

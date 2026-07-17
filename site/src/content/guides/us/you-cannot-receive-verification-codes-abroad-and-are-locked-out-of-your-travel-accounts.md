@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you cannot receive verification codes abroad and are locked out of your travel accounts"
+seo_title: "Locked out of travel accounts while abroad"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "passport account access problem abroad"
   - "verfication codes not arriving abroad"
   - "roaaming sms codes not arriving"
-last_reviewed: "2026-06-12"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-12"
 ---
 

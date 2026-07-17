@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your online banking login stops working and you suspect a lockout or account takeover"
+seo_title: "Online banking login not working or account takeover"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "money missing from account"
   - "bank loggin problem"
   - "bank acount hacked"
-last_reviewed: "2026-05-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-26"
 ---
 

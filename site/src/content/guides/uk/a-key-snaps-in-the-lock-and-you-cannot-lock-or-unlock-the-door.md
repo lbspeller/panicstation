@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a key snaps in the lock and you cannot lock or unlock the door"
+seo_title: "Key snapped in lock and door will not open"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -42,7 +43,7 @@ tags:
   - "managed building broken key"
   - "key snaped in lock"
   - "key stuck in lok"
-last_reviewed: "2026-04-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-26"
 ---
 

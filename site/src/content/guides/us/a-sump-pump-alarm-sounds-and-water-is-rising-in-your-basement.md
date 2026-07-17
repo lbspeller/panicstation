@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a sump pump alarm sounds and water is rising in your basement"
+seo_title: "Sump pump alarm sounding and basement water rising"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "basement leak or flooding"
   - "sump pum alarm sounding"
   - "basment water rising"
-last_reviewed: "2026-06-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-02"
 ---
 

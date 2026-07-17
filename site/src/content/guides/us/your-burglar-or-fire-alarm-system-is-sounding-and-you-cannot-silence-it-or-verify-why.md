@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your burglar or fire alarm system is sounding and you cannot silence it or verify why"
+seo_title: "Alarm sounding and cannot silence or verify cause"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "neighbor alarm sounding"
   - "power outage alarm sounding"
   - "burglar alarm wont silence"
-last_reviewed: "2026-06-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-26"
 ---
 

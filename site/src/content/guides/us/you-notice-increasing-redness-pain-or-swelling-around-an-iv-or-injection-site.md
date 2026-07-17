@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice increasing redness, pain, or swelling around an IV or injection site"
+seo_title: "Increasing redness, pain, or swelling at IV site"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -42,7 +43,7 @@ tags:
   - "port site redness"
   - "iv site swolen"
   - "iv site reddness"
-last_reviewed: "2026-06-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-18"
 ---
 

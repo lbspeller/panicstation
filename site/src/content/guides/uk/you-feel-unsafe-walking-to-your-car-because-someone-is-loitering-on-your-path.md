@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you feel unsafe walking to your car because someone is loitering on your path"
+seo_title: "Unsafe walking to car due to someone loitering"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "loitering or waiting"
   - "wierd person near car"
   - "suspicous person near car"
-last_reviewed: "2026-05-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-11"
 ---
 

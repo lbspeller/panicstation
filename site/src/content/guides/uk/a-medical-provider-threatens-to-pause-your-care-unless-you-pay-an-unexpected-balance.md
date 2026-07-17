@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a medical provider threatens to pause your care unless you pay an unexpected balance"
+seo_title: "Medical provider threatens to pause care over unpaid balance"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "scam call or real bill"
   - "private clinic payment pressure"
   - "overseas visitor payment pressure"
-last_reviewed: "2026-04-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-27"
 ---
 

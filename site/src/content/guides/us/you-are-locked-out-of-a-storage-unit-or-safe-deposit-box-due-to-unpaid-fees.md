@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are locked out of a storage unit or safe deposit box due to unpaid fees"
+seo_title: "Locked out of storage unit or safe deposit box"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "safe deposite box locked"
   - "out of state storage unit"
   - "joint safe deposit box access"
-last_reviewed: "2026-06-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-09"
 ---
 

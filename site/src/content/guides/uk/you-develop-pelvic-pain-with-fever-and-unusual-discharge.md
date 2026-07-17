@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you develop pelvic pain with fever and unusual discharge"
+seo_title: "Pelvic pain with fever and unusual discharge"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "coil pelvic pain fever"
   - "new partner pelvic pain"
   - "recent procedure pelvic pain"
-last_reviewed: "2026-05-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-09"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to attend a formal interview as a witness and fear you could self-incriminate"
+seo_title: "Asked to be a witness but fear self-incrimination"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "formal intervew request"
   - "self incrimnate fear"
   - "uk formal interview request"
-last_reviewed: "2026-05-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-18"
 ---
 

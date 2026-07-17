@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to send passport or ID scans over an insecure channel urgently"
+seo_title: "Urgent request to send passport or ID scans insecurely"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "id scan request new job"
   - "passport scan requst"
   - "id scan requesst"
-last_reviewed: "2026-06-08"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-08"
 ---
 

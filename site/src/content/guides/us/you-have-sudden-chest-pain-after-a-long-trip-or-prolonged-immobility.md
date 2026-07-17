@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have sudden chest pain after a long trip or prolonged immobility"
+seo_title: "Sudden chest pain after travel or immobility"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "reflux or chest pain"
   - "chest pan after travel"
   - "truble breathing after flight"
-last_reviewed: "2026-06-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-16"
 ---
 

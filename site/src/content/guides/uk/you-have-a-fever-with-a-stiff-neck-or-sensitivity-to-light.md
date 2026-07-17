@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have a fever with a stiff neck or sensitivity to light"
+seo_title: "Fever with stiff neck or sensitivity to light"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "viral fever or meningitis"
   - "stif neck with fever"
   - "feaver and stiff neck"
-last_reviewed: "2026-05-12"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-12"
 ---
 

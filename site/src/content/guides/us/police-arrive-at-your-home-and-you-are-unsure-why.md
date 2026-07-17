@@ -1,5 +1,6 @@
 ---
 title: "What to do if… police arrive at your home and you are unsure why"
+seo_title: "Police at your door and you are unsure why"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "ice agents at my door"
   - "police warrent at my door"
   - "officers asking to speek"
-last_reviewed: "2026-06-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-04"
 ---
 

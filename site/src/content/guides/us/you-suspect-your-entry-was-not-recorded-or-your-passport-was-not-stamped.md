@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you suspect your entry was not recorded or your passport was not stamped"
+seo_title: "Missing passport stamp or entry record"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "before leaving usa"
   - "pasport not stamped"
   - "i94 not found"
-last_reviewed: "2026-06-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-25"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you hear water running inside walls when no taps or appliances are on"
+seo_title: "Hearing water running inside walls with no taps on"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "night time water noise"
   - "watter running in wall"
   - "waer running in wall"
-last_reviewed: "2026-05-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-13"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are in a rideshare or taxi and the route changes in a way that worries you"
+seo_title: "Worried about your taxi or rideshare route"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "rural road in taxi"
   - "rideshare rout changed"
   - "taxi detor worries me"
-last_reviewed: "2026-06-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-09"
 ---
 

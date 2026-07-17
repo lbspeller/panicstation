@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your low-beam headlights stop working and you realise before setting off in the dark"
+seo_title: "Low-beam headlights not working before a night drive"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "parked before night trip"
   - "leaving after sunset"
   - "public road in darkness"
-last_reviewed: "2026-06-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-30"
 ---
 

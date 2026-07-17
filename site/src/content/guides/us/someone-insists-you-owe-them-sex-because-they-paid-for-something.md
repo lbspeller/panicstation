@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone insists you owe them sex because they paid for something"
+seo_title: "Someone insists you owe them sex after payment"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "rideshare after unsafe date"
   - "coersion for sex"
   - "presured into sex"
-last_reviewed: "2026-06-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-05"
 ---
 

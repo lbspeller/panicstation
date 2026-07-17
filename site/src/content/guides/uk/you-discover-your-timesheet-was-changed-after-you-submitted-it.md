@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you discover your timesheet was changed after you submitted it"
+seo_title: "Timesheet changed after submission"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "hours dispute at work"
   - "timeshet changed after submission"
   - "timecard alltered after submission"
-last_reviewed: "2026-05-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-10"
 ---
 

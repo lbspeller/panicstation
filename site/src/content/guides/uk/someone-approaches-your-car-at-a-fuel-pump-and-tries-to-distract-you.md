@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone approaches your car at a fuel pump and tries to distract you"
+seo_title: "Someone approaches your car at a fuel pump"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "petrol staion distraction"
   - "fuel pum distraction"
   - "late night fuel stop"
-last_reviewed: "2026-04-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-30"
 ---
 

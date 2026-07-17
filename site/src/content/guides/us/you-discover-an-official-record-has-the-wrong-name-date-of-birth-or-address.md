@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you discover an official record has the wrong name, date of birth, or address"
+seo_title: "Official record has wrong name, date, or address"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "urgent official record mistake"
   - "record error before deadline"
   - "wrong record before court"
-last_reviewed: "2026-06-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-13"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… water starts leaking from your refrigerator or freezer and you cannot find the source"
+seo_title: "Refrigerator or freezer leaking water"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "freezer leeking water"
   - "leak after moving fridge"
   - "leak after power cut"
-last_reviewed: "2026-05-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-02"
 ---
 

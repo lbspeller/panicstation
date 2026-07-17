@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a staffing agency changes your assignment end date with little explanation"
+seo_title: "Staffing agency changed your assignment end date"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "remote temp assignment ending"
   - "staffing agancy changed end date"
   - "assignement end date changed"
-last_reviewed: "2026-06-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-02"
 ---
 

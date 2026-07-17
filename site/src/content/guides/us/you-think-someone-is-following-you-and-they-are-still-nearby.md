@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you think someone is following you and they are still nearby"
+seo_title: "Someone is following you and is nearby"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "without a safe ride"
   - "someone is folowing me"
   - "help i am being folowed"
-last_reviewed: "2026-06-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-18"
 ---
 

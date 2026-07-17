@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you smell a strong fuel or solvent odour in a garage or utility area and cannot identify the source"
+seo_title: "Strong fuel or solvent smell in garage or utility area"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "solvent oder in garage"
   - "attached garage fuel smell"
   - "stored fuel cans smell"
-last_reviewed: "2026-06-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-23"
 ---
 

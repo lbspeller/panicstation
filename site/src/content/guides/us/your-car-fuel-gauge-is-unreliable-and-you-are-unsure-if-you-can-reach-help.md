@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your car fuel gauge is unreliable and you are unsure if you can reach help"
+seo_title: "Unreliable fuel gauge and unsure you can reach help"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "parked somewhere safe"
   - "far from gas station"
   - "unsure can reach help"
-last_reviewed: "2026-06-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-27"
 ---
 

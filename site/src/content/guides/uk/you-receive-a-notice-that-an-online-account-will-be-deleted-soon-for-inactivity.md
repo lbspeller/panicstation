@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a notice that an online account will be deleted soon for inactivity"
+seo_title: "Online account deletion notice for inactivity"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "work or school account warning"
   - "photos messages contacts at risk"
   - "receipts licences purchases at risk"
-last_reviewed: "2026-05-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-18"
 ---
 

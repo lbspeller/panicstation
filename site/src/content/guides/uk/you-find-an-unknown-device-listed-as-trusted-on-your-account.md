@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you find an unknown device listed as trusted on your account"
+seo_title: "Unknown device listed as trusted on your account"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "credential reuse warning"
   - "unkown trusted device"
   - "acount hacked warning"
-last_reviewed: "2026-05-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-11"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your electronic travel authorisation is still pending and your departure is within 24 hours"
+seo_title: "Electronic travel authorisation pending before departure"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "eta under review"
   - "travel authorisation pendng"
   - "autorisation pending"
-last_reviewed: "2026-05-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-25"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your bank account is overdrawn and you have multiple payments scheduled in the next 48 hours"
+seo_title: "Bank account overdrawn with payments due soon"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "overdraft or nsf"
   - "overdrawn chekcing account"
   - "overdrawn acount"
-last_reviewed: "2026-06-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-25"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your key fob stops working and you cannot unlock or start your vehicle"
+seo_title: "Key fob not working and cannot unlock or start car"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "spare key not available"
   - "alone in parking lot"
   - "rental car key fob dead"
-last_reviewed: "2026-06-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-30"
 ---
 

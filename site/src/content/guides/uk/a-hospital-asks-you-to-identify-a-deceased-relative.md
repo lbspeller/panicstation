@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a hospital asks you to identify a deceased relative"
+seo_title: "Hospital request to identify a deceased relative"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "death before registration"
   - "hospitial says identify relative"
   - "deceased releative at hospital"
-last_reviewed: "2026-04-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-26"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your steering suddenly feels much heavier and you have pulled over safely to assess it"
+seo_title: "Steering suddenly feels heavy while driving"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "heavy steering at night"
   - "heavy steering in traffic"
   - "pulled over with steering problem"
-last_reviewed: "2026-07-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-04"
 ---
 

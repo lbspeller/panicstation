@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you suspect someone copied your passport details and you are worried about misuse while abroad"
+seo_title: "Passport details copied while abroad"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "border trouble worry abroad"
   - "pasport details copied"
   - "passport details coppied"
-last_reviewed: "2026-06-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-24"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your hood release is stuck and you have a dashboard warning light"
+seo_title: "Hood release stuck with dashboard warning light"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "highway breakdown at night"
   - "freeway shoulder breakdown"
   - "warning after overheating"
-last_reviewed: "2026-06-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-26"
 ---
 

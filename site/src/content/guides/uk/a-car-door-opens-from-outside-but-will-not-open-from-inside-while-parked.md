@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a car door opens from outside but will not open from inside while parked"
+seo_title: "Car door opens from outside but not from inside"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "passenger cannot get out"
   - "child cannot open car door"
   - "older person stuck in car"
-last_reviewed: "2026-04-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-25"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you suddenly lose hearing in one ear or your hearing drops sharply"
+seo_title: "Sudden hearing loss in one ear"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "sudden hearing loss after shower"
   - "sudden hearing loss after illness"
   - "sudden hearing loss after flying"
-last_reviewed: "2026-05-21"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-21"
 ---
 

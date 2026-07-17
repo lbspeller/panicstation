@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a group leader or organiser sends you unwanted sexual messages"
+seo_title: "Group leader or organiser sends unwanted sexual messages"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "online community organizer messages"
   - "organizer sexualizes involvment"
   - "comunity leader sexual messages"
-last_reviewed: "2026-05-31"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-31"
 ---
 

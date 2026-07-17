@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you think a car is following you while you are driving"
+seo_title: "Think a car is following you while driving"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "car behnd me"
   - "leaving work being followed"
   - "night driving being followed"
-last_reviewed: "2026-06-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-19"
 ---
 

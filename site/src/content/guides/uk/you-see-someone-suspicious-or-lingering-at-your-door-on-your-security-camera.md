@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you see someone suspicious or lingering at your door on your security camera"
+seo_title: "Suspicious person or loiterer on security camera"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "home alone door alert"
   - "flat door suspicious person"
   - "shared building door alert"
-last_reviewed: "2026-05-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-16"
 ---
 

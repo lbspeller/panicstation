@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are named as executor in a will but you cannot find the original document"
+seo_title: "Executor named in will but original document missing"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "probate with copy will"
   - "england and wales probate"
   - "family cannot find will"
-last_reviewed: "2026-05-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-05"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your car keeps stalling at idle and you are stopped somewhere safe"
+seo_title: "Car keeps stalling at idle while stopped"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "safe lay-by breakdown"
   - "motorway hard shoulder stalling"
   - "car keeps stallling"
-last_reviewed: "2026-05-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-23"
 ---
 

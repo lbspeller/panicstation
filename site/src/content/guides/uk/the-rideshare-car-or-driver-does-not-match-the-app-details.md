@@ -1,5 +1,6 @@
 ---
 title: "What to do if… the rideshare car or driver does not match the app details"
+seo_title: "Rideshare car or driver does not match app details"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "licence plate missmatch"
   - "rideshare pic mismatch"
   - "late night pickup"
-last_reviewed: "2026-04-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-28"
 ---
 

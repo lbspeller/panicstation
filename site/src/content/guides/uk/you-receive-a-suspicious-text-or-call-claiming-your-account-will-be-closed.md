@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a suspicious text or call claiming your account will be closed"
+seo_title: "Suspicious text or call about account closure"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "bank acount closure scam"
   - "uk bank scam message"
   - "mobile banking scam call"
-last_reviewed: "2026-05-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-17"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your washing machine is leaking and water is spreading across the floor"
+seo_title: "Washing machine leaking and water spreading"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "washing mashine leaking"
   - "washer is leeking"
   - "washer leak in apartment"
-last_reviewed: "2026-07-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-04"
 ---
 

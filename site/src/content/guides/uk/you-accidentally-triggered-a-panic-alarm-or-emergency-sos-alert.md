@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you accidentally triggered a panic alarm or emergency SOS alert"
+seo_title: "Accidentally triggered panic alarm or SOS alert"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "workplace panic alarm"
   - "panick alarm mistake"
   - "emergancy call mistake"
-last_reviewed: "2026-05-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-03"
 ---
 

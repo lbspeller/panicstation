@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your windows are fogging up and indoor dampness and mould are appearing"
+seo_title: "Indoor dampness, mould, and foggy windows"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "rental home damp mould"
   - "cold weather condensation"
   - "humid room mould"
-last_reviewed: "2026-05-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-29"
 ---
 

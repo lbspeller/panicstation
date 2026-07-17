@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you report bullying and are immediately moved teams or taken off duties without explanation"
+seo_title: "Moved teams or duties after reporting bullying"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "union employee reassigned"
   - "buling report at work"
   - "bullyng report at work"
-last_reviewed: "2026-06-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-23"
 ---
 

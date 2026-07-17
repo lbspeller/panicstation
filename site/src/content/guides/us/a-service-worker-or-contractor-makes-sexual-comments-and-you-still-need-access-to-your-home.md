@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a service worker or contractor makes sexual comments and you still need access to your home"
+seo_title: "Service worker or contractor makes sexual comments"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "sexual comments when living alone"
   - "maintenence worker sexual comments"
   - "handyman innapropriate comments"
-last_reviewed: "2026-06-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-06"
 ---
 

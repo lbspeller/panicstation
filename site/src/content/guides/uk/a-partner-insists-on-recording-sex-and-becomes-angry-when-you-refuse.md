@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a partner insists on recording sex and becomes angry when you refuse"
+seo_title: "Partner insists on recording sex and gets angry"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "recording sex without concent"
   - "partner wants a sex vidio"
   - "uk partner recording sex"
-last_reviewed: "2026-04-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-27"
 ---
 

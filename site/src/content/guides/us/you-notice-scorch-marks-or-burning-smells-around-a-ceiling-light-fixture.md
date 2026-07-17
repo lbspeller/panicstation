@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice scorch marks or burning smells around a ceiling light fixture"
+seo_title: "Scorch marks or burning smell near ceiling light"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "apartment light fixture burn"
   - "house ceiling light scorched"
   - "new bulb burn marks"
-last_reviewed: "2026-06-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-18"
 ---
 

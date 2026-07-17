@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you suspect someone is waiting for you in a hallway, stairwell, or entry area"
+seo_title: "Suspecting someone is waiting in your building entrance"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "hall way feels unsafe"
   - "stairwel feels unsafe"
   - "shared building entry area"
-last_reviewed: "2026-05-21"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-21"
 ---
 

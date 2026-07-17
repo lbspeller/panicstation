@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you see app subscriptions or in-app purchases you did not start"
+seo_title: "Unrecognised app subscriptions or purchases"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "mobile bill app charges"
   - "unauthorised app subsciption"
   - "unrecognised app purchaes"
-last_reviewed: "2026-05-20"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-20"
 ---
 

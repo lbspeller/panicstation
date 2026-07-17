@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a message containing your location that you did not share"
+seo_title: "Message received with your location included"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "shared map location still on"
   - "after posting a photo online"
   - "from an unknown number"
-last_reviewed: "2026-05-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-11"
 ---
 

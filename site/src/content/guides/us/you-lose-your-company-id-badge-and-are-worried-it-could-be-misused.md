@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you lose your company ID badge and are worried it could be misused"
+seo_title: "Lost company ID badge and security concerns"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "lost smart card badge"
   - "id bage lost"
   - "work badg missing"
-last_reviewed: "2026-06-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-17"
 ---
 

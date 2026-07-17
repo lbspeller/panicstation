@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your windshield or windscreen has cracked while you are driving"
+seo_title: "Windshield or windscreen cracked while driving"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "safe to drive cracked windshield"
   - "night driving cracked windshield"
   - "commercial vehicle windshield crack"
-last_reviewed: "2026-07-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-05"
 ---
 

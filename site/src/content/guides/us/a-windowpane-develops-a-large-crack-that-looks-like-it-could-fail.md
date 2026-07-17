@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a windowpane develops a large crack that looks like it could fail"
+seo_title: "Large crack in windowpane that might fail"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "window crack after temperature change"
   - "window pain has a crack"
   - "cracked windo pane"
-last_reviewed: "2026-06-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-02"
 ---
 

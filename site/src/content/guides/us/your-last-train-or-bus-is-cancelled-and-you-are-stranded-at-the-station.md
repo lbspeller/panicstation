@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your last train or bus is cancelled and you are stranded at the station"
+seo_title: "Last train or bus cancelled and stranded at station"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -33,7 +34,7 @@ tags:
   - "stranded in unfamiliar station"
   - "overnight wait after cancellation"
   - "phone battery low while stranded"
-last_reviewed: "2026-06-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-06"
 ---
 

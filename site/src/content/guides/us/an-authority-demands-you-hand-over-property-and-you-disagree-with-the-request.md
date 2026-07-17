@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an authority demands you hand over property and you disagree with the request"
+seo_title: "Authority demands you hand over property"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "property demand for digital device"
   - "autority demands my property"
   - "propery handover dispute"
-last_reviewed: "2026-06-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-11"
 ---
 

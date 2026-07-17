@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your water meter is moving even though all taps and appliances are off"
+seo_title: "Water meter moving with all taps off"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "main shutoff valve confusion"
   - "meter box confusion"
   - "after hours water leak"
-last_reviewed: "2026-06-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-19"
 ---
 

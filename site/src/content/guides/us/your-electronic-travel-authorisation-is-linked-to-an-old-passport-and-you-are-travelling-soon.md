@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your electronic travel authorisation is linked to an old passport and you are travelling soon"
+seo_title: "Travel authorisation linked to an old passport"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "international flight soon"
   - "travel autorization old passport"
   - "electronic travel authorizaton"
-last_reviewed: "2026-06-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-19"
 ---
 

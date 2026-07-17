@@ -1,5 +1,6 @@
 ---
 title: "What to do if… there is no confirmed cause of death yet and people are asking for details"
+seo_title: "No confirmed cause of death and people asking questions"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "bereavement with unanswered questions"
   - "death reported for investigation"
   - "waiting for official paperwork"
-last_reviewed: "2026-05-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-02"
 ---
 

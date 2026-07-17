@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are stopped at an airport or border because your appearance has changed since your passport photo was taken"
+seo_title: "Stopped at airport or border due to appearance change"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "abroad passport photo mismatch"
   - "pasport photo mismatch"
   - "identy check at airport"
-last_reviewed: "2026-05-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-04"
 ---
 

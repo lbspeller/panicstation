@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to choose personal items for a burial or cremation and feel overwhelmed"
+seo_title: "Overwhelmed choosing personal items for burial or cremation"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "cremation restrictions confusion"
   - "funeral choises too much"
   - "cremation items overwhealming"
-last_reviewed: "2026-05-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-03"
 ---
 

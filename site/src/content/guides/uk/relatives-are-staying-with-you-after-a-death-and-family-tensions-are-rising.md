@@ -1,5 +1,6 @@
 ---
 title: "What to do if… relatives are staying with you after a death and family tensions are rising"
+seo_title: "Family tensions rising while hosting after a death"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "overnight relatives after death"
   - "death in the family tensions"
   - "bereaved and hosting family"
-last_reviewed: "2026-04-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-30"
 ---
 

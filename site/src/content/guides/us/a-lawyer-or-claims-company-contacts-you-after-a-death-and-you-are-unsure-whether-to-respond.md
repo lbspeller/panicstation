@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a lawyer or claims company contacts you after a death and you are unsure whether to respond"
+seo_title: "Unexpected lawyer or claims contact after a death"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "insurance claims helper contacted me"
   - "lawer contacted after death"
   - "cliams company after death"
-last_reviewed: "2026-05-31"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-31"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your employer asks to search your personal phone or laptop for a workplace investigation"
+seo_title: "Employer asks to search your personal device"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -33,7 +34,7 @@ tags:
   - "it wants full device access"
   - "workplace investgation device request"
   - "employer wants my fone"
-last_reviewed: "2026-05-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-03"
 ---
 

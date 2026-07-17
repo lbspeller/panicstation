@@ -1,5 +1,6 @@
 ---
 title: "What to do if… family members disagree on the wording for a headstone or grave marker"
+seo_title: "Family disagreement over headstone or marker wording"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "headstone wording deadline feels urgent"
   - "headstone wordng dispute"
   - "marker insciption dispute"
-last_reviewed: "2026-06-07"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-07"
 ---
 

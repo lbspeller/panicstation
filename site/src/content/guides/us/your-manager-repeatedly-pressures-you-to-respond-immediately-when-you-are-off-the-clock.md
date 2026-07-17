@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your manager repeatedly pressures you to respond immediately when you are off the clock"
+seo_title: "Manager pressuring you to respond after hours"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "salaried worker after-hours pressure"
   - "manger pressures after hours"
   - "off the clok messages"
-last_reviewed: "2026-06-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-30"
 ---
 

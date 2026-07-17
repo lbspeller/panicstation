@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a brake system warning light stays on after you park"
+seo_title: "Brake system warning light stays on after parking"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "parked with brake fault"
   - "motorway brake warning"
   - "electric parking brake warning"
-last_reviewed: "2026-04-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-25"
 ---
 

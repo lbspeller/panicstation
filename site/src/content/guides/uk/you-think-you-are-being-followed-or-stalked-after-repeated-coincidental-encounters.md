@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you think you are being followed or stalked after repeated coincidental encounters"
+seo_title: "Suspected stalking or being followed in public"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -33,7 +34,7 @@ tags:
   - "on my commute"
   - "in public places"
   - "by an ex partner"
-last_reviewed: "2026-05-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-22"
 ---
 

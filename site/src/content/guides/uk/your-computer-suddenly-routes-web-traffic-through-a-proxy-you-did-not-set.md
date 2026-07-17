@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your computer suddenly routes web traffic through a proxy you did not set"
+seo_title: "Computer suddenly using an unknown proxy setting"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "public wi-fi proxy problem"
   - "proxie server turned on"
   - "trafic through proxy"
-last_reviewed: "2026-05-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-24"
 ---
 

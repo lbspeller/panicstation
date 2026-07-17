@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a regulator or official asks you to provide passwords or passcodes during an inquiry"
+seo_title: "Regulator or official asks for passwords or passcodes"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "regulator asks for work email access"
   - "inquiry asks for laptop unlock"
   - "regulator asks for phone unlock"
-last_reviewed: "2026-06-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-01"
 ---
 

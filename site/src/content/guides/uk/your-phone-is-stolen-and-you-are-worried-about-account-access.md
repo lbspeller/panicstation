@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your phone is stolen and you are worried about account access"
+seo_title: "Stolen phone and protecting your accounts"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "stollen phone accounts"
   - "acounts exposed after theft"
   - "uk phone stolen accounts"
-last_reviewed: "2026-05-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-27"
 ---
 

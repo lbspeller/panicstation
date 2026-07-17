@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you miss a flight connection because of immigration or document checks and you are stranded"
+seo_title: "Missed flight connection due to immigration delay"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -34,7 +35,7 @@ tags:
   - "international arrival missed connection"
   - "custums delay missed connection"
   - "immigration chek missed flight"
-last_reviewed: "2026-06-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-17"
 ---
 

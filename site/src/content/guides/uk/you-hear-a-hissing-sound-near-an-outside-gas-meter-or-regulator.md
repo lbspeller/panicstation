@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you hear a hissing sound near an outside gas meter or regulator"
+seo_title: "Hissing sound near outside gas meter or regulator"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -34,7 +35,7 @@ tags:
   - "gass meter hissing"
   - "regulater hissing outside"
   - "outside home gas meter"
-last_reviewed: "2026-05-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-13"
 ---
 

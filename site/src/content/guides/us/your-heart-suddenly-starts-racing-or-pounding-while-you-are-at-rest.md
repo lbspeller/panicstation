@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your heart suddenly starts racing or pounding while you are at rest"
+seo_title: "Heart suddenly racing or pounding at rest"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "anxiety-like heart symptoms"
   - "heart palpations at rest"
   - "heart palpatations while resting"
-last_reviewed: "2026-06-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-29"
 ---
 

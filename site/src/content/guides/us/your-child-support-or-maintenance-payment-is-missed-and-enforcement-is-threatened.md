@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your child support or maintenance payment is missed and enforcement is threatened"
+seo_title: "Missed child support payment and enforcement threats"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "after reduced hours"
   - "after bank transfer failed"
   - "when co-parent threatens enforcement"
-last_reviewed: "2026-06-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-27"
 ---
 

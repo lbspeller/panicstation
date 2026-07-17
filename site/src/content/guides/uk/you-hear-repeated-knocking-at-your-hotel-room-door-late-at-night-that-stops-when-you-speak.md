@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you hear repeated knocking at your hotel room door late at night that stops when you speak"
+seo_title: "Repeated knocking at hotel room door at night"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "travelling alone at night"
   - "in a uk hotel"
   - "late at nite knocking"
-last_reviewed: "2026-05-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-13"
 ---
 

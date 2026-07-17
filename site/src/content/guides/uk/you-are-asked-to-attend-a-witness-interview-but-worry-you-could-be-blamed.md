@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to attend a witness interview but worry you could be blamed"
+seo_title: "Asked to be a witness but fear being blamed"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "police intreview worry"
   - "phone interview with police"
   - "police station appointment"
-last_reviewed: "2026-05-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-03"
 ---
 

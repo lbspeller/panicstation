@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your bank blocks a payment because the payee details appear to have changed"
+seo_title: "Bank blocked payment due to changed payee details"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "bank tranfer blocked"
   - "business invoice payment"
   - "rent payment blocked"
-last_reviewed: "2026-06-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-25"
 ---
 

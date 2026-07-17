@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are coordinating a hospital to hospice transfer and information is missing"
+seo_title: "Hospital to hospice transfer information missing"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -33,7 +34,7 @@ tags:
   - "hospice handover after hours"
   - "caregiver coordinating hospice discharge"
   - "home hospice arrival plan unclear"
-last_reviewed: "2026-06-07"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-07"
 ---
 

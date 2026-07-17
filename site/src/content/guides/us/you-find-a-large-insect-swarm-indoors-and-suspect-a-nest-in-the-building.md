@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you find a large insect swarm indoors and suspect a nest in the building"
+seo_title: "Large insect swarm indoors and suspected nest"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "yelow jackets indoors"
   - "bee sworm indoors"
   - "apartment insect swarm"
-last_reviewed: "2026-06-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-14"
 ---
 

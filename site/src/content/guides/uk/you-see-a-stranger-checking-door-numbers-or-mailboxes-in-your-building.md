@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you see a stranger checking door numbers or mailboxes in your building"
+seo_title: "Stranger checking door numbers or mailboxes in building"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "mail theft worry"
   - "blok of flats stranger"
   - "mail box tampering worry"
-last_reviewed: "2026-05-20"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-20"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice new swelling in both legs and worsening breathlessness at night"
+seo_title: "New leg swelling and worsening nighttime breathlessness"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "breathlessnes at night"
   - "after missing water pills"
   - "with heart or kidney problems"
-last_reviewed: "2026-06-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-18"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are told you must attend a formal work meeting alone"
+seo_title: "Told to attend a formal work meeting alone"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "nonunion workplace formal meeting"
   - "disciplinery meeting alone"
   - "investigatory interveiw at work"
-last_reviewed: "2026-06-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-11"
 ---
 

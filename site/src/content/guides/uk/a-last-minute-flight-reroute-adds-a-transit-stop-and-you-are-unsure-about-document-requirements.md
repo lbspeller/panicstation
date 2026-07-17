@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a last-minute flight reroute adds a transit stop and you are unsure about document requirements"
+seo_title: "Flight reroute adds transit stop with document uncertainty"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "uk transit stop"
   - "airport document chekc"
   - "transit visa wory"
-last_reviewed: "2026-04-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-26"
 ---
 

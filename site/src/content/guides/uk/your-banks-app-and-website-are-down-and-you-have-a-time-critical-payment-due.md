@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your bank’s app and website are down and you have a time-critical payment due"
+seo_title: "Bank app and website down with payment due"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "mortgage payment due today"
   - "bill payment deadline today"
   - "solicitor payment deadline today"
-last_reviewed: "2026-05-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-23"
 ---
 

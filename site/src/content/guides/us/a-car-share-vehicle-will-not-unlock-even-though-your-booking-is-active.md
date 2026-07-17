@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a car-share vehicle will not unlock even though your booking is active"
+seo_title: "Car-share vehicle will not unlock during active booking"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -34,7 +35,7 @@ tags:
   - "car share vehicle will not unlock"
   - "carshare vehicle will not unlock"
   - "car-share vehcle will not unlock"
-last_reviewed: "2026-05-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-29"
 ---
 

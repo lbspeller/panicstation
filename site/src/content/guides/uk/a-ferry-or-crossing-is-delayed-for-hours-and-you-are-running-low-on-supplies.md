@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a ferry or crossing is delayed for hours and you are running low on supplies"
+seo_title: "Ferry or crossing delayed and running low on supplies"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "ferry cancelled or delayed"
   - "fery delayed for hours"
   - "ferry qeue stuck"
-last_reviewed: "2026-04-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-26"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are contacted by a regulator about your work and are unsure what to say"
+seo_title: "Contacted by a regulator about your work"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "regulator arrived at workplace"
   - "regulater contacted me at work"
   - "reglator asked about my work"
-last_reviewed: "2026-06-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-09"
 ---
 

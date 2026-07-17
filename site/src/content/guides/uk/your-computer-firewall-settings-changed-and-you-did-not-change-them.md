@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your computer firewall settings changed and you did not change them"
+seo_title: "Computer firewall settings changed unexpectedly"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "work laptop firewall changed"
   - "firewal settings changed"
   - "firewall settngs changed"
-last_reviewed: "2026-05-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-24"
 ---
 

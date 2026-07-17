@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have new abdominal bloating and vomiting after recent surgery"
+seo_title: "Abdominal bloating and vomiting after surgery"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "days after abdominal operation"
   - "stomache bloating after surgery"
   - "abdomin swelling after surgery"
-last_reviewed: "2026-05-12"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-12"
 ---
 

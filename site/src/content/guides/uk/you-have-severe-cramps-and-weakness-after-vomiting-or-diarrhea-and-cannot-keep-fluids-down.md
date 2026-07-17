@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have severe cramps and weakness after vomiting or diarrhea and cannot keep fluids down"
+seo_title: "Severe cramps, weakness, and inability to rehydrate"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "diabetes vomiting and diarrhoea"
   - "kidney disease and dehydration"
   - "recent antibiotics and diarrhoea"
-last_reviewed: "2026-05-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-09"
 ---
 

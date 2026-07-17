@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a lab result marked critical or urgently abnormal without explanation"
+seo_title: "Critical or urgently abnormal lab result received"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "abormal lab result"
   - "critical labs after hours"
   - "critical lab while pregnant"
-last_reviewed: "2026-06-20"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-20"
 ---
 

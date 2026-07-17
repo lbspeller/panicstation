@@ -1,5 +1,6 @@
 ---
 title: "What to do if… police ask to enter your home and you are unsure if you must let them in"
+seo_title: "Police at your door asking to enter"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "police at door late at night"
   - "officers outside with paperwork"
   - "unsure if warrant is valid"
-last_reviewed: "2026-06-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-04"
 ---
 

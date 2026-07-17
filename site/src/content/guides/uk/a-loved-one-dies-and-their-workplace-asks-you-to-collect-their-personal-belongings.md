@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a loved one dies and their workplace asks you to collect their personal belongings"
+seo_title: "Collecting a deceased loved one's workplace belongings"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "bereavement admin overload"
   - "belonings at work"
   - "bereavment workplace belongings"
-last_reviewed: "2026-04-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-26"
 ---
 

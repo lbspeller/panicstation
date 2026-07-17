@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked for photos or dental information to help identify a deceased person"
+seo_title: "Request for photos or dental info for identification"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "while in shock after death"
   - "dentel records after death"
   - "identifcation after death"
-last_reviewed: "2026-05-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-06"
 ---
 

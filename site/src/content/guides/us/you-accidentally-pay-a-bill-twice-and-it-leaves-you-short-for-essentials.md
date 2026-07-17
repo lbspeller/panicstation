@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you accidentally pay a bill twice and it leaves you short for essentials"
+seo_title: "Accidentally paid a bill twice and short on cash"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "duplicate utility bill payment"
   - "duplicate rent payment"
   - "duplicate bill payment before payday"
-last_reviewed: "2026-06-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-06"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you start vomiting repeatedly and cannot keep fluids down"
+seo_title: "Repeated vomiting and unable to keep fluids down"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "pregnancy nausea vomiting"
   - "medication mix-up vomiting"
   - "possible poisoning vomiting"
-last_reviewed: "2026-06-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-24"
 ---
 

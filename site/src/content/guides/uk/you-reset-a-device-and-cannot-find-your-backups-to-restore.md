@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you reset a device and cannot find your backups to restore"
+seo_title: "Device reset and cannot find backups to restore"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "wrong account after reset"
   - "sync confused with backup"
   - "after factory reset"
-last_reviewed: "2026-05-20"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-20"
 ---
 

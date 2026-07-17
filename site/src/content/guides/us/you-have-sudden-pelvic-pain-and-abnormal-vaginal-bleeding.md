@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have sudden pelvic pain and abnormal vaginal bleeding"
+seo_title: "Sudden pelvic pain and abnormal vaginal bleeding"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "missed period pelvic pain"
   - "pelvic pane and bleeding"
   - "vaginal bleading with pain"
-last_reviewed: "2026-06-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-16"
 ---
 

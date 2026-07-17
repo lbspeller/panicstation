@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have sudden back or side pain with fever and urinary symptoms"
+seo_title: "Sudden back or side pain with fever and urinary symptoms"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "kidney disease with uti"
   - "immune suppressed with fever"
   - "feaver with back pain"
-last_reviewed: "2026-06-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-18"
 ---
 

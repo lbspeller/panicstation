@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your flight is delayed and you might miss your onward train, bus, or car rental"
+seo_title: "Flight delayed and missing onward travel connection"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "airport journey with separate tickets"
   - "flight delaid onward travel"
   - "onward transprt after flight delay"
-last_reviewed: "2026-05-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-25"
 ---
 

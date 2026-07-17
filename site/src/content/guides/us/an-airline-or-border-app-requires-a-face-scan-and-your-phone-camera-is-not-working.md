@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an airline or border app requires a face scan and your phone camera is not working"
+seo_title: "Travel app face scan fails due to broken camera"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "international arrival selfie failed"
   - "selfy verification failed"
   - "camra not working at airport"
-last_reviewed: "2026-06-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-03"
 ---
 

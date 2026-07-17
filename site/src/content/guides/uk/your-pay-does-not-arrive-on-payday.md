@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your pay does not arrive on payday"
+seo_title: "Paycheck or wages did not arrive on payday"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "pay dispute at work"
   - "payrol mistake"
   - "salery not paid"
-last_reviewed: "2026-05-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-27"
 ---
 

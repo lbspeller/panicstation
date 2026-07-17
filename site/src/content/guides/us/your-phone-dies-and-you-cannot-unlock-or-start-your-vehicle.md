@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your phone dies and you cannot unlock or start your vehicle"
+seo_title: "phone dead and cannot unlock or start vehicle"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "key fob battery dead"
   - "fone died car key"
   - "vehical access app problem"
-last_reviewed: "2026-07-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-02"
 ---
 

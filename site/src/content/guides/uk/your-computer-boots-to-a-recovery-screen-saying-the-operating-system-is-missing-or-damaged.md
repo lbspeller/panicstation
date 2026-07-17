@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your computer boots to a recovery screen saying the operating system is missing or damaged"
+seo_title: "Computer boots to operating system missing error"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "windows update broke startup"
   - "operating systen missing"
   - "recovry screen on laptop"
-last_reviewed: "2026-05-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-24"
 ---
 

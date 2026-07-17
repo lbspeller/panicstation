@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a stranger approaches your car and tries to get you to unlock the doors"
+seo_title: "Stranger approaching your car and demanding entry"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "children in car with me"
   - "possible carjaking distraction"
   - "stranger aproaches my car"
-last_reviewed: "2026-06-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-02"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your payment app account is locked and you have money stuck inside"
+seo_title: "Payment app account locked with money stuck inside"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "closed account funds missing"
   - "paymant app account locked"
   - "acount locked with money"
-last_reviewed: "2026-07-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-01"
 ---
 

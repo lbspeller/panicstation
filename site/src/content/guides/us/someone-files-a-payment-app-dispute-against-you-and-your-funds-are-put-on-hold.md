@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone files a payment app dispute against you and your funds are put on hold"
+seo_title: "Payment app dispute and funds on hold"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "payment app dispute on marketplace"
   - "paymant app dispute against me"
   - "chargback against me"
-last_reviewed: "2026-06-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-04"
 ---
 

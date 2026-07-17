@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your e-bike or e-scooter battery dies far from home and you cannot easily carry it"
+seo_title: "E-bike or e-scooter battery dies far from home"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "battery hissing"
   - "e-bike broken down"
   - "e-scooter stopped working"
-last_reviewed: "2026-06-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-28"
 ---
 

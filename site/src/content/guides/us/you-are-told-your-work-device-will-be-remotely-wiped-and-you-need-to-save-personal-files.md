@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are told your work device will be remotely wiped and you need to save personal files"
+seo_title: "Work device remote wipe and saving personal files"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "remotly wiped work laptop"
   - "personal data on byod phone"
   - "personal documents in hr portal"
-last_reviewed: "2026-06-12"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-12"
 ---
 

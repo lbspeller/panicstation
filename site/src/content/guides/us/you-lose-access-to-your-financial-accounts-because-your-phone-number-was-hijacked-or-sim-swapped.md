@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you lose access to your financial accounts because your phone number was hijacked or SIM swapped"
+seo_title: "Financial account access lost to SIM swap"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "peer payment app locked"
   - "sim swaped bank"
   - "bank acount locked"
-last_reviewed: "2026-06-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-17"
 ---
 

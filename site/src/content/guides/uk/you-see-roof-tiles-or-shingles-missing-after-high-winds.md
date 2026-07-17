@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you see roof tiles or shingles missing after high winds"
+seo_title: "Roof tiles or shingles missing after high winds"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "leasehold roof damaged"
   - "roof damge after wind"
   - "shingles mising after storm"
-last_reviewed: "2026-05-20"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-20"
 ---
 

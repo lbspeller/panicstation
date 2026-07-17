@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you find account activity showing logins or locations that are not yours"
+seo_title: "Unfamiliar account logins or locations"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -42,7 +43,7 @@ tags:
   - "social media login alert"
   - "bank account login alert"
   - "work account login alert"
-last_reviewed: "2026-06-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-14"
 ---
 

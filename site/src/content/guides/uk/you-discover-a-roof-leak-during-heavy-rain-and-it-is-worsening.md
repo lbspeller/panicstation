@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you discover a roof leak during heavy rain and it is worsening"
+seo_title: "Roof leak worsening during heavy rain"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "leeking roof in rain"
   - "ceilng leak worsening"
   - "night roof leak"
-last_reviewed: "2026-05-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-10"
 ---
 

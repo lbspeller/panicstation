@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an online contact pressures you for sexual chat or to move to another app"
+seo_title: "Online contact pressuring for sexual chat or app switch"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "new match sexual fast"
   - "instgram nude pressure"
   - "sexual chat presure"
-last_reviewed: "2026-04-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-29"
 ---
 

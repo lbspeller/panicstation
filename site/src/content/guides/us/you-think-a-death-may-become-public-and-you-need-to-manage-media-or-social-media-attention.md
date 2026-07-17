@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you think a death may become public and you need to manage media or social media attention"
+seo_title: "Managing media and social media after a death"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "when privacy matters"
   - "familiy needs spokesperson"
   - "need a spokeperson"
-last_reviewed: "2026-06-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-25"
 ---
 

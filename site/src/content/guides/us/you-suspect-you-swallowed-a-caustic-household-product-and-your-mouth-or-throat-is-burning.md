@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you suspect you swallowed a caustic household product and your mouth or throat is burning"
+seo_title: "Swallowed a caustic household product"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "caustic ingestion"
   - "swallowed cleener"
   - "swallowed houshold chemical"
-last_reviewed: "2026-06-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-25"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you find dampness spreading along a wall near the floor with no obvious source"
+seo_title: "Spreading dampness on wall near floor"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "damp in rented flat"
   - "damp in rented house"
   - "damp on external wall"
-last_reviewed: "2026-05-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-11"
 ---
 

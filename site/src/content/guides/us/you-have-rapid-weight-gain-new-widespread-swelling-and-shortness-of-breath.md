@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have rapid weight gain, new widespread swelling, and shortness of breath"
+seo_title: "Rapid weight gain, swelling, and shortness of breath"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "recent infection and sudden swelling"
   - "shortness of breth with swelling"
   - "sudden edma and breathlessness"
-last_reviewed: "2026-06-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-13"
 ---
 

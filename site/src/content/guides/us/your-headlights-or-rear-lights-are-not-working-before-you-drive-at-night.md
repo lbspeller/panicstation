@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your headlights or rear lights are not working before you drive at night"
+seo_title: "Headlights or rear lights not working at night"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "headlites not working"
   - "tailights out"
   - "before driving at night"
-last_reviewed: "2026-06-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-29"
 ---
 

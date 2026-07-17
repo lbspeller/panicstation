@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your child may have swallowed a medicine or unknown substance but seems fine so far"
+seo_title: "Child may have swallowed medicine or substance"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "toddler ate medicin"
   - "prescription medicine at home"
   - "unknown substance at home"
-last_reviewed: "2026-06-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-27"
 ---
 

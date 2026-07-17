@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a chemical has splashed in your eye and it still burns after rinsing"
+seo_title: "Chemical splash in eye still burning after rinsing"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "chemicle in eye"
   - "workplace chemical eye splash"
   - "contact lens chemical exposure"
-last_reviewed: "2026-06-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-29"
 ---
 

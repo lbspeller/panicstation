@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have steadily worsening pain in the lower right side of your abdomen"
+seo_title: "Steadily worsening lower right abdominal pain"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "could be pregnant right pain"
   - "apendix pain worry"
   - "stomack pain lower right"
-last_reviewed: "2026-05-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-09"
 ---
 

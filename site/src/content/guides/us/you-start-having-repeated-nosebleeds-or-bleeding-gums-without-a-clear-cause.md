@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you start having repeated nosebleeds or bleeding gums without a clear cause"
+seo_title: "Repeated nosebleeds or unexplained bleeding gums"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "bleeding while on aspirin"
   - "bleeding after dental work"
   - "dry nose repeated bleeding"
-last_reviewed: "2026-06-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-24"
 ---
 

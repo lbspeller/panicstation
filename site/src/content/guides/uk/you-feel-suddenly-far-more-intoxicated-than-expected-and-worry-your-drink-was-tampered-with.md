@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you feel suddenly far more intoxicated than expected and worry your drink was tampered with"
+seo_title: "Suspected drink spiking or sudden unexpected intoxication"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "night out drink tampered"
   - "spiked dring"
   - "tamperd drink"
-last_reviewed: "2026-05-21"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-21"
 ---
 

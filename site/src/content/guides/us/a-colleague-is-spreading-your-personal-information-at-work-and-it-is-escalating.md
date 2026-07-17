@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a colleague is spreading your personal information at work and it is escalating"
+seo_title: "Colleague spreading your personal information at work"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "personal information shared with clients"
   - "coworker spreading persnal information"
   - "colleague sharing privte details"
-last_reviewed: "2026-05-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-30"
 ---
 

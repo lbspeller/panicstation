@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a lab result marked critical or urgently abnormal without explanation"
+seo_title: "Critical or urgently abnormal lab result received"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "diabetes and critical result"
   - "kidney disease abnormal result"
   - "medicine monitoring abnormal result"
-last_reviewed: "2026-05-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-17"
 ---
 

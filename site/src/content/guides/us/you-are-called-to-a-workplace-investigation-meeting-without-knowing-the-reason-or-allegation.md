@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are called to a workplace investigation meeting without knowing the reason or allegation"
+seo_title: "Called to a workplace investigation meeting without details"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "state or local employee investigation meeting"
   - "workplace allegaton not written"
   - "workplace investgation meeting"
-last_reviewed: "2026-06-07"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-07"
 ---
 

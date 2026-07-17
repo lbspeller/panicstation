@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you hear someone trying keys or a keycard on your door while you are inside"
+seo_title: "Someone trying keys or a keycard on your door"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -33,7 +34,7 @@ tags:
   - "landlord key or stranger"
   - "inside a flat alone"
   - "communal hallway door"
-last_reviewed: "2026-05-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-13"
 ---
 

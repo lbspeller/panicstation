@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your password works on one device but is rejected on another for the same account"
+seo_title: "Password works on one device but rejected on another"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "school account rejects password"
   - "pasword works on one device"
   - "login works on fone not computer"
-last_reviewed: "2026-06-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-06"
 ---
 

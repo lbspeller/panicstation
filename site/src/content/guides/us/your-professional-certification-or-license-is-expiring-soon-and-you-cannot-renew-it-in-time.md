@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your professional certification or license is expiring soon and you cannot renew it in time"
+seo_title: "Professional license or certification expiring soon"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "state regulated credential"
   - "employer requires certification"
   - "licensed work deadline"
-last_reviewed: "2026-06-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-19"
 ---
 

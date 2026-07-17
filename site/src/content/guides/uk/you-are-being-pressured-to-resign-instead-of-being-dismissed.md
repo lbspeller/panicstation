@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are being pressured to resign instead of being dismissed"
+seo_title: "Pressured to resign instead of being dismissed"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "after whistleblowing concern"
   - "resignasion under pressure"
   - "dismisal threat at work"
-last_reviewed: "2026-05-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-22"
 ---
 

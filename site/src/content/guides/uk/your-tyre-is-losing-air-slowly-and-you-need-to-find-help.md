@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your tyre is losing air slowly and you need to find help"
+seo_title: "Tire losing air slowly and finding help"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "tyre problem at home"
   - "tyre problem at work"
   - "need tyre help today"
-last_reviewed: "2026-05-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-11"
 ---
 

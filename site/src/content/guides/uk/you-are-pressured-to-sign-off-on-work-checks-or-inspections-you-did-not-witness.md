@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are pressured to sign off on work, checks, or inspections you did not witness"
+seo_title: "Pressured to sign off on work you did not witness"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "sign-off without evidence"
   - "sign of checks at work"
   - "inspction form pressure"
-last_reviewed: "2026-05-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-04"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a joint account holder changes your account settings without your knowledge"
+seo_title: "Joint account holder changed settings without knowledge"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "joint account change before payday"
   - "joint account change during separation"
   - "joint account change with coercion concerns"
-last_reviewed: "2026-05-31"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-31"
 ---
 

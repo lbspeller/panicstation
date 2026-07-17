@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a partner repeatedly pressures you for sex when you cannot easily leave"
+seo_title: "Partner repeatedly pressuring you for sex"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "sex presure from partner"
   - "repeated unwanted sex requests"
   - "unsafe to say no"
-last_reviewed: "2026-06-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-01"
 ---
 

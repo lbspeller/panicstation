@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a stranger is pressuring you to leave a public place and you feel unsafe"
+seo_title: "Stranger pressuring you to leave a public place"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "i am uncomforable with a stranger"
   - "i am alone in a public place"
   - "i am near a parking lot with a stranger"
-last_reviewed: "2026-06-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-02"
 ---
 

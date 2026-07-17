@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a legal threat from a former employer about contacting clients or colleagues"
+seo_title: "Legal threat from former employer about contacts"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "after leaving job"
   - "new job with competitor"
   - "settlement agreement restrictions"
-last_reviewed: "2026-05-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-17"
 ---
 

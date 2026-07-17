@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone in a car is circling the area where you are parked"
+seo_title: "Suspicious car circling your parked vehicle"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "parked alone at night"
   - "car circling where im parked"
   - "suspicious vehical near car"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-01"
 ---
 

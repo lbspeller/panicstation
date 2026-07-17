@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are pressured to falsify records, hours, or performance figures at work"
+seo_title: "Pressured to falsify work records or figures"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "compliance records look false"
   - "falsifed records at work"
   - "faked timeshet at work"
-last_reviewed: "2026-05-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-05"
 ---
 

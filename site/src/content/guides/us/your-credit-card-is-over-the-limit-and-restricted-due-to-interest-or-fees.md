@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your credit card is over the limit and restricted due to interest or fees"
+seo_title: "Credit card over limit and restricted"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "my card declined after interest"
   - "my balance grew from fees"
   - "fees and interest balance shock"
-last_reviewed: "2026-06-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-03"
 ---
 

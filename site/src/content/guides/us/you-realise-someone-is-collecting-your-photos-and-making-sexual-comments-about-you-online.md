@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you realise someone is collecting your photos and making sexual comments about you online"
+seo_title: "Someone collecting your photos and making sexual comments"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "image-based sexual abuse"
   - "somone collecting my photos"
   - "sexual coment about me"
-last_reviewed: "2026-06-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-19"
 ---
 

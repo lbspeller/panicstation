@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are locked out of an account because you cannot complete a verification step"
+seo_title: "Locked out of account due to verification failure"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "email account locked out"
   - "acount recovery stuck"
   - "verfication code not arriving"
-last_reviewed: "2026-05-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-05"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to sign a police statement and have not had time to read it carefully"
+seo_title: "Asked to sign a police statement without reading it"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "reading difficulty with police statement"
   - "stressed during police statement review"
   - "unsure if police consider me suspect"
-last_reviewed: "2026-06-08"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-08"
 ---
 

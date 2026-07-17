@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a required travel form website is down and you cannot complete it before travel"
+seo_title: "Required travel form website is down"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "uk traveller form problem"
   - "travle form website down"
   - "travel autorisation site down"
-last_reviewed: "2026-04-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-28"
 ---
 

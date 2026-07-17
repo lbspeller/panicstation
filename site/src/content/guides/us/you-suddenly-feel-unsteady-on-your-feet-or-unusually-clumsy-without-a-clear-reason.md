@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you suddenly feel unsteady on your feet or unusually clumsy without a clear reason"
+seo_title: "Suddenly feeling unsteady or clumsy"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "balence feels off suddenly"
   - "after new medicine unsteady"
   - "after head injury unsteady"
-last_reviewed: "2026-06-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-24"
 ---
 

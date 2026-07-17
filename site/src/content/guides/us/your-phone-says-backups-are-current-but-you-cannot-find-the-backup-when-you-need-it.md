@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your phone says backups are current but you cannot find the backup when you need it"
+seo_title: "Phone backup says current but cannot find data"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "new phone setup no backup"
   - "icloud bakcup missing"
   - "backup not visable"
-last_reviewed: "2026-07-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-02"
 ---
 

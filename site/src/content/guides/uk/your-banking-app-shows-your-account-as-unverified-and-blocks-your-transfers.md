@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your banking app shows your account as unverified and blocks your transfers"
+seo_title: "Banking app shows unverified and blocks transfers"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "kyc check pending"
   - "bank app unverifed"
   - "transfers bloked after update"
-last_reviewed: "2026-04-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-24"
 ---
 

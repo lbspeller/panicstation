@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an unmarked vehicle signals for you to pull over and you are unsure it is legitimate"
+seo_title: "Unmarked vehicle signalling you to stop"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "rural road stop"
   - "secluded road stop"
   - "night time police stop"
-last_reviewed: "2026-04-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-29"
 ---
 

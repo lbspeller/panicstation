@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a professional appointment feels sexualised or unsafe and you want to leave"
+seo_title: "Professional appointment feels unsafe or sexualised"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "unsafe during private appointment"
   - "sexualized appoinment feels unsafe"
   - "proffesional sexual comments"
-last_reviewed: "2026-06-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-01"
 ---
 

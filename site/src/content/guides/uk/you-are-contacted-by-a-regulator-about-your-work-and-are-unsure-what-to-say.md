@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are contacted by a regulator about your work and are unsure what to say"
+seo_title: "Contacted by a regulator about your work"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "formal notice with deadline"
   - "personal exposure at work"
   - "unexpected regulator contact"
-last_reviewed: "2026-05-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-05"
 ---
 

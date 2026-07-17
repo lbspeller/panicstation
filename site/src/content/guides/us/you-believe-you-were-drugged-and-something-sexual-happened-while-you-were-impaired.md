@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you believe you were drugged and something sexual happened while you were impaired"
+seo_title: "Suspected drugging and sexual assault while impaired"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "i feel wrong after a bar or party"
   - "i am scared after drinking with friends"
   - "i woke up somewhere unfamiliar"
-last_reviewed: "2026-06-12"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-12"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your bank sends a suspicious transaction alert asking you to confirm by link"
+seo_title: "Suspicious bank transaction alert with link"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "mobile banking fraud alert"
   - "online banking login link"
   - "debit card fraud text"
-last_reviewed: "2026-05-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-23"
 ---
 

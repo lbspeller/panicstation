@@ -1,5 +1,6 @@
 ---
 title: "What to do if… plaster or drywall begins crumbling or falling from your ceiling"
+seo_title: "Plaster or drywall falling from your ceiling"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "rented flat ceiling damage"
   - "ceiling leak from above"
   - "older property ceiling damage"
-last_reviewed: "2026-04-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-30"
 ---
 

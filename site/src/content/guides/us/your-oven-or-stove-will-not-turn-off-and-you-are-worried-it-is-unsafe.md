@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your oven or stove will not turn off and you are worried it is unsafe"
+seo_title: "Oven or stove will not turn off"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "rented home stove unsafe"
   - "dual fuel range stuck on"
   - "apartment stove will not turn off"
-last_reviewed: "2026-07-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-01"
 ---
 

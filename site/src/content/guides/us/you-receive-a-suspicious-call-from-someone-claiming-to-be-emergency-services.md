@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a suspicious call from someone claiming to be emergency services"
+seo_title: "Suspicious call claiming to be emergency services"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "dispatch scam call"
   - "emergancy services call"
   - "sherrif call feels wrong"
-last_reviewed: "2026-06-15"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-15"
 ---
 

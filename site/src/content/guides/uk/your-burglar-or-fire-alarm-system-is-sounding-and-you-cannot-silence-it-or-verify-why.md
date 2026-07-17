@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your burglar or fire alarm system is sounding and you cannot silence it or verify why"
+seo_title: "Alarm sounding and cannot silence or verify cause"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "neighbour burglar alarm going off"
   - "keys locked out alarm sounding"
   - "interlinked smoke alarms"
-last_reviewed: "2026-05-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-23"
 ---
 

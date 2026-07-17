@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive an urgent message about a potential supervision breach and a deadline to respond today"
+seo_title: "Urgent message about supervision breach and deadline"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "supervision text or scam"
   - "probashun violation text"
   - "parol violation message"
-last_reviewed: "2026-06-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-22"
 ---
 

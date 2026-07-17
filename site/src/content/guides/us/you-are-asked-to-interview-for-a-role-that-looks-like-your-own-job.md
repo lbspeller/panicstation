@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to interview for a role that looks like your own job"
+seo_title: "Asked to interview for your own job"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "i was asked to reintervew for my role"
   - "my reorginization interview matches my job"
   - "my own job has been reposted"
-last_reviewed: "2026-06-08"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-08"
 ---
 

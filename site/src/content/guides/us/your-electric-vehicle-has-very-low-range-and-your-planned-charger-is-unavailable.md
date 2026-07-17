@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your electric vehicle has very low range and your planned charger is unavailable"
+seo_title: "Electric vehicle low range and charger unavailable"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "chargng station unavailable"
   - "electric vehical low range"
   - "highway low charge"
-last_reviewed: "2026-06-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-28"
 ---
 

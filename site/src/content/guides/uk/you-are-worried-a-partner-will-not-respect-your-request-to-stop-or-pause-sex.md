@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are worried a partner will not respect your request to stop or pause sex"
+seo_title: "Worried a partner will not respect your boundaries"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "scared to say no"
   - "conscent worries with partner"
   - "boundry ignored during sex"
-last_reviewed: "2026-05-08"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-08"
 ---
 

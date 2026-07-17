@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice an unfamiliar vehicle repeatedly parked near your home or workplace"
+seo_title: "Unfamiliar vehicle repeatedly parked nearby"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "near workplace after dark"
   - "vehical parked near home"
   - "wierd car outside house"
-last_reviewed: "2026-05-15"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-15"
 ---
 

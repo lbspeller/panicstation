@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your computer will not start and you need to recover files stored on it"
+seo_title: "Computer will not start and you need to recover files"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "photos only on laptop"
   - "computor will not start"
   - "labtop will not turn on"
-last_reviewed: "2026-05-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-24"
 ---
 

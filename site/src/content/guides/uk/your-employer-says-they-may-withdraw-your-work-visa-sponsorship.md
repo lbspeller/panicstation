@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your employer says they may withdraw your work visa sponsorship"
+seo_title: "Employer says they may withdraw visa sponsorship"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "confused about sponsor licence"
   - "uk sponsored worker"
   - "skilled worker visa holder"
-last_reviewed: "2026-05-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-14"
 ---
 

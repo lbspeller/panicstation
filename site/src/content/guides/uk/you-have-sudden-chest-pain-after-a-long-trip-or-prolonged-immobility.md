@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have sudden chest pain after a long trip or prolonged immobility"
+seo_title: "Sudden chest pain after travel or immobility"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "chest pain after bed rest"
   - "chest pan after flight"
   - "breathless after long jorney"
-last_reviewed: "2026-05-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-13"
 ---
 

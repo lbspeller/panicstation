@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a neighbour repeatedly makes unwanted sexual comments and you feel unsafe or worried they may escalate"
+seo_title: "Neighbour making unwanted sexual comments"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "neighbor harassment near home"
   - "neigbor sexual comments"
   - "neighbor sexual harasment"
-last_reviewed: "2026-06-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-01"
 ---
 

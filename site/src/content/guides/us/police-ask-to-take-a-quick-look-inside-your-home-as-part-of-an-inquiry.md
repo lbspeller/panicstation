@@ -1,5 +1,6 @@
 ---
 title: "What to do if… police ask to take a quick look inside your home as part of an inquiry"
+seo_title: "Police asking to look inside your home"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "police contact by text"
   - "police visit late at night"
   - "roommate answers police at home"
-last_reviewed: "2026-06-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-04"
 ---
 

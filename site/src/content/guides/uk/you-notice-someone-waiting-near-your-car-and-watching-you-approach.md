@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice someone waiting near your car and watching you approach"
+seo_title: "Someone waiting near your car and watching you"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "robbery at car fear"
   - "walking to car alone"
   - "car park at night"
-last_reviewed: "2026-05-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-16"
 ---
 

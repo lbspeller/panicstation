@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a jury summons with the wrong name or address details"
+seo_title: "Jury summons with wrong name or address details"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "jury summens wrong name"
   - "after moving house"
   - "after changing name"
-last_reviewed: "2026-05-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-17"
 ---
 

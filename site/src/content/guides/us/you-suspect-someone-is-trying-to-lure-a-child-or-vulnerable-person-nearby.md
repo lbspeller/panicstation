@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you suspect someone is trying to lure a child or vulnerable person nearby"
+seo_title: "Suspecting someone is luring a child or vulnerable person"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -33,7 +34,7 @@ tags:
   - "mistaken abduction concern"
   - "safe distance witness"
   - "near school or playground"
-last_reviewed: "2026-06-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-24"
 ---
 

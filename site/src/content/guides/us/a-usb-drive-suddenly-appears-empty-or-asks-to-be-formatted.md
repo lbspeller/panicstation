@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a USB drive suddenly appears empty or asks to be formatted"
+seo_title: "USB drive appears empty or asks to be formatted"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "usb drive unformated"
   - "work usb drive looks empty"
   - "sensitive files missing from usb"
-last_reviewed: "2026-06-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-02"
 ---
 

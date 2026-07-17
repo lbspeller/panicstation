@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you suspect a pipe has burst behind a wall or under a floor"
+seo_title: "Suspected burst pipe behind wall or under floor"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "night time burst pipe"
   - "leek behind wall"
   - "burst pype under floor"
-last_reviewed: "2026-05-21"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-21"
 ---
 

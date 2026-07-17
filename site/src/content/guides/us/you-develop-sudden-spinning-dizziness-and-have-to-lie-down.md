@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you develop sudden spinning dizziness and have to lie down"
+seo_title: "Sudden spinning dizziness and vertigo"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "sudden dizzyness and spinning"
   - "sudden vertigo diziness"
   - "new severe room spinning"
-last_reviewed: "2026-06-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-13"
 ---
 

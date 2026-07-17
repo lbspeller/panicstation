@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you start a new medication and develop a widespread rash or mouth sores"
+seo_title: "Widespread rash or mouth sores after new medication"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "medicine side effect rash"
   - "medcation rash"
   - "mouth soars after meds"
-last_reviewed: "2026-06-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-23"
 ---
 

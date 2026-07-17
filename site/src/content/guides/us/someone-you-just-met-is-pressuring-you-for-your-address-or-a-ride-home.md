@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone you just met is pressuring you for your address or a ride home"
+seo_title: "Someone pressuring you for your address or ride home"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "worried i am overreacting"
   - "someone asking for my adress"
   - "date wants my adress"
-last_reviewed: "2026-06-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-06"
 ---
 

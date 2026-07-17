@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone claims to be a partner after a death and demands access to information or plans"
+seo_title: "Someone claims to be a partner after a death"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "while family is grieving"
   - "bereavment document requests"
   - "funral plan requests"
-last_reviewed: "2026-06-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-04"
 ---
 

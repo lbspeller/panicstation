@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are abroad and cannot get a police report for a stolen document"
+seo_title: "Cannot get police report for stolen document abroad"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "stollen passport abroad"
   - "urgent travel without passport"
   - "abroad without uk passport"
-last_reviewed: "2026-05-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-03"
 ---
 

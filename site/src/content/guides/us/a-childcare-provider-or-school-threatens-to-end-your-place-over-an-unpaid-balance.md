@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a childcare provider or school threatens to end your place over an unpaid balance"
+seo_title: "Childcare or school threatens to end place over debt"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "temporary housing school fees"
   - "daycare balence due today"
   - "childcare place cancled today"
-last_reviewed: "2026-05-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-30"
 ---
 

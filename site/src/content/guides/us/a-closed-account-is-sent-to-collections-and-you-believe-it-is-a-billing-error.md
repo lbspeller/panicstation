@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a closed account is sent to collections and you believe it is a billing error"
+seo_title: "Closed account sent to collections for billing error"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "credit report collection error"
   - "colecctions notice wrong amount"
   - "billing eror sent to collections"
-last_reviewed: "2026-05-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-30"
 ---
 

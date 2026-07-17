@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive an official notice that you are being charged and you do not understand it"
+seo_title: "Confusing official notice of criminal charges"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "magistrates court paperwork"
   - "minor offence notice"
   - "uk charge notice"
-last_reviewed: "2026-05-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-19"
 ---
 

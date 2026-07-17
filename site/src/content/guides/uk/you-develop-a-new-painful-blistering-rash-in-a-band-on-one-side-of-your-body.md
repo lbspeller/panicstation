@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you develop a new painful blistering rash in a band on one side of your body"
+seo_title: "Painful blistering rash in a band on one side"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "shingle rash one side"
   - "one sided rash uk"
   - "adult blistering rash"
-last_reviewed: "2026-05-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-09"
 ---
 

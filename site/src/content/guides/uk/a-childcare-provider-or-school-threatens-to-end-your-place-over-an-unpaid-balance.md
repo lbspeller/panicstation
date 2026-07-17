@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a childcare provider or school threatens to end your place over an unpaid balance"
+seo_title: "Childcare or school threatens to end place over debt"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "independent school fee balance"
   - "nursery contract notice"
   - "wraparound care payment deadline"
-last_reviewed: "2026-04-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-25"
 ---
 

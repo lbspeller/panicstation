@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you develop sudden ringing in your ear with dizziness or nausea"
+seo_title: "Sudden ear ringing with dizziness or nausea"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "one sided ear ringing"
   - "tinitus with dizziness"
   - "diziness with ear ringing"
-last_reviewed: "2026-06-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-13"
 ---
 

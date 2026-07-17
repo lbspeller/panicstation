@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a job audition or photoshoot introduces unexpected nudity or sexual expectations"
+seo_title: "Unexpected nudity or sexual pressure at work"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "last-minute nudity requirement"
   - "audtion turns sexual"
   - "photoshot turns sexual"
-last_reviewed: "2026-06-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-05"
 ---
 

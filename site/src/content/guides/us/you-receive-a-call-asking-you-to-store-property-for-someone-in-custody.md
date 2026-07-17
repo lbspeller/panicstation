@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a call asking you to store property for someone in custody"
+seo_title: "Call asking you to store property for someone in custody"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "county jail property call"
   - "federal prison property call"
   - "after unexpected phone call"
-last_reviewed: "2026-06-20"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-20"
 ---
 

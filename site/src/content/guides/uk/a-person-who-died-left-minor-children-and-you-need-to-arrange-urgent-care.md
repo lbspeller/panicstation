@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a person who died left minor children and you need to arrange urgent care"
+seo_title: "Arranging urgent care for children after a death"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "urgent weekend child care"
   - "kinship care after bereavement"
   - "safe care unclear after death"
-last_reviewed: "2026-05-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-06"
 ---
 

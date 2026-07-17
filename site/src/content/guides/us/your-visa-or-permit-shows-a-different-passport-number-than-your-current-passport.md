@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your visa or permit shows a different passport number than your current passport"
+seo_title: "Visa or permit shows old passport number"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "passport mismatch after entry"
   - "pasport number mismatch"
   - "visa pasport number wrong"
-last_reviewed: "2026-06-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-11"
 ---
 

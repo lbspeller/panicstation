@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you feel unsafe at home because someone is sending threatening messages and says they are coming over"
+seo_title: "Someone threatening to come to your home"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "ex coming to my house"
   - "thretning texts"
   - "harrasing messages"
-last_reviewed: "2026-06-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-14"
 ---
 

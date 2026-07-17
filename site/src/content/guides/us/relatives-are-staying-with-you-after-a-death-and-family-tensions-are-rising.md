@@ -1,5 +1,6 @@
 ---
 title: "What to do if… relatives are staying with you after a death and family tensions are rising"
+seo_title: "Family tensions rising while hosting after a death"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "family tension during funeral planning"
   - "relitives staying after death"
   - "family tension after bereavment"
-last_reviewed: "2026-06-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-04"
 ---
 

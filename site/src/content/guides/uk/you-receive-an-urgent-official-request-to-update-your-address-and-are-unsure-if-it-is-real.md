@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive an urgent official request to update your address and are unsure if it is real"
+seo_title: "Urgent official request to update your address"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "official records have old address"
   - "address request after moving"
   - "enforcement letter old address"
-last_reviewed: "2026-05-15"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-15"
 ---
 

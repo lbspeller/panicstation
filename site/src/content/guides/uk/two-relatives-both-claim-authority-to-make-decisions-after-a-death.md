@@ -1,5 +1,6 @@
 ---
 title: "What to do if… two relatives both claim authority to make decisions after a death"
+seo_title: "Two relatives claim authority after a death"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "england wales probate dispute"
   - "scotland confirmation dispute"
   - "northern ireland probate dispute"
-last_reviewed: "2026-05-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-02"
 ---
 

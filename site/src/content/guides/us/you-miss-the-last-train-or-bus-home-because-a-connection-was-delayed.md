@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you miss the last train or bus home because a connection was delayed"
+seo_title: "Missed last train or bus due to delay"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "intercity trip disruption"
   - "commuter rail last service"
   - "late night transit disruption"
-last_reviewed: "2026-06-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-17"
 ---
 

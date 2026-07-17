@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your washing machine is leaking and water is spreading across the floor"
+seo_title: "Washing machine leaking and water spreading"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "wahsing machine leaking"
   - "rented flat washer leak"
   - "flat below water leak"
-last_reviewed: "2026-05-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-28"
 ---
 

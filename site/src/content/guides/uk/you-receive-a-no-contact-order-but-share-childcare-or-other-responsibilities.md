@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a no-contact order but share childcare or other responsibilities"
+seo_title: "No-contact order with shared childcare responsibilities"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "shared school responsibilities"
   - "no contact notis"
   - "childcare handovr confusion"
-last_reviewed: "2026-05-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-19"
 ---
 

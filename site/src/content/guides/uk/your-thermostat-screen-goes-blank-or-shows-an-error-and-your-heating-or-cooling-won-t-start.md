@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your thermostat screen goes blank or shows an error and your heating or cooling won’t start"
+seo_title: "Thermostat screen blank or heating and cooling not starting"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "combi boiler not starting"
   - "thermastat screen blank"
   - "termostat error code"
-last_reviewed: "2026-05-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-28"
 ---
 

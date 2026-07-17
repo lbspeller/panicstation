@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you find a locked safe or strongbox and suspect vital documents are inside"
+seo_title: "Finding a locked safe with potential estate documents"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -43,7 +44,7 @@ tags:
   - "bereavement document panic"
   - "locekd safe after death"
   - "stronbox with documents"
-last_reviewed: "2026-06-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-14"
 ---
 

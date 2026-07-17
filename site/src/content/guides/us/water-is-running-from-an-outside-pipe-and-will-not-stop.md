@@ -1,5 +1,6 @@
 ---
 title: "What to do if… water is running from an outside pipe and will not stop"
+seo_title: "Water running from outside pipe and will not stop"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "outside pipe leak while renting"
   - "dischage pipe leaking outside"
   - "overflow pip running outside"
-last_reviewed: "2026-06-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-06"
 ---
 

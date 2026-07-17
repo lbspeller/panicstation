@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you experience repeated power surges or flickering lights and worry about electrical damage"
+seo_title: "Repeated power surges or flickering lights"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "after storm power surges"
   - "power surges damge electronics"
   - "flickering lites at home"
-last_reviewed: "2026-06-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-14"
 ---
 

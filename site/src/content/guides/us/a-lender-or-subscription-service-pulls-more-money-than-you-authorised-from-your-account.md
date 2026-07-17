@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a lender or subscription service pulls more money than you authorised from your account"
+seo_title: "Lender or subscription took too much money"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "subcription charged too much"
   - "unauthorized withdrawl from account"
   - "free trial became recurring charge"
-last_reviewed: "2026-05-31"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-31"
 ---
 

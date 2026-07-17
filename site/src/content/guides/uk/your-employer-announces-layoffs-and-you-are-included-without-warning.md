@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your employer announces layoffs and you are included without warning"
+seo_title: "Sudden layoff or redundancy announcement"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "redunancy without warning"
   - "redundancy consultation confusion"
   - "uk employer redundancy"
-last_reviewed: "2026-05-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-25"
 ---
 

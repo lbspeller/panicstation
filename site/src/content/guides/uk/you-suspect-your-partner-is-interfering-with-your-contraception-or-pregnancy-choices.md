@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you suspect your partner is interfering with your contraception or pregnancy choices"
+seo_title: "Partner interfering with contraception or pregnancy"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "condom tamperring worry"
   - "living with controlling partner"
   - "unsafe relationship pregnancy"
-last_reviewed: "2026-05-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-22"
 ---
 

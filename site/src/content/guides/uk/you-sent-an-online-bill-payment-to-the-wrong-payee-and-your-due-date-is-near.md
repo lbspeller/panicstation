@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you sent an online bill payment to the wrong payee and your due date is near"
+seo_title: "Sent bill payment to wrong payee near due date"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "card payment wrong biller"
   - "biller payement mistake"
   - "recipent account wrong"
-last_reviewed: "2026-04-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-29"
 ---
 

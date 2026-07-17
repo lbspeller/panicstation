@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you smell a strong chemical or solvent odour indoors and cannot identify the source"
+seo_title: "Strong chemical or solvent smell indoors"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -33,7 +34,7 @@ tags:
   - "fumes in shared building"
   - "chemcial smell indoors"
   - "solvant smell indoors"
-last_reviewed: "2026-06-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-23"
 ---
 

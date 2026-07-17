@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice steam or light smoke coming from your parked vehicle"
+seo_title: "Steam or light smoke from parked vehicle"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "parked car in garage smoking"
   - "vehical smoking while parked"
   - "car is smokey after parking"
-last_reviewed: "2026-06-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-18"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your building intercom keeps buzzing from someone you are not expecting"
+seo_title: "Building intercom keeps buzzing from unknown person"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "shared building entrance"
   - "rented flat intercom"
   - "block of flats buzzer"
-last_reviewed: "2026-05-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-23"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a merchant says they refunded you but the card transaction is still showing as reversed"
+seo_title: "Merchant says refund sent but transaction shows reversed"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "google pay refund missing"
   - "replacement card refund missing"
   - "returned item refund missing"
-last_reviewed: "2026-04-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-27"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are told a critically ill relative must be transferred to another hospital quickly"
+seo_title: "Critically ill relative hospital transfer"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "hospital decision confusion"
   - "critcally ill relative"
   - "hosptial transfer call"
-last_reviewed: "2026-05-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-06"
 ---
 

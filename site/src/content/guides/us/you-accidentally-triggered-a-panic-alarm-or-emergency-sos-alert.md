@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you accidentally triggered a panic alarm or emergency SOS alert"
+seo_title: "Accidentally triggered panic alarm or SOS alert"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -34,7 +35,7 @@ tags:
   - "panic alarm triggered near children"
   - "accidently triggered panic alarm"
   - "panick alarm went off"
-last_reviewed: "2026-06-07"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-07"
 ---
 

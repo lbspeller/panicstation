@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have a fever after starting an immune-suppressing medication"
+seo_title: "Fever after starting immune-suppressing medication"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "possible cold after immune-suppressing medication"
   - "fever after immunosuppresant"
   - "fever after imunosuppressant"
-last_reviewed: "2026-06-12"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-12"
 ---
 

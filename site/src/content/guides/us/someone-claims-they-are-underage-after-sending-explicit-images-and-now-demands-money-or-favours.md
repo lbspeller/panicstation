@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone claims they are underage after sending explicit images and now demands money or favours"
+seo_title: "someone claims they are underage after sending explicit images"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "panic after explicit messages"
   - "sextorsion after explicit images"
   - "underage cliam after sexting"
-last_reviewed: "2026-06-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-04"
 ---
 

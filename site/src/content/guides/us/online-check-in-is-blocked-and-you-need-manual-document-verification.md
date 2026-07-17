@@ -1,5 +1,6 @@
 ---
 title: "What to do if… online check-in is blocked and you need manual document verification"
+seo_title: "Online check-in blocked for document verification"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "dual national passport check"
   - "document verfication pending"
   - "passport detials mismatch"
-last_reviewed: "2026-06-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-04"
 ---
 

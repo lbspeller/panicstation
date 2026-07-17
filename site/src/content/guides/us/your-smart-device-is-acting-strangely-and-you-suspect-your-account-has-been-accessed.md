@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your smart device is acting strangely and you suspect your account has been accessed"
+seo_title: "Smart device acting strangely or account accessed"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "smrt device acting strange"
   - "smart devce acting strange"
   - "smart device on home wifi"
-last_reviewed: "2026-07-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-03"
 ---
 

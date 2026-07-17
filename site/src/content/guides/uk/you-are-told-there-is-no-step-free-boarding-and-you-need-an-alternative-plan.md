@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are told there is no step-free boarding and you need an alternative plan"
+seo_title: "No step-free boarding or accessible route available"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -42,7 +43,7 @@ tags:
   - "rail access problem today"
   - "step free boarding"
   - "wheel chair stranded"
-last_reviewed: "2026-05-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-06"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your device is activation locked or linked to an unknown account"
+seo_title: "Device is activation locked or linked to unknown account"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "refurbished device linked account"
   - "activaton lock not mine"
   - "unknown acount on device"
-last_reviewed: "2026-06-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-28"
 ---
 

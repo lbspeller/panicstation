@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your new job start date is postponed after you have already resigned"
+seo_title: "New job start date postponed after resigning"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "after giving notice"
   - "between jobs with no pay"
   - "before first day at job"
-last_reviewed: "2026-07-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-04"
 ---
 

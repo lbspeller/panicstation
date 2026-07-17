@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your email app stops syncing or shows connection errors"
+seo_title: "Email app stops syncing or shows connection errors"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "android mail not syncing"
   - "work email connection error"
   - "home email sync problem"
-last_reviewed: "2026-05-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-25"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your probation period is being extended unexpectedly"
+seo_title: "Probation period extended unexpectedly"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "probation extention unexpectedly"
   - "probation extenstion at work"
   - "unexpected probation period change"
-last_reviewed: "2026-06-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-11"
 ---
 

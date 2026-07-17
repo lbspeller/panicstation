@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a bathroom extractor fan or vent is dripping water and you suspect a leak or condensation"
+seo_title: "Bathroom extractor fan or vent dripping water"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "rented apartment bathroom vent leak"
   - "bathroom exaust fan dripping"
   - "bathroom exractor fan leak"
-last_reviewed: "2026-05-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-29"
 ---
 

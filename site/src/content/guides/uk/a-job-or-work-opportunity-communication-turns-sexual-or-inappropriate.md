@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a job or work opportunity communication turns sexual or inappropriate"
+seo_title: "Job or work communication turns sexual or inappropriate"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -33,7 +34,7 @@ tags:
   - "job scam feels sexual"
   - "job offer turns sexul"
   - "inapropriate job messages"
-last_reviewed: "2026-05-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-05"
 ---
 

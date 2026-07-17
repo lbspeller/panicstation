@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a subpoena or formal demand to testify and the deadline is soon"
+seo_title: "Subpoena or formal demand to testify with urgent deadline"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "subpena deadline soon"
   - "subpeona to testify"
   - "federal subpoena deadline"
-last_reviewed: "2026-06-21"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-21"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a vehicle is parked too close to your door and someone is watching you"
+seo_title: "Vehicle blocking your door and someone watching you"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "alone in car park"
   - "multi-storey car park"
   - "returning to parked car"
-last_reviewed: "2026-05-15"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-15"
 ---
 

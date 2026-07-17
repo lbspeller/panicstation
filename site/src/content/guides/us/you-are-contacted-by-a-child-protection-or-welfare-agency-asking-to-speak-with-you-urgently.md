@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are contacted by a child protection or welfare agency asking to speak with you urgently"
+seo_title: "Urgent contact from child protection agency"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "safeguarding agency asking about my child"
   - "child protection call about child in my care"
   - "urgent agency contact about caregiver"
-last_reviewed: "2026-06-08"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-08"
 ---
 

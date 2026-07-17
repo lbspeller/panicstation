@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you hear a relative has died but cannot reach anyone to confirm the details"
+seo_title: "Confirming a relative's death when unreachable"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "relitive died no details"
   - "freind says relative died"
   - "relative died abroad uncertainty"
-last_reviewed: "2026-05-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-11"
 ---
 

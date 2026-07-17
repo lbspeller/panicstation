@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have diarrhea and are starting to show signs of dehydration"
+seo_title: "Diarrhea and signs of dehydration"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -33,7 +34,7 @@ tags:
   - "stomach flu dehydration worry"
   - "diarhea dehydration signs"
   - "diarreah dehydration signs"
-last_reviewed: "2026-06-15"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-15"
 ---
 

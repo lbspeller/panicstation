@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you hear buzzing, crackling, or sizzling from your electrical panel or fuse box"
+seo_title: "Buzzing, crackling, or sizzling electrical panel"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "noise from electrical cupboard"
   - "buzzing fuse box at night"
   - "rented home fuse box buzzing"
-last_reviewed: "2026-05-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-13"
 ---
 

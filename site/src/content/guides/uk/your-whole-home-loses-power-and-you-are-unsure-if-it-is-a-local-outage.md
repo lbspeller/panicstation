@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your whole home loses power and you are unsure if it is a local outage"
+seo_title: "Whole home loses power and unsure if local outage"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "power cut with no internet"
   - "fuse box triped"
   - "neigbour has no power"
-last_reviewed: "2026-05-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-29"
 ---
 

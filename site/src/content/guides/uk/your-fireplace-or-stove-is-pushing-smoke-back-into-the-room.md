@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your fireplace or stove is pushing smoke back into the room"
+seo_title: "Fireplace or stove pushing smoke into room"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "cold flue problem"
   - "chimney downdraft"
   - "fireplace backdraught smoke"
-last_reviewed: "2026-05-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-25"
 ---
 

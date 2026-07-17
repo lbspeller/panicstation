@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your temperature is unusually low while you are ill and you feel confused or disoriented"
+seo_title: "Unusually low temperature with confusion or disorientation"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "older person low temperature"
   - "diabetes low temperature illness"
   - "thyroid illness low temperature"
-last_reviewed: "2026-05-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-28"
 ---
 

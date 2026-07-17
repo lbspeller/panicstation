@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have a mandatory work training deadline approaching but have not been scheduled or assigned to complete it"
+seo_title: "Mandatory work training deadline with no assignment"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "complience training missing"
   - "new role training not scheduled"
   - "regulated work training missing"
-last_reviewed: "2026-05-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-16"
 ---
 

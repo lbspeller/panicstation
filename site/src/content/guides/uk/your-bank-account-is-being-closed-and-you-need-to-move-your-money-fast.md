@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your bank account is being closed and you need to move your money fast"
+seo_title: "Bank account closure notice and moving money fast"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -33,7 +34,7 @@ tags:
   - "debanking notice"
   - "bank account closeure"
   - "direc debit moving"
-last_reviewed: "2026-05-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-18"
 ---
 

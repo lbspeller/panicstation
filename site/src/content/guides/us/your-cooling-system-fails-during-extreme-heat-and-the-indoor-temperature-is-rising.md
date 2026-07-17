@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your cooling system fails during extreme heat and the indoor temperature is rising"
+seo_title: "Cooling system failure during extreme heat"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "pregnant person overheating"
   - "air condishoner broke"
   - "cooling sistem failed"
-last_reviewed: "2026-06-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-28"
 ---
 

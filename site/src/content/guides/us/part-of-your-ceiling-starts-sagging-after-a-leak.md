@@ -1,5 +1,6 @@
 ---
 title: "What to do if… part of your ceiling starts sagging after a leak"
+seo_title: "Ceiling sagging or bulging after a leak"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "rental ceiling sagging after leak"
   - "ceiling saggin after leak"
   - "bulging cieling after leak"
-last_reviewed: "2026-06-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-04"
 ---
 

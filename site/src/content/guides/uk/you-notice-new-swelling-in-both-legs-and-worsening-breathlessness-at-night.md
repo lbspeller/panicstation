@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice new swelling in both legs and worsening breathlessness at night"
+seo_title: "New leg swelling and worsening nighttime breathlessness"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "breathles at night"
   - "heart failure worry"
   - "blood clot worry"
-last_reviewed: "2026-05-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-16"
 ---
 

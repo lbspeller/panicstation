@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your webcam light turns on unexpectedly"
+seo_title: "Webcam light turns on unexpectedly"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "school laptop camera light"
   - "windows webcam light on"
   - "mac camera light on"
-last_reviewed: "2026-07-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-04"
 ---
 

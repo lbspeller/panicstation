@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your router settings show remote administration was turned on and you did not enable it"
+seo_title: "Router remote administration enabled without your permission"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "isp supplied router problem"
   - "home network remote access"
   - "routr settings changed"
-last_reviewed: "2026-05-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-27"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are told a colleague has made a formal complaint about you"
+seo_title: "Colleague has made a formal complaint about you"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "formal colleague complaint"
   - "coworker complant against me"
   - "colleague complant about me"
-last_reviewed: "2026-06-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-10"
 ---
 

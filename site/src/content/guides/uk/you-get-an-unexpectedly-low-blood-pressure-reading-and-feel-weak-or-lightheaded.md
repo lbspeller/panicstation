@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you get an unexpectedly low blood pressure reading and feel weak or lightheaded"
+seo_title: "Low blood pressure reading and feeling faint"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "liteheaded and weak"
   - "after hot bath dizzy"
   - "dehydrated and lightheaded"
-last_reviewed: "2026-05-12"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-12"
 ---
 

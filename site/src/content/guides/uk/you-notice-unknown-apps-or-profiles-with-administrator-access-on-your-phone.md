@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice unknown apps or profiles with administrator access on your phone"
+seo_title: "Unknown administrator apps or profiles on phone"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "vpn and management confusion"
   - "adminstrator access on phone"
   - "managment profile on phone"
-last_reviewed: "2026-05-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-16"
 ---
 

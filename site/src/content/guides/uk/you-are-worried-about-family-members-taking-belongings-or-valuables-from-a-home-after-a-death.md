@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are worried about family members taking belongings or valuables from a home after a death"
+seo_title: "Family members taking belongings after a death"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "authority not clear yet"
   - "belongins after death"
   - "valuables after bereavment"
-last_reviewed: "2026-05-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-02"
 ---
 

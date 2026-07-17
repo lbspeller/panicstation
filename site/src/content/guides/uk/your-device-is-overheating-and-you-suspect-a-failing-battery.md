@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your device is overheating and you suspect a failing battery"
+seo_title: "Device overheating and suspected battery failure"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "hot device in bag"
   - "batery getting hot"
   - "device over heating"
-last_reviewed: "2026-05-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-25"
 ---
 

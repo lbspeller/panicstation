@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you feel unsafe walking to your car because someone is loitering on your path"
+seo_title: "Unsafe walking to car due to someone loitering"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "after work parking lot"
   - "loitering near vehical"
   - "unsafe in parking gararge"
-last_reviewed: "2026-06-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-14"
 ---
 

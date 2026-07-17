@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your dishwasher is leaking water onto the kitchen floor mid-cycle"
+seo_title: "Dishwasher leaking water onto kitchen floor"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "dish washer leaking"
   - "dishwaser leaking water"
   - "rented flat dishwasher leak"
-last_reviewed: "2026-05-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-25"
 ---
 

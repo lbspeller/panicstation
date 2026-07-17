@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a finger or toe suddenly becomes cold, pale or blue and painful"
+seo_title: "Finger or toe suddenly cold, pale, or blue"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "first time cold finger"
   - "first time cold toe"
   - "no cold trigger"
-last_reviewed: "2026-04-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-26"
 ---
 

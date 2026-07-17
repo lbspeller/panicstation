@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have a first court appearance and cannot get legal advice in time"
+seo_title: "First court appearance without legal advice"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "first court appearance while in custody"
   - "interpreter needed at court appearance"
   - "disability affects court participation"
-last_reviewed: "2026-06-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-11"
 ---
 

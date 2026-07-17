@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you hit your eye and now have worsening pain or blurred vision"
+seo_title: "Eye hit with worsening pain or blurred vision"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "contact lens eye injury"
   - "blury vision after eye hit"
   - "eye truama after hit"
-last_reviewed: "2026-06-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-16"
 ---
 

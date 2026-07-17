@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you hit a daily transfer limit and need to send a payment today"
+seo_title: "Hit daily transfer limit and need to pay today"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "deposit payment due today"
   - "bank tranfer limit"
   - "payee detials changed"
-last_reviewed: "2026-05-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-13"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a dependent adult has been left without a caregiver due to a sudden death"
+seo_title: "Dependent adult left without a caregiver"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "same day care problem"
   - "out of state family"
   - "no power of attorney"
-last_reviewed: "2026-06-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-19"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a public electric vehicle charger will not start and your battery is too low to reach another station"
+seo_title: "Public EV charger will not start with low battery"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "broken ev charger"
   - "flat battery at charger"
   - "low battery at motorway services"
-last_reviewed: "2026-04-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-27"
 ---
 

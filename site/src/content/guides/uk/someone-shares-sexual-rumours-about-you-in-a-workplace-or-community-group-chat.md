@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone shares sexual rumours about you in a workplace or community group chat"
+seo_title: "Sexual rumours shared in a group chat"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "group chat bullying"
   - "sexual rumers at work"
   - "whatsapp sex rumour"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-01"
 ---
 

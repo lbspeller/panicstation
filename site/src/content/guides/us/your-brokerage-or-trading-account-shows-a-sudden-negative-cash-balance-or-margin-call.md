@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your brokerage or trading account shows a sudden negative cash balance or margin call"
+seo_title: "Brokerage account negative cash or margin call"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "brokerage fraud or margin problem"
   - "brokarage account negative cash"
   - "margn call notice"
-last_reviewed: "2026-05-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-29"
 ---
 

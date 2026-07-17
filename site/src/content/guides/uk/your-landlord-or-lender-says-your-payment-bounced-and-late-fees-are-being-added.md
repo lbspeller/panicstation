@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your landlord or lender says your payment bounced and late fees are being added"
+seo_title: "Landlord or lender says payment bounced and fees added"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "rent paymant bounced"
   - "mortage payment bounced"
   - "uk rent payment bounced"
-last_reviewed: "2026-05-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-26"
 ---
 

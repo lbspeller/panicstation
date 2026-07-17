@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your debit card PIN is changed and you did not request it"
+seo_title: "Debit card PIN changed without your request"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "identity theft concern"
   - "debit card pincode changed"
   - "atm pinn changed"
-last_reviewed: "2026-06-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-28"
 ---
 

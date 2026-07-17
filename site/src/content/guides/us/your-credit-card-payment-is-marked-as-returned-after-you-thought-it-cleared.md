@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your credit card payment is marked as returned after you thought it cleared"
+seo_title: "Credit card payment marked as returned"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "wrong account number used"
   - "paymant returned"
   - "minumum payment due"
-last_reviewed: "2026-06-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-28"
 ---
 

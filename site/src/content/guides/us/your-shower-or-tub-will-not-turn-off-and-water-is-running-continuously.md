@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your shower or tub will not turn off and water is running continuously"
+seo_title: "Shower or tub will not turn off"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "rental bathroom water running"
   - "house main water problem"
   - "after hours plumbing emergency"
-last_reviewed: "2026-07-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-03"
 ---
 

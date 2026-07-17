@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your cloud account shows many files moved to trash without you doing it"
+seo_title: "Cloud files moved to trash unexpectedly"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "cloud files gone suddenly"
   - "cloud acccount files deleted"
   - "cloud bakcup files missing"
-last_reviewed: "2026-05-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-24"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a colleague sends you aggressive or intimidating messages outside of working hours"
+seo_title: "Colleague sending aggressive messages after hours"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "colleague contacting me repeatedly"
   - "aggressive coworker slack messages"
   - "intimidating teams messages after hours"
-last_reviewed: "2026-05-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-30"
 ---
 

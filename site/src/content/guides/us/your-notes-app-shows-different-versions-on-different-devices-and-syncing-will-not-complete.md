@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your notes app shows different versions on different devices and syncing will not complete"
+seo_title: "Notes app sync conflict and different versions"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "offline notes confusion"
   - "notes not sincing"
   - "icloud notes not synching"
-last_reviewed: "2026-07-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-01"
 ---
 

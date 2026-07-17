@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your minimum credit card payment jumps far higher than usual"
+seo_title: "Credit card minimum payment jumped unexpectedly"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "uk minimum card payment shock"
   - "priority bills at risk"
   - "multiple debts and card payment"
-last_reviewed: "2026-05-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-26"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your bank has temporarily blocked your cheques or check writing for fraud checks"
+seo_title: "Bank has blocked your check writing"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "bank scam text concern"
   - "acount checks blocked"
   - "checkes are blocked"
-last_reviewed: "2026-06-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-25"
 ---
 

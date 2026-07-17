@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a new crack appears in a wall or ceiling and seems to be widening"
+seo_title: "Widening crack in wall or ceiling"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "wall crack in rental home"
   - "ceiling crack in rental home"
   - "widening crack near doorway"
-last_reviewed: "2026-06-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-01"
 ---
 

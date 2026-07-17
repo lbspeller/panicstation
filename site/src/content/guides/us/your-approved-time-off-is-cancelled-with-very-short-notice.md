@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your approved time off is cancelled with very short notice"
+seo_title: "Approved time off cancelled at short notice"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "remote worker approved time off"
   - "aproved pto cancelled"
   - "vacaton cancelled last minute"
-last_reviewed: "2026-06-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-25"
 ---
 

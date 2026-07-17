@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your mechanical car key will not turn and you cannot get into your vehicle"
+seo_title: "Mechanical car key will not turn in lock"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "car key is jamed"
   - "locked out in cold weather"
   - "locked out at night"
-last_reviewed: "2026-06-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-06"
 ---
 

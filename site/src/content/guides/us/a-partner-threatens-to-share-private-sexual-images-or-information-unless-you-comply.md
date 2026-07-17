@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a partner threatens to share private sexual images or information unless you comply"
+seo_title: "Partner threatening to share private sexual images"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "partner may monitor phone"
   - "sextorsion by partner"
   - "sexual blackmale by partner"
-last_reviewed: "2026-06-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-01"
 ---
 

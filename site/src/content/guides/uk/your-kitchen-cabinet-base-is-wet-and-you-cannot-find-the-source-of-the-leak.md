@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your kitchen cabinet base is wet and you cannot find the source of the leak"
+seo_title: "Kitchen cabinet base is wet and leaking"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "wetness behind cupboard"
   - "leeking pipe under sink"
   - "cabinate base wet"
-last_reviewed: "2026-05-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-26"
 ---
 

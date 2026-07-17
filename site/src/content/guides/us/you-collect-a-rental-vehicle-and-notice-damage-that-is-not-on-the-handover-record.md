@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you collect a rental vehicle and notice damage that is not on the handover record"
+seo_title: "Rental vehicle damage not on handover record"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -34,7 +35,7 @@ tags:
   - "airport rental car damage not recorded"
   - "rentel car damage not recorded"
   - "handover chek missing damage"
-last_reviewed: "2026-06-12"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-12"
 ---
 

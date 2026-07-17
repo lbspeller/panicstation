@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your bank sends a suspicious transaction alert asking you to confirm by link"
+seo_title: "Suspicious bank transaction alert with link"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "online banking link scam"
   - "suspicous bank transaction"
   - "phising bank link"
-last_reviewed: "2026-06-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-26"
 ---
 

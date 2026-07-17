@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are stopped for a document check abroad and do not have your passport with you"
+seo_title: "Stopped for document check abroad without passport"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "travelling without passport copy"
   - "pasport at hotel"
   - "foregot passport abroad"
-last_reviewed: "2026-05-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-05"
 ---
 

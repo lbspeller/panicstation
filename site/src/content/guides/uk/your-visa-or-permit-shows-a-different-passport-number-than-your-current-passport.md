@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your visa or permit shows a different passport number than your current passport"
+seo_title: "Visa or permit shows old passport number"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "evisaa passport mismatch"
   - "passport renewed while abroad"
   - "urgent travel passport mismatch"
-last_reviewed: "2026-05-08"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-08"
 ---
 

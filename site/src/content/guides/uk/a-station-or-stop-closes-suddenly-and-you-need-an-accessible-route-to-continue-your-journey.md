@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a station or stop closes suddenly and you need an accessible route to continue your journey"
+seo_title: "Station or stop closure and accessible route needed"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "travelling with pram"
   - "passenger assist not booked"
   - "last train cancelled access"
-last_reviewed: "2026-04-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-28"
 ---
 

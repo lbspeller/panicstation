@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your online card payments are being declined due to an address verification mismatch"
+seo_title: "Online card payment declined due to address mismatch"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "recently moved card declined"
   - "new address payment failed"
   - "card profile changed suddenly"
-last_reviewed: "2026-07-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-01"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone is pressuring you to have sex in exchange for money, housing, or help"
+seo_title: "Pressured to have sex for money or housing"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "boss pressuring for sex"
   - "sexual coersion"
   - "coersed sex for housing"
-last_reviewed: "2026-06-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-06"
 ---
 

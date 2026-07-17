@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a teacher, coach, or mentor sends you messages that feel sexual or inappropriate"
+seo_title: "a teacher sends you messages that feel sexual or inappropriate"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -42,7 +43,7 @@ tags:
   - "sports coach sexual undertones"
   - "mentor mesages with sexual undertones"
   - "teacher innapropriate messages"
-last_reviewed: "2026-06-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-02"
 ---
 

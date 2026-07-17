@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to attend a witness interview but worry you could be blamed"
+seo_title: "Asked to be a witness but fear being blamed"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "in person witness interview"
   - "wittness interview request"
   - "interveiw as a witness"
-last_reviewed: "2026-06-07"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-07"
 ---
 

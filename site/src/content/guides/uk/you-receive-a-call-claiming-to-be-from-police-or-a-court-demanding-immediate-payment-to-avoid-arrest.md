@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a call claiming to be from police or a court demanding immediate payment to avoid arrest"
+seo_title: "Call claiming police or court arrest threat"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "after paying a scam caller"
   - "uk police payment scam"
   - "uk court payment scam"
-last_reviewed: "2026-05-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-17"
 ---
 

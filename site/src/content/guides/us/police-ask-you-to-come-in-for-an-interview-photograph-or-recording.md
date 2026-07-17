@@ -1,5 +1,6 @@
 ---
 title: "What to do if… police ask you to come in for an interview, photograph, or recording"
+seo_title: "Police request for interview, photo, or recording"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "police inquery recording request"
   - "asked to come in voluntarily"
   - "asked to clear things up"
-last_reviewed: "2026-06-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-04"
 ---
 

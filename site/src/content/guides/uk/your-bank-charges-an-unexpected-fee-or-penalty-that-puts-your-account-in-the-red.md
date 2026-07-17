@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your bank charges an unexpected fee or penalty that puts your account in the red"
+seo_title: "Unexpected bank fee or penalty puts account in the red"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "bank fee penatly"
   - "rent due after bank fee"
   - "low income bank charge"
-last_reviewed: "2026-05-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-22"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you lock your keys inside your vehicle but still have your phone"
+seo_title: "Locked keys in vehicle with phone available"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "locked car at night"
   - "locked car while shopping"
   - "vehcle keys inside"
-last_reviewed: "2026-05-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-14"
 ---
 

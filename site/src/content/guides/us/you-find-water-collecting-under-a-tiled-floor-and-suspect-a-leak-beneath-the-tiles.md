@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you find water collecting under a tiled floor and suspect a leak beneath the tiles"
+seo_title: "Water collecting under a tiled floor"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "slab leak or drain leak"
   - "bathroom tiled floor leak"
   - "kitchen tiled floor leak"
-last_reviewed: "2026-06-15"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-15"
 ---
 

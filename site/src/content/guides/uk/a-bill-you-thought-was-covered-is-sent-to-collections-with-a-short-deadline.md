@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a bill you thought was covered is sent to collections with a short deadline"
+seo_title: "Bill sent to collections for a covered debt"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "warrenty bill dispute"
   - "uk debt collection deadline"
   - "letter of claim for bill"
-last_reviewed: "2026-04-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-25"
 ---
 

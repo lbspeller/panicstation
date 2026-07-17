@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have a positive pregnancy test and are experiencing pain or bleeding"
+seo_title: "Positive pregnancy test with pain or bleeding"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "under twenty weeks pregnant"
   - "early pregnancy no midwife"
   - "positive test before scan"
-last_reviewed: "2026-04-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-26"
 ---
 

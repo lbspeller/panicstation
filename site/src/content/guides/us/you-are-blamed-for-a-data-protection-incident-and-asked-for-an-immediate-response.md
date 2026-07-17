@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are blamed for a data protection incident and asked for an immediate response"
+seo_title: "Blamed for a data incident at work"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "mistake or data breach"
   - "privicy incident blamed on me"
   - "immediate responce demanded"
-last_reviewed: "2026-06-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-16"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an interviewer or recruiter asks sexual or inappropriate personal questions"
+seo_title: "Interviewer or recruiter asks sexual or inappropriate questions"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "recruter asked sexual questions"
   - "intervewer asked sexual questions"
   - "agency recruiter sexual questions"
-last_reviewed: "2026-04-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-29"
 ---
 

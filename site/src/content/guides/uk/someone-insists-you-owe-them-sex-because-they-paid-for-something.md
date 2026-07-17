@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone insists you owe them sex because they paid for something"
+seo_title: "Someone insists you owe them sex after payment"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "transactional sex confusion"
   - "presured into sex"
   - "coersed sex"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-01"
 ---
 

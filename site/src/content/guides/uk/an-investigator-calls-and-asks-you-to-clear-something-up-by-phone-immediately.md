@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an investigator calls and asks you to clear something up by phone immediately"
+seo_title: "Investigator calls asking to clear something up by phone"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "recieved investigator request"
   - "invesigator wants phone call"
   - "contacted while on licence"
-last_reviewed: "2026-05-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-18"
 ---
 

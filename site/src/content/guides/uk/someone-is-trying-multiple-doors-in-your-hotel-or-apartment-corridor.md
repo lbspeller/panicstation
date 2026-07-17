@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone is trying multiple doors in your hotel or apartment corridor"
+seo_title: "Someone trying multiple doors in your corridor"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "corrider door noises"
   - "apartmant door rattling"
   - "someone moving along doors"
-last_reviewed: "2026-05-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-05"
 ---
 

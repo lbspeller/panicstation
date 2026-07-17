@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your brokerage or trading account shows a sudden negative cash balance or margin call"
+seo_title: "Brokerage account negative cash or margin call"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "uk trading app deficit"
   - "margn call"
   - "negitive cash balance"
-last_reviewed: "2026-04-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-25"
 ---
 

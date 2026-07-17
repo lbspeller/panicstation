@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you hear a repeated clicking sound from a wall or electrical outlet"
+seo_title: "Repeated clicking sound from wall or electrical outlet"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "old house outlet clicking"
   - "outlet making clicking noize"
   - "burning smel near outlet"
-last_reviewed: "2026-06-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-16"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your ticket or pass is rejected at a station gate"
+seo_title: "Station ticket or pass rejected at gate"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "late night station barrier"
   - "tickit gate not working"
   - "barier not accepting ticket"
-last_reviewed: "2026-05-08"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-08"
 ---
 

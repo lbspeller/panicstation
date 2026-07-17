@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your device asks for a different Apple ID or Google Account to update apps"
+seo_title: "Device asks for different account to update apps"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "aple id update apps"
   - "gooogle account update apps"
   - "new phone old app account"
-last_reviewed: "2026-05-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-25"
 ---
 

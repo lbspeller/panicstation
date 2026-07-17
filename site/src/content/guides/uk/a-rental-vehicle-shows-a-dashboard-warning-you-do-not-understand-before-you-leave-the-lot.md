@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a rental vehicle shows a dashboard warning you do not understand before you leave the lot"
+seo_title: "Rental vehicle dashboard warning before leaving lot"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "after signing before leaving"
   - "dashbord warning hire car"
   - "vehical warning light"
-last_reviewed: "2026-04-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-26"
 ---
 

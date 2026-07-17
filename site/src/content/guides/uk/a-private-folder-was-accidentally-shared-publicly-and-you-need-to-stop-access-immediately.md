@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a private folder was accidentally shared publicly and you need to stop access immediately"
+seo_title: "Private folder accidentally shared publicly"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "dropbox folder shared link"
   - "privte folder shared publicly"
   - "accidently shared folder"
-last_reviewed: "2026-04-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-27"
 ---
 

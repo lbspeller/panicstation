@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you suspect someone is waiting for you in a hallway, stairwell, or entry area"
+seo_title: "Suspecting someone is waiting in your building entrance"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "in shared hallway"
   - "alone at night"
   - "returning home alone"
-last_reviewed: "2026-06-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-24"
 ---
 

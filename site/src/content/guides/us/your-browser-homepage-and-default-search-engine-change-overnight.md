@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your browser homepage and default search engine change overnight"
+seo_title: "Browser homepage or search engine changed overnight"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -43,7 +44,7 @@ tags:
   - "work computer browser changed"
   - "brower homepage changed"
   - "defualt search engine changed"
-last_reviewed: "2026-06-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-26"
 ---
 

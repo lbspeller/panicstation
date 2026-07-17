@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are told your background check has failed after you have already started your job"
+seo_title: "Background check failed after starting your job"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "background check rules confusion"
   - "backround check failed after hire"
   - "backgound report wrong person"
-last_reviewed: "2026-06-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-11"
 ---
 

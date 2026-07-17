@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you spot a recurring charge to a company you do not recognise"
+seo_title: "Unrecognised recurring charge on bank statement"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "recurring charge unkown company"
   - "credit card recurring charge"
   - "checking account recurring debit"
-last_reviewed: "2026-06-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-23"
 ---
 

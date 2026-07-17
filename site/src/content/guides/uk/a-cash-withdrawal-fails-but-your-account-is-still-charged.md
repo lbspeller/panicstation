@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a cash withdrawal fails but your account is still charged"
+seo_title: "ATM withdrawal failed but account charged"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "cash machne no money"
   - "cashpont took money"
   - "uk cash withdrawal problem"
-last_reviewed: "2026-04-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-25"
 ---
 

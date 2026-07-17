@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your interior lights or accessories will not turn off and you fear the battery will drain"
+seo_title: "Interior lights or accessories will not turn off"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "ev accessories stuck on"
   - "interior lites stuck on"
   - "car accesories stuck on"
-last_reviewed: "2026-06-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-30"
 ---
 

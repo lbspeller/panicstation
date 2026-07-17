@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a partner threatens to accuse you of cheating to pressure you into sex"
+seo_title: "Partner threatening cheating accusations to pressure for sex"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "partner threat while living together"
   - "parnter threatens cheating accusation"
   - "cheeting accusation used for sex"
-last_reviewed: "2026-06-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-01"
 ---
 

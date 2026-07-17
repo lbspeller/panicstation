@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you develop shaking chills and feel suddenly much sicker than a typical viral illness"
+seo_title: "Sudden shaking chills and feeling severely unwell"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "shaking chillls"
   - "severe shivvering"
   - "adult shaking chills"
-last_reviewed: "2026-05-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-09"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… police ask for access to your vehicle data, dashcam, or connected car app"
+seo_title: "Police request for vehicle data or dashcam access"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "after crash vehicle data request"
   - "witness asked for dashcam footage"
   - "rental car vehicle data request"
-last_reviewed: "2026-06-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-04"
 ---
 

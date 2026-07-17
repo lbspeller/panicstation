@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are being pressured for funeral details before you are ready to share them"
+seo_title: "Pressured to share funeral details before you are ready"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "early grief and messages"
   - "funeral details before ready"
   - "funeral details privacy worry"
-last_reviewed: "2026-05-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-19"
 ---
 

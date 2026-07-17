@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you develop hives or facial swelling after eating or taking a medication"
+seo_title: "Hives or facial swelling after eating or medication"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "medicine side effect rash"
   - "after new antibiotic"
   - "after painkiller"
-last_reviewed: "2026-05-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-09"
 ---
 

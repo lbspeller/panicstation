@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a landlord or supplier sends unexpected new bank details for a payment"
+seo_title: "Unexpected request to change payment bank details"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "supplier invoice scam"
   - "landord sent new bank details"
   - "suppler changed bank account"
-last_reviewed: "2026-05-31"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-31"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your vehicle gets stuck in an automated car wash or automated parking system"
+seo_title: "Vehicle stuck in automated car wash or parking system"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "automatic parking stuck"
   - "with children in car"
   - "alone in car wash"
-last_reviewed: "2026-07-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-04"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have a fever and a rash that does not fade when pressed"
+seo_title: "Fever with a rash that does not fade when pressed"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "rash hard to see"
   - "fever rash dark skin"
   - "rash not fading on glass"
-last_reviewed: "2026-05-12"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-12"
 ---
 

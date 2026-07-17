@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your cane, walker, or other walking aid breaks while you are out"
+seo_title: "Walking aid breaks while you are out"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "rolator broke outside"
   - "out alone mobility aid"
   - "at station walking aid broke"
-last_reviewed: "2026-04-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-25"
 ---
 

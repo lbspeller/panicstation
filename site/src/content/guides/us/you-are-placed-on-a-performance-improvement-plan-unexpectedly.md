@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are placed on a performance improvement plan unexpectedly"
+seo_title: "Unexpected performance improvement plan at work"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "remote employee placed on pip"
   - "perfomance improvement plan unexpectedly"
   - "preformance improvement plan unexpectedly"
-last_reviewed: "2026-06-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-09"
 ---
 

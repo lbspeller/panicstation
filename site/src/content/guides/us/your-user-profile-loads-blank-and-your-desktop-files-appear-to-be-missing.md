@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your user profile loads blank and your desktop files appear to be missing"
+seo_title: "User profile blank and desktop files missing"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "icloud desktop confusion"
   - "after windows update missing"
   - "after restart files missing"
-last_reviewed: "2026-07-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-04"
 ---
 

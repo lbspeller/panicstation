@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you accidentally pay a bill twice and it leaves you short for essentials"
+seo_title: "Accidentally paid a bill twice and short on cash"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "double charged by mistake"
   - "duplicate paymant"
   - "direct debbit taken twice"
-last_reviewed: "2026-05-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-03"
 ---
 

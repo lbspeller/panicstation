@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have rapid weight gain, new widespread swelling, and shortness of breath"
+seo_title: "Rapid weight gain, swelling, and shortness of breath"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "after new medication swelling"
   - "postpartum swelling breathless"
   - "pregnant and swollen breathless"
-last_reviewed: "2026-05-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-09"
 ---
 

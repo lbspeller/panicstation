@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a formal disciplinary hearing notice at work"
+seo_title: "Formal disciplinary hearing notice at work"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "not sure what accused of"
   - "disiplinary hearing notice"
   - "disciplinery notice at work"
-last_reviewed: "2026-06-20"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-20"
 ---
 

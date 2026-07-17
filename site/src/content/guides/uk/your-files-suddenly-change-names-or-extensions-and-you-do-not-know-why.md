@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your files suddenly change names or extensions and you do not know why"
+seo_title: "Files suddenly renamed or extensions changed"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "mac files changed extensions"
   - "ransomeware on computer"
   - "files encryted suddenly"
-last_reviewed: "2026-05-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-25"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive an alert that your account security or recovery details have been changed"
+seo_title: "Account security or recovery details changed alert"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "sim swap concern"
   - "securrity alert"
   - "backup emial removed"
-last_reviewed: "2026-06-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-22"
 ---
 

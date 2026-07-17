@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to share your work login details or approve an unexpected multi-factor prompt"
+seo_title: "Asked for work login or unexpected MFA prompt"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "slack message asks for login"
   - "unexpected mfa promt"
   - "work logn details request"
-last_reviewed: "2026-06-08"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-08"
 ---
 

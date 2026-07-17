@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive an unexpected collect call from a detention facility and you do not know who it is"
+seo_title: "Unexpected collect call from a detention facility"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -33,7 +34,7 @@ tags:
   - "fake detention facility call"
   - "detention facillity call"
   - "prision call from unknown"
-last_reviewed: "2026-05-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-19"
 ---
 

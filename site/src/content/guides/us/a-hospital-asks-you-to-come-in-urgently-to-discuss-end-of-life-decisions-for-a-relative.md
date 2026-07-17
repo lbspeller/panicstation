@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a hospital asks you to come in urgently to discuss end-of-life decisions for a relative"
+seo_title: "Urgent hospital meeting about end-of-life decisions"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "family conflict at hospital"
   - "out of state hospital call"
   - "relative cannot make medical decisions"
-last_reviewed: "2026-05-31"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-31"
 ---
 

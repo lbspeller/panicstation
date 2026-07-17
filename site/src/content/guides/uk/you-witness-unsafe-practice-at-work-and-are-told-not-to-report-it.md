@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you witness unsafe practice at work and are told not to report it"
+seo_title: "Witnessing unsafe work and told not to report it"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "whistleblowing or grievance confusion"
   - "safety complaint or whistleblowing"
   - "reportng unsafe practice"
-last_reviewed: "2026-05-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-22"
 ---
 

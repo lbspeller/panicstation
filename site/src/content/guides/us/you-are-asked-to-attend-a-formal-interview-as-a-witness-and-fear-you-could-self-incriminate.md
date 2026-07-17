@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to attend a formal interview as a witness and fear you could self-incriminate"
+seo_title: "Asked to be a witness but fear self-incrimination"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "grand jury witness worry"
   - "federal witness interview request"
   - "station interview as witness"
-last_reviewed: "2026-06-21"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-21"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a medical provider threatens to pause your care unless you pay an unexpected balance"
+seo_title: "Medical provider threatens to pause care over unpaid balance"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "payment demanded before appointment"
   - "my unexpcted medical balance is due"
   - "my medcal provider demands payment"
-last_reviewed: "2026-05-31"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-31"
 ---
 

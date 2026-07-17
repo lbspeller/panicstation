@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you suddenly feel unsteady on your feet or unusually clumsy without a clear reason"
+seo_title: "Suddenly feeling unsteady or clumsy"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "unsteady after new medicine"
   - "unsteady when alone"
   - "unsteady and cannot walk safely"
-last_reviewed: "2026-05-21"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-21"
 ---
 

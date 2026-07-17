@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you accidentally permanently delete an important folder and need to recover it today"
+seo_title: "Accidentally permanently deleted an important folder"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "restore previous version folder"
   - "folder deleted by sync"
   - "folder gone after update"
-last_reviewed: "2026-05-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-03"
 ---
 

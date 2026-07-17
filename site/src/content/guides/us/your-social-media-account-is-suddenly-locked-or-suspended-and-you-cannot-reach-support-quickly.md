@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your social media account is suddenly locked or suspended and you cannot reach support quickly"
+seo_title: "Social media account locked or suspended"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "account takeover warning"
   - "instgram account locked"
   - "facebok account suspended"
-last_reviewed: "2026-07-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-04"
 ---
 

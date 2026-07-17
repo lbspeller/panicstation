@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your cloud notes or documents suddenly appear empty after you sign in"
+seo_title: "Cloud notes or documents appear empty after sign in"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "school cloud account empty"
   - "cloud docments missing"
   - "onedrive files emtpy"
-last_reviewed: "2026-05-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-24"
 ---
 

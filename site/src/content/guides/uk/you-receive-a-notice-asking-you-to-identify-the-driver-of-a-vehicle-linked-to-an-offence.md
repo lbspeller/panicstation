@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a notice asking you to identify the driver of a vehicle linked to an offence"
+seo_title: "Notice asking you to identify the driver"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "wrong driver named"
   - "speeding camra notice"
   - "offical police notice"
-last_reviewed: "2026-05-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-19"
 ---
 

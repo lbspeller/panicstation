@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your train, subway, or tram stops unexpectedly and you are not getting information"
+seo_title: "Train, subway, or tram stopped unexpectedly"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "late night train stopped"
   - "trian stopped unexpectedly"
   - "subwy stopped in tunnel"
-last_reviewed: "2026-05-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-28"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you discover an adult is sending sexual messages to your child in a game or app"
+seo_title: "an adult is sending sexual messages to your child in a game or app"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "under eighteen online contact"
   - "online groomming worry"
   - "sexulised chat in app"
-last_reviewed: "2026-05-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-10"
 ---
 

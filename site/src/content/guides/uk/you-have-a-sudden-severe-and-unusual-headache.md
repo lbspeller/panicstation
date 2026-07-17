@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have a sudden, severe, and unusual headache"
+seo_title: "Sudden severe or unusual headache"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "severe headache pregnant"
   - "postpartum severe headache"
   - "severe headache blood thinners"
-last_reviewed: "2026-05-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-13"
 ---
 

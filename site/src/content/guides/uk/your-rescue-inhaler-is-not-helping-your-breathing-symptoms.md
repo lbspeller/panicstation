@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your rescue inhaler is not helping your breathing symptoms"
+seo_title: "Rescue inhaler not relieving breathing symptoms"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "my blue inhaler is not helping"
   - "inhalor not working"
   - "asma inhaler not helping"
-last_reviewed: "2026-05-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-27"
 ---
 

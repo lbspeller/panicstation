@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a notice that a past-due bill will be escalated to enforcement unless paid today"
+seo_title: "Urgent notice threatening enforcement for unpaid bill"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "overdue bil notice"
   - "council tax arrears notice"
   - "parking fine enforcement warning"
-last_reviewed: "2026-05-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-18"
 ---
 

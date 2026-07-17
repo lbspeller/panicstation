@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive alerts that accounts are being accessed after a death and you suspect identity misuse"
+seo_title: "Account alerts after a death and suspected identity misuse"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "after funeral account alerts"
   - "login alrets after death"
   - "acounts accessed after death"
-last_reviewed: "2026-06-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-22"
 ---
 

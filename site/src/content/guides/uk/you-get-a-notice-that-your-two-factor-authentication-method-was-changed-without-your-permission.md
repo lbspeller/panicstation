@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you get a notice that your two-factor authentication method was changed without your permission"
+seo_title: "Two-factor authentication changed without permission"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "account recovery options changed"
   - "two factor auth changed"
   - "authentificator app changed"
-last_reviewed: "2026-05-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-11"
 ---
 

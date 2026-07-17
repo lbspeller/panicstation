@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are pressured to sign a settlement agreement or resignation letter on the spot"
+seo_title: "Pressured to sign resignation or settlement papers"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "uk workplace meeting"
   - "uk employment exit"
   - "before signing work papers"
-last_reviewed: "2026-05-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-06"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a password manager shows unexpected vault changes or missing entries"
+seo_title: "Password manager shows unexpected changes or missing entries"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "family vault changed"
   - "passwrod manager changed"
   - "passwrod vault missing"
-last_reviewed: "2026-04-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-27"
 ---
 

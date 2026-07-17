@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your passport is damaged, hole-punched, or marked and you are worried it will be rejected"
+seo_title: "Damaged, marked, or hole-punched passport travel risk"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "uk passport damaged"
   - "pasport hole punched"
   - "passport dammaged"
-last_reviewed: "2026-05-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-27"
 ---
 

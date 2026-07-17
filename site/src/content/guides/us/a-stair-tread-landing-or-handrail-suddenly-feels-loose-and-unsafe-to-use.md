@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a stair tread, landing, or handrail suddenly feels loose and unsafe to use"
+seo_title: "Stair tread, landing, or handrail feels loose"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "outside stairs feel unsafe"
   - "loose bannister"
   - "loose stair tred"
-last_reviewed: "2026-06-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-02"
 ---
 

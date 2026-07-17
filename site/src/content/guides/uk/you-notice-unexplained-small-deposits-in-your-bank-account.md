@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice unexplained small deposits in your bank account"
+seo_title: "Unexplained small deposits in your bank account"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "online banking suspicious activity"
   - "micro deposites in account"
   - "bank acount tiny deposits"
-last_reviewed: "2026-05-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-16"
 ---
 

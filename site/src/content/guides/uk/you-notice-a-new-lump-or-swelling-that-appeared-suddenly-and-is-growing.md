@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice a new lump or swelling that appeared suddenly and is growing"
+seo_title: "New lump or swelling that is growing"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "breast lump new"
   - "testicle lump new"
   - "sudden neck swelling"
-last_reviewed: "2026-05-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-14"
 ---
 

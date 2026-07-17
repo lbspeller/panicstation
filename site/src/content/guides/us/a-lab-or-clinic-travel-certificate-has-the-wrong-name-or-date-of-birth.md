@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a lab or clinic travel certificate has the wrong name or date of birth"
+seo_title: "Travel certificate has wrong name or date of birth"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "international travel certificate mismatch"
   - "certficate wrong name"
   - "date of brith on certificate"
-last_reviewed: "2026-05-31"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-31"
 ---
 

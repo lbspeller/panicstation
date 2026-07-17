@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you discover an explicit deepfake image or video of yourself"
+seo_title: "you discover an explicit deepfake image or video of yourself"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "explicit image not real"
   - "deep fake porn of me"
   - "deepfake porrn with my face"
-last_reviewed: "2026-06-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-13"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a merchant charges you multiple times for the same purchase"
+seo_title: "Merchant charged you multiple times for same purchase"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "credit card charged twice"
   - "merchant charaged me twice"
   - "duplicate purchace charge"
-last_reviewed: "2026-05-31"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-31"
 ---
 

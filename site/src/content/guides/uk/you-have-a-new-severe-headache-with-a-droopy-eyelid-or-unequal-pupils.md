@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have a new severe headache with a droopy eyelid or unequal pupils"
+seo_title: "New severe headache with droopy eyelid or unequal pupils"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "severe headache after birth"
   - "severe headache on blood thinners"
   - "severe headache after exertion"
-last_reviewed: "2026-05-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-11"
 ---
 

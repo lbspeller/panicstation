@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your card issuer blocks online payments and you have essential bills due today"
+seo_title: "Card issuer blocked online payments for urgent bills"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "direct debit still pending"
   - "scam call about blocked card"
   - "urgent essential bill payment"
-last_reviewed: "2026-05-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-24"
 ---
 

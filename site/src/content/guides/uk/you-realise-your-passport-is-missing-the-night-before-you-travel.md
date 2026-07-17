@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you realise your passport is missing the night before you travel"
+seo_title: "Passport missing the night before travel"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "holiday tomorrow passport lost"
   - "pasport missing"
   - "passprt lost"
-last_reviewed: "2026-05-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-17"
 ---
 

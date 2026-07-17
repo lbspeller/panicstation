@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you realise you brought an old or cancelled passport instead of your current one"
+seo_title: "Brought old or cancelled passport to airport"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "travelling today passport issue"
   - "abroad without valid passport"
   - "last minute passport panic"
-last_reviewed: "2026-06-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-19"
 ---
 

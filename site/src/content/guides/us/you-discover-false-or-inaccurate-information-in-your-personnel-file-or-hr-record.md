@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you discover false or inaccurate information in your personnel file or HR record"
+seo_title: "False or inaccurate information in your HR record"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "personel file has false information"
   - "hr recrod has wrong information"
   - "remote employee personnel file problem"
-last_reviewed: "2026-06-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-13"
 ---
 

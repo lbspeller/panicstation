@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a call claiming to be from police or a court demanding immediate payment to avoid arrest"
+seo_title: "Call claiming police or court arrest threat"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "court imposter call"
   - "after sending gift cards"
   - "after using bitcoin atm"
-last_reviewed: "2026-06-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-19"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you find a fake dating profile using your photos to send sexual messages"
+seo_title: "Fake dating profile using your photos"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "sexual profile not made by me"
   - "dating app account not me"
   - "fake account found in uk"
-last_reviewed: "2026-05-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-11"
 ---
 

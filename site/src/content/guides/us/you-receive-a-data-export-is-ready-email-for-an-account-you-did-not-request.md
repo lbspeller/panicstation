@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a data export is ready email for an account you did not request"
+seo_title: "Unexpected data export email for your account"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "school account export email"
   - "i didnt request export"
   - "acount export ready email"
-last_reviewed: "2026-06-20"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-20"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you lose your paper boarding pass for a connection and cannot access your booking on your phone"
+seo_title: "Lost connection boarding pass and cannot access booking"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "connecting flight without barcode"
   - "boading pass lost"
   - "conection boarding pass lost"
-last_reviewed: "2026-05-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-14"
 ---
 

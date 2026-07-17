@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your private nude photos or videos are being shared online without your consent"
+seo_title: "Private nude photos or videos shared online without consent"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "sextortion threats online"
   - "nudes fotos online"
   - "nude vidio online"
-last_reviewed: "2026-06-15"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-15"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your personal contact details have been shared internally at work without your consent"
+seo_title: "Personal contact details shared at work without consent"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "remote worker contact details shared"
   - "personal adress shared at work"
   - "phone numbr shared at work"
-last_reviewed: "2026-05-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-14"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a vehicle or storage unit linked to someone who died is at risk of being towed or cleared"
+seo_title: "Vehicle or storage unit at risk after a death"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "private land towing threat"
   - "vehicle removal notice"
   - "bereavement urgent property"
-last_reviewed: "2026-05-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-10"
 ---
 

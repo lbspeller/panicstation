@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a written allegation of misconduct from your employer"
+seo_title: "Written allegation of misconduct from employer"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "misconduct or gross misconduct"
   - "misconduct alegation letter"
   - "disciplinary allegaton letter"
-last_reviewed: "2026-05-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-19"
 ---
 

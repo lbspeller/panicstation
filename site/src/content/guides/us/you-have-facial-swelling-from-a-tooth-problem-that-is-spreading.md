@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have facial swelling from a tooth problem that is spreading"
+seo_title: "Spreading facial swelling from a tooth problem"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "tooth swelling with diabetes"
   - "tooth swelling during pregnancy"
   - "tooth swelling while immunosuppressed"
-last_reviewed: "2026-06-12"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-12"
 ---
 

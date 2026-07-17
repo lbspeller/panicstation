@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice water seeping through a basement wall"
+seo_title: "Water seeping through a basement wall"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "rented basement flat leak"
   - "finished basement wall damp"
   - "older house cellar wet"
-last_reviewed: "2026-05-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-16"
 ---
 

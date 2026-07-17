@@ -1,5 +1,6 @@
 ---
 title: "What to do if… HR is ignoring your reports of repeated unwanted behaviour at work and the situation is escalating"
+seo_title: "HR ignoring escalating unwanted behaviour at work"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "unwanted behaviour happens in work messages"
   - "hr ignores harrassment complaint"
   - "workplace harrasment is escalating"
-last_reviewed: "2026-06-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-03"
 ---
 

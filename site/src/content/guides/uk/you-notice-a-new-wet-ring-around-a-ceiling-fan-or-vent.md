@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice a new wet ring around a ceiling fan or vent"
+seo_title: "New wet ring around ceiling fan or vent"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "flat leak from upstairs"
   - "wet cieling around fan"
   - "ceiling fan leeking"
-last_reviewed: "2026-05-15"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-15"
 ---
 

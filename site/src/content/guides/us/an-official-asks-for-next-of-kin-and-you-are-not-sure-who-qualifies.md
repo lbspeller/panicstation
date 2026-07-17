@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an official asks for next of kin and you are not sure who qualifies"
+seo_title: "Official asks for next of kin and you are unsure"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "next of kin in another state"
   - "next of kin detials unclear"
   - "next of kin infomation unclear"
-last_reviewed: "2026-06-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-03"
 ---
 

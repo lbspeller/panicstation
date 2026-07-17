@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a skylight or roof window frame is visibly loose and bad weather is forecast"
+seo_title: "Skylight or roof window frame is loose before bad weather"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "townhome roof window frame loose"
   - "skylite frame loose"
   - "skylight frame lose"
-last_reviewed: "2026-06-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-02"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… police say they have a warrant and are asking you to open the door"
+seo_title: "Police at the door with a warrant"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "police at door with children"
   - "late night warrant knock"
   - "federal officers at door"
-last_reviewed: "2026-06-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-04"
 ---
 

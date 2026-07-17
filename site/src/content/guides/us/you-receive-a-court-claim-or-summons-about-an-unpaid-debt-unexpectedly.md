@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a court claim or summons about an unpaid debt unexpectedly"
+seo_title: "Unexpected court claim or summons for debt"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -33,7 +34,7 @@ tags:
   - "dept lawsuit papers"
   - "summons and compliant debt"
   - "identity theft debt claim"
-last_reviewed: "2026-06-20"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-20"
 ---
 

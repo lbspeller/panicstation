@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a restaurant tip adjustment posts days later and pushes your account into overdraft"
+seo_title: "Restaurant tip adjustment caused account overdraft"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "debit card restaurant charge overdrew account"
   - "resturant tip adjustment"
   - "overdaft after restaurant tip"
-last_reviewed: "2026-06-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-01"
 ---
 

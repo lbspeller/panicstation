@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you get a new severe stiff neck without an obvious injury"
+seo_title: "New severe stiff neck without injury"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "neck strain or meningitis"
   - "slept wrong or serious"
   - "adult new neck stiffness"
-last_reviewed: "2026-06-15"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-15"
 ---
 

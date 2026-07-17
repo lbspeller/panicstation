@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you run out of fuel and your vehicle is safely off the road"
+seo_title: "Ran out of fuel and safely off the road"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "afraid to leave vehicle"
   - "far from gas station"
   - "safely off the road"
-last_reviewed: "2026-06-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-23"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you start a new medicine and feel faint, unusually restless, or severely sweaty"
+seo_title: "New medicine causes faintness, restlessness, or sweating"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "new medecine feels wrong"
   - "after first dose symptoms"
   - "after dose increase symptoms"
-last_reviewed: "2026-06-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-23"
 ---
 

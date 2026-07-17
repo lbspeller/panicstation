@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you develop pelvic pain with fever and unusual discharge"
+seo_title: "Pelvic pain with fever and unusual discharge"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "pelvic pain and possible pregnancy"
   - "pelvic pain with feever"
   - "unusual dischage with fever"
-last_reviewed: "2026-06-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-13"
 ---
 

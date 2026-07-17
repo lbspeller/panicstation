@@ -1,5 +1,6 @@
 ---
 title: "What to do if… water is leaking around a skylight or roof window during rain"
+seo_title: "Water leaking around a skylight or roof window"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "tenant roof leak during rain"
   - "leasehold communal roof leak"
   - "roof leak in uk rain"
-last_reviewed: "2026-05-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-02"
 ---
 

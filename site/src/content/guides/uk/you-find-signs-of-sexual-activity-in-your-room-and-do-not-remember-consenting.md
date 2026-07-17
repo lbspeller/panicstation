@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you find signs of sexual activity in your room and do not remember consenting"
+seo_title: "Signs of sexual activity and memory loss"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "assult fear"
   - "room entry worry"
   - "shared house bedroom"
-last_reviewed: "2026-05-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-11"
 ---
 

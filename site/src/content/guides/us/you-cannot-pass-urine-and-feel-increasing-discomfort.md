@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you cannot pass urine and feel increasing discomfort"
+seo_title: "Cannot pass urine and feeling increasing discomfort"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "prostate trouble cannot pee"
   - "urine retension discomfort"
   - "urinary retenion pain"
-last_reviewed: "2026-06-12"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-12"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your cloud storage is deleting files and you did not start it"
+seo_title: "Cloud storage deleting files unexpectedly"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -33,7 +34,7 @@ tags:
   - "onedrive files dissapearing"
   - "work cloud storage deleting files"
   - "personal cloud storage deleting files"
-last_reviewed: "2026-05-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-18"
 ---
 

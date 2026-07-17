@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to decide about donating a loved one’s body to medical science with little time"
+seo_title: "Urgent decision about body donation to science"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "sudden death donation decision"
   - "body donaton decision"
   - "medical scince donation"
-last_reviewed: "2026-05-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-03"
 ---
 

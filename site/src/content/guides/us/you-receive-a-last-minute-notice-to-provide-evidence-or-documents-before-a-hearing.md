@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a last-minute notice to provide evidence or documents before a hearing"
+seo_title: "Urgent notice to provide evidence before a hearing"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "self-represented before hearing"
   - "federal court hearing documents"
   - "state court hearing documents"
-last_reviewed: "2026-06-20"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-20"
 ---
 

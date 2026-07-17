@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked for proof of accommodation for your full stay and have gaps in your bookings"
+seo_title: "Asked for proof of accommodation with booking gaps"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "proof of accomodation gaps"
   - "accomodation booking gaps"
   - "uk traveller booking gaps"
-last_reviewed: "2026-05-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-04"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a stranger keeps bothering you and escalating after you refuse to take your headphones out"
+seo_title: "Stranger escalating after you refuse to remove headphones"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "stranger asks where i live"
   - "stranger asks where i am going"
   - "stranger will not take no"
-last_reviewed: "2026-06-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-02"
 ---
 

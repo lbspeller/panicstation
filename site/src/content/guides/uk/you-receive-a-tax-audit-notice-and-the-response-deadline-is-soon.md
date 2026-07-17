@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a tax audit notice and the response deadline is soon"
+seo_title: "Tax audit notice with an urgent deadline"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "vat records audit notice"
   - "tax auddit notice"
   - "tax enquiry leter"
-last_reviewed: "2026-05-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-19"
 ---
 

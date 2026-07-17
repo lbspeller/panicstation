@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your website’s DNS records change unexpectedly and traffic is being diverted to the wrong place"
+seo_title: "Website DNS records changed and traffic diverted"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "ecommerce site dns"
   - "company domain compromised"
   - "usa website dns incident"
-last_reviewed: "2026-07-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-04"
 ---
 

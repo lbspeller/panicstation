@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have diabetes and a foot blister or wound that is worsening or looks infected"
+seo_title: "Diabetes foot blister or wound worsening or infected"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "diabetes with nerve damage"
   - "diabetes with poor circulation"
   - "diabetes out of hours foot problem"
-last_reviewed: "2026-05-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-13"
 ---
 

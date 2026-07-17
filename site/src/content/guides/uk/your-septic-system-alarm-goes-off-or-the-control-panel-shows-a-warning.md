@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your septic system alarm goes off or the control panel shows a warning"
+seo_title: "Septic system alarm or warning light"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "treatment plant alarm"
   - "septik alarm going off"
   - "septic controll panel warning"
-last_reviewed: "2026-05-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-28"
 ---
 

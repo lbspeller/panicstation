@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you discover someone has used your identity to apply for credit or open accounts"
+seo_title: "Identity theft and fraudulent credit accounts"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "before calling the lender"
   - "idenity documents used for credit"
   - "credit report wierd account"
-last_reviewed: "2026-06-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-14"
 ---
 

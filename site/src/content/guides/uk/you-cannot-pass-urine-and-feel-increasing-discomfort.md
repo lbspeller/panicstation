@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you cannot pass urine and feel increasing discomfort"
+seo_title: "Cannot pass urine and feeling increasing discomfort"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "after catheter removal cant pee"
   - "after childbirth cant pee"
   - "new medicine urinary difficulty"
-last_reviewed: "2026-05-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-09"
 ---
 

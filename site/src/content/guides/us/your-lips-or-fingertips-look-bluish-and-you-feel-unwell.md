@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your lips or fingertips look bluish and you feel unwell"
+seo_title: "Bluish lips or fingertips and feeling unwell"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -42,7 +43,7 @@ tags:
   - "copd blue lips"
   - "home oxygen concern"
   - "pulse ox normal blue"
-last_reviewed: "2026-06-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-30"
 ---
 

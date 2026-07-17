@@ -1,5 +1,6 @@
 ---
 title: "What to do if… police ask to search your car and you want to know your options"
+seo_title: "Police ask to search your car"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "driver during roadside stop"
   - "police serch my car"
   - "police search my vehical"
-last_reviewed: "2026-06-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-04"
 ---
 

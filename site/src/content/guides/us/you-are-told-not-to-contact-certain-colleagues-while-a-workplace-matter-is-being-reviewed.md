@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are told not to contact certain colleagues while a workplace matter is being reviewed"
+seo_title: "Told not to contact colleagues during workplace review"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "public sector colleague contact restricted"
   - "work chat access still active"
   - "matter under review at work"
-last_reviewed: "2026-06-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-10"
 ---
 

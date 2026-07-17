@@ -1,5 +1,6 @@
 ---
 title: "What to do if… police ask you to come to the station to collect property and you are unsure why"
+seo_title: "Police request to collect property and unsure why"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "property pickup after police contact"
   - "police staion property pickup"
   - "collect proeprty from police"
-last_reviewed: "2026-06-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-04"
 ---
 

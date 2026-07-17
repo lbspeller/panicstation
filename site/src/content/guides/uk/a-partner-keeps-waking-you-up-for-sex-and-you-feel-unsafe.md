@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a partner keeps waking you up for sex and you feel unsafe"
+seo_title: "Partner waking you for sex and you feel unsafe"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "night time sexual pressure"
   - "seksual pressure from partner"
   - "my partner preassures me for sex"
-last_reviewed: "2026-04-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-27"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive conflicting information about where a person who died is being held"
+seo_title: "Conflicting information about where a deceased person is held"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "morgue says no reccord"
   - "after hospital death"
   - "after unexpected death"
-last_reviewed: "2026-06-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-22"
 ---
 

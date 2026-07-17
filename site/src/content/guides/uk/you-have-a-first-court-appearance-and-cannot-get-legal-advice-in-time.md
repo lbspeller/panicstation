@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have a first court appearance and cannot get legal advice in time"
+seo_title: "First court appearance without legal advice"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "criminal court first appearance"
   - "court apprearance no lawyer"
   - "solictor not available before court"
-last_reviewed: "2026-05-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-06"
 ---
 

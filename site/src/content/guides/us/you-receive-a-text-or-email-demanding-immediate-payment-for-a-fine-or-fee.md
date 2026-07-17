@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a text or email demanding immediate payment for a fine or fee"
+seo_title: "Urgent text or email demanding payment for a fine"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "fiine payment text"
   - "lisense suspended text"
   - "after clicking payment link"
-last_reviewed: "2026-06-20"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-20"
 ---
 

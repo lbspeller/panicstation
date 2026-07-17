@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive an urgent penalty notice or fine demanding immediate payment and threatening enforcement action"
+seo_title: "Urgent fine or penalty notice demanding payment"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "court fine confusion"
   - "penelty notice demand"
   - "enfrocement action warning"
-last_reviewed: "2026-05-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-18"
 ---
 

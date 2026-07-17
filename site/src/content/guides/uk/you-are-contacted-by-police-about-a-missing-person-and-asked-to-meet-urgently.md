@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are contacted by police about a missing person and asked to meet urgently"
+seo_title: "Police contact about a missing person and urgent meeting"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "suspect or witness confusion"
   - "same day police meeting"
   - "police called late at night"
-last_reviewed: "2026-05-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-05"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are told your home is unsafe to occupy and you must leave immediately"
+seo_title: "Told to leave home due to safety risk"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "homeowner after disaster"
   - "family needs shelter tonight"
   - "pet needs shelter tonight"
-last_reviewed: "2026-06-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-11"
 ---
 

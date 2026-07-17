@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a client or customer is being verbally abusive and you are expected to keep engaging"
+seo_title: "Handling a verbally abusive client or customer"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "working alone with abusive customer"
   - "abussive customer at work"
   - "verbaly abusive client"
-last_reviewed: "2026-05-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-30"
 ---
 

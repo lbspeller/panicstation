@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your bicycle lock is jammed or the key is broken and you cannot free your bike"
+seo_title: "Bicycle lock jammed or key broken"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "stuck at transit bike parking"
   - "bike trapped away from home"
   - "late night bike lock problem"
-last_reviewed: "2026-06-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-26"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an official asks for next of kin and you are not sure who qualifies"
+seo_title: "Official asks for next of kin and you are unsure"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "bereavement admin contact"
   - "next of kinn confusion"
   - "oficial asking contact details"
-last_reviewed: "2026-04-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-29"
 ---
 

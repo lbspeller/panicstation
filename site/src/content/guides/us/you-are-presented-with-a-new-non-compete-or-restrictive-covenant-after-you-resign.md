@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are presented with a new non-compete or restrictive covenant after you resign"
+seo_title: "New non-compete or restrictive covenant after resigning"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "before starting a new job"
   - "with severance paperwork"
   - "after quitting my job"
-last_reviewed: "2026-06-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-09"
 ---
 

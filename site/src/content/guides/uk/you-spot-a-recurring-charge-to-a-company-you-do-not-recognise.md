@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you spot a recurring charge to a company you do not recognise"
+seo_title: "Unrecognised recurring charge on bank statement"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "recouring charge not recognised"
   - "unknown merchent charge"
   - "bank app shows unknown company"
-last_reviewed: "2026-05-21"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-21"
 ---
 

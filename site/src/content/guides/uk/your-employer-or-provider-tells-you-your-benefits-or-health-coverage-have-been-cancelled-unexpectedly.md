@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your employer or provider tells you your benefits or health coverage have been cancelled unexpectedly"
+seo_title: "Employer or provider cancelled benefits unexpectedly"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "new job benefits missing"
   - "benfits cancelled unexpectedly"
   - "cover cancled unexpectedly"
-last_reviewed: "2026-05-07"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-07"
 ---
 

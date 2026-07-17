@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone you rely on for care makes sexual comments and you fear retaliation"
+seo_title: "Caregiver making sexual comments and fear of retaliation"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "disabled adult care concern"
   - "elder care sexual comments"
   - "care giver sexual comments"
-last_reviewed: "2026-05-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-02"
 ---
 

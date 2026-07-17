@@ -1,5 +1,6 @@
 ---
 title: "What to do if… IT asks to collect your work laptop immediately and you are not told why"
+seo_title: "IT asks to collect work laptop immediately"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -34,7 +35,7 @@ tags:
   - "office laptop handover"
   - "union workplace laptop collection"
   - "personal accounts on work laptop"
-last_reviewed: "2026-06-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-03"
 ---
 

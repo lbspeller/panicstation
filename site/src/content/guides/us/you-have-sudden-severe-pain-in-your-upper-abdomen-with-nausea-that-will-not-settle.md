@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have sudden severe pain in your upper abdomen with nausea that will not settle"
+seo_title: "Sudden severe upper abdominal pain and nausea"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "after alcohol upper abdominal pain"
   - "stomache pain and nausea"
   - "upper stomak pain"
-last_reviewed: "2026-06-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-16"
 ---
 

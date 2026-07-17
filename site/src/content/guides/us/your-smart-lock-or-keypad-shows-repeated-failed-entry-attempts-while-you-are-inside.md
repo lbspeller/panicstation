@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your smart lock or keypad shows repeated failed entry attempts while you are inside"
+seo_title: "Smart lock or keypad shows repeated failed entry attempts"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "smart lok failed attempts"
   - "keypad entrey attempts"
   - "home alone door security"
-last_reviewed: "2026-07-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-04"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your oven or stove will not turn off and you are worried it is unsafe"
+seo_title: "Oven or stove will not turn off"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "gas cooker unsafe"
   - "electric oven unsafe"
   - "rented home cooker unsafe"
-last_reviewed: "2026-05-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-27"
 ---
 

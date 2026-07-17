@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are considering reporting a sexual assault and feel overwhelmed or unsure what to do first"
+seo_title: "Considering reporting sexual assault and feeling overwhelmed"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "want help before reporting assault"
   - "sexual assualt reporting anxiety"
   - "overwelmed after sexual assault"
-last_reviewed: "2026-06-08"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-08"
 ---
 

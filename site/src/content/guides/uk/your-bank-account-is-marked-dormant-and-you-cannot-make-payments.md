@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your bank account is marked dormant and you cannot make payments"
+seo_title: "Bank account marked dormant and payments blocked"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "urgent bills due"
   - "salary due soon"
   - "benefits due soon"
-last_reviewed: "2026-05-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-22"
 ---
 

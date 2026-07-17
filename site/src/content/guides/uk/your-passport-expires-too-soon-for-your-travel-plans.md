@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your passport expires too soon for your travel plans"
+seo_title: "Passport expires too soon for travel plans"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "layover passport validity worry"
   - "pasport expires too soon"
   - "passport expirty worry"
-last_reviewed: "2026-05-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-10"
 ---
 

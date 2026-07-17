@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice someone filming or recording into your home through a window"
+seo_title: "Someone filming or recording into your home"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -43,7 +44,7 @@ tags:
   - "ground floor window"
   - "shared building window"
   - "rented home window"
-last_reviewed: "2026-05-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-16"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you need to travel with cremated remains and are unsure about documentation or airport screening"
+seo_title: "Traveling with cremated remains and airport screening"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "ashes carry on confusion"
   - "cremation certifcate missing"
   - "cremated remians travel"
-last_reviewed: "2026-05-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-14"
 ---
 

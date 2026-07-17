@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice emails or messages being sent from your work account that you did not send"
+seo_title: "Unauthorized messages sent from your work account"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "teams messages not mine"
   - "work acount hacked"
   - "unauthorized work acount"
-last_reviewed: "2026-06-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-18"
 ---
 

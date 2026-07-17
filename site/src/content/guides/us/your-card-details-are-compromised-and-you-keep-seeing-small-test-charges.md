@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your card details are compromised and you keep seeing small test charges"
+seo_title: "Unknown small charges on your bank card"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "bank fraud call"
   - "unauthorized card chrges"
   - "compromised card detals"
-last_reviewed: "2026-06-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-27"
 ---
 

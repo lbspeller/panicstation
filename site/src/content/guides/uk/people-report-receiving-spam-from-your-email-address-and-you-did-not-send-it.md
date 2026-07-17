@@ -1,5 +1,6 @@
 ---
 title: "What to do if… people report receiving spam from your email address and you did not send it"
+seo_title: "Email address sending spam you did not send"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "email spoofing or hacking"
   - "spoofed not hacked email"
   - "work email sent spam"
-last_reviewed: "2026-04-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-30"
 ---
 

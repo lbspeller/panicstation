@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you wake with puffy eyelids and notice new frothy urine"
+seo_title: "Puffy eyelids and new frothy urine"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "pregnant with swollen face"
   - "high blood pressure and swelling"
   - "recent infection and frothy urine"
-last_reviewed: "2026-05-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-22"
 ---
 

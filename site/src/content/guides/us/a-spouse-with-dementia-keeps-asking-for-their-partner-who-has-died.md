@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a spouse with dementia keeps asking for their partner who has died"
+seo_title: "Spouse with dementia asking for deceased partner"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "bereavment with dementia"
   - "caregiver unsure what to say"
   - "spouse repeatedly expecting partner"
-last_reviewed: "2026-06-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-02"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you see an expensive unauthorized charge that is still pending on your card"
+seo_title: "Unauthorized pending charge on your card"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "unathorized pending card charge"
   - "unkown pending card charge"
   - "large pending card transaction"
-last_reviewed: "2026-06-08"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-08"
 ---
 

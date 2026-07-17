@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your credit score drops sharply overnight and you do not know the reason"
+seo_title: "unexplained sharp drop in credit score"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "before applying for credit"
   - "after fraud alert"
   - "after lender report change"
-last_reviewed: "2026-05-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-24"
 ---
 

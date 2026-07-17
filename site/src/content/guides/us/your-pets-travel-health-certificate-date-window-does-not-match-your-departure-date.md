@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your pet’s travel health certificate date window does not match your departure date"
+seo_title: "Pet travel health certificate date mismatch"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "dog entering united states"
   - "airline pet check-in problem"
   - "destination pet rules unclear"
-last_reviewed: "2026-06-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-19"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a floor drain cover is lifting or rattling during heavy rain"
+seo_title: "Floor drain cover lifting or rattling during rain"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "drain presure in rain"
   - "sewer backpresure at home"
   - "basement floor drain"
-last_reviewed: "2026-04-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-26"
 ---
 

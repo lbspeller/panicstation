@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone is using a secret relationship to pressure you into sexual acts or images"
+seo_title: "Pressured for sex or images in a secret relationship"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "dating partner sexual pressure"
   - "sexual presure in relationship"
   - "secrecy presure for sex"
-last_reviewed: "2026-06-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-05"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have sudden abdominal pain that is new and worsening"
+seo_title: "Sudden and worsening abdominal pain"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "abdominal pain after injury"
   - "abdominal pain in adult"
   - "belly ake worsening"
-last_reviewed: "2026-06-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-16"
 ---
 

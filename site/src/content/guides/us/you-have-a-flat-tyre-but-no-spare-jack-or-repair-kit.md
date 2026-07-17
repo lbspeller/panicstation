@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have a flat tyre but no spare, jack, or repair kit"
+seo_title: "Flat tyre with no spare, jack, or tools"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "puncture kit unusable"
   - "nighttime flat tire"
   - "rental car no spare"
-last_reviewed: "2026-07-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-04"
 ---
 

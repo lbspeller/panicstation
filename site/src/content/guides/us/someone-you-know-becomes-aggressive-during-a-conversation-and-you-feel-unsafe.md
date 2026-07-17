@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone you know becomes aggressive during a conversation and you feel unsafe"
+seo_title: "Someone you know becomes aggressive and unsafe"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "a coworker gets angry during conversation"
   - "an angry person is in my home"
   - "an angry person is in public"
-last_reviewed: "2026-06-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-01"
 ---
 

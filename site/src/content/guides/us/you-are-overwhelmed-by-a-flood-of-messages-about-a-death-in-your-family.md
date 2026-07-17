@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are overwhelmed by a flood of messages about a death in your family"
+seo_title: "Overwhelmed by messages after a family death"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "at work during family death"
   - "alone when death messages arrive"
   - "family group chat after death"
-last_reviewed: "2026-06-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-09"
 ---
 

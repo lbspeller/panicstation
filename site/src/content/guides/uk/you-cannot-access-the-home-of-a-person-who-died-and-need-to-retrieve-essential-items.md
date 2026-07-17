@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you cannot access the home of a person who died and need to retrieve essential items"
+seo_title: "Cannot access home of person who died"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "will missing and home locked"
   - "bereavment access problem"
   - "deceased adress locked"
-last_reviewed: "2026-05-08"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-08"
 ---
 

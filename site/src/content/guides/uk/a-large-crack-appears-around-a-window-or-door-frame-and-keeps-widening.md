@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a large crack appears around a window or door frame and keeps widening"
+seo_title: "Large widening crack around window or door frame"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "night time crack widening"
   - "window crack widning"
   - "structral crack near window"
-last_reviewed: "2026-04-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-26"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a request to transfer a loved one’s remains and are unsure it is legitimate"
+seo_title: "Request to transfer a loved one's remains"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "international remains transfer"
   - "body tranfer request"
   - "remains recieved request"
-last_reviewed: "2026-06-21"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-21"
 ---
 

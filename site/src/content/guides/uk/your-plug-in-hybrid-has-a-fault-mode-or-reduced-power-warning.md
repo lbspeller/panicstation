@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your plug-in hybrid has a fault mode or reduced power warning"
+seo_title: "Plug-in hybrid fault or reduced power warning"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "reduced power message confusion"
   - "motorway hybrid breakdown"
   - "emergency refuge hybrid stop"
-last_reviewed: "2026-05-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-27"
 ---
 

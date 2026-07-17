@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you find pets left alone after their owner has died and you need urgent care for them"
+seo_title: "Pets left alone after owner has died"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "keys for deceased house"
   - "emergancy pet care"
   - "tempory pet care"
-last_reviewed: "2026-05-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-10"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are served legal papers and you do not recognise the case or the parties"
+seo_title: "Served legal papers for an unknown case"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "state court papers unknown"
   - "sumnons not mine"
   - "plantiff unknown"
-last_reviewed: "2026-06-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-09"
 ---
 

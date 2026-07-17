@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a date refuses to leave your home or pressures you to let them inside"
+seo_title: "Date refusing to leave or pressuring to enter"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "doorstep pressure after date"
   - "presured by date at door"
   - "uncomfotable letting date inside"
-last_reviewed: "2026-05-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-30"
 ---
 

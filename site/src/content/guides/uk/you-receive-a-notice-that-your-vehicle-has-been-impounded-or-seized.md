@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a notice that your vehicle has been impounded or seized"
+seo_title: "Vehicle impound or seizure notice received"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "after uninsured driving"
   - "after licence issue"
   - "not the registered keeper"
-last_reviewed: "2026-05-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-18"
 ---
 

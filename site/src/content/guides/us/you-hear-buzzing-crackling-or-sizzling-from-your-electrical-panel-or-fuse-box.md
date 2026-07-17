@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you hear buzzing, crackling, or sizzling from your electrical panel or fuse box"
+seo_title: "Buzzing, crackling, or sizzling electrical panel"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "rental fuse box crackling"
   - "after storm panel buzzing"
   - "garage breaker box crackling"
-last_reviewed: "2026-06-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-16"
 ---
 

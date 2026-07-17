@@ -4,7 +4,14 @@ import UkFlagUrl from "../assets/flags/uk.svg?url";
 import UsFlagUrl from "../assets/flags/us.svg?url";
 import StructuredData from "../components/StructuredData.astro";
 
-const { title, jurisdiction, structuredData = [] } = Astro.props;
+const {
+  title,
+  jurisdiction,
+  structuredData = [],
+  description = "Calm, practical first-step guidance for sudden, stressful situations.",
+  robots,
+  socialTitle = title,
+} = Astro.props;
 
 const path = Astro.url.pathname;
 const isGuide = /^\/(uk|us)\//i.test(path);
@@ -23,6 +30,17 @@ const isUsActive = jurisdiction === "us";
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{title}</title>
+    <meta name="description" content={description} />
+    {robots && <meta name="robots" content={robots} />}
+
+    <meta property="og:site_name" content="PanicStation.org" />
+    <meta property="og:type" content={isGuide ? "article" : "website"} />
+    <meta property="og:title" content={socialTitle} />
+    <meta property="og:description" content={description} />
+
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content={socialTitle} />
+    <meta name="twitter:description" content={description} />
 
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />

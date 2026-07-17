@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you suspect your car has been tampered with or sabotaged before you drive away"
+seo_title: "Suspecting car tampering or sabotage before driving"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "workplace car tampering"
   - "targeted intimidation by car"
   - "parked car unsafe"
-last_reviewed: "2026-05-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-22"
 ---
 

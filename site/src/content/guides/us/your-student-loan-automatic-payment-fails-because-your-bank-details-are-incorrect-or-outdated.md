@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your student loan automatic payment fails because your bank details are incorrect or outdated"
+seo_title: "Student loan automatic payment failed"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "federal student loan autopay failed"
   - "autopay fialed student loan"
   - "bank detials mismatch"
-last_reviewed: "2026-07-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-04"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have a fever and your heart rate feels unusually fast at rest"
+seo_title: "Fever and unusually fast heart rate at rest"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "covid fever racing heart"
   - "feaver and fast heart"
   - "fever and fast hart rate"
-last_reviewed: "2026-06-15"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-15"
 ---
 

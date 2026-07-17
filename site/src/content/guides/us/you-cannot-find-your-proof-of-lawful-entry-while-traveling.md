@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you cannot find your proof of lawful entry while traveling"
+seo_title: "Cannot find proof of lawful entry while traveling"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "i-94 unavailable after passport renewal"
   - "lawfull entry proof missing"
   - "admisson record missing"
-last_reviewed: "2026-06-12"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-12"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are billed for a subscription you cancelled and the company will not reverse the charge"
+seo_title: "Charged for a subscription after cancelling"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "card or paypal confusion"
   - "subscripton still charging"
   - "subcription charged after cancellation"
-last_reviewed: "2026-05-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-04"
 ---
 

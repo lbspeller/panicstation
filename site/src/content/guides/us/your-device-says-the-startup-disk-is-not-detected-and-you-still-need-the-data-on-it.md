@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your device says the startup disk is not detected and you still need the data on it"
+seo_title: "Startup disk not detected and need data back"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "after update disk missing"
   - "after power outage disk missing"
   - "startup disck missing"
-last_reviewed: "2026-06-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-28"
 ---
 

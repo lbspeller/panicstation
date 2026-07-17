@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your cloud storage suddenly shows a large upload you cannot explain"
+seo_title: "Unexplained large cloud storage upload"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "google drive upload unexplained"
   - "onedrive upload unexplained"
   - "dropbox upload unexplained"
-last_reviewed: "2026-06-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-28"
 ---
 

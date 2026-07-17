@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you get notified of a data breach and you reuse that password on other accounts"
+seo_title: "Data breach notification and reused passwords"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -34,7 +35,7 @@ tags:
   - "email account password"
   - "bank account password"
   - "mobile carrier password"
-last_reviewed: "2026-06-15"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-15"
 ---
 

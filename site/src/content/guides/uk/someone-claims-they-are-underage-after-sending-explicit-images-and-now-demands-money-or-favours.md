@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone claims they are underage after sending explicit images and now demands money or favours"
+seo_title: "someone claims they are underage after sending explicit images"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "underage scam threat"
   - "sextorsion after nudes"
   - "extorsion after explicit images"
-last_reviewed: "2026-04-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-30"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a station or stop closes suddenly and you need an accessible route to continue your journey"
+seo_title: "Station or stop closure and accessible route needed"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "my station closes with heavy luggage"
   - "my accessable route is blocked"
   - "the station elevater is out"
-last_reviewed: "2026-06-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-02"
 ---
 

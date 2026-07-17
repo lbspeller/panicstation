@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone is pressuring you for sexual content or live video and ignoring your no"
+seo_title: "Pressured for sexual content or live video"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "grooming or blackmail"
   - "asked for nuds"
   - "under 18 sexual image"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-01"
 ---
 

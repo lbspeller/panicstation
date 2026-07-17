@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone has reposted your photos with your location without your consent"
+seo_title: "Photos reposted with your location without consent"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "public account shared my location"
   - "current location exposed online"
   - "reposted photos without permission"
-last_reviewed: "2026-05-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-16"
 ---
 

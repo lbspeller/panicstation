@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a car is following you or trying to get your attention while you are driving"
+seo_title: "Car following you or trying to get your attention"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "alone in car followed"
   - "car pullls alongside me"
   - "ocupants shouting from car"
-last_reviewed: "2026-04-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-25"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… police contact you about a death and you are not sure what to say"
+seo_title: "Police contact about a death and questioning"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "detecive called about a death"
   - "police interveiw after a death"
   - "not sure what to share with police"
-last_reviewed: "2026-06-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-04"
 ---
 

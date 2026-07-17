@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your work authorisation or security clearance is suddenly marked under review"
+seo_title: "Work authorisation or security clearance under review"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "sponsored worker status unclear"
   - "government contractor clearance problem"
   - "sensitive work access paused"
-last_reviewed: "2026-05-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-29"
 ---
 

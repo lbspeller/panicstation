@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you return to where you parked and your vehicle is missing"
+seo_title: "Vehicle missing from parking space"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "vehicle pound confusion"
   - "vehical has been towed"
   - "car towed unexpetedly"
-last_reviewed: "2026-05-20"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-20"
 ---
 

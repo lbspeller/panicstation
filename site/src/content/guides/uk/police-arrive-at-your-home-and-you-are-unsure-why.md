@@ -1,5 +1,6 @@
 ---
 title: "What to do if… police arrive at your home and you are unsure why"
+seo_title: "Police at your door and you are unsure why"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "police visit uk home"
   - "police comeing to my house"
   - "police warrent at home"
-last_reviewed: "2026-04-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-30"
 ---
 

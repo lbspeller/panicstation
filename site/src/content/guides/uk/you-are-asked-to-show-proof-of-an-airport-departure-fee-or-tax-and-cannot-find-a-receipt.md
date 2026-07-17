@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to show proof of an airport departure fee or tax and cannot find a receipt"
+seo_title: "Missing airport departure fee or tax receipt"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "reciept missing at airport"
   - "departue tax proof missing"
   - "abroad at airport"
-last_reviewed: "2026-05-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-04"
 ---
 

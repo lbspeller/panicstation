@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your browser keeps redirecting to strange pages after you downloaded a file"
+seo_title: "Browser keeps redirecting after file download"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "browzer redirecting"
   - "strange pages afer download"
   - "work computer browser redirecting"
-last_reviewed: "2026-06-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-26"
 ---
 

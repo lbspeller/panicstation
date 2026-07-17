@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an automatic gate is stuck open and you cannot secure your entrance"
+seo_title: "Automatic gate stuck open and entrance unsecured"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -33,7 +34,7 @@ tags:
   - "manual gate release confusion"
   - "automatic gate wont cloose"
   - "electic gate not closing"
-last_reviewed: "2026-04-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-29"
 ---
 

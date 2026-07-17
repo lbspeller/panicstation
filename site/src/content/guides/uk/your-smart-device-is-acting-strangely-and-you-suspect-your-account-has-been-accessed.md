@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your smart device is acting strangely and you suspect your account has been accessed"
+seo_title: "Smart device acting strangely or account accessed"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "voice assistant account concern"
   - "smart divice acting strange"
   - "smart acount accessed"
-last_reviewed: "2026-05-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-28"
 ---
 

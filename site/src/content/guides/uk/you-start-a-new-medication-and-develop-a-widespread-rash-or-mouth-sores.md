@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you start a new medication and develop a widespread rash or mouth sores"
+seo_title: "Widespread rash or mouth sores after new medication"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "rash after painkillers"
   - "new perscription rash"
   - "medecine rash and sores"
-last_reviewed: "2026-05-21"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-21"
 ---
 

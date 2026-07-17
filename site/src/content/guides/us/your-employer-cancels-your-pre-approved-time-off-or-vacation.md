@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your employer cancels your pre-approved time off or vacation"
+seo_title: "Employer cancels your pre-approved time off"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "aproved pto cancelled"
   - "vacation cancalled by employer"
   - "union worker approved pto cancelled"
-last_reviewed: "2026-06-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-11"
 ---
 

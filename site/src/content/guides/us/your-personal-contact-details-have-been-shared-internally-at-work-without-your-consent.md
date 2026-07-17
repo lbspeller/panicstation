@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your personal contact details have been shared internally at work without your consent"
+seo_title: "Personal contact details shared at work without consent"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "workplace privacy breach"
   - "employee data breach"
   - "remote worker address shared"
-last_reviewed: "2026-06-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-17"
 ---
 

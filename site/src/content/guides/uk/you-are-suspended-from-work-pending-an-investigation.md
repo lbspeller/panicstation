@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are suspended from work pending an investigation"
+seo_title: "Suspended from work pending an investigation"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "full pay suspension"
   - "union member suspended"
   - "confidential work allegation"
-last_reviewed: "2026-05-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-05"
 ---
 

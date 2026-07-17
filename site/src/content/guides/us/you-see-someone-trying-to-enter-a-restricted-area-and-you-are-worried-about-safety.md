@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you see someone trying to enter a restricted area and you are worried about safety"
+seo_title: "Someone trying to enter a restricted area"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "at work restricted area"
   - "at public building entrance"
   - "at crowded venue entrance"
-last_reviewed: "2026-06-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-23"
 ---
 

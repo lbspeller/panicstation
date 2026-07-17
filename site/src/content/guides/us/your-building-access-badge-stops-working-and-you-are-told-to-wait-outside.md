@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your building access badge stops working and you are told to wait outside"
+seo_title: "Building access badge stops working at work"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "union worker badge stopped"
   - "keycard wont scan"
   - "work pass wont scan"
-last_reviewed: "2026-06-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-26"
 ---
 

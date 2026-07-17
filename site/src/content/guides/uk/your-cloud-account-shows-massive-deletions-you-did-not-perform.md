@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your cloud account shows massive deletions you did not perform"
+seo_title: "Cloud account shows massive unexpected file deletions"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "school cloud account deletions"
   - "icloud files disapeared"
   - "cloud files dissapeared"
-last_reviewed: "2026-05-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-24"
 ---
 

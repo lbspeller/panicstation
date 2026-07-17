@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your probation or supervision officer says you may be in violation and wants to meet urgently"
+seo_title: "Probation or supervision officer requests urgent meeting"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "federal supervised release violation"
   - "probation oficer urgent meeting"
   - "probation vilation meeting"
-last_reviewed: "2026-07-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-03"
 ---
 

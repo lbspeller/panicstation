@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone keeps steering conversations toward sex and ignores your attempts to change the subject"
+seo_title: "Someone keeps steering conversations toward sex"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "innapropriate sexual comments"
   - "workplace sexual comments"
   - "online sexual messages"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-01"
 ---
 

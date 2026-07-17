@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you hear a hissing sound near an outside gas meter or regulator"
+seo_title: "Hissing sound near outside gas meter or regulator"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -33,7 +34,7 @@ tags:
   - "faint hiss or leak"
   - "hising by gas meter"
   - "gas regualtor hissing"
-last_reviewed: "2026-06-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-16"
 ---
 

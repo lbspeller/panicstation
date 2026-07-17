@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone is outside your home refusing to leave and you are inside alone"
+seo_title: "Someone outside your home refusing to leave"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "apartment door visitor wont leave"
   - "former partner outside my home"
   - "delivery person refusing to leave"
-last_reviewed: "2026-06-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-05"
 ---
 

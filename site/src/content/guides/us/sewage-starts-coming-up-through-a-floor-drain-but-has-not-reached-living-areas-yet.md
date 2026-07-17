@@ -1,5 +1,6 @@
 ---
 title: "What to do if… sewage starts coming up through a floor drain but has not reached living areas yet"
+seo_title: "Sewage backing up through a floor drain"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "municipal sewer floor drain backup"
   - "septic home floor drain backup"
   - "sewage backup during heavy rain"
-last_reviewed: "2026-06-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-04"
 ---
 

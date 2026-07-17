@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an official investigator contacts you and demands you keep it secret"
+seo_title: "Official investigator demands secrecy or silence"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "contacted while in prison"
   - "official email out of the blue"
   - "urgent cooperation request"
-last_reviewed: "2026-05-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-05"
 ---
 

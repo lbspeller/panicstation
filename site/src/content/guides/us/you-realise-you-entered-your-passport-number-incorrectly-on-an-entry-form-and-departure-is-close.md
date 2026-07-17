@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you realise you entered your passport number incorrectly on an entry form and departure is close"
+seo_title: "Incorrect passport number on travel form before departure"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -33,7 +34,7 @@ tags:
   - "pasport number wrong"
   - "passprt number typo"
   - "flight tomorrow passport error"
-last_reviewed: "2026-06-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-19"
 ---
 

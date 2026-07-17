@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you accidentally put the wrong fuel in your vehicle and have not started the engine"
+seo_title: "Put wrong fuel in vehicle but not started"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "unleaded in diesel car"
   - "desiel in petrol car"
   - "wrong fule in car"
-last_reviewed: "2026-05-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-03"
 ---
 

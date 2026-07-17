@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your employer stops reimbursing your approved work expenses"
+seo_title: "Employer stopped reimbursing approved work expenses"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "hourly worker paid expenses"
   - "nonexempt worker business costs"
   - "remote work expenses unpaid"
-last_reviewed: "2026-06-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-29"
 ---
 

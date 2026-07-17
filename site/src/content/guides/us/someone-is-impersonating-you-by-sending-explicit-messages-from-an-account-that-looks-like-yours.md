@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone is impersonating you by sending explicit messages from an account that looks like yours"
+seo_title: "someone is sending explicit messages from an account that looks like yours"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "fake tiktok account messaging my contacts"
   - "someone is impersonting me online"
   - "explicit mesages sent as me"
-last_reviewed: "2026-06-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-05"
 ---
 

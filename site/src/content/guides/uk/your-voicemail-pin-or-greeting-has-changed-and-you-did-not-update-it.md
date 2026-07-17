@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your voicemail PIN or greeting has changed and you did not update it"
+seo_title: "Voicemail PIN or greeting changed unexpectedly"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "mobile voicemail in uk"
   - "voicemal pin changed"
   - "voicemail greting changed"
-last_reviewed: "2026-05-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-28"
 ---
 

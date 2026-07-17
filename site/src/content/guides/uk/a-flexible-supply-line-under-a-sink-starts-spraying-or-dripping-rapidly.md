@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a flexible supply line under a sink starts spraying or dripping rapidly"
+seo_title: "Flexible sink supply line spraying or leaking"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "bathroom sink supply line leak"
   - "flexi line leeking under sink"
   - "sink hose driping fast"
-last_reviewed: "2026-04-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-26"
 ---
 

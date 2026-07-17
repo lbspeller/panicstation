@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have steadily worsening pain in the lower right side of your abdomen"
+seo_title: "Steadily worsening lower right abdominal pain"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "lower right pain in teenager"
   - "lower right pain in older adult"
   - "severe lower right abdominal pain"
-last_reviewed: "2026-06-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-13"
 ---
 

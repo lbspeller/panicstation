@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your visa or entry permission start date is later than your arrival date"
+seo_title: "Visa or entry permission starts after arrival date"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "evisa date mistmatch"
   - "student visa starts later"
   - "sponsored visa starts later"
-last_reviewed: "2026-05-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-17"
 ---
 

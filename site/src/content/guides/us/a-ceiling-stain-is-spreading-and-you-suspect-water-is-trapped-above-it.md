@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a ceiling stain is spreading and you suspect water is trapped above it"
+seo_title: "Spreading ceiling stain and suspected trapped water"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "ceiling leak near wiring"
   - "ceilling stain spreading"
   - "ceiling leeking water"
-last_reviewed: "2026-05-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-30"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you discover a tyre has a bulge, deep cut, or exposed cords and are unsure if it is safe to drive"
+seo_title: "Tyre has a bulge, deep cut, or exposed cords"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "company vehicle tire damage"
   - "tire buldge"
   - "tire bubbel"
-last_reviewed: "2026-06-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-13"
 ---
 

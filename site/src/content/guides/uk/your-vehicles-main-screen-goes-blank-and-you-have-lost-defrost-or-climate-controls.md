@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your vehicle’s main screen goes blank and you have lost defrost or climate controls"
+seo_title: "Vehicle main screen blank and climate controls lost"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "vehical screen blank"
   - "pulled over on motorway"
   - "stopped in emergency area"
-last_reviewed: "2026-05-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-28"
 ---
 

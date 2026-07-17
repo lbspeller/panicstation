@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an unknown sharing link appears for a private file in your activity logs"
+seo_title: "Unknown sharing link for a private file"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "accidental share setting"
   - "work cloud account"
   - "sensitive personal file"
-last_reviewed: "2026-04-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-28"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice water seeping through a basement wall"
+seo_title: "Water seeping through a basement wall"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -43,7 +44,7 @@ tags:
   - "basment wall leaking"
   - "basement sepage after rain"
   - "finished basement wall leak"
-last_reviewed: "2026-06-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-19"
 ---
 

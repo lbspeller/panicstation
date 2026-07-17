@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your evisa approval cannot be found online when you need to show it"
+seo_title: "evisa approval not found online at airport or border"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "abroad with visa proof missing"
   - "travelling today evisa missing"
   - "before boarding evisa not found"
-last_reviewed: "2026-06-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-29"
 ---
 

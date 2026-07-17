@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you find a hidden camera or recording device in your hotel or rental room"
+seo_title: "found a hidden camera or recording device in hotel room"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "smoke alarm camera worry"
   - "hotel hidden camra"
   - "rental spy camra"
-last_reviewed: "2026-05-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-11"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your laptop battery is swelling and the casing or trackpad is lifting"
+seo_title: "Swollen laptop battery with lifting casing or trackpad"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "removable laptop battery"
   - "laptop with swollen battery"
   - "charging laptop battery swelling"
-last_reviewed: "2026-06-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-30"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a therapist, counsellor, or support worker sends you sexual or inappropriate messages"
+seo_title: "Therapist or support worker sends inappropriate messages"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "counselor messages late at night"
   - "councellor sends sexual messages"
   - "therapist crossed boundries"
-last_reviewed: "2026-06-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-02"
 ---
 

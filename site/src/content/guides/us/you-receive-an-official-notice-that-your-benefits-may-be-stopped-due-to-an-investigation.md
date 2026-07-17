@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive an official notice that your benefits may be stopped due to an investigation"
+seo_title: "Official notice that benefits may be stopped"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -42,7 +43,7 @@ tags:
   - "unemployment benefits investigation"
   - "benifits investigation notice"
   - "benifits may be stopped"
-last_reviewed: "2026-06-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-22"
 ---
 

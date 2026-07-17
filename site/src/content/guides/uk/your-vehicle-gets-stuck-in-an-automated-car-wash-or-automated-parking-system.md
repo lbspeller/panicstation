@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your vehicle gets stuck in an automated car wash or automated parking system"
+seo_title: "Vehicle stuck in automated car wash or parking system"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "car wash machine jammed"
   - "vehical stuck in car wash"
   - "automated carpark stuck"
-last_reviewed: "2026-05-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-28"
 ---
 

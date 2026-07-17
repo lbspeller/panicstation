@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to interview for a role that looks like your own job"
+seo_title: "Asked to interview for your own job"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "internal recruitment during restructure"
   - "reintervew for same job"
   - "redundency interview at work"
-last_reviewed: "2026-05-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-04"
 ---
 

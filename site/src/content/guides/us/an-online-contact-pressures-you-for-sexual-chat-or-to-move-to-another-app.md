@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an online contact pressures you for sexual chat or to move to another app"
+seo_title: "Online contact pressuring for sexual chat or app switch"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "gaming chat sexual pressure"
   - "whats app pressure"
   - "snap chat pressure"
-last_reviewed: "2026-06-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-03"
 ---
 

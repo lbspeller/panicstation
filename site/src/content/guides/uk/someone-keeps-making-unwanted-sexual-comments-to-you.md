@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone keeps making unwanted sexual comments to you"
+seo_title: "Someone keeps making unwanted sexual comments"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "sexuall comments at work"
   - "sexual comments in messages"
   - "sexual comments in private"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-01"
 ---
 

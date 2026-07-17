@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to decide about moving a relative to comfort-focused care and you feel unprepared"
+seo_title: "Deciding on comfort care for a relative when unprepared"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "comfort care descision"
   - "uk hospital end of life"
   - "family decision in hospital"
-last_reviewed: "2026-05-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-03"
 ---
 

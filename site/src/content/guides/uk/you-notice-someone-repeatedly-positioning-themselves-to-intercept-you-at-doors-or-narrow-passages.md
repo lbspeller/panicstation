@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice someone repeatedly positioning themselves to intercept you at doors or narrow passages"
+seo_title: "Someone repeatedly intercepting you at doors or exits"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "not sure if targeted"
   - "car park doorway unsafe"
   - "apartment entrance unsafe"
-last_reviewed: "2026-05-15"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-15"
 ---
 

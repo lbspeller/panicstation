@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a relative in hospice is near death or may have died"
+seo_title: "Relative in hospice is near death or has died"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "alone with relative in hospice"
   - "hospis death seems near"
   - "hospice paitent may be dying"
-last_reviewed: "2026-06-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-01"
 ---
 

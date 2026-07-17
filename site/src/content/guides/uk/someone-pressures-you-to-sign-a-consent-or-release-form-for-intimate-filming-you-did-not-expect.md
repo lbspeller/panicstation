@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone pressures you to sign a consent or release form for intimate filming you did not expect"
+seo_title: "Pressured to sign consent for intimate filming"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -43,7 +44,7 @@ tags:
   - "consent signed under pressure"
   - "intamate filming pressure"
   - "relese form pressure"
-last_reviewed: "2026-05-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-02"
 ---
 

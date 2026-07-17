@@ -1,5 +1,6 @@
 ---
 title: "What to do if… police tell you your phone number was found in someone else’s case and want an immediate explanation"
+seo_title: "Police call about your number in a case"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "uk police phone call"
   - "landline police scam call"
   - "mobile number in case"
-last_reviewed: "2026-04-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-30"
 ---
 

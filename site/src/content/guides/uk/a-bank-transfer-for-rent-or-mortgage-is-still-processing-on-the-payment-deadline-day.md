@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a bank transfer for rent or mortgage is still processing on the payment deadline day"
+seo_title: "Rent or mortgage payment still processing on deadline day"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "lender says payment not received"
   - "mortage payment pending"
   - "bank transfer prossessing"
-last_reviewed: "2026-04-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-24"
 ---
 

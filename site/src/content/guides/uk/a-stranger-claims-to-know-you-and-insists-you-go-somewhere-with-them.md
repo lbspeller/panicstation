@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a stranger claims to know you and insists you go somewhere with them"
+seo_title: "Stranger insists you go somewhere with them"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "night time stranger encounter"
   - "stranger wont take no"
   - "stranger says they reconise me"
-last_reviewed: "2026-04-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-28"
 ---
 

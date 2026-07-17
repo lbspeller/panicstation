@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your phone battery is low and your ticket or access pass is only on your phone"
+seo_title: "Phone battery dying with digital ticket or pass"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "pay as you go travel"
   - "acess pass on phone"
   - "tickit only on phone"
-last_reviewed: "2026-05-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-27"
 ---
 

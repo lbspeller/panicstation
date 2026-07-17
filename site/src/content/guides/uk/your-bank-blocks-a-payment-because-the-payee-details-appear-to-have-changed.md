@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your bank blocks a payment because the payee details appear to have changed"
+seo_title: "Bank blocked payment due to changed payee details"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "large bank transfer blocked"
   - "buisness bank details changed"
   - "recipiant details changed"
-last_reviewed: "2026-05-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-22"
 ---
 

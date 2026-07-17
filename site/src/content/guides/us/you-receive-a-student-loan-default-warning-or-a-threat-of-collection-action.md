@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a student loan default warning or a threat of collection action"
+seo_title: "Student loan default warning or collection threat"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "private loan collection letter"
   - "old student loan debt"
   - "missed student loan payments"
-last_reviewed: "2026-06-20"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-20"
 ---
 

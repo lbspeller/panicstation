@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a messaging app fails to restore your chat backup and your messages are missing"
+seo_title: "Messaging app chat backup failed to restore"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "chat bakup cannot restore"
   - "switched phones chats disappeared"
   - "factory reset and chats missing"
-last_reviewed: "2026-05-31"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-31"
 ---
 

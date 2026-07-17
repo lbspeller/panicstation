@@ -1,5 +1,6 @@
 ---
 title: "What to do if… there is a disagreement about funeral arrangements and the deadline is close"
+seo_title: "Disagreement over funeral arrangements with urgent deadline"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "out of state funeral disagreement"
   - "funral arrangements dispute"
   - "cremtion disagreement deadline"
-last_reviewed: "2026-06-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-06"
 ---
 

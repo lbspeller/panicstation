@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an official inspector arrives unannounced and asks to enter your home or business premises"
+seo_title: "Unannounced official inspector at your door"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "inspector at licensed business"
   - "inspector arives unannounced"
   - "official inspector at my buisness"
-last_reviewed: "2026-06-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-03"
 ---
 

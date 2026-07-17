@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a stranger approaches your car and tries to get you to unlock the doors"
+seo_title: "Stranger approaching your car and demanding entry"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "tyre flat or trick"
   - "dark car park"
   - "parked alone"
-last_reviewed: "2026-04-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-28"
 ---
 

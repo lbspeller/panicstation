@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your email account recovery email or phone number is changed without your consent"
+seo_title: "Email account recovery details changed without consent"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "possible sim swap"
   - "personal email account changed"
   - "work email recovery changed"
-last_reviewed: "2026-06-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-28"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an unexpected subscription renewal has overdrawn your bank account"
+seo_title: "Unexpected subscription renewal overdrawn bank account"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "subscription renewal before payday"
   - "subcription renewal overdraft"
   - "overdaft after subscription renewal"
-last_reviewed: "2026-06-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-02"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a notice that your goods or property are being held pending verification"
+seo_title: "Notice that goods or property are held for verification"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "property held as evidence"
   - "propety held pending verification"
   - "seizure notis about goods"
-last_reviewed: "2026-05-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-18"
 ---
 

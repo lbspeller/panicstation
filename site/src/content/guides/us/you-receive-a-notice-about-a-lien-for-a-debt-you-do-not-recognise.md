@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a notice about a lien for a debt you do not recognise"
+seo_title: "Notice about a lien for an unknown debt"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -34,7 +35,7 @@ tags:
   - "contractor lien confusion"
   - "property lien debt dispute"
   - "credit report lien error"
-last_reviewed: "2026-06-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-22"
 ---
 

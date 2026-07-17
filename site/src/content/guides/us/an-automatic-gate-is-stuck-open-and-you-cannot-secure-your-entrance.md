@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an automatic gate is stuck open and you cannot secure your entrance"
+seo_title: "Automatic gate stuck open and entrance unsecured"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "home entrance gate is unsecured"
   - "automatc gate wont close"
   - "entance gate is unsecured"
-last_reviewed: "2026-06-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-03"
 ---
 

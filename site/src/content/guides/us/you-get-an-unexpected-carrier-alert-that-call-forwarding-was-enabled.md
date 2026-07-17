@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you get an unexpected carrier alert that call forwarding was enabled"
+seo_title: "Unexpected carrier alert that call forwarding is enabled"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "sms two factor problem"
   - "after carrier security alert"
   - "before using sms codes"
-last_reviewed: "2026-06-15"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-15"
 ---
 

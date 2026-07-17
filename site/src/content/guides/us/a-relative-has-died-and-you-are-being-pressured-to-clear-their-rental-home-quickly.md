@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a relative has died and you are being pressured to clear their rental home quickly"
+seo_title: "Relative died and landlord demands quick home clearance"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "relative died out of state"
   - "tenacy ended after relative dies"
   - "belongings removel deadline after death"
-last_reviewed: "2026-06-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-10"
 ---
 

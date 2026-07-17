@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to make medical decisions for a relative who cannot communicate their wishes"
+seo_title: "Making medical decisions for a relative without capacity"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -42,7 +43,7 @@ tags:
   - "uk hospital end of life"
   - "hospital ward in the uk"
   - "relative lacking capacity"
-last_reviewed: "2026-05-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-04"
 ---
 

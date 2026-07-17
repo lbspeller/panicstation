@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your pet’s travel health certificate date window does not match your departure date"
+seo_title: "Pet travel health certificate date mismatch"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "gb pet entry date"
   - "northern ireland pet travel"
   - "last minute pet travel"
-last_reviewed: "2026-05-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-17"
 ---
 

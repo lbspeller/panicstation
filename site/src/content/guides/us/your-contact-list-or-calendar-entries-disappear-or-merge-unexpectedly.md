@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your contact list or calendar entries disappear or merge unexpectedly"
+seo_title: "Contacts or calendar entries missing or merged"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "multiple accounts mixed"
   - "contacs disappeared"
   - "calender entries missing"
-last_reviewed: "2026-06-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-28"
 ---
 

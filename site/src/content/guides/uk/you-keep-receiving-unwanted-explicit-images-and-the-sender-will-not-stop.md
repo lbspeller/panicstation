@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you keep receiving unwanted explicit images and the sender will not stop"
+seo_title: "Receiving unwanted explicit images repeatedly"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "workplace explicit images"
   - "adult receiving unwanted nudes"
   - "child received explicit image"
-last_reviewed: "2026-05-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-13"
 ---
 

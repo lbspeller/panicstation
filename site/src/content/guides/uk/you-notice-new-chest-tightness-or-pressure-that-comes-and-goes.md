@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice new chest tightness or pressure that comes and goes"
+seo_title: "New chest tightness or pressure that comes and goes"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "chest tighness new"
   - "new symptoms today"
   - "alone with chest symptoms"
-last_reviewed: "2026-05-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-16"
 ---
 

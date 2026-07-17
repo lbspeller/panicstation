@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your passport is held by an embassy or consulate and you have urgent travel plans"
+seo_title: "Passport held by embassy with urgent travel plans"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "british passport abroad"
   - "uk passport emergency travel"
   - "frequent travel visa processing"
-last_reviewed: "2026-05-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-27"
 ---
 

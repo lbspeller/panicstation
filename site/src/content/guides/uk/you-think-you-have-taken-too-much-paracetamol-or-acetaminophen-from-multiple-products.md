@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you think you have taken too much paracetamol or acetaminophen from multiple products"
+seo_title: "Taken too much paracetamol or acetaminophen"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "paracetmol overdose worry"
   - "acetominophen paracetamol confusion"
   - "child took too much paracetamol"
-last_reviewed: "2026-05-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-17"
 ---
 

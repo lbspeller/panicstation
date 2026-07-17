@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your credit card is closed after you pay it off and you needed the available credit"
+seo_title: "Credit card closed unexpectedly after payoff"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "after paying off credit card"
   - "needed credit today"
   - "closed credit card panic"
-last_reviewed: "2026-06-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-28"
 ---
 

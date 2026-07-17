@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your travel booking has the wrong gender marker and you are worried about document checks"
+seo_title: "Travel booking gender marker mismatch"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -33,7 +34,7 @@ tags:
   - "gender marker misatch travel"
   - "international travel gender marker"
   - "eurostar api gender mismatch"
-last_reviewed: "2026-05-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-28"
 ---
 

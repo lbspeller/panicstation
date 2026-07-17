@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a notice about a lien for a debt you do not recognise"
+seo_title: "Notice about a lien for an unknown debt"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "unrecognised debt uk"
   - "lein notice debt"
   - "debtt not mine"
-last_reviewed: "2026-05-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-19"
 ---
 

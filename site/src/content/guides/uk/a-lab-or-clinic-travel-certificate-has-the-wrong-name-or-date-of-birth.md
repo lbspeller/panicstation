@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a lab or clinic travel certificate has the wrong name or date of birth"
+seo_title: "Travel certificate has wrong name or date of birth"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "last minute travel paperwork"
   - "certifcate wrong name"
   - "birthdate wrong certficate"
-last_reviewed: "2026-04-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-26"
 ---
 

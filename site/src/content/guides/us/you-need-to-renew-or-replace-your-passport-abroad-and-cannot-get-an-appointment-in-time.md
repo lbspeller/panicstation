@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you need to renew or replace your passport abroad and cannot get an appointment in time"
+seo_title: "Need urgent passport renewal or replacement abroad"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "american abroad passport problem"
   - "us citizen abroad passport"
   - "passport problem while traveling"
-last_reviewed: "2026-06-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-17"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a notice that your visa application needs more documents by a short deadline"
+seo_title: "Visa application document request with short deadline"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "inside uk visa documents"
   - "visa documants deadline"
   - "visa additonal documents"
-last_reviewed: "2026-05-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-18"
 ---
 

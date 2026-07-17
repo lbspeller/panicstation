@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your fever returns after you seemed to be improving"
+seo_title: "Fever returned after you felt better"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "tempreature came back"
   - "fever after antibiotics"
   - "fever after seeming recovered"
-last_reviewed: "2026-05-12"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-12"
 ---
 

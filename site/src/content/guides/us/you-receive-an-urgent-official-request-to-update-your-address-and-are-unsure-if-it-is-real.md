@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive an urgent official request to update your address and are unsure if it is real"
+seo_title: "Urgent official request to update your address"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "address adress notice"
   - "goverment address letter"
   - "recently moved official mail"
-last_reviewed: "2026-06-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-22"
 ---
 

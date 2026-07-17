@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you suddenly lose your balance and cannot walk steadily"
+seo_title: "Sudden loss of balance and trouble walking"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "new balance problem alone"
   - "suddnly off balance"
   - "loosing balance suddenly"
-last_reviewed: "2026-05-21"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-21"
 ---
 

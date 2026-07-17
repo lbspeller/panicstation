@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you hear someone trying your door handle or testing windows from outside"
+seo_title: "Someone trying your door handle or windows"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -34,7 +35,7 @@ tags:
   - "mistaken noise outside door"
   - "apartment door handle tried"
   - "house window tested at night"
-last_reviewed: "2026-06-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-16"
 ---
 

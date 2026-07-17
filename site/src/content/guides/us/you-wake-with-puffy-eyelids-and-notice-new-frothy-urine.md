@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you wake with puffy eyelids and notice new frothy urine"
+seo_title: "Puffy eyelids and new frothy urine"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "postpartum with puffy eyelids"
   - "diabetes and foamy urine"
   - "high blood pressure and swelling"
-last_reviewed: "2026-06-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-25"
 ---
 

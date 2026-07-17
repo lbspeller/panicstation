@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a merchant threatens to send a charge to collections unless you pay immediately"
+seo_title: "Merchant threatens collections unless you pay immediately"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "large subscription charge"
   - "disputed card payment"
   - "consumer credit debt"
-last_reviewed: "2026-04-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-27"
 ---
 

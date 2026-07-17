@@ -1,5 +1,6 @@
 ---
 title: "What to do if… water is bubbling up from the ground in your garden or driveway"
+seo_title: "Water bubbling up from ground outside"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "leek in garden pipe"
   - "pipe leeking under driveway"
   - "rented home outside leak"
-last_reviewed: "2026-05-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-02"
 ---
 

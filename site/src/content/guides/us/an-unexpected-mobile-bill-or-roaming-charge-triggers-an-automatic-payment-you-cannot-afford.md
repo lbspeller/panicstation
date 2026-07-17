@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an unexpected mobile bill or roaming charge triggers an automatic payment you cannot afford"
+seo_title: "Unexpected mobile bill or roaming charge payment"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "family plan data overage"
   - "roamming charge surprise"
   - "phone bill overage chage"
-last_reviewed: "2026-05-31"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-31"
 ---
 

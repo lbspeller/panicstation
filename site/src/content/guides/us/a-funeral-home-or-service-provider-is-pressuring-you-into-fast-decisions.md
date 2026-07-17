@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a funeral home or service provider is pressuring you into fast decisions"
+seo_title: "Funeral home pressuring you for fast decisions"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "planning a cremation"
   - "funral home pressure"
   - "funeral desicions rushed"
-last_reviewed: "2026-06-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-24"
 ---
 

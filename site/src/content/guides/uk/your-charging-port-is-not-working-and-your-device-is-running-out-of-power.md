@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your charging port is not working and your device is running out of power"
+seo_title: "Device charging port not working and battery dying"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "while travelling with low battery"
   - "before using phone tickets"
   - "when needing phone verification"
-last_reviewed: "2026-05-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-24"
 ---
 

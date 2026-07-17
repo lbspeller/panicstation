@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone tries to steer you toward a quieter area and you feel pressured"
+seo_title: "Someone pressuring you to go to a quiet area"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "side street near a bar"
   - "seperated from friends"
   - "pressured to be polite"
-last_reviewed: "2026-05-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-02"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you develop sudden wheezing or your asthma symptoms worsen unexpectedly"
+seo_title: "Sudden wheezing or worsening asthma symptoms"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "wheezing at night"
   - "asthma flair-up"
   - "weezing suddenly"
-last_reviewed: "2026-06-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-13"
 ---
 

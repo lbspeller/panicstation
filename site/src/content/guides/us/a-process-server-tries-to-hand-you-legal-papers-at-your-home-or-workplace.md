@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a process server tries to hand you legal papers at your home or workplace"
+seo_title: "Process server at home or work"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "summonds papers at my home"
   - "unknown court papers at work"
   - "lawsuit papers at my door"
-last_reviewed: "2026-06-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-01"
 ---
 

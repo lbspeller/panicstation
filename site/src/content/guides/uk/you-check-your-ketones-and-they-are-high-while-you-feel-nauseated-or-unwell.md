@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you check your ketones and they are high while you feel nauseated or unwell"
+seo_title: "High ketones and feeling unwell or nauseated"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "insulin pump failure ketones"
   - "dka simptoms"
   - "ketoacidosis simptoms"
-last_reviewed: "2026-05-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-09"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone keeps steering conversations toward sex and ignores your attempts to change the subject"
+seo_title: "Someone keeps steering conversations toward sex"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "conversation boundary keeps being ignored"
   - "sexual harrassment at work"
   - "unwanted sexual converstion"
-last_reviewed: "2026-06-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-05"
 ---
 

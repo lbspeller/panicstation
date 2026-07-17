@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are told not to contact someone but you share urgent responsibilities with them"
+seo_title: "Told not to contact someone with shared responsibilities"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "no contact with urgent bills"
   - "shared resposibilities during investigation"
   - "no contact during investgation"
-last_reviewed: "2026-06-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-10"
 ---
 

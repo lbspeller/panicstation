@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are told your company is being sold and your employment terms may change"
+seo_title: "Company being sold and employment terms changing"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "before transfer date"
   - "after transfer date"
   - "uk employment transfer"
-last_reviewed: "2026-05-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-06"
 ---
 

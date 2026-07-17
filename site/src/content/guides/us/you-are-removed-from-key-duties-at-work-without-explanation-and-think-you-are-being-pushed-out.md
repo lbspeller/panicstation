@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are removed from key duties at work without explanation and think you are being pushed out"
+seo_title: "Suddenly removed from key work duties"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "responibilities reassigned at work"
   - "key duties removed suddenly"
   - "pushed out without explanation"
-last_reviewed: "2026-06-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-09"
 ---
 

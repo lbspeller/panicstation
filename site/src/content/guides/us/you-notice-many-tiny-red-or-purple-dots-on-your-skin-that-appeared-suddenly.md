@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice many tiny red or purple dots on your skin that appeared suddenly"
+seo_title: "Sudden tiny red or purple dots on skin"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "petichiae sudden rash"
   - "purpera skin spots"
   - "on blood thinners dots"
-last_reviewed: "2026-06-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-18"
 ---
 

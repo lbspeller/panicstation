@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a driver or passenger is asking intrusive questions and you feel unsafe"
+seo_title: "Driver or passenger asking intrusive questions"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "late night ride alone"
   - "alone in a taxi"
   - "rideshare trip feels unsafe"
-last_reviewed: "2026-04-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-25"
 ---
 

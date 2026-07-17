@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice someone repeatedly positioning themselves to intercept you at doors or narrow passages"
+seo_title: "Someone repeatedly intercepting you at doors or exits"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "parking garage doorway"
   - "chockepoint feels unsafe"
   - "stairwel feels unsafe"
-last_reviewed: "2026-06-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-18"
 ---
 

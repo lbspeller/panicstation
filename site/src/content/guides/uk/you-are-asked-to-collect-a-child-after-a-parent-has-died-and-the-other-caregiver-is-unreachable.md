@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to collect a child after a parent has died and the other caregiver is unreachable"
+seo_title: "Collecting a child after a parent death"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "out of hours child pickup"
   - "caregiver unreachble"
   - "parent deid"
-last_reviewed: "2026-05-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-03"
 ---
 

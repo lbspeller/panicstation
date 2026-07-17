@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you wake up short of breath and can only breathe comfortably sitting up"
+seo_title: "Waking up breathless and only able to breathe sitting up"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "new breathlessness at night"
   - "breathlessnes at night"
   - "shortnes of breath"
-last_reviewed: "2026-05-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-22"
 ---
 

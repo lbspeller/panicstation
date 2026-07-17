@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an aggressive driver is following you and will not stop"
+seo_title: "Aggressive driver following your car"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "agressive driver tailing me"
   - "road rage tailgaiting me"
   - "driver following me in traffic"
-last_reviewed: "2026-05-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-30"
 ---
 

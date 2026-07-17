@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you start a new medicine and feel faint, unusually restless, or severely sweaty"
+seo_title: "New medicine causes faintness, restlessness, or sweating"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "after starting antidepressant"
   - "after starting antibiotic"
   - "after starting painkiller"
-last_reviewed: "2026-05-21"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-21"
 ---
 

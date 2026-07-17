@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked for parental consent paperwork to travel with a child and you do not have it"
+seo_title: "Missing parental consent paperwork for child travel"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "consent paperwok missing"
   - "noterized consent letter missing"
   - "last minute child travel documents"
-last_reviewed: "2026-06-07"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-07"
 ---
 

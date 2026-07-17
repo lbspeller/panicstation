@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your phone or wallet is lost and your cards are exposed to misuse"
+seo_title: "Lost phone or wallet with cards exposed"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "wallett missing with cards"
   - "fone lost with cards"
   - "travel wallet missing"
-last_reviewed: "2026-07-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-02"
 ---
 

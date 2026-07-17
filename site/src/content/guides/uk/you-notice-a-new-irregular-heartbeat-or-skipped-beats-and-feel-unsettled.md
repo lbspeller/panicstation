@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice a new irregular heartbeat or skipped beats and feel unsettled"
+seo_title: "New irregular heartbeat or skipped beats"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "palpitations after caffeine"
   - "palpitations after stress"
   - "palpitations while lying down"
-last_reviewed: "2026-05-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-14"
 ---
 

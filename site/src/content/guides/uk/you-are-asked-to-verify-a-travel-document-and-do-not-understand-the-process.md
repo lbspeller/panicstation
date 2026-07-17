@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to verify a travel document and do not understand the process"
+seo_title: "Unclear request to verify a travel document"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "before visa appointment"
   - "before travel deadline"
   - "applying from abroad"
-last_reviewed: "2026-05-08"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-08"
 ---
 

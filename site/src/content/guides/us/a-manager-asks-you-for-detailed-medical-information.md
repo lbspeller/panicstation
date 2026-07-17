@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a manager asks you for detailed medical information"
+seo_title: "Manager asking for detailed medical information"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "i work for a small employer"
   - "my manger asks for medical information"
   - "my boss asks for medcial records"
-last_reviewed: "2026-05-31"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-31"
 ---
 

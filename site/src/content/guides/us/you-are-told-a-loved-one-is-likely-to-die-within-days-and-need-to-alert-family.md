@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are told a loved one is likely to die within days and need to alert family"
+seo_title: "Alerting family when a loved one is dying"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "close relatives need telling quickly"
   - "loved one may pass soon"
   - "family member nearing end of life"
-last_reviewed: "2026-06-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-10"
 ---
 

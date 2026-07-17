@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a freelance platform suspends your account while you have active work in progress"
+seo_title: "Freelance platform account suspended with active work"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "freelancer acount suspended"
   - "freelance plataform locked"
   - "uk freelance platform suspension"
-last_reviewed: "2026-04-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-26"
 ---
 

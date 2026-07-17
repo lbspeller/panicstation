@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone repeatedly blocks your path and prevents you from walking away"
+seo_title: "Someone repeatedly blocking your path"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "blocked while walking home"
   - "known person wont let me leave"
   - "someone repetedly blocks my path"
-last_reviewed: "2026-06-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-05"
 ---
 

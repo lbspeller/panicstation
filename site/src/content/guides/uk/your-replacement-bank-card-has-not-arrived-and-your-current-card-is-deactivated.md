@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your replacement bank card has not arrived and your current card is deactivated"
+seo_title: "Replacement bank card missing and current card deactivated"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "replacement card never came"
   - "replacment card not arrived"
   - "bank card deactvated"
-last_reviewed: "2026-05-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-27"
 ---
 

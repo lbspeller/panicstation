@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone repeatedly asks for sexual favours in exchange for help, rides, or introductions"
+seo_title: "Someone pressuring you for sexual favours"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "sexual favours at work"
   - "sexual favours at university"
   - "sexual favours in community group"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-01"
 ---
 

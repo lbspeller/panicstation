@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are told not to contact someone but you share urgent responsibilities with them"
+seo_title: "Told not to contact someone with shared responsibilities"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "family responsibilities no contact"
   - "no contcat instruction"
   - "shared responsibilites problem"
-last_reviewed: "2026-05-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-06"
 ---
 

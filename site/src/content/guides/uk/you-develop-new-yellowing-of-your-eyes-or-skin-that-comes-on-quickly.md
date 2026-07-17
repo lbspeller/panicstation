@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you develop new yellowing of your eyes or skin that comes on quickly"
+seo_title: "New yellowing of eyes or skin"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "supplement reaction yellowing"
   - "jaundis symptoms"
   - "yellow eye whites"
-last_reviewed: "2026-05-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-09"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your card is declined due to a merchant category block you did not set"
+seo_title: "Card declined due to unexpected merchant category block"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "credit card declined"
   - "merhcant category block"
   - "card declind"
-last_reviewed: "2026-05-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-24"
 ---
 

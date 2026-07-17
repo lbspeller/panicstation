@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are told you must be formally served but people keep contacting you without giving details"
+seo_title: "Calls about being served with no details"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -34,7 +35,7 @@ tags:
   - "a sumons message has no details"
   - "the service call mentions my workplace"
   - "the service voicemail names another state"
-last_reviewed: "2026-06-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-11"
 ---
 

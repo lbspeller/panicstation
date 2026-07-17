@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone keeps pressuring you for a ride home after you have said no"
+seo_title: "Someone keeps pressuring you for a ride home"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -33,7 +34,7 @@ tags:
   - "boundary not respected"
   - "collegue keeps offering lifts"
   - "freind offering rides home"
-last_reviewed: "2026-05-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-16"
 ---
 

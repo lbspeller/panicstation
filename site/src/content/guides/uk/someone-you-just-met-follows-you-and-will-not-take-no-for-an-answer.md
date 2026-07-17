@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone you just met follows you and will not take no for an answer"
+seo_title: "Someone following you and refusing to leave"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "student halls safety"
   - "hostel room safety"
   - "night out walking back"
-last_reviewed: "2026-05-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-02"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your employer demands a medical note within 24 hours or threatens to stop your work duties"
+seo_title: "Employer demands medical note within 24 hours"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -33,7 +34,7 @@ tags:
   - "sick note or fit note"
   - "sik note pressure"
   - "fit not deadline"
-last_reviewed: "2026-05-07"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-07"
 ---
 

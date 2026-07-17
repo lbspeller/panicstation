@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you do not have the personal details needed to register a death"
+seo_title: "Missing personal details for death registration"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "coroner case details missing"
   - "personal detials missing after death"
   - "death registeration details missing"
-last_reviewed: "2026-06-07"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-07"
 ---
 

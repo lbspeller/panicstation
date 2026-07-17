@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are being pressured into unwanted sexual acts to avoid conflict"
+seo_title: "Pressured into unwanted sexual acts to avoid conflict"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "sexual pressure while dating"
   - "sexual pressure at home"
   - "sexual pressure after conflict"
-last_reviewed: "2026-06-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-09"
 ---
 

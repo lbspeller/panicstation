@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice a painful swelling near your eye or nose that is spreading"
+seo_title: "Painful spreading swelling near eye or nose"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "orbital cellulitis worry"
   - "swolen eyelid hurts"
   - "swelling near nsoe"
-last_reviewed: "2026-06-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-18"
 ---
 

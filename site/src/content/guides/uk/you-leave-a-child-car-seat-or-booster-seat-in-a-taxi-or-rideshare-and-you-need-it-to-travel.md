@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you leave a child car seat or booster seat in a taxi or rideshare and you need it to travel"
+seo_title: "Left child car seat or booster in taxi or rideshare"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "urgent child travel"
   - "booster seet left behind"
   - "car seet left in taxi"
-last_reviewed: "2026-05-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-14"
 ---
 

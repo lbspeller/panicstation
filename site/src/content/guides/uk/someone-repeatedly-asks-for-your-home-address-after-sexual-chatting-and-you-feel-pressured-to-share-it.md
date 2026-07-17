@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone repeatedly asks for your home address after sexual chatting and you feel pressured to share it"
+seo_title: "Pressured to share home address after sexual chat"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "uk online sexual pressure"
   - "dating app address pressure"
   - "social media address request"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-01"
 ---
 

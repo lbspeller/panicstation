@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your computer warns of disk errors and offers a repair that could risk data loss"
+seo_title: "Computer disk error warning and repair prompt"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "hardrive error warning"
   - "external drive error warning"
   - "laptop disk repair warning"
-last_reviewed: "2026-06-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-28"
 ---
 

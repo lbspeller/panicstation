@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your charging port is not working and your device is running out of power"
+seo_title: "Device charging port not working and battery dying"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "usb port blocked"
   - "near a trip"
   - "need phone for travel"
-last_reviewed: "2026-06-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-27"
 ---
 

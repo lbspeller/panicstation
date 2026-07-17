@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice ice buildup on your roof edge and water marks appearing indoors"
+seo_title: "Ice buildup on roof edge and indoor water leaks"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "after freeze thaw"
   - "during winter storm"
   - "rental home roof leak"
-last_reviewed: "2026-06-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-18"
 ---
 

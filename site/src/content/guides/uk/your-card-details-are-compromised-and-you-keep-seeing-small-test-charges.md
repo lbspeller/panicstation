@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your card details are compromised and you keep seeing small test charges"
+seo_title: "Unknown small charges on your bank card"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "card deetails stolen"
   - "card detailes compromised"
   - "uk bank card fraud"
-last_reviewed: "2026-05-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-23"
 ---
 

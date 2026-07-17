@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are locked out of your email or cloud storage while traveling"
+seo_title: "Locked out of email or cloud storage while traveling"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "before hotel check-in"
   - "before flight check-in"
   - "using public wifi abroad"
-last_reviewed: "2026-05-08"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-08"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your luggage is too heavy to manage alone after a sudden platform change or diversion"
+seo_title: "Heavy luggage after sudden platform change or diversion"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "amtrak luggage too heavy"
   - "suitcase too hevy"
   - "lugage too heavy"
-last_reviewed: "2026-06-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-30"
 ---
 

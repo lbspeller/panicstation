@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice new slurred speech or difficulty getting words out"
+seo_title: "New slurred speech or difficulty talking"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "maybe anxiety speech problem"
   - "slured speech suddenly"
   - "speach suddenly slurred"
-last_reviewed: "2026-06-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-18"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you lose your visa, residence permit, or immigration documents while abroad"
+seo_title: "Lost visa or immigration documents while abroad"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "worker visa document lost"
   - "brp stollen abroad"
   - "visaa lost abroad"
-last_reviewed: "2026-05-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-14"
 ---
 

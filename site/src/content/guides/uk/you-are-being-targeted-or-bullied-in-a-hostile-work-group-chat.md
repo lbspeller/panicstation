@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are being targeted or bullied in a hostile work group chat"
+seo_title: "Targeted or bullied in a work group chat"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "after hours work chat hostility"
   - "hostile grup chat at work"
   - "work whatsap chat conflict"
-last_reviewed: "2026-05-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-03"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone pressures you to send explicit photos and reacts with anger when you refuse"
+seo_title: "Pressured to send explicit photos and facing anger"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "minor pressured for explicit photos"
   - "pressured to send expicit photos"
   - "pressured to send nuds"
-last_reviewed: "2026-06-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-05"
 ---
 

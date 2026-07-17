@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your bank alerts you that your mailing address was changed and you did not do it"
+seo_title: "Bank alert for unauthorized mailing address change"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "identity theft bank account"
   - "adress changed at bank"
   - "mailing adress changed"
-last_reviewed: "2026-06-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-25"
 ---
 

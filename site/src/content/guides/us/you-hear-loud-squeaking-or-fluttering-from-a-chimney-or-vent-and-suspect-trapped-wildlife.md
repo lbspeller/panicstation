@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you hear loud squeaking or fluttering from a chimney or vent and suspect trapped wildlife"
+seo_title: "Loud squeaking or fluttering in chimney or vent"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "gas appliance vent blocked"
   - "fireplace animal noises"
   - "bathroom fan vent noises"
-last_reviewed: "2026-06-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-16"
 ---
 

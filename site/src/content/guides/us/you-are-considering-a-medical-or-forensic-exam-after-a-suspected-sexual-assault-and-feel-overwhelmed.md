@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are considering a medical or forensic exam after a suspected sexual assault and feel overwhelmed"
+seo_title: "Considering a medical or forensic exam after assault"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "i am not ready for an exam"
   - "i feel overwhelmed after assualt"
   - "i am considering a forensic exm"
-last_reviewed: "2026-06-08"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-08"
 ---
 

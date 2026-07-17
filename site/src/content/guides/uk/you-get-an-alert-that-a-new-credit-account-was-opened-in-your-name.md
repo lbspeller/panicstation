@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you get an alert that a new credit account was opened in your name"
+seo_title: "Alert about new credit account in your name"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "after losing my wallet"
   - "after stolen post"
   - "in scotland identity fraud"
-last_reviewed: "2026-05-12"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-12"
 ---
 

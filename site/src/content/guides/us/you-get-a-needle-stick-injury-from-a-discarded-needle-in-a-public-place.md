@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you get a needle-stick injury from a discarded needle in a public place"
+seo_title: "Needle-stick injury from a discarded needle"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "discarded syringe in park"
   - "needle in public bathroom"
   - "needle found on street"
-last_reviewed: "2026-06-15"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-15"
 ---
 

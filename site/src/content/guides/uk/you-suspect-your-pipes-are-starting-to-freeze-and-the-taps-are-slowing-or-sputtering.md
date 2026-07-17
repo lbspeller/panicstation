@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you suspect your pipes are starting to freeze and the taps are slowing or sputtering"
+seo_title: "Suspected frozen pipes and sputtering taps"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "cold snap frozen pipes"
   - "unheated loft pipe freezing"
   - "outside wall pipe freezing"
-last_reviewed: "2026-05-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-22"
 ---
 

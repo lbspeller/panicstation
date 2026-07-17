@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are told to accept a pay cut or reduced hours"
+seo_title: "Told to accept a pay cut or reduced hours"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "salaried worker pay cut"
   - "hourly worker reduced hours"
   - "part-time hours reduced"
-last_reviewed: "2026-06-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-10"
 ---
 

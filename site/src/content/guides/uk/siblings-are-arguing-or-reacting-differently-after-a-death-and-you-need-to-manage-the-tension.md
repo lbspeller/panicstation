@@ -1,5 +1,6 @@
 ---
 title: "What to do if… siblings are arguing or reacting differently after a death and you need to manage the tension"
+seo_title: "Managing sibling conflict and grief after a death"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -43,7 +44,7 @@ tags:
   - "same house after death"
   - "sibling greif after death"
   - "berevement family panic"
-last_reviewed: "2026-04-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-30"
 ---
 

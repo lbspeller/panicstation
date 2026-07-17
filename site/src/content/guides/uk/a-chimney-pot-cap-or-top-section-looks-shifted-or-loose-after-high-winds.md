@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a chimney pot, cap, or top section looks shifted or loose after high winds"
+seo_title: "Chimney pot or top section loose after high winds"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -33,7 +34,7 @@ tags:
   - "terraced house chimney stack"
   - "chimney over public pavement"
   - "gas fire flue may be unsafe"
-last_reviewed: "2026-05-15"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-15"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you see a large cash withdrawal on your account but you still have your card"
+seo_title: "Unknown cash withdrawal while you have your card"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "uk debit card"
   - "large cash withdrawl"
   - "unauthorised cash withdrawl"
-last_reviewed: "2026-05-20"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-20"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your navigation stops working while your phone battery is low in an unfamiliar area"
+seo_title: "Navigation stops working with low phone battery"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "batery dying while lost"
   - "lost driving at night"
   - "unfamiliar city alone"
-last_reviewed: "2026-07-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-01"
 ---
 

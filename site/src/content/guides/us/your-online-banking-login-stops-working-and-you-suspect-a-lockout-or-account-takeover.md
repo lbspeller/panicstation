@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your online banking login stops working and you suspect a lockout or account takeover"
+seo_title: "Online banking login not working or account takeover"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "sim swap bank risk"
   - "cant sign in to bank"
   - "bank acount hacked"
-last_reviewed: "2026-07-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-01"
 ---
 

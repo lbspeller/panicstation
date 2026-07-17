@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your vehicle starts vibrating strongly while you are driving"
+seo_title: "Vehicle starts vibrating strongly while driving"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "maybe loose wheel"
   - "maybe brake problem"
   - "maybe suspension damage"
-last_reviewed: "2026-07-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-04"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a legal letter from your employer alleging a breach of contract"
+seo_title: "Employer legal letter alleging breach of contract"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "employer laywer letter"
   - "non compete leter"
   - "personal device company data"
-last_reviewed: "2026-06-20"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-20"
 ---
 

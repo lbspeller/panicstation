@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone is sending rapid messages demanding you respond immediately and the tone turns controlling"
+seo_title: "Someone sending rapid, controlling messages"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "messeges demanding response"
   - "controllng messages"
   - "after a breakup messages"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-01"
 ---
 

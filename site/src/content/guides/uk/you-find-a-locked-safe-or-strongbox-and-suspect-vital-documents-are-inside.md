@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you find a locked safe or strongbox and suspect vital documents are inside"
+seo_title: "Finding a locked safe with potential estate documents"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "deceased home locked box"
   - "lokced safe documents"
   - "safe key mising"
-last_reviewed: "2026-05-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-11"
 ---
 

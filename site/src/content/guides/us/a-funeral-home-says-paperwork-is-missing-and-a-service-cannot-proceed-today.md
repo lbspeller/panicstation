@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a funeral home says paperwork is missing and a service cannot proceed today"
+seo_title: "Funeral home says paperwork is missing today"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "relatives travelling for funeral today"
   - "funral home paperwork missing"
   - "funeral paperwork missng"
-last_reviewed: "2026-05-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-30"
 ---
 

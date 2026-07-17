@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your debit or credit card is suddenly declined everywhere and you do not know why"
+seo_title: "Debit or credit card declined everywhere"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "card autorization failed"
   - "crdit card declined"
   - "card declined while buying essentials"
-last_reviewed: "2026-06-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-28"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you discover someone has used your identity to apply for credit or open accounts"
+seo_title: "Identity theft and fraudulent credit accounts"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "id theft or impersonation"
   - "unkown debt letter"
   - "creditt search not mine"
-last_reviewed: "2026-05-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-10"
 ---
 

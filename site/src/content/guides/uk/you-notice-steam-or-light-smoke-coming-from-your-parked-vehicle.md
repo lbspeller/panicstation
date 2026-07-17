@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice steam or light smoke coming from your parked vehicle"
+seo_title: "Steam or light smoke from parked vehicle"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "electric vehicle smoking"
   - "hybrid vehicle smoking"
   - "car charging and smoking"
-last_reviewed: "2026-05-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-16"
 ---
 

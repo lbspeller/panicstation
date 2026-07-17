@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to collect the belongings of someone who has died in a hospital or facility"
+seo_title: "Collecting belongings after a death in a facility"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "assisted living belongings after death"
   - "collect belonings after death"
   - "decesed belongings at hospital"
-last_reviewed: "2026-06-07"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-07"
 ---
 

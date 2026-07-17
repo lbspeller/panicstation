@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your tax refund is being taken to pay a debt you did not expect"
+seo_title: "Tax refund reduced to pay unexpected debt"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "my joint refund paid spouse debt"
   - "my tax refud was taken"
   - "my refund ofset notice arrived"
-last_reviewed: "2026-06-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-11"
 ---
 

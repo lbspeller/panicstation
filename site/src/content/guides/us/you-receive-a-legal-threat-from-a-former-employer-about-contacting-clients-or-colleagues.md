@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a legal threat from a former employer about contacting clients or colleagues"
+seo_title: "Legal threat from former employer about contacts"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "coworker recruiting confusion"
   - "cease and desist leter"
   - "former employer thret"
-last_reviewed: "2026-06-20"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-20"
 ---
 

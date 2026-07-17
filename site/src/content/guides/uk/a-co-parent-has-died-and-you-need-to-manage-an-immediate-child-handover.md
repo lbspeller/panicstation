@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a co-parent has died and you need to manage an immediate child handover"
+seo_title: "Co-parent has died and child handover is due"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "handover arrangments unclear"
   - "child arrangements order confusion"
   - "parental responsibility confusion"
-last_reviewed: "2026-05-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-10"
 ---
 

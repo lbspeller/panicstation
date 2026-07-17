@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice sudden vision changes like flashing lights, blind spots, or blurred vision"
+seo_title: "Sudden vision changes, flashes, or blind spots"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "vision changes after surgery"
   - "vison suddenly blurry"
   - "floters and flashes"
-last_reviewed: "2026-05-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-16"
 ---
 

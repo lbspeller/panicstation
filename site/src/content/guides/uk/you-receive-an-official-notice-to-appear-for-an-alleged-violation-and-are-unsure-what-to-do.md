@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive an official notice to appear for an alleged violation and are unsure what to do"
+seo_title: "Official notice to appear for an alleged violation"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "witness or defendant confusion"
   - "civil or criminal confusion"
   - "identity mix-up allegation"
-last_reviewed: "2026-05-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-19"
 ---
 

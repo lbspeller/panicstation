@@ -1,5 +1,6 @@
 ---
 title: "What to do if… officials contact you about a deceased person’s legal case and request urgent information"
+seo_title: "Official contact about a deceased person's legal case"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "officals contacting family after death"
   - "decased relative involved in legal case"
   - "family overwhelmed by urgent official contact"
-last_reviewed: "2026-06-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-03"
 ---
 

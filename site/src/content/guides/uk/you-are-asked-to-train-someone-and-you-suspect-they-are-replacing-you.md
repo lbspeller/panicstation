@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to train someone and you suspect they are replacing you"
+seo_title: "Asked to train someone and suspect replacement"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "handover or performance issue"
   - "knowlege transfer request"
   - "replacment at work"
-last_reviewed: "2026-05-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-04"
 ---
 

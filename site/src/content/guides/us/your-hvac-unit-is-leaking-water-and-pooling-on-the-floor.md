@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your HVAC unit is leaking water and pooling on the floor"
+seo_title: "HVAC unit leaking water and pooling on floor"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "attic air handler leak"
   - "condinsate line leak"
   - "condensate drain leeking"
-last_reviewed: "2026-06-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-30"
 ---
 

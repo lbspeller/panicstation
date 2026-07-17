@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your main water shutoff valve is stuck and you cannot turn it"
+seo_title: "Main water shutoff valve is stuck"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "shut of water valve"
   - "renter main shutoff stuck"
   - "private well shutoff stuck"
-last_reviewed: "2026-06-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-30"
 ---
 

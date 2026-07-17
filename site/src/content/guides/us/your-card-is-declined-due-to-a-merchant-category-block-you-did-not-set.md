@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your card is declined due to a merchant category block you did not set"
+seo_title: "Card declined due to unexpected merchant category block"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -42,7 +43,7 @@ tags:
   - "family card category blocked"
   - "card declined merchent category"
   - "card declined catagory block"
-last_reviewed: "2026-06-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-27"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you find account activity showing logins or locations that are not yours"
+seo_title: "Unfamiliar account logins or locations"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "shared device login confusion"
   - "unkown login location"
   - "acount activity not mine"
-last_reviewed: "2026-05-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-11"
 ---
 

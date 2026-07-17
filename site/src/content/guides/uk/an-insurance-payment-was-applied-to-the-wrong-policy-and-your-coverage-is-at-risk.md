@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an insurance payment was applied to the wrong policy and your coverage is at risk"
+seo_title: "Insurance payment applied to wrong policy"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "payment allocation dispute"
   - "insurence payment missing"
   - "polcy payment wrong"
-last_reviewed: "2026-04-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-29"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a suspicious demand for payment related to a death"
+seo_title: "Suspicious payment demand after a death"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "bereavment scam"
   - "funral fee scam"
   - "after a death"
-last_reviewed: "2026-05-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-17"
 ---
 

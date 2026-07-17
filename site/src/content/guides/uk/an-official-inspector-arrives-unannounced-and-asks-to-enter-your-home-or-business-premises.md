@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an official inspector arrives unannounced and asks to enter your home or business premises"
+seo_title: "Unannounced official inspector at your door"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "unnannounced inspector visit"
   - "business premisis inspector"
   - "official inspector home visit"
-last_reviewed: "2026-04-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-29"
 ---
 

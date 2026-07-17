@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a smoke alarm goes off but you cannot find any smoke or heat"
+seo_title: "Smoke alarm sounding with no visible fire"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "interlinked alarms sounding"
   - "rented home smoke alarm"
   - "night time smoke alarm"
-last_reviewed: "2026-04-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-28"
 ---
 

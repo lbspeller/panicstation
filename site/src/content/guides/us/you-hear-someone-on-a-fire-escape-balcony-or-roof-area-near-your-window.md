@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you hear someone on a fire escape, balcony, or roof area near your window"
+seo_title: "Hearing someone on fire escape, balcony, or roof"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "apartment balcony at night"
   - "fire escpae noise"
   - "balcony nois outside"
-last_reviewed: "2026-06-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-16"
 ---
 

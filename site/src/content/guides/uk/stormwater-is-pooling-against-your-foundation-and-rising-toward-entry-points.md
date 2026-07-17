@@ -1,5 +1,6 @@
 ---
 title: "What to do if… stormwater is pooling against your foundation and rising toward entry points"
+seo_title: "Stormwater pooling against foundation and rising toward entry points"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "at ground floor level"
   - "near basement entrance"
   - "before water enters house"
-last_reviewed: "2026-05-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-11"
 ---
 

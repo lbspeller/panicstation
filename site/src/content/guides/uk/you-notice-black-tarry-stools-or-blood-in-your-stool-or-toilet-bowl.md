@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice black, tarry stools or blood in your stool or toilet bowl"
+seo_title: "Black, tarry stools or blood in toilet"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "bloody poo on blood thinners"
   - "tarrey stool"
   - "bloody diarhoea"
-last_reviewed: "2026-05-15"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-15"
 ---
 

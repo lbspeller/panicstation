@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your boarding pass or itinerary disappears from the airline app shortly before your flight"
+seo_title: "Boarding pass or itinerary missing from airline app"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "before airport security"
   - "shortly before departure"
   - "international flight document check"
-last_reviewed: "2026-05-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-23"
 ---
 

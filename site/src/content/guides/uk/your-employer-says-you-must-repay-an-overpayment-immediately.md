@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your employer says you must repay an overpayment immediately"
+seo_title: "Employer demands immediate repayment of wages"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -33,7 +34,7 @@ tags:
   - "left job employer wants money"
   - "employer says repay overpayed wages"
   - "payroll overpayement demand"
-last_reviewed: "2026-05-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-25"
 ---
 

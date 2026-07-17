@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your rent or mortgage payment is marked unpaid even though you have proof it was sent"
+seo_title: "Rent or mortgage payment marked unpaid despite proof"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "wrong account details"
   - "mortage payment missing"
   - "landord says rent unpaid"
-last_reviewed: "2026-05-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-27"
 ---
 

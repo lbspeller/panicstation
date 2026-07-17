@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your computer displays a ransom note and you have not paid or contacted anyone yet"
+seo_title: "Computer displays a ransom note"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "work laptop ransomware"
   - "shared drive encrypted"
   - "not paid ransom yet"
-last_reviewed: "2026-06-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-28"
 ---
 

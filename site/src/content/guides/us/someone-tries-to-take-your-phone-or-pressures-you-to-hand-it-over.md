@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone tries to take your phone or pressures you to hand it over"
+seo_title: "Someone trying to take your phone"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "someone asks for phone near car"
   - "someone wants my cellfone"
   - "someone grabs my fone"
-last_reviewed: "2026-06-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-04"
 ---
 

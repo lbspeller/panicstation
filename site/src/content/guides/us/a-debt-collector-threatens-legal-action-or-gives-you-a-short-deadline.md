@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a debt collector threatens legal action or gives you a short deadline"
+seo_title: "Debt collector threatening legal action or deadline"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "summons recieved for debt"
   - "old debt lawsuit threat"
   - "medical debt lawsuit threat"
-last_reviewed: "2026-05-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-30"
 ---
 

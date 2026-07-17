@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a vehicle or storage unit linked to someone who died is at risk of being towed or cleared"
+seo_title: "Vehicle or storage unit at risk after a death"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "urgent estate property deadline"
   - "deceased persons car is impouded"
   - "deceased persons car was towd"
-last_reviewed: "2026-06-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-13"
 ---
 

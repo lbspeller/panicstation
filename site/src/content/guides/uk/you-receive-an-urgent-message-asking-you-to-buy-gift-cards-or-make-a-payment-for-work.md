@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive an urgent message asking you to buy gift cards or make a payment for work"
+seo_title: "Urgent work message asking for payment or gift cards"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "payment authorisation scam"
   - "gift gard scam"
   - "paymant request at work"
-last_reviewed: "2026-05-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-19"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your contact list or calendar entries disappear or merge unexpectedly"
+seo_title: "Contacts or calendar entries missing or merged"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "calendar missing after update"
   - "calender entries missing"
   - "contacts dissapeared after sync"
-last_reviewed: "2026-05-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-24"
 ---
 

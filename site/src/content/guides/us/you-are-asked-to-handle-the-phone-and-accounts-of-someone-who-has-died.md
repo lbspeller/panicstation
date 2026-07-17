@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to handle the phone and accounts of someone who has died"
+seo_title: "Handling a phone and accounts after a death"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "phone already unlocked after death"
   - "decesed persons phone"
   - "acounts after death"
-last_reviewed: "2026-06-07"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-07"
 ---
 

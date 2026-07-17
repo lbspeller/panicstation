@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your heating system stops working and your home is getting cold"
+seo_title: "Heating system stops working and home getting cold"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "thermostat not workin"
   - "rented home no heating"
   - "older person cold home"
-last_reviewed: "2026-05-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-26"
 ---
 

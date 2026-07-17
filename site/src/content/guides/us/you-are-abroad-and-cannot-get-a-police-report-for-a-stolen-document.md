@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are abroad and cannot get a police report for a stolen document"
+seo_title: "Cannot get police report for stolen document abroad"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "document stolen at airport"
   - "document stolen at hotel"
   - "abroad with urgent travel"
-last_reviewed: "2026-06-07"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-07"
 ---
 

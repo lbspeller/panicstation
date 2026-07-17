@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your visa or entry permission expires before your planned departure date"
+seo_title: "Visa or entry permission expires before planned departure"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "visa expries before flight"
   - "tourist in the united states"
   - "student status departure timing"
-last_reviewed: "2026-06-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-19"
 ---
 

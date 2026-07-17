@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a partner pressures you into sexual acts you feel are unsafe or risky"
+seo_title: "Partner pressuring you into unsafe or risky sex"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "pressure during sexual activity"
   - "sexual coersion in relationship"
   - "pressured into unproteced sex"
-last_reviewed: "2026-06-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-01"
 ---
 

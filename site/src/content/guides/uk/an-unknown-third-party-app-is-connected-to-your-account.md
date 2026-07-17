@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an unknown third-party app is connected to your account"
+seo_title: "Unknown third-party app connected to your account"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "google account app access"
   - "microsoft account app access"
   - "apple account app access"
-last_reviewed: "2026-04-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-28"
 ---
 

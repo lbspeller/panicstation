@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your boarding pass will not scan at the gate while boarding is in progress"
+seo_title: "Boarding pass will not scan at the gate"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "boading pass not scanning"
   - "uk airport gate problem"
   - "international flight document check"
-last_reviewed: "2026-05-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-23"
 ---
 

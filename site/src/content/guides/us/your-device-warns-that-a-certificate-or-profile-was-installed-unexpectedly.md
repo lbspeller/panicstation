@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your device warns that a certificate or profile was installed unexpectedly"
+seo_title: "Unexpected device certificate or profile warning"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "public wifi certificate warning"
   - "qr code profile warning"
   - "after clicking link profile installed"
-last_reviewed: "2026-06-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-28"
 ---
 

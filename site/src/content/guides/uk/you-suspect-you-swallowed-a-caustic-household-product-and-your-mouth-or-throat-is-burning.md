@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you suspect you swallowed a caustic household product and your mouth or throat is burning"
+seo_title: "Swallowed a caustic household product"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "child swallowed cleaning product"
   - "swollowed bleach by mistake"
   - "caustik cleaner in mouth"
-last_reviewed: "2026-05-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-22"
 ---
 

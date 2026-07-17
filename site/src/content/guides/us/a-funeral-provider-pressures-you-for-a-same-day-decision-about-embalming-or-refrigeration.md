@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a funeral provider pressures you for a same-day decision about embalming or refrigeration"
+seo_title: "Funeral provider pressuring for same-day embalming decision"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "refridgeration decision today"
   - "funeral home wants a decision"
   - "funeral provider says decide today"
-last_reviewed: "2026-05-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-30"
 ---
 

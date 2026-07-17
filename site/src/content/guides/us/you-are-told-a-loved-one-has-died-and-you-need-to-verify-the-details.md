@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are told a loved one has died and you need to verify the details"
+seo_title: "Verifying a loved one's death notification"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "found deseased details unclear"
   - "death detials unconfirmed"
   - "confirm details before informing others"
-last_reviewed: "2026-06-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-10"
 ---
 

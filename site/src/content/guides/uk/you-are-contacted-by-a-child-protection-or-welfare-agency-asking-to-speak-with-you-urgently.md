@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are contacted by a child protection or welfare agency asking to speak with you urgently"
+seo_title: "Urgent contact from child protection agency"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "out of hours social work"
   - "contacted about child in my care"
   - "uk safeguarding contact"
-last_reviewed: "2026-05-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-04"
 ---
 

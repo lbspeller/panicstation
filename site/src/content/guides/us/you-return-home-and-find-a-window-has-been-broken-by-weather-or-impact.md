@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you return home and find a window has been broken by weather or impact"
+seo_title: "Return home to find a broken window"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "homeowner broken window"
   - "borken window at home"
   - "smashed windo at home"
-last_reviewed: "2026-06-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-23"
 ---
 

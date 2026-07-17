@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a key online account says your identity details were changed and you cannot see what was altered"
+seo_title: "Online account identity details changed unexpectedly"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "acount details changed"
   - "identiy details changed"
   - "account changed after suspicious login"
-last_reviewed: "2026-05-31"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-31"
 ---
 

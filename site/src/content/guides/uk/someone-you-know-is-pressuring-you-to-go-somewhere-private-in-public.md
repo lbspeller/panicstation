@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone you know is pressuring you to go somewhere private in public"
+seo_title: "Someone pressuring you to go somewhere private"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "bar argument escalating"
   - "freind acting threatening"
   - "someone acting threatning"
-last_reviewed: "2026-05-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-02"
 ---
 

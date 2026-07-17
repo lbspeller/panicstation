@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice your passport is not signed and you are close to departure"
+seo_title: "Passport is not signed before departure"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "flight soon passport issue"
   - "airport check-in passport problem"
   - "close to departure passport"
-last_reviewed: "2026-06-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-19"
 ---
 

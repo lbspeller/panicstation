@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have sudden pelvic pain and abnormal vaginal bleeding"
+seo_title: "Sudden pelvic pain and abnormal vaginal bleeding"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "pelvic infection symptoms"
   - "pelvic pian and bleeding"
   - "pelvic pain and bleading"
-last_reviewed: "2026-05-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-13"
 ---
 

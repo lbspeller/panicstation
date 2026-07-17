@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your replacement bank card has not arrived and your current card is deactivated"
+seo_title: "Replacement bank card missing and current card deactivated"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "mail delay or fraud"
   - "replacment card not received"
   - "card deactivated no acess"
-last_reviewed: "2026-07-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-03"
 ---
 

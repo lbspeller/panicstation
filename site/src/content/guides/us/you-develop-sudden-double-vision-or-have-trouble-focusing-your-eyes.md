@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you develop sudden double vision or have trouble focusing your eyes"
+seo_title: "Sudden double vision or trouble focusing eyes"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "i have double vision while alone"
   - "i have double vision when standing"
   - "i have double vision with eye pain"
-last_reviewed: "2026-06-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-13"
 ---
 

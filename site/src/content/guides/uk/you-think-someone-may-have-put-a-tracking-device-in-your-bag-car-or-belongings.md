@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you think someone may have put a tracking device in your bag, car, or belongings"
+seo_title: "Suspected tracking device in your belongings or car"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "stalking or harassment concern"
   - "domestic abuse tracker worry"
   - "public place not home"
-last_reviewed: "2026-05-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-22"
 ---
 

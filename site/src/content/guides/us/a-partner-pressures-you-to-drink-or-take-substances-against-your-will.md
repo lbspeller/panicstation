@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a partner pressures you to drink or take substances against your will"
+seo_title: "Partner pressuring you to drink or take substances"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "unsure if pressure counts as consent"
   - "partner presures me to drink"
   - "subtances pressure from partner"
-last_reviewed: "2026-06-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-01"
 ---
 

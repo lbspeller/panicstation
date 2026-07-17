@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are being treated unfairly at work after raising a complaint or reporting wrongdoing"
+seo_title: "Workplace retaliation after raising a complaint"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "bad reference after speaking up"
   - "grievence retaliation"
   - "whistleblowng retaliation"
-last_reviewed: "2026-05-21"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-21"
 ---
 

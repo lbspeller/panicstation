@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a notice that your home may be entered to take property"
+seo_title: "Notice that home may be entered to take property"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "magistrates fine enforcement notice"
   - "sheriff officer notice scotland"
   - "northern ireland enforcement notice"
-last_reviewed: "2026-05-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-18"
 ---
 

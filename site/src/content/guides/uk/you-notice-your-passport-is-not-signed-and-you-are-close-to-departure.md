@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice your passport is not signed and you are close to departure"
+seo_title: "Passport is not signed before departure"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "passport signiture missing"
   - "pasport not signed"
   - "close to departure passport"
-last_reviewed: "2026-05-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-16"
 ---
 

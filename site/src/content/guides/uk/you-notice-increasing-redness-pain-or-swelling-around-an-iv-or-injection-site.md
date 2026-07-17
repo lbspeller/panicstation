@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice increasing redness, pain, or swelling around an IV or injection site"
+seo_title: "Increasing redness, pain, or swelling at IV site"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "after chemotherapy infusion"
   - "venflon site swelling"
   - "canula site redness"
-last_reviewed: "2026-05-15"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-15"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your car window is shattered and you need to secure the vehicle"
+seo_title: "Car window shattered and vehicle needs securing"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "lease car window smashed"
   - "car window shatered"
   - "car window smashd"
-last_reviewed: "2026-04-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-28"
 ---
 

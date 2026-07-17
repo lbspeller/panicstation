@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your passport is stolen while you are abroad and you still need to travel onward"
+seo_title: "Passport stolen while abroad and need to travel onward"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "embassy passport replacement"
   - "pasport stolen abroad"
   - "passort stolen overseas"
-last_reviewed: "2026-05-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-27"
 ---
 

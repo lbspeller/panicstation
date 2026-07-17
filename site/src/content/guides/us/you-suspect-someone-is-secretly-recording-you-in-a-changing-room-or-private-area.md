@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you suspect someone is secretly recording you in a changing room or private area"
+seo_title: "Suspecting secret recording in a private area"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "gym locker room recording"
   - "store fitting room recording"
   - "school locker room recording"
-last_reviewed: "2026-06-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-24"
 ---
 

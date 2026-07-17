@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your flight is delayed and you might miss your onward train, bus, or car rental"
+seo_title: "Flight delayed and missing onward travel connection"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "international flight onward travel"
   - "flite delayed onward transport"
   - "flight delyaed connection"
-last_reviewed: "2026-06-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-29"
 ---
 

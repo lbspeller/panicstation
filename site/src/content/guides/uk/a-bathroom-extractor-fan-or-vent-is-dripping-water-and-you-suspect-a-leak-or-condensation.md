@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a bathroom extractor fan or vent is dripping water and you suspect a leak or condensation"
+seo_title: "Bathroom extractor fan or vent dripping water"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "rented bathroom fan leak"
   - "flat bathroom vent dripping"
   - "loft duct dripping water"
-last_reviewed: "2026-04-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-25"
 ---
 

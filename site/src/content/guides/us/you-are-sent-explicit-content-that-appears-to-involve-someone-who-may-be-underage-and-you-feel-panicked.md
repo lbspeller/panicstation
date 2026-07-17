@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are sent explicit content that appears to involve someone who may be underage and you feel panicked"
+seo_title: "you are sent explicit content that appears to be underage"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "explicit contnet sent to me"
   - "underage content concern"
   - "panicked about possible underage content"
-last_reviewed: "2026-06-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-09"
 ---
 

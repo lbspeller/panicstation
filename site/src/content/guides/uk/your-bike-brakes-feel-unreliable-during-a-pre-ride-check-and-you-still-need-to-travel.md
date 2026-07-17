@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your bike brakes feel unreliable during a pre-ride check and you still need to travel"
+seo_title: "Bike brakes feel unreliable before a ride"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "e-bike brakes feel unreliable"
   - "wet weather braking worse"
   - "commuting with bad bike brakes"
-last_reviewed: "2026-05-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-23"
 ---
 

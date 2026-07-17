@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive unexpected account verification or welcome emails at your work address"
+seo_title: "Unexpected account emails at work address"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "multiple unknown accounts at once"
   - "work email adress used"
   - "work emial used for accounts"
-last_reviewed: "2026-06-12"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-12"
 ---
 

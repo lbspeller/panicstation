@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you cough up blood or see blood in your mucus"
+seo_title: "Coughing up blood or blood in mucus"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "blood in flem"
   - "sudden blood in mucus"
   - "hemoptysis blood in sputum"
-last_reviewed: "2026-06-12"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-12"
 ---
 

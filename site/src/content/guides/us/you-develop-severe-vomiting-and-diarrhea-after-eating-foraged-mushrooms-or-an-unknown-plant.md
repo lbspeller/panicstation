@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you develop severe vomiting and diarrhea after eating foraged mushrooms or an unknown plant"
+seo_title: "Severe sickness after eating foraged mushrooms or plants"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "unknown plant eaten outdoors"
   - "diarhea after wild mushrooms"
   - "mushrom poisoning symptoms"
-last_reviewed: "2026-06-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-13"
 ---
 

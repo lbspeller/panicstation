@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you hit a pothole and your car feels unsafe or a warning light appears"
+seo_title: "Hit a pothole and car feels unsafe or warning light appears"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "suspension noise after pothole"
   - "motorway pothole incident"
   - "major road pothole damage"
-last_reviewed: "2026-05-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-13"
 ---
 

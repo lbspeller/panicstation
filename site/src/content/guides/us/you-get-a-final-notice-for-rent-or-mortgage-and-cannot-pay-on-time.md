@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you get a final notice for rent or mortgage and cannot pay on time"
+seo_title: "Final notice for rent or mortgage arrears"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "rent or mortgage due today"
   - "low income rent late"
   - "mortage payment late"
-last_reviewed: "2026-06-15"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-15"
 ---
 

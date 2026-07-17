@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a formal disciplinary hearing notice at work"
+seo_title: "Formal disciplinary hearing notice at work"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "union companion unavailable"
   - "diciplinary hearing notice"
   - "discplinary meeting invite"
-last_reviewed: "2026-05-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-17"
 ---
 

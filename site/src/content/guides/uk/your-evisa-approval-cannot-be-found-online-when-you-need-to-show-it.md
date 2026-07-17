@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your evisa approval cannot be found online when you need to show it"
+seo_title: "evisa approval not found online at airport or border"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "evissa not found online"
   - "british traveller abroad"
   - "airport document check problem"
-last_reviewed: "2026-05-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-25"
 ---
 

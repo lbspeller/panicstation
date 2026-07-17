@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your cooling system fails during extreme heat and the indoor temperature is rising"
+seo_title: "Cooling system failure during extreme heat"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "vulnerable person in heat"
   - "pets overheating indoors"
   - "overnight heat indoors"
-last_reviewed: "2026-05-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-24"
 ---
 

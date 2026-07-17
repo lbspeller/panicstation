@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you find an error on a death certificate that is blocking urgent tasks"
+seo_title: "Error on death certificate blocking urgent tasks"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "death certificat mismatch"
   - "urgent bereavement paperwork blocked"
   - "estate paperwork blocked"
-last_reviewed: "2026-06-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-16"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your employer threatens to report you to your professional licensing or certification board"
+seo_title: "Employer threatens to report you to licensing board"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "proffesional licence worry"
   - "regulated job allegation"
   - "uk professional registration concern"
-last_reviewed: "2026-05-08"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-08"
 ---
 

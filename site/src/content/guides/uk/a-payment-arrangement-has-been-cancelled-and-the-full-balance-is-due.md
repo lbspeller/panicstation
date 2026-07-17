@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a payment arrangement has been cancelled and the full balance is due"
+seo_title: "Payment arrangement cancelled and full balance due"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "uk debt arrangement cancelled"
   - "paymant arrangement cancelled"
   - "ballance due notice"
-last_reviewed: "2026-05-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-18"
 ---
 

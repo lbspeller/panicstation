@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you suspect someone is watching your home from a parked car"
+seo_title: "Suspicious parked car outside your home"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "suspicios car outside home"
   - "suspicious vehical outside house"
   - "alone at home tonight"
-last_reviewed: "2026-05-21"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-21"
 ---
 

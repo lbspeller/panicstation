@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive an official notice to appear for an alleged violation and are unsure what to do"
+seo_title: "Official notice to appear for an alleged violation"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "housing violation notice"
   - "offical notice to appear"
   - "subpena about violation"
-last_reviewed: "2026-06-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-22"
 ---
 

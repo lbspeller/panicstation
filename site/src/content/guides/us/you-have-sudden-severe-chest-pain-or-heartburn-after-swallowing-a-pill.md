@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have sudden severe chest pain or heartburn after swallowing a pill"
+seo_title: "Sudden chest pain or heartburn after swallowing a pill"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "symptoms after taking medicine lying down"
   - "heart burn after pill"
   - "pill stuck in esophogus"
-last_reviewed: "2026-06-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-13"
 ---
 

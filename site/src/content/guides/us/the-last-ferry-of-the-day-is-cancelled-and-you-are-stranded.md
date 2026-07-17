@@ -1,5 +1,6 @@
 ---
 title: "What to do if… the last ferry of the day is cancelled and you are stranded"
+seo_title: "Last ferry cancelled and you are stranded"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "traveling with children after ferry cancellation"
   - "limited mobility after ferry cancellation"
   - "need another way to destination"
-last_reviewed: "2026-06-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-06"
 ---
 

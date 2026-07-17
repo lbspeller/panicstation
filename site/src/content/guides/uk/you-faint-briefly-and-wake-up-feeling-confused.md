@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you faint briefly and wake up feeling confused"
+seo_title: "Fainted briefly and woke up feeling confused"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "fainted while exercising"
   - "fainted and felt confussed"
   - "passed out and confusd"
-last_reviewed: "2026-05-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-10"
 ---
 

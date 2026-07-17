@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your shower or tub will not turn off and water is running continuously"
+seo_title: "Shower or tub will not turn off"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "bathroom flood risk"
   - "shower wont turn off"
   - "diverter stuckk"
-last_reviewed: "2026-05-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-28"
 ---
 

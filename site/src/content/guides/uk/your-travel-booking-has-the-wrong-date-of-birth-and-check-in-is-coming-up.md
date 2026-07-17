@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your travel booking has the wrong date of birth and check-in is coming up"
+seo_title: "Wrong date of birth on travel booking"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "third party travel booking error"
   - "boking wrong date of birth"
   - "checkin date of birth wrong"
-last_reviewed: "2026-05-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-28"
 ---
 

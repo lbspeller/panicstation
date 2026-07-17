@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked for parental consent paperwork to travel with a child and you do not have it"
+seo_title: "Missing parental consent paperwork for child travel"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "last minute child travel"
   - "single parent travelling abroad"
   - "child travelling with one parent"
-last_reviewed: "2026-05-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-03"
 ---
 

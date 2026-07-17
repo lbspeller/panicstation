@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a client or customer sends sexual messages and you feel unsafe or worried about your work"
+seo_title: "Client or customer sends sexual messages at work"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "customer sexual messages in work chat"
   - "sexual harrassment from customer"
   - "inapropriate client messages"
-last_reviewed: "2026-05-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-30"
 ---
 

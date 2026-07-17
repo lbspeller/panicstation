@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your checked bag is missing and you have lost your bag tag receipt"
+seo_title: "Checked bag missing and bag tag receipt lost"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "laggage receipt missing"
   - "bagage tag missing"
   - "uk airport missing luggage"
-last_reviewed: "2026-05-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-14"
 ---
 

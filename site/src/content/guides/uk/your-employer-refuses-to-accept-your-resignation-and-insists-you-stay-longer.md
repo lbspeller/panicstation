@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your employer refuses to accept your resignation and insists you stay longer"
+seo_title: "Employer refuses to accept your resignation"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "payroll refusing final pay"
   - "resignaton rejected"
   - "notce period dispute"
-last_reviewed: "2026-05-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-25"
 ---
 

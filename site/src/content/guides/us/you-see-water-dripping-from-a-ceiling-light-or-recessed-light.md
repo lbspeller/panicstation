@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you see water dripping from a ceiling light or recessed light"
+seo_title: "Water dripping from a ceiling light fixture"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "apartment ceiling light leak"
   - "bathroom leak through ceiling"
   - "roof leak through light fixture"
-last_reviewed: "2026-06-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-23"
 ---
 

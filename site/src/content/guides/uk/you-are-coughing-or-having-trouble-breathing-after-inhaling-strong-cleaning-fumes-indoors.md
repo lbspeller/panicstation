@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are coughing or having trouble breathing after inhaling strong cleaning fumes indoors"
+seo_title: "Coughing or trouble breathing after cleaning fumes"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "pregnant after cleaning fumes"
   - "bleech fumes indoors"
   - "short of breth after cleaning"
-last_reviewed: "2026-05-21"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-21"
 ---
 

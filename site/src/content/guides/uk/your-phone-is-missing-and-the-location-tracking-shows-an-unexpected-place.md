@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your phone is missing and the location tracking shows an unexpected place"
+seo_title: "Missing phone shows unexpected location on map"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "find my devce wrong place"
   - "missing phone with banking"
   - "missing phone after travel"
-last_reviewed: "2026-05-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-27"
 ---
 

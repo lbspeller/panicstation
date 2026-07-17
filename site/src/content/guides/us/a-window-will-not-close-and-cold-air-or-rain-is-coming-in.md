@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a window will not close and cold air or rain is coming in"
+seo_title: "Window will not close and weather is coming in"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "window stuck open during storm"
   - "window wont clsoe"
   - "winow will not close"
-last_reviewed: "2026-06-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-02"
 ---
 

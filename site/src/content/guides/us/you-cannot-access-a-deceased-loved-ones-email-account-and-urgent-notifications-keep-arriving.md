@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you cannot access a deceased loved one’s email account and urgent notifications keep arriving"
+seo_title: "Locked out of deceased loved one's email account"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "recent death email alerts"
   - "decesed email access"
   - "notifcations after death"
-last_reviewed: "2026-06-12"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-12"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your browser shows connection not private warnings on many trusted sites at once"
+seo_title: "Browser shows connection not private warnings on many sites"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "conection not private"
   - "certifcate warning"
   - "hotel wifi certificate warning"
-last_reviewed: "2026-06-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-28"
 ---
 

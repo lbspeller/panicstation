@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a suspicious demand for payment related to a death"
+seo_title: "Suspicious payment demand after a death"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "family death payment demand"
   - "funral fee demand"
   - "inheretance fee demand"
-last_reviewed: "2026-06-20"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-20"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are served with a restraining or protective order and need to understand immediate restrictions"
+seo_title: "Served with a restraining or protective order"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "shared children no contact order"
   - "workplace near protected person"
   - "social media contact order"
-last_reviewed: "2026-05-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-05"
 ---
 

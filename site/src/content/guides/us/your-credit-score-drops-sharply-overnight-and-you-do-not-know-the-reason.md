@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your credit score drops sharply overnight and you do not know the reason"
+seo_title: "unexplained sharp drop in credit score"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "after credit monitoring alert"
   - "during loan application"
   - "unrecognized account on credit report"
-last_reviewed: "2026-06-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-28"
 ---
 

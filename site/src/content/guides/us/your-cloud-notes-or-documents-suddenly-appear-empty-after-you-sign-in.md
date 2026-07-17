@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your cloud notes or documents suddenly appear empty after you sign in"
+seo_title: "Cloud notes or documents appear empty after sign in"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "new phone cloud files missing"
   - "cloud documents not visible"
   - "sign in files missing"
-last_reviewed: "2026-06-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-27"
 ---
 

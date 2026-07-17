@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your car battery is dead while you are parked and you need to leave soon"
+seo_title: "Car battery dead while parked and need to leave"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "cold morning dead battery"
   - "late for appointment car dead"
   - "parked on street battery dead"
-last_reviewed: "2026-05-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-23"
 ---
 

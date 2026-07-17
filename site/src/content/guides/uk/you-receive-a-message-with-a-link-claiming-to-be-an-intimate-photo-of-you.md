@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a message with a link claiming to be an intimate photo of you"
+seo_title: "sent a link claiming to be an intimate photo of you"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "hacked account nude claim"
   - "link says its me nude"
   - "intimate foto link"
-last_reviewed: "2026-05-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-17"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… the person listed as a medical contact cannot be reached during urgent treatment decisions"
+seo_title: "Medical contact unreachable for urgent treatment decisions"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "emergancy contact not answering"
   - "critical care discussion"
   - "end of life discussion"
-last_reviewed: "2026-05-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-02"
 ---
 

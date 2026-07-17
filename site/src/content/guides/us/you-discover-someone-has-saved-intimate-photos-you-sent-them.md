@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you discover someone has saved intimate photos you sent them"
+seo_title: "Someone saved your intimate photos"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -42,7 +43,7 @@ tags:
   - "private chat images saved"
   - "nudes saved without consent"
   - "intimate fotos saved"
-last_reviewed: "2026-06-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-14"
 ---
 

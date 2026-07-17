@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone is pressuring you to have sex in exchange for money, housing, or help"
+seo_title: "Pressured to have sex for money or housing"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "confused about consent"
   - "survival sex pressure"
   - "couch surfing pressure"
-last_reviewed: "2026-05-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-02"
 ---
 

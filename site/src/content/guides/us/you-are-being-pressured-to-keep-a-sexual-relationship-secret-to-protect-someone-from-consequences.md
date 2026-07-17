@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are being pressured to keep a sexual relationship secret to protect someone from consequences"
+seo_title: "Pressured to keep a sexual relationship secret"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "sexual relationship involving an authority figure"
   - "secrecy presure in relationship"
   - "sexual coersion pressure"
-last_reviewed: "2026-06-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-09"
 ---
 

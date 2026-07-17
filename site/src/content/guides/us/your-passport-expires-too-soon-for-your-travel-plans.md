@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your passport expires too soon for your travel plans"
+seo_title: "Passport expires too soon for travel plans"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "entry rule versus airline rule"
   - "pasport expires too soon"
   - "passport expiary panic"
-last_reviewed: "2026-06-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-14"
 ---
 

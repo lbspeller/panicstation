@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are travelling with two passports and are unsure which one your booking is linked to"
+seo_title: "Travelling with two passports and booking confusion"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "uk entry with two passports"
   - "airport desk passport problem"
   - "passprt details wrong"
-last_reviewed: "2026-05-08"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-08"
 ---
 

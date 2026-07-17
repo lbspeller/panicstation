@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your online card payments are being declined due to an address verification mismatch"
+seo_title: "Online card payment declined due to address mismatch"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "urgent bill payment declined"
   - "adress verification failed"
   - "adress mismatch checkout"
-last_reviewed: "2026-05-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-26"
 ---
 

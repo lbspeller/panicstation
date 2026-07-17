@@ -1,5 +1,6 @@
 ---
 title: "What to do if… family members disagree on the wording for a headstone or grave marker"
+seo_title: "Family disagreement over headstone or marker wording"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "cemetery headstone wording dispute"
   - "gravstone wording dispute"
   - "gravestone wording disgreement"
-last_reviewed: "2026-05-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-03"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your smartwatch flags an unusually low heart rate and you feel faint"
+seo_title: "Smartwatch low heart rate alert and feeling faint"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "low heart rate on medication"
   - "low heart rate after exercise"
   - "low heart rate dehydration worry"
-last_reviewed: "2026-07-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-04"
 ---
 

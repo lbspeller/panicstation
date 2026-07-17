@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an app update signs you out and your downloaded content or offline data is missing"
+seo_title: "App update signed you out and content is missing"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "app update lost local notes"
   - "app updte signed me out"
   - "offine data gone after update"
-last_reviewed: "2026-06-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-03"
 ---
 

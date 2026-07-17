@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a partner ignores your no and keeps pushing sexual boundaries"
+seo_title: "Partner ignores your no and pushes sexual boundaries"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "partner pushes boundaries in private"
   - "sexual coersion from partner"
   - "partner ignores my boundries"
-last_reviewed: "2026-06-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-01"
 ---
 

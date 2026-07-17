@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your travel booking lists the wrong country of citizenship and you cannot edit it online"
+seo_title: "Wrong citizenship on travel booking cannot edit online"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "returning to uk dual citizen"
   - "natonality wrong on booking"
   - "citizinship wrong on booking"
-last_reviewed: "2026-05-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-28"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your fireplace or stove is pushing smoke back into the room"
+seo_title: "Fireplace or stove pushing smoke into room"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "tight house negative pressure"
   - "fireplace smokey room"
   - "chimny smoke problem"
-last_reviewed: "2026-06-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-29"
 ---
 

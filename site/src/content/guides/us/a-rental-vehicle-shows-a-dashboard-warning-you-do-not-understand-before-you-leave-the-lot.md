@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a rental vehicle shows a dashboard warning you do not understand before you leave the lot"
+seo_title: "Rental vehicle dashboard warning before leaving lot"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "rental vehicle warning before driving"
   - "dashbord warning light rental"
   - "rental car warrning light"
-last_reviewed: "2026-05-31"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-31"
 ---
 

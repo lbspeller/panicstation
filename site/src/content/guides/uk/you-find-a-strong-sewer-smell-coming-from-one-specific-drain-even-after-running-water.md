@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you find a strong sewer smell coming from one specific drain even after running water"
+seo_title: "Strong sewer smell from one specific drain"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "homeowner drain smell"
   - "flat drain smells"
   - "downstairs drain smells"
-last_reviewed: "2026-05-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-11"
 ---
 

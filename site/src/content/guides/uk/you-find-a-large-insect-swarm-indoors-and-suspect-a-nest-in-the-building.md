@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you find a large insect swarm indoors and suspect a nest in the building"
+seo_title: "Large insect swarm indoors and suspected nest"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "children near insect swarm"
   - "insect sworm indoors"
   - "wasps in loft"
-last_reviewed: "2026-05-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-11"
 ---
 

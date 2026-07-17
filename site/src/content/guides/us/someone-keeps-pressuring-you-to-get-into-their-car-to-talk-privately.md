@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone keeps pressuring you to get into their car to talk privately"
+seo_title: "Someone pressuring you to get into their car"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "someone keeps asking to talk privatly"
   - "someone pressures me to get in thier car"
   - "someone wants me alone after refusal"
-last_reviewed: "2026-06-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-05"
 ---
 

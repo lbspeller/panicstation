@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you overwrite a file and cannot find a previous version to restore"
+seo_title: "Overwritten file with no previous version to restore"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "mac file overwritten"
   - "prevous version missing"
   - "overwrote importent file"
-last_reviewed: "2026-06-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-19"
 ---
 

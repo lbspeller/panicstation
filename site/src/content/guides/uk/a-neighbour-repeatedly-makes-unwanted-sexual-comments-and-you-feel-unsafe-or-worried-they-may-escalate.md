@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a neighbour repeatedly makes unwanted sexual comments and you feel unsafe or worried they may escalate"
+seo_title: "Neighbour making unwanted sexual comments"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "shared building neighbour problem"
   - "neigbour sexual comments"
   - "neighbour harrassment"
-last_reviewed: "2026-04-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-27"
 ---
 

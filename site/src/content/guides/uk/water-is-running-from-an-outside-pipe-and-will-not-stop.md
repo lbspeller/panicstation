@@ -1,5 +1,6 @@
 ---
 title: "What to do if… water is running from an outside pipe and will not stop"
+seo_title: "Water running from outside pipe and will not stop"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "flat overflow pipe leaking"
   - "overflo pipe running"
   - "cistern overflw outside"
-last_reviewed: "2026-05-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-02"
 ---
 

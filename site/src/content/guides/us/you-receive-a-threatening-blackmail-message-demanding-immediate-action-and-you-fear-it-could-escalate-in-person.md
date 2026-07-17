@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a threatening blackmail message demanding immediate action and you fear it could escalate in person"
+seo_title: "Threatening blackmail message with risk of in-person escalation"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "sextortion style message"
   - "threat says respond imediately"
   - "extorsion message"
-last_reviewed: "2026-06-15"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-15"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone calls claiming your bank will send a courier to collect your card"
+seo_title: "Someone calls claiming a courier will collect your card"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "bank currier scam call"
   - "elderly relative bank courier call"
   - "landline bank scam call"
-last_reviewed: "2026-04-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-30"
 ---
 

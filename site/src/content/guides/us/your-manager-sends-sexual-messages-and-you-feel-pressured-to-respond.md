@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your manager sends sexual messages and you feel pressured to respond"
+seo_title: "Manager sending unwanted sexual messages"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "remote work manager sexual messages"
   - "manager sexual mesages"
   - "boss innapropriate messages"
-last_reviewed: "2026-05-31"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-31"
 ---
 

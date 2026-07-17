@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have a family court or custody hearing soon after a death"
+seo_title: "Family court or custody hearing after a death"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "custody cort date"
   - "famly court bereavement"
   - "self represented family court"
-last_reviewed: "2026-05-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-14"
 ---
 

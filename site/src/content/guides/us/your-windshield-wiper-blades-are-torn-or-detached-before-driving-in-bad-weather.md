@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your windshield wiper blades are torn or detached before driving in bad weather"
+seo_title: "Windshield wiper blade torn or detached before driving"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "bad weather before long drive"
   - "wiper blade detatched"
   - "windshield wiper blads"
-last_reviewed: "2026-07-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-05"
 ---
 

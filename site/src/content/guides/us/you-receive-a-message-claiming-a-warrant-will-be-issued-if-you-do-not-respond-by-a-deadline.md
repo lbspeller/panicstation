@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a message claiming a warrant will be issued if you do not respond by a deadline"
+seo_title: "Message claiming a warrant will be issued"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "warrant threat after missed hearing"
   - "warant deadline message"
   - "warrent threat call"
-last_reviewed: "2026-06-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-10"
 ---
 

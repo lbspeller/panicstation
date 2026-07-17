@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your work hours are reduced temporarily with no end date"
+seo_title: "Work hours reduced temporarily with no end date"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "empolyer cut my hours"
   - "schedual reduced no end date"
   - "reduced shifts temporary measure"
-last_reviewed: "2026-06-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-11"
 ---
 

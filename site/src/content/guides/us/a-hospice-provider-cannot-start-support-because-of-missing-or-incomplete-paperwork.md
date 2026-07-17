@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a hospice provider cannot start support because of missing or incomplete paperwork"
+seo_title: "Hospice support delayed by missing paperwork"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "medicare hospice paperwork is delayed"
   - "hosptice paperwork is delayed"
   - "hopice support cannot start"
-last_reviewed: "2026-05-31"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-31"
 ---
 

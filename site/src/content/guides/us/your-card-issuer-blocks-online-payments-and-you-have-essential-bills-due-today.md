@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your card issuer blocks online payments and you have essential bills due today"
+seo_title: "Card issuer blocked online payments for urgent bills"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "ach or card payment"
   - "crdit card online declined"
   - "utilty bill payment declined"
-last_reviewed: "2026-06-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-27"
 ---
 

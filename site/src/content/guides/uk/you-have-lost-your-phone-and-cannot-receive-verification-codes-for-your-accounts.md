@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have lost your phone and cannot receive verification codes for your accounts"
+seo_title: "Lost phone and no access to verification codes"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "verfication code problem"
   - "moblie phone missing"
   - "phone missing in public"
-last_reviewed: "2026-05-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-09"
 ---
 

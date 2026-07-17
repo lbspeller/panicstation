@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a carbon monoxide alarm sounds and you feel sick or have a headache"
+seo_title: "Carbon monoxide alarm sounding and feeling unwell"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "pets outside after co alarm"
   - "carbon monixide alarm going off"
   - "carbon monoxide allarm sounding"
-last_reviewed: "2026-05-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-30"
 ---
 

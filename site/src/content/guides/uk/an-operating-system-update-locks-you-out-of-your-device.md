@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an operating system update locks you out of your device"
+seo_title: "Locked out of device after system update"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "loggin screen stuck"
   - "work device locked after update"
   - "school device locked after update"
-last_reviewed: "2026-04-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-29"
 ---
 

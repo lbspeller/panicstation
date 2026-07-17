@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive an official notice of an inspection or visit with very little warning"
+seo_title: "Official inspection notice with little warning"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "nonpublic area visit"
   - "goverment inspection notice"
   - "offical visit notice"
-last_reviewed: "2026-06-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-22"
 ---
 

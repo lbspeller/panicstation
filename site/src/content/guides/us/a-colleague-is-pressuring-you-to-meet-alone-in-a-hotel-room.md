@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a colleague is pressuring you to meet alone in a hotel room"
+seo_title: "Colleague pressuring you to meet in hotel room"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "business travel colleague pressure"
   - "coworker hotel room harrassment"
   - "collegue hotel room pressure"
-last_reviewed: "2026-06-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-09"
 ---
 

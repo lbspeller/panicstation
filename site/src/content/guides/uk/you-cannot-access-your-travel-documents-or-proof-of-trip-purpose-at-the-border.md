@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you cannot access your travel documents or proof of trip purpose at the border"
+seo_title: "Cannot access travel documents at the border"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "evisa cannot be opened"
   - "documnts not accessible"
   - "accomodation proof missing"
-last_reviewed: "2026-05-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-04"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a transfer you received is being recalled and your balance may go overdrawn"
+seo_title: "Received transfer recalled and account may go overdrawn"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "overdrawn after recalled transfer"
   - "recieved transfer recalled"
   - "recived payment recall"
-last_reviewed: "2026-04-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-28"
 ---
 

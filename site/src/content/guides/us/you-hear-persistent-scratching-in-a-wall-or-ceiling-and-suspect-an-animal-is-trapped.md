@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you hear persistent scratching in a wall or ceiling and suspect an animal is trapped"
+seo_title: "Animal trapped in wall or ceiling"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "mouse or rat in wall"
   - "scrathing in wall"
   - "squrrel in ceiling"
-last_reviewed: "2026-06-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-16"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are charged for an old negative balance you believed was settled"
+seo_title: "Charged for an old balance you thought was settled"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "old overdraft called collection"
   - "setteld negative balance returned"
   - "old balence charged again"
-last_reviewed: "2026-06-08"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-08"
 ---
 

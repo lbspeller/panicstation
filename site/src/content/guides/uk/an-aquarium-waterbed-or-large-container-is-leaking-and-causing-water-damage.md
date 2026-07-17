@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an aquarium, waterbed, or large container is leaking and causing water damage"
+seo_title: "Aquarium, waterbed, or container leaking indoors"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "water spill with pets"
   - "rented flat water leak"
   - "communal building water leak"
-last_reviewed: "2026-05-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-10"
 ---
 

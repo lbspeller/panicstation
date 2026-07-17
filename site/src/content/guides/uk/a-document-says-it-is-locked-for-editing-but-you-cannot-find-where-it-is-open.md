@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a document says it is locked for editing but you cannot find where it is open"
+seo_title: "Document says locked for editing but not open"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "shared document locked"
   - "file lokced by session"
   - "docment locked for editing"
-last_reviewed: "2026-04-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-25"
 ---
 

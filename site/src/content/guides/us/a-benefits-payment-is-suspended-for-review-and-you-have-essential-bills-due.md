@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a benefits payment is suspended for review and you have essential bills due"
+seo_title: "Benefits payment suspended for review with bills due"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "unemployment payment delayed"
   - "benfits payment suspended"
   - "essentail bills due"
-last_reviewed: "2026-05-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-29"
 ---
 

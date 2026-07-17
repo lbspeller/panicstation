@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are told HR needs to discuss a concern and asks for an immediate call"
+seo_title: "Urgent HR call request with no details"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "work concern meeting"
   - "remote hr call today"
   - "out of hours hr message"
-last_reviewed: "2026-05-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-06"
 ---
 

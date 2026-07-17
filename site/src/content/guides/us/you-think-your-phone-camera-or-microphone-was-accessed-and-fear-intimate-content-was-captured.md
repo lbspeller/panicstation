@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you think your phone camera or microphone was accessed and fear intimate content was captured"
+seo_title: "Phone camera or microphone accessed and privacy fear"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "partner may have accessed phone"
   - "phone camra may be hacked"
   - "micophone may be hacked"
-last_reviewed: "2026-06-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-18"
 ---
 

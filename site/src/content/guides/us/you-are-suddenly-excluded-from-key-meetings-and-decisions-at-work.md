@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are suddenly excluded from key meetings and decisions at work"
+seo_title: "Suddenly excluded from work meetings and decisions"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "excluded after raising concerns"
   - "manger avoids key updates"
   - "meeting invtes suddenly stopped"
-last_reviewed: "2026-06-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-09"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a travel provider requires a printed document and you only have a digital screenshot"
+seo_title: "Travel provider requires printed document instead of screenshot"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "last-minute travel document issue"
   - "screenshot not acepted"
   - "permmit print required"
-last_reviewed: "2026-06-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-02"
 ---
 

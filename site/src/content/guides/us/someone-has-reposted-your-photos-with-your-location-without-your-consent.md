@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone has reposted your photos with your location without your consent"
+seo_title: "Photos reposted with your location without consent"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "harassment through reposted photos"
   - "locaton shared without consent"
   - "photos reposted without conssent"
-last_reviewed: "2026-06-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-19"
 ---
 

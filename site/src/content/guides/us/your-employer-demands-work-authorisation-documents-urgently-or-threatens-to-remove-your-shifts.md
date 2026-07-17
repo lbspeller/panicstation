@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your employer demands work authorisation documents urgently or threatens to remove your shifts"
+seo_title: "Urgent employer request for work documents"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "work autorization documents requested"
   - "i-9 reverfication request"
   - "urgent work documents request"
-last_reviewed: "2026-06-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-10"
 ---
 

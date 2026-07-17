@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a client disputes your work and stops payment while deadlines are still approaching"
+seo_title: "Client disputes work and stops payment during deadline"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "agency client nonpayment"
   - "client wont pay"
   - "client stoped payment"
-last_reviewed: "2026-05-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-30"
 ---
 

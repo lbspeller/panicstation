@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you suspect a stranger is trying to gain access to your building by posing as a delivery person"
+seo_title: "Stranger posing as delivery person at building entrance"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -34,7 +35,7 @@ tags:
   - "front desk unavailable"
   - "unexpected package delivery"
   - "appartment buzzer suspicious"
-last_reviewed: "2026-06-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-24"
 ---
 

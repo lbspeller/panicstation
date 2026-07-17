@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your hood release is stuck and you have a dashboard warning light"
+seo_title: "Hood release stuck with dashboard warning light"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "bonnet latch problem"
   - "motorway breakdown bonnet stuck"
   - "roadside bonnet stuck"
-last_reviewed: "2026-05-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-23"
 ---
 

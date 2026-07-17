@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a loved one has died in another city and you need to travel urgently"
+seo_title: "Loved one died in another city and you need to travel"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "uk bereavement travel"
   - "death certifcate confusion"
   - "bereavment travel shock"
-last_reviewed: "2026-05-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-13"
 ---
 

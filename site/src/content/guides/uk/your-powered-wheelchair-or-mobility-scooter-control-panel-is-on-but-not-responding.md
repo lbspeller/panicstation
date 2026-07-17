@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your powered wheelchair or mobility scooter control panel is on but not responding"
+seo_title: "Powered wheelchair or scooter control panel not responding"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "scooter stuck near traffic"
   - "mobility scoota not responding"
   - "wheelchair joy stick not working"
-last_reviewed: "2026-05-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-27"
 ---
 

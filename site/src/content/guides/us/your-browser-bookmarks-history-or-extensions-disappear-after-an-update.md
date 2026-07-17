@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your browser bookmarks, history, or extensions disappear after an update"
+seo_title: "Browser bookmarks, history, or extensions missing"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "managed extensions disabled"
   - "bookmaks disappeared"
   - "brower history missing"
-last_reviewed: "2026-06-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-26"
 ---
 

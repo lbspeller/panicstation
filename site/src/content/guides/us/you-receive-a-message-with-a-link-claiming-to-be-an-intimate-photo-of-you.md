@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a message with a link claiming to be an intimate photo of you"
+seo_title: "sent a link claiming to be an intimate photo of you"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -42,7 +43,7 @@ tags:
   - "photo may be altered"
   - "sextortion mesage"
   - "intimate foto link"
-last_reviewed: "2026-06-20"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-20"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… police ask to search your car and you want to know your options"
+seo_title: "Police ask to search your car"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "work vehicle stopped"
   - "police seach my car"
   - "police serch my car"
-last_reviewed: "2026-04-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-30"
 ---
 

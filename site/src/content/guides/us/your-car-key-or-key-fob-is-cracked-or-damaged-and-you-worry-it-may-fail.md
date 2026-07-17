@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your car key or key fob is cracked or damaged and you worry it may fail"
+seo_title: "Car key or key fob is cracked or damaged"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "damaged key while away"
   - "key fob brocken"
   - "key fob craked"
-last_reviewed: "2026-06-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-30"
 ---
 

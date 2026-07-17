@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you realise you may have mixed up two similar-looking medicines"
+seo_title: "Mixed up two similar medicines"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -33,7 +34,7 @@ tags:
   - "medicine names look similar"
   - "medecine mix up"
   - "medicin confusion"
-last_reviewed: "2026-06-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-19"
 ---
 

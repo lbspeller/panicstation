@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your glucose monitor or insulin device alarms and you are not sure what it means"
+seo_title: "Glucose monitor or insulin device alarm"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "glucose moniter alarm"
   - "insulin pump alrm"
   - "diabetes alarm away from home"
-last_reviewed: "2026-05-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-25"
 ---
 

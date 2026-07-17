@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a memory card is unreadable on multiple devices and you need the photos"
+seo_title: "Memory card unreadable and photos need recovery"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "unreadable vacation photo memory card"
   - "unreadable camera card after transfer"
   - "memory card unreadable after camera use"
-last_reviewed: "2026-05-31"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-31"
 ---
 

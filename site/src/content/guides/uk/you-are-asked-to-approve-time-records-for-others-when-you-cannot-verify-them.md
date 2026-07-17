@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to approve time records for others when you cannot verify them"
+seo_title: "Asked to approve unverified time records"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "sign off versus certify confusion"
   - "timeshet approval problem"
   - "payrol records wrong"
-last_reviewed: "2026-05-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-03"
 ---
 

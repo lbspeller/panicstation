@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice emails or messages being sent from your work account that you did not send"
+seo_title: "Unauthorized messages sent from your work account"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "business email compromise signs"
   - "unautorised emails from work"
   - "work acount hacked"
-last_reviewed: "2026-05-15"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-15"
 ---
 

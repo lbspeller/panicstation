@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your vehicle has been immobilised by a parking device and you need to leave"
+seo_title: "Vehicle immobilised by a parking device"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "unsafe area car booted"
   - "car imobilized need help"
   - "vehical booted need help"
-last_reviewed: "2026-07-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-04"
 ---
 

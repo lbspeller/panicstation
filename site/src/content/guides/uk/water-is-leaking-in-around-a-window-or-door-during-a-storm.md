@@ -1,5 +1,6 @@
 ---
 title: "What to do if… water is leaking in around a window or door during a storm"
+seo_title: "Water leaking in around a window or door during a storm"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "blocked gutter window leak"
   - "leeking window in storm"
   - "rain thru window frame"
-last_reviewed: "2026-05-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-02"
 ---
 

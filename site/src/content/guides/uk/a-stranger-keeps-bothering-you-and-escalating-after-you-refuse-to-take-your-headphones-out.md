@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a stranger keeps bothering you and escalating after you refuse to take your headphones out"
+seo_title: "Stranger escalating after you refuse to remove headphones"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "headfone stranger problem"
   - "on a train platform"
   - "walking alone with headphones"
-last_reviewed: "2026-04-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-28"
 ---
 

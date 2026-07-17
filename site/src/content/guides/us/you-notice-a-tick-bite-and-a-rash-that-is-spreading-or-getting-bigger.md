@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice a tick bite and a rash that is spreading or getting bigger"
+seo_title: "Tick bite and spreading rash"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "lyme desease worry"
   - "not a perfect bullseye"
   - "tick part stuck"
-last_reviewed: "2026-06-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-18"
 ---
 

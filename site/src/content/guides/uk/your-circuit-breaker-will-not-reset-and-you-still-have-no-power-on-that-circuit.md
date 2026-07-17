@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your circuit breaker will not reset and you still have no power on that circuit"
+seo_title: "Circuit breaker will not reset and no power"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "braker keeps tripping"
   - "after plugging in appliance"
   - "after water near socket"
-last_reviewed: "2026-05-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-24"
 ---
 

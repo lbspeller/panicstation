@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are a friend of someone who has died with no known family and you are being pressured to take responsibility"
+seo_title: "Friend died with no family and pressured to act"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "not estate administrator"
   - "no kin"
   - "next of kinn"
-last_reviewed: "2026-06-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-14"
 ---
 

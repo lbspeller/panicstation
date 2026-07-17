@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your driver seat belt will not latch or stay fastened"
+seo_title: "Driver seat belt will not latch or stay fastened"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "already on the road"
   - "motorway seat belt problem"
   - "away from home with car"
-last_reviewed: "2026-04-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-28"
 ---
 

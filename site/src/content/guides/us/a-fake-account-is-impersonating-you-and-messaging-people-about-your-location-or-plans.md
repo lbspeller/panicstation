@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a fake account is impersonating you and messaging people about your location or plans"
+seo_title: "Fake account impersonating you and sharing location"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "fake account before travel"
   - "impersinating account messaging people"
   - "locaton shared by fake account"
-last_reviewed: "2026-06-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-01"
 ---
 

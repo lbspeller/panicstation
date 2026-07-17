@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone near you is acting aggressively or erratically and you feel unsafe"
+seo_title: "Someone nearby is acting aggressively or erratically"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "alone near agitated person"
   - "intoxcated person near me"
   - "aggitated person near me"
-last_reviewed: "2026-06-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-01"
 ---
 

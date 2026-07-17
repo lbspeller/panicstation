@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are told you are being investigated for a data breach at work"
+seo_title: "Investigated for a data breach at work"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "work laptop data breach investigation"
   - "data breech investigation at work"
   - "data breach invesitgation at work"
-last_reviewed: "2026-06-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-10"
 ---
 

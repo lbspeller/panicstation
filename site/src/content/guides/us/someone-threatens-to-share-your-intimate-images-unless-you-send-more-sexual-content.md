@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone threatens to share your intimate images unless you send more sexual content"
+seo_title: "Threatened with intimate image sharing or sextortion"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "explicit photo extortion"
   - "sextorsion threat"
   - "intimate immages threat"
-last_reviewed: "2026-06-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-06"
 ---
 

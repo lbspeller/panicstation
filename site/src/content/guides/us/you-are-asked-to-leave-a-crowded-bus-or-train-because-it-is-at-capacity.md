@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to leave a crowded bus or train because it is at capacity"
+seo_title: "Asked to leave a crowded bus or train"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "missed connection because service full"
   - "travelng after crowded service"
   - "service at capcity"
-last_reviewed: "2026-06-08"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-08"
 ---
 

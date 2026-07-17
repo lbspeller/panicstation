@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a sink or bathtub backs up and dirty water starts rising"
+seo_title: "Sink or bathtub backing up with dirty water"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "sink and bathtub backing up"
   - "bathub backing up with dirty water"
   - "sewege backup in bathtub"
-last_reviewed: "2026-06-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-02"
 ---
 

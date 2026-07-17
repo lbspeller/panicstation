@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your steering wheel lock will not release and the car will not start"
+seo_title: "Steering wheel lock stuck and car will not start"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "immobiliser light showing"
   - "stearing wheel lock"
   - "igniton key stuck"
-last_reviewed: "2026-05-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-28"
 ---
 

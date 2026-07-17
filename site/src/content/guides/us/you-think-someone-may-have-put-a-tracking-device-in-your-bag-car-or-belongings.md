@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you think someone may have put a tracking device in your bag, car, or belongings"
+seo_title: "Suspected tracking device in your belongings or car"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "unwanted location tracking"
   - "trakcer in car"
   - "air tag following me"
-last_reviewed: "2026-06-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-25"
 ---
 

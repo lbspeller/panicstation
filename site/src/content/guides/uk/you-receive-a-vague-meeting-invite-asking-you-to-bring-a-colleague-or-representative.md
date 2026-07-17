@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a vague meeting invite asking you to bring a colleague or representative"
+seo_title: "Vague meeting invite asking to bring a representative"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "formal workplace meeting"
   - "collegue asked to attend"
   - "representitive at meeting"
-last_reviewed: "2026-05-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-03"
 ---
 

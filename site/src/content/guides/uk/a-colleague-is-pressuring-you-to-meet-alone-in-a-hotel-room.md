@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a colleague is pressuring you to meet alone in a hotel room"
+seo_title: "Colleague pressuring you to meet in hotel room"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "after hours work travel"
   - "conference hotel pressure"
   - "alone with colleague at hotel"
-last_reviewed: "2026-05-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-05"
 ---
 

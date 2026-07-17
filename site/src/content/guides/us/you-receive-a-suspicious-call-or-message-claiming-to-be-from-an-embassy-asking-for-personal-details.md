@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a suspicious call or message claiming to be from an embassy asking for personal details"
+seo_title: "Suspicious call or message claiming to be from an embassy"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -34,7 +35,7 @@ tags:
   - "consolate call passport"
   - "passsport message scam"
   - "abroad with passport scam"
-last_reviewed: "2026-06-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-19"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your return booking reference is not working and you need to show proof of travel"
+seo_title: "Return booking reference not working at check-in"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "schedule change and missing booking"
   - "reservaton reference missing"
   - "itenerary receipt missing"
-last_reviewed: "2026-06-07"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-07"
 ---
 

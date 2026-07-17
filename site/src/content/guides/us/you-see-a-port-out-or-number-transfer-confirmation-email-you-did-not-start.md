@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you see a port-out or number transfer confirmation email you did not start"
+seo_title: "Unexpected mobile number transfer confirmation email"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "didnt request number transfer"
   - "unauthorized portout email"
   - "family plan number transfer"
-last_reviewed: "2026-06-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-23"
 ---
 

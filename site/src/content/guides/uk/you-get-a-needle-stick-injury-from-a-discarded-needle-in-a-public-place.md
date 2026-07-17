@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you get a needle-stick injury from a discarded needle in a public place"
+seo_title: "Needle-stick injury from a discarded needle"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -43,7 +44,7 @@ tags:
   - "park or street needle"
   - "public toilet needle injury"
   - "unknown used needle"
-last_reviewed: "2026-05-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-11"
 ---
 

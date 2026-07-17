@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are being harassed online and fear it is escalating to in-person targeting"
+seo_title: "Online harassment escalating to in-person threats"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "online harassment from someone i know"
   - "harrassed online and scared"
   - "doxed online and worried"
-last_reviewed: "2026-06-08"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-08"
 ---
 

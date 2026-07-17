@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a teacher, coach, or mentor asks you to communicate through secret or disappearing messages"
+seo_title: "a teacher, coach, or mentor asks to use disappearing messages"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "online coach uses disappearing messages"
   - "teacher asks for disapearing messages"
   - "coach asks for secrect messages"
-last_reviewed: "2026-06-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-02"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your wheelchair or mobility aid is damaged during transport and you still need to travel"
+seo_title: "Wheelchair or mobility aid damaged during travel"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "wheel chair damaged during travel"
   - "mobility scoter damaged"
   - "disabled traveler stranded"
-last_reviewed: "2026-07-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-04"
 ---
 

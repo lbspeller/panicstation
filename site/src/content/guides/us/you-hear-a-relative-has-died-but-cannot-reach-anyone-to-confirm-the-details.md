@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you hear a relative has died but cannot reach anyone to confirm the details"
+seo_title: "Confirming a relative's death when unreachable"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "out of state relative died"
   - "sudden death no information"
   - "possible family death scam"
-last_reviewed: "2026-06-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-14"
 ---
 

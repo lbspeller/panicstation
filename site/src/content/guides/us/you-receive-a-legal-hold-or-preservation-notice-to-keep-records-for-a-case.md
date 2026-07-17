@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a legal hold or preservation notice to keep records for a case"
+seo_title: "Received a legal hold or preservation notice"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "shared device messages case"
   - "recieve preservation notice"
   - "distroy records notice"
-last_reviewed: "2026-06-21"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-21"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have sudden loss of vision in one eye or a curtain-like shadow"
+seo_title: "Sudden vision loss or curtain shadow in one eye"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "after eye surgery floaters"
   - "vison loss one eye"
   - "suddn vision loss"
-last_reviewed: "2026-05-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-13"
 ---
 

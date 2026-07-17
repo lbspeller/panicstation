@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your child tells you an adult made a sexual comment or request"
+seo_title: "Child reports sexual comment or request from adult"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "inappropriate adult comment"
   - "groming suspicion"
   - "sexul message to child"
-last_reviewed: "2026-06-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-27"
 ---
 

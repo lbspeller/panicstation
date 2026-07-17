@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are being pressured to authorize a cremation or burial by a fixed date"
+seo_title: "Pressured to authorize cremation or burial by a deadline"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "funeral arrangments fixed date"
   - "next of kinn pressure"
   - "urgent funeral decision uk"
-last_reviewed: "2026-05-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-06"
 ---
 

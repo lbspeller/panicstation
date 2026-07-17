@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you get an alert that a garage door, gate, or secure entry opened unexpectedly and you did not do it"
+seo_title: "Unexpected garage door or gate entry alert"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "my entry fob shows access"
   - "camera shows open garage"
   - "alarm panel says entry open"
-last_reviewed: "2026-05-12"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-12"
 ---
 

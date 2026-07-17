@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a public electric vehicle charger will not start and your battery is too low to reach another station"
+seo_title: "Public EV charger will not start with low battery"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "low battery at night"
   - "low battery away from home"
   - "unfamiliar public charger"
-last_reviewed: "2026-06-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-01"
 ---
 

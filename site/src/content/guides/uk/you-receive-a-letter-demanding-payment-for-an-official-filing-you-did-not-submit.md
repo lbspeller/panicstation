@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a letter demanding payment for an official filing you did not submit"
+seo_title: "Unexpected letter demanding payment for official filing"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "postal penalty demand"
   - "penatly letter not mine"
   - "official leter penalty"
-last_reviewed: "2026-05-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-17"
 ---
 

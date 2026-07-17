@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a stranger repeatedly appears near your workplace entrance at the same times"
+seo_title: "Stranger repeatedly appearing near your workplace entrance"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "outside office building"
   - "stranger loitering at werk"
   - "workplace entrence feels unsafe"
-last_reviewed: "2026-06-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-18"
 ---
 

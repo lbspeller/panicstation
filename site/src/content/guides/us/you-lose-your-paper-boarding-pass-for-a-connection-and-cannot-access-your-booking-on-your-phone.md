@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you lose your paper boarding pass for a connection and cannot access your booking on your phone"
+seo_title: "Lost connection boarding pass and cannot access booking"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "boarding pas lost"
   - "conection boarding pass lost"
   - "domestic airport connection"
-last_reviewed: "2026-06-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-17"
 ---
 

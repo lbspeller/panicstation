@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to sign a confidentiality agreement about a sexual misconduct complaint"
+seo_title: "Asked to sign confidentiality agreement for misconduct complaint"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "sexual harrassment complaint nda"
   - "at work sexual misconduct"
   - "university sexual misconduct complaint"
-last_reviewed: "2026-05-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-04"
 ---
 

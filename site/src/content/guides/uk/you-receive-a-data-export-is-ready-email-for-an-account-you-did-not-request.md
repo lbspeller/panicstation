@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a data export is ready email for an account you did not request"
+seo_title: "Unexpected data export email for your account"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "work account export email"
   - "data exprot ready email"
   - "acccount export ready email"
-last_reviewed: "2026-05-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-17"
 ---
 

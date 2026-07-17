@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an appliance makes a loud popping sound and smells like it is burning"
+seo_title: "Appliance makes loud popping sound and smells burning"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "appliance poping smell"
   - "rented home appliance fault"
   - "white goods burning smell"
-last_reviewed: "2026-05-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-13"
 ---
 

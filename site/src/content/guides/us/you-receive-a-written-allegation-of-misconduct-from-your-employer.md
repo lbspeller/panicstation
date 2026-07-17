@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a written allegation of misconduct from your employer"
+seo_title: "Written allegation of misconduct from employer"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "work acusation letter"
   - "misconduct alegation"
   - "union workplace allegation"
-last_reviewed: "2026-06-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-22"
 ---
 

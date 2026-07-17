@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you develop sudden, new shortness of breath"
+seo_title: "Sudden, new shortness of breath"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "after smoke exposure breathlessness"
   - "new brethlessness"
   - "sudden breathlesness"
-last_reviewed: "2026-05-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-09"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a short-notice request to attend a hearing for someone in custody"
+seo_title: "Short-notice request to attend a custody hearing"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "in person court hearing"
   - "federal custody hearing"
   - "state custody hearing"
-last_reviewed: "2026-06-21"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-21"
 ---
 

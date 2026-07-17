@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you develop a fever that rises quickly and you feel unusually weak"
+seo_title: "Rapidly rising fever and unusual weakness"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "fever after recent hospitalization"
   - "fever and wekaness"
   - "fever rising quikly"
-last_reviewed: "2026-06-12"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-12"
 ---
 

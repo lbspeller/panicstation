@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your blood sugar reading is low and keeps dropping despite eating"
+seo_title: "Low blood sugar reading keeps dropping after eating"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -33,7 +34,7 @@ tags:
   - "sulfonylurea low blood sugar"
   - "post exercise blood sugar drop"
   - "alcohol related blood sugar low"
-last_reviewed: "2026-06-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-26"
 ---
 

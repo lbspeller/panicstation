@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your payment app account is locked and you have money stuck inside"
+seo_title: "Payment app account locked with money stuck inside"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "uk payment app problem"
   - "paymant app locked"
   - "acount locked money stuck"
-last_reviewed: "2026-05-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-27"
 ---
 

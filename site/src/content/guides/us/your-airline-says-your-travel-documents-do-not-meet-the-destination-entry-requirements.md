@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your airline says your travel documents do not meet the destination entry requirements"
+seo_title: "Airline says travel documents are invalid"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "us traveler document refusal"
   - "international flight document issue"
   - "airport document check dispute"
-last_reviewed: "2026-06-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-25"
 ---
 

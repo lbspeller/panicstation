@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice someone filming or recording into your home through a window"
+seo_title: "Someone filming or recording into your home"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "rental home window filmed"
   - "someone filming my windw"
   - "peeping tom at windo"
-last_reviewed: "2026-06-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-18"
 ---
 

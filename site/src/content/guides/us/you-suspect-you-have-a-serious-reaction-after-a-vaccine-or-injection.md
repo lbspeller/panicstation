@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you suspect you have a serious reaction after a vaccine or injection"
+seo_title: "Serious reaction after a vaccine or injection"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "after rsv vaccine reaction"
   - "after flu shot reaction"
   - "same day vaccine reaction"
-last_reviewed: "2026-06-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-25"
 ---
 

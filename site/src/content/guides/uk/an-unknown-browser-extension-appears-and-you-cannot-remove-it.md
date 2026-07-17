@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an unknown browser extension appears and you cannot remove it"
+seo_title: "Unknown browser extension you cannot remove"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "chrome managed by organisation"
   - "brower extension appeared"
   - "extention wont remove"
-last_reviewed: "2026-04-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-29"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone repeatedly offers to help you sober up in a private place and it feels wrong"
+seo_title: "someone offers to help you sober up in a private place and it feels wrong"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "away from my friends"
   - "sobber up feels wrong"
   - "privte place feels unsafe"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-01"
 ---
 

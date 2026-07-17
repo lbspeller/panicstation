@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your building water is being shut off for emergency repairs"
+seo_title: "Building water shut off for emergency repairs"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "vulnerable person needs water"
   - "watter shutoff notice"
   - "emergancy water repairs"
-last_reviewed: "2026-05-20"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-20"
 ---
 

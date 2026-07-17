@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked for a certified translation of a travel document and you do not have one"
+seo_title: "Asked for certified translation of travel document"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "abroad without certified translation"
   - "uk visa translation issue"
   - "urgent travel translation issue"
-last_reviewed: "2026-05-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-03"
 ---
 

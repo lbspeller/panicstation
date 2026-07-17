@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your connection becomes an overnight layover and you are unsure if you can enter the country"
+seo_title: "Overnight layover and unsure about entry requirements"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "missed connection rebook"
   - "layover visa confussion"
   - "overnite airport layover"
-last_reviewed: "2026-06-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-28"
 ---
 

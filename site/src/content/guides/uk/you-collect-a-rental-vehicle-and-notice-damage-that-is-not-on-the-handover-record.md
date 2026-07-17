@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you collect a rental vehicle and notice damage that is not on the handover record"
+seo_title: "Rental vehicle damage not on handover record"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "handover sheat wrong"
   - "uk car hire collection"
   - "airport rental car damage"
-last_reviewed: "2026-05-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-09"
 ---
 

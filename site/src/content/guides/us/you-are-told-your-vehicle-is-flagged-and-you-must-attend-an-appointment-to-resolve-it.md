@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are told your vehicle is flagged and you must attend an appointment to resolve it"
+seo_title: "Vehicle flagged and asked to attend appointment"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "lisence plate flagged"
   - "appointment to resolve vehicle flag"
   - "vehicle flag after sale"
-last_reviewed: "2026-06-12"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-12"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a colleague keeps making sexual jokes or comments about you and it is getting worse"
+seo_title: "Colleague making sexual jokes or comments at work"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "night shift sexual jokes"
   - "remote work sexual messages"
   - "small workplace sexual comments"
-last_reviewed: "2026-04-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-25"
 ---
 

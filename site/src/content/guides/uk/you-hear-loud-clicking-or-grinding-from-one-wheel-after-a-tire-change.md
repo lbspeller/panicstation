@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you hear loud clicking or grinding from one wheel after a tire change"
+seo_title: "Loud clicking or grinding from wheel after tire change"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "motorway wheel noise"
   - "tyre change grindng noise"
   - "tyre chnage wheel noise"
-last_reviewed: "2026-05-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-13"
 ---
 

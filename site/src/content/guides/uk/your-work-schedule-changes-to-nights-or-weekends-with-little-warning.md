@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your work schedule changes to nights or weekends with little warning"
+seo_title: "Sudden work schedule change to nights or weekends"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "night shift childcare clash"
   - "rota changed sudenly"
   - "work schedual changed"
-last_reviewed: "2026-05-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-29"
 ---
 

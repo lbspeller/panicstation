@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive an unexpected request to meet an investigator at a location you did not choose"
+seo_title: "Unexpected request to meet an investigator"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "jail investigator interview request"
   - "prison investigator interview request"
   - "federal agent meeting request"
-last_reviewed: "2026-06-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-22"
 ---
 

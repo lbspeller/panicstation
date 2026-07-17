@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are served with a no-contact order or official communication restriction"
+seo_title: "Served with a no-contact order or communication restriction"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "before next court date"
   - "while on probation"
   - "while someone is incarcerated"
-last_reviewed: "2026-06-21"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-21"
 ---
 

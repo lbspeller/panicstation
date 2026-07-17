@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your seat assignment disappears at the gate and you are told to wait"
+seo_title: "Seat assignment missing at the boarding gate"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "with a tight connection"
   - "travelling with child"
   - "disability access seating"
-last_reviewed: "2026-05-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-28"
 ---
 

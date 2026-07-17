@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your retirement or pension payment is stopped for identity verification"
+seo_title: "Retirement or pension payment stopped for identity check"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "living abroad pension stopped"
   - "northern ireland pension stopped"
   - "urgent pension income missing"
-last_reviewed: "2026-04-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-28"
 ---
 

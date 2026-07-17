@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your boiler pressure drops suddenly and the heating or hot water stops working"
+seo_title: "Boiler pressure dropped and heating stopped working"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "boiler feed valve confusing"
   - "presure low on boiler"
   - "boilar pressure low"
-last_reviewed: "2026-06-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-26"
 ---
 

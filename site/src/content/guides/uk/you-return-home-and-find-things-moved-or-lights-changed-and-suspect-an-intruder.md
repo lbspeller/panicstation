@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you return home and find things moved or lights changed and suspect an intruder"
+seo_title: "Suspect intruder after returning home to disturbances"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "rented flat feels unsafe"
   - "curtans moved at home"
   - "burgulary at home"
-last_reviewed: "2026-05-20"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-20"
 ---
 

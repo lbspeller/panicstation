@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a client stops responding after you submit an invoice that is now overdue"
+seo_title: "Client not responding to overdue invoice"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "freelance client invoice overdue"
   - "business client invoice unpaid"
   - "invoce overdue no reply"
-last_reviewed: "2026-04-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-25"
 ---
 

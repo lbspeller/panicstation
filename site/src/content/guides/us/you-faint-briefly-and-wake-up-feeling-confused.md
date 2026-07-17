@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you faint briefly and wake up feeling confused"
+seo_title: "Fainted briefly and woke up feeling confused"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "fainting while lying down"
   - "fainted and confuzed"
   - "passed out dizy"
-last_reviewed: "2026-06-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-14"
 ---
 

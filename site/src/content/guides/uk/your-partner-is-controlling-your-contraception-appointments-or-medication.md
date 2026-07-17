@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your partner is controlling your contraception, appointments, or medication"
+seo_title: "Partner controlling contraception, appointments, or medication"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "medication controll"
   - "living with controlling partner"
   - "monitored phone at home"
-last_reviewed: "2026-05-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-27"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your device says the startup disk is not detected and you still need the data on it"
+seo_title: "Startup disk not detected and need data back"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "hardrive not detected"
   - "important photos and documents"
   - "work files on broken laptop"
-last_reviewed: "2026-05-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-25"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive repeated unwanted messages that suddenly become threatening"
+seo_title: "Receiving repeated messages that turn threatening"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "threatening messages from family"
   - "thretening messages"
   - "harrasing texts"
-last_reviewed: "2026-05-20"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-20"
 ---
 

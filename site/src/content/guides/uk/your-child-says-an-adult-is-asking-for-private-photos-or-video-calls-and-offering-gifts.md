@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your child says an adult is asking for private photos or video calls and offering gifts"
+seo_title: "your child says an adult is asking for private photos or video calls"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "private photos or sexting"
   - "groming messages child"
   - "private fotos child"
-last_reviewed: "2026-05-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-24"
 ---
 

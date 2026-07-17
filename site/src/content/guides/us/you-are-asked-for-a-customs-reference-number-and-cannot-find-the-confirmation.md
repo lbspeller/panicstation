@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked for a customs reference number and cannot find the confirmation"
+seo_title: "Customs reference number or confirmation missing"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "courier customs reference request"
   - "customs refrence number missing"
   - "air waybil number missing"
-last_reviewed: "2026-06-08"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-08"
 ---
 

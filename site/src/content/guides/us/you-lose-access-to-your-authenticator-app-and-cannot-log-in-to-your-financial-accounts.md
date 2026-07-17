@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you lose access to your authenticator app and cannot log in to your financial accounts"
+seo_title: "Lost authenticator app and locked out of banking"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "banking login emergency"
   - "authentificator app lost"
   - "verifcation code missing"
-last_reviewed: "2026-06-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-17"
 ---
 

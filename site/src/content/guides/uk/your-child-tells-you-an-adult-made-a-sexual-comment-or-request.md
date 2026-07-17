@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your child tells you an adult made a sexual comment or request"
+seo_title: "Child reports sexual comment or request from adult"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "trusted adult concern"
   - "groming concern"
   - "inapropriate adult message"
-last_reviewed: "2026-05-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-24"
 ---
 

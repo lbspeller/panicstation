@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your electric vehicle displays a high-voltage or battery system warning"
+seo_title: "Electric vehicle high-voltage or battery warning"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "high voltage cable orange"
   - "ev warning on highway"
   - "electric car warning while charging"
-last_reviewed: "2026-06-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-28"
 ---
 

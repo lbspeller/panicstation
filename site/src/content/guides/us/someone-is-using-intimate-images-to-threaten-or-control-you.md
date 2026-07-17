@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone is using intimate images to threaten or control you"
+seo_title: "Someone is using intimate images to threaten you"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "intimate image threat from an ex"
   - "intimate image threat from a partner"
   - "intimate image threat involving a minor"
-last_reviewed: "2026-06-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-06"
 ---
 

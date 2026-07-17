@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a stranger in a public venue asks you to go to a private area and you feel uneasy"
+seo_title: "Stranger asks you to go to a private area"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "bar club feels unsafe"
   - "pub venue feels unsafe"
   - "venue back corridor"
-last_reviewed: "2026-05-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-04"
 ---
 

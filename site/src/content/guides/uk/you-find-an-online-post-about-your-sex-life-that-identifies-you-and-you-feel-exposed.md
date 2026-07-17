@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you find an online post about your sex life that identifies you and you feel exposed"
+seo_title: "Online post about your sex life identifying you"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "work can see sexual post"
   - "family can see sexual post"
   - "post on forum about me"
-last_reviewed: "2026-05-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-11"
 ---
 

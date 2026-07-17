@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your cloud documents are read-only because your storage quota is full"
+seo_title: "Cloud documents read-only due to full storage"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "google drive storage full"
   - "icloud drive read only"
   - "one drive read only"
-last_reviewed: "2026-05-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-24"
 ---
 

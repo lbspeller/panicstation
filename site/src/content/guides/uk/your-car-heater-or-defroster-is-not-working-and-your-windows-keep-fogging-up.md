@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your car heater or defroster is not working and your windows keep fogging up"
+seo_title: "Car heater or defroster not working and windows fogging"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "defoster not working"
   - "parked in cold weather"
   - "engine running while parked"
-last_reviewed: "2026-05-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-26"
 ---
 

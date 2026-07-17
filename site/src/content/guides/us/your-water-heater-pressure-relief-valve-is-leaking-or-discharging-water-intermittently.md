@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your water heater pressure relief valve is leaking or discharging water intermittently"
+seo_title: "Water heater pressure relief valve leaking or discharging"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "electric water heater valve leaking"
   - "rental water heater leaking"
   - "basement water heater dripping"
-last_reviewed: "2026-07-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-04"
 ---
 

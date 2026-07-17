@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you discover a roof leak during heavy rain and it is worsening"
+seo_title: "Roof leak worsening during heavy rain"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "roof leak while renting"
   - "roof leak while home alone"
   - "roof leak with power on"
-last_reviewed: "2026-06-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-13"
 ---
 

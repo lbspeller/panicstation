@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are suddenly moved to a different team or manager after a conflict at work"
+seo_title: "Suddenly moved to a new team or manager"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "remote status changed after conflict"
   - "maneger changed after conflict"
   - "reassiged after workplace conflict"
-last_reviewed: "2026-06-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-10"
 ---
 

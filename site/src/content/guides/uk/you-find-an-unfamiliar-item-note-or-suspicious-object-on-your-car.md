@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you find an unfamiliar item, note, or suspicious object on your car"
+seo_title: "Unfamiliar item or suspicious object on your car"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "suspicious item in car park"
   - "carpark note on car"
   - "air tag on car"
-last_reviewed: "2026-05-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-11"
 ---
 

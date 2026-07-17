@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your heating is stuck on and your home is overheating"
+seo_title: "Heating stuck on and home overheating"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "vulnerable person overheating"
   - "electric heater stuck on"
   - "storage heater overheating"
-last_reviewed: "2026-05-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-26"
 ---
 

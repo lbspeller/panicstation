@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your spare key has been moved or accessed without your permission"
+seo_title: "Spare key moved or accessed without permission"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "keys may be copied"
   - "spair key missing"
   - "key saffe opened"
-last_reviewed: "2026-05-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-16"
 ---
 

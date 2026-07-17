@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to arrange a funeral but cannot find a will or instructions"
+seo_title: "Arranging a funeral without a will or instructions"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "missing will uk"
   - "funeral instuctions missing"
   - "pre paid funeral plan missing"
-last_reviewed: "2026-05-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-03"
 ---
 

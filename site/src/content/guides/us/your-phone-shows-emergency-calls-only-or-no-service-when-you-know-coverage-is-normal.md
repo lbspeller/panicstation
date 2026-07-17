@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your phone shows emergency-calls-only or no service when you know coverage is normal"
+seo_title: "Phone shows emergency calls only or no service"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "roaming setting confusion"
   - "phone says emergency calss only"
   - "phone has no cel service"
-last_reviewed: "2026-07-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-02"
 ---
 

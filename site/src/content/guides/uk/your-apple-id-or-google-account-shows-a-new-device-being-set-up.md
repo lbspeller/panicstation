@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your Apple ID or Google Account shows a new device being set up"
+seo_title: "Unknown device sign-in alert on your account"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "google acount new device"
   - "uk account fraud"
   - "uk cyber crime"
-last_reviewed: "2026-05-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-22"
 ---
 

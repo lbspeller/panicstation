@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your router resets unexpectedly and all your connected devices lose internet at once"
+seo_title: "Router resets and all devices lose internet"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "wifi outage or router"
   - "routter reset unexpectedly"
   - "modem routter restarted"
-last_reviewed: "2026-07-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-03"
 ---
 

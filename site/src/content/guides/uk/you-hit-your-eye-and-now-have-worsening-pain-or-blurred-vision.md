@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you hit your eye and now have worsening pain or blurred vision"
+seo_title: "Eye hit with worsening pain or blurred vision"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "brused eye after knock"
   - "sports ball hit eye"
   - "high speed object hit eye"
-last_reviewed: "2026-05-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-13"
 ---
 

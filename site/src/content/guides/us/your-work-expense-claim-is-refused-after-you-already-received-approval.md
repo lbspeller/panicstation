@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your work expense claim is refused after you already received approval"
+seo_title: "Work expense claim refused after prior approval"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "nonexempt employee work expense unpaid"
   - "expence claim denied after approval"
   - "reimbursment refused after approval"
-last_reviewed: "2026-06-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-11"
 ---
 

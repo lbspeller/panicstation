@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your bank says a recent deposit was reversed and your balance is now negative"
+seo_title: "Bank deposit reversed and account balance negative"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "atm deposit reversed"
   - "depost reversed"
   - "negitive balance"
-last_reviewed: "2026-06-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-26"
 ---
 

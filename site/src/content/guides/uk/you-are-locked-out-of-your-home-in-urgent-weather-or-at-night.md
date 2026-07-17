@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are locked out of your home in urgent weather or at night"
+seo_title: "Locked out of home at night or in bad weather"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "rogue locksmith worry"
   - "emergency locksmith confusion"
   - "landlord spare key confusion"
-last_reviewed: "2026-05-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-05"
 ---
 

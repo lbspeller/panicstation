@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your device clock resets and secure websites stop loading correctly"
+seo_title: "Device clock reset and secure website errors"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "work laptop clock wrong"
   - "travel time zone wrong"
   - "old laptop clock battery"
-last_reviewed: "2026-06-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-28"
 ---
 

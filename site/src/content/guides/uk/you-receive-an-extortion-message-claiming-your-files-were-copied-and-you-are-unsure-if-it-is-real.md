@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive an extortion message claiming your files were copied and you are unsure if it is real"
+seo_title: "Extortion message claiming your files were copied"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "blackmale message stolen files"
   - "work account extortion message"
   - "school account extortion message"
-last_reviewed: "2026-05-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-19"
 ---
 

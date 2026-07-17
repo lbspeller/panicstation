@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you lose your vehicle keys while you are out and you are stranded"
+seo_title: "Lost vehicle keys while stranded"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "spare key not with me"
   - "lost vehical keys"
   - "lost car keyz"
-last_reviewed: "2026-05-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-14"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your passport is damaged, hole-punched, or marked and you are worried it will be rejected"
+seo_title: "Damaged, marked, or hole-punched passport travel risk"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "pasport hole punched"
   - "passpport clipped corner"
   - "urgent international travel"
-last_reviewed: "2026-07-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-01"
 ---
 

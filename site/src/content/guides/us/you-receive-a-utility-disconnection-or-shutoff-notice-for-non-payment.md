@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a utility disconnection or shutoff notice for non-payment"
+seo_title: "Utility disconnection or shutoff notice received"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "medical equipment power need"
   - "shutof notice"
   - "disconection notice"
-last_reviewed: "2026-06-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-22"
 ---
 

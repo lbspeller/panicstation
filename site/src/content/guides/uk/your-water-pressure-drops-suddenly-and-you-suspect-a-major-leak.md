@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your water pressure drops suddenly and you suspect a major leak"
+seo_title: "Sudden water pressure drop and suspected leak"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "flat water leak"
   - "shared building leak"
   - "outside water leak"
-last_reviewed: "2026-05-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-28"
 ---
 

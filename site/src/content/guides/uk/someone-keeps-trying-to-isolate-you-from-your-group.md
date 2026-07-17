@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone keeps trying to isolate you from your group"
+seo_title: "Someone trying to isolate you from your group"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "pub or club pressure"
   - "party group pressure"
   - "alonee with unsafe person"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-01"
 ---
 

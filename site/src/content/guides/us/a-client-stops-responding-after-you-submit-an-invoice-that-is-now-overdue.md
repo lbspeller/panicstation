@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a client stops responding after you submit an invoice that is now overdue"
+seo_title: "Client not responding to overdue invoice"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "freelance client silent"
   - "invoice overdu no reply"
   - "clent stops responding after invoice"
-last_reviewed: "2026-05-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-30"
 ---
 

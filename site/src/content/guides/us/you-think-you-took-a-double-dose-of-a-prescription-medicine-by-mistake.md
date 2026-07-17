@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you think you took a double dose of a prescription medicine by mistake"
+seo_title: "Took a double dose of prescription medicine by mistake"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "child took extra medicine"
   - "perscription double dose"
   - "medecine taken twice"
-last_reviewed: "2026-06-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-25"
 ---
 

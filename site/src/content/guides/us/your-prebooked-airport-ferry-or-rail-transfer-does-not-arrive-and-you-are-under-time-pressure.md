@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your prebooked airport, ferry, or rail transfer does not arrive and you are under time pressure"
+seo_title: "Prebooked transfer does not arrive on time"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "separate travel booking"
   - "tranfer no show"
   - "airpot transfer no show"
-last_reviewed: "2026-06-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-25"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… private sexual rumours about you are spreading and you suspect someone specific started them"
+seo_title: "Private sexual rumours spreading about you"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "rumors about my sex life"
   - "rumours at work"
   - "rumours at school"
-last_reviewed: "2026-05-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-14"
 ---
 

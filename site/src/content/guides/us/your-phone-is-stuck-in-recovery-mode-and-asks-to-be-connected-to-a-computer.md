@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your phone is stuck in recovery mode and asks to be connected to a computer"
+seo_title: "Phone stuck in recovery mode asking for computer"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "android recovery mode message"
   - "phone shows resotre mode"
   - "phone needs conection to computer"
-last_reviewed: "2026-07-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-11"
 ---
 

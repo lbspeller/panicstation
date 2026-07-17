@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you find your front door unlatched when you are certain you closed it"
+seo_title: "Front door found unlatched when you expected it closed"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "not sure if intruder"
   - "returning home alone"
   - "apartment door unlatched"
-last_reviewed: "2026-06-15"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-15"
 ---
 

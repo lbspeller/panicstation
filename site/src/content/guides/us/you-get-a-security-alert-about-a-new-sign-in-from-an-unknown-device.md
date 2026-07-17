@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you get a security alert about a new sign-in from an unknown device"
+seo_title: "Security alert for unknown device sign-in"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "acount security alert"
   - "unkown device login"
   - "after clicking login alert"
-last_reviewed: "2026-06-15"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-15"
 ---
 

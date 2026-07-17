@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your bank blocks your card while you are abroad"
+seo_title: "bank blocks your card while abroad"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "airport card declined"
   - "card declind abroad"
   - "bank blokced my card"
-last_reviewed: "2026-06-07"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-07"
 ---
 

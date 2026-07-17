@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a supervisor suggests your work shifts or opportunities depend on sexual attention"
+seo_title: "Supervisor linking work shifts to sexual attention"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "temporary worker pressured by supervisor"
   - "sexual harrassment at work"
   - "superviser wants sexual favors"
-last_reviewed: "2026-06-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-02"
 ---
 

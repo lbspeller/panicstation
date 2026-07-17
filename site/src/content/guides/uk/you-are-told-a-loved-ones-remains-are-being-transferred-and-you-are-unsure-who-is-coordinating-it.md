@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are told a loved one’s remains are being transferred and you are unsure who is coordinating it"
+seo_title: "Unsure who is coordinating a loved one's remains transfer"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "imminent body move"
   - "funral director unclear"
   - "mortury release confusion"
-last_reviewed: "2026-05-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-06"
 ---
 

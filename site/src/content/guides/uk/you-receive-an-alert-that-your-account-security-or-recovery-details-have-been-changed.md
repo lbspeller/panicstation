@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive an alert that your account security or recovery details have been changed"
+seo_title: "Account security or recovery details changed alert"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "backup emale removed"
   - "acount recovery changed"
   - "email account security alert"
-last_reviewed: "2026-05-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-19"
 ---
 

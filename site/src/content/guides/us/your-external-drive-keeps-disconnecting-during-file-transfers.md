@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your external drive keeps disconnecting during file transfers"
+seo_title: "External drive keeps disconnecting during file transfers"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "windows external drive keeps disconnecting"
   - "external drive diconnects during copy"
   - "file tranfer keeps failing"
-last_reviewed: "2026-06-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-03"
 ---
 

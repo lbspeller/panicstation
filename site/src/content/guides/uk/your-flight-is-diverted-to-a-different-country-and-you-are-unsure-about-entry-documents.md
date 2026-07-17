@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your flight is diverted to a different country and you are unsure about entry documents"
+seo_title: "Flight diverted to a different country with document concerns"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "overnight diversion foreign airport"
   - "flite diverted different country"
   - "diverted flight docments needed"
-last_reviewed: "2026-05-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-25"
 ---
 

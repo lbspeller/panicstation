@@ -1,5 +1,6 @@
 ---
 title: "What to do if… police ask you to come in for an interview, photograph, or recording"
+seo_title: "Police request for interview, photo, or recording"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "not under arrest police"
   - "police photograf me"
   - "police recored me"
-last_reviewed: "2026-04-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-30"
 ---
 

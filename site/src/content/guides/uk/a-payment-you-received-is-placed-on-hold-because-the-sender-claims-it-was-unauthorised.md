@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a payment you received is placed on hold because the sender claims it was unauthorised"
+seo_title: "Received payment placed on hold for unauthorised claim"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -42,7 +43,7 @@ tags:
   - "online sale payment dispute"
   - "paymant on hold"
   - "unauthorised paymant claim"
-last_reviewed: "2026-04-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-27"
 ---
 

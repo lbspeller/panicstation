@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice a new breast redness or swelling with fever that develops quickly"
+seo_title: "New breast redness or swelling with fever"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "not breastfeeding breast redness"
   - "recently postpartum breast fever"
   - "breast implant redness fever"
-last_reviewed: "2026-05-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-14"
 ---
 

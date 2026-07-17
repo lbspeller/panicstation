@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your device shows a fake virus warning pop-up that tells you to call a number"
+seo_title: "Fake virus warning pop-up with phone number"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "browser notification virus"
   - "virus pop-up on windows"
   - "virus pop-up on iphone"
-last_reviewed: "2026-06-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-28"
 ---
 

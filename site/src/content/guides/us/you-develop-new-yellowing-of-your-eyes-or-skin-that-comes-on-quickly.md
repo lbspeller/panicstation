@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you develop new yellowing of your eyes or skin that comes on quickly"
+seo_title: "New yellowing of eyes or skin"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "yelow eyes suddenly"
   - "yellowing during pregnancy"
   - "yellowing after new medicine"
-last_reviewed: "2026-06-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-13"
 ---
 

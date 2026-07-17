@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone threatens to post explicit content about you online"
+seo_title: "Threatened with release of explicit content online"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "adult intimate image threat"
   - "under 18 image threat"
   - "uk social media threat"
-last_reviewed: "2026-04-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-30"
 ---
 

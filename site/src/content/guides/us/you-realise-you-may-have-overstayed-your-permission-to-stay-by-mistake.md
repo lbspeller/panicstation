@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you realise you may have overstayed your permission to stay by mistake"
+seo_title: "Realised you may have overstayed your permission to stay"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "i94 wrong date"
   - "f-1 status panic"
   - "j-1 status panic"
-last_reviewed: "2026-06-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-19"
 ---
 

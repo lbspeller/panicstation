@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your e-scooter or folding bike will not lock open and you cannot ride it safely"
+seo_title: "E-scooter or folding bike will not lock safely"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "stuck away from home"
   - "e-scooter wont lock open"
   - "folding bike wont lock"
-last_reviewed: "2026-05-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-25"
 ---
 

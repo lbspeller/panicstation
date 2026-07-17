@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a notice that your booking was changed and you suspect someone accessed your travel account"
+seo_title: "Suspicious travel account access or booking change"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "travel account takeover"
   - "travle account hacked"
   - "booking changd unexpectedly"
-last_reviewed: "2026-06-21"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-21"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your social media is being targeted by a hostile surge and you fear for your safety"
+seo_title: "Hostile social media surge and safety fears"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "doxing worry"
   - "public account under attack"
   - "private account harassment"
-last_reviewed: "2026-07-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-04"
 ---
 

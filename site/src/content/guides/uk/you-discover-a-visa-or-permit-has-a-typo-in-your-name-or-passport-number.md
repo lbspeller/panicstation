@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you discover a visa or permit has a typo in your name or passport number"
+seo_title: "Visa or permit has a typo or wrong number"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -33,7 +34,7 @@ tags:
   - "before travel visa error"
   - "after arrival permit error"
   - "uk visa document mismatch"
-last_reviewed: "2026-05-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-10"
 ---
 

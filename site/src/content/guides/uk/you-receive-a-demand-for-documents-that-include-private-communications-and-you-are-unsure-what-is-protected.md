@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a demand for documents that include private communications and you are unsure what is protected"
+seo_title: "Demand for private documents and communications"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "urgent deadline document demand"
   - "work account messages demanded"
   - "prison communications requested"
-last_reviewed: "2026-05-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-17"
 ---
 

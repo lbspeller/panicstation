@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a stranger insists on helping with your luggage and will not take no for an answer"
+seo_title: "Stranger insisting on helping with your luggage"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "heavy bags in station"
   - "lugage help feels unsafe"
   - "suitcaise being grabbed"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-01"
 ---
 

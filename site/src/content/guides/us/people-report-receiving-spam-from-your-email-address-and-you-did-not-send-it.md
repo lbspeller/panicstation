@@ -1,5 +1,6 @@
 ---
 title: "What to do if… people report receiving spam from your email address and you did not send it"
+seo_title: "Email address sending spam you did not send"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "outlook sending spam not me"
   - "emial account sending spam"
   - "email adress being spoofed"
-last_reviewed: "2026-06-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-04"
 ---
 

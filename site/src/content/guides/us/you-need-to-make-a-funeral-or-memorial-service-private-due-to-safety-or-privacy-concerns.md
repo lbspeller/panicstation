@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you need to make a funeral or memorial service private due to safety or privacy concerns"
+seo_title: "Making a funeral or memorial service private"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "livestream privacy concern"
   - "bereavment privacy concern"
   - "funral safety concern"
-last_reviewed: "2026-06-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-17"
 ---
 

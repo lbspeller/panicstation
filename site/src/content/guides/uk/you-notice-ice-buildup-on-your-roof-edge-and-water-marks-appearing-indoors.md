@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice ice buildup on your roof edge and water marks appearing indoors"
+seo_title: "Ice buildup on roof edge and indoor water leaks"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "owner occupier roof leak"
   - "loft access looks unsafe"
   - "gutter frozen at eaves"
-last_reviewed: "2026-05-15"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-15"
 ---
 

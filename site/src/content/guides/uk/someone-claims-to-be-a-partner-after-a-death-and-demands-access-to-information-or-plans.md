@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone claims to be a partner after a death and demands access to information or plans"
+seo_title: "Someone claims to be a partner after a death"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "family home after death"
   - "funeral plans after death"
   - "estate papers after death"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-01"
 ---
 

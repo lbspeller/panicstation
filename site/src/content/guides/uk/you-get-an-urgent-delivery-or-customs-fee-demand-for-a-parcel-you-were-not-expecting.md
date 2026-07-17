@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you get an urgent delivery or customs fee demand for a parcel you were not expecting"
+seo_title: "Unexpected delivery or customs fee demand"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "shared address parcel demand"
   - "custums fee demand"
   - "delivry fee text"
-last_reviewed: "2026-05-12"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-12"
 ---
 

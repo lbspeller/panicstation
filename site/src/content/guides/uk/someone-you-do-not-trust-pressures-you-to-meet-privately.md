@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone you do not trust pressures you to meet privately"
+seo_title: "Pressured to meet someone privately"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "is this intimidation"
   - "online contact wants to meet"
   - "work contact wants private meeting"
-last_reviewed: "2026-05-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-02"
 ---
 

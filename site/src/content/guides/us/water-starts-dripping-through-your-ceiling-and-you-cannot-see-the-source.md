@@ -1,5 +1,6 @@
 ---
 title: "What to do if… water starts dripping through your ceiling and you cannot see the source"
+seo_title: "Water dripping through ceiling from unknown source"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "celing leak unknown source"
   - "ceiling leeking from above"
   - "ceiling leak at night"
-last_reviewed: "2026-06-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-06"
 ---
 

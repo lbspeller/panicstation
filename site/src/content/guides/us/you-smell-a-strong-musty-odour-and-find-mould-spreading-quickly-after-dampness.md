@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you smell a strong musty odour and find mould spreading quickly after dampness"
+seo_title: "Strong musty odour and fast-spreading mould"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "musty smell or gas"
   - "renter with mold problem"
   - "mould smell in house"
-last_reviewed: "2026-06-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-23"
 ---
 

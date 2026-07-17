@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you realise you boarded the wrong train or bus"
+seo_title: "Boarded the wrong train or bus"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "at a busy terminal"
   - "travelling alone and confused"
   - "connection time is tight"
-last_reviewed: "2026-06-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-19"
 ---
 

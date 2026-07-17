@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you find an unknown device listed as trusted on your account"
+seo_title: "Unknown device listed as trusted on your account"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "trusted divice listed"
   - "new device on account"
   - "shared computer account access"
-last_reviewed: "2026-06-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-14"
 ---
 

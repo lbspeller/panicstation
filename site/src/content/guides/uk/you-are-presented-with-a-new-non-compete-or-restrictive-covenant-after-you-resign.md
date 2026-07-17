@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are presented with a new non-compete or restrictive covenant after you resign"
+seo_title: "New non-compete or restrictive covenant after resigning"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -34,7 +35,7 @@ tags:
   - "non compete after resignation"
   - "restrictive covenent after resignation"
   - "senior employee leaving job"
-last_reviewed: "2026-05-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-05"
 ---
 

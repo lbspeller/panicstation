@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your phone shows a sudden spike in data usage and you fear an unknown upload is running"
+seo_title: "Sudden spike in phone data usage"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "unkown upload running"
   - "carrier account concern"
   - "iphone or android phone"
-last_reviewed: "2026-07-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-02"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are threatened with legal action over a mistake made at work"
+seo_title: "Threatened with legal action over a work mistake"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "contractor legal threat after mistake"
   - "legal action thret at work"
   - "lawsut threat after work mistake"
-last_reviewed: "2026-06-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-10"
 ---
 

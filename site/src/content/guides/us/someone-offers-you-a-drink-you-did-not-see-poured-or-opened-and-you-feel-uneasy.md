@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone offers you a drink you did not see poured or opened and you feel uneasy"
+seo_title: "Uneasy about an offered drink you did not see"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "uneasy about a drink in public"
   - "worried my drnik was spiked"
   - "someone poored my drink"
-last_reviewed: "2026-06-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-06"
 ---
 

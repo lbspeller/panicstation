@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your work hours are reduced temporarily with no end date"
+seo_title: "Work hours reduced temporarily with no end date"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "union workplace problem"
   - "small business downturn"
   - "hours cut after complaint"
-last_reviewed: "2026-05-07"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-07"
 ---
 

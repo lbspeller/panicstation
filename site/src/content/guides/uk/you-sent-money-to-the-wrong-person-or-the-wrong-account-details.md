@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you sent money to the wrong person or the wrong account details"
+seo_title: "Sent money to the wrong person or account"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "bacs payment wrong account"
   - "wrong acount payment"
   - "bank tranfer typo"
-last_reviewed: "2026-05-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-17"
 ---
 

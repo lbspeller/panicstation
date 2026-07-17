@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a notice that your parcel has been seized or detained"
+seo_title: "Parcel seized or detained notice"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "seizure notcie parcel"
   - "detension notice package"
   - "international parcel seizure"
-last_reviewed: "2026-06-21"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-21"
 ---
 

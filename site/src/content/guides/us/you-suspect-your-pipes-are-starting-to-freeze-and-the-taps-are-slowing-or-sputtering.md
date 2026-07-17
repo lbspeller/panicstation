@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you suspect your pipes are starting to freeze and the taps are slowing or sputtering"
+seo_title: "Suspected frozen pipes and sputtering taps"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "garage pipe freezing"
   - "frozed pipe under sink"
   - "winter plumbing emergency"
-last_reviewed: "2026-06-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-25"
 ---
 

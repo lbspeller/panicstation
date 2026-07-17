@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a company warns it will retry a failed payment within 24 hours and you cannot cover it"
+seo_title: "Company warns of payment retry you cannot cover"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "direct debit retry in usa"
   - "automatic withdrawl retry"
   - "insufficent funds for debit"
-last_reviewed: "2026-05-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-30"
 ---
 

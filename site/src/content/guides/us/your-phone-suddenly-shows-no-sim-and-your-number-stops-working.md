@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your phone suddenly shows No SIM and your number stops working"
+seo_title: "Phone shows no SIM and service stopped"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "android no sim"
   - "physical sim phone"
   - "esim phone"
-last_reviewed: "2026-07-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-02"
 ---
 

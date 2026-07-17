@@ -1,5 +1,6 @@
 ---
 title: "What to do if… airport Wi-Fi requires a local phone number and you cannot access your travel documents"
+seo_title: "Airport Wi-Fi requires local number for travel documents"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "before check-in closes"
   - "without local phone number"
   - "british passport abroad"
-last_reviewed: "2026-04-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-29"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… officials contact you about a deceased person’s legal case and request urgent information"
+seo_title: "Official contact about a deceased person's legal case"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "legal papers after death"
   - "oficials contacted after death"
   - "oficial request after death"
-last_reviewed: "2026-04-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-30"
 ---
 

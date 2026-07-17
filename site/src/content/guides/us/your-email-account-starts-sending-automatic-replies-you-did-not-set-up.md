@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your email account starts sending automatic replies you did not set up"
+seo_title: "Email account sending unexpected automatic replies"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "email acount compromised"
   - "auto repy not mine"
   - "new email account replies"
-last_reviewed: "2026-06-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-28"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your minimum credit card payment jumps far higher than usual"
+seo_title: "Credit card minimum payment jumped unexpectedly"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "credit card statment shock"
   - "before credit card due date"
   - "after missed card payment"
-last_reviewed: "2026-06-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-30"
 ---
 

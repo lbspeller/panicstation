@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your arm becomes swollen or heavy after an IV, line, or injection"
+seo_title: "Swollen or heavy arm after IV or injection"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "iv infilitration symptoms"
   - "extravisation after iv"
   - "puffy hand after iv line"
-last_reviewed: "2026-06-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-03"
 ---
 

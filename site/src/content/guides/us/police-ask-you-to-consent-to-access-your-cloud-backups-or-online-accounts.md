@@ -1,5 +1,6 @@
 ---
 title: "What to do if… police ask you to consent to access your cloud backups or online accounts"
+seo_title: "Police ask for access to cloud or online accounts"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "police want account acess"
   - "cloud photos police request"
   - "cloud messages police request"
-last_reviewed: "2026-06-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-04"
 ---
 

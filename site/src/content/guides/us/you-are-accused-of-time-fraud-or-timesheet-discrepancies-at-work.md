@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are accused of time fraud or timesheet discrepancies at work"
+seo_title: "Accused of time fraud or timesheet discrepancies at work"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "buddy punching allegation"
   - "clocking in fraud allegation"
   - "work hours evidence dispute"
-last_reviewed: "2026-06-07"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-07"
 ---
 

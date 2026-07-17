@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you suspect someone has remote access to your computer because the cursor is moving on its own"
+seo_title: "Suspect remote computer access or cursor moving"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "phantom mouse movement"
   - "curser moving by itself"
   - "mous moving on its own"
-last_reviewed: "2026-06-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-24"
 ---
 

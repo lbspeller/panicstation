@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you lose your phone or device that holds your passkeys and cannot sign in"
+seo_title: "Lost phone or device with passkeys and cannot sign in"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "passky device missing"
   - "paskey phone lost"
   - "lost phone with email access"
-last_reviewed: "2026-05-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-14"
 ---
 

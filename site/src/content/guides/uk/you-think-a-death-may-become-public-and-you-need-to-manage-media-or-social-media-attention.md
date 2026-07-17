@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you think a death may become public and you need to manage media or social media attention"
+seo_title: "Managing media and social media after a death"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "spokesperon after death"
   - "bereavment media pressure"
   - "police involved death"
-last_reviewed: "2026-05-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-22"
 ---
 

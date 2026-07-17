@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you develop sudden wheezing or your asthma symptoms worsen unexpectedly"
+seo_title: "Sudden wheezing or worsening asthma symptoms"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "child asthma suddenly worse"
   - "weezing suddenly"
   - "astma symptoms worse"
-last_reviewed: "2026-05-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-10"
 ---
 

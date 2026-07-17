@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your windshield wipers stop working while you are driving in bad weather"
+seo_title: "Windshield wipers stop working while driving"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "snow wipers stopped working"
   - "highway shoulder bad weather"
   - "low visibility pulled over"
-last_reviewed: "2026-07-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-05"
 ---
 

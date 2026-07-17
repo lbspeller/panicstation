@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your ride-hailing account is suspended when you need to book urgent transport"
+seo_title: "Ride-hailing account suspended when needing urgent transport"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -34,7 +35,7 @@ tags:
   - "uber acount suspended"
   - "taxi acount locked"
   - "urgent hospital transport problem"
-last_reviewed: "2026-05-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-27"
 ---
 

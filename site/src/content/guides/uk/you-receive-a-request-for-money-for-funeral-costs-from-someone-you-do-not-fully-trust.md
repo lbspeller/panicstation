@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a request for money for funeral costs from someone you do not fully trust"
+seo_title: "Suspicious request for funeral money"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "after a death message"
   - "funeral request on social media"
   - "funeral request by text"
-last_reviewed: "2026-05-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-18"
 ---
 

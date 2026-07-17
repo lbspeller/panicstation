@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you find a hidden camera or recording device in your hotel or rental room"
+seo_title: "found a hidden camera or recording device in hotel room"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "vacation rental privacy concern"
   - "short term rental privacy concern"
   - "booking platform safety concern"
-last_reviewed: "2026-06-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-14"
 ---
 

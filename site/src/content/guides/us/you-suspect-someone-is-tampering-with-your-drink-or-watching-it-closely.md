@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you suspect someone is tampering with your drink or watching it closely"
+seo_title: "Suspecting drink tampering or someone watching your drink"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -44,7 +45,7 @@ tags:
   - "unwanted attention near drink"
   - "someone watchng my drink"
   - "drink was spikedd"
-last_reviewed: "2026-06-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-18"
 ---
 

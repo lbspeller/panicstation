@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are unsure which platform, stop, or bay to use because service updates conflict"
+seo_title: "Conflicting platform, stop, or bay information"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "platfrom confusion"
   - "annoucement unclear"
   - "conflicting stop updates"
-last_reviewed: "2026-06-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-04"
 ---
 

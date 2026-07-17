@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are told your communications are being monitored as part of an investigation"
+seo_title: "Told your communications are being monitored"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "contact with a co-defendant is monitored"
   - "calls may be monitered"
   - "contact monitored during investgation"
-last_reviewed: "2026-06-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-11"
 ---
 

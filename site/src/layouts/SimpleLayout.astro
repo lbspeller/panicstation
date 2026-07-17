@@ -1,7 +1,13 @@
 ---
 import StructuredData from "../components/StructuredData.astro";
 
-const { title, structuredData = [] } = Astro.props;
+const {
+  title,
+  structuredData = [],
+  description,
+  robots,
+  socialTitle = title,
+} = Astro.props;
 const path = Astro.url.pathname;
 const isGuidesIndex = path === "/guides/";
 ---
@@ -11,6 +17,17 @@ const isGuidesIndex = path === "/guides/";
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>{title}</title>
+    {description && <meta name="description" content={description} />}
+    {robots && <meta name="robots" content={robots} />}
+
+    <meta property="og:site_name" content="PanicStation.org" />
+    <meta property="og:type" content="website" />
+    <meta property="og:title" content={socialTitle} />
+    {description && <meta property="og:description" content={description} />}
+
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:title" content={socialTitle} />
+    {description && <meta name="twitter:description" content={description} />}
 
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />

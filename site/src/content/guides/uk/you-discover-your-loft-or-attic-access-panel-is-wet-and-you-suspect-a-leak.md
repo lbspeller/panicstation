@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you discover your loft or attic access panel is wet and you suspect a leak"
+seo_title: "Wet loft or attic access panel and suspected leak"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "rented home loft leak"
   - "owned home roof leak"
   - "near light fitting"
-last_reviewed: "2026-05-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-10"
 ---
 

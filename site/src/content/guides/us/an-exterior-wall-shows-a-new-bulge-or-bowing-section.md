@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an exterior wall shows a new bulge or bowing section"
+seo_title: "Exterior wall bulge or bowing section"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "bulging exteror wall"
   - "bowing exterier wall"
   - "new masonry wall bulge"
-last_reviewed: "2026-06-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-03"
 ---
 

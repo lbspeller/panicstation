@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your main water shutoff valve is stuck and you cannot turn it"
+seo_title: "Main water shutoff valve is stuck"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "flat shared water supply"
   - "tenant water leak emergency"
   - "boiler pipe leaking water"
-last_reviewed: "2026-05-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-26"
 ---
 

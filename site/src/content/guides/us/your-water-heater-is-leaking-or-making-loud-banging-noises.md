@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your water heater is leaking or making loud banging noises"
+seo_title: "Water heater leaking or making loud banging noises"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "hot water heater leeking"
   - "rental water heater leak"
   - "apartment water heater leaking"
-last_reviewed: "2026-07-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-04"
 ---
 

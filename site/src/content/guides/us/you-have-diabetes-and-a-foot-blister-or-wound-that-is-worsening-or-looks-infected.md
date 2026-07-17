@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have diabetes and a foot blister or wound that is worsening or looks infected"
+seo_title: "Diabetes foot blister or wound worsening or infected"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "diabetic foot wond"
   - "with diabetes and neuropathy"
   - "after new shoes"
-last_reviewed: "2026-06-15"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-15"
 ---
 

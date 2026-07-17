@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a tax audit notice and the response deadline is soon"
+seo_title: "Tax audit notice with an urgent deadline"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "notice of deficiency confusion"
   - "irs auddit notice"
   - "tax autority audit notice"
-last_reviewed: "2026-06-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-22"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you suspect someone copied your passport details and you are worried about misuse while abroad"
+seo_title: "Passport details copied while abroad"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "uk citizen abroad identity theft"
   - "travel document details leaked"
   - "passport details in wrong hands"
-last_reviewed: "2026-05-21"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-21"
 ---
 

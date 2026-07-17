@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone at your door claims to be a worker or official but you cannot verify them"
+seo_title: "Unverified worker or official at your door"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "offical worker at my door"
   - "utillity worker at my door"
   - "worker at apartment door"
-last_reviewed: "2026-06-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-04"
 ---
 

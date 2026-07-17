@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your car key snaps, bends, or breaks and you cannot unlock or start your vehicle"
+seo_title: "Car key snapped or broken in lock or ignition"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "snapt car key"
   - "vehical key broken"
   - "roadside with broken key"
-last_reviewed: "2026-05-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-26"
 ---
 

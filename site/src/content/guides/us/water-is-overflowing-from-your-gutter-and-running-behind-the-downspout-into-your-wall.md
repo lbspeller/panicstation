@@ -1,5 +1,6 @@
 ---
 title: "What to do if… water is overflowing from your gutter and running behind the downspout into your wall"
+seo_title: "Gutter overflowing and water entering wall"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "second-story gutter overflow"
   - "gutter overfowing in one spot"
   - "downspout leeking into wall"
-last_reviewed: "2026-06-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-06"
 ---
 

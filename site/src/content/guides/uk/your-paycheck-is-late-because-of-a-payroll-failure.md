@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your paycheck is late because of a payroll failure"
+seo_title: "Paycheck is late due to payroll failure"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "pay amount looks wrong"
   - "payrol failed"
   - "payday late"
-last_reviewed: "2026-05-07"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-07"
 ---
 

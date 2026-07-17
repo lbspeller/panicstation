@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone is lingering in your building lobby or entrance and you feel unsafe"
+seo_title: "Someone lingering in your building lobby or entrance"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "secure entry building"
   - "person loitering in loby"
   - "building entance feels unsafe"
-last_reviewed: "2026-05-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-05"
 ---
 

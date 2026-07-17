@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are told a loved one has died and you need to verify the details"
+seo_title: "Verifying a loved one's death notification"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -33,7 +34,7 @@ tags:
   - "unverified death call"
   - "deceased detials unclear"
   - "loved one decased"
-last_reviewed: "2026-05-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-06"
 ---
 

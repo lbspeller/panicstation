@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your bank account is locked after failed security checks and you need immediate access"
+seo_title: "Bank account locked after failed security checks"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "bank login attempts failed"
   - "bank accout locked"
   - "bank securty check failed"
-last_reviewed: "2026-05-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-22"
 ---
 

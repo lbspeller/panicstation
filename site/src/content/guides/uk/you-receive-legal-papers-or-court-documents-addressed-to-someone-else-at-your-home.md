@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive legal papers or court documents addressed to someone else at your home"
+seo_title: "Legal papers or court documents for someone else"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "legel papers wrong address"
   - "summonds for previous tenant"
   - "rented home previous tenant letters"
-last_reviewed: "2026-05-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-19"
 ---
 

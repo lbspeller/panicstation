@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your workplace is not responding to sexual harassment and the behaviour is getting worse"
+seo_title: "Workplace sexual harassment escalating and ignored"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -34,7 +35,7 @@ tags:
   - "creepy behaviour at work"
   - "sexual harrassment at work"
   - "workplace harasment escalating"
-last_reviewed: "2026-05-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-29"
 ---
 

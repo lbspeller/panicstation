@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your water heater pressure relief valve is leaking or discharging water intermittently"
+seo_title: "Water heater pressure relief valve leaking or discharging"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "preasure relief valve dripping"
   - "presure valve leaking"
   - "unvented cylinder in airing cupboard"
-last_reviewed: "2026-05-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-28"
 ---
 

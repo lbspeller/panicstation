@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you develop new weakness in both legs or worsening trouble walking over a few hours"
+seo_title: "New weakness in both legs or worsening trouble walking"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "walking trouble over a few hours"
   - "weaknes in both legs"
   - "trouble walkng over hours"
-last_reviewed: "2026-06-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-13"
 ---
 

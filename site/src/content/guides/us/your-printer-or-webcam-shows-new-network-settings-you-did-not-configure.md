@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your printer or webcam shows new network settings you did not configure"
+seo_title: "Printer or webcam shows unknown network settings"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "unexpected webcam access"
   - "camera connected wrong wifi"
   - "iot device network changed"
-last_reviewed: "2026-07-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-03"
 ---
 

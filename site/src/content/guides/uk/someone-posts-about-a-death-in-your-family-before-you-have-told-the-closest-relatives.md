@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone posts about a death in your family before you have told the closest relatives"
+seo_title: "Family death posted online before relatives notified"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -34,7 +35,7 @@ tags:
   - "facebook death post"
   - "death annoucement online"
   - "bereavment post online"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-01"
 ---
 

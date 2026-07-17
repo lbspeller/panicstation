@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your phone dies and you cannot unlock or start your vehicle"
+seo_title: "phone dead and cannot unlock or start vehicle"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "car park locked out"
   - "forgot physical car key"
   - "spare key not nearby"
-last_reviewed: "2026-05-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-27"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you think there is an active warrant in your name"
+seo_title: "Suspected active arrest warrant"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "missed appearance warrant"
   - "wrong county warrant"
   - "mistaken identity warrant"
-last_reviewed: "2026-06-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-17"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your rideshare requests keep getting cancelled or timing out and you are stranded"
+seo_title: "Rideshare requests keep cancelling and you are stranded"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "rideshare reqeust timed out"
   - "urgent ride home unavailable"
   - "taxi or rideshare unavailable"
-last_reviewed: "2026-06-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-03"
 ---
 

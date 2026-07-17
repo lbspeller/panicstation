@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a client disputes your work and stops payment while deadlines are still approaching"
+seo_title: "Client disputes work and stops payment during deadline"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -42,7 +43,7 @@ tags:
   - "business client withholding payment"
   - "unpaid invioce after delivery"
   - "client wont pay invoice"
-last_reviewed: "2026-04-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-25"
 ---
 

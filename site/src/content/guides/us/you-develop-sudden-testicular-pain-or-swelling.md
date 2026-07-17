@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you develop sudden testicular pain or swelling"
+seo_title: "Sudden testicular pain or swelling"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "new testicle swelling without pain"
   - "sudden testical pain"
   - "scrotal swellling"
-last_reviewed: "2026-06-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-13"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice swelling in your face or hands that develops over a day and your urine output drops"
+seo_title: "Sudden swelling and reduced urine output"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "edema or allergic reaction"
   - "pee less or dehydrated"
   - "swolen hands less pee"
-last_reviewed: "2026-06-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-18"
 ---
 

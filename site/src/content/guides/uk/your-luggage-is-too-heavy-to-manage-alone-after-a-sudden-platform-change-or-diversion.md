@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your luggage is too heavy to manage alone after a sudden platform change or diversion"
+seo_title: "Heavy luggage after sudden platform change or diversion"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "temporary injury with luggage"
   - "lugage too heavy station"
   - "suitcase too hevy"
-last_reviewed: "2026-05-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-26"
 ---
 

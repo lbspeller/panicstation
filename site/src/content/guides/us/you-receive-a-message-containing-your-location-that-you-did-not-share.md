@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a message containing your location that you did not share"
+seo_title: "Message received with your location included"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "blackmail message with location"
   - "loction message scare"
   - "mesage with my location"
-last_reviewed: "2026-06-15"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-15"
 ---
 

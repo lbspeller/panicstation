@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are pressured to sign a workplace statement you did not write"
+seo_title: "Pressured to sign a workplace statement you did not write"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "statment at work"
   - "work investigation paperwork"
   - "uk workplace statement"
-last_reviewed: "2026-05-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-04"
 ---
 

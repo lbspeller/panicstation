@@ -1,5 +1,6 @@
 ---
 title: "What to do if… family members disagree about where ashes should go and decisions are being pushed quickly"
+seo_title: "Family disagreement over ashes and rushed decisions"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "family members disagree after cremation"
   - "cremated remians dispute"
   - "ashes despute"
-last_reviewed: "2026-06-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-03"
 ---
 

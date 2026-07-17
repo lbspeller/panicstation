@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone keeps pressuring you to get into their car to talk privately"
+seo_title: "Someone pressuring you to get into their car"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "just wants to talk"
   - "wont take no seriously"
   - "sexual boundry ignored"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-01"
 ---
 

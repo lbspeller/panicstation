@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your loan has been transferred to a new servicer and you are being told you are overdue"
+seo_title: "Loan transferred and servicer claims you are overdue"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "loan serviser changed"
   - "loan trasfer overdue"
   - "uk loan arrears transfer"
-last_reviewed: "2026-05-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-26"
 ---
 

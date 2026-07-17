@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you suspect someone is accessing the money or property of a person who has died"
+seo_title: "Suspected unauthorized access to estate money or property"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -33,7 +34,7 @@ tags:
   - "estate scam concern"
   - "money after deth"
   - "property after deeth"
-last_reviewed: "2026-06-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-24"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… police ask to take or search your phone or other electronic device"
+seo_title: "Police request to search or take your device"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "device examination after police stop"
   - "police want my fone"
   - "asked for my pascode"
-last_reviewed: "2026-06-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-04"
 ---
 

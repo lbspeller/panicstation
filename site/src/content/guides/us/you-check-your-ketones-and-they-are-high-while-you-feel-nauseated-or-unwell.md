@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you check your ketones and they are high while you feel nauseated or unwell"
+seo_title: "High ketones and feeling unwell or nauseated"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "type 2 diabetes high ketones"
   - "ketons high nausea"
   - "keotnes high while sick"
-last_reviewed: "2026-06-12"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-12"
 ---
 

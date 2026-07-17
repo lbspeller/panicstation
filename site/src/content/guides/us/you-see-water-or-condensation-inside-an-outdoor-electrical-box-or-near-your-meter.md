@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you see water or condensation inside an outdoor electrical box or near your meter"
+seo_title: "Water or condensation in outdoor electrical box"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "after storm outside"
   - "near house meter"
   - "outside service panel"
-last_reviewed: "2026-06-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-23"
 ---
 

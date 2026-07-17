@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you lose your phone or device that holds your passkeys and cannot sign in"
+seo_title: "Lost phone or device with passkeys and cannot sign in"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "lost iphone passkey access"
   - "lost android passkey access"
   - "lost phone passwordless login"
-last_reviewed: "2026-06-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-17"
 ---
 

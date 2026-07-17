@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone threatens to end your relationship unless you have sex"
+seo_title: "Partner threatens to end relationship for sex"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "sex blackmail"
   - "seggs pressure"
   - "coersed sex"
-last_reviewed: "2026-05-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-02"
 ---
 

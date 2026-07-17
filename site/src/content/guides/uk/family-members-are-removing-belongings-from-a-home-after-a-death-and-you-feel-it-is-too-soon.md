@@ -1,5 +1,6 @@
 ---
 title: "What to do if… family members are removing belongings from a home after a death and you feel it is too soon"
+seo_title: "Family removing belongings from home after a death"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "probate and possesions"
   - "after funeral house conflict"
   - "shared family home bereavement"
-last_reviewed: "2026-04-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-29"
 ---
 

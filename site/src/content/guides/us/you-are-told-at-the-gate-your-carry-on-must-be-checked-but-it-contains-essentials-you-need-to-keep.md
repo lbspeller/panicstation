@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are told at the gate your carry-on must be checked but it contains essentials you need to keep"
+seo_title: "Gate-checked carry-on contains essentials"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "late boarding overhead bins full"
   - "carryon must be checked"
   - "gate chek carry-on essentials"
-last_reviewed: "2026-06-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-10"
 ---
 

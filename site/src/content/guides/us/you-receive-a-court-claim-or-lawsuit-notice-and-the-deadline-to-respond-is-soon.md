@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a court claim or lawsuit notice and the deadline to respond is soon"
+seo_title: "Court claim or lawsuit notice with a deadline"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -34,7 +35,7 @@ tags:
   - "notice or real lawsuit"
   - "lawsuit papres received"
   - "summons complant deadline"
-last_reviewed: "2026-06-20"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-20"
 ---
 

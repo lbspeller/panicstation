@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your flight is diverted to a different country and you are unsure about entry documents"
+seo_title: "Flight diverted to a different country with document concerns"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "temporary entry permission confusion"
   - "flight diverted diffrent country"
   - "diverted flight documnts missing"
-last_reviewed: "2026-06-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-29"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you get a bite or sting and the swelling keeps increasing over hours"
+seo_title: "Bite or sting swelling increasing over hours"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "infected bite concern"
   - "bite sweling getting worse"
   - "bee sting sweling"
-last_reviewed: "2026-06-15"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-15"
 ---
 

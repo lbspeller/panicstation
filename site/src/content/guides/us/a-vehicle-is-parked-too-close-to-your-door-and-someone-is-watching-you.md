@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a vehicle is parked too close to your door and someone is watching you"
+seo_title: "Vehicle blocking your door and someone watching you"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "mistaking parking issue for threat"
   - "driver door blockd"
   - "vehical parked too close"
-last_reviewed: "2026-06-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-18"
 ---
 

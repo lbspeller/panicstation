@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you get a notice that your two-factor authentication method was changed without your permission"
+seo_title: "Two-factor authentication changed without permission"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "bank account 2fa changed"
   - "email account 2fa changed"
   - "work account 2fa changed"
-last_reviewed: "2026-06-15"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-15"
 ---
 

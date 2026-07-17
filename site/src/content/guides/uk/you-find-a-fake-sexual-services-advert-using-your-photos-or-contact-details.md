@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you find a fake sexual services advert using your photos or contact details"
+seo_title: "Fake sexual services advert using your details"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "intimate image abuse"
   - "ai sexual image advert"
   - "under eighteen image online"
-last_reviewed: "2026-05-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-10"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a merchant says they refunded you but the card transaction is still showing as reversed"
+seo_title: "Merchant says refund sent but transaction shows reversed"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "digital wallet refund missing"
   - "replacement card refund missing"
   - "online purchase refund missing"
-last_reviewed: "2026-05-31"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-31"
 ---
 

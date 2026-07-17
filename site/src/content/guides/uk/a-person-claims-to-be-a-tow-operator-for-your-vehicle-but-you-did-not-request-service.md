@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a person claims to be a tow operator for your vehicle but you did not request service"
+seo_title: "Unsolicited tow operator at your vehicle"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "tow operater demanding payment"
   - "private land tow threat"
   - "car finance tow threat"
-last_reviewed: "2026-04-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-27"
 ---
 

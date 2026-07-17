@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a strike or travel disruption is announced while you are en route and you may be stranded"
+seo_title: "Travel disruption or strike while en route"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "stranded mid-jurney"
   - "disrutpion announced en route"
   - "stuck en route overnight"
-last_reviewed: "2026-06-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-02"
 ---
 

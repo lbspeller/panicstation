@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your landlord or housing provider makes sexual comments and implies your housing depends on it"
+seo_title: "Landlord making sexual comments or threats"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "shared house landlord harassment"
   - "landord sexual comments"
   - "tennant sexual harassment"
-last_reviewed: "2026-04-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-26"
 ---
 

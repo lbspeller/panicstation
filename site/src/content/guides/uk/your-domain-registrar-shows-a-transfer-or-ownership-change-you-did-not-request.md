@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your domain registrar shows a transfer or ownership change you did not request"
+seo_title: "Unauthorized domain transfer or ownership change"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "business domain at risk"
   - "domian registrar changed"
   - "unauthorised tranfer notice"
-last_reviewed: "2026-05-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-25"
 ---
 

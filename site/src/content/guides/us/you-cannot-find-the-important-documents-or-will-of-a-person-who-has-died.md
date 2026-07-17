@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you cannot find the important documents or will of a person who has died"
+seo_title: "Cannot find will or important documents after death"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -33,7 +34,7 @@ tags:
   - "documents missing after funeral"
   - "deceased documents mising"
   - "important docments missing"
-last_reviewed: "2026-06-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-19"
 ---
 

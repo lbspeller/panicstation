@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a no-contact order but share childcare or other responsibilities"
+seo_title: "No-contact order with shared childcare responsibilities"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "emergency child situation"
   - "practical responsibilities no contact"
   - "lawyer message confusion"
-last_reviewed: "2026-06-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-22"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your bank places a hold on a large deposit and you cannot access the funds"
+seo_title: "Bank places hold on large deposit"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "recent large check deposit"
   - "new account deposit hold"
   - "rent due deposit held"
-last_reviewed: "2026-06-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-25"
 ---
 

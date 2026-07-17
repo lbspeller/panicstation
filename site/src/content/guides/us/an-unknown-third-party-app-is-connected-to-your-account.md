@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an unknown third-party app is connected to your account"
+seo_title: "Unknown third-party app connected to your account"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "connected app keeps reappearing"
   - "unkown app connected to account"
   - "third-party app acess"
-last_reviewed: "2026-06-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-02"
 ---
 

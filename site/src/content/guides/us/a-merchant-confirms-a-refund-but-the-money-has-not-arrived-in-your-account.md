@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a merchant confirms a refund but the money has not arrived in your account"
+seo_title: "Merchant confirmed refund but money not received"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "ach refund missing"
   - "refund not recived"
   - "refunnd not received"
-last_reviewed: "2026-05-31"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-31"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a request to transfer a loved one’s remains and are unsure it is legitimate"
+seo_title: "Request to transfer a loved one's remains"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "after hospital death"
   - "coroner involved transfer"
   - "death abroad transfer"
-last_reviewed: "2026-05-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-18"
 ---
 

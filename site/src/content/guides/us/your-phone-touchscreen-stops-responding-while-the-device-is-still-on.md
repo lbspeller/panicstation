@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your phone touchscreen stops responding while the device is still on"
+seo_title: "Phone touchscreen unresponsive but device is on"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "need ticket on phone"
   - "touchscren not responding"
   - "cant unlock phone"
-last_reviewed: "2026-07-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-02"
 ---
 

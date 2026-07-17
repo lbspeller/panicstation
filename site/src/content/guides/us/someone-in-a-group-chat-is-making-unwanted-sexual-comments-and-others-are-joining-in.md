@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone in a group chat is making unwanted sexual comments and others are joining in"
+seo_title: "Unwanted sexual comments in a group chat"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "snapchat group chat sexual harassment"
   - "group chat sexual harrassment"
   - "sexualy targeted in group chat"
-last_reviewed: "2026-06-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-04"
 ---
 

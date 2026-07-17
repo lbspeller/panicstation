@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a work attendance warning that you believe is inaccurate"
+seo_title: "Inaccurate work attendance warning or record"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "short notice attendance meeting"
   - "attendence warning wrong"
   - "attendence record wrong"
-last_reviewed: "2026-05-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-19"
 ---
 

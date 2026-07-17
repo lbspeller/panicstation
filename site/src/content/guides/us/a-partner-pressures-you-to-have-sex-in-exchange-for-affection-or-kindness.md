@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a partner pressures you to have sex in exchange for affection or kindness"
+seo_title: "Partner pressuring you for sex in exchange for affection"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "sex pressure from boyfriend"
   - "partner preasures me for sex"
   - "conditonal affection unless sex"
-last_reviewed: "2026-06-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-01"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you hear someone on a fire escape, balcony, or roof area near your window"
+seo_title: "Hearing someone on fire escape, balcony, or roof"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "fire escape outside flat"
   - "balcony trespas"
   - "wierd noise outside window"
-last_reviewed: "2026-05-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-13"
 ---
 

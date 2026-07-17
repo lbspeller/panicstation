@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your front door will not latch or lock and you cannot secure your home"
+seo_title: "Front door will not latch or lock"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "home feels unsecured tonight"
   - "frunt door wont lock"
   - "dedbolt wont engage"
-last_reviewed: "2026-06-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-29"
 ---
 

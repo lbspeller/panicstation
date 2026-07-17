@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a landlord or contractor demands immediate payment for late fees you cannot verify"
+seo_title: "Landlord or contractor demands unverified late fees"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "londlord late fee demand"
   - "contrator late fee demand"
   - "private renting fee dispute"
-last_reviewed: "2026-04-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-26"
 ---
 

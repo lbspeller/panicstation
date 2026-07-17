@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to write an obituary or public notice and you are not ready"
+seo_title: "Asked to write an obituary or public notice"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "estate notice after death"
   - "asked to write obituarry"
   - "not ready to write obitury"
-last_reviewed: "2026-06-08"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-08"
 ---
 

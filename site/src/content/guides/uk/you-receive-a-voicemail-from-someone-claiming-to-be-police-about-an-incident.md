@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a voicemail from someone claiming to be police about an incident"
+seo_title: "Voicemail from someone claiming to be police"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "northern ireland police voicemail"
   - "police voicemal incident"
   - "polcie voicemail incident"
-last_reviewed: "2026-05-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-19"
 ---
 

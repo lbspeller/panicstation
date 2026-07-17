@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are told an original document is required but you only have a scan or photo"
+seo_title: "Original document required but only have a scan"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "apostile needed"
   - "certifed copy needed"
   - "document scan rejected abroad"
-last_reviewed: "2026-06-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-10"
 ---
 

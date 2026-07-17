@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are told you need a transit visa for your connection and you do not have one"
+seo_title: "Missing transit visa for your connection"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "transit without visa mixup"
   - "transitt visa mistake"
   - "flight conection visa"
-last_reviewed: "2026-05-07"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-07"
 ---
 

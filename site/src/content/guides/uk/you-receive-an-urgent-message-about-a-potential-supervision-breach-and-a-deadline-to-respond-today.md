@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive an urgent message about a potential supervision breach and a deadline to respond today"
+seo_title: "Urgent message about supervision breach and deadline"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "england and wales supervision"
   - "scotland justice social work"
   - "northern ireland probation"
-last_reviewed: "2026-05-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-19"
 ---
 

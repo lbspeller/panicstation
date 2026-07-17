@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you feel unsafe at a venue and staff or security are not helping"
+seo_title: "Unsafe at a venue and staff not helping"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "night out feels unsafe"
   - "crowded venue escalating"
   - "ride pickup feels unsafe"
-last_reviewed: "2026-06-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-14"
 ---
 

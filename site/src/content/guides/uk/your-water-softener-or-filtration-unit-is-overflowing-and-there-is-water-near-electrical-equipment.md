@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your water softener or filtration unit is overflowing and there is water near electrical equipment"
+seo_title: "Water softener or filter leaking near electrics"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "buzzing socket after leak"
   - "brine tank overflow"
   - "under sink filter leak"
-last_reviewed: "2026-05-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-29"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are worried about family members taking belongings or valuables from a home after a death"
+seo_title: "Family members taking belongings after a death"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "executer conflict after death"
   - "dispute over home contents"
   - "fear someone will take valuables"
-last_reviewed: "2026-06-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-06"
 ---
 

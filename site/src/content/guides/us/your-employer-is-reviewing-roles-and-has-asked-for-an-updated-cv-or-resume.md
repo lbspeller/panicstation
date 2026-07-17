@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your employer is reviewing roles and has asked for an updated CV or resume"
+seo_title: "Employer asks for updated CV or resume during review"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "unsure whether layoff notice applies"
   - "reorginization role review"
   - "resructuring at work"
-last_reviewed: "2026-06-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-10"
 ---
 

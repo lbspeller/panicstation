@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your garage door is stuck open and you cannot close it to secure your home"
+seo_title: "Garage door stuck open and cannot be secured"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -34,7 +35,7 @@ tags:
   - "garage door cable broken"
   - "garage door off track"
   - "garage break in risk"
-last_reviewed: "2026-06-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-29"
 ---
 

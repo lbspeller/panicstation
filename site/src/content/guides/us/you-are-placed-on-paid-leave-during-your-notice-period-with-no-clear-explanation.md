@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are placed on paid leave during your notice period with no clear explanation"
+seo_title: "Placed on paid leave during notice period"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "discrimination worry after notice"
   - "payd leave during notice"
   - "seperation date unclear"
-last_reviewed: "2026-06-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-09"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you realise you entered your password into a site that may have been fake"
+seo_title: "Entered password into a fake website"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "phishng link login"
   - "bank password entered"
   - "email account password reused"
-last_reviewed: "2026-05-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-17"
 ---
 

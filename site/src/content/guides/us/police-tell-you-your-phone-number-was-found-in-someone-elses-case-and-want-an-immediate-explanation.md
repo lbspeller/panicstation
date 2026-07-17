@@ -1,5 +1,6 @@
 ---
 title: "What to do if… police tell you your phone number was found in someone else’s case and want an immediate explanation"
+seo_title: "Police call about your number in a case"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "police call from another state"
   - "police caled about my number"
   - "detective wants explanaton now"
-last_reviewed: "2026-06-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-04"
 ---
 

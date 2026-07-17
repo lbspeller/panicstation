@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your employer asks to search your personal phone or laptop for a workplace investigation"
+seo_title: "Employer asks to search your personal device"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "managed work profile personal phone"
   - "workplace investgation personal device"
   - "personal devce workplace investigation"
-last_reviewed: "2026-06-07"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-07"
 ---
 

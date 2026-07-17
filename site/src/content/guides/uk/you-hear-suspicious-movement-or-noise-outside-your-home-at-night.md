@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you hear suspicious movement or noise outside your home at night"
+seo_title: "Suspicious noise or movement outside your home at night"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "alone inside the house"
   - "children asleep inside"
   - "pets reacting to outside"
-last_reviewed: "2026-05-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-13"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have a family court or custody hearing soon after a death"
+seo_title: "Family court or custody hearing after a death"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "no lawyer custody case"
   - "bereavment before custody hearing"
   - "custady court after death"
-last_reviewed: "2026-06-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-17"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are told you need an electronic travel authorisation and you do not have it in time"
+seo_title: "Missing electronic travel authorisation before flight"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "business trip esta pending"
   - "esta authorizaton pending"
   - "travel authroization missing"
-last_reviewed: "2026-06-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-11"
 ---
 

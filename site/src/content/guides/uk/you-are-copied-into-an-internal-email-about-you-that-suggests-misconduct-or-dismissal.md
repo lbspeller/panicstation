@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are copied into an internal email about you that suggests misconduct or dismissal"
+seo_title: "Internal email suggests misconduct or dismissal"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "dismisal mentioned in email"
   - "misconduct email at work"
   - "internal email at work"
-last_reviewed: "2026-05-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-05"
 ---
 

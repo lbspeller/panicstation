@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an indoor air-conditioning unit starts dripping water or leaking unexpectedly"
+seo_title: "Indoor air-conditioning unit leaking water"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "rented flat ac leaking"
   - "home office ac leak"
   - "night time ac leak"
-last_reviewed: "2026-04-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-29"
 ---
 

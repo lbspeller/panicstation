@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you hear birds in a chimney or wall cavity and think they may be trapped"
+seo_title: "Birds trapped in chimney or wall cavity"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "blocked flue with birds"
   - "brids in chimney"
   - "chimny bird sounds"
-last_reviewed: "2026-06-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-16"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you lose access to your work email and systems without warning"
+seo_title: "Suddenly locked out of work email and systems"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "work email wont open"
   - "work emial locked"
   - "remote worker locked out"
-last_reviewed: "2026-05-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-14"
 ---
 

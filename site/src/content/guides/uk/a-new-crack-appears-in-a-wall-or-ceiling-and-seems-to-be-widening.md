@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a new crack appears in a wall or ceiling and seems to be widening"
+seo_title: "Widening crack in wall or ceiling"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "rented home wall crack"
   - "wall crak getting bigger"
   - "ceiling crak spreading"
-last_reviewed: "2026-04-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-27"
 ---
 

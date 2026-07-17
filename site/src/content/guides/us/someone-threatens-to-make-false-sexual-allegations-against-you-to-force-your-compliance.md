@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone threatens to make false sexual allegations against you to force your compliance"
+seo_title: "Threatened with false sexual allegations for compliance"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "partner allegation threat"
   - "false sexual aligation threat"
   - "false alegation blackmail"
-last_reviewed: "2026-06-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-05"
 ---
 

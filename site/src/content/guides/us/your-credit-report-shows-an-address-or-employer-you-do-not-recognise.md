@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your credit report shows an address or employer you do not recognise"
+seo_title: "Unfamiliar address or employer on credit report"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "someone using my ssn"
   - "adress on credit report"
   - "employer i dont reconize"
-last_reviewed: "2026-06-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-28"
 ---
 

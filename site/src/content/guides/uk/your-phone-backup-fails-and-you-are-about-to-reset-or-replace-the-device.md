@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your phone backup fails and you are about to reset or replace the device"
+seo_title: "Phone backup failed before reset or replacement"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "insurance wants phone reset"
   - "icloud bakup failed"
   - "google bakup failed"
-last_reviewed: "2026-05-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-27"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your residence permit card expires while you are abroad and you need to return home"
+seo_title: "Residence permit card expires while abroad"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "return trip after card expiry"
   - "green card expierd abroad"
   - "residence permit expries abroad"
-last_reviewed: "2026-06-07"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-07"
 ---
 

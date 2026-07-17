@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone is repeatedly trying to get residents to open the main entrance"
+seo_title: "Stranger repeatedly trying to enter building"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "after hours building entrance"
   - "appartment entrance stranger"
   - "buzer keeps ringing"
-last_reviewed: "2026-06-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-18"
 ---
 

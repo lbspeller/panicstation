@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive an official letter saying you missed a court date you did not know about"
+seo_title: "Letter saying you missed a court date"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "moved before court notice"
   - "missed cort date"
   - "court leter missed date"
-last_reviewed: "2026-06-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-22"
 ---
 

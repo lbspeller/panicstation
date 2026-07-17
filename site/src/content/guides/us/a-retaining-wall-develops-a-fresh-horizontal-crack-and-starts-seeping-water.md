@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a retaining wall develops a fresh horizontal crack and starts seeping water"
+seo_title: "Retaining wall horizontal crack and water seepage"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "retaining wall crack near driveway"
   - "my retaning wall is cracking"
   - "my retaining wall is leeking water"
-last_reviewed: "2026-06-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-01"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked for proof of a name change for travel and cannot access the document"
+seo_title: "Missing name change document for travel"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "last minute name document problem"
   - "name change documant missing"
   - "boarding pass name missmatch"
-last_reviewed: "2026-06-08"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-08"
 ---
 

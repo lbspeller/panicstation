@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a government agency contacts you demanding information and you are unsure what to provide"
+seo_title: "Government agency contact demanding information"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "unexpected official contact"
   - "deadline to provide information"
   - "police asking questions"
-last_reviewed: "2026-04-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-26"
 ---
 

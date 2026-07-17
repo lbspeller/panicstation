@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your email account password has been changed and you did not do it"
+seo_title: "Email account password changed without your permission"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "work email compromised"
   - "bank accounts linked to email"
   - "primary email locked out"
-last_reviewed: "2026-05-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-25"
 ---
 

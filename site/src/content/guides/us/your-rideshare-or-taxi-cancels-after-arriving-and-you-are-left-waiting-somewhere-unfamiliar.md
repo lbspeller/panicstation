@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your rideshare or taxi cancels after arriving and you are left waiting somewhere unfamiliar"
+seo_title: "Rideshare or taxi cancels in unfamiliar area"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "taxi canceld at pickup"
   - "ride cancelled in new city"
   - "ride cancelled while travelling"
-last_reviewed: "2026-07-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-03"
 ---
 

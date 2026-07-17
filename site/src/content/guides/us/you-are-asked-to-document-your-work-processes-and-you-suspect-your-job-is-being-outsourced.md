@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to document your work processes and you suspect your job is being outsourced"
+seo_title: "Asked to document work and suspect outsourcing"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "operational runbook request"
   - "workflow notes requested by manager"
   - "asked for step by step notes"
-last_reviewed: "2026-06-07"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-07"
 ---
 

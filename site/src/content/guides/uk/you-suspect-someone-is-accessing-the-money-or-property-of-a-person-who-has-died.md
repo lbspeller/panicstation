@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you suspect someone is accessing the money or property of a person who has died"
+seo_title: "Suspected unauthorized access to estate money or property"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "uk sudden death"
   - "before probate granted"
   - "empty deceased home"
-last_reviewed: "2026-05-21"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-21"
 ---
 

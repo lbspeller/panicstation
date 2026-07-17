@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you feel a tingling sensation when touching a tap or metal appliance"
+seo_title: "Tingling sensation from tap or metal appliance"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "fault with metalwork"
   - "tapp gives electric tingle"
   - "metal applience feels tingly"
-last_reviewed: "2026-05-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-10"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to clear a home after someone dies and are worried about losing evidence"
+seo_title: "Clearing a home after death and protecting evidence"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "after a partner dies"
   - "shared home with surviving occupant"
   - "family tension after bereavement"
-last_reviewed: "2026-06-07"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-07"
 ---
 

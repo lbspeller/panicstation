@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a legal hold notice at work regarding your emails and documents"
+seo_title: "Receiving a legal hold notice at work"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "uk civil disclosure hold"
   - "legal holld notice"
   - "preserve emials at work"
-last_reviewed: "2026-05-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-18"
 ---
 

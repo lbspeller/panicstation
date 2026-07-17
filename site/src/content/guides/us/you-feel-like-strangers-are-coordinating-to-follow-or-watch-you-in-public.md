@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you feel like strangers are coordinating to follow or watch you in public"
+seo_title: "Strangers appearing to follow or watch you"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "parking lot feels unsafe"
   - "transit station feels unsafe"
   - "street feels unsafe"
-last_reviewed: "2026-06-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-23"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your door peephole or viewer looks covered or tampered with"
+seo_title: "Door peephole or viewer covered or tampered with"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "possible prank at door"
   - "possible vandalism at door"
   - "apartment door peephole covered"
-last_reviewed: "2026-06-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-19"
 ---
 

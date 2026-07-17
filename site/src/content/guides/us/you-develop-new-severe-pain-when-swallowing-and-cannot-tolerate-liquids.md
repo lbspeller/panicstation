@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you develop new severe pain when swallowing and cannot tolerate liquids"
+seo_title: "Severe pain when swallowing and cannot tolerate liquids"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "swallowing pain after cleaner exposure"
   - "painfull swallowing liquids"
   - "swollowing pain cannot drink"
-last_reviewed: "2026-06-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-13"
 ---
 

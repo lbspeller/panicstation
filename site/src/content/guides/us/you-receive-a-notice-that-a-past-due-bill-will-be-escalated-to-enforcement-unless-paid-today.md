@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a notice that a past-due bill will be escalated to enforcement unless paid today"
+seo_title: "Urgent notice threatening enforcement for unpaid bill"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "medical bill collection notice"
   - "credit card past due"
   - "utility shutoff warning"
-last_reviewed: "2026-06-20"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-20"
 ---
 

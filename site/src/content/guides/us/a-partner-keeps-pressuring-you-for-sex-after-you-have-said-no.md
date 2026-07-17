@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a partner keeps pressuring you for sex after you have said no"
+seo_title: "Partner keeps pressuring you for sex after no"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "partner tests boundaries in sexting"
   - "partner ignores my boundries"
   - "my boundries keep getting tested"
-last_reviewed: "2026-06-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-01"
 ---
 

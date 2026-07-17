@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone keeps pressuring you to send sexual voice notes or videos you do not want to record"
+seo_title: "Pressured to send unwanted sexual recordings"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "under eighteen sexual pressure"
   - "voice nots sexual pressure"
   - "sexual vedios pressure"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-01"
 ---
 

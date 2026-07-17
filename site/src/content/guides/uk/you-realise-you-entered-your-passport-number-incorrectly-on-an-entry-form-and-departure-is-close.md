@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you realise you entered your passport number incorrectly on an entry form and departure is close"
+seo_title: "Incorrect passport number on travel form before departure"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -33,7 +34,7 @@ tags:
   - "flight soon passport number wrong"
   - "train soon passport details wrong"
   - "holiday soon passport form mistake"
-last_reviewed: "2026-05-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-16"
 ---
 

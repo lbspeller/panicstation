@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a partner repeatedly pressures you for sex when you cannot easily leave"
+seo_title: "Partner repeatedly pressuring you for sex"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "when relying on partner for lift"
   - "at partners home"
   - "after saying no"
-last_reviewed: "2026-04-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-27"
 ---
 

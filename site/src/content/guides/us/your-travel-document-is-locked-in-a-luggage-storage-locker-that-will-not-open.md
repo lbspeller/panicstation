@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your travel document is locked in a luggage storage locker that will not open"
+seo_title: "Travel document locked in a broken storage locker"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "airport storage locker problem"
   - "train station locker problem"
   - "abroad without passport access"
-last_reviewed: "2026-07-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-04"
 ---
 

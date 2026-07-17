@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have a fever with a stiff neck or sensitivity to light"
+seo_title: "Fever with stiff neck or sensitivity to light"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "stiff nek with fever"
   - "adult fever stiff neck"
   - "child fever stiff neck"
-last_reviewed: "2026-06-15"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-15"
 ---
 

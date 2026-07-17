@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you realise your paycheck or wages are short for the last pay period"
+seo_title: "Paycheck or wages are short for last pay period"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "last payday was wrong"
   - "new job paycheck short"
   - "hourly worker underpaid"
-last_reviewed: "2026-06-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-19"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone is trying to follow you or others into your secure building"
+seo_title: "Someone trying to follow you into your building"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "tailgaiting into apartment building"
   - "keyfob door followed"
   - "shared apartment building entrance"
-last_reviewed: "2026-06-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-23"
 ---
 

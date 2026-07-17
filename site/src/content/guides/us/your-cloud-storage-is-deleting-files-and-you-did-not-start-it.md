@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your cloud storage is deleting files and you did not start it"
+seo_title: "Cloud storage deleting files unexpectedly"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "dropbox deleted files"
   - "cloud stoarge deleting files"
   - "cloud files disapearing"
-last_reviewed: "2026-06-21"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-21"
 ---
 

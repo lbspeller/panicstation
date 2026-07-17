@@ -1,5 +1,6 @@
 ---
 title: "What to do if… many conflicted copy versions of your files appear across your folders overnight"
+seo_title: "Many conflicted copy files appear in folders"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "conficted copy files"
   - "duplciate files overnight"
   - "many file versions overnight"
-last_reviewed: "2026-06-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-03"
 ---
 

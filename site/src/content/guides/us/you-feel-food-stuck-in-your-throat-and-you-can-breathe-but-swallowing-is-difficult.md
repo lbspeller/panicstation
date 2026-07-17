@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you feel food stuck in your throat and you can breathe but swallowing is difficult"
+seo_title: "Food stuck in throat but can breathe"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "after eating bread"
   - "can breathe but cant swallow"
   - "swollowing food stuck"
-last_reviewed: "2026-06-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-14"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive an invoice or bill for a purchase or service you did not order"
+seo_title: "Unexpected invoice or bill for unordered items"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "wrong debt notice"
   - "invioce i never ordered"
   - "recieved invoice i never ordered"
-last_reviewed: "2026-06-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-22"
 ---
 

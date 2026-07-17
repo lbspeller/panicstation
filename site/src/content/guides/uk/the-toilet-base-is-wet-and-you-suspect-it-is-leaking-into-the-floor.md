@@ -1,5 +1,6 @@
 ---
 title: "What to do if… the toilet base is wet and you suspect it is leaking into the floor"
+seo_title: "Toilet base is wet or leaking into floor"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "clean water or foul water"
   - "tenant toilet leak"
   - "flat toilet leak"
-last_reviewed: "2026-05-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-02"
 ---
 

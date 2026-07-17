@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are told you must submit to an official drug or alcohol test by a deadline and logistics are unclear"
+seo_title: "Official drug or alcohol test instructions unclear"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "official test notice by email"
   - "drug test deadine unclear"
   - "alcohol test logistcs unclear"
-last_reviewed: "2026-06-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-11"
 ---
 

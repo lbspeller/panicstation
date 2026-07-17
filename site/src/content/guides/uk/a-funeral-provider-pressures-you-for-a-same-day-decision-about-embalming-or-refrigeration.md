@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a funeral provider pressures you for a same-day decision about embalming or refrigeration"
+seo_title: "Funeral provider pressuring for same-day embalming decision"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -34,7 +35,7 @@ tags:
   - "overseas transport embalming confusion"
   - "embaming decision pressure"
   - "funeral refridgeration pressure"
-last_reviewed: "2026-04-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-26"
 ---
 

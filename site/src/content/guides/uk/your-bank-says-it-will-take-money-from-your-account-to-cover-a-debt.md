@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your bank says it will take money from your account to cover a debt"
+seo_title: "Bank says it will take money for debt"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "england and wales bank debt"
   - "scotland bank debt worry"
   - "northern ireland bank debt worry"
-last_reviewed: "2026-05-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-22"
 ---
 

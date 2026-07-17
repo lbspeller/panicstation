@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a text or email demanding immediate payment for a fine or fee"
+seo_title: "Urgent text or email demanding payment for a fine"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "after clicking payment link"
   - "text message from unknown number"
   - "email demanding immediate payment"
-last_reviewed: "2026-05-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-18"
 ---
 

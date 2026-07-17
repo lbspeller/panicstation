@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you realise you may have overstayed your permission to stay by mistake"
+seo_title: "Realised you may have overstayed your permission to stay"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -43,7 +44,7 @@ tags:
   - "family visa overstay"
   - "visa expird by mistake"
   - "permision expired by mistake"
-last_reviewed: "2026-05-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-17"
 ---
 

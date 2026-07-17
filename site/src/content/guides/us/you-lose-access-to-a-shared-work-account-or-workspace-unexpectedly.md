@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you lose access to a shared work account or workspace unexpectedly"
+seo_title: "Unexpected loss of work account or workspace access"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "contractor workspace access lost"
   - "workspce access lost"
   - "permissons changed without warning"
-last_reviewed: "2026-06-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-17"
 ---
 

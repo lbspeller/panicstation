@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you need to access a deceased person's locked safety deposit box"
+seo_title: "Accessing a deceased person's locked safety deposit box"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "old bank box found"
   - "safe deposit box key mising"
   - "safety deposite box"
-last_reviewed: "2026-06-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-16"
 ---
 

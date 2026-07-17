@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have a fever after starting an immune-suppressing medication"
+seo_title: "Fever after starting immune-suppressing medication"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "fever soon after new medicine"
   - "imunosuppressant fever worry"
   - "immunosupressant fever worry"
-last_reviewed: "2026-05-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-09"
 ---
 

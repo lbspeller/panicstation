@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a large tree limb is hanging over your roof after a storm"
+seo_title: "Large tree limb hanging over roof after storm"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "storm tree limb near driveway"
   - "tree lim over roof"
   - "tree brance over roof"
-last_reviewed: "2026-05-31"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-31"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone you care about is taken into custody and you need to arrange support or collect belongings"
+seo_title: "Support and belongings for someone in custody"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "custody property in uk"
   - "belongings colect from police"
   - "police custdy belongings"
-last_reviewed: "2026-05-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-02"
 ---
 

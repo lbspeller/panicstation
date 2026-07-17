@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a property tax delinquency notice because your escrow payments were not applied"
+seo_title: "Property tax delinquency notice for unpaid escrow"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "northern ireland rates arrears"
   - "mortgage company payment issue"
   - "payment service council tax issue"
-last_reviewed: "2026-05-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-18"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a friend seems suddenly disoriented or drugged at a social event and you fear they are unsafe"
+seo_title: "Friend suddenly disoriented or drugged at an event"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "drugged or drunk confusion"
   - "panic at a nightclub"
   - "party with unsafe person"
-last_reviewed: "2026-04-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-26"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your vehicle security system or immobiliser prevents the engine from starting"
+seo_title: "Vehicle security system prevents engine from starting"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "late night car wont start"
   - "imobilizer no start"
   - "key fob not reconized"
-last_reviewed: "2026-07-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-04"
 ---
 

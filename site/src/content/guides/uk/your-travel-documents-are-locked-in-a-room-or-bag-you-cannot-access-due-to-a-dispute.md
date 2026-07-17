@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your travel documents are locked in a room or bag you cannot access due to a dispute"
+seo_title: "Travel documents locked in room or bag due to dispute"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "british traveller abroad dispute"
   - "passport inacessible abroad"
   - "travle documents locked away"
-last_reviewed: "2026-05-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-28"
 ---
 

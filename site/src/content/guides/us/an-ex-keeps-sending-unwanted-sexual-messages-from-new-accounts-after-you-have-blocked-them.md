@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an ex keeps sending unwanted sexual messages from new accounts after you have blocked them"
+seo_title: "Ex sending unwanted sexual messages after being blocked"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "sexual mesages from ex"
   - "online harrassment by ex"
   - "ex contacts me after no contact"
-last_reviewed: "2026-06-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-03"
 ---
 

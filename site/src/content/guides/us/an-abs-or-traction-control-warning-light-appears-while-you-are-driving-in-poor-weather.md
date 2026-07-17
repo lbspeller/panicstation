@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an ABS or traction-control warning light appears while you are driving in poor weather"
+seo_title: "ABS or traction-control warning in poor weather"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "roadside in rain snow or ice"
   - "traction controll light on"
   - "abs ligth on"
-last_reviewed: "2026-06-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-02"
 ---
 

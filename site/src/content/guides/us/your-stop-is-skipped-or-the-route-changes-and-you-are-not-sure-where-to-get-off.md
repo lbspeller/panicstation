@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your stop is skipped or the route changes and you are not sure where to get off"
+seo_title: "Missed stop or unexpected transit route change"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "late night transit"
   - "unfamiliar area"
   - "anxious on transit"
-last_reviewed: "2026-07-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-04"
 ---
 

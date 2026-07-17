@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your bike lights will not turn on and you are worried about riding in the dark"
+seo_title: "Bike lights not working before dark"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "streetlights no bike lights"
   - "bike lites not working"
   - "bicycle lite dead"
-last_reviewed: "2026-05-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-23"
 ---
 

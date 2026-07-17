@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an upstairs floor is bowing or sagging and you suspect water damage"
+seo_title: "Upstairs floor bowing or sagging with water damage"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "bowed flor upstairs"
   - "water damge under floor"
   - "rented home bowed floor"
-last_reviewed: "2026-04-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-29"
 ---
 

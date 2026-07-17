@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you sent money to the wrong person or the wrong account details"
+seo_title: "Sent money to the wrong person or account"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "business wire transfer mistake"
   - "instant payment mistake"
   - "large payment wrong details"
-last_reviewed: "2026-06-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-19"
 ---
 

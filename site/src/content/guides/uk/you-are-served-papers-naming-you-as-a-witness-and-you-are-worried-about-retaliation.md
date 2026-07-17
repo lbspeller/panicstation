@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are served papers naming you as a witness and you are worried about retaliation"
+seo_title: "Served as a witness and worried about retaliation"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "wrong witness papers"
   - "witness paperes served"
   - "witness sumons arrived"
-last_reviewed: "2026-05-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-05"
 ---
 

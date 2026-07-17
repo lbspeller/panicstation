@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked for multiple certified copies of a death certificate and do not know why"
+seo_title: "Asked for multiple certified death certificates"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "certified copy meaning"
   - "death certifcate copies"
   - "death cerificate copies"
-last_reviewed: "2026-05-07"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-07"
 ---
 

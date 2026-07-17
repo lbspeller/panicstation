@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are being pressured to authorize a cremation or burial by a fixed date"
+seo_title: "Pressured to authorize cremation or burial by a deadline"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "designated funeral agent is unclear"
   - "cremtion date pressure"
   - "buriel date pressure"
-last_reviewed: "2026-06-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-10"
 ---
 

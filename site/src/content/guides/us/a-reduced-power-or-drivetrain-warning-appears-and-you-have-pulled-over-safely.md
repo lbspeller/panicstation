@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a reduced power or drivetrain warning appears and you have pulled over safely"
+seo_title: "Reduced power or drivetrain warning after pulling over"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "drivetrain warning at night"
   - "drivtrain warning appears"
   - "reduced powr warning"
-last_reviewed: "2026-06-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-01"
 ---
 

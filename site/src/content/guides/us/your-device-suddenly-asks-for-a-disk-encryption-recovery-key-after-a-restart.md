@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your device suddenly asks for a disk-encryption recovery key after a restart"
+seo_title: "Device asks for disk encryption recovery key"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "not sure if recovery key scam"
   - "bitlockr recovery key screen"
   - "filevault recoverey key prompt"
-last_reviewed: "2026-06-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-28"
 ---
 

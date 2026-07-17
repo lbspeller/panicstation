@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice spreading redness or red streaks around a cut"
+seo_title: "Spreading redness or red streaks around a cut"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "rednes spreading from cut"
   - "diabetes and infected cut"
   - "immunocompromised infected cut"
-last_reviewed: "2026-06-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-18"
 ---
 

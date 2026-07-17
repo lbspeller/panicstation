@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you think you were filmed or photographed in a sexual situation without your consent"
+seo_title: "Filmed or photographed in a sexual situation without consent"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "sextorion threat"
   - "under 18 images"
   - "online account threats"
-last_reviewed: "2026-06-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-25"
 ---
 

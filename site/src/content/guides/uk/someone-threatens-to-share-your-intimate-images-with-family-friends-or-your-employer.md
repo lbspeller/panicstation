@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone threatens to share your intimate images with family, friends, or your employer"
+seo_title: "Threatened with sharing intimate images"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "under 18 image threat"
   - "adult sextortion threat"
   - "workplace exposure threat"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-01"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your travel companion loses their passport and you need to manage bookings and plans immediately"
+seo_title: "Travel companion lost passport abroad"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "lost passsport overseas"
   - "traveling with one passport missing"
   - "abroad with no passport"
-last_reviewed: "2026-07-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-04"
 ---
 

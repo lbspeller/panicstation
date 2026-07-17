@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a wasp or hornet nest is forming near a door or window you need to use"
+seo_title: "Wasp or hornet nest near a door or window"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "wasp nest by wondow"
   - "hornet nest near dor"
   - "insects nesting in window frame"
-last_reviewed: "2026-06-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-02"
 ---
 

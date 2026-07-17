@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a returned payment fee pushes your account into a negative balance"
+seo_title: "Returned payment fee caused negative account balance"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "small shortfall bank charge"
   - "paymet returned fee"
   - "overdrawed after bank fee"
-last_reviewed: "2026-04-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-28"
 ---
 

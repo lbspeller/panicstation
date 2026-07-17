@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have a new severe headache with a droopy eyelid or unequal pupils"
+seo_title: "New severe headache with droopy eyelid or unequal pupils"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "anisocoria or normal pupils"
   - "anisocoria misspelled aniscoria"
   - "unequal pupils misspelled uneven pupills"
-last_reviewed: "2026-06-15"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-15"
 ---
 

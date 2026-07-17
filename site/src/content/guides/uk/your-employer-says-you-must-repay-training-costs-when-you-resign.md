@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your employer says you must repay training costs when you resign"
+seo_title: "Employer demands repayment for training after resignation"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "before final pay"
   - "trainng costs leaving job"
   - "payrole training deduction"
-last_reviewed: "2026-05-07"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-07"
 ---
 

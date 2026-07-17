@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you suspect you are being followed while driving and you are approaching home"
+seo_title: "Suspecting you are being followed while driving"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "quiet road near home"
   - "follwed while driving"
   - "tailled in car"
-last_reviewed: "2026-05-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-22"
 ---
 

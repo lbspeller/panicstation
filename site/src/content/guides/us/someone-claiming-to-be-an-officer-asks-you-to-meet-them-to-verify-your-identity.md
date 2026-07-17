@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone claiming to be an officer asks you to meet them to verify your identity"
+seo_title: "Someone claiming to be an officer asks to meet"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "federal agent identity request"
   - "local police meeting request"
   - "officer at my door"
-last_reviewed: "2026-06-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-04"
 ---
 

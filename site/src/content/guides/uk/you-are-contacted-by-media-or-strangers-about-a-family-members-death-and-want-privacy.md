@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are contacted by media or strangers about a family member’s death and want privacy"
+seo_title: "Unwanted media or stranger contact after a death"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "worried about doxing after death"
   - "doxxing after bereavement"
   - "jornalists contacting grieving family"
-last_reviewed: "2026-05-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-05"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you accidentally permanently delete an important folder and need to recover it today"
+seo_title: "Accidentally permanently deleted an important folder"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "permanantly deleted folder needed today"
   - "folder deleted on work account"
   - "folder deleted on school account"
-last_reviewed: "2026-06-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-06"
 ---
 

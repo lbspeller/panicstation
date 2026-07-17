@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you hit a pothole and your car feels unsafe or a warning light appears"
+seo_title: "Hit a pothole and car feels unsafe or warning light appears"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -33,7 +34,7 @@ tags:
   - "tpms sensor confusion"
   - "rim or tire damage"
   - "tire presure light"
-last_reviewed: "2026-06-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-16"
 ---
 

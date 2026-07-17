@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your pulse oximeter reading is unexpectedly low"
+seo_title: "Pulse oximeter reading is unexpectedly low"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "recent birth low oxygen"
   - "false low oxymeter reading"
   - "oxometer reading low"
-last_reviewed: "2026-05-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-27"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have diarrhea and are starting to show signs of dehydration"
+seo_title: "Diarrhea and signs of dehydration"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "child diarrhoea dehydration"
   - "pregnant diarrhoea dehydration"
   - "weak immune system diarrhoea"
-last_reviewed: "2026-05-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-13"
 ---
 

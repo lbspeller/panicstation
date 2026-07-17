@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a hospital asks you to identify a deceased relative"
+seo_title: "Hospital request to identify a deceased relative"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -34,7 +35,7 @@ tags:
   - "hospital call after unexpected death"
   - "hospitial says identify relative"
   - "decsased relative identification request"
-last_reviewed: "2026-05-31"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-31"
 ---
 

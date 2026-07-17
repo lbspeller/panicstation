@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you find a ransom note or encrypted files on your computer"
+seo_title: "Ransom note or encrypted files on computer"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "computer compromised at home"
   - "ransome note file"
   - "readme file appeard"
-last_reviewed: "2026-05-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-11"
 ---
 

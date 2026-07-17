@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your account security questions or recovery details were changed without your permission"
+seo_title: "Account security questions or recovery details changed"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "hacked or locked account"
   - "acccount security changed"
   - "secuirty questions changed"
-last_reviewed: "2026-05-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-22"
 ---
 

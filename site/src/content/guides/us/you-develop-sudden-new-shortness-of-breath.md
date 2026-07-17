@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you develop sudden, new shortness of breath"
+seo_title: "Sudden, new shortness of breath"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "sudden shortnes of breath"
   - "new breathlesness"
   - "new breathlessness not improving"
-last_reviewed: "2026-06-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-13"
 ---
 

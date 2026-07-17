@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive an official notice that your benefits may be stopped due to an investigation"
+seo_title: "Official notice that benefits may be stopped"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "benefits overpayment confusion"
   - "benifits investigation letter"
   - "benifit fraud letter"
-last_reviewed: "2026-05-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-19"
 ---
 

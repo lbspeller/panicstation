@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you discover a visa or permit has a typo in your name or passport number"
+seo_title: "Visa or permit has a typo or wrong number"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "my permit typo was found in america"
   - "visa name mispelled"
   - "visa pasport number wrong"
-last_reviewed: "2026-06-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-13"
 ---
 

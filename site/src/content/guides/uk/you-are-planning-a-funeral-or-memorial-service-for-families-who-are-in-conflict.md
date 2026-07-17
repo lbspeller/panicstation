@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are planning a funeral or memorial service for families who are in conflict"
+seo_title: "Managing funeral planning with conflicting families"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "after a death family conflict"
   - "service planning under pressure"
   - "two households bereavement conflict"
-last_reviewed: "2026-05-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-04"
 ---
 

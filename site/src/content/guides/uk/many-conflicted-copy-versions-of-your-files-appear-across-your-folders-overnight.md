@@ -1,5 +1,6 @@
 ---
 title: "What to do if… many conflicted copy versions of your files appear across your folders overnight"
+seo_title: "Many conflicted copy files appear in folders"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "sync error not ransomware"
   - "confliced copy files"
   - "duplicated fiels overnight"
-last_reviewed: "2026-04-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-30"
 ---
 

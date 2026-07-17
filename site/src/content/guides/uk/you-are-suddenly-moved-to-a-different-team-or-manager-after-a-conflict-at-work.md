@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are suddenly moved to a different team or manager after a conflict at work"
+seo_title: "Suddenly moved to a new team or manager"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "informal complaint then moved"
   - "transfered after work conflict"
   - "new manger after conflict"
-last_reviewed: "2026-05-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-05"
 ---
 

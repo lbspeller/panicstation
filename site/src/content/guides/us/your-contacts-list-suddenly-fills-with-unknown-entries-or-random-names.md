@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your contacts list suddenly fills with unknown entries or random names"
+seo_title: "Contacts list filled with unknown names"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "after adding work email"
   - "after installing contacts app"
   - "after syncing email account"
-last_reviewed: "2026-06-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-28"
 ---
 

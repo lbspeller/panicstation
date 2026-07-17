@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone threatens to show up where you are and gives details that suggest they can find you"
+seo_title: "Threatened by someone who knows your location"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "threat at work"
   - "threat at school"
   - "threat while away from home"
-last_reviewed: "2026-06-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-06"
 ---
 

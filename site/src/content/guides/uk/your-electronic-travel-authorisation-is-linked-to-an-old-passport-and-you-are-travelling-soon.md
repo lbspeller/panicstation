@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your electronic travel authorisation is linked to an old passport and you are travelling soon"
+seo_title: "Travel authorisation linked to an old passport"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -34,7 +35,7 @@ tags:
   - "uk transit eta mismatch"
   - "eletronic travel authorisation"
   - "travel autorisation old passport"
-last_reviewed: "2026-05-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-17"
 ---
 

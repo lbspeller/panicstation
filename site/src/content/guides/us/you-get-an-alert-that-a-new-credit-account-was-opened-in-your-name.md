@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you get an alert that a new credit account was opened in your name"
+seo_title: "Alert about new credit account in your name"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "id theft credit alert"
   - "identitytheft credit account"
   - "fraudlent credit account"
-last_reviewed: "2026-06-15"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-15"
 ---
 

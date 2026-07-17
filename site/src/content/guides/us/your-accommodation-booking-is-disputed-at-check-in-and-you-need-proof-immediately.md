@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your accommodation booking is disputed at check-in and you need proof immediately"
+seo_title: "Accommodation booking disputed at check-in"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "reservaton not found"
   - "acommodation booking missing"
   - "late night check-in problem"
-last_reviewed: "2026-06-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-25"
 ---
 

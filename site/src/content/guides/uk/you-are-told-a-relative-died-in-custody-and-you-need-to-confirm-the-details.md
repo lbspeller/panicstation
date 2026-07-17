@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are told a relative died in custody and you need to confirm the details"
+seo_title: "Confirming a relative's death in custody"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "custudy death confusion"
   - "detention notifcation confusion"
   - "uk custody death"
-last_reviewed: "2026-05-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-06"
 ---
 

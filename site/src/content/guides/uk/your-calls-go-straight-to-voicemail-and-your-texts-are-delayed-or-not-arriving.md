@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your calls go straight to voicemail and your texts are delayed or not arriving"
+seo_title: "Phone not receiving calls or texts"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "sim card probem"
   - "after changing sim"
   - "after moving location"
-last_reviewed: "2026-05-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-23"
 ---
 

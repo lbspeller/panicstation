@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have sudden severe ear pain with fever and swelling behind the ear"
+seo_title: "Severe ear pain with fever and swelling behind ear"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "mastoid swelling after ear infection"
   - "mastoditis symptoms"
   - "mastoiditus symptoms"
-last_reviewed: "2026-06-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-16"
 ---
 

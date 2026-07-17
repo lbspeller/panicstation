@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are unsure about letting a young child attend a funeral viewing or visitation"
+seo_title: "Unsure about a child attending a funeral viewing"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "visitiation with young children"
   - "funral viewing for a child"
   - "unsure whether children should attend"
-last_reviewed: "2026-06-07"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-07"
 ---
 

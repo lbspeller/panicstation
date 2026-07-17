@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a wire transfer you sent is marked pending and you need to stop it"
+seo_title: "Wire transfer marked pending and needs stopping"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "bank tranfer pending"
   - "large bank transfer pending"
   - "urgent house deposit transfer"
-last_reviewed: "2026-04-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-29"
 ---
 

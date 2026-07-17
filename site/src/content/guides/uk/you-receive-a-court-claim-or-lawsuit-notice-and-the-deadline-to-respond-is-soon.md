@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a court claim or lawsuit notice and the deadline to respond is soon"
+seo_title: "Court claim or lawsuit notice with a deadline"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "business claim papers received"
   - "claim sent by email"
   - "claim sent by post"
-last_reviewed: "2026-05-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-17"
 ---
 

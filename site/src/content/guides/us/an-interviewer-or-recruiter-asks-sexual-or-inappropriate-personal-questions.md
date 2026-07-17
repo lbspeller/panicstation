@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an interviewer or recruiter asks sexual or inappropriate personal questions"
+seo_title: "Interviewer or recruiter asks sexual or inappropriate questions"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "staffing agency recruiter sexual questions"
   - "recruiter asked innapropriate questions"
   - "sexual harasment in interview"
-last_reviewed: "2026-06-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-03"
 ---
 

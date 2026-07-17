@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you feel like someone is following you while you are shopping"
+seo_title: "Feeling followed while shopping"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "with a child in shops"
   - "shaddowing me in shops"
   - "being folowed in shops"
-last_reviewed: "2026-05-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-10"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are told HR needs to discuss a concern and asks for an immediate call"
+seo_title: "Urgent HR call request with no details"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "hr call while at work"
   - "immedate hr call"
   - "hr concern discusion"
-last_reviewed: "2026-06-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-10"
 ---
 

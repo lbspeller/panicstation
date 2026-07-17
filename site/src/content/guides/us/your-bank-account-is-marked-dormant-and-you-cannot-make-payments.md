@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your bank account is marked dormant and you cannot make payments"
+seo_title: "Bank account marked dormant and payments blocked"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "old account still receiving money"
   - "dormat bank account"
   - "unclamed property notice"
-last_reviewed: "2026-06-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-25"
 ---
 

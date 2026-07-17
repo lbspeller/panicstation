@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your authenticator app shows accounts missing after an update or phone change"
+seo_title: "Authenticator app accounts missing after phone change"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -43,7 +44,7 @@ tags:
   - "after factory reset"
   - "after number transfer alert"
   - "old phone not wiped"
-last_reviewed: "2026-06-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-25"
 ---
 

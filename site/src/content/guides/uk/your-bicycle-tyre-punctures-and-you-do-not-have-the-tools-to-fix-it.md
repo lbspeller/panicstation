@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your bicycle tyre punctures and you do not have the tools to fix it"
+seo_title: "Bicycle tyre puncture with no tools"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "puncture at night"
   - "puncture in the rain"
   - "stuck on cycle commute"
-last_reviewed: "2026-05-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-23"
 ---
 

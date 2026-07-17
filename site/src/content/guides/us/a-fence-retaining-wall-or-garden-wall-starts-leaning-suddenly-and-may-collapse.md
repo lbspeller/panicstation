@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a fence, retaining wall, or garden wall starts leaning suddenly and may collapse"
+seo_title: "Fence or wall leaning suddenly and may collapse"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "boundary wall leaning"
   - "retaning wall leaning"
   - "garden wall colapse"
-last_reviewed: "2026-05-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-30"
 ---
 

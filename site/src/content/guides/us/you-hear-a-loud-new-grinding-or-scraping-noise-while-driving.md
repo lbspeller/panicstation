@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you hear a loud new grinding or scraping noise while driving"
+seo_title: "Loud grinding or scraping noise while driving"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "fluid leak after scraping noise"
   - "scrapping noise under car"
   - "brake griding noise"
-last_reviewed: "2026-06-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-16"
 ---
 

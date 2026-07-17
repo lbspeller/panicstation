@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are unsure about viewing the body of a loved one and family members disagree"
+seo_title: "Unsure about viewing a body and family disagreeing"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "mortuary wieving worry"
   - "sudden death viewing decision"
   - "before funeral family disagreement"
-last_reviewed: "2026-05-08"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-08"
 ---
 

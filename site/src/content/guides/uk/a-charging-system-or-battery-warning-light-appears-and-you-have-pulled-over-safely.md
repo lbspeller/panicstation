@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a charging-system or battery warning light appears and you have pulled over safely"
+seo_title: "Charging system or battery warning light while stopped"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "night battery warning"
   - "pulled over safely"
   - "stranded with battery light"
-last_reviewed: "2026-04-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-25"
 ---
 

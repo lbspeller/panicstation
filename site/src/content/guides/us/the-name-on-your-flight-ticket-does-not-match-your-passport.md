@@ -1,5 +1,6 @@
 ---
 title: "What to do if… the name on your flight ticket does not match your passport"
+seo_title: "Flight ticket name does not match passport"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "domestic flight id mismatch"
   - "passprot name mismatch ticket"
   - "tickt name mismatch passport"
-last_reviewed: "2026-06-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-06"
 ---
 

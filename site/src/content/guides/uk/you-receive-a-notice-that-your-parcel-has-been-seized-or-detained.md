@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a notice that your parcel has been seized or detained"
+seo_title: "Parcel seized or detained notice"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "prohibited item parcel"
   - "controlled goods parcel"
   - "parcel from overseas"
-last_reviewed: "2026-05-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-18"
 ---
 

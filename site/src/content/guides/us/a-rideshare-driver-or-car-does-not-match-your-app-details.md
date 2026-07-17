@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a rideshare driver or car does not match your app details"
+seo_title: "Rideshare driver or car does not match app details"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "rideshare vehical mismatch"
   - "different car says rideshare pickup"
   - "wrong driver says it is your ride"
-last_reviewed: "2026-06-12"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-12"
 ---
 

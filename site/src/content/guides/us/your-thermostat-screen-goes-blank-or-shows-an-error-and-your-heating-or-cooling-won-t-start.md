@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your thermostat screen goes blank or shows an error and your heating or cooling won’t start"
+seo_title: "Thermostat screen blank or heating and cooling not starting"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "carbon monoxide alarm with furnace"
   - "winter thermostat blank"
   - "summer ac not starting"
-last_reviewed: "2026-07-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-04"
 ---
 

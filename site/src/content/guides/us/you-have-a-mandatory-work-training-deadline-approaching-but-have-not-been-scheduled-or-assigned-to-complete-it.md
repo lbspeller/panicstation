@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have a mandatory work training deadline approaching but have not been scheduled or assigned to complete it"
+seo_title: "Mandatory work training deadline with no assignment"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "manditory training deadline"
   - "complience training missing"
   - "union represented workplace"
-last_reviewed: "2026-06-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-19"
 ---
 

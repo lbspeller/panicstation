@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you need to notify your employer or school about a death in your family"
+seo_title: "Notifying work or school about a family death"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "funeral time off"
   - "compasionate leave"
   - "berevement leave"
-last_reviewed: "2026-05-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-14"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you see a large cash withdrawal on your account but you still have your card"
+seo_title: "Unknown cash withdrawal while you have your card"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "out of state atm withdrawal"
   - "atm withdrwal not mine"
   - "unkown cash withdrawal"
-last_reviewed: "2026-06-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-23"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you cannot access the home of a person who died and need to retrieve essential items"
+seo_title: "Cannot access home of person who died"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "out of state family locked out"
   - "deceasd home access blocked"
   - "bereavment home access problem"
-last_reviewed: "2026-06-12"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-12"
 ---
 

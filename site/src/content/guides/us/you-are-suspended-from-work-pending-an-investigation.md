@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are suspended from work pending an investigation"
+seo_title: "Suspended from work pending an investigation"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "remote worker suspended from work"
   - "retaliation fear after complaint"
   - "discrimination complaint investigation"
-last_reviewed: "2026-06-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-10"
 ---
 

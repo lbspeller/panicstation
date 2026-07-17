@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are being treated unfairly at work after raising a complaint or reporting wrongdoing"
+seo_title: "Workplace retaliation after raising a complaint"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "whistleblower complaint confusion"
   - "retaliation or performance issue"
   - "after reporting safety concerns"
-last_reviewed: "2026-06-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-24"
 ---
 

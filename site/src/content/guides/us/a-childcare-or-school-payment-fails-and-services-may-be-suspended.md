@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a childcare or school payment fails and services may be suspended"
+seo_title: "Childcare or school payment failed and services at risk"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "after school pickup payment issue"
   - "field trip fee payment failed"
   - "school activity fee unpaid"
-last_reviewed: "2026-05-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-30"
 ---
 

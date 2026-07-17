@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your router shows many unknown devices connected to your network"
+seo_title: "Unknown devices connected to your router"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "uk broadband unknown devices"
   - "wifi haked unknown devices"
   - "unkown devices on router"
-last_reviewed: "2026-05-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-28"
 ---
 

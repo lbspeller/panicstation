@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a buy-now-pay-later payment is about to retry and you cannot afford it"
+seo_title: "Buy now pay later payment retry and no funds"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "debit card retry today"
   - "essential bills at risk"
   - "uk bnpl payment problem"
-last_reviewed: "2026-04-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-25"
 ---
 

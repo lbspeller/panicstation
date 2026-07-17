@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your phone backup fails and you are about to reset or replace the device"
+seo_title: "Phone backup failed before reset or replacement"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "trade-in requires reset"
   - "repair shop wants wipe"
   - "switching phones today"
-last_reviewed: "2026-07-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-01"
 ---
 

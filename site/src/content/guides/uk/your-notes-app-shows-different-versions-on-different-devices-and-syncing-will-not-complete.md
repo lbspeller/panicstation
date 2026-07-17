@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your notes app shows different versions on different devices and syncing will not complete"
+seo_title: "Notes app sync conflict and different versions"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "ipad notes mismatch"
   - "note app not synching"
   - "notes app syncng stuck"
-last_reviewed: "2026-05-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-26"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a loved one dies and their workplace asks you to collect their personal belongings"
+seo_title: "Collecting a deceased loved one's workplace belongings"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "out of state workplace belongings"
   - "workplace belonings after a death"
   - "deceased employee possesions at work"
-last_reviewed: "2026-05-31"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-31"
 ---
 

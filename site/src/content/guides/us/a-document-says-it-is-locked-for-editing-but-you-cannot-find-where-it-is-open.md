@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a document says it is locked for editing but you cannot find where it is open"
+seo_title: "Document says locked for editing but not open"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "mac document locked"
   - "documment locked for editing"
   - "file loked by another session"
-last_reviewed: "2026-05-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-30"
 ---
 

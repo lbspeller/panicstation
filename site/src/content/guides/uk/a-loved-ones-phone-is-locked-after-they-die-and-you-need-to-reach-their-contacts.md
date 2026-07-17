@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a loved one’s phone is locked after they die and you need to reach their contacts"
+seo_title: "Loved one's phone locked after death"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "phone lokced after death"
   - "executor needs phone contacts"
   - "next of kin phone access"
-last_reviewed: "2026-04-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-26"
 ---
 

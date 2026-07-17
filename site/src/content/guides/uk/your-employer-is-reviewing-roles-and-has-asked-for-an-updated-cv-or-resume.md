@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your employer is reviewing roles and has asked for an updated CV or resume"
+seo_title: "Employer asks for updated CV or resume during review"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "cv or redeployment"
   - "pregnant during role review"
   - "maternity leave role review"
-last_reviewed: "2026-05-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-06"
 ---
 

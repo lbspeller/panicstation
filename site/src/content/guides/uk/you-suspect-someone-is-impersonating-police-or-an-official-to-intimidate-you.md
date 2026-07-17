@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you suspect someone is impersonating police or an official to intimidate you"
+seo_title: "Suspecting someone is impersonating police or officials"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "fake autority figure"
   - "doorstep official threat"
   - "phone call official threat"
-last_reviewed: "2026-05-21"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-21"
 ---
 

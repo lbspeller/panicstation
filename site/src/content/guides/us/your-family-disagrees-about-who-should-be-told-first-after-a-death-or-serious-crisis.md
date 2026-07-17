@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your family disagrees about who should be told first after a death or serious crisis"
+seo_title: "Family disagreement about who to tell first"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "estranged relatives and family news"
   - "famly disagreement about who to tell"
   - "bereavment family disagreement"
-last_reviewed: "2026-06-07"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-07"
 ---
 

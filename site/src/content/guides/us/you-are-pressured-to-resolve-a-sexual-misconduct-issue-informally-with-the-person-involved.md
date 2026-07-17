@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are pressured to resolve a sexual misconduct issue informally with the person involved"
+seo_title: "Pressured to resolve sexual misconduct informally"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "supervisor involved in misconduct issue"
   - "student asked to meet employee"
   - "power imbalance sexual misconduct"
-last_reviewed: "2026-06-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-11"
 ---
 

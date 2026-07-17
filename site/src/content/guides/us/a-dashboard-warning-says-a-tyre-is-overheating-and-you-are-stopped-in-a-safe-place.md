@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a dashboard warning says a tyre is overheating and you are stopped in a safe place"
+seo_title: "Dashboard warning says tire is overheating"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "tire warning in hot weather"
   - "tire overheeting warning"
   - "dashboard tyre temperture warning"
-last_reviewed: "2026-05-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-30"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you suspect a partner is tampering with your contraception or birth control"
+seo_title: "Suspecting partner is tampering with birth control"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "condom tampreing"
   - "unsafe contraception situation"
   - "private sexual health worry"
-last_reviewed: "2026-05-21"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-21"
 ---
 

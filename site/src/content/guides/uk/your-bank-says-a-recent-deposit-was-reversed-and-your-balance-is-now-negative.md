@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your bank says a recent deposit was reversed and your balance is now negative"
+seo_title: "Bank deposit reversed and account balance negative"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "direct debit due soon"
   - "cheque paid in recently"
   - "possible bank error"
-last_reviewed: "2026-05-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-23"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an ABS or traction-control warning light appears while you are driving in poor weather"
+seo_title: "ABS or traction-control warning in poor weather"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "traction controll warning"
   - "motorway warning light stopped"
   - "poor visibility car warning"
-last_reviewed: "2026-04-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-29"
 ---
 

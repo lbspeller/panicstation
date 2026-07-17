@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to consent to an autopsy and feel overwhelmed"
+seo_title: "Asked to consent to an autopsy"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "after hospital death autopsy question"
   - "after sudden death autopsy question"
   - "religious concern about autopsy"
-last_reviewed: "2026-06-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-11"
 ---
 

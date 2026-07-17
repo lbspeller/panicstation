@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you lose access to your authenticator app and cannot log in to your financial accounts"
+seo_title: "Lost authenticator app and locked out of banking"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "bank acount locked"
   - "bill due bank locked"
   - "travel banking login blocked"
-last_reviewed: "2026-05-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-14"
 ---
 

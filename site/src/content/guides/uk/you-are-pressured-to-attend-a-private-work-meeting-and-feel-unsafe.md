@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are pressured to attend a private work meeting and feel unsafe"
+seo_title: "Pressured to attend a private work meeting"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "witness at work meeting"
   - "one to one meeeting"
   - "privte meeting at work"
-last_reviewed: "2026-05-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-05"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your passport is flagged as cancelled or invalid in a database while you have it"
+seo_title: "Passport flagged as cancelled or invalid in database"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "urgent travel passport problem"
   - "abroad passport invalid"
   - "airport passport database issue"
-last_reviewed: "2026-05-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-27"
 ---
 

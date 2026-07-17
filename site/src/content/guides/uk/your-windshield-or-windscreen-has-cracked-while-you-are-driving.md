@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your windshield or windscreen has cracked while you are driving"
+seo_title: "Windshield or windscreen cracked while driving"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "wind screen crack"
   - "motorway windscreen crack"
   - "fast road windscreen crack"
-last_reviewed: "2026-05-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-29"
 ---
 

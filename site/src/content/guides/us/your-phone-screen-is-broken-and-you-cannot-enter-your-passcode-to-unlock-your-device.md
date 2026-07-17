@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your phone screen is broken and you cannot enter your passcode to unlock your device"
+seo_title: "Broken phone screen and cannot unlock device"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -42,7 +43,7 @@ tags:
   - "iphone broken screen"
   - "android broken screen"
   - "phone in hand"
-last_reviewed: "2026-07-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-02"
 ---
 

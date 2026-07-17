@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you suspect a hidden camera in a private space"
+seo_title: "Suspecting a hidden camera in a private space"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "camra in changing room"
   - "hotel room hidden camera"
   - "rented room surveillance worry"
-last_reviewed: "2026-05-21"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-21"
 ---
 

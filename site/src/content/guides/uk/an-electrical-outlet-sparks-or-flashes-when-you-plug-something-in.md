@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an electrical outlet sparks or flashes when you plug something in"
+seo_title: "Electrical outlet sparks or flashes when plugging in"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "loose socket sparking"
   - "soket sparks when plugging in"
   - "plug sparks when pluging in"
-last_reviewed: "2026-04-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-29"
 ---
 

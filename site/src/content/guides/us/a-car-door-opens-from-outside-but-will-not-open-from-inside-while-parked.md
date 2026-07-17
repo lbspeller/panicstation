@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a car door opens from outside but will not open from inside while parked"
+seo_title: "Car door opens from outside but not from inside"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "parked car door problem"
   - "rental car door stuck"
   - "child in back seat stuck"
-last_reviewed: "2026-05-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-29"
 ---
 

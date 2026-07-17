@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a buy-now-pay-later payment is about to retry and you cannot afford it"
+seo_title: "Buy now pay later payment retry and no funds"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "essentials at risk"
   - "buy now paylater retry"
   - "instalment fee warning"
-last_reviewed: "2026-05-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-29"
 ---
 

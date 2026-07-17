@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your app store account is locked for suspicious purchases and you need access urgently"
+seo_title: "App store account locked for suspicious purchases"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "banking app cannot download"
   - "app stor account locked"
   - "suspcious purchases on app store"
-last_reviewed: "2026-05-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-22"
 ---
 

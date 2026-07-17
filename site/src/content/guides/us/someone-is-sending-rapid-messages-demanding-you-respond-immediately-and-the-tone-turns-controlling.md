@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone is sending rapid messages demanding you respond immediately and the tone turns controlling"
+seo_title: "Someone sending rapid, controlling messages"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -42,7 +43,7 @@ tags:
   - "urgent texts mistaken for concern"
   - "contolling texts from someone"
   - "nonstop mesages from someone"
-last_reviewed: "2026-06-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-05"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your email messages start auto-archiving or skipping your inbox unexpectedly"
+seo_title: "Email messages skipping inbox or auto-archiving"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "phone mail app sync issue"
   - "emials missing from inbox"
   - "messeges skipping inbox"
-last_reviewed: "2026-04-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-30"
 ---
 

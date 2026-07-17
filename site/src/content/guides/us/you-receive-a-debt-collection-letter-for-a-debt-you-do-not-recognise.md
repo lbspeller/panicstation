@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a debt collection letter for a debt you do not recognise"
+seo_title: "Debt collection letter for unknown debt"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "usa debt collection letter"
   - "debt colector letter"
   - "colletion notice not mine"
-last_reviewed: "2026-06-20"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-20"
 ---
 

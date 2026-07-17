@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a spouse with dementia keeps asking for their partner who has died"
+seo_title: "Spouse with dementia asking for deceased partner"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "care home spouse died"
   - "family disagreement telling dementia"
   - "demensha partner died"
-last_reviewed: "2026-04-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-28"
 ---
 

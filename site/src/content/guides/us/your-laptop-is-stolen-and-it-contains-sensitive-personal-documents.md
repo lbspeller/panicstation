@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your laptop is stolen and it contains sensitive personal documents"
+seo_title: "Stolen laptop with sensitive personal documents"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "stolen laptop with unencrypted files"
   - "stolen laptop with social security number"
   - "stolen laptop from car"
-last_reviewed: "2026-06-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-30"
 ---
 

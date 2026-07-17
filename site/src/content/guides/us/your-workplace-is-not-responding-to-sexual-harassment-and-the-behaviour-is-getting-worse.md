@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your workplace is not responding to sexual harassment and the behaviour is getting worse"
+seo_title: "Workplace sexual harassment escalating and ignored"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "small company harassment delayed"
   - "supervisor harassment escalating"
   - "night shift workplace harassment"
-last_reviewed: "2026-07-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-05"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an accommodation asks to keep your passport overnight and you feel uncomfortable"
+seo_title: "Accommodation asks to keep your passport overnight"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "pasport held overnight"
   - "accomodation wants passport"
   - "travel document held by reception"
-last_reviewed: "2026-06-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-02"
 ---
 

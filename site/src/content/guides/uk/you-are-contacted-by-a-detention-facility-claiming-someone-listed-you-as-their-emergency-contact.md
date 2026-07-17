@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are contacted by a detention facility claiming someone listed you as their emergency contact"
+seo_title: "Detention facility calls about an emergency contact"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "police custody call uk"
   - "detension facility contacted me"
   - "emergency contct prison call"
-last_reviewed: "2026-05-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-04"
 ---
 

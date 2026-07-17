@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a threat that someone will send police or emergency services to your address as a prank"
+seo_title: "Threat of a hoax emergency call to your address"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "gaming dispute swatting threat"
   - "livestream swatting threat"
   - "apartment swatting threat"
-last_reviewed: "2026-06-21"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-21"
 ---
 

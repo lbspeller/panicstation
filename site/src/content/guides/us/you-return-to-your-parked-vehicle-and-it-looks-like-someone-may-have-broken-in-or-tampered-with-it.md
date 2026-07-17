@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you return to your parked vehicle and it looks like someone may have broken in or tampered with it"
+seo_title: "Returning to a parked vehicle that looks tampered with"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "returning to parked vehicle"
   - "vehical looks tampered with"
   - "car looks tamperd with"
-last_reviewed: "2026-06-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-23"
 ---
 

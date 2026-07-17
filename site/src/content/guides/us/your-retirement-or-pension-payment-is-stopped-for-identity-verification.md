@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your retirement or pension payment is stopped for identity verification"
+seo_title: "Retirement or pension payment stopped for identity check"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "federal annuity payment missing"
   - "pention payment stopped"
   - "retirment payment missing"
-last_reviewed: "2026-06-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-01"
 ---
 

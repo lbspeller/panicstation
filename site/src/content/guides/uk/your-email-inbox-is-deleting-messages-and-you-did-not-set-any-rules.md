@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your email inbox is deleting messages and you did not set any rules"
+seo_title: "Email inbox deleting messages automatically"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "gmail emails missing"
   - "emials disappearing"
   - "inbox deliting messages"
-last_reviewed: "2026-05-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-25"
 ---
 

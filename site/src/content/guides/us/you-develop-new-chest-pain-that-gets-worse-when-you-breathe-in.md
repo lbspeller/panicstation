@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you develop new chest pain that gets worse when you breathe in"
+seo_title: "New chest pain that hurts when breathing"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -42,7 +43,7 @@ tags:
   - "chest pain during cancer treatment"
   - "chest pane when breathing"
   - "chest pain when inhailing"
-last_reviewed: "2026-06-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-13"
 ---
 

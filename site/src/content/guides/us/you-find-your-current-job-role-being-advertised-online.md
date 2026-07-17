@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you find your current job role being advertised online"
+seo_title: "Current job role advertised online"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "non-union employee"
   - "job advertized while employed"
   - "job advertisment for my role"
-last_reviewed: "2026-06-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-17"
 ---
 

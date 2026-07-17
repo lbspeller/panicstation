@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you discover rumours about your performance are being circulated at work"
+seo_title: "Rumours about your work performance being circulated"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "remote work performance rumors"
   - "new job performance rumors"
   - "review season performance gossip"
-last_reviewed: "2026-06-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-14"
 ---
 

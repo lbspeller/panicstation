@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your messaging app shows a linked device you do not recognise"
+seo_title: "Messaging app shows unknown linked device"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "work messaging account"
   - "shared household device"
   - "public wifi login"
-last_reviewed: "2026-05-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-26"
 ---
 

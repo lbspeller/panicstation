@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you need to renew or replace your passport abroad and cannot get an appointment in time"
+seo_title: "Need urgent passport renewal or replacement abroad"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "british national abroad passport"
   - "urgent travel from abroad"
   - "transit countries passport problem"
-last_reviewed: "2026-05-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-14"
 ---
 

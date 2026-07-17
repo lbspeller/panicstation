@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a bank will not speak with you after a death and a bill is due today"
+seo_title: "Bank will not speak after death and bill is due"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "utility bill after death"
   - "rent due after death"
   - "care bill after death"
-last_reviewed: "2026-05-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-29"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your building water is being shut off for emergency repairs"
+seo_title: "Building water shut off for emergency repairs"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "waterr shutoff notice"
   - "no runing water"
   - "apartment building water outage"
-last_reviewed: "2026-06-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-23"
 ---
 

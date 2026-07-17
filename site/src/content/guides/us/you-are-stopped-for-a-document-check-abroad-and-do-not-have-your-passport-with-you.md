@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are stopped for a document check abroad and do not have your passport with you"
+seo_title: "Stopped for document check abroad without passport"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "pasport left at hotel"
   - "documant check without passport"
   - "confused during passport document check"
-last_reviewed: "2026-06-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-09"
 ---
 

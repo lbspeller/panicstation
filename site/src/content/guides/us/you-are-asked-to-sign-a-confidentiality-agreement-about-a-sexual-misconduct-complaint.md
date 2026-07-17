@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to sign a confidentiality agreement about a sexual misconduct complaint"
+seo_title: "Asked to sign confidentiality agreement for misconduct complaint"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "nda or confidentiality agreement confusion"
   - "internal complaint confidentiality confusion"
   - "sexual misconduct complaint agreement pressure"
-last_reviewed: "2026-06-08"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-08"
 ---
 

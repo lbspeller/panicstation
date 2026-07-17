@@ -1,5 +1,6 @@
 ---
 title: "What to do if… police ask you to hand over passwords or account logins"
+seo_title: "Police ask for passwords or account logins"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "passcode requested while detained"
   - "police ask for pasword"
   - "police ask for passcodee"
-last_reviewed: "2026-06-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-04"
 ---
 

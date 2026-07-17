@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are told to continue working after a safety incident while it is being assessed"
+seo_title: "Told to keep working after a safety incident"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "superviser says keep working"
   - "night shift safety incident"
   - "temporary worker after safety incident"
-last_reviewed: "2026-06-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-10"
 ---
 

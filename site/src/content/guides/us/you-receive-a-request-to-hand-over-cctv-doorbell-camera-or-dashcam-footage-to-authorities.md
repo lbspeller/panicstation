@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a request to hand over CCTV, doorbell camera, or dashcam footage to authorities"
+seo_title: "Request for CCTV, doorbell, or dashcam footage"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "dash cam footage request"
   - "footage on cloud account"
   - "footage on sd card"
-last_reviewed: "2026-06-21"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-21"
 ---
 

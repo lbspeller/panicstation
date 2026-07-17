@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your mobile carrier account PIN or security code is changed without your permission"
+seo_title: "Mobile carrier account PIN or security code changed"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "sms 2fa intercepted"
   - "sim swop suspected"
   - "security cod changed"
-last_reviewed: "2026-07-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-01"
 ---
 

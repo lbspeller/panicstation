@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are being pressured to meet in person by someone threatening to share your intimate images"
+seo_title: "pressured to meet someone threatening to share your intimate images"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "meetup threat with photos"
   - "online threat in the uk"
   - "under 18 intimate images"
-last_reviewed: "2026-05-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-04"
 ---
 

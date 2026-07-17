@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your social media account is hacked or posting content you did not create"
+seo_title: "Social media account hacked or posting unauthorized content"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "business page hacked"
   - "my instgram got hacked"
   - "my facbook got hacked"
-last_reviewed: "2026-05-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-28"
 ---
 

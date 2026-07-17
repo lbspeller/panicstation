@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive urgent court papers addressed to a person who has died"
+seo_title: "Urgent court papers for a deceased person"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "letters testamentary missing"
   - "sugestion of death"
   - "summons complant deadline"
-last_reviewed: "2026-06-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-23"
 ---
 

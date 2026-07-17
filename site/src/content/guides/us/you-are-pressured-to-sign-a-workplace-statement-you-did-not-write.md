@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are pressured to sign a workplace statement you did not write"
+seo_title: "Pressured to sign a workplace statement you did not write"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "union workplace statement pressure"
   - "nonunion workplace statement pressure"
   - "hr meeting statement pressure"
-last_reviewed: "2026-06-08"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-08"
 ---
 

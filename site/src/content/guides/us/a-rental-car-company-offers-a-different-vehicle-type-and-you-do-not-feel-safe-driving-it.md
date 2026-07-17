@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a rental car company offers a different vehicle type and you do not feel safe driving it"
+seo_title: "Rental car offered is different and feels unsafe"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "prepaid rental vehicle unavailable"
   - "late-night rental counter pressure"
   - "hire company vehicle substitution"
-last_reviewed: "2026-05-31"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-31"
 ---
 

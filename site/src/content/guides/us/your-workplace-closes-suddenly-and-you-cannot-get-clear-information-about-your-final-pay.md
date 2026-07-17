@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your workplace closes suddenly and you cannot get clear information about your final pay"
+seo_title: "Workplace closed suddenly and final pay is missing"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "vacation payout confusion"
   - "payrol not responding"
   - "employor disappeared"
-last_reviewed: "2026-07-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-05"
 ---
 

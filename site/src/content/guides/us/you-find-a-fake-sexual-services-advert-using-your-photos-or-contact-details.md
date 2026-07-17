@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you find a fake sexual services advert using your photos or contact details"
+seo_title: "Fake sexual services advert using your details"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "sexual services ad showing my home area"
   - "fake escort post using work number"
   - "fake escort post using home address"
-last_reviewed: "2026-06-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-13"
 ---
 

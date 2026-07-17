@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you accidentally take someone else’s prescription medication"
+seo_title: "Accidentally took someone else’s prescription medication"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "home medication error"
   - "elderly person wrong tablets"
   - "child took prescription medication"
-last_reviewed: "2026-05-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-03"
 ---
 

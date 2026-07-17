@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your bank confirms unauthorised payments but says the investigation will take weeks"
+seo_title: "Bank confirms fraud but delays investigation refund"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "rent money missing"
   - "salary account at risk"
   - "benifits account at risk"
-last_reviewed: "2026-05-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-22"
 ---
 

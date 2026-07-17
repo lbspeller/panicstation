@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you suspect someone is tampering with your drink or watching it closely"
+seo_title: "Suspecting drink tampering or someone watching your drink"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "festival drink concern"
   - "drink spiked at nite out"
   - "drink spiked in nighclub"
-last_reviewed: "2026-05-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-16"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive an urgent message asking you to buy gift cards or make a payment for work"
+seo_title: "Urgent work message asking for payment or gift cards"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "new employee payment request"
   - "wierd boss email"
   - "gift card scamm"
-last_reviewed: "2026-06-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-22"
 ---
 

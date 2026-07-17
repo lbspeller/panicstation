@@ -1,5 +1,6 @@
 ---
 title: "What to do if… police ask you to provide an alibi for someone and you feel pressured to answer quickly"
+seo_title: "Police asking you to provide an alibi quickly"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -34,7 +35,7 @@ tags:
   - "alibi or witness statement"
   - "allibi request from police"
   - "alaby request from police"
-last_reviewed: "2026-04-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-30"
 ---
 

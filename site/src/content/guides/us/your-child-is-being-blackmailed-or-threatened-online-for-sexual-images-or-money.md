@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your child is being blackmailed or threatened online for sexual images or money"
+seo_title: "Child being blackmailed or threatened online"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "high school online threat"
   - "gaming app image threat"
   - "social media sextortion child"
-last_reviewed: "2026-06-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-27"
 ---
 

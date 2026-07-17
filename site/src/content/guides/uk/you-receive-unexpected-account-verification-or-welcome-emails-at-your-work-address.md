@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive unexpected account verification or welcome emails at your work address"
+seo_title: "Unexpected account emails at work address"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "email alias confused with account"
   - "adress used for accounts"
   - "recieve unknown account emails"
-last_reviewed: "2026-05-08"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-08"
 ---
 

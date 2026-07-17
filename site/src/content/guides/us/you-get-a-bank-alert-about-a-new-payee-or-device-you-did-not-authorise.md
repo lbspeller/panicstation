@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you get a bank alert about a new payee or device you did not authorise"
+seo_title: "Unauthorised bank alert for new payee or device"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "unkown device alert"
   - "mobile banking alert"
   - "online banking alert"
-last_reviewed: "2026-06-15"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-15"
 ---
 

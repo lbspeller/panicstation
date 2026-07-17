@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your device keeps asking for suspicious new system permissions after an update"
+seo_title: "Device keeps asking for suspicious permissions after update"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "new app update"
   - "work phone permissions"
   - "school device permissions"
-last_reviewed: "2026-06-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-28"
 ---
 

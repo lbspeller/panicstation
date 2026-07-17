@@ -1,5 +1,6 @@
 ---
 title: "What to do if… mail or funds you sent to someone in custody were rejected"
+seo_title: "Rejected mail or funds for someone in custody"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "mailroom rejection notice"
   - "prision mail rejected"
   - "prisoner adress wrong"
-last_reviewed: "2026-04-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-25"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a court notice or summons with very little time to prepare"
+seo_title: "Court notice or summons with short notice"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "civil court notice"
   - "family court notice"
   - "traffic court notice"
-last_reviewed: "2026-06-20"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-20"
 ---
 

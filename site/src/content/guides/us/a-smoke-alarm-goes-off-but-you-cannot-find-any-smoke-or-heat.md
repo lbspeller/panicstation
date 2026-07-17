@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a smoke alarm goes off but you cannot find any smoke or heat"
+seo_title: "Smoke alarm sounding with no visible fire"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "smoke alrm went off"
   - "smoke detctor false alarm"
   - "brief fire alarm no smoke"
-last_reviewed: "2026-06-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-02"
 ---
 

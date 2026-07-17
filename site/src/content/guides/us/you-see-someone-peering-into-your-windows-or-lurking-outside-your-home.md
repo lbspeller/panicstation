@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you see someone peering into your windows or lurking outside your home"
+seo_title: "Someone peering into your windows or lurking outside"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "peeping tomm outside window"
   - "person peering thru window"
   - "ground-floor apartment window"
-last_reviewed: "2026-06-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-23"
 ---
 

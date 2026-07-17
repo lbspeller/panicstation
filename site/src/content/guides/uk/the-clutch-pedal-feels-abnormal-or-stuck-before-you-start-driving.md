@@ -1,5 +1,6 @@
 ---
 title: "What to do if… the clutch pedal feels abnormal or stuck before you start driving"
+seo_title: "Clutch pedal feels abnormal or stuck before driving"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "before driving manual car"
   - "cluch pedal feels wrong"
   - "clutch pedel feels wrong"
-last_reviewed: "2026-05-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-02"
 ---
 

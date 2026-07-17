@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your public transport pass in an app shows as invalid even though you paid"
+seo_title: "Public transport app pass shows as invalid"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "commuter rail ticket app"
   - "tranist pass invalid"
   - "fare citaton app problem"
-last_reviewed: "2026-07-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-03"
 ---
 

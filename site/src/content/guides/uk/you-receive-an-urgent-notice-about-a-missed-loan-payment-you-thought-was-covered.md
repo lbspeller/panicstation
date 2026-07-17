@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive an urgent notice about a missed loan payment you thought was covered"
+seo_title: "Urgent notice about a missed loan payment"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "loan payment not recived"
   - "arrears letter recieved"
   - "uk loan payment notice"
-last_reviewed: "2026-05-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-19"
 ---
 

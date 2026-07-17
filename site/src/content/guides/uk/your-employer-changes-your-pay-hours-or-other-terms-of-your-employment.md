@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your employer changes your pay, hours, or other terms of your employment"
+seo_title: "Employer changes to pay, hours, or job terms"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "verbal promise about contract"
   - "employer changed contrcat terms"
   - "employeer changed my contract"
-last_reviewed: "2026-05-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-25"
 ---
 

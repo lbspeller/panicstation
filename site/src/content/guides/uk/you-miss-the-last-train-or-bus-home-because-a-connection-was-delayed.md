@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you miss the last train or bus home because a connection was delayed"
+seo_title: "Missed last train or bus due to delay"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "split ticket connection"
   - "one ticket connection"
   - "late night journey"
-last_reviewed: "2026-05-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-14"
 ---
 

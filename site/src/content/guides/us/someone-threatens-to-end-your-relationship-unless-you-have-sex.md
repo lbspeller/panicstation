@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone threatens to end your relationship unless you have sex"
+seo_title: "Partner threatens to end relationship for sex"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "coersed into sex"
   - "dating partner pressures sex"
   - "living with partner who pressures sex"
-last_reviewed: "2026-06-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-05"
 ---
 

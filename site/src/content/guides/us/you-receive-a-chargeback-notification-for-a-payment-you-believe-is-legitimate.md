@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a chargeback notification for a payment you believe is legitimate"
+seo_title: "Chargeback notification for a legitimate payment"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "unauthorized card claim"
   - "chargback notice"
   - "dispute notfication"
-last_reviewed: "2026-06-15"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-15"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an unknown sharing link appears for a private file in your activity logs"
+seo_title: "Unknown sharing link for a private file"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -42,7 +43,7 @@ tags:
   - "dropbox sharing link appeared"
   - "shareing link appeared"
   - "unathorized sharing link"
-last_reviewed: "2026-06-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-02"
 ---
 

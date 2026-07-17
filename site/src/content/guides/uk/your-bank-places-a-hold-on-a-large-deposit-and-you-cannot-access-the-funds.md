@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your bank places a hold on a large deposit and you cannot access the funds"
+seo_title: "Bank places hold on large deposit"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "large cheque not cleared"
   - "depsoit held by bank"
   - "acount restricted after deposit"
-last_reviewed: "2026-05-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-23"
 ---
 

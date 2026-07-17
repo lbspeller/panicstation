@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have a fever and a rash that does not fade when pressed"
+seo_title: "Fever with a rash that does not fade when pressed"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "worried it is sepsis"
   - "feaver rash not fading"
   - "rash wont fade"
-last_reviewed: "2026-06-15"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-15"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your fridge or freezer stops cooling and food is thawing"
+seo_title: "Fridge or freezer stopped cooling and food thawing"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "breaker tripped refrigerator warm"
   - "refridgerator warm food"
   - "freezer defrostng food"
-last_reviewed: "2026-06-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-29"
 ---
 

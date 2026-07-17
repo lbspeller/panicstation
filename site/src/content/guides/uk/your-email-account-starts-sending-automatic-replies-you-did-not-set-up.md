@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your email account starts sending automatic replies you did not set up"
+seo_title: "Email account sending unexpected automatic replies"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "work email account"
   - "gmail account"
   - "outlook account"
-last_reviewed: "2026-05-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-25"
 ---
 

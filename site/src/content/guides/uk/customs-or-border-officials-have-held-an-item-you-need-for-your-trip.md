@@ -1,5 +1,6 @@
 ---
 title: "What to do if… customs or border officials have held an item you need for your trip"
+seo_title: "Customs or border officials held your travel item"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "checked baggage held by customs"
   - "courier parcel held at border"
   - "urgent trip without item"
-last_reviewed: "2026-04-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-29"
 ---
 

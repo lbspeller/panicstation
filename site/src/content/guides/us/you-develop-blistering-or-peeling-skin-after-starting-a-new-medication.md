@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you develop blistering or peeling skin after starting a new medication"
+seo_title: "Blistering or peeling skin after new medication"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "blistering skin after seizure medicine"
   - "peeling skin after medicaton"
   - "blistering skn after medication"
-last_reviewed: "2026-06-12"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-12"
 ---
 

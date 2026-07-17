@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a massage, beauty, or personal service appointment feels sexualised or unsafe and you want to leave"
+seo_title: "Massage or beauty appointment feels unsafe or sexualised"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "therapist acted inapropriate"
   - "alone in treatment room"
   - "paid private appointment unsafe"
-last_reviewed: "2026-04-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-27"
 ---
 

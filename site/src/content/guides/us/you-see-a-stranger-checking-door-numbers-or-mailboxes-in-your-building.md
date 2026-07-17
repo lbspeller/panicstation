@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you see a stranger checking door numbers or mailboxes in your building"
+seo_title: "Stranger checking door numbers or mailboxes in building"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -33,7 +34,7 @@ tags:
   - "lost guest or casing"
   - "apartment bulding stranger"
   - "mail box tamperng"
-last_reviewed: "2026-06-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-23"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a stranger stands too close while you enter a PIN or passcode"
+seo_title: "Stranger standing too close while entering PIN or passcode"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "public checkout pin"
   - "pin beeing watched"
   - "passcode being wached"
-last_reviewed: "2026-04-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-28"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a pending transaction disappears and then reappears for a higher amount"
+seo_title: "Pending transaction reappears for higher amount"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "hotel deposit card hold"
   - "foriegn currency card charge"
   - "pendng transaction gone"
-last_reviewed: "2026-04-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-27"
 ---
 

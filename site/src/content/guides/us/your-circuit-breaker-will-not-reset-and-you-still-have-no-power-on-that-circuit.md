@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your circuit breaker will not reset and you still have no power on that circuit"
+seo_title: "Circuit breaker will not reset and no power"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "after storm power problem"
   - "after water near outlet"
   - "rental home electrical problem"
-last_reviewed: "2026-06-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-27"
 ---
 

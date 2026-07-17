@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you find water collecting under a tiled floor and suspect a leak beneath the tiles"
+seo_title: "Water collecting under a tiled floor"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "water under flor tiles"
   - "flat leak under tiles"
   - "rented home tiled floor leak"
-last_reviewed: "2026-05-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-11"
 ---
 

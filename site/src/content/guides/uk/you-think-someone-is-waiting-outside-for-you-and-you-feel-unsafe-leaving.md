@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you think someone is waiting outside for you and you feel unsafe leaving"
+seo_title: "Feeling unsafe leaving due to someone outside"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "leaving work building"
   - "some one waiting outside"
   - "stalker waitng outside"
-last_reviewed: "2026-05-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-22"
 ---
 

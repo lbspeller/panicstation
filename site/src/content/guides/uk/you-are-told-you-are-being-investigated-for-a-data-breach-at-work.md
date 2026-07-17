@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are told you are being investigated for a data breach at work"
+seo_title: "Investigated for a data breach at work"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "breech investigation at work"
   - "gdpr breech at work"
   - "uk work data breach"
-last_reviewed: "2026-05-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-06"
 ---
 

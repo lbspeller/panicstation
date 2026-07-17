@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you discover email forwarding rules or inbox filters you did not set up"
+seo_title: "Unknown email forwarding rules or inbox filters"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "school email forwarding"
   - "bank emails missing"
   - "shopping account emails missing"
-last_reviewed: "2026-05-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-10"
 ---
 

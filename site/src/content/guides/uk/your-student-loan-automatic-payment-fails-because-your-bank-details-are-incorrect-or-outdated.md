@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your student loan automatic payment fails because your bank details are incorrect or outdated"
+seo_title: "Student loan automatic payment failed"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "near loan payoff direct debit"
   - "student lone payment failed"
   - "direct debit faied"
-last_reviewed: "2026-05-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-28"
 ---
 

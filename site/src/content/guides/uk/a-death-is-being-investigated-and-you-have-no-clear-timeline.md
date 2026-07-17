@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a death is being investigated and you have no clear timeline"
+seo_title: "Death investigation with no clear timeline"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "investigated death in northern ireland"
   - "investigated death in england"
   - "investigated death in wales"
-last_reviewed: "2026-05-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-06"
 ---
 

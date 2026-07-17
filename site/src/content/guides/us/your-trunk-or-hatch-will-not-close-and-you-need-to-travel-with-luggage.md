@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your trunk or hatch will not close and you need to travel with luggage"
+seo_title: "Trunk or hatch will not close with luggage"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "family trip luggage problem"
   - "trunck wont close"
   - "lugage wont fit"
-last_reviewed: "2026-06-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-26"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… police ask to take a quick look inside your home as part of an inquiry"
+seo_title: "Police asking to look inside your home"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "shared house police visit"
   - "rented home police visit"
   - "police asking about devices"
-last_reviewed: "2026-04-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-30"
 ---
 

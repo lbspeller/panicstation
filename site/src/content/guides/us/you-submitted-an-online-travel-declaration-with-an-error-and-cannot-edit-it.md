@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you submitted an online travel declaration with an error and cannot edit it"
+seo_title: "Error on submitted online travel declaration"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "arrival declaration typo"
   - "travelling to usa soon"
   - "already at airport"
-last_reviewed: "2026-06-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-24"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your mechanical car key will not turn and you cannot get into your vehicle"
+seo_title: "Mechanical car key will not turn in lock"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "stranded in car park"
   - "late night vehicle lockout"
   - "vehical lock wont turn"
-last_reviewed: "2026-05-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-02"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a free trial turns into an unexpected subscription charge"
+seo_title: "Unexpected subscription charge after free trial"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "trial charge might be scam"
   - "subscrption charged after trial"
   - "auto-renewal surprize"
-last_reviewed: "2026-05-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-30"
 ---
 

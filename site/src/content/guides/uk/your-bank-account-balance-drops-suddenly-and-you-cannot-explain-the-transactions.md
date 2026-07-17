@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your bank account balance drops suddenly and you cannot explain the transactions"
+seo_title: "Bank account balance dropped and transactions unexplained"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "online banking access suspicious"
   - "bank acount money missing"
   - "unexplained bank transations"
-last_reviewed: "2026-05-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-22"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your card issuer flags a purchase as suspicious and demands immediate identity checks"
+seo_title: "Card issuer flags suspicious purchase or identity check"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -43,7 +44,7 @@ tags:
   - "verifcation code text"
   - "active purchase decline"
   - "mobile banking app alert"
-last_reviewed: "2026-06-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-27"
 ---
 

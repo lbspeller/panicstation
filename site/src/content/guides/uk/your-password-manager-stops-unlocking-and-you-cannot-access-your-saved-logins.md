@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your password manager stops unlocking and you cannot access your saved logins"
+seo_title: "Password manager locked and cannot access logins"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "family password plan locked"
   - "password manger locked out"
   - "pasword manager not opening"
-last_reviewed: "2026-05-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-27"
 ---
 

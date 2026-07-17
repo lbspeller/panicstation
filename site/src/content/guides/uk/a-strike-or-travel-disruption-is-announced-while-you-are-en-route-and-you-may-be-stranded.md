@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a strike or travel disruption is announced while you are en route and you may be stranded"
+seo_title: "Travel disruption or strike while en route"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "cancelled or rescheduled"
   - "travelling alone at night"
   - "travelling with children disruption"
-last_reviewed: "2026-04-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-28"
 ---
 

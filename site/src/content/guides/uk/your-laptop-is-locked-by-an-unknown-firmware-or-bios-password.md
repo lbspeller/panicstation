@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your laptop is locked by an unknown firmware or BIOS password"
+seo_title: "Laptop locked by unknown firmware or BIOS password"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "school laptop bios lock"
   - "bios passwrod prompt"
   - "firmwear password prompt"
-last_reviewed: "2026-05-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-26"
 ---
 

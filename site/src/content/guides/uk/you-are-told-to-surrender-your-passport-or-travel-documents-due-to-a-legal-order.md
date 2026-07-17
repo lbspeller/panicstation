@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are told to surrender your passport or travel documents due to a legal order"
+seo_title: "Told to surrender passport or travel documents"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "passport seized misunderstanding"
   - "pasport surrender"
   - "travel documnts taken"
-last_reviewed: "2026-05-07"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-07"
 ---
 

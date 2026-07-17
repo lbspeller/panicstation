@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you cannot get online to complete a required travel health declaration"
+seo_title: "Cannot access travel health declaration online"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "airline app form confusion"
   - "helth declaration problem"
   - "declaraton form problem"
-last_reviewed: "2026-05-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-03"
 ---
 

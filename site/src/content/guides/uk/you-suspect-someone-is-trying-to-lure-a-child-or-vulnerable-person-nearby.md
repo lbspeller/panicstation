@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you suspect someone is trying to lure a child or vulnerable person nearby"
+seo_title: "Suspecting someone is luring a child or vulnerable person"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "near playground at safe distance"
   - "in public place nearby"
   - "from a safe distance"
-last_reviewed: "2026-05-21"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-21"
 ---
 

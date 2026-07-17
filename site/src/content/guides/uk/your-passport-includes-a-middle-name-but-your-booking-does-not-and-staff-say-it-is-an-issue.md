@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your passport includes a middle name but your booking does not and staff say it is an issue"
+seo_title: "Passport middle name missing from flight booking"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "ticket name typo worry"
   - "pasport middle name missing"
   - "boking missing middle name"
-last_reviewed: "2026-05-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-27"
 ---
 

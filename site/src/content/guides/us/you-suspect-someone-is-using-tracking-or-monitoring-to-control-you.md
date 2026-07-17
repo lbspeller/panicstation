@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you suspect someone is using tracking or monitoring to control you"
+seo_title: "Suspecting someone is tracking or monitoring you"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "unsafe to change passwords"
   - "shared accounts with abuser"
   - "car or bag tracked"
-last_reviewed: "2026-06-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-24"
 ---
 

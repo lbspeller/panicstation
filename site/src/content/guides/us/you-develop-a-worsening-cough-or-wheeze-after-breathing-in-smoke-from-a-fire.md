@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you develop a worsening cough or wheeze after breathing in smoke from a fire"
+seo_title: "Worsening cough or wheeze after smoke inhalation"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "burning plastic smoke symptoms"
   - "smoke inhaltion cough"
   - "wheezing afer smoke"
-last_reviewed: "2026-06-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-13"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you accidentally packed your passport in your checked luggage and the bag is already gone"
+seo_title: "Passport accidentally packed in checked luggage"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "lugage already dropped"
   - "international flight no passport"
   - "domestic flight passport in bag"
-last_reviewed: "2026-05-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-03"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone you blocked keeps creating new accounts to contact you"
+seo_title: "Blocked person keeps creating new accounts to contact you"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "there are threats or intimidation"
   - "new acounts keep contacting me"
   - "online harasment keeps happening"
-last_reviewed: "2026-06-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-06"
 ---
 

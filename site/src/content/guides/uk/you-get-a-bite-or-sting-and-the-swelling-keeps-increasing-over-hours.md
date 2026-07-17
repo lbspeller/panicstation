@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you get a bite or sting and the swelling keeps increasing over hours"
+seo_title: "Bite or sting swelling increasing over hours"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "allergy after insect sting"
   - "bite sweling getting worse"
   - "sting swolen hours later"
-last_reviewed: "2026-05-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-11"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you feel pressured into sexual contact during a healthcare or support appointment and feel unsafe"
+seo_title: "Pressured into sexual contact during an appointment"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -33,7 +34,7 @@ tags:
   - "during therapy appointment"
   - "during support appointment"
   - "helthcare appointment unsafe"
-last_reviewed: "2026-06-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-14"
 ---
 

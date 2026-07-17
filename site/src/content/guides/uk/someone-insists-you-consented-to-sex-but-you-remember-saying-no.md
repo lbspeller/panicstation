@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone insists you consented to sex but you remember saying no"
+seo_title: "Someone insists you consented but you said no"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -43,7 +44,7 @@ tags:
   - "with a partner"
   - "with an ex"
   - "with an acquaintance"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-01"
 ---
 

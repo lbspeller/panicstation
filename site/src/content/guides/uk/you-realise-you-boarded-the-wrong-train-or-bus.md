@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you realise you boarded the wrong train or bus"
+seo_title: "Boarded the wrong train or bus"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "contactless fare worry"
   - "uk train journey"
   - "london contactless travel"
-last_reviewed: "2026-05-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-16"
 ---
 

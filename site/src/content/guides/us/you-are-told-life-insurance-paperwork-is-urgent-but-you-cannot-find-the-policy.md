@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are told life insurance paperwork is urgent but you cannot find the policy"
+seo_title: "Urgent life insurance request but policy is missing"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "employer life insurance paperwork missing"
   - "life insurence paperwork missing"
   - "life insurance policiy missing"
-last_reviewed: "2026-06-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-10"
 ---
 

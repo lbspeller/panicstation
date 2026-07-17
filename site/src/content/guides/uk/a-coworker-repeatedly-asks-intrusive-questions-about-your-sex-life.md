@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a coworker repeatedly asks intrusive questions about your sex life"
+seo_title: "Coworker repeatedly asking intrusive sexual questions"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "after work event sexual questions"
   - "sexul questions at work"
   - "harrasment by coworker"
-last_reviewed: "2026-04-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-25"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your bank charges an unexpected fee or penalty that puts your account in the red"
+seo_title: "Unexpected bank fee or penalty puts account in the red"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "unexpected fee after weekend"
   - "overdaft fee"
   - "bank fee suprise"
-last_reviewed: "2026-06-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-25"
 ---
 

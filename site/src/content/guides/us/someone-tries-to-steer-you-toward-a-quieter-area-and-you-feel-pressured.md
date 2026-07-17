@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone tries to steer you toward a quieter area and you feel pressured"
+seo_title: "Someone pressuring you to go to a quiet area"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "side street feels wrong"
   - "someone pressures me near an exit"
   - "someone steers me toward a side street"
-last_reviewed: "2026-06-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-06"
 ---
 

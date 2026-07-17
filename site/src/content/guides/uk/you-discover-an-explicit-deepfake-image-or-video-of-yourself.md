@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you discover an explicit deepfake image or video of yourself"
+seo_title: "you discover an explicit deepfake image or video of yourself"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "non consentual deepfake"
   - "explicit deapfake of me"
   - "under 18 deepfake image"
-last_reviewed: "2026-05-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-10"
 ---
 

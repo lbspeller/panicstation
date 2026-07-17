@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a partner insists on recording sex and becomes angry when you refuse"
+seo_title: "Partner insists on recording sex and gets angry"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "live-in partner sex recording"
   - "long-term partner sex recording"
   - "online partner intimate video pressure"
-last_reviewed: "2026-06-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-01"
 ---
 

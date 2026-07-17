@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you realise your travel profile saved the wrong passport number and you have already checked in"
+seo_title: "Wrong passport number saved after check-in"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "secure flight confusion"
   - "known traveler number confusion"
   - "international flight checked in"
-last_reviewed: "2026-06-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-19"
 ---
 

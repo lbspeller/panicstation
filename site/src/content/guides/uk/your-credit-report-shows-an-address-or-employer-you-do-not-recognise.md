@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your credit report shows an address or employer you do not recognise"
+seo_title: "Unfamiliar address or employer on credit report"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "adress on credit report"
   - "employer unkown on report"
   - "uk credit report wrong details"
-last_reviewed: "2026-05-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-24"
 ---
 

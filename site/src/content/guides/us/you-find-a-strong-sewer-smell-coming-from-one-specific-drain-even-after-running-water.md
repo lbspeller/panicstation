@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you find a strong sewer smell coming from one specific drain even after running water"
+seo_title: "Strong sewer smell from one specific drain"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "fuel gas or sewer smell"
   - "renting with sewer smell"
   - "basement floor drain smell"
-last_reviewed: "2026-06-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-14"
 ---
 

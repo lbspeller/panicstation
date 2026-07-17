@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a messaging app fails to restore your chat backup and your messages are missing"
+seo_title: "Messaging app chat backup failed to restore"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "icloude backup missing"
   - "android chat backup missing"
   - "iphone chat backup missing"
-last_reviewed: "2026-04-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-27"
 ---
 

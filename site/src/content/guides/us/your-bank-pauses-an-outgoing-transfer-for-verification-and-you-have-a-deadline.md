@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your bank pauses an outgoing transfer for verification and you have a deadline"
+seo_title: "Bank transfer paused for verification with a deadline"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "cashiers check deadline problem"
   - "bank tranfer paused verification"
   - "wire tranfer held verification"
-last_reviewed: "2026-06-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-25"
 ---
 

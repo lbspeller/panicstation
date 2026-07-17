@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a vague meeting invite asking you to bring a colleague or representative"
+seo_title: "Vague meeting invite asking to bring a representative"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "last-minute meeting invite"
   - "represenative requested for meeting"
   - "collegue requested for meeting"
-last_reviewed: "2026-06-07"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-07"
 ---
 

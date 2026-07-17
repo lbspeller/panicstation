@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have sudden back or side pain with fever and urinary symptoms"
+seo_title: "Sudden back or side pain with fever and urinary symptoms"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "urinery symptoms starting"
   - "pregnant with uti fever"
   - "older person uti confusion"
-last_reviewed: "2026-05-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-16"
 ---
 

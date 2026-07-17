@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your rideshare or taxi cancels after arriving and you are left waiting somewhere unfamiliar"
+seo_title: "Rideshare or taxi cancels in unfamiliar area"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "mincab cancelled"
   - "outside station waiting"
   - "new area ride cancelled"
-last_reviewed: "2026-05-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-27"
 ---
 

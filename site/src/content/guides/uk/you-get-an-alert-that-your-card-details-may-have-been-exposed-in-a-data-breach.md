@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you get an alert that your card details may have been exposed in a data breach"
+seo_title: "Card details alert after a data breach"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "card details leacked"
   - "bank card brech alert"
   - "uk card breach alert"
-last_reviewed: "2026-05-12"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-12"
 ---
 

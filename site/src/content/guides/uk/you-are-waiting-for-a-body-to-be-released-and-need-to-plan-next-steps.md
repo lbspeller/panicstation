@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are waiting for a body to be released and need to plan next steps"
+seo_title: "Waiting for body release and planning next steps"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "mortuary paperwork delay"
   - "body realease delay"
   - "funeral date confussion"
-last_reviewed: "2026-05-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-06"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you believe you were drugged and something sexual happened while you were impaired"
+seo_title: "Suspected drugging and sexual assault while impaired"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "druged and scared"
   - "spiked drink symtoms"
   - "spiked after a party"
-last_reviewed: "2026-05-08"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-08"
 ---
 

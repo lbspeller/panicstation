@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you accidentally format a memory card containing irreplaceable photos"
+seo_title: "Accidentally formatted memory card with important photos"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "memry card photos lost"
   - "after wedding photos lost"
   - "after vacation photos lost"
-last_reviewed: "2026-06-15"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-15"
 ---
 

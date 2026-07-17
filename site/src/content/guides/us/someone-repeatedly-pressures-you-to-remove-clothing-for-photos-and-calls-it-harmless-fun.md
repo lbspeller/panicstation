@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone repeatedly pressures you to remove clothing for photos and calls it harmless fun"
+seo_title: "Repeated pressure to remove clothing for photos"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "adult asking a minor for photos"
   - "pressured to undres for photos"
   - "harmless fun photo preasure"
-last_reviewed: "2026-06-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-05"
 ---
 

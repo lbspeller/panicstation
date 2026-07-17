@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have sudden severe pain in your upper abdomen with nausea that will not settle"
+seo_title: "Sudden severe upper abdominal pain and nausea"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "worried it is a heart attack"
   - "severe stomache pain nausea"
   - "upper abdomin pain nausea"
-last_reviewed: "2026-05-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-13"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice spreading redness or red streaks around a cut"
+seo_title: "Spreading redness or red streaks around a cut"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "immunocompromised infected cut"
   - "child cut looks infected"
   - "cut near eye infected"
-last_reviewed: "2026-05-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-16"
 ---
 

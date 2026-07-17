@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have sudden severe eye pain with redness or halos around lights"
+seo_title: "Sudden severe eye pain with redness or halos"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "sudden eye pain after drops"
   - "glocoma eye pain symptoms"
   - "red eye with hallos"
-last_reviewed: "2026-06-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-13"
 ---
 

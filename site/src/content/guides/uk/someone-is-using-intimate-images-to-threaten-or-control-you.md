@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone is using intimate images to threaten or control you"
+seo_title: "Someone is using intimate images to threaten you"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "deepfake nude threat"
   - "non-consensual image sharing"
   - "under 18 intimate image threat"
-last_reviewed: "2026-05-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-02"
 ---
 

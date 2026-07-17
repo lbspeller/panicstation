@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you lose power in part of your home and the breaker panel looks normal"
+seo_title: "Partial power loss with normal-looking breaker panel"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "older home partial outage"
   - "medical equipment no power"
   - "power out but breakers fine"
-last_reviewed: "2026-06-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-17"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you find a bat in your room while you were asleep and are unsure about contact"
+seo_title: "Woke up with a bat in your room"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "child asleep with bat"
   - "batt in bedroom"
   - "rabbies worry"
-last_reviewed: "2026-06-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-14"
 ---
 

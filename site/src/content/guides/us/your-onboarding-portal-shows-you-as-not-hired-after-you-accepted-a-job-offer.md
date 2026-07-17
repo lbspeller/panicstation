@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your onboarding portal shows you as not hired after you accepted a job offer"
+seo_title: "Onboarding portal shows not hired after job offer accepted"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "hirring portal says not hired"
   - "after accepting job offer"
   - "before first day of work"
-last_reviewed: "2026-07-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-01"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your windows are fogging up and indoor dampness and mould are appearing"
+seo_title: "Indoor dampness, mould, and foggy windows"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "bathroom window condensation"
   - "bedroom window condensation"
   - "drying clothes indoors damp"
-last_reviewed: "2026-07-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-04"
 ---
 

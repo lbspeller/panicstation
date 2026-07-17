@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to write an obituary or public notice and you are not ready"
+seo_title: "Asked to write an obituary or public notice"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "executor asked for notice"
   - "obiturary deadline panic"
   - "public notise pressure"
-last_reviewed: "2026-05-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-04"
 ---
 

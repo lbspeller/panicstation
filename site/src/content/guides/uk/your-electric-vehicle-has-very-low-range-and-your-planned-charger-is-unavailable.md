@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your electric vehicle has very low range and your planned charger is unavailable"
+seo_title: "Electric vehicle low range and charger unavailable"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "bad weather low range"
   - "rural charger unavailable"
   - "passengers in car low battery"
-last_reviewed: "2026-05-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-25"
 ---
 

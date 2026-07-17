@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your vehicle is blocked in and you cannot drive out"
+seo_title: "Vehicle blocked in and cannot drive out"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "car pinned in"
   - "vehical blocked in"
   - "driveway blokced by car"
-last_reviewed: "2026-06-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-14"
 ---
 

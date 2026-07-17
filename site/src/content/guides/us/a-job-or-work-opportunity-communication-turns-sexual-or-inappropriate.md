@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a job or work opportunity communication turns sexual or inappropriate"
+seo_title: "Job or work communication turns sexual or inappropriate"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "online recruiter turns sexual"
   - "recruter turns sexual"
   - "oppurtunity turns sexual"
-last_reviewed: "2026-06-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-09"
 ---
 

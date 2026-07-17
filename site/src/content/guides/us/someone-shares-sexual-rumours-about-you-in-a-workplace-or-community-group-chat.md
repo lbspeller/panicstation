@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone shares sexual rumours about you in a workplace or community group chat"
+seo_title: "Sexual rumours shared in a group chat"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "sexual rumors in volunteer group"
   - "sexual rumers in group chat"
   - "workplace sexual rummors"
-last_reviewed: "2026-06-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-05"
 ---
 

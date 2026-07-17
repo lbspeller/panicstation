@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your child is being blackmailed or threatened online for sexual images or money"
+seo_title: "Child being blackmailed or threatened online"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "under 18 online threat"
   - "blackmaild online child"
   - "thretend online child"
-last_reviewed: "2026-05-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-24"
 ---
 

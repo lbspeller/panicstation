@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you feel unsafe on public transport because someone is following you or blocking your exit"
+seo_title: "Unsafe on public transport or exit blocked"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "alone at transit stop"
   - "publc transit feels unsafe"
   - "transprt exit blocked"
-last_reviewed: "2026-06-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-14"
 ---
 

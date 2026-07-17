@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone is loitering in a stairwell or corridor and watching you approach"
+seo_title: "Someone loitering in a stairwell or corridor"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "a shared corridor feels unsafe"
   - "someone is lotering in stairwell"
   - "a stranger is in coridor watching"
-last_reviewed: "2026-06-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-05"
 ---
 

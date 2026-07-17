@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are served with a protection or restraining order"
+seo_title: "Served with a protection or restraining order"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "protective oder filed"
   - "protction order notice"
   - "uk protection order notice"
-last_reviewed: "2026-05-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-05"
 ---
 

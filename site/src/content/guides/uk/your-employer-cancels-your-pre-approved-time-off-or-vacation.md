@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your employer cancels your pre-approved time off or vacation"
+seo_title: "Employer cancels your pre-approved time off"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "annual leeve cancelled"
   - "uk annual leave cancellation"
   - "non-refundable trip booked"
-last_reviewed: "2026-05-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-06"
 ---
 

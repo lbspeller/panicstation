@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked for proof of travel insurance and cannot find your policy documents"
+seo_title: "Cannot find proof of travel insurance documents"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "last-minute travel insurance proof missing"
   - "travel insurence documents missing"
   - "policy documants missing"
-last_reviewed: "2026-06-08"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-08"
 ---
 

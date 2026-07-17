@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you suddenly lose your balance and cannot walk steadily"
+seo_title: "Sudden loss of balance and trouble walking"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "while alone"
   - "after hitting head"
   - "not intoxicated"
-last_reviewed: "2026-06-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-24"
 ---
 

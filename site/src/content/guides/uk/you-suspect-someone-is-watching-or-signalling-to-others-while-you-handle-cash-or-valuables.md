@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you suspect someone is watching or signalling to others while you handle cash or valuables"
+seo_title: "Suspected surveillance or signalling while handling cash"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "in a shop queue"
   - "at a bank machine"
   - "on station property"
-last_reviewed: "2026-05-21"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-21"
 ---
 

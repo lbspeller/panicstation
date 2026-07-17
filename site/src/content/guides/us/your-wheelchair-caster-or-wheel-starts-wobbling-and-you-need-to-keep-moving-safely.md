@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your wheelchair caster or wheel starts wobbling and you need to keep moving safely"
+seo_title: "Wheelchair caster or wheel starts wobbling"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "power wheelchair wobble"
   - "outside with broken wheelchair"
   - "transit station wheelchair problem"
-last_reviewed: "2026-07-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-04"
 ---
 

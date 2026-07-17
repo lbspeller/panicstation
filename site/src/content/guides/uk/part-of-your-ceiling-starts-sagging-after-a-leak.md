@@ -1,5 +1,6 @@
 ---
 title: "What to do if… part of your ceiling starts sagging after a leak"
+seo_title: "Ceiling sagging or bulging after a leak"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "ceiling sagging in flat"
   - "celing sagging after leak"
   - "ceiling leeking water"
-last_reviewed: "2026-04-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-30"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are on blood thinners and develop a new headache or unexplained bruising"
+seo_title: "New headache or unexplained bruising on blood thinners"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "taking apixaban with new headache"
   - "blood thiner new headache"
   - "unexplained brusing on blood thinners"
-last_reviewed: "2026-06-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-09"
 ---
 

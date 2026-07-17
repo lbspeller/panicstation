@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone approaches your car at a fuel pump and tries to distract you"
+seo_title: "Someone approaches your car at a fuel pump"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "someone distracts me at a gas staion"
   - "wallet disctraction at a fuel pump"
   - "someone approaches my car while i pay at the pump"
-last_reviewed: "2026-06-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-04"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you get alerts that someone is trying to recover your account"
+seo_title: "Alerts that someone is trying to recover your account"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "bank account recovery"
   - "shopping account recovery"
   - "social media recovery"
-last_reviewed: "2026-05-12"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-12"
 ---
 

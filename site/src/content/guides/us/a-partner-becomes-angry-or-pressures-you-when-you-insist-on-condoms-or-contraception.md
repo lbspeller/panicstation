@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a partner becomes angry or pressures you when you insist on condoms or contraception"
+seo_title: "Partner angry or pressuring about contraception"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "pregnancy pressure in relationship"
   - "contraseption pressure"
   - "condom coercian"
-last_reviewed: "2026-06-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-01"
 ---
 

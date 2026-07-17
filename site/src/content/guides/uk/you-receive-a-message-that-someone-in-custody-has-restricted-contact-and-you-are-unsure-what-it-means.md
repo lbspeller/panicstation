@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a message that someone in custody has restricted contact and you are unsure what it means"
+seo_title: "Message about restricted contact in custody"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "new prison contact problem"
   - "restriced contact message"
   - "custady contact message"
-last_reviewed: "2026-05-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-18"
 ---
 

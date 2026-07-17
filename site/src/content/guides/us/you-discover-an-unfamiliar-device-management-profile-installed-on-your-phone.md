@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you discover an unfamiliar device management profile installed on your phone"
+seo_title: "Unfamiliar device management profile on your phone"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "used phone still managed"
   - "devise management profile"
   - "managment profile on phone"
-last_reviewed: "2026-06-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-13"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… police ask to search your phone on the spot and you feel pressured to agree"
+seo_title: "Police ask to search your phone on the spot"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "border phone question"
   - "police want my fone"
   - "asked for pascode"
-last_reviewed: "2026-04-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-30"
 ---
 

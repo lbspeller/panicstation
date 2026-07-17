@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your partner is controlling your contraception, appointments, or medication"
+seo_title: "Partner controlling contraception, appointments, or medication"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "private healthcare with controlling partner"
   - "shared insurance privacy worry"
   - "unsafe partner reproductive control"
-last_reviewed: "2026-07-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-01"
 ---
 

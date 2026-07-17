@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you cannot check into your accommodation because you do not have your ID with you"
+seo_title: "Cannot check into accommodation without ID"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "vacation rental check in no id"
   - "accomodation refuses entry no id"
   - "pasport missing at check in"
-last_reviewed: "2026-06-12"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-12"
 ---
 

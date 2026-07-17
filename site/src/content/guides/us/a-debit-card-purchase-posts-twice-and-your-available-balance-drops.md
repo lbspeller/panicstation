@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a debit card purchase posts twice and your available balance drops"
+seo_title: "Debit card purchase posted twice"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "duplicate debit on checking account"
   - "duplicate debit near rent payment"
   - "duplicate debit before autopay"
-last_reviewed: "2026-06-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-01"
 ---
 

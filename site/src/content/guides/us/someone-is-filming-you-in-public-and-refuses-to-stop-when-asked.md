@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone is filming you in public and refuses to stop when asked"
+seo_title: "Someone filming you in public and refusing to stop"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "public transit filming"
   - "live stream in public"
   - "recoreded in public"
-last_reviewed: "2026-06-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-19"
 ---
 

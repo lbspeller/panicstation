@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive calls from creditors or debt collectors after someone has died"
+seo_title: "Creditor or debt collector calls after a death"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "credtor calls after death"
   - "shortly after the funeral"
   - "not the executor"
-last_reviewed: "2026-05-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-19"
 ---
 

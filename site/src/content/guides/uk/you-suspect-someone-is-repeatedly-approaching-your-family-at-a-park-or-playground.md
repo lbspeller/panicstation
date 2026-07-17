@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you suspect someone is repeatedly approaching your family at a park or playground"
+seo_title: "Suspicious person repeatedly approaching family at park"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -42,7 +43,7 @@ tags:
   - "public park with children"
   - "busy playground safety"
   - "alone with children outside"
-last_reviewed: "2026-05-21"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-21"
 ---
 

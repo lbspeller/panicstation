@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone threatens to leak private sexual messages or claims to have access to your accounts"
+seo_title: "Threats to leak private messages or account access"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "adult intimate message threat"
   - "minor sexual message threat"
   - "someone says they have access"
-last_reviewed: "2026-06-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-05"
 ---
 

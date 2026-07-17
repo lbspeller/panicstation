@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive conflicting information about where a person who died is being held"
+seo_title: "Conflicting information about where a deceased person is held"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "death investigation hold location"
   - "funeral release location confusion"
   - "next of kin location confusion"
-last_reviewed: "2026-05-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-19"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a repossession warning for your financed vehicle"
+seo_title: "Receiving a repossession warning for your vehicle"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "reposession warning typo"
   - "repoesession notice typo"
   - "active duty car repo"
-last_reviewed: "2026-06-21"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-21"
 ---
 

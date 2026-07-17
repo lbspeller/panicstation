@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an authority demands you hand over property and you disagree with the request"
+seo_title: "Authority demands you hand over property"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "phone or laptop demanded"
   - "documents or keys demanded"
   - "property in secure setting"
-last_reviewed: "2026-05-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-06"
 ---
 

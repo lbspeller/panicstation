@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you hear persistent scratching in a wall or ceiling and suspect an animal is trapped"
+seo_title: "Animal trapped in wall or ceiling"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "rented home scratching"
   - "loft scratching at night"
   - "chimney animal noise"
-last_reviewed: "2026-05-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-13"
 ---
 

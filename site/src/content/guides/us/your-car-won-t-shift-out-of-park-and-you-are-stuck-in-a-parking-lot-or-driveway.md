@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your car won’t shift out of park and you are stuck in a parking lot or driveway"
+seo_title: "Car stuck in park and cannot shift gears"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "tight parking lot"
   - "car wont shift"
   - "shifter lok stuck"
-last_reviewed: "2026-06-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-27"
 ---
 

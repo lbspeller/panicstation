@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a venue or funeral provider has paused your service due to conflicting instructions from relatives"
+seo_title: "Funeral venue or provider paused by conflicting instructions"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "after a death in uk"
   - "spouse and children disagreeing"
   - "prepaid funeral plan unclear"
-last_reviewed: "2026-04-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-29"
 ---
 

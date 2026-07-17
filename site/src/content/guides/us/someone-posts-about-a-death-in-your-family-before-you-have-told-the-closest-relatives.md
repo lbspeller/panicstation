@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone posts about a death in your family before you have told the closest relatives"
+seo_title: "Family death posted online before relatives notified"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "someone posted obituary early"
   - "death misinformation online"
   - "unexpected family death post"
-last_reviewed: "2026-06-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-05"
 ---
 

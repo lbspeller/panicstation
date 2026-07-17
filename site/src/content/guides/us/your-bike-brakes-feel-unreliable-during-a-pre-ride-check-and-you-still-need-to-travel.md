@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your bike brakes feel unreliable during a pre-ride check and you still need to travel"
+seo_title: "Bike brakes feel unreliable before a ride"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "downhill ride with bad brakes"
   - "late for work bike unsafe"
   - "public road bike brakes"
-last_reviewed: "2026-06-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-26"
 ---
 

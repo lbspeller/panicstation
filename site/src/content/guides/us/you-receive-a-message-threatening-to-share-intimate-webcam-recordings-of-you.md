@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a message threatening to share intimate webcam recordings of you"
+seo_title: "Threatening message about intimate webcam recordings"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "web cam blackmail"
   - "under 18 sextortion threat"
   - "adult intimate image threat"
-last_reviewed: "2026-06-20"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-20"
 ---
 

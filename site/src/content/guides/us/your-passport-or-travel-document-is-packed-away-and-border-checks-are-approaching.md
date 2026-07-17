@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your passport or travel document is packed away and border checks are approaching"
+seo_title: "Passport or travel document packed away before border check"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "us mexico coach passport inaccessible"
   - "pasport packed away"
   - "passprot hard to reach"
-last_reviewed: "2026-06-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-03"
 ---
 

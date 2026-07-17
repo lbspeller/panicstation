@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your phone is stolen and you are worried about account access"
+seo_title: "Stolen phone and protecting your accounts"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "mobile wallet worry"
   - "phone stollen"
   - "acount access worry"
-last_reviewed: "2026-07-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-02"
 ---
 

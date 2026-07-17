@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a last-minute flight reroute adds a transit stop and you are unsure about document requirements"
+seo_title: "Flight reroute adds transit stop with document uncertainty"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "transit visa reqirements unclear"
   - "passport valadity looks too short"
   - "last-minute transit stop confusion"
-last_reviewed: "2026-05-31"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-31"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a power line has fallen onto your property and you are inside"
+seo_title: "Power line fallen on your property"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "downed line while safely inside"
   - "powr line down outside"
   - "pwer line down outside"
-last_reviewed: "2026-06-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-01"
 ---
 

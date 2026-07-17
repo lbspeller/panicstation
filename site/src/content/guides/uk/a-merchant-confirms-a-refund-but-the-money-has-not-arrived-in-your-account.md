@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a merchant confirms a refund but the money has not arrived in your account"
+seo_title: "Merchant confirmed refund but money not received"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "old card refund problem"
   - "refund not recived"
   - "refunnd not received"
-last_reviewed: "2026-04-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-27"
 ---
 

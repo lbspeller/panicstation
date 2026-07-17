@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone threatens to share intimate images unless you send money"
+seo_title: "Blackmail threat to share intimate images"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "dating app intimate image threat"
   - "social media intimate image threat"
   - "webcam intimate image threat"
-last_reviewed: "2026-06-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-05"
 ---
 

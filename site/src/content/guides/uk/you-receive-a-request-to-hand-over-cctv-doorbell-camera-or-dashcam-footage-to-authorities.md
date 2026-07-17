@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a request to hand over CCTV, doorbell camera, or dashcam footage to authorities"
+seo_title: "Request for CCTV, doorbell, or dashcam footage"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "is dashcam evidence required"
   - "police want cctv fotage"
   - "doorbell footige request"
-last_reviewed: "2026-05-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-18"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a demand to return company equipment with threats of action"
+seo_title: "Demand to return company equipment with threats"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "after termination equipment"
   - "retun company equipment"
   - "company equipmnt demand"
-last_reviewed: "2026-05-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-17"
 ---
 

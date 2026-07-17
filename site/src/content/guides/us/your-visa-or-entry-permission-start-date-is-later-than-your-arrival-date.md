@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your visa or entry permission start date is later than your arrival date"
+seo_title: "Visa or entry permission starts after arrival date"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "student visa too early"
   - "visaa date mismatch"
   - "i94 date wrong"
-last_reviewed: "2026-06-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-19"
 ---
 

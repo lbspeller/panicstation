@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are ordered to surrender firearms or other regulated items"
+seo_title: "Court order to surrender firearms or regulated items"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "firearms licence revoked"
   - "shotgun licence revoked"
   - "fireamrs court order"
-last_reviewed: "2026-05-07"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-07"
 ---
 

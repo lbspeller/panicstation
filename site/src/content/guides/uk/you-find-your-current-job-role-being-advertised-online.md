@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you find your current job role being advertised online"
+seo_title: "Current job role advertised online"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "job advert behind my back"
   - "job add for my role"
   - "role advetised while employed"
-last_reviewed: "2026-05-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-14"
 ---
 

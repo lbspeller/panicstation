@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone you are dating keeps pressuring you for sex after you have said no"
+seo_title: "Date keeps pressuring you for sex after you said no"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "concent not respected"
   - "guilted into sex while dating"
   - "threatened for refusing sex"
-last_reviewed: "2026-06-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-06"
 ---
 

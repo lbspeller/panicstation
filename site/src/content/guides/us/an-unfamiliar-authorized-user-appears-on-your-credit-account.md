@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an unfamiliar authorized user appears on your credit account"
+seo_title: "Unfamiliar authorized user on credit account"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "unfamiliar authroized user on card"
   - "new user on one credit account"
   - "extra person on credit card account"
-last_reviewed: "2026-06-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-01"
 ---
 

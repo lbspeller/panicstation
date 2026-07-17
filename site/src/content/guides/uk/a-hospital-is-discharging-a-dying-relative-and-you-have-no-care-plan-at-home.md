@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a hospital is discharging a dying relative and you have no care plan at home"
+seo_title: "Hospital discharging dying relative with no care plan"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "continuing healthcare confusion"
   - "hosptial discharge no plan"
   - "paliative discharge home"
-last_reviewed: "2026-04-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-26"
 ---
 

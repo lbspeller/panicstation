@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your home Wi-Fi name or password appears changed and your devices disconnect"
+seo_title: "Home Wi-Fi name or password changed unexpectedly"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "wifi passwrod changed"
   - "rounter name changed"
   - "home network after outage"
-last_reviewed: "2026-06-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-30"
 ---
 

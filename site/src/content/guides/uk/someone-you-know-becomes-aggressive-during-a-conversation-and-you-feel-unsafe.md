@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone you know becomes aggressive during a conversation and you feel unsafe"
+seo_title: "Someone you know becomes aggressive and unsafe"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "aggresive conversation"
   - "arguement getting physical"
   - "fear of being hit"
-last_reviewed: "2026-04-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-27"
 ---
 

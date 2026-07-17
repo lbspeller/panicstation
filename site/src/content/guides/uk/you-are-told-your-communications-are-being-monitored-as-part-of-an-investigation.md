@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are told your communications are being monitored as part of an investigation"
+seo_title: "Told your communications are being monitored"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "in prison and monitored"
   - "on remand and monitored"
   - "social media being watched"
-last_reviewed: "2026-05-07"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-07"
 ---
 

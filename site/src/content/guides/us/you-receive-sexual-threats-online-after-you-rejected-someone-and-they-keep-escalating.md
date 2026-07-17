@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive sexual threats online after you rejected someone and they keep escalating"
+seo_title: "Receiving sexual threats online after rejection"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "thretend online after rejection"
   - "harrased after rejecting someone"
   - "after rejecting a dating contact"
-last_reviewed: "2026-06-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-23"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have chest discomfort along with new jaw, shoulder, or arm pain"
+seo_title: "Chest discomfort with new jaw, shoulder, or arm pain"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "chest discomfert and jaw pain"
   - "indegestion with chest discomfort"
   - "alone with chest discomfort"
-last_reviewed: "2026-06-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-18"
 ---
 

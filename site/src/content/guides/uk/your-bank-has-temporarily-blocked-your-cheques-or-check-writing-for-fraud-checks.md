@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your bank has temporarily blocked your cheques or check writing for fraud checks"
+seo_title: "Bank has blocked your check writing"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "cheque book missing"
   - "rent paid by cheque"
   - "bill paid by cheque"
-last_reviewed: "2026-05-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-22"
 ---
 

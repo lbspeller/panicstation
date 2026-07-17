@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your smartwatch flags an unusually low heart rate and you feel faint"
+seo_title: "Smartwatch low heart rate alert and feeling faint"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "low heart rate medication"
   - "low heartrate alert"
   - "smart watch low pulse"
-last_reviewed: "2026-05-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-28"
 ---
 

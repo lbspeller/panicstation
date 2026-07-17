@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an upstairs floor is bowing or sagging and you suspect water damage"
+seo_title: "Upstairs floor bowing or sagging with water damage"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "upstairs floor bowing after leak"
   - "upstairs floor bowing from water damge"
   - "upstairs floor sagging from leeking pipe"
-last_reviewed: "2026-06-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-03"
 ---
 

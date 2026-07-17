@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a notice that your name is on an official watchlist or database and you cannot correct it quickly"
+seo_title: "Notice of name on official watchlist or database"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "federal record problem"
   - "criminal history mismatch"
   - "usa watchlist database notice"
-last_reviewed: "2026-06-21"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-21"
 ---
 

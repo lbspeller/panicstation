@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you think a car is following you while you are driving"
+seo_title: "Think a car is following you while driving"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "alone in car at night"
   - "car folowing me"
   - "vehcle tailing me"
-last_reviewed: "2026-05-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-16"
 ---
 

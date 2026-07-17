@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your electric vehicle will not start charging at a public station"
+seo_title: "Electric vehicle will not start charging at public station"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "chargepoint not working"
   - "low battery at public charger"
   - "rapid charger not charging"
-last_reviewed: "2026-05-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-25"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to send passport or ID scans over an insecure channel urgently"
+seo_title: "Urgent request to send passport or ID scans insecurely"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "pasport scan request"
   - "remote onboarding id request"
   - "new job document panic"
-last_reviewed: "2026-05-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-04"
 ---
 

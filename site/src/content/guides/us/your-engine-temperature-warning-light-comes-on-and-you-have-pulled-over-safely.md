@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your engine temperature warning light comes on and you have pulled over safely"
+seo_title: "Engine temperature warning light after pulling over"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "overheating in hot weather"
   - "temperture warning light on"
   - "coolent warning light on"
-last_reviewed: "2026-06-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-06"
 ---
 

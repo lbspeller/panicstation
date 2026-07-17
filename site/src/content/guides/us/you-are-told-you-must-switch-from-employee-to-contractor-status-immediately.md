@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are told you must switch from employee to contractor status immediately"
+seo_title: "Forced switch from employee to contractor status"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "remote employee changed to contractor"
   - "employe to contractor switch"
   - "contracter status forced"
-last_reviewed: "2026-06-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-11"
 ---
 

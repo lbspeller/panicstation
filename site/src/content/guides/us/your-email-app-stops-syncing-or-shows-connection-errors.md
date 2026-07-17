@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your email app stops syncing or shows connection errors"
+seo_title: "Email app stops syncing or shows connection errors"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "work email not syncing"
   - "email synching errors"
   - "email conecting errors"
-last_reviewed: "2026-06-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-28"
 ---
 

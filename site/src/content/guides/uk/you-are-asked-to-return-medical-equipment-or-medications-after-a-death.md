@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to return medical equipment or medications after a death"
+seo_title: "Returning medical equipment or medications after a death"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "leftover medicaton after death"
   - "soon after a death"
   - "at home after death"
-last_reviewed: "2026-05-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-04"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your return booking reference is not working and you need to show proof of travel"
+seo_title: "Return booking reference not working at check-in"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "hyphenated surname booking"
   - "return booking mising"
   - "reservation not foun"
-last_reviewed: "2026-05-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-03"
 ---
 

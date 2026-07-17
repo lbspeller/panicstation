@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are pressured to falsify records, hours, or performance figures at work"
+seo_title: "Pressured to falsify work records or figures"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -34,7 +35,7 @@ tags:
   - "false billing records at work"
   - "pressured to falsfy records"
   - "asked to falsfy timecard"
-last_reviewed: "2026-06-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-09"
 ---
 

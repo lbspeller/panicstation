@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your approved time off is cancelled with very short notice"
+seo_title: "Approved time off cancelled at short notice"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "aproved time off cancelled"
   - "holidy cancelled short notice"
   - "uk annual leave cancelled"
-last_reviewed: "2026-05-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-22"
 ---
 

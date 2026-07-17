@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your windshield washer jets stop spraying and you need to restore visibility to drive safely"
+seo_title: "Windshield washer jets stopped working while driving"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "roadside windshield washer failure"
   - "freezing weather washer failure"
   - "night driving smeared windshield"
-last_reviewed: "2026-07-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-05"
 ---
 

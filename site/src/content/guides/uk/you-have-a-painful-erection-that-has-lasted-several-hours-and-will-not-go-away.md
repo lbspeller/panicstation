@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have a painful erection that has lasted several hours and will not go away"
+seo_title: "Painful erection lasting several hours"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "after tadalafil painful erection"
   - "after recreational drugs erection"
   - "after pelvic injury erection"
-last_reviewed: "2026-05-12"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-12"
 ---
 

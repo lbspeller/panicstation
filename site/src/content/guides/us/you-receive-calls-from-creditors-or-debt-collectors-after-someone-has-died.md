@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive calls from creditors or debt collectors after someone has died"
+seo_title: "Creditor or debt collector calls after a death"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "before probate is opened"
   - "credtors calling after death"
   - "debt colector after death"
-last_reviewed: "2026-06-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-22"
 ---
 

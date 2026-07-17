@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your computer warns of disk errors and offers a repair that could risk data loss"
+seo_title: "Computer disk error warning and repair prompt"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "chkdsk eror"
   - "disk eror warning"
   - "external drive disk error"
-last_reviewed: "2026-05-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-24"
 ---
 

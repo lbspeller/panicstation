@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your wheelchair or mobility aid is damaged during transport and you still need to travel"
+seo_title: "Wheelchair or mobility aid damaged during travel"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "powerchair or scooter damage"
   - "wheel chair damaged"
   - "mobillity scooter damaged"
-last_reviewed: "2026-05-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-29"
 ---
 

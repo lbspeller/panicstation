@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone keeps getting into your personal space in a way that feels sexual"
+seo_title: "Someone keeps invading your personal space sexually"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "unwanted touching in a venue"
   - "personel space feels sexual"
   - "accidental toching feels sexual"
-last_reviewed: "2026-06-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-05"
 ---
 

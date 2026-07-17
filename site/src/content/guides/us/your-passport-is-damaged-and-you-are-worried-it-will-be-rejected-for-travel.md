@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your passport is damaged and you are worried it will be rejected for travel"
+seo_title: "Damaged passport and concerns about travel rejection"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "international flight passport damaged"
   - "foreign visa damaged passport"
   - "outside us damaged passport"
-last_reviewed: "2026-07-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-01"
 ---
 

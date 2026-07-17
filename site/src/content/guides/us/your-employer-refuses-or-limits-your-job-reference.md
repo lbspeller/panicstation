@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your employer refuses or limits your job reference"
+seo_title: "Employer refuses or limits your job reference"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "reference refused after accommodation request"
   - "referance refused"
   - "employment referance limited"
-last_reviewed: "2026-06-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-11"
 ---
 

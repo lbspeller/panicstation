@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your device is activation locked or linked to an unknown account"
+seo_title: "Device is activation locked or linked to unknown account"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "set up cannot continue"
   - "activaton lock on iphone"
   - "andriod account lock"
-last_reviewed: "2026-05-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-25"
 ---
 

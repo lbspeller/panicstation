@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your card issuer flags a purchase as suspicious and demands immediate identity checks"
+seo_title: "Card issuer flags suspicious purchase or identity check"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -33,7 +34,7 @@ tags:
   - "safe account scam"
   - "suspicious purchace alert"
   - "idenity check request"
-last_reviewed: "2026-05-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-24"
 ---
 

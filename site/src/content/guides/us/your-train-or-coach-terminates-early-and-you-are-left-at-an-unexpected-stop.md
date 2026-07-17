@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your train or coach terminates early and you are left at an unexpected stop"
+seo_title: "Train or coach terminates early at unexpected stop"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "travelling alone after train disruption"
   - "train terminates erly"
   - "coach terminates eary"
-last_reviewed: "2026-06-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-10"
 ---
 

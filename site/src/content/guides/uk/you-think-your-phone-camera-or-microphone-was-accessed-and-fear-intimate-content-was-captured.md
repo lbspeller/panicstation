@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you think your phone camera or microphone was accessed and fear intimate content was captured"
+seo_title: "Phone camera or microphone accessed and privacy fear"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "when living with suspect"
   - "fone camera hacked"
   - "camra hacked"
-last_reviewed: "2026-05-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-16"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone is trying to get you to open your car window and you feel unsafe"
+seo_title: "Someone trying to get you to open your car window"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "car jacking uk"
   - "car jackng"
   - "car windo unsafe"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-01"
 ---
 

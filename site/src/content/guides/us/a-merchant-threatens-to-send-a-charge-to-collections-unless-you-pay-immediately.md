@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a merchant threatens to send a charge to collections unless you pay immediately"
+seo_title: "Merchant threatens collections unless you pay immediately"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "old merchant account charge"
   - "colletions threat from merchant"
   - "merhcant threatens collections"
-last_reviewed: "2026-05-31"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-31"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your phone is missing and the location tracking shows an unexpected place"
+seo_title: "Missing phone shows unexpected location on map"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "port out after stolen phone"
   - "find my devce wrong"
   - "fone missing location"
-last_reviewed: "2026-07-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-02"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your mobile number has a pending transfer or port-out you did not request"
+seo_title: "Unauthorized mobile number transfer or port-out pending"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -33,7 +34,7 @@ tags:
   - "porting request not mine"
   - "sim swop warning"
   - "unathorised number transfer"
-last_reviewed: "2026-05-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-26"
 ---
 

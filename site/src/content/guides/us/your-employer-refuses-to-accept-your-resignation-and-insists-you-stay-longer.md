@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your employer refuses to accept your resignation and insists you stay longer"
+seo_title: "Employer refuses to accept your resignation"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "usa employer resignation dispute"
   - "union job resignation dispute"
   - "contract job resignation dispute"
-last_reviewed: "2026-06-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-29"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your heart suddenly starts racing or pounding while you are at rest"
+seo_title: "Heart suddenly racing or pounding at rest"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "night time pounding heart"
   - "new palpitations at rest"
   - "pregnant with palpitations"
-last_reviewed: "2026-05-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-26"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your online banking shows a zero balance and you suspect a system outage"
+seo_title: "Online banking shows zero balance during outage"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "payday deposit missing"
   - "mobile banking outage"
   - "credit union balance zero"
-last_reviewed: "2026-07-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-01"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your rental car reservation is cancelled at pickup and you need transport urgently"
+seo_title: "Rental car reservation cancelled at pickup"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "airport pickup rental cancelled"
   - "prepaid booking no car"
   - "out of state rental problem"
-last_reviewed: "2026-07-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-03"
 ---
 

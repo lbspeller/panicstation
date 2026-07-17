@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your cloud account shows a warning about permanent deletion or a verification issue"
+seo_title: "Cloud account deletion or verification warning"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "cloud acount deletion"
   - "verfication failed account"
   - "paid cloud storage account"
-last_reviewed: "2026-06-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-27"
 ---
 

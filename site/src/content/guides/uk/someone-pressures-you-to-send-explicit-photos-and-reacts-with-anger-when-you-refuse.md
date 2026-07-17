@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone pressures you to send explicit photos and reacts with anger when you refuse"
+seo_title: "Pressured to send explicit photos and facing anger"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "under 18 explicit photos"
   - "dating app explicit pressure"
   - "online stranger demanding nudes"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-01"
 ---
 

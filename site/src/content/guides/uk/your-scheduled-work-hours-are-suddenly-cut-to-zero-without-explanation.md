@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your scheduled work hours are suddenly cut to zero without explanation"
+seo_title: "Scheduled work hours suddenly cut to zero"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "casual worker hours cut"
   - "rota sudenly empty"
   - "shifts disapeared"
-last_reviewed: "2026-05-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-28"
 ---
 

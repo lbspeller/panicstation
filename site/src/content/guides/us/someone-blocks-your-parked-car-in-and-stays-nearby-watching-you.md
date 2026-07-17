@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone blocks your parked car in and stays nearby watching you"
+seo_title: "Someone blocking your parked car and watching you"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "someone nearby watching my car"
   - "blocked in parkng lot"
   - "someone blocks my parked vehical"
-last_reviewed: "2026-06-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-04"
 ---
 

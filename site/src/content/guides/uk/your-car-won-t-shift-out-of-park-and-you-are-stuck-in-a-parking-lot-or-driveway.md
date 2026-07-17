@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your car won’t shift out of park and you are stuck in a parking lot or driveway"
+seo_title: "Car stuck in park and cannot shift gears"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "uk car park stuck"
   - "gear selctor stuck"
   - "brake lite not working"
-last_reviewed: "2026-05-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-23"
 ---
 

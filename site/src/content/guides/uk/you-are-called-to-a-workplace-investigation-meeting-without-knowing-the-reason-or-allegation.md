@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are called to a workplace investigation meeting without knowing the reason or allegation"
+seo_title: "Called to a workplace investigation meeting without details"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "allegaton not in writing"
   - "investigation meeeting at work"
   - "union member at work"
-last_reviewed: "2026-05-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-03"
 ---
 

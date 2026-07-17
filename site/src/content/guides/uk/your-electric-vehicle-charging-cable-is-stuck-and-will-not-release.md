@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your electric vehicle charging cable is stuck and will not release"
+seo_title: "Electric vehicle charging cable stuck and will not release"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "chargepoint broken not car"
   - "cable theft risk"
   - "late for work charging"
-last_reviewed: "2026-05-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-24"
 ---
 

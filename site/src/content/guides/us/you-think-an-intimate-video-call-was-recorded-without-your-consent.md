@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you think an intimate video call was recorded without your consent"
+seo_title: "Intimate video call recorded without consent"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "recorded as a teenager"
   - "intimate vidio call recorded"
   - "recorded without conscent"
-last_reviewed: "2026-06-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-19"
 ---
 

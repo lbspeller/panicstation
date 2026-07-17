@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a stranger will not leave you alone after you try to end the conversation"
+seo_title: "Stranger will not stop talking or following you"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "stranger wont leave me"
   - "on a train with stranger"
   - "at station with stranger"
-last_reviewed: "2026-04-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-28"
 ---
 

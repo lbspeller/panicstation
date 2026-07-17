@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you wake up with memory gaps after drinking and fear you may have been sexually assaulted"
+seo_title: "Memory gaps after drinking and fear of assault"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "after drinking at a party"
   - "after waking up alone"
   - "after waking up elsewhere"
-last_reviewed: "2026-05-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-22"
 ---
 

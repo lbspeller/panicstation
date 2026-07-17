@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are coughing or having trouble breathing after inhaling strong cleaning fumes indoors"
+seo_title: "Coughing or trouble breathing after cleaning fumes"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "asthma after cleaning fumes"
   - "bleech fumes cough"
   - "amonia cleaner fumes"
-last_reviewed: "2026-06-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-23"
 ---
 

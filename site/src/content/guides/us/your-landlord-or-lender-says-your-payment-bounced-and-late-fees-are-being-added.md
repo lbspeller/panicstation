@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your landlord or lender says your payment bounced and late fees are being added"
+seo_title: "Landlord or lender says payment bounced and fees added"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "mortgage late fee dispute"
   - "landlord changed payment method"
   - "payment bounced before payday"
-last_reviewed: "2026-06-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-30"
 ---
 

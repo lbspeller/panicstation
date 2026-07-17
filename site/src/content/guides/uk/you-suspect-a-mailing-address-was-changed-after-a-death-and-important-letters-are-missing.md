@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you suspect a mailing address was changed after a death and important letters are missing"
+seo_title: "Suspected mail redirection or missing letters after death"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "postal redirection confusion"
   - "bereavment mail missing"
   - "adress changed after death"
-last_reviewed: "2026-05-21"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-21"
 ---
 

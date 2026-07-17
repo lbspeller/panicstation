@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you return to your parked vehicle and it looks like someone may have broken in or tampered with it"
+seo_title: "Returning to a parked vehicle that looks tampered with"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "late night car park"
   - "carpark feels unsafe"
   - "vehical looks tampered with"
-last_reviewed: "2026-05-20"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-20"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your vehicle warns of an electronic parking brake fault and you need to leave it parked"
+seo_title: "Electronic parking brake fault and vehicle roll risk"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "parked on hill with fault"
   - "automatic car parking brake fault"
   - "manual car parking brake fault"
-last_reviewed: "2026-05-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-28"
 ---
 

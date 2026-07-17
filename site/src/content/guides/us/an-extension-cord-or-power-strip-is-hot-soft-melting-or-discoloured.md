@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an extension cord or power strip is hot, soft, melting, or discoloured"
+seo_title: "Extension cord or power strip is overheating"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -34,7 +35,7 @@ tags:
   - "cord gets hot in apartment"
   - "extension cord overheting"
   - "power strip discolered"
-last_reviewed: "2026-06-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-03"
 ---
 

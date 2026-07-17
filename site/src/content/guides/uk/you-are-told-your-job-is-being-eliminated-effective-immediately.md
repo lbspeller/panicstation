@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are told your job is being eliminated effective immediately"
+seo_title: "Job eliminated effective immediately"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "probation role eliminated"
   - "redunancy effective immediately"
   - "redundnacy meeting today"
-last_reviewed: "2026-05-08"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-08"
 ---
 

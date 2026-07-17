@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone threatens to share intimate images unless you send money"
+seo_title: "Blackmail threat to share intimate images"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "under 18 image threat"
   - "sextorion threat"
   - "nude leeking threat"
-last_reviewed: "2026-05-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-02"
 ---
 

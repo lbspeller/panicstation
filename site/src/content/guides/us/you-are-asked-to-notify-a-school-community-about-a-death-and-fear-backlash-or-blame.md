@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to notify a school community about a death and fear backlash or blame"
+seo_title: "Notifying a school community about a death"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "a death happened outside school hours"
   - "rumers spreading after a school death"
   - "school comunity death message feels risky"
-last_reviewed: "2026-06-08"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-08"
 ---
 

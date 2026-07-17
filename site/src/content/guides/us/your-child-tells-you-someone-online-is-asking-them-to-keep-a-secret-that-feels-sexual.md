@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your child tells you someone online is asking them to keep a secret that feels sexual"
+seo_title: "child says someone asked them to keep a secret that feels sexual"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "group chat sexual pressure"
   - "groming online child"
   - "sextorsion child worry"
-last_reviewed: "2026-06-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-27"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive repeated calls from an unknown number claiming they are outside your home"
+seo_title: "Unknown caller claims to be outside your home"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "home alone unknown caller"
   - "unkown number repeated calls"
   - "repeted calls unknown number"
-last_reviewed: "2026-05-20"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-20"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you hear arguing or sounds of distress from a neighbor and are unsure whether to intervene"
+seo_title: "Hearing arguing or distress from a neighbor"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "afraid of retaliation"
   - "late night neighbour argument"
   - "neigbour shouting next door"
-last_reviewed: "2026-05-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-13"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you hear a loud new grinding or scraping noise while driving"
+seo_title: "Loud grinding or scraping noise while driving"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "loose plastic under car"
   - "noise on motorway"
   - "noise on hard shoulder"
-last_reviewed: "2026-05-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-13"
 ---
 

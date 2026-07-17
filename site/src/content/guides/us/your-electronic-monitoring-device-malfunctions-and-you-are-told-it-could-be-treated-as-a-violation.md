@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your electronic monitoring device malfunctions and you are told it could be treated as a violation"
+seo_title: "Electronic monitoring device malfunction or error"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "monitor malfunction during home confinement"
   - "monitor malfunction after power outage"
   - "monitor malfunction while traveling approved route"
-last_reviewed: "2026-06-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-03"
 ---
 

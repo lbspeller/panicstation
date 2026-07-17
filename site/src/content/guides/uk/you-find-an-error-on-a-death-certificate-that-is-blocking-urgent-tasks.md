@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you find an error on a death certificate that is blocking urgent tasks"
+seo_title: "Error on death certificate blocking urgent tasks"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "death certificate blocks probate"
   - "urgent bereavement admin problem"
   - "recent death paperwork problem"
-last_reviewed: "2026-05-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-13"
 ---
 

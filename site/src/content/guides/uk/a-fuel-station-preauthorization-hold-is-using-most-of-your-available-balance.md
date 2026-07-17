@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a fuel station preauthorization hold is using most of your available balance"
+seo_title: "Fuel station hold using your available balance"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "preauth petrol payment"
   - "preauthorizaton fuel hold"
   - "supermarket petrol pump hold"
-last_reviewed: "2026-04-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-26"
 ---
 

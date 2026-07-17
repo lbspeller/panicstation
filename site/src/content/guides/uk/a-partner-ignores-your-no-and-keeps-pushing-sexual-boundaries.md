@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a partner ignores your no and keeps pushing sexual boundaries"
+seo_title: "Partner ignores your no and pushes sexual boundaries"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "living with pushy partner"
   - "after unwanted sexual contact"
   - "recent sexual assault worry"
-last_reviewed: "2026-04-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-27"
 ---
 

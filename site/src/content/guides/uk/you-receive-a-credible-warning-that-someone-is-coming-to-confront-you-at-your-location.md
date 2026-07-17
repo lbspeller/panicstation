@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a credible warning that someone is coming to confront you at your location"
+seo_title: "Warning that someone is coming to confront you"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "front door confrontation"
   - "adress known by hostile person"
   - "neigbour coming to confront me"
-last_reviewed: "2026-05-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-17"
 ---
 

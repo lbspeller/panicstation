@@ -1,5 +1,6 @@
 ---
 title: "What to do if… essential services are in the name of a person who died and shutoff notices may be coming"
+seo_title: "Essential services in name of deceased person"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "deceased direct debit confusion"
   - "utillity bills after death"
   - "shutof notice after death"
-last_reviewed: "2026-05-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-14"
 ---
 

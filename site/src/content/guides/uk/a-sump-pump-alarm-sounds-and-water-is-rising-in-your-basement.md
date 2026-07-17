@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a sump pump alarm sounds and water is rising in your basement"
+seo_title: "Sump pump alarm sounding and basement water rising"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "during a power cut"
   - "after heavy rain"
   - "rented basement flat"
-last_reviewed: "2026-04-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-28"
 ---
 

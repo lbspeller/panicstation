@@ -1,5 +1,6 @@
 ---
 title: "What to do if… police ask you to provide an alibi for someone and you feel pressured to answer quickly"
+seo_title: "Police asking you to provide an alibi quickly"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "federal agents ask about alibi"
   - "aliby request from police"
   - "allibi request from police"
-last_reviewed: "2026-06-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-04"
 ---
 

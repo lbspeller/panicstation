@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice someone waiting near your car and watching you approach"
+seo_title: "Someone waiting near your car and watching you"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "parkin lot feels unsafe"
   - "parking garadge feels unsafe"
   - "alone in a parking lot"
-last_reviewed: "2026-06-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-18"
 ---
 

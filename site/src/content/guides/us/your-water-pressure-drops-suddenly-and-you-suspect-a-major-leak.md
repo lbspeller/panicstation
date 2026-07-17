@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your water pressure drops suddenly and you suspect a major leak"
+seo_title: "Sudden water pressure drop and suspected leak"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "presure drop water"
   - "waterr leak in house"
   - "renter with water leak"
-last_reviewed: "2026-07-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-04"
 ---
 

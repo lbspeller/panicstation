@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you get a new severe stiff neck without an obvious injury"
+seo_title: "New severe stiff neck without injury"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "neck pain no accident"
   - "stif neck no injury"
   - "neck pane stiffness"
-last_reviewed: "2026-05-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-11"
 ---
 

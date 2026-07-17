@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a customer or client is threatening you online because of your job"
+seo_title: "Customer or client threatening you online"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "small business owner threatened online"
   - "thretaning customer online"
   - "client harrassing me online"
-last_reviewed: "2026-05-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-30"
 ---
 

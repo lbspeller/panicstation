@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone is standing too close to you at an ATM or payment terminal"
+seo_title: "Someone standing too close at ATM or payment terminal"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "cashpoint at night"
   - "cashpoint feels suspicous"
   - "pin maybe visable"
-last_reviewed: "2026-05-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-04"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you develop new chest pain that gets worse when you breathe in"
+seo_title: "New chest pain that hurts when breathing"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "chest pain after surgery"
   - "chest pain during pregnancy"
   - "chest pain after giving birth"
-last_reviewed: "2026-05-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-09"
 ---
 

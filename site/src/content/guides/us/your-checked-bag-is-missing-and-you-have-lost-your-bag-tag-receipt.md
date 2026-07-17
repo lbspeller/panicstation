@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your checked bag is missing and you have lost your bag tag receipt"
+seo_title: "Checked bag missing and bag tag receipt lost"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "international flight missing bag"
   - "connecting flight missing bag"
   - "hotel delivery for missing bag"
-last_reviewed: "2026-06-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-17"
 ---
 

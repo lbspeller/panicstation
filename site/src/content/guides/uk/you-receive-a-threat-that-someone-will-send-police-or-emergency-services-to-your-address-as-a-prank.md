@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a threat that someone will send police or emergency services to your address as a prank"
+seo_title: "Threat of a hoax emergency call to your address"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "swatting thret"
   - "online harassment with address"
   - "flat address hoax threat"
-last_reviewed: "2026-05-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-19"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a neighbour is threatening you or repeatedly knocking on your door"
+seo_title: "Neighbour threatening you or knocking on your door"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "threatning neighbor outside home"
   - "threats after neighbor dispute"
   - "repeated neighbor doorstep visits"
-last_reviewed: "2026-05-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-30"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you find an online post about your sex life that identifies you and you feel exposed"
+seo_title: "Online post about your sex life identifying you"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -33,7 +34,7 @@ tags:
   - "sexaul post about me"
   - "rumers about my sex life"
   - "public post with sexual details"
-last_reviewed: "2026-06-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-14"
 ---
 

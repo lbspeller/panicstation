@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an unfamiliar authorized user appears on your credit account"
+seo_title: "Unfamiliar authorized user on credit account"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "uk credit account fraud"
   - "authorzed user on account"
   - "authroised user appeared"
-last_reviewed: "2026-04-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-27"
 ---
 

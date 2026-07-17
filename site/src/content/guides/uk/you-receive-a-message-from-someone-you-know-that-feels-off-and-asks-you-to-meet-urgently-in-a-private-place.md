@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a message from someone you know that feels off and asks you to meet urgently in a private place"
+seo_title: "Suspicious message from friend asking to meet privately"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "late night meet request"
   - "online message before meeting"
   - "urgent message in uk"
-last_reviewed: "2026-05-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-18"
 ---
 

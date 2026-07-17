@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your home address or workplace has been posted online alongside hostile comments"
+seo_title: "Home address or workplace posted online with threats"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "adress posted online"
   - "work place posted online"
   - "after social media harassment"
-last_reviewed: "2026-06-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-14"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you feel throat tightness or hoarseness after exposure to a potential allergen"
+seo_title: "Throat tightness or hoarseness after allergen exposure"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "reaction after medication dose"
   - "known allergy throat symptoms"
   - "alone with allergy symptoms"
-last_reviewed: "2026-05-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-10"
 ---
 

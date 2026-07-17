@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a landlord or supplier sends unexpected new bank details for a payment"
+seo_title: "Unexpected request to change payment bank details"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "rent payment due soon"
   - "supplier invoice due soon"
   - "standing order details changed"
-last_reviewed: "2026-04-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-26"
 ---
 

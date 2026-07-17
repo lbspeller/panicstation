@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a radiator or heating pipe starts leaking water onto the floor"
+seo_title: "Radiator or heating pipe leaking water onto floor"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "night time radiator leak"
   - "hot radiator leaking water"
   - "upstairs radiator leak"
-last_reviewed: "2026-04-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-28"
 ---
 

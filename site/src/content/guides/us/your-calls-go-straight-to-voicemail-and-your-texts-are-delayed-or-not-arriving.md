@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your calls go straight to voicemail and your texts are delayed or not arriving"
+seo_title: "Phone not receiving calls or texts"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "travelling poor reception"
   - "voicemal no ringing"
   - "txts not arriving"
-last_reviewed: "2026-06-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-27"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your bag containing your travel documents is delayed or missing after arrival"
+seo_title: "Travel documents missing in delayed or lost luggage"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "passprt in lost bag"
   - "after arriving in uk"
   - "airport arrivals baggage claim"
-last_reviewed: "2026-05-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-22"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you lose the arrival or departure card you were told to keep with your passport"
+seo_title: "Lost arrival or departure card kept with passport"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "arival card missing"
   - "passprot card lost"
   - "leaving usa card missing"
-last_reviewed: "2026-06-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-17"
 ---
 

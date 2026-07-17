@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a key snaps in the lock and you cannot lock or unlock the door"
+seo_title: "Key snapped in lock and door will not open"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "deadbolt jam or broken key"
   - "rental door broken key"
   - "after hours broken door lock"
-last_reviewed: "2026-05-31"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-31"
 ---
 

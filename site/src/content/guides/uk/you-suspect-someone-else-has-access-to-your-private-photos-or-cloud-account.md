@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you suspect someone else has access to your private photos or cloud account"
+seo_title: "Suspect someone has access to your private photos"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "during coercive control"
   - "after phone was borrowed"
   - "under 18 image worry"
-last_reviewed: "2026-05-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-22"
 ---
 

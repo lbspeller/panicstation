@@ -1,5 +1,6 @@
 ---
 title: "What to do if… family members are giving doctors conflicting instructions during an end-of-life situation"
+seo_title: "Family members giving doctors conflicting instructions"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "patient may lack capacity"
   - "conflicting instrutions doctors"
   - "end of life disgreement"
-last_reviewed: "2026-06-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-03"
 ---
 

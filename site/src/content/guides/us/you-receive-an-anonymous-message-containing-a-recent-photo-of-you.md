@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive an anonymous message containing a recent photo of you"
+seo_title: "Anonymous message containing a recent photo of you"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "possible blackmail with photo"
   - "possible extortion message"
   - "wierd message with my photo"
-last_reviewed: "2026-06-20"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-20"
 ---
 

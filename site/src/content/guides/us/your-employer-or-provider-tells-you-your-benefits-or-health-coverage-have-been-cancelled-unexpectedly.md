@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your employer or provider tells you your benefits or health coverage have been cancelled unexpectedly"
+seo_title: "Employer or provider cancelled benefits unexpectedly"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "benefits cancled unexpectedly"
   - "prescription rejected after coverage ended"
   - "employer benefits ended without notice"
-last_reviewed: "2026-06-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-11"
 ---
 

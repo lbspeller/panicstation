@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a stranger is pressuring you to scan a QR code or click a link in public"
+seo_title: "Stranger pressuring you to scan QR code or link"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "qr code scam"
   - "qr code skam"
   - "phising link"
-last_reviewed: "2026-04-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-28"
 ---
 

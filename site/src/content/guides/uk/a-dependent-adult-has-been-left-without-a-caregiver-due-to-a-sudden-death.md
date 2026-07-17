@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a dependent adult has been left without a caregiver due to a sudden death"
+seo_title: "Dependent adult left without a caregiver"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "after relative died suddenly"
   - "during funeral planning"
   - "out of hours care crisis"
-last_reviewed: "2026-05-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-16"
 ---
 

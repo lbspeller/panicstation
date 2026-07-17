@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your door peephole or viewer looks covered or tampered with"
+seo_title: "Door peephole or viewer covered or tampered with"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "suspicious front door"
   - "peep hole covered"
   - "spy hole blocked"
-last_reviewed: "2026-05-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-16"
 ---
 

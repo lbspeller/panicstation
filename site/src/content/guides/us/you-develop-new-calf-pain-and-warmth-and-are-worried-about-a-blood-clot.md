@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you develop new calf pain and warmth and are worried about a blood clot"
+seo_title: "New calf pain and warmth: worried about blood clot"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "deep vien thrombosis worry"
   - "calf pain after immobility"
   - "warm calf after long flight"
-last_reviewed: "2026-06-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-13"
 ---
 

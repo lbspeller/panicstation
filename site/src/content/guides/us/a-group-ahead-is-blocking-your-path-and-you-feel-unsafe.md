@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a group ahead is blocking your path and you feel unsafe"
+seo_title: "Group ahead blocking your path and feeling unsafe"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "sidewalk blockade while walking alone"
   - "sidewak blockade ahead"
   - "sidewalk blockaide ahead"
-last_reviewed: "2026-05-31"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-31"
 ---
 

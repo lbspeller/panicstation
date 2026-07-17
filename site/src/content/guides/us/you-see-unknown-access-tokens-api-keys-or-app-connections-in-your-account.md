@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you see unknown access tokens, API keys, or app connections in your account"
+seo_title: "Unknown access tokens or API keys in account"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "session cookie stolen"
   - "acess token appeared"
   - "unkown api key"
-last_reviewed: "2026-06-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-23"
 ---
 

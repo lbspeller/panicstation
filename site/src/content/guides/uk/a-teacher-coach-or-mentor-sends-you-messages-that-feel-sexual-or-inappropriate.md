@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a teacher, coach, or mentor sends you messages that feel sexual or inappropriate"
+seo_title: "a teacher sends you messages that feel sexual or inappropriate"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "wierd teacher messages"
   - "innapropriate coach texts"
   - "online messages from adult"
-last_reviewed: "2026-04-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-28"
 ---
 

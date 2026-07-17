@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your electric vehicle charging session stops unexpectedly and you are low on range"
+seo_title: "Electric vehicle charging session stopped unexpectedly"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "public car park charger"
   - "nighttime ev charging"
   - "long journey charging"
-last_reviewed: "2026-05-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-11"
 ---
 

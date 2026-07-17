@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a colleague is spreading your personal information at work and it is escalating"
+seo_title: "Colleague spreading your personal information at work"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "collegue spreading information"
   - "rumours at wrok"
   - "same team colleague escalating"
-last_reviewed: "2026-04-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-25"
 ---
 

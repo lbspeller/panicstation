@@ -1,5 +1,6 @@
 ---
 title: "What to do if… people are arriving at your home after a death and you need privacy and boundaries"
+seo_title: "Managing visitors and privacy after a death"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "visitors after a family death"
   - "people arriving while grieving alone"
   - "people arriving during private grief"
-last_reviewed: "2026-06-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-04"
 ---
 

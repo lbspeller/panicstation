@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a partner threatens to share private sexual images or information unless you comply"
+seo_title: "Partner threatening to share private sexual images"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "digital abuse by partner"
   - "private sexual detales threat"
   - "partner thretning exposure"
-last_reviewed: "2026-04-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-27"
 ---
 

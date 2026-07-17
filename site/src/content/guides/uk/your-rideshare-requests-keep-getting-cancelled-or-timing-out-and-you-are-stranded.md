@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your rideshare requests keep getting cancelled or timing out and you are stranded"
+seo_title: "Rideshare requests keep cancelling and you are stranded"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "with low phone battery"
   - "cant get a cab"
   - "minicab not showing"
-last_reviewed: "2026-04-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-30"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you hear suspicious movement or noise outside your home at night"
+seo_title: "Suspicious noise or movement outside your home at night"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "nighttime driveway sounds"
   - "noize outside house"
   - "proler outside my home"
-last_reviewed: "2026-06-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-16"
 ---
 

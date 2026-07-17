@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a debit card purchase posts twice and your available balance drops"
+seo_title: "Debit card purchase posted twice"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "duplicate debit with bills due"
   - "debit posted twise"
   - "availible balance collapsed"
-last_reviewed: "2026-04-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-27"
 ---
 

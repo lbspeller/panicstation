@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a person dies while separated from their partner and family members are fighting over arrangements"
+seo_title: "Family conflict after death of separated partner"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "long distance family conflict"
   - "seperated spouse death"
   - "famly conflict after death"
-last_reviewed: "2026-06-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-01"
 ---
 

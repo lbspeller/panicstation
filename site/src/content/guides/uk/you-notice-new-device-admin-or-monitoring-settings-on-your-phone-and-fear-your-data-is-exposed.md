@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice new device admin or monitoring settings on your phone and fear your data is exposed"
+seo_title: "Suspicious phone monitoring or device admin settings"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "unsafe shared phone"
   - "abusive partner surveillance"
   - "coercive control tech"
-last_reviewed: "2026-05-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-16"
 ---
 

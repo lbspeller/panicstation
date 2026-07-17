@@ -1,5 +1,6 @@
 ---
 title: "What to do if… the last ferry of the day is cancelled and you are stranded"
+seo_title: "Last ferry cancelled and you are stranded"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "ferrie cancelled"
   - "fery cancelled"
   - "uk ferry terminal"
-last_reviewed: "2026-05-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-02"
 ---
 

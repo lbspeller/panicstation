@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a leak from the unit above is damaging your home and the responsible party is not responding"
+seo_title: "Water leak from unit above and no response"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "condo upstairs unit leak"
   - "neigbor leak not responding"
   - "upstair apartment leak"
-last_reviewed: "2026-05-31"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-31"
 ---
 

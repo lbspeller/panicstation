@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your bank says a transaction is pending or on hold and you need the money now"
+seo_title: "Bank transaction pending or on hold and need money now"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "wire ach or check"
   - "rent due before clearing"
   - "essential bills due"
-last_reviewed: "2026-06-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-26"
 ---
 

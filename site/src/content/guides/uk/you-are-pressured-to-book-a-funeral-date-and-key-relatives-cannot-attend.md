@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are pressured to book a funeral date and key relatives cannot attend"
+seo_title: "Pressured to book a funeral date too soon"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "uk funeral date pressure"
   - "scotland funeral timing"
   - "northern ireland funeral timing"
-last_reviewed: "2026-05-07"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-07"
 ---
 

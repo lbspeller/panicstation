@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice unexplained small deposits in your bank account"
+seo_title: "Unexplained small deposits in your bank account"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "identity theft early sign"
   - "acct verify deposit"
   - "micro deposites in account"
-last_reviewed: "2026-06-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-19"
 ---
 

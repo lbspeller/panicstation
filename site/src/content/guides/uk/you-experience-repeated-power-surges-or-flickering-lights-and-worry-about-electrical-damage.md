@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you experience repeated power surges or flickering lights and worry about electrical damage"
+seo_title: "Repeated power surges or flickering lights"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "grid problem or house wiring"
   - "power surg worry"
   - "wiring damge worry"
-last_reviewed: "2026-05-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-10"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone you met online pressures you to meet in private and refuses public places"
+seo_title: "Online date pressures you to meet in private"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "privat meeting pressure"
   - "before first date"
   - "after sharing my number"
-last_reviewed: "2026-05-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-02"
 ---
 

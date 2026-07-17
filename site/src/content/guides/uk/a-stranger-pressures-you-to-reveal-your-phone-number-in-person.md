@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a stranger pressures you to reveal your phone number in person"
+seo_title: "Stranger pressuring you for your phone number"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "not sure if scam"
   - "stranger wants my fone number"
   - "stranger asks for my phonenumber"
-last_reviewed: "2026-04-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-28"
 ---
 

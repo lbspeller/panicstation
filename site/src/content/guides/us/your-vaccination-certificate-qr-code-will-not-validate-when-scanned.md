@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your vaccination certificate QR code will not validate when scanned"
+seo_title: "Vaccination certificate QR code not validating"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "border vaccine proof problem"
   - "pharmacy vaccine record missing"
   - "state vaccine record mismatch"
-last_reviewed: "2026-06-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-17"
 ---
 

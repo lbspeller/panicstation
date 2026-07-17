@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are being harassed online and fear it is escalating to in-person targeting"
+seo_title: "Online harassment escalating to in-person threats"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "pile-on becoming offline"
   - "harrased online"
   - "doxxed adress"
-last_reviewed: "2026-05-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-04"
 ---
 

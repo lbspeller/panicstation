@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your circuit breaker keeps tripping when you use an appliance"
+seo_title: "Circuit breaker keeps tripping when using appliance"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "rented home electrics tripping"
   - "new appliance trips breaker"
   - "kitchen appliance trips electrics"
-last_reviewed: "2026-05-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-24"
 ---
 

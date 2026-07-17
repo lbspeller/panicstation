@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice someone photographing or filming you in a way that feels targeted"
+seo_title: "Someone filming or photographing you in a targeted way"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "being filmed in store"
   - "targetted filming"
   - "targetted photography"
-last_reviewed: "2026-06-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-18"
 ---
 

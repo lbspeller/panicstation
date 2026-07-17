@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you realise your passport is missing the night before you travel"
+seo_title: "Passport missing the night before travel"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "night before travel"
   - "pasport missing before travel"
   - "passport mising before flight"
-last_reviewed: "2026-06-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-19"
 ---
 

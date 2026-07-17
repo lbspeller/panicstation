@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you develop severe muscle cramps and feel overheated in hot weather"
+seo_title: "Severe muscle cramps and overheating in hot weather"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "cramps during outdoor activity"
   - "overheating musle cramps"
   - "severe muscel cramps in heat"
-last_reviewed: "2026-06-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-13"
 ---
 

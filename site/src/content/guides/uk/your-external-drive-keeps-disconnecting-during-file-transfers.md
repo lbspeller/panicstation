@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your external drive keeps disconnecting during file transfers"
+seo_title: "External drive keeps disconnecting during file transfers"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "external drive sleep problem"
   - "externel drive disconnects"
   - "file tranfer keeps failing"
-last_reviewed: "2026-04-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-29"
 ---
 

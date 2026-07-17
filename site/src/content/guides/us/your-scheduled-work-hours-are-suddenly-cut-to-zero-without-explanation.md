@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your scheduled work hours are suddenly cut to zero without explanation"
+seo_title: "Scheduled work hours suddenly cut to zero"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -33,7 +34,7 @@ tags:
   - "zero-hour schdule"
   - "layed off with no notice"
   - "hourly worker no shifts"
-last_reviewed: "2026-07-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-03"
 ---
 

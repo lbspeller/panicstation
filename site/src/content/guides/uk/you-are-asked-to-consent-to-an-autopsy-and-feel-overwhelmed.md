@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to consent to an autopsy and feel overwhelmed"
+seo_title: "Asked to consent to an autopsy"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "less invasive post-mortem worry"
   - "autospy decision panic"
   - "postmortem decision panic"
-last_reviewed: "2026-05-07"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-07"
 ---
 

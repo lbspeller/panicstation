@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone is repeatedly sliding notes or objects under your door and you feel targeted"
+seo_title: "Repeated notes or objects left at your door"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "objects outside apartment door"
   - "anonymus notes under door"
   - "harrasment at apartment door"
-last_reviewed: "2026-06-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-05"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you discover rumours about your performance are being circulated at work"
+seo_title: "Rumours about your work performance being circulated"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "manager spreading performance rumours"
   - "rumours abotu performance at work"
   - "work perfomance rumours"
-last_reviewed: "2026-05-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-10"
 ---
 

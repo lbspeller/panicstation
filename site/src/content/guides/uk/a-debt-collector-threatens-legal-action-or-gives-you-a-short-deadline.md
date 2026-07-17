@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a debt collector threatens legal action or gives you a short deadline"
+seo_title: "Debt collector threatening legal action or deadline"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "scotland debt court papers"
   - "debt colector court threat"
   - "legal action dept letter"
-last_reviewed: "2026-04-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-25"
 ---
 

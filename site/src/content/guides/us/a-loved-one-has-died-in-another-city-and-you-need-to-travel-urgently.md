@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a loved one has died in another city and you need to travel urgently"
+seo_title: "Loved one died in another city and you need to travel"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "death notifcation out of town"
   - "bereavment travel emergency"
   - "out of state death"
-last_reviewed: "2026-06-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-16"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice a tick bite and a rash that is spreading or getting bigger"
+seo_title: "Tick bite and spreading rash"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "lyme diesease worry"
   - "child tick bite rash"
   - "pregnant tick bite rash"
-last_reviewed: "2026-05-15"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-15"
 ---
 

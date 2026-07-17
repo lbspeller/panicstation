@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your child tells you someone online is asking them to keep a secret that feels sexual"
+seo_title: "child says someone asked them to keep a secret that feels sexual"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -35,11 +36,12 @@ tags:
   - "child sent sexual image"
   - "online groomming child"
   - "child online secert"
-last_reviewed: "2026-05-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-24"
 ---
 
 # What to do if… your child tells you someone online is asking them to keep a secret that feels sexual (UK)
+
 ## Short answer
 
 Treat this as a safeguarding concern. Stay calm, thank your child for telling you, and help them stop contact without blaming them or pressing for every detail at once.

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are considering reporting a sexual assault and feel overwhelmed or unsure what to do first"
+seo_title: "Considering reporting sexual assault and feeling overwhelmed"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "rape suport needed"
   - "recent sexual assault"
   - "confidential sexual assault support"
-last_reviewed: "2026-05-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-04"
 ---
 

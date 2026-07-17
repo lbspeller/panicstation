@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are told to start working on-call immediately without prior agreement"
+seo_title: "Told to start on-call work immediately"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -42,7 +43,7 @@ tags:
   - "on-call duty in safety-sensitive job"
   - "oncall duty added suddenly"
   - "schedual changed without warning"
-last_reviewed: "2026-06-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-11"
 ---
 

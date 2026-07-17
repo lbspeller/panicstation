@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you find storm damage to your roof or windows that could worsen"
+seo_title: "Storm damage to roof or windows"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "owned home storm damage"
   - "next storm could worsen damage"
   - "temporary roof window damage"
-last_reviewed: "2026-05-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-10"
 ---
 

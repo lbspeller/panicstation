@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your fever returns after you seemed to be improving"
+seo_title: "Fever returned after you felt better"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "pregnant with fever again"
   - "older adult fever returned"
   - "child fever came back"
-last_reviewed: "2026-06-15"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-15"
 ---
 

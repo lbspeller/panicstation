@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a utility bill or notice for an address where you have never lived"
+seo_title: "Utility bill or notice for address never lived at"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "utility debt in my name"
   - "debt collector for utility bill"
   - "credit report shows wrong address"
-last_reviewed: "2026-06-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-22"
 ---
 

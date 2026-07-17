@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your boarding pass shows the wrong nationality or travel document details"
+seo_title: "Boarding pass shows wrong nationality or document details"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "dual citizen passport confusion"
   - "boarding pas wrong nationality"
   - "wrong natinality on boarding pass"
-last_reviewed: "2026-06-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-26"
 ---
 

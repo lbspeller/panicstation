@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a garage ceiling or roof structure is sagging and you are unsure if it is safe"
+seo_title: "Garage ceiling or roof structure is sagging"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "garage roof sagging after storm"
   - "my garadge ceiling is sagging"
   - "my roof struture is sagging"
-last_reviewed: "2026-05-31"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-31"
 ---
 

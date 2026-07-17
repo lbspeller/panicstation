@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you expect a volatile person may show up at a funeral or memorial service and you are worried about disruption"
+seo_title: "Volatile person expected at a funeral or memorial"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "funeral home entry concern"
   - "funeral distruption worry"
   - "volatile realtive at service"
-last_reviewed: "2026-06-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-14"
 ---
 

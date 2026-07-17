@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a notice threatening immediate enforcement or legal action over a missed payment"
+seo_title: "Notice threatening immediate enforcement or legal action"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "text message payment threat"
   - "fake debt colector"
   - "enforcment notice"
-last_reviewed: "2026-06-20"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-20"
 ---
 

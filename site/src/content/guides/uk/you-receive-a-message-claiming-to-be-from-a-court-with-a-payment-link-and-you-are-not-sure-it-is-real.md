@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a message claiming to be from a court with a payment link and you are not sure it is real"
+seo_title: "Suspicious court message with a payment link"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "court summons by text"
   - "cort payment link"
   - "tribunal paymant link"
-last_reviewed: "2026-05-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-18"
 ---
 

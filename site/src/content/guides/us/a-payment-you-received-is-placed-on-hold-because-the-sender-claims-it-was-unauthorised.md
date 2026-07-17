@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a payment you received is placed on hold because the sender claims it was unauthorised"
+seo_title: "Received payment placed on hold for unauthorised claim"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -43,7 +44,7 @@ tags:
   - "payment hold after item handover"
   - "payment disputed after delivery"
   - "received payment fraud claim"
-last_reviewed: "2026-06-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-01"
 ---
 

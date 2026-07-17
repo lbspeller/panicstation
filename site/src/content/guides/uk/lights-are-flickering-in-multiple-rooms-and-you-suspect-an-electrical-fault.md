@@ -1,5 +1,6 @@
 ---
 title: "What to do if… lights are flickering in multiple rooms and you suspect an electrical fault"
+seo_title: "Lights flickering in multiple rooms"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "owned home lights flicker"
   - "after appliance switches on"
   - "during bad weather lights flicker"
-last_reviewed: "2026-04-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-30"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you realise your paycheck or wages are short for the last pay period"
+seo_title: "Paycheck or wages are short for last pay period"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "employer underpayed me"
   - "payslip says wrong ours"
   - "underpaid before bills due"
-last_reviewed: "2026-05-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-17"
 ---
 

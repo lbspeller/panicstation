@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are contacted by police or investigators and fear saying the wrong thing"
+seo_title: "Contacted by police or investigators for questioning"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "i fear saying the wrong thing"
   - "my miranda rigths were not read"
   - "a detctive wants to talk to me"
-last_reviewed: "2026-06-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-10"
 ---
 

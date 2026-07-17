@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a service worker or contractor makes sexual comments and you still need access to your home"
+seo_title: "Service worker or contractor makes sexual comments"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "thought it was only jokes"
   - "repair person sexual coment"
   - "contractor harrassment"
-last_reviewed: "2026-05-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-02"
 ---
 

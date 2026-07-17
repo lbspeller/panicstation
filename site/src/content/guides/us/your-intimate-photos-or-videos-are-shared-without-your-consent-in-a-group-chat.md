@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your intimate photos or videos are shared without your consent in a group chat"
+seo_title: "Intimate photos or videos shared without consent"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "telegram nude leak"
   - "non consential images"
   - "sextorsion threat"
-last_reviewed: "2026-06-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-30"
 ---
 

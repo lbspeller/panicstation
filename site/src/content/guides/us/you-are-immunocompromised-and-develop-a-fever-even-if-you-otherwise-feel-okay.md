@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are immunocompromised and develop a fever even if you otherwise feel okay"
+seo_title: "Fever when immunocompromised"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "possible flu while immunocompromised"
   - "imunocompromised fever"
   - "immunosupressed fever"
-last_reviewed: "2026-06-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-09"
 ---
 

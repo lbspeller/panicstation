@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you start vomiting repeatedly and cannot keep fluids down"
+seo_title: "Repeated vomiting and unable to keep fluids down"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "pregnant and vomiting repeatedly"
   - "older person vomiting repeatedly"
   - "weakened immune system vomiting"
-last_reviewed: "2026-05-21"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-21"
 ---
 

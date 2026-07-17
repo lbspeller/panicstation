@@ -1,5 +1,6 @@
 ---
 title: "What to do if… there is a disagreement about funeral arrangements and the deadline is close"
+seo_title: "Disagreement over funeral arrangements with urgent deadline"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "bereavement family conflict"
   - "separated spouse funeral dispute"
   - "urgent funeral planning conflict"
-last_reviewed: "2026-05-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-02"
 ---
 

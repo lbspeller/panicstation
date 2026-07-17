@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you reset a device and cannot find your backups to restore"
+seo_title: "Device reset and cannot find backups to restore"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "backups dissapeared"
   - "work device reset"
   - "school device reset"
-last_reviewed: "2026-06-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-23"
 ---
 

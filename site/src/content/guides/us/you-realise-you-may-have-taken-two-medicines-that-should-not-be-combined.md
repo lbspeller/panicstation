@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you realise you may have taken two medicines that should not be combined"
+seo_title: "Accidentally took two medicines that might interact"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "perscription and otc"
   - "new prescription interaction"
   - "cold medicine and prescription"
-last_reviewed: "2026-06-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-19"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your home address or workplace has been posted online alongside hostile comments"
+seo_title: "Home address or workplace posted online with threats"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "doxxing or harassment"
   - "doxing after argument"
   - "home address leaked uk"
-last_reviewed: "2026-05-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-10"
 ---
 

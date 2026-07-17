@@ -1,5 +1,6 @@
 ---
 title: "What to do if… two relatives both claim authority to make decisions after a death"
+seo_title: "Two relatives claim authority after a death"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "exectuor authority is disputed"
   - "probate autority is unclear"
   - "legal authority after death is disputed"
-last_reviewed: "2026-06-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-06"
 ---
 

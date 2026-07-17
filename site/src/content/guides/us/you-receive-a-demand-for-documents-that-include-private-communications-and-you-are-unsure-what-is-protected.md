@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a demand for documents that include private communications and you are unsure what is protected"
+seo_title: "Demand for private documents and communications"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "phone messages requested"
   - "subpena for private messages"
   - "priviledged communications confusion"
-last_reviewed: "2026-06-20"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-20"
 ---
 

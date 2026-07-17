@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you report bullying and are immediately moved teams or taken off duties without explanation"
+seo_title: "Moved teams or duties after reporting bullying"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "bullyng report moved teams"
   - "grievence then duties removed"
   - "uk workplace bullying complaint"
-last_reviewed: "2026-05-20"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-20"
 ---
 

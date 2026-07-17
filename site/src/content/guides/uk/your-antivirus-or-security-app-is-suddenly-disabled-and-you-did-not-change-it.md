@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your antivirus or security app is suddenly disabled and you did not change it"
+seo_title: "Antivirus or security app suddenly disabled"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "phone security app disabled"
   - "antivirus dissabled suddenly"
   - "security app disabledd itself"
-last_reviewed: "2026-05-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-22"
 ---
 

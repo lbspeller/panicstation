@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are pressured to book a funeral date and key relatives cannot attend"
+seo_title: "Pressured to book a funeral date too soon"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "funral date pressure"
   - "funeral schedueling pressure"
   - "key relatives cannot attend funeral"
-last_reviewed: "2026-06-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-11"
 ---
 

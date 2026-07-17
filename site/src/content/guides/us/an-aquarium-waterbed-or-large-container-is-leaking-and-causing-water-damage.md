@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an aquarium, waterbed, or large container is leaking and causing water damage"
+seo_title: "Aquarium, waterbed, or container leaking indoors"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "pet fish tank leaking"
   - "aquariam leaking water damage"
   - "water bed leaking damage"
-last_reviewed: "2026-06-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-13"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your router shows many unknown devices connected to your network"
+seo_title: "Unknown devices connected to your router"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "wifi routr unknown devices"
   - "isp router unknown devices"
   - "home router many devices"
-last_reviewed: "2026-07-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-03"
 ---
 

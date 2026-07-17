@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a chimney pot, cap, or top section looks shifted or loose after high winds"
+seo_title: "Chimney pot or top section loose after high winds"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "condo chimney exterior damage"
   - "chimney cap is lose after wind"
   - "chimney top has shiffted"
-last_reviewed: "2026-05-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-30"
 ---
 

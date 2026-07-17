@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a hospice provider cannot start support because of missing or incomplete paperwork"
+seo_title: "Hospice support delayed by missing paperwork"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "paliative care delay"
   - "at home hospice delay"
   - "hospital discharge hospice delay"
-last_reviewed: "2026-04-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-26"
 ---
 

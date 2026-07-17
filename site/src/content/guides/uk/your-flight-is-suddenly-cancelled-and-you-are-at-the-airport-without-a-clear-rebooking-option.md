@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your flight is suddenly cancelled and you are at the airport without a clear rebooking option"
+seo_title: "Flight cancelled at airport with no rebooking option"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "nearby airport rebooking"
   - "airport cancellaton panic"
   - "flight cancelation no options"
-last_reviewed: "2026-05-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-25"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your windshield washer jets stop spraying and you need to restore visibility to drive safely"
+seo_title: "Windshield washer jets stopped working while driving"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "motorway emergency area visibility"
   - "windscreen washer jetts stopped"
   - "washer jets not sprayng"
-last_reviewed: "2026-05-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-29"
 ---
 

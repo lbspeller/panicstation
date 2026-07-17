@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your car keeps stalling at idle and you are stopped somewhere safe"
+seo_title: "Car keeps stalling at idle while stopped"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "stuck on highway shoulder"
   - "car wont stay runing"
   - "engine keeps stalng"
-last_reviewed: "2026-06-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-27"
 ---
 

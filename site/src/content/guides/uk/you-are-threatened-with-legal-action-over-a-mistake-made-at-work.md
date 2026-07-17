@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are threatened with legal action over a mistake made at work"
+seo_title: "Threatened with legal action over a work mistake"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "negligence allegation at work"
   - "legal action at wok"
   - "threatend with legal action"
-last_reviewed: "2026-05-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-06"
 ---
 

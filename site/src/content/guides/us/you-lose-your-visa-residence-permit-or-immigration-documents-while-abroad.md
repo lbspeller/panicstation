@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you lose your visa, residence permit, or immigration documents while abroad"
+seo_title: "Lost visa or immigration documents while abroad"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "greencard lost overseas"
   - "residense permit lost abroad"
   - "while outside the united states"
-last_reviewed: "2026-06-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-17"
 ---
 

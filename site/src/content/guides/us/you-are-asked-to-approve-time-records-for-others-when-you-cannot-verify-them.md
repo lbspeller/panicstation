@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to approve time records for others when you cannot verify them"
+seo_title: "Asked to approve unverified time records"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "hourly worker time records unclear"
   - "timeshet approval under pressure"
   - "timeheet records look inaccurate"
-last_reviewed: "2026-06-07"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-07"
 ---
 

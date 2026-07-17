@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your sliding patio door has jumped its track and you cannot secure it"
+seo_title: "Sliding patio door off track and cannot be secured"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "lock problem or track problem"
   - "tenant patio door broken"
   - "night-time door security problem"
-last_reviewed: "2026-05-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-11"
 ---
 

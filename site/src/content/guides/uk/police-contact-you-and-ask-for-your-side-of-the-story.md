@@ -1,5 +1,6 @@
 ---
 title: "What to do if… police contact you and ask for your side of the story"
+seo_title: "Police contact asking for your side of the story"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "police scam call"
   - "police call at work"
   - "police at my door"
-last_reviewed: "2026-04-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-30"
 ---
 

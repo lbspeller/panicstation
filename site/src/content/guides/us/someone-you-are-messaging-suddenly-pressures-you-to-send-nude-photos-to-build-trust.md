@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone you are messaging suddenly pressures you to send nude photos to build trust"
+seo_title: "Pressured to send nude photos online"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "proof photo request online"
   - "flirting turned into nude pressure"
   - "sexual request framed as trust"
-last_reviewed: "2026-06-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-06"
 ---
 

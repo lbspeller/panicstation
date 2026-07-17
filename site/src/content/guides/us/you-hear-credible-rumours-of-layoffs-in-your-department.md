@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you hear credible rumours of layoffs in your department"
+seo_title: "Credible rumours of layoffs in your department"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "plant closing rumor"
   - "layoff rumours at work"
   - "reorg rummors at work"
-last_reviewed: "2026-06-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-16"
 ---
 

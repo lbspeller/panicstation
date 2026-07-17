@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are named as executor in a will but you cannot find the original document"
+seo_title: "Executor named in will but original document missing"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "executer named will missing"
   - "probabte will copy missing"
   - "original document missing after death"
-last_reviewed: "2026-06-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-09"
 ---
 

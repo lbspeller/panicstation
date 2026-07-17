@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are on blood thinners and develop a new headache or unexplained bruising"
+seo_title: "New headache or unexplained bruising on blood thinners"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "warfarin inr too high"
   - "unexplained brusing on blood thinners"
   - "older person on blood thinners"
-last_reviewed: "2026-05-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-05"
 ---
 

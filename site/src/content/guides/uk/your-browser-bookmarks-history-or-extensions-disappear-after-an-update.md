@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your browser bookmarks, history, or extensions disappear after an update"
+seo_title: "Browser bookmarks, history, or extensions missing"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "bookmaks disappeared"
   - "favrites missing"
   - "after windows update"
-last_reviewed: "2026-05-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-23"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your webcam light turns on unexpectedly"
+seo_title: "Webcam light turns on unexpectedly"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "work laptop webcam light"
   - "web cam light on"
   - "webcam lite on"
-last_reviewed: "2026-05-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-29"
 ---
 

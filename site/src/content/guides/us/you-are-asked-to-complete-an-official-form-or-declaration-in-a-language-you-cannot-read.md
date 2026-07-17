@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to complete an official form or declaration in a language you cannot read"
+seo_title: "Official form or declaration in a language you cannot read"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "at border with unreadable declaration"
   - "entry fom in foreign language"
   - "decleration in unreadable language"
-last_reviewed: "2026-06-07"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-07"
 ---
 

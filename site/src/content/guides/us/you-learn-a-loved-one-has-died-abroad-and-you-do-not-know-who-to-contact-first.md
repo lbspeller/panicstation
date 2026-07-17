@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you learn a loved one has died abroad and you do not know who to contact first"
+seo_title: "Loved one died abroad and you need official contact"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "unclear circumstances abroad"
   - "loved one died aborad"
   - "relative died over seas"
-last_reviewed: "2026-06-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-16"
 ---
 

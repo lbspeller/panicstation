@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you think someone is waiting outside for you and you feel unsafe leaving"
+seo_title: "Feeling unsafe leaving due to someone outside"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "after concert exit unsafe"
   - "parking lot feels unsafe"
   - "rideshare pickup feels unsafe"
-last_reviewed: "2026-06-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-25"
 ---
 

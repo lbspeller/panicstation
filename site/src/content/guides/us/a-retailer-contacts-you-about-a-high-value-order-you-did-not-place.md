@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a retailer contacts you about a high-value order you did not place"
+seo_title: "Retailer contacts you about unknown high-value order"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "the order ships to my address"
   - "a retialer calls about unknown order"
   - "an unathorized retailer order appears"
-last_reviewed: "2026-06-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-01"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a cloud drive app starts re-downloading everything and you fear data duplication or overwrite"
+seo_title: "Cloud drive app re-downloading files unexpectedly"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "dropbox syncing everything again"
   - "cloud drive redownloading everything"
   - "cloud drive synching again"
-last_reviewed: "2026-05-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-30"
 ---
 

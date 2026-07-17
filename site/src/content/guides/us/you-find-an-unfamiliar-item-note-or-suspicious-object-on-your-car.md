@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you find an unfamiliar item, note, or suspicious object on your car"
+seo_title: "Unfamiliar item or suspicious object on your car"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "item on car at night"
   - "item in workplace parking lot"
   - "repeat items on car"
-last_reviewed: "2026-06-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-14"
 ---
 

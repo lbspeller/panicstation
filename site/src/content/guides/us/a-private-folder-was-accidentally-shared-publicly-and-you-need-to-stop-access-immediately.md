@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a private folder was accidentally shared publicly and you need to stop access immediately"
+seo_title: "Private folder accidentally shared publicly"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "urgent folder access exposure"
   - "publicaly shared folder"
   - "accidentaly shared folder"
-last_reviewed: "2026-06-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-01"
 ---
 

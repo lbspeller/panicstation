@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are refused entry at a border and are waiting in a controlled area"
+seo_title: "Refused entry at a border and held in a controlled area"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -42,7 +43,7 @@ tags:
   - "travelling alone abroad"
   - "medication in airport holding"
   - "phone battery low abroad"
-last_reviewed: "2026-05-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-25"
 ---
 

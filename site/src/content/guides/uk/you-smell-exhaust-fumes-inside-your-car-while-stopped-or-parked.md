@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you smell exhaust fumes inside your car while stopped or parked"
+seo_title: "Smelling exhaust fumes inside your car"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -34,7 +35,7 @@ tags:
   - "carbon monixide in car"
   - "engine running in garage"
   - "fumes in enclosed car park"
-last_reviewed: "2026-05-21"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-21"
 ---
 

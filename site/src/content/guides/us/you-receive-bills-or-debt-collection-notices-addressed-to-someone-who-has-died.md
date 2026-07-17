@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive bills or debt collection notices addressed to someone who has died"
+seo_title: "Bills or debt notices for someone who has died"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -34,7 +35,7 @@ tags:
   - "cosigner or joint account confusion"
   - "bils after death"
   - "decesed person bills"
-last_reviewed: "2026-06-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-22"
 ---
 

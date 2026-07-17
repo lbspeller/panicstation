@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your employer says you must repay training costs when you resign"
+seo_title: "Employer demands repayment for training after resignation"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "new job training repayment demand"
   - "repay traning costs"
   - "training reimbursment demand"
-last_reviewed: "2026-06-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-11"
 ---
 

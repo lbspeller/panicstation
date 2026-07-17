@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your phone is lost or broken abroad and your travel bookings are inaccessible"
+seo_title: "Phone lost or broken abroad with travel bookings inaccessible"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "international flight phone lost"
   - "airport check-in problem abroad"
   - "travel booking locked account"
-last_reviewed: "2026-07-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-02"
 ---
 

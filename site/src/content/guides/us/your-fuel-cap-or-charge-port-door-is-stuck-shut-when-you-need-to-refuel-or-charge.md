@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your fuel cap or charge-port door is stuck shut when you need to refuel or charge"
+seo_title: "Fuel cap or charge port door stuck shut"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "cold weather fuel door"
   - "rental car fuel door"
   - "low battery charge port"
-last_reviewed: "2026-06-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-29"
 ---
 

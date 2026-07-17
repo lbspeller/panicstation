@@ -1,5 +1,6 @@
 ---
 title: "What to do if… the only entrance to a station or terminal closes suddenly and you need an alternative route inside"
+seo_title: "Station or terminal entrance closed suddenly"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -34,7 +35,7 @@ tags:
   - "mobility access route is closed"
   - "station entrace closed"
   - "teriminal entrance closed"
-last_reviewed: "2026-06-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-06"
 ---
 

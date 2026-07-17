@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a body donation is declined and you need an alternative funeral plan quickly"
+seo_title: "Body donation declined and funeral plan needed quickly"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "funeral director confussion"
   - "weekend death donation declined"
   - "public holiday body donation refused"
-last_reviewed: "2026-04-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-25"
 ---
 

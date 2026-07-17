@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a car-share vehicle will not unlock even though your booking is active"
+seo_title: "Car-share vehicle will not unlock during active booking"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "car club access failure"
   - "car shair vehicle locked"
   - "vehical will not unlock"
-last_reviewed: "2026-04-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-25"
 ---
 

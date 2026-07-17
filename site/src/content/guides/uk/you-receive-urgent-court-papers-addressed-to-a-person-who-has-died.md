@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive urgent court papers addressed to a person who has died"
+seo_title: "Urgent court papers for a deceased person"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "sheriff court papers after death"
   - "deceased persn legal mail"
   - "probate deadlnes close"
-last_reviewed: "2026-05-20"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-20"
 ---
 

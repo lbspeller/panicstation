@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you develop a sudden high fever after returning from travel"
+seo_title: "Sudden high fever after returning from travel"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "fever after travel latin america"
   - "fever after moskito bites"
   - "fever after vaction"
-last_reviewed: "2026-06-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-23"
 ---
 

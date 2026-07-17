@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you discover your backups have not been running for a long time"
+seo_title: "Discovering your backups have stopped running"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "restore versus backup confusion"
   - "personal photos not backed up"
   - "business data at risk"
-last_reviewed: "2026-06-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-14"
 ---
 

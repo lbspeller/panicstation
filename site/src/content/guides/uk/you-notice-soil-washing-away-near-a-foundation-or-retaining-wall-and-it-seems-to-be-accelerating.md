@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice soil washing away near a foundation or retaining wall and it seems to be accelerating"
+seo_title: "Soil washing away near foundation or retaining wall"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "beside a driveway"
   - "foundaton soil erosion"
   - "retainng wall washout"
-last_reviewed: "2026-05-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-16"
 ---
 

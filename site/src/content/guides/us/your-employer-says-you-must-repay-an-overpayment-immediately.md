@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your employer says you must repay an overpayment immediately"
+seo_title: "Employer demands immediate repayment of wages"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "remote worker state rules"
   - "final paycheck overpayment"
   - "payrol overpayment demand"
-last_reviewed: "2026-06-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-29"
 ---
 

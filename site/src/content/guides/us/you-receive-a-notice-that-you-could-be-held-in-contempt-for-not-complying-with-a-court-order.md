@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a notice that you could be held in contempt for not complying with a court order"
+seo_title: "Notice of contempt for not following a court order"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "state court contempt"
   - "missed payment order"
   - "discovery order contempt"
-last_reviewed: "2026-06-21"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-21"
 ---
 

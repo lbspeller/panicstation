@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you smell gas or suspect a gas leak in your home"
+seo_title: "Smelling gas or suspecting a gas leak at home"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "carbon monoxide or gas smell"
   - "gass smell near appliance"
   - "gas leek near stove"
-last_reviewed: "2026-06-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-17"
 ---
 

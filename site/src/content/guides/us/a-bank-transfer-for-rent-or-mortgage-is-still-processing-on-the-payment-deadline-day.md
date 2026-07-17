@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a bank transfer for rent or mortgage is still processing on the payment deadline day"
+seo_title: "Rent or mortgage payment still processing on deadline day"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "processing means late confusion"
   - "mortage payment pending"
   - "bank tranfer processing"
-last_reviewed: "2026-05-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-29"
 ---
 

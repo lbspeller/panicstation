@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your rent or mortgage payment is marked unpaid even though you have proof it was sent"
+seo_title: "Rent or mortgage payment marked unpaid despite proof"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "rent reciept missing"
   - "mortage payment missing"
   - "online portal payment missing"
-last_reviewed: "2026-07-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-03"
 ---
 

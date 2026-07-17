@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to backdate documents or signatures to fix an audit issue"
+seo_title: "Asked to backdate documents or signatures for an audit"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "asked to backdate government billing records"
   - "backdateing documents at work"
   - "signiture date looks wrong"
-last_reviewed: "2026-06-07"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-07"
 ---
 

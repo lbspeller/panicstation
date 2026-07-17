@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your vaccination certificate or test result app will not load when you need to show proof"
+seo_title: "Vaccination or test proof app not loading"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "vaccination cert not loading"
   - "airport proof check problem"
   - "event entry proof problem"
-last_reviewed: "2026-07-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-04"
 ---
 

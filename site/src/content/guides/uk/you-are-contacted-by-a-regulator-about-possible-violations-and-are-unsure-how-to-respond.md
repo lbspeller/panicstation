@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are contacted by a regulator about possible violations and are unsure how to respond"
+seo_title: "Contacted by a regulator about possible violations"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "financial regulator contact"
   - "regulater contact"
   - "compliance breech allegation"
-last_reviewed: "2026-05-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-05"
 ---
 

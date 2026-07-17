@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are told there are no available funeral service slots and must decide whether to delay"
+seo_title: "No available funeral service slots or dates"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "funeral paperwork in england"
   - "funeral registration in scotland"
   - "funeral registration in northern ireland"
-last_reviewed: "2026-05-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-06"
 ---
 

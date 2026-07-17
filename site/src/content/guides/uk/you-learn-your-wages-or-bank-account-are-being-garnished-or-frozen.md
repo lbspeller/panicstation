@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you learn your wages or bank account are being garnished or frozen"
+seo_title: "Wages or bank account garnished or frozen"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "england and wales debt"
   - "scotland earnings arrestment"
   - "northern ireland enforcement"
-last_reviewed: "2026-05-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-14"
 ---
 

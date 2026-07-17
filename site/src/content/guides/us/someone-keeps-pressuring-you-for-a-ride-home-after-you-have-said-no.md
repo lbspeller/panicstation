@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone keeps pressuring you for a ride home after you have said no"
+seo_title: "Someone keeps pressuring you for a ride home"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "rides home after class"
   - "rides home from campus"
   - "rides home from event"
-last_reviewed: "2026-06-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-09"
 ---
 

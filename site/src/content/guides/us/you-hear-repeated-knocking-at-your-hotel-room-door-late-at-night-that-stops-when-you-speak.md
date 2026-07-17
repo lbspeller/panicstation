@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you hear repeated knocking at your hotel room door late at night that stops when you speak"
+seo_title: "Repeated knocking at hotel room door at night"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "unfamiliar hotel hallway"
   - "hotel nocking at night"
   - "stranger nocking hotel door"
-last_reviewed: "2026-06-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-16"
 ---
 

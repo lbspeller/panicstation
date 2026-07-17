@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your front door will not latch or lock and you cannot secure your home"
+seo_title: "Front door will not latch or lock"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "after break-in door damage"
   - "front dor will not lock"
   - "door lok not working"
-last_reviewed: "2026-05-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-25"
 ---
 

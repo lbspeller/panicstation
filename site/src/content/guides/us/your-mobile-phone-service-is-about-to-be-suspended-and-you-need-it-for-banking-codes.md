@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your mobile phone service is about to be suspended and you need it for banking codes"
+seo_title: "Mobile service suspension and bank verification codes"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "number port during suspension"
   - "fone service suspended"
   - "verfication code missing"
-last_reviewed: "2026-07-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-01"
 ---
 

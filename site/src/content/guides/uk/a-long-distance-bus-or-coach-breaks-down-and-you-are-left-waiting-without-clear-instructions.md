@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a long-distance bus or coach breaks down and you are left waiting without clear instructions"
+seo_title: "Long-distance bus or coach breakdown and no updates"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "coach recovery confusion"
   - "night coach breakdown"
   - "disabled passenger coach breakdown"
-last_reviewed: "2026-04-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-26"
 ---
 

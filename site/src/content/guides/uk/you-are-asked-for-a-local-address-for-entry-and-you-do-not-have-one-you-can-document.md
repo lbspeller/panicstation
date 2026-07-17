@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked for a local address for entry and you do not have one you can document"
+seo_title: "Asked for local address without proof of stay"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "multiple places to stay"
   - "flexible travel plans"
   - "accomodation not confirmed"
-last_reviewed: "2026-05-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-03"
 ---
 

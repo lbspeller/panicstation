@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a partner becomes angry or pressures you when you insist on condoms or contraception"
+seo_title: "Partner angry or pressuring about contraception"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "after condom removed"
   - "before sex feels unsafe"
   - "uk partner condom pressure"
-last_reviewed: "2026-04-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-27"
 ---
 

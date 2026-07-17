@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive an official notice of an inspection or visit with very little warning"
+seo_title: "Official inspection notice with little warning"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "business premises visit"
   - "offical inspection notice"
   - "inspecion notice short warning"
-last_reviewed: "2026-05-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-19"
 ---
 

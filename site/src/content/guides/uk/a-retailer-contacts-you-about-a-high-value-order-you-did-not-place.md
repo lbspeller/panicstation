@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a retailer contacts you about a high-value order you did not place"
+seo_title: "Retailer contacts you about unknown high-value order"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "retail acount hacked"
   - "unauthorised purchace"
   - "online shopping account issue"
-last_reviewed: "2026-04-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-28"
 ---
 

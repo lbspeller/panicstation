@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice many tiny red or purple dots on your skin that appeared suddenly"
+seo_title: "Sudden tiny red or purple dots on skin"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "flea bite like spots"
   - "petichiae rash suddenly"
   - "non blanch rash"
-last_reviewed: "2026-05-15"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-15"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you need to tell an estranged family member about a death and fear conflict"
+seo_title: "Telling an estranged relative about a death safely"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -33,7 +34,7 @@ tags:
   - "death notifcation conflict"
   - "out of state family death"
   - "unsafe family contact"
-last_reviewed: "2026-06-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-17"
 ---
 

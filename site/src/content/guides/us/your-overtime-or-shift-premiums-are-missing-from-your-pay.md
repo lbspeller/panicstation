@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your overtime or shift premiums are missing from your pay"
+seo_title: "Overtime or shift premiums missing from pay"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "ovettime pay missing"
   - "hourly worker missing pay"
   - "union worker missing premium"
-last_reviewed: "2026-07-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-01"
 ---
 

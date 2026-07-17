@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are told you must submit to an official drug or alcohol test by a deadline and logistics are unclear"
+seo_title: "Official drug or alcohol test instructions unclear"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "urgent test notice unclear"
   - "drug tesst deadline unclear"
   - "alchol test notice unclear"
-last_reviewed: "2026-05-07"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-07"
 ---
 

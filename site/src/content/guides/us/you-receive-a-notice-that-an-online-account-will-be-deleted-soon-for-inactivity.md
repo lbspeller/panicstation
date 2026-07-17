@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a notice that an online account will be deleted soon for inactivity"
+seo_title: "Online account deletion notice for inactivity"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "work school account"
   - "forgotten online account"
   - "two-factor login problem"
-last_reviewed: "2026-06-21"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-21"
 ---
 

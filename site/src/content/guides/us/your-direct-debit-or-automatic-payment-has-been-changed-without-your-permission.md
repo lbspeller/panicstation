@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your direct debit or automatic payment has been changed without your permission"
+seo_title: "Automatic payment or direct debit changed without permission"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "autpay changed without permission"
   - "possible identity theft payment"
   - "online banking autopay changed"
-last_reviewed: "2026-06-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-14"
 ---
 

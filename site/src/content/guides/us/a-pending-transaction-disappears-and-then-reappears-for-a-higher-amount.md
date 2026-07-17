@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a pending transaction disappears and then reappears for a higher amount"
+seo_title: "Pending transaction reappears for higher amount"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "delayed card charge appeared"
   - "pending transction disappeared"
   - "authorizaton hold changed"
-last_reviewed: "2026-06-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-01"
 ---
 

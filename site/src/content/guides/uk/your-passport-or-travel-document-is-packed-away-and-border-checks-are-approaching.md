@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your passport or travel document is packed away and border checks are approaching"
+seo_title: "Passport or travel document packed away before border check"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "border chek soon"
   - "travelling by coach"
   - "travelling by train"
-last_reviewed: "2026-04-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-29"
 ---
 

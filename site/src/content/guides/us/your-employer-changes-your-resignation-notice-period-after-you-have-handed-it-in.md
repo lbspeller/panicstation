@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your employer changes your resignation notice period after you have handed it in"
+seo_title: "Employer changed your resignation notice period"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "benefits end date after resignation"
   - "resignation notce period changed"
   - "resignation end date disupte"
-last_reviewed: "2026-06-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-11"
 ---
 

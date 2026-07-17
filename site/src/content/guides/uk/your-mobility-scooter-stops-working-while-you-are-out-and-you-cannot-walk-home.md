@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your mobility scooter stops working while you are out and you cannot walk home"
+seo_title: "Mobility scooter stops working while out"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "mobility scootr broke down"
   - "mobility scoter battery dead"
   - "alone with broken scooter"
-last_reviewed: "2026-05-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-26"
 ---
 

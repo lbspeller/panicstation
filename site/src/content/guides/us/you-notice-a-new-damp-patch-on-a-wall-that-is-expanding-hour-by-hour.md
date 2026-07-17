@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice a new damp patch on a wall that is expanding hour by hour"
+seo_title: "New damp patch on wall is expanding fast"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "below bathroom leak"
   - "water behind drywall"
   - "wall moisture spreading"
-last_reviewed: "2026-06-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-17"
 ---
 

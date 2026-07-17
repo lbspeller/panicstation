@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone claiming to represent the person who harmed you pressures you to respond"
+seo_title: "Pressured to respond by someone claiming to represent your harasser"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "after police report"
   - "during investigation"
   - "after telling someone"
-last_reviewed: "2026-05-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-05"
 ---
 

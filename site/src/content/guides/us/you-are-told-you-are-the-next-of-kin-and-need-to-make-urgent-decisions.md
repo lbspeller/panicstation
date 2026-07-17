@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are told you are the next of kin and need to make urgent decisions"
+seo_title: "Urgent next of kin decisions after a death"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "family conflict after death"
   - "next of kinn decisions"
   - "death certifcate needed quickly"
-last_reviewed: "2026-06-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-10"
 ---
 

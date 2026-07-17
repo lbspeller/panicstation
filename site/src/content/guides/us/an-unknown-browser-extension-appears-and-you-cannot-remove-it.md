@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an unknown browser extension appears and you cannot remove it"
+seo_title: "Unknown browser extension you cannot remove"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "work computer has unknown extension"
   - "browser extention appeared unexpectedly"
   - "extention cannot be removed"
-last_reviewed: "2026-06-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-03"
 ---
 

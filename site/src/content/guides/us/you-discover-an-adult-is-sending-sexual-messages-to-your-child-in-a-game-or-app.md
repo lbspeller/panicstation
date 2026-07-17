@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you discover an adult is sending sexual messages to your child in a game or app"
+seo_title: "an adult is sending sexual messages to your child in a game or app"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "sexualized chat in ap"
   - "sexualized mesages in app"
   - "child scared about online messages"
-last_reviewed: "2026-06-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-13"
 ---
 

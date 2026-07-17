@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an app has camera, microphone, or location permissions you do not remember approving"
+seo_title: "App has unexpected camera, microphone or location access"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "phone spyware concern"
   - "iphone app permission fear"
   - "android app permission fear"
-last_reviewed: "2026-04-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-29"
 ---
 

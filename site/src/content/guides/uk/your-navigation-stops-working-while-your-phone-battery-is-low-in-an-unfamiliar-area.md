@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your navigation stops working while your phone battery is low in an unfamiliar area"
+seo_title: "Navigation stops working with low phone battery"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "satnav not working"
   - "navagation stopped working"
   - "battery dieing while lost"
-last_reviewed: "2026-05-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-26"
 ---
 

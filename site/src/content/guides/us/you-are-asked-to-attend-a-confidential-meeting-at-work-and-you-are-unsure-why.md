@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to attend a confidential meeting at work and you are unsure why"
+seo_title: "Unexpected confidential meeting at work"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "settlement meeting after work complaint"
   - "severence discussion at work"
   - "confidental settlement meeting"
-last_reviewed: "2026-06-07"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-07"
 ---
 

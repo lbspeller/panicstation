@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a stranger will not leave you alone after you try to end the conversation"
+seo_title: "Stranger will not stop talking or following you"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -32,7 +33,7 @@ tags:
   - "waiting at a transit stop"
   - "stranger converstation will not stop"
   - "stranger disengaement ignored"
-last_reviewed: "2026-06-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-02"
 ---
 

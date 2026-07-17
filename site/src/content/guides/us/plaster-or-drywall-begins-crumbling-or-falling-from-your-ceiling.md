@@ -1,5 +1,6 @@
 ---
 title: "What to do if… plaster or drywall begins crumbling or falling from your ceiling"
+seo_title: "Plaster or drywall falling from your ceiling"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "older home ceiling debris"
   - "drywall cieling falling"
   - "ceilling plaster crumbling"
-last_reviewed: "2026-06-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-04"
 ---
 

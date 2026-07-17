@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice a rash with fever and are unsure if it is serious"
+seo_title: "rash with fever and feeling unwell"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "rash after travel"
   - "rash after new medicine"
   - "rash and feaver worried"
-last_reviewed: "2026-05-15"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-15"
 ---
 

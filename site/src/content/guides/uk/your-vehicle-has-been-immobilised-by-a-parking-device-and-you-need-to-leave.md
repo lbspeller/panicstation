@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your vehicle has been immobilised by a parking device and you need to leave"
+seo_title: "Vehicle immobilised by a parking device"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "boot on car uk"
   - "imobilised vehicle need to leave"
   - "car clampd need to leave"
-last_reviewed: "2026-05-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-28"
 ---
 

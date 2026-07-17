@@ -1,5 +1,6 @@
 ---
 title: "What to do if… police ask you to hand over passwords or account logins"
+seo_title: "Police ask for passwords or account logins"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "confused about lawful request"
   - "confused about section notice"
   - "pressured at police station"
-last_reviewed: "2026-04-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-30"
 ---
 

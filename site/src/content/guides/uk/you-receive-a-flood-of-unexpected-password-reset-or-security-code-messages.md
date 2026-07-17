@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a flood of unexpected password reset or security code messages"
+seo_title: "Flood of unexpected password reset or security messages"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "reset link scam"
   - "passwrod reset emails"
   - "secuirty code messages"
-last_reviewed: "2026-05-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-11"
 ---
 

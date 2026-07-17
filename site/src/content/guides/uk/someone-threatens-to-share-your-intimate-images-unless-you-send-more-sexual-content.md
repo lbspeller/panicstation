@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone threatens to share your intimate images unless you send more sexual content"
+seo_title: "Threatened with intimate image sharing or sextortion"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "known person image threat"
   - "online stranger image threat"
   - "under 18 image threat"
-last_reviewed: "2026-05-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-02"
 ---
 

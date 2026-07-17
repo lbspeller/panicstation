@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your external hard drive will not mount and you need to save your files"
+seo_title: "External hard drive not mounting or saving files"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "hard drive not reconised"
   - "external hardrive not mounting"
   - "mac external drive not mounting"
-last_reviewed: "2026-05-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-25"
 ---
 

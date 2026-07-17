@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have sudden watery diarrhea after starting antibiotics and feel increasingly unwell"
+seo_title: "Watery diarrhea and feeling unwell after antibiotics"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "older adult diarrhoea"
   - "weakened immune system diarrhoea"
   - "recent care home stay"
-last_reviewed: "2026-05-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-13"
 ---
 

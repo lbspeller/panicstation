@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a legal letter from your employer alleging a breach of contract"
+seo_title: "Employer legal letter alleging breach of contract"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "settlement agreement confusion"
   - "breach of contrakt letter"
   - "employr legal letter"
-last_reviewed: "2026-05-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-17"
 ---
 

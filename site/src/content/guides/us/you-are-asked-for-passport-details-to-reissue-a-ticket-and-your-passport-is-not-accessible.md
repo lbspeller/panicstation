@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked for passport details to reissue a ticket and your passport is not accessible"
+seo_title: "Passport details requested for ticket reissue"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "last-minute ticket reissue passport request"
   - "pasport details requested for ticket"
   - "tickit reissue needs passport"
-last_reviewed: "2026-06-07"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-07"
 ---
 

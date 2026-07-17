@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you suddenly have no running water in your home"
+seo_title: "Suddenly have no running water in your home"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "shared building no water"
   - "private water supply stopped"
   - "watter supply stopped"
-last_reviewed: "2026-05-21"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-21"
 ---
 

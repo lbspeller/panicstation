@@ -1,5 +1,6 @@
 ---
 title: "What to do if… online check-in is blocked and you need manual document verification"
+seo_title: "Online check-in blocked for document verification"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "transit country document check"
   - "airline checkin blocked"
   - "passport detials mismatch"
-last_reviewed: "2026-04-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-30"
 ---
 

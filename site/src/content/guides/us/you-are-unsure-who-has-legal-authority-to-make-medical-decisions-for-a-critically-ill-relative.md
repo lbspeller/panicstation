@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are unsure who has legal authority to make medical decisions for a critically ill relative"
+seo_title: "Unsure who has medical decision authority for relative"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "out of state relative hospitalized"
   - "healthcare proxie missing"
   - "medical decison maker unclear"
-last_reviewed: "2026-06-07"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-07"
 ---
 

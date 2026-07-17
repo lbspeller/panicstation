@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a person dies while separated from their partner and family members are fighting over arrangements"
+seo_title: "Family conflict after death of separated partner"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "ashes decision conflict"
   - "children and partner dispute"
   - "parents and spouse dispute"
-last_reviewed: "2026-04-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-27"
 ---
 

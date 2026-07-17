@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you think you took a double dose of a prescription medicine by mistake"
+seo_title: "Took a double dose of prescription medicine by mistake"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "night time medicine mistake"
   - "double doze medicine"
   - "perscription dose mistake"
-last_reviewed: "2026-05-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-22"
 ---
 

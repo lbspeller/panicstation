@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your family sharing or purchase sharing settings changed without your permission"
+seo_title: "Family sharing or purchase settings changed unexpectedly"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "puchase sharing changed"
   - "after account security alert"
   - "with shared payment method"
-last_reviewed: "2026-06-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-29"
 ---
 

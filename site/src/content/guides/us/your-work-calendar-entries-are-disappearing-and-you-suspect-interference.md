@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your work calendar entries are disappearing and you suspect interference"
+seo_title: "Work calendar entries disappearing or being changed"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "work calender vanished"
   - "shared workplace calendar"
   - "remote work calendar"
-last_reviewed: "2026-06-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-19"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice loose or shifted bricks or masonry on a chimney or exterior wall"
+seo_title: "Loose or shifted bricks on chimney or wall"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "chimny bricks loose"
   - "after storm masonry shifted"
   - "rental house loose bricks"
-last_reviewed: "2026-06-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-18"
 ---
 

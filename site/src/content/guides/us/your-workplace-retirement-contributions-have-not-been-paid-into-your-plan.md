@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your workplace retirement contributions have not been paid into your plan"
+seo_title: "Workplace retirement contributions missing from plan"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "retirment contributions missing"
   - "payrol deductions missing"
   - "private workplace retirement plan"
-last_reviewed: "2026-06-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-14"
 ---
 

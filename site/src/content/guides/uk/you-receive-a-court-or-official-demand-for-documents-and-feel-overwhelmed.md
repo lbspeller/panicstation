@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a court or official demand for documents and feel overwhelmed"
+seo_title: "Court or official demand for documents"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "personal records requested"
   - "third party records requested"
   - "uk court document summons"
-last_reviewed: "2026-05-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-19"
 ---
 

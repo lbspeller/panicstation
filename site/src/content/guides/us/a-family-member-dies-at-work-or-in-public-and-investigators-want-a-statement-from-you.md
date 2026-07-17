@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a family member dies at work or in public and investigators want a statement from you"
+seo_title: "Investigators asking for a statement after a death"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "asked questions after sudden family death"
   - "investigaters want a statement"
   - "famly member died at work"
-last_reviewed: "2026-05-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-30"
 ---
 

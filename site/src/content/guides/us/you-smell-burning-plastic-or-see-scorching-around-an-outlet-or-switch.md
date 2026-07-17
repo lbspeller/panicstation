@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you smell burning plastic or see scorching around an outlet or switch"
+seo_title: "Burning plastic smell or scorching at outlet or switch"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -42,7 +43,7 @@ tags:
   - "rental apartment outlet scorch"
   - "old house outlet smell"
   - "after plugging in charger"
-last_reviewed: "2026-06-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-23"
 ---
 

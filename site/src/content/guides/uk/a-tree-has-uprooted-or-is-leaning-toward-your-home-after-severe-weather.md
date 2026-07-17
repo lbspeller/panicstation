@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a tree has uprooted or is leaning toward your home after severe weather"
+seo_title: "Tree uprooted or leaning toward your home"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "uprooted tree uk"
   - "leaning tre after storm"
   - "storm damged tree"
-last_reviewed: "2026-04-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-28"
 ---
 

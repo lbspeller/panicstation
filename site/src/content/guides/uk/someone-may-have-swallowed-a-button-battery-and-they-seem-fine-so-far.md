@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone may have swallowed a button battery and they seem fine so far"
+seo_title: "Possible button battery swallowed and person seems fine"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "possible battery ingestion uk"
   - "buton battery swallowed"
   - "swalowed button battery"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-01"
 ---
 

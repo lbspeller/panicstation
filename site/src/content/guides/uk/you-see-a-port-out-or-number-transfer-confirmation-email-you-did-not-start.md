@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you see a port-out or number transfer confirmation email you did not start"
+seo_title: "Unexpected mobile number transfer confirmation email"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "port out or sim swap"
   - "number tranfer email"
   - "sim swop warning"
-last_reviewed: "2026-05-20"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-20"
 ---
 

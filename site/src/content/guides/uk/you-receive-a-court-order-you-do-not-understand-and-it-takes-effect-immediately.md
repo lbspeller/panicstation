@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a court order you do not understand and it takes effect immediately"
+seo_title: "Confusing court order that takes effect immediately"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "urgent order from court"
   - "court oder confusing"
   - "injuntion paperwork confusing"
-last_reviewed: "2026-05-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-17"
 ---
 

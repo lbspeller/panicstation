@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your bag containing your travel documents is delayed or missing after arrival"
+seo_title: "Travel documents missing in delayed or lost luggage"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "international arrival documents missing"
   - "passprt in lost luggage"
   - "lugage with travel documents"
-last_reviewed: "2026-06-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-25"
 ---
 

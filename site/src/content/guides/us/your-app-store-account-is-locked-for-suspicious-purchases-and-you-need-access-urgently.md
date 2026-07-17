@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your app store account is locked for suspicious purchases and you need access urgently"
+seo_title: "App store account locked for suspicious purchases"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "verification code requested"
   - "urgent app access needed"
   - "work app access blocked"
-last_reviewed: "2026-06-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-25"
 ---
 

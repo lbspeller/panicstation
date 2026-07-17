@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have a flat tyre but no spare, jack, or repair kit"
+seo_title: "Flat tyre with no spare, jack, or tools"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -42,7 +43,7 @@ tags:
   - "new car no spare"
   - "spare tyre mising"
   - "punture kit broken"
-last_reviewed: "2026-05-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-28"
 ---
 

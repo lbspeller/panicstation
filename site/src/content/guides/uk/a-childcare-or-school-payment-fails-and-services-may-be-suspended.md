@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a childcare or school payment fails and services may be suspended"
+seo_title: "Childcare or school payment failed and services at risk"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "nursey payment failed"
   - "chldcare payment failed"
   - "private nursery payment failed"
-last_reviewed: "2026-04-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-25"
 ---
 

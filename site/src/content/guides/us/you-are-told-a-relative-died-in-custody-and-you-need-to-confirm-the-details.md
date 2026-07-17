@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are told a relative died in custody and you need to confirm the details"
+seo_title: "Confirming a relative's death in custody"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "out of state custody death"
   - "custody death notifcation unclear"
   - "relative died in detension"
-last_reviewed: "2026-06-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-10"
 ---
 

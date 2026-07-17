@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have a joint that is suddenly hot, swollen, and painful"
+seo_title: "Sudden hot, swollen, and painful joint"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "hot swollen joint on immune suppressing medicine"
   - "swolen joint feels hot"
   - "joint pain and sweling"
-last_reviewed: "2026-06-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-13"
 ---
 

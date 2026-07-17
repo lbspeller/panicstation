@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are instructed to do work that requires a certification or license you do not have"
+seo_title: "Instructed to do work without required certification"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "equipment work without authorization"
   - "asked to work without certifcation"
   - "asked to work without lisence"
-last_reviewed: "2026-06-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-09"
 ---
 

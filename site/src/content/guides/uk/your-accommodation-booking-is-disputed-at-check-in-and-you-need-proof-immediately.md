@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your accommodation booking is disputed at check-in and you need proof immediately"
+seo_title: "Accommodation booking disputed at check-in"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "hotel confimation missing"
   - "reservation refrence wrong"
   - "late night check-in dispute"
-last_reviewed: "2026-05-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-22"
 ---
 

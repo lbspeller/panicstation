@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you find storm damage to your roof or windows that could worsen"
+seo_title: "Storm damage to roof or windows"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "window damge from hail"
   - "next storm coming soon"
   - "rented home storm damage"
-last_reviewed: "2026-06-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-13"
 ---
 

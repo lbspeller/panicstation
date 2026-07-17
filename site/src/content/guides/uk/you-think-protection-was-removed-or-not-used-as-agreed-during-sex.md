@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you think protection was removed or not used as agreed during sex"
+seo_title: "protection removed or not used as agreed during sex"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "condom broke or removed"
   - "condom remvoed without consent"
   - "protecton not used during sex"
-last_reviewed: "2026-05-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-22"
 ---
 

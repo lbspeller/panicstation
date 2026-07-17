@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a staffing agency changes your assignment end date with little explanation"
+seo_title: "Staffing agency changed your assignment end date"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "laid off from temp job"
   - "fired from agency work"
   - "agancy end date changed"
-last_reviewed: "2026-04-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-28"
 ---
 

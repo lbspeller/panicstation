@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a message that an imaging result is urgent and you are not sure what it means"
+seo_title: "Urgent imaging result message received"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "weekend imaging result alert"
   - "radology result urgent"
   - "radiolgy result urgent"
-last_reviewed: "2026-06-20"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-20"
 ---
 

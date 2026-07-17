@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your email inbox is full and new messages are bouncing"
+seo_title: "Email inbox full and messages bouncing"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "mailbox full waring"
   - "work email mailbox full"
   - "school email mailbox full"
-last_reviewed: "2026-06-15"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-15"
 ---
 

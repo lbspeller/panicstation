@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you suspect someone is following you on public transport"
+seo_title: "Suspecting someone is following you on public transport"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -33,7 +34,7 @@ tags:
   - "crowded platform but scared"
   - "subwey follow fear"
   - "train staiton followed"
-last_reviewed: "2026-06-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-24"
 ---
 

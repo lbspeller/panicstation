@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you develop a new severe headache shortly after giving birth"
+seo_title: "New severe headache after giving birth"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "headache after vaginal birth"
   - "post partum severe headache"
   - "postpartum headach after birth"
-last_reviewed: "2026-06-12"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-12"
 ---
 

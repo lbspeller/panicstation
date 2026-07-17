@@ -2,7 +2,7 @@
 import { getCollection } from "astro:content";
 import SiteLayout from "../../layouts/SiteLayout.astro";
 import { CATEGORIES, CATEGORY_FULL } from "../../lib/categories";
-import { buildGuideStructuredData } from "../../lib/structuredData";
+import { buildGuideStructuredData, deriveGuideDescription } from "../../lib/structuredData";
 import "../../styles/guides.css";
 
 const enableAdsenseTest = import.meta.env.PUBLIC_ENABLE_ADSENSE_TEST === "1";
@@ -74,6 +74,8 @@ function splitGuideTitle(title: string) {
 }
 
 const guideTitle = splitGuideTitle(entry.data.title);
+const seoTitle = entry.data.seo_title.trim();
+const seoDescription = deriveGuideDescription(entry.data.title, entry.data.category);
 
 /*
   Central switch for whether this guide is allowed to show ads.
@@ -96,7 +98,9 @@ const structuredData = buildGuideStructuredData({
 ---
 
 <SiteLayout
-  title={`${entry.data.title} — PanicStation.org`}
+  title={seoTitle}
+  socialTitle={seoTitle}
+  description={seoDescription}
   jurisdiction={urlJurisdiction}
   structuredData={structuredData}
 >

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are travelling with two passports and are unsure which one your booking is linked to"
+seo_title: "Travelling with two passports and booking confusion"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "dual national entering the usa"
   - "dual national leaving the usa"
   - "two passports during transit"
-last_reviewed: "2026-06-12"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-12"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you find standing water in your basement or crawl space after heavy rain"
+seo_title: "Standing water in basement or crawl space after rain"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "crawlspace water after rain"
   - "rental basement flooded"
   - "insured basement water damage"
-last_reviewed: "2026-06-15"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-15"
 ---
 

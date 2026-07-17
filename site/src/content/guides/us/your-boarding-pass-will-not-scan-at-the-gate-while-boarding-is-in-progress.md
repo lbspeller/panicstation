@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your boarding pass will not scan at the gate while boarding is in progress"
+seo_title: "Boarding pass will not scan at the gate"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "domestic flight boarding problem"
   - "international flight passport check"
   - "last call boarding pass issue"
-last_reviewed: "2026-06-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-26"
 ---
 

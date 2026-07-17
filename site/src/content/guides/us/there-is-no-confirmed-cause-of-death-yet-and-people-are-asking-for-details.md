@@ -1,5 +1,6 @@
 ---
 title: "What to do if… there is no confirmed cause of death yet and people are asking for details"
+seo_title: "No confirmed cause of death and people asking questions"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "private death details under pressure"
   - "autospy results pending"
   - "death certifcate cause pending"
-last_reviewed: "2026-06-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-06"
 ---
 

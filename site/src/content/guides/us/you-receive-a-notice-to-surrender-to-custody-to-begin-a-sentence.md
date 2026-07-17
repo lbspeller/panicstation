@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a notice to surrender to custody to begin a sentence"
+seo_title: "Notice to surrender to custody to begin a sentence"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "sentance date coming"
   - "voluntary surrender confusion"
   - "commitment notice confusion"
-last_reviewed: "2026-06-20"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-20"
 ---
 

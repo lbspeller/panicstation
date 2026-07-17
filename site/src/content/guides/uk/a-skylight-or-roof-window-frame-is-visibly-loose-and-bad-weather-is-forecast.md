@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a skylight or roof window frame is visibly loose and bad weather is forecast"
+seo_title: "Skylight or roof window frame is loose before bad weather"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "before heavy rain skylight"
   - "rented home roof window loose"
   - "insured home storm damage"
-last_reviewed: "2026-04-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-28"
 ---
 

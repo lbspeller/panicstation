@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone is pressuring you to leave with them by claiming your friends need you"
+seo_title: "Someone pressuring you to leave with them"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "at a venue with friends"
   - "in public near strangers"
   - "waiting for a rideshare"
-last_reviewed: "2026-06-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-05"
 ---
 

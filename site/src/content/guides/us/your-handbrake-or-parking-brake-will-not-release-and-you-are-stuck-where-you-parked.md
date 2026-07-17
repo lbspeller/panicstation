@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your handbrake or parking brake will not release and you are stuck where you parked"
+seo_title: "Parking brake or handbrake will not release"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "stuck in garage"
   - "stuck on roadside"
   - "cold weather parking brake"
-last_reviewed: "2026-06-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-29"
 ---
 

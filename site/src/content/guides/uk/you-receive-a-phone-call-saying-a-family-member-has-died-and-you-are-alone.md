@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a phone call saying a family member has died and you are alone"
+seo_title: "Phone call saying a family member has died"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "bereavment call alone"
   - "alone at home after call"
   - "uk death phone call"
-last_reviewed: "2026-05-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-17"
 ---
 

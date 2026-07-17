@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your key fob stops working and you cannot unlock or start your vehicle"
+seo_title: "Key fob not working and cannot unlock or start car"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "keyless fob not recognised"
   - "key fob batery dead"
   - "keyfob not working"
-last_reviewed: "2026-05-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-26"
 ---
 

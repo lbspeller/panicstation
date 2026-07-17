@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a stranger pressures you to reveal your phone number in person"
+seo_title: "Stranger pressuring you for your phone number"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "verfication code request"
   - "someone wants my number immediately"
   - "stranger asks to ring my phone"
-last_reviewed: "2026-06-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-02"
 ---
 

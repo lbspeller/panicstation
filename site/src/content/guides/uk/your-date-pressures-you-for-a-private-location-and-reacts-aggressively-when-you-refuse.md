@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your date pressures you for a private location and reacts aggressively when you refuse"
+seo_title: "Date pressuring you for privacy and acting aggressively"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -33,7 +34,7 @@ tags:
   - "pressured to go privete"
   - "outside venue with date"
   - "bar date feels unsafe"
-last_reviewed: "2026-05-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-05"
 ---
 

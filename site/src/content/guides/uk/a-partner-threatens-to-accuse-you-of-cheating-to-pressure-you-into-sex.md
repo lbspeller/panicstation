@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a partner threatens to accuse you of cheating to pressure you into sex"
+seo_title: "Partner threatening cheating accusations to pressure for sex"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "living with partner"
   - "partner has my phone access"
   - "threat happened by text"
-last_reviewed: "2026-04-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-27"
 ---
 

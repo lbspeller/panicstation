@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your electric vehicle will not start charging at a public station"
+seo_title: "Electric vehicle will not start charging at public station"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "eletric car not charging"
   - "after hours charging station"
   - "unfamiliar public charger"
-last_reviewed: "2026-06-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-28"
 ---
 

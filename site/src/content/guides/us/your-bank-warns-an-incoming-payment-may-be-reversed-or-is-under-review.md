@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your bank warns an incoming payment may be reversed or is under review"
+seo_title: "Bank warns incoming payment under review or reversal"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "deposit reversel warning"
   - "provisonal credit confusion"
   - "online sale payment review"
-last_reviewed: "2026-06-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-26"
 ---
 

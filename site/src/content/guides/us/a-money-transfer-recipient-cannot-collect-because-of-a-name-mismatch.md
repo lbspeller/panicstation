@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a money transfer recipient cannot collect because of a name mismatch"
+seo_title: "Money transfer recipient name mismatch"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "cash pickup transfer name mismatch"
   - "transfer pending after name mismatch"
   - "recipient id name differs"
-last_reviewed: "2026-06-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-01"
 ---
 

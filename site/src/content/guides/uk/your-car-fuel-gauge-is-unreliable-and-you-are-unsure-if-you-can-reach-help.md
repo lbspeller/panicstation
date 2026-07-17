@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your car fuel gauge is unreliable and you are unsure if you can reach help"
+seo_title: "Unreliable fuel gauge and unsure you can reach help"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "stopped in car park"
   - "stopped in lay-by"
   - "near motorway low fuel"
-last_reviewed: "2026-05-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-24"
 ---
 

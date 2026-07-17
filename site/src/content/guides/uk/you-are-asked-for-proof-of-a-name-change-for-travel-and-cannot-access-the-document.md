@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked for proof of a name change for travel and cannot access the document"
+seo_title: "Missing name change document for travel"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "marrige certificate missing"
   - "deed pole missing"
   - "last minute travel documents"
-last_reviewed: "2026-05-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-04"
 ---
 

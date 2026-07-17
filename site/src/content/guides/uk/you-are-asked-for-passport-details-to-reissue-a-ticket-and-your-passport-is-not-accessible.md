@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked for passport details to reissue a ticket and your passport is not accessible"
+seo_title: "Passport details requested for ticket reissue"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "passport detials request"
   - "pasport number request"
   - "travelling abroad passport details"
-last_reviewed: "2026-05-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-03"
 ---
 

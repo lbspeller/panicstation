@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your electric vehicle charge port will not close after charging"
+seo_title: "Electric vehicle charge port will not close"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "driving after ev charging"
   - "electric car charge flap stuck"
   - "charging port door jammed"
-last_reviewed: "2026-05-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-24"
 ---
 

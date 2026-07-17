@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone is crowding you and you feel trapped or unable to leave safely"
+seo_title: "Someone is crowding you and you feel trapped"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "unsafe at a party"
   - "crwoding during flirting"
   - "flrting feels unsafe"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-01"
 ---
 

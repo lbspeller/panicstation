@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have sudden heavy vaginal bleeding and feel dizzy"
+seo_title: "Sudden heavy vaginal bleeding and dizziness"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "bleeding after recent pregnancy"
   - "vaginal bleading with dizziness"
   - "heavy uterine bleading"
-last_reviewed: "2026-06-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-13"
 ---
 

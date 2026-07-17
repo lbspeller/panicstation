@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a returned payment fee pushes your account into a negative balance"
+seo_title: "Returned payment fee caused negative account balance"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "negative balance before payday"
   - "nonsufficent funds fee"
   - "overdaft fee surprise"
-last_reviewed: "2026-06-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-01"
 ---
 

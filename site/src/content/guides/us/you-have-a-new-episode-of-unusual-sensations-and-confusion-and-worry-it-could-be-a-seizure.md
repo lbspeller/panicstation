@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have a new episode of unusual sensations and confusion and worry it could be a seizure"
+seo_title: "New episode of unusual sensations or confusion"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "seizure warrning worry"
   - "confussion episode"
   - "alone during seizure warning"
-last_reviewed: "2026-06-15"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-15"
 ---
 

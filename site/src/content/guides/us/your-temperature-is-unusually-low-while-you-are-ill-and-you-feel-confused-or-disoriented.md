@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your temperature is unusually low while you are ill and you feel confused or disoriented"
+seo_title: "Unusually low temperature with confusion or disorientation"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -33,7 +34,7 @@ tags:
   - "indoor hypothermia"
   - "hypotermia symptoms confusion"
   - "temperatur low when sick"
-last_reviewed: "2026-07-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-04"
 ---
 

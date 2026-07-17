@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a service says your account is under review and you fear losing access to stored data"
+seo_title: "Service says account under review and data at risk"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "documents stored online"
   - "acount under review"
   - "account suspened"
-last_reviewed: "2026-06-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-02"
 ---
 

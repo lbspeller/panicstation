@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you get an unexpectedly high blood pressure reading and feel unwell"
+seo_title: "Unexpectedly high blood pressure and feeling unwell"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "bp reading 180 120"
   - "high blood presure reading"
   - "high blod pressure reading"
-last_reviewed: "2026-06-15"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-15"
 ---
 

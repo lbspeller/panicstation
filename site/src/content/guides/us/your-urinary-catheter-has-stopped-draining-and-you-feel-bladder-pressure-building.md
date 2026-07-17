@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your urinary catheter has stopped draining and you feel bladder pressure building"
+seo_title: "Urinary catheter stopped draining and bladder pressure building"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "catheter bag problem"
   - "suprapubic catheter not draining"
   - "urethral catheter not draining"
-last_reviewed: "2026-06-15"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-15"
 ---
 

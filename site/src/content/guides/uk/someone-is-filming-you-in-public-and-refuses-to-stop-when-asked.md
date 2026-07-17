@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone is filming you in public and refuses to stop when asked"
+seo_title: "Someone filming you in public and refusing to stop"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "unwanted public livestream"
   - "posted online after recording"
   - "harassed while being filmed"
-last_reviewed: "2026-05-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-16"
 ---
 

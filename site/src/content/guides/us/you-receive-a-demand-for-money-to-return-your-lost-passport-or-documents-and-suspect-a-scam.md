@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a demand for money to return your lost passport or documents and suspect a scam"
+seo_title: "Demand for money to return lost passport or documents"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "passprt return scam"
   - "abroad without passport"
   - "travel soon without passport"
-last_reviewed: "2026-06-20"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-20"
 ---
 

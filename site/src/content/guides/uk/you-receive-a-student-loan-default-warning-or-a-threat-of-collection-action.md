@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a student loan default warning or a threat of collection action"
+seo_title: "Student loan default warning or collection threat"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "studant loan default warning"
   - "student lone arrears letter"
   - "student loan court threat"
-last_reviewed: "2026-05-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-17"
 ---
 

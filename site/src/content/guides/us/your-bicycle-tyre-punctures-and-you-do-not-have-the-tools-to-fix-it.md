@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your bicycle tyre punctures and you do not have the tools to fix it"
+seo_title: "Bicycle tyre puncture with no tools"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "puncture near highway"
   - "bike flat in rain"
   - "stuck on bike commute"
-last_reviewed: "2026-06-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-26"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your employer announces the business is entering bankruptcy or insolvency proceedings"
+seo_title: "Employer announces bankruptcy or insolvency proceedings"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "insolvancy at work"
   - "bankrupcy at work"
   - "uk employer insolvency"
-last_reviewed: "2026-05-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-25"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you feel like someone is following you while you are shopping"
+seo_title: "Feeling followed while shopping"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "with a child in public"
   - "after dark shopping area"
   - "dont feel safe leaving"
-last_reviewed: "2026-06-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-14"
 ---
 

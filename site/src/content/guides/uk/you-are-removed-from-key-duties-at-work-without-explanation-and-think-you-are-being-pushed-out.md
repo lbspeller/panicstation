@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are removed from key duties at work without explanation and think you are being pushed out"
+seo_title: "Suddenly removed from key work duties"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -42,7 +43,7 @@ tags:
   - "after restructure duties removed"
   - "without written explanation"
   - "while still employed"
-last_reviewed: "2026-05-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-05"
 ---
 

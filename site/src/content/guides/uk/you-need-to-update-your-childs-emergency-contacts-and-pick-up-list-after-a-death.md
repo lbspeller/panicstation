@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you need to update your child’s emergency contacts and pick-up list after a death"
+seo_title: "Update child emergency contacts and pick-up list after death"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "parental responsibility confusion"
   - "emergency contats after death"
   - "pickup person after berevement"
-last_reviewed: "2026-05-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-14"
 ---
 

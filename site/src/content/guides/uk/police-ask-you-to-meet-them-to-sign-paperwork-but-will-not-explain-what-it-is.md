@@ -1,5 +1,6 @@
 ---
 title: "What to do if… police ask you to meet them to sign paperwork but will not explain what it is"
+seo_title: "Police ask you to sign unexplained paperwork"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "routine police paperwork"
   - "police papework unclear"
   - "police station appoitment"
-last_reviewed: "2026-04-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-30"
 ---
 

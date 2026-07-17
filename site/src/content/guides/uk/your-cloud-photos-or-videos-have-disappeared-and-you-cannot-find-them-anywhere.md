@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your cloud photos or videos have disappeared and you cannot find them anywhere"
+seo_title: "Cloud photos or videos have disappeared"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "shared album photos missing"
   - "fotos disappeared from cloud"
   - "vidoes missing from cloud"
-last_reviewed: "2026-05-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-24"
 ---
 

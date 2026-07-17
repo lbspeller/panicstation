@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a travel provider requires a printed document and you only have a digital screenshot"
+seo_title: "Travel provider requires printed document instead of screenshot"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -34,7 +35,7 @@ tags:
   - "airport document problem"
   - "station ticket collection problem"
   - "abroad with no printer"
-last_reviewed: "2026-04-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-28"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your bank’s app and website are down and you have a time-critical payment due"
+seo_title: "Bank app and website down with payment due"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "bill due during outage"
   - "urgent rent payment"
   - "time-critical bill payment"
-last_reviewed: "2026-06-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-26"
 ---
 

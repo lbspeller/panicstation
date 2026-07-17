@@ -1,5 +1,6 @@
 ---
 title: "What to do if… water is overflowing from your gutter and running behind the downspout into your wall"
+seo_title: "Gutter overflowing and water entering wall"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "owned home gutter leak"
   - "heavy rain gutter spillover"
   - "external wall getting soaked"
-last_reviewed: "2026-05-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-02"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your files suddenly change names or extensions and you do not know why"
+seo_title: "Files suddenly renamed or extensions changed"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "cant open my files"
   - "file extention changed"
   - "randsom note on computer"
-last_reviewed: "2026-06-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-29"
 ---
 

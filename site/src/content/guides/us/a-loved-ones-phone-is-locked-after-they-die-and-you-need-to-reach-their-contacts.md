@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a loved one’s phone is locked after they die and you need to reach their contacts"
+seo_title: "Loved one's phone locked after death"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "decesed phone locked"
   - "bereavment phone locked"
   - "family phone locked after death"
-last_reviewed: "2026-05-31"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-31"
 ---
 

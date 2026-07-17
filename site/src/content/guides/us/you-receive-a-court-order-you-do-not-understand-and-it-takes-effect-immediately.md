@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a court order you do not understand and it takes effect immediately"
+seo_title: "Confusing court order that takes effect immediately"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "restraning order served"
   - "without a lawyer"
   - "after being served"
-last_reviewed: "2026-06-20"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-20"
 ---
 

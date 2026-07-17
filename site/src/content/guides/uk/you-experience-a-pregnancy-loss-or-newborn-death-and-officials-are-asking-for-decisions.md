@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you experience a pregnancy loss or newborn death and officials are asking for decisions"
+seo_title: "Pregnancy loss or newborn death official decisions"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "northern ireland baby loss"
   - "pregnacy loss paperwork"
   - "miscarage official questions"
-last_reviewed: "2026-05-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-10"
 ---
 

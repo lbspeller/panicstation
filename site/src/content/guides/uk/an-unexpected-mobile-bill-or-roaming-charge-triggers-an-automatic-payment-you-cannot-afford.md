@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an unexpected mobile bill or roaming charge triggers an automatic payment you cannot afford"
+seo_title: "Unexpected mobile bill or roaming charge payment"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "autopay phone bill"
   - "bill limit not working"
   - "abroad with roaming charges"
-last_reviewed: "2026-04-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-27"
 ---
 

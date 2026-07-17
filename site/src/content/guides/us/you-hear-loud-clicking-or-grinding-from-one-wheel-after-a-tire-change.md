@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you hear loud clicking or grinding from one wheel after a tire change"
+seo_title: "Loud clicking or grinding from wheel after tire change"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "roadside after tire change"
   - "highway shoulder wheel noise"
   - "nighttime tire change noise"
-last_reviewed: "2026-06-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-16"
 ---
 

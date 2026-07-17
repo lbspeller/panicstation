@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your child support or maintenance payment is missed and enforcement is threatened"
+seo_title: "Missed child support payment and enforcement threats"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -42,7 +43,7 @@ tags:
   - "northern ireland maintenance case"
   - "maintenence payment missed"
   - "maintanance payment late"
-last_reviewed: "2026-05-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-24"
 ---
 

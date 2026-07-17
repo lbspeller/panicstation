@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your rescue inhaler is not helping your breathing symptoms"
+seo_title: "Rescue inhaler not relieving breathing symptoms"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "asthma flare up alone"
   - "asthma flare up at night"
   - "asthma inhaler problem away from home"
-last_reviewed: "2026-07-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-03"
 ---
 

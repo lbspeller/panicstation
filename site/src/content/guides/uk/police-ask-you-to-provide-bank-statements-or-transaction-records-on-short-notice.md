@@ -1,5 +1,6 @@
 ---
 title: "What to do if… police ask you to provide bank statements or transaction records on short notice"
+seo_title: "Police request for bank statements or records"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "bank statments request"
   - "transation records request"
   - "short notice police contact"
-last_reviewed: "2026-04-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-30"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you experience sudden numbness or tingling in your face, arm, or leg that comes and goes"
+seo_title: "Sudden numbness or tingling in face, arm, or leg"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "fast stroke signs"
   - "numbnes in face"
   - "tingly arm and face"
-last_reviewed: "2026-06-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-14"
 ---
 

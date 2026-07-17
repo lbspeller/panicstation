@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your job offer is withdrawn shortly before you are due to start"
+seo_title: "Job offer withdrawn before start date"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "budget change before start"
   - "discrimination after job offer"
   - "retaliation after job offer"
-last_reviewed: "2026-06-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-30"
 ---
 

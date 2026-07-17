@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your electric vehicle charging session stops unexpectedly and you are low on range"
+seo_title: "Electric vehicle charging session stopped unexpectedly"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "ev charger not working"
   - "charging conecter loose"
   - "chargng session stopped"
-last_reviewed: "2026-06-15"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-15"
 ---
 

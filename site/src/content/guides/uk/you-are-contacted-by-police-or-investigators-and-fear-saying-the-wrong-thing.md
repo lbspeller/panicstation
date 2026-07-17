@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are contacted by police or investigators and fear saying the wrong thing"
+seo_title: "Contacted by police or investigators for questioning"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "workplace police allegation"
   - "online messages investigation"
   - "uk police investigation"
-last_reviewed: "2026-05-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-06"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you realise you left your passport in a hotel safe and have to travel soon"
+seo_title: "Passport left in hotel safe before travel"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "abroad without uk passport"
   - "pasport left in hotel"
   - "passprt in hotel safe"
-last_reviewed: "2026-05-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-17"
 ---
 

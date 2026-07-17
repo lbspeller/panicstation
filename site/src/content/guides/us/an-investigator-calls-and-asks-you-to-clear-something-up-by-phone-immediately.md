@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an investigator calls and asks you to clear something up by phone immediately"
+seo_title: "Investigator calls asking to clear something up by phone"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "quick question from detective"
   - "phone call not subpoena"
   - "possible fake investigator call"
-last_reviewed: "2026-06-21"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-21"
 ---
 

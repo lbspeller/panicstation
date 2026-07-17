@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are told a person who died may have debts and you are worried you will be responsible"
+seo_title: "Worried about a deceased person's debts"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "deceased dept worry"
   - "uk bereavement debt"
   - "unknown debts in estate"
-last_reviewed: "2026-05-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-06"
 ---
 

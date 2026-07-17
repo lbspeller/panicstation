@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your new job start date is postponed after you have already resigned"
+seo_title: "New job start date postponed after resigning"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "before first day at work"
   - "start date postoned"
   - "joing date delayed"
-last_reviewed: "2026-05-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-28"
 ---
 

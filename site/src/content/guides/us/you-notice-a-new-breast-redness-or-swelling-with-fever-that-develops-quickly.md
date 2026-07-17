@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice a new breast redness or swelling with fever that develops quickly"
+seo_title: "New breast redness or swelling with fever"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "brest redness with fever"
   - "mastitus symptoms"
   - "breastfeeding breast redness"
-last_reviewed: "2026-06-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-17"
 ---
 

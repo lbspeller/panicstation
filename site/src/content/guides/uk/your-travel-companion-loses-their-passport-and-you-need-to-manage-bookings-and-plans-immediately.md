@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your travel companion loses their passport and you need to manage bookings and plans immediately"
+seo_title: "Travel companion lost passport abroad"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "visa in lost passport"
   - "pasport lost abroad"
   - "emergancy travel document"
-last_reviewed: "2026-05-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-28"
 ---
 

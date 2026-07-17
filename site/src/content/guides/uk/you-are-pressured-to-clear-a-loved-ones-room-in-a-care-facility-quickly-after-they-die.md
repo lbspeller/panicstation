@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are pressured to clear a loved one’s room in a care facility quickly after they die"
+seo_title: "Pressured to clear a care home room quickly"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "care home fee dispute"
   - "carehome room clearence"
   - "self-funded care home resident"
-last_reviewed: "2026-05-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-06"
 ---
 

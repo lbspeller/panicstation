@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a cheque you deposited is returned unpaid and your balance drops"
+seo_title: "Deposited cheque returned unpaid and balance dropped"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "cheque overpayment pressure"
   - "essential bills at risk"
   - "large cheque unpaid"
-last_reviewed: "2026-04-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-25"
 ---
 

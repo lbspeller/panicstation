@@ -1,5 +1,6 @@
 ---
 title: "What to do if… police contact you asking you to come in for a voluntary interview"
+seo_title: "Police request for a voluntary interview"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -34,7 +35,7 @@ tags:
   - "local police want interview"
   - "voluntary police interveiw"
   - "detective wants an interveiw"
-last_reviewed: "2026-06-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-04"
 ---
 

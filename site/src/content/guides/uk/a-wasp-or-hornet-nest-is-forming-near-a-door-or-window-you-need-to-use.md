@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a wasp or hornet nest is forming near a door or window you need to use"
+seo_title: "Wasp or hornet nest near a door or window"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "shared building wasp nest"
   - "children near wasp nest"
   - "pet near wasp nest"
-last_reviewed: "2026-04-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-29"
 ---
 

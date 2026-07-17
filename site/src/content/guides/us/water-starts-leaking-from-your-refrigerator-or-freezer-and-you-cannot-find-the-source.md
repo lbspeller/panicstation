@@ -1,5 +1,6 @@
 ---
 title: "What to do if… water starts leaking from your refrigerator or freezer and you cannot find the source"
+seo_title: "Refrigerator or freezer leaking water"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "refrigerator leak with water dispenser"
   - "water spreading from refrigerator"
   - "unknown refrigerator leak source"
-last_reviewed: "2026-06-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-06"
 ---
 

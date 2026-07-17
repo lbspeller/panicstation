@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are locked out of your email or cloud storage while traveling"
+seo_title: "Locked out of email or cloud storage while traveling"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "new sim verification code missing"
   - "passprt scan missing"
   - "bookng confirmation missing"
-last_reviewed: "2026-06-12"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-12"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone at your hotel or rental door demands entry and you cannot verify them"
+seo_title: "Someone at your hotel or rental door demanding entry"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "bogus caller"
   - "hotel dore knock"
   - "hotal door knock"
-last_reviewed: "2026-05-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-05"
 ---
 

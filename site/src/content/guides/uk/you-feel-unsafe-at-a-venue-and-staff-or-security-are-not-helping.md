@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you feel unsafe at a venue and staff or security are not helping"
+seo_title: "Unsafe at a venue and staff not helping"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -43,7 +44,7 @@ tags:
   - "coat left in cloakroom"
   - "securty not helping"
   - "unsafe at venu"
-last_reviewed: "2026-05-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-10"
 ---
 

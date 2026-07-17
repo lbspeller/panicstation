@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked about organ or tissue donation and feel unprepared to decide"
+seo_title: "Asked about organ or tissue donation and feel unprepared"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "organ donaton decision"
   - "tissue donaton decision"
   - "family unsure about cornea donation"
-last_reviewed: "2026-06-07"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-07"
 ---
 

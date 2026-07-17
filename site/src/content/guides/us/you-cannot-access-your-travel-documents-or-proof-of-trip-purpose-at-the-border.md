@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you cannot access your travel documents or proof of trip purpose at the border"
+seo_title: "Cannot access travel documents at the border"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "tourism trip proof unavailable"
   - "accomodation proof inaccessible"
   - "supporting documants inaccessible"
-last_reviewed: "2026-06-08"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-08"
 ---
 

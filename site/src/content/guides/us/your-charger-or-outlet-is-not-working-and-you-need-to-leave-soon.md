@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your charger or outlet is not working and you need to leave soon"
+seo_title: "Charger or outlet not working before leaving"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "low battery before commute"
   - "no power before leaving"
   - "office charger not working"
-last_reviewed: "2026-06-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-30"
 ---
 

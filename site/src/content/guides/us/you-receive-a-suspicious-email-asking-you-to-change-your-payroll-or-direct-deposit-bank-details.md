@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a suspicious email asking you to change your payroll or direct deposit bank details"
+seo_title: "Suspicious email asking to change payroll bank details"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "new employee payroll setup"
   - "payday is soon"
   - "company email account compromised"
-last_reviewed: "2026-06-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-22"
 ---
 

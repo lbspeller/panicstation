@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your car hood or bonnet will not latch properly before you start driving"
+seo_title: "Car hood or bonnet will not latch properly"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -34,7 +35,7 @@ tags:
   - "before driving hood problem"
   - "parking lot hood issue"
   - "driveway hood problem"
-last_reviewed: "2026-06-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-26"
 ---
 

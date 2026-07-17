@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a notice that you could be held in contempt for not complying with a court order"
+seo_title: "Notice of contempt for not following a court order"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "civil court order uk"
   - "family court order uk"
   - "urgent court papers uk"
-last_reviewed: "2026-05-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-18"
 ---
 

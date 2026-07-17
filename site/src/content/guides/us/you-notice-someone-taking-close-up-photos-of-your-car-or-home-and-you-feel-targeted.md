@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice someone taking close-up photos of your car or home and you feel targeted"
+seo_title: "Stranger taking photos of your home or car"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "outside my home at night"
   - "lisense plate photographed"
   - "lisence plate photo"
-last_reviewed: "2026-06-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-18"
 ---
 

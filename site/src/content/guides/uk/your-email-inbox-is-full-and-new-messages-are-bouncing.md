@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your email inbox is full and new messages are bouncing"
+seo_title: "Email inbox full and messages bouncing"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "school email inbox full"
   - "shared storage full"
   - "large attachments filling inbox"
-last_reviewed: "2026-05-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-11"
 ---
 

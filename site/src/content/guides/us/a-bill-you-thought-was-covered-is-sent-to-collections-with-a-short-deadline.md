@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a bill you thought was covered is sent to collections with a short deadline"
+seo_title: "Bill sent to collections for a covered debt"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "credit report collection"
   - "collectons letter"
   - "colection agency bill"
-last_reviewed: "2026-05-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-29"
 ---
 

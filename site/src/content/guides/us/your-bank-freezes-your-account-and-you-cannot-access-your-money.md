@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your bank freezes your account and you cannot access your money"
+seo_title: "Bank account frozen and cannot access money"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "cant access bank account"
   - "bank acount frozen"
   - "bank account frosen"
-last_reviewed: "2026-06-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-25"
 ---
 

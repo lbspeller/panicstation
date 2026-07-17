@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to notify a school community about a death and fear backlash or blame"
+seo_title: "Notifying a school community about a death"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "sudden pupil death"
   - "death of school staff"
   - "bereaved school community"
-last_reviewed: "2026-05-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-04"
 ---
 

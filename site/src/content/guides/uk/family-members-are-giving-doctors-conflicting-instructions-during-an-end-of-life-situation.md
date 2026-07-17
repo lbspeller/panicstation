@@ -1,5 +1,6 @@
 ---
 title: "What to do if… family members are giving doctors conflicting instructions during an end-of-life situation"
+seo_title: "Family members giving doctors conflicting instructions"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "uk hospital end of life"
   - "intensive care family conflict"
   - "palliative care family conflict"
-last_reviewed: "2026-04-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-29"
 ---
 

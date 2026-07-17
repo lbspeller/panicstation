@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you cannot attend your first required reporting appointment with an authority"
+seo_title: "Cannot attend first required reporting appointment"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "first appointment with authority"
   - "reporting apointment missed"
   - "authoroty appointment missed"
-last_reviewed: "2026-05-07"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-07"
 ---
 

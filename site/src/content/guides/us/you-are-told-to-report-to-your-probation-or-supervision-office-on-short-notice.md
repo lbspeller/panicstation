@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are told to report to your probation or supervision office on short notice"
+seo_title: "Sudden probation or supervision office reporting instruction"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "probation office travel barrier"
   - "probation oficer short notice"
   - "supervison office short notice"
-last_reviewed: "2026-06-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-11"
 ---
 

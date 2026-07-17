@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone keeps appearing where you go and making unwanted sexual comments"
+seo_title: "Someone appearing and making unwanted sexual comments"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "stalkng in public"
   - "near work or college"
   - "on public transport route"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-01"
 ---
 

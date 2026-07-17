@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an accommodation asks to keep your passport overnight and you feel uncomfortable"
+seo_title: "Accommodation asks to keep your passport overnight"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "passport with held by hostel"
   - "british passport abroad"
   - "late night hotel check-in"
-last_reviewed: "2026-04-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-29"
 ---
 

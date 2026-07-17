@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a missed check-in alert from a supervision app or phone system and the deadline is short"
+seo_title: "Missed supervision check-in alert with short deadline"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "parole phone reporting problem"
   - "checkin alert"
   - "supervison app alert"
-last_reviewed: "2026-06-20"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-20"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you cannot find keys to a home after a death and the property seems unsecured"
+seo_title: "Home keys missing after a death and property unsecured"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "keys missing while authority is unclear"
   - "home unsecured with unclear authority"
   - "property unsecured after bereavement"
-last_reviewed: "2026-06-12"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-12"
 ---
 

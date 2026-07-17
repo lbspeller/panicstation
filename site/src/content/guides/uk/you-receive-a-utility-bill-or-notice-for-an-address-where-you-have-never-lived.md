@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a utility bill or notice for an address where you have never lived"
+seo_title: "Utility bill or notice for address never lived at"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "recieved utility bill wrong"
   - "wrong adress utility notice"
   - "uk utility account notice"
-last_reviewed: "2026-05-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-19"
 ---
 

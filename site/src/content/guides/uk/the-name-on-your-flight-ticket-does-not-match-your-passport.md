@@ -1,5 +1,6 @@
 ---
 title: "What to do if… the name on your flight ticket does not match your passport"
+seo_title: "Flight ticket name does not match passport"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "travel agent ticket name"
   - "codeshare flight name mismatch"
   - "misspelt name on ticket"
-last_reviewed: "2026-05-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-02"
 ---
 

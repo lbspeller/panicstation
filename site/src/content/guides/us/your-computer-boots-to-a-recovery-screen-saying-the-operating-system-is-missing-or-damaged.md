@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your computer boots to a recovery screen saying the operating system is missing or damaged"
+seo_title: "Computer boots to operating system missing error"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -42,7 +43,7 @@ tags:
   - "after laptop drop boot failure"
   - "encrypted computer wont boot"
   - "important files on computer"
-last_reviewed: "2026-06-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-28"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have facial swelling from a tooth problem that is spreading"
+seo_title: "Spreading facial swelling from a tooth problem"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "gum boil with face swelling"
   - "weekend tooth swelling"
   - "out of hours tooth swelling"
-last_reviewed: "2026-05-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-09"
 ---
 

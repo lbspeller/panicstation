@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you need to tell extended family about a death and rumours are spreading"
+seo_title: "Telling family about a death when rumours spread"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "extended family spread across locations"
   - "rumers spreading after a death"
   - "bereavment family messages"
-last_reviewed: "2026-06-12"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-12"
 ---
 

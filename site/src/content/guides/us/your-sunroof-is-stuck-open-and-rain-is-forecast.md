@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your sunroof is stuck open and rain is forecast"
+seo_title: "Sunroof stuck open with rain forecast"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "parked car in rain"
   - "roadside with sunroof open"
   - "electric car got wet inside"
-last_reviewed: "2026-07-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-04"
 ---
 

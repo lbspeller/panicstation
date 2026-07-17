@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a tax bill you cannot pay by the deadline"
+seo_title: "Tax bill received but cannot pay by deadline"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "cannot afford tax bill"
   - "tax balence due"
   - "tax dedline panic"
-last_reviewed: "2026-05-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-19"
 ---
 

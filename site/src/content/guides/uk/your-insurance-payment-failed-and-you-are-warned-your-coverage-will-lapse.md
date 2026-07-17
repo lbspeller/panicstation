@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your insurance payment failed and you are warned your coverage will lapse"
+seo_title: "Insurance payment failed and coverage lapse warning"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "premium failed or renewal failed"
   - "insuance payment failed"
   - "insurence cover lapse"
-last_reviewed: "2026-05-07"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-07"
 ---
 

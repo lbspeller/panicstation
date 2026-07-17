@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a recruiter asks you to start work before you have a signed contract"
+seo_title: "Recruiter asks you to start work without a contract"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "new job onboarding incomplete"
   - "recruiter requests work output early"
   - "job start without signed contract"
-last_reviewed: "2026-06-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-01"
 ---
 

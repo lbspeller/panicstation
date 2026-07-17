@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are pressured to sign off on work, checks, or inspections you did not witness"
+seo_title: "Pressured to sign off on work you did not witness"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "asked to sign equipment check"
   - "asked to approve inspection signof"
   - "asked to certfy an inspection"
-last_reviewed: "2026-06-08"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-08"
 ---
 

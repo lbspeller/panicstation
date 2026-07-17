@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone threatens to spread false claims about consent unless you stay silent"
+seo_title: "Threatened with false claims about consent"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "online threat about consent"
   - "workplace rumour threat"
   - "former partner consent threat"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-01"
 ---
 

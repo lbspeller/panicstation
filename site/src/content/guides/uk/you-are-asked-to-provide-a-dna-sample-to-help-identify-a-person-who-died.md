@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to provide a DNA sample to help identify a person who died"
+seo_title: "Asked to provide DNA to identify a deceased person"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "confused about deceased dna"
   - "dna sampel request"
   - "deceased persn identification"
-last_reviewed: "2026-05-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-04"
 ---
 

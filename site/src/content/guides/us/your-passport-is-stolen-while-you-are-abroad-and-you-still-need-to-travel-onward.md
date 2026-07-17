@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your passport is stolen while you are abroad and you still need to travel onward"
+seo_title: "Passport stolen while abroad and need to travel onward"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "urgent onward travel abroad"
   - "transit with emergency passport"
   - "abroad with no passport"
-last_reviewed: "2026-07-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-01"
 ---
 

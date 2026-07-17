@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your passport has no blank pages left for travel"
+seo_title: "Passport has no blank pages left for travel"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "passport full with upcoming visa"
   - "pasport has no blank pages"
   - "passport has no blank pges"
-last_reviewed: "2026-06-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-11"
 ---
 

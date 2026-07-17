@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you hit your head and now have a worsening headache, nausea, or unusual sleepiness"
+seo_title: "Worsening symptoms after a head injury"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "head injery getting worse"
   - "concussin symptoms worsening"
   - "minor head bump worse later"
-last_reviewed: "2026-06-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-16"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an automatic bill payment fails and you receive an urgent late notice"
+seo_title: "Automatic bill payment failed and late notice received"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "late notice recieved"
   - "automatic bill payment missing"
   - "urgent bill payment notice"
-last_reviewed: "2026-06-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-03"
 ---
 

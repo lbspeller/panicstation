@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your device is overheating and you suspect a failing battery"
+seo_title: "Device overheating and suspected battery failure"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "overheting phone battery"
   - "hot device near bed"
   - "overheating after drop"
-last_reviewed: "2026-06-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-28"
 ---
 

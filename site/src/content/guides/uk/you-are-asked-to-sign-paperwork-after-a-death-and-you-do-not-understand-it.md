@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to sign paperwork after a death and you do not understand it"
+seo_title: "Confusing paperwork after a death"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -33,7 +34,7 @@ tags:
   - "coroner paperwork confusion"
   - "bereavment paperwork confusion"
   - "funeral paperwrk pressure"
-last_reviewed: "2026-05-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-04"
 ---
 

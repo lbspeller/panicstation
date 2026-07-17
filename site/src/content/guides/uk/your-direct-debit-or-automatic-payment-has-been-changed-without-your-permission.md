@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your direct debit or automatic payment has been changed without your permission"
+seo_title: "Automatic payment or direct debit changed without permission"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "direkt debit changed"
   - "autopay ammount changed"
   - "uk bank account payment change"
-last_reviewed: "2026-05-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-10"
 ---
 

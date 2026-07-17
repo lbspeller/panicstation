@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are pressured to sign a settlement agreement or resignation letter on the spot"
+seo_title: "Pressured to sign resignation or settlement papers"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "unemployment after pressured resignation"
   - "severence agreement signature pressure"
   - "resignation leter signature pressure"
-last_reviewed: "2026-06-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-10"
 ---
 

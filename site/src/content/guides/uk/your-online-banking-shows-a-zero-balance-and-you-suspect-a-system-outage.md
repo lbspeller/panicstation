@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your online banking shows a zero balance and you suspect a system outage"
+seo_title: "Online banking shows zero balance during outage"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "zero balance after payday"
   - "zero balance before bills"
   - "online banking access problem"
-last_reviewed: "2026-05-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-26"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to train someone and you suspect they are replacing you"
+seo_title: "Asked to train someone and suspect replacement"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "remote worker asked to hand over"
   - "contractor replacing my role"
   - "asked to train someone after restructure"
-last_reviewed: "2026-06-08"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-08"
 ---
 

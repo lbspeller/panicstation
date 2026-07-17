@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone tries your car door handle while you are inside your locked vehicle"
+seo_title: "Someone tries your car door while you are inside"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "parked car alone"
   - "car door handel pulled"
   - "vehical door tried"
-last_reviewed: "2026-06-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-27"
 ---
 

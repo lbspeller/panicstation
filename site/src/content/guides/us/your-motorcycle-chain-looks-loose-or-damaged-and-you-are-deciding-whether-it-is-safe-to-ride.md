@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your motorcycle chain looks loose or damaged and you are deciding whether it is safe to ride"
+seo_title: "Motorcycle chain looks loose or damaged"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "away from home motorcycle"
   - "motorbike chain loose"
   - "motercycle chain loose"
-last_reviewed: "2026-07-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-01"
 ---
 

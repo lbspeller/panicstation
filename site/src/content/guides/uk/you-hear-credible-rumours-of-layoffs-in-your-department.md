@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you hear credible rumours of layoffs in your department"
+seo_title: "Credible rumours of layoffs in your department"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "lay offs rumour"
   - "uk redundancy rumours"
   - "large employer restructuring"
-last_reviewed: "2026-05-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-13"
 ---
 

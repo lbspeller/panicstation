@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you smell gas or suspect a gas leak in your home"
+seo_title: "Smelling gas or suspecting a gas leak at home"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "gass smell in house"
   - "gas smell in basement"
   - "gas smell in block of flats"
-last_reviewed: "2026-05-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-14"
 ---
 

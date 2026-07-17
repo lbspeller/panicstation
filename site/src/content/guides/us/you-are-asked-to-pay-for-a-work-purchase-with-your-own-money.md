@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to pay for a work purchase with your own money"
+seo_title: "Asked to pay for work purchase with personal money"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "urgent work supply request"
   - "reimbursment plan missing"
   - "work expense reimbursment unclear"
-last_reviewed: "2026-06-08"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-08"
 ---
 

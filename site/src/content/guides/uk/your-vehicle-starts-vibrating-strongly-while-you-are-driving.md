@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your vehicle starts vibrating strongly while you are driving"
+seo_title: "Vehicle starts vibrating strongly while driving"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "roadside car vibration"
   - "vehical shaking"
   - "tyre bubbel"
-last_reviewed: "2026-05-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-28"
 ---
 

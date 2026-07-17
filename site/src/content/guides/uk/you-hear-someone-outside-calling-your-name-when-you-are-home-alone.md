@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you hear someone outside calling your name when you are home alone"
+seo_title: "Someone outside calling your name while home alone"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "alone in flat"
   - "shared building hallway"
   - "student accommodation door"
-last_reviewed: "2026-05-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-13"
 ---
 

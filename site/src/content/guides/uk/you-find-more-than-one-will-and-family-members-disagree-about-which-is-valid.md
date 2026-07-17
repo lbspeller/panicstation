@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you find more than one will and family members disagree about which is valid"
+seo_title: "Finding more than one will and family disagreement"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "probait will dispute"
   - "after a death"
   - "bereaved family dispute"
-last_reviewed: "2026-05-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-11"
 ---
 

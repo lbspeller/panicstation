@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your passport has no blank pages left for travel"
+seo_title: "Passport has no blank pages left for travel"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "abroad with full passport"
   - "uk passport no blank pages"
   - "frequent traveller passport full"
-last_reviewed: "2026-05-08"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-08"
 ---
 

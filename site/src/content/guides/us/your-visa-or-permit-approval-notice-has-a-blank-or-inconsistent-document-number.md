@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your visa or permit approval notice has a blank or inconsistent document number"
+seo_title: "Visa or permit approval notice has missing document number"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -33,7 +34,7 @@ tags:
   - "visa aproved number blank"
   - "document numbr missing"
   - "before travel document mismatch"
-last_reviewed: "2026-07-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-04"
 ---
 

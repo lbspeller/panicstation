@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have sudden worsening pain, redness, or discharge after a recent procedure or dental work"
+seo_title: "Worsening pain or infection after procedure or dental work"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "after oral surgery"
   - "after stitches or dressing"
   - "higher risk infection concern"
-last_reviewed: "2026-06-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-16"
 ---
 

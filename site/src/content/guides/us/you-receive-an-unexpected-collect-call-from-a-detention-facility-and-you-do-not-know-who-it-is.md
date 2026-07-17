@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive an unexpected collect call from a detention facility and you do not know who it is"
+seo_title: "Unexpected collect call from a detention facility"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "out of state jail call"
   - "unexpectd jail call"
   - "detention facillity call"
-last_reviewed: "2026-06-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-22"
 ---
 

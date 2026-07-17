@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone blocks your parked car in and stays nearby watching you"
+seo_title: "Someone blocking your parked car and watching you"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "isolated car park blocked"
   - "parked car blokced in"
   - "stranger watcing car"
-last_reviewed: "2026-04-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-30"
 ---
 

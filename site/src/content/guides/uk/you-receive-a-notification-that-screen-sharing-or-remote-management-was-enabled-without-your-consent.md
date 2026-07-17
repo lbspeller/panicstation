@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a notification that screen sharing or remote management was enabled without your consent"
+seo_title: "Unexpected screen sharing or remote access alert"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "personal laptop remote access"
   - "shared family computer alert"
   - "work account on personal device"
-last_reviewed: "2026-05-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-18"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone is using a secret relationship to pressure you into sexual acts or images"
+seo_title: "Pressured for sex or images in a secret relationship"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -34,7 +35,7 @@ tags:
   - "secret age-gap relationship"
   - "seceret relationship pressure"
   - "consent under presure"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-01"
 ---
 

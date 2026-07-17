@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you develop sudden spinning dizziness and have to lie down"
+seo_title: "Sudden spinning dizziness and vertigo"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "vertigoo attack"
   - "first time vertigo"
   - "dizziness while alone"
-last_reviewed: "2026-05-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-09"
 ---
 

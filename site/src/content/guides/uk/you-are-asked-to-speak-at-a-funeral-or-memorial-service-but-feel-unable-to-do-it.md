@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to speak at a funeral or memorial service but feel unable to do it"
+seo_title: "Unable to speak at a funeral or memorial service"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "family service pressure"
   - "last minute funeral speech"
   - "order of service reading"
-last_reviewed: "2026-05-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-04"
 ---
 

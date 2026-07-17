@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you start vomiting blood or see coffee-ground material in your vomit"
+seo_title: "Vomiting blood or coffee-ground material"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "after heavy retching"
   - "on blood thinners"
   - "after drinking alcohol"
-last_reviewed: "2026-05-21"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-21"
 ---
 

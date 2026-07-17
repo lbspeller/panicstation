@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you discover a large hole or soft spot in an interior wall that seems to be expanding"
+seo_title: "Expanding hole or soft spot in interior wall"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "home wall hole expanding"
   - "drywal feels spongy"
   - "interor wall soft spot"
-last_reviewed: "2026-06-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-13"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a shared folder suddenly appears on your computer and starts syncing unknown files"
+seo_title: "Unknown shared folder appearing and syncing files"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "home laptop shared folder"
   - "unknown cloud drive"
   - "suspicious sync activity"
-last_reviewed: "2026-04-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-28"
 ---
 

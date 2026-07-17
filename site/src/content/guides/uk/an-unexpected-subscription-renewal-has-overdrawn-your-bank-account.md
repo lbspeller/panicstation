@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an unexpected subscription renewal has overdrawn your bank account"
+seo_title: "Unexpected subscription renewal overdrawn bank account"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "essential bills due soon"
   - "subscripton renewal overdraft"
   - "overdaft after subscription"
-last_reviewed: "2026-04-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-28"
 ---
 

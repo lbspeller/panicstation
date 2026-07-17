@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are told your background check has failed after you have already started your job"
+seo_title: "Background check failed after starting your job"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "vetting eror at work"
   - "backround check failed"
   - "conditional job offer problem"
-last_reviewed: "2026-05-07"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-07"
 ---
 

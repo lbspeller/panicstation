@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are told you are the next of kin and need to make urgent decisions"
+seo_title: "Urgent next of kin decisions after a death"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "funeral paperwork confusion"
   - "next of kinn decisions"
   - "funral decisions quickly"
-last_reviewed: "2026-05-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-06"
 ---
 

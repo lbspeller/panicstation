@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked for biometric information at a border or for travel and feel unprepared"
+seo_title: "Unexpected biometric request at a border or travel"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "non-citizen biometric entry request"
   - "biometic information for entry"
   - "biometric request at boarder"
-last_reviewed: "2026-06-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-11"
 ---
 

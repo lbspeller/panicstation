@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your laptop is stolen and it contains sensitive personal documents"
+seo_title: "Stolen laptop with sensitive personal documents"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "home laptop stolen"
   - "student laptop stolen"
   - "uk laptop theft"
-last_reviewed: "2026-05-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-26"
 ---
 

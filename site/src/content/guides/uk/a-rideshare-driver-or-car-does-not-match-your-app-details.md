@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a rideshare driver or car does not match your app details"
+seo_title: "Rideshare driver or car does not match app details"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "busy pickup point confusion"
   - "rideshare wrong regestration"
   - "minicab looks suspicius"
-last_reviewed: "2026-05-08"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-08"
 ---
 

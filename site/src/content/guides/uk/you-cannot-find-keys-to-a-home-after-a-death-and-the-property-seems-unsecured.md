@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you cannot find keys to a home after a death and the property seems unsecured"
+seo_title: "Home keys missing after a death and property unsecured"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "empty property before probate"
   - "bereavment missing keys"
   - "unsecure property after death"
-last_reviewed: "2026-05-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-09"
 ---
 

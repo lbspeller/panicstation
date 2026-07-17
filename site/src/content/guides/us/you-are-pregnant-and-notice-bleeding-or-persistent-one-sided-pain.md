@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are pregnant and notice bleeding or persistent one-sided pain"
+seo_title: "Pregnant with bleeding or persistent one-sided pain"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -33,7 +34,7 @@ tags:
   - "is pregnancy spotting normal"
   - "pregancy bleeding worry"
   - "ectopic pregnacy worry"
-last_reviewed: "2026-06-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-09"
 ---
 

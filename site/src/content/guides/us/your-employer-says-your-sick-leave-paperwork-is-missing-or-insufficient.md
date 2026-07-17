@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your employer says your sick leave paperwork is missing or insufficient"
+seo_title: "Employer says sick leave paperwork is missing"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "sick leve pay stopped"
   - "papework for sick leave missing"
   - "worried about lost wages"
-last_reviewed: "2026-06-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-11"
 ---
 

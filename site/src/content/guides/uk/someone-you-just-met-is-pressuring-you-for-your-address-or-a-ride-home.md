@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone you just met is pressuring you for your address or a ride home"
+seo_title: "Someone pressuring you for your address or ride home"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "not stalking but scared"
   - "pressured for adress"
   - "ride home presure"
-last_reviewed: "2026-05-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-02"
 ---
 

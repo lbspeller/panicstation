@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you suspect someone else has access to your private photos or cloud account"
+seo_title: "Suspect someone has access to your private photos"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "cloud account compramised"
   - "icloud acccount hacked"
   - "tech enabled sexual abuse"
-last_reviewed: "2026-06-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-25"
 ---
 

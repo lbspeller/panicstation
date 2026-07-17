@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your contacts list suddenly fills with unknown entries or random names"
+seo_title: "Contacts list filled with unknown names"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -34,7 +35,7 @@ tags:
   - "phone hacked contacts changed"
   - "contacs list has strangers"
   - "unkown contacts in phone"
-last_reviewed: "2026-05-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-24"
 ---
 

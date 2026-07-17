@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your paycheck is late because of a payroll failure"
+seo_title: "Paycheck is late due to payroll failure"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "payroll failed before rent"
   - "paychek paid late"
   - "payroll faillure"
-last_reviewed: "2026-06-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-11"
 ---
 

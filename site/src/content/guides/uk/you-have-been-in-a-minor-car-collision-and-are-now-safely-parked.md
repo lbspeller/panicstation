@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have been in a minor car collision and are now safely parked"
+seo_title: "Minor car collision while safely parked"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "worried about police report"
   - "worried about insurance"
   - "after a car acident"
-last_reviewed: "2026-05-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-05"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone you are dating keeps pressuring you for sex after you have said no"
+seo_title: "Date keeps pressuring you for sex after you said no"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "presured for sex"
   - "conscent confusion"
   - "pressured while alone"
-last_reviewed: "2026-05-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-02"
 ---
 

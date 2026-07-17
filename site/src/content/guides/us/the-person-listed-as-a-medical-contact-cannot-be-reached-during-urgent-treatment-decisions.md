@@ -1,5 +1,6 @@
 ---
 title: "What to do if… the person listed as a medical contact cannot be reached during urgent treatment decisions"
+seo_title: "Medical contact unreachable for urgent treatment decisions"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "medical contact unreachable after hours"
   - "medcial contact is unreachable"
   - "surrogte decision maker is missing"
-last_reviewed: "2026-06-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-06"
 ---
 

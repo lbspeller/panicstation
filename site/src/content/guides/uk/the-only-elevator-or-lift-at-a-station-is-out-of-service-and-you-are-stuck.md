@@ -1,5 +1,6 @@
 ---
 title: "What to do if… the only elevator or lift at a station is out of service and you are stuck"
+seo_title: "Station elevator or lift out of service"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "passenger assist disruption"
   - "step free access blocked"
   - "stepfee access blocked"
-last_reviewed: "2026-05-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-02"
 ---
 

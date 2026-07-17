@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone is pressuring you to leave with them by claiming your friends need you"
+seo_title: "Someone pressuring you to leave with them"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "night out safety concern"
   - "alone in a venue"
   - "outside a pub or club"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-01"
 ---
 

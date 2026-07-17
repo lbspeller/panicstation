@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone is trying to isolate you or make you feel unsafe during a night out"
+seo_title: "Feeling unsafe or isolated during a night out"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "work night out unsafe"
   - "unsafe on nite out"
   - "freind left me alone"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-01"
 ---
 

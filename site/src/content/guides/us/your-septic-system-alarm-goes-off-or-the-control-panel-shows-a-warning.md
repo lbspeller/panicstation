@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your septic system alarm goes off or the control panel shows a warning"
+seo_title: "Septic system alarm or warning light"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "septik alarm beeping"
   - "septic controll panel warning"
   - "rural home septic alarm"
-last_reviewed: "2026-07-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-03"
 ---
 

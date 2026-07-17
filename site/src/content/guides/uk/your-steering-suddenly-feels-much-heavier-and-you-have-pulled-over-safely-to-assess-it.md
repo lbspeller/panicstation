@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your steering suddenly feels much heavier and you have pulled over safely to assess it"
+seo_title: "Steering suddenly feels heavy while driving"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "pulled over heavy steering"
   - "motorway steering problem"
   - "roadside car steering fault"
-last_reviewed: "2026-05-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-28"
 ---
 

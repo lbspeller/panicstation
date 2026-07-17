@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive an unexpected eSIM activation message or QR code"
+seo_title: "Unexpected eSIM activation message or QR code"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "sim swop message"
   - "new esim on account"
   - "mobile number transfer warning"
-last_reviewed: "2026-05-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-19"
 ---
 

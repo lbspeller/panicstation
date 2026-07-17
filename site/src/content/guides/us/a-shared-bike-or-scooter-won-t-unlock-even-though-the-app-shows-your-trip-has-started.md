@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a shared bike or scooter won’t unlock even though the app shows your trip has started"
+seo_title: "Shared bike or scooter will not unlock"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "rental scooter away from home"
   - "scooter wont unlock"
   - "bike wont unlock"
-last_reviewed: "2026-06-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-02"
 ---
 

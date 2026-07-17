@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are trapped in a car park because the exit barrier, gate, or bollard will not open"
+seo_title: "Trapped in a car park with exit blocked"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -34,7 +35,7 @@ tags:
   - "private car park barrier stuck"
   - "council car park exit blocked"
   - "after hours car park stuck"
-last_reviewed: "2026-05-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-09"
 ---
 

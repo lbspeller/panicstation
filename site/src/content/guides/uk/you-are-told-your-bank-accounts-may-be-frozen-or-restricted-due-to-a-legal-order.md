@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are told your bank accounts may be frozen or restricted due to a legal order"
+seo_title: "Bank account frozen or restricted by legal order"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "uk frozen bank account"
   - "joint account freeze"
   - "business account freeze"
-last_reviewed: "2026-05-07"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-07"
 ---
 

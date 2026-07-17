@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your travel booking lists the wrong country of citizenship and you cannot edit it online"
+seo_title: "Wrong citizenship on travel booking cannot edit online"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "airport check-in problem"
   - "citzenship wrong booking"
   - "passprot country wrong"
-last_reviewed: "2026-07-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-04"
 ---
 

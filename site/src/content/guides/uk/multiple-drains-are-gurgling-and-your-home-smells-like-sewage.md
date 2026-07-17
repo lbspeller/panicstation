@@ -1,5 +1,6 @@
 ---
 title: "What to do if… multiple drains are gurgling and your home smells like sewage"
+seo_title: "Multiple drains gurgling and sewage smell in home"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "private drain blockage"
   - "sewage oder in house"
   - "gurgeling drains"
-last_reviewed: "2026-04-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-30"
 ---
 

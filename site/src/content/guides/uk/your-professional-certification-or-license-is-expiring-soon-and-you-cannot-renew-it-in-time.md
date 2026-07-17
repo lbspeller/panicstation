@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your professional certification or license is expiring soon and you cannot renew it in time"
+seo_title: "Professional license or certification expiring soon"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "licence renwal problem"
   - "regulated role in the uk"
   - "protected title at work"
-last_reviewed: "2026-05-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-16"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a password manager shows unexpected vault changes or missing entries"
+seo_title: "Password manager shows unexpected changes or missing entries"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "password vault sync conflict"
   - "password manger vault changed"
   - "pasword manager entries missing"
-last_reviewed: "2026-06-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-01"
 ---
 

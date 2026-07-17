@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a hospital is discharging a dying relative and you have no care plan at home"
+seo_title: "Hospital discharging dying relative with no care plan"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "dying relative lives alone"
   - "stairs make home care unsafe"
   - "relative discharged far from help"
-last_reviewed: "2026-05-31"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-31"
 ---
 

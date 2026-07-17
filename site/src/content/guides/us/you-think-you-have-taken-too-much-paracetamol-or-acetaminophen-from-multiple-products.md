@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you think you have taken too much paracetamol or acetaminophen from multiple products"
+seo_title: "Taken too much paracetamol or acetaminophen"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "acetaminophen and alcohol worry"
   - "acetaminophen in prescription medicine"
   - "acetaminophen within 24 hours"
-last_reviewed: "2026-06-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-19"
 ---
 

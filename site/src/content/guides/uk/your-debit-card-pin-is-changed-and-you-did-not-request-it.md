@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your debit card PIN is changed and you did not request it"
+seo_title: "Debit card PIN changed without your request"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "uk bank fraud worry"
   - "pin chnaged without me"
   - "card pin chnaged"
-last_reviewed: "2026-05-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-24"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone in custody is being released soon and they have nowhere to stay"
+seo_title: "Someone in custody being released without housing"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "no id after prison"
   - "prision release no home"
   - "probation adress problem"
-last_reviewed: "2026-05-20"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-20"
 ---
 

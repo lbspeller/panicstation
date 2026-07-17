@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your employer pressures you to choose a new role or sign documents immediately"
+seo_title: "Employer pressuring you to sign or choose a role"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "urgent reorg at work"
   - "employer restructering announced"
   - "employer restructuing announced"
-last_reviewed: "2026-06-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-29"
 ---
 

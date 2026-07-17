@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a notice that your driver licence or driving privilege is being suspended"
+seo_title: "Notice of driver licence or driving privilege suspension"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "dva or dvla letter"
   - "legal suspension or medical revocation"
   - "uk driving licence notice"
-last_reviewed: "2026-05-20"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-20"
 ---
 

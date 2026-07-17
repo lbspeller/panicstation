@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone is knocking repeatedly at your door and will not clearly identify themselves"
+seo_title: "Someone knocking repeatedly and refusing to identify"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "utility worker or impersonator at door"
   - "unkown person knocking at door"
   - "strager knocking repeatedly at door"
-last_reviewed: "2026-06-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-05"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone threatens to leak private sexual messages or claims to have access to your accounts"
+seo_title: "Threats to leak private messages or account access"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "deepfake sexual message threat"
   - "private mesages leak threat"
   - "sextortion acount threat"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-01"
 ---
 

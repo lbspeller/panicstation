@@ -1,5 +1,6 @@
 ---
 title: "What to do if… sewage starts coming up through a floor drain but has not reached living areas yet"
+seo_title: "Sewage backing up through a floor drain"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "sewge coming up drain"
   - "sewr smell from drain"
   - "rented home sewage backup"
-last_reviewed: "2026-04-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-30"
 ---
 

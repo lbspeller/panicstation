@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have a joint that is suddenly hot, swollen, and painful"
+seo_title: "Sudden hot, swollen, and painful joint"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -33,7 +34,7 @@ tags:
   - "is this a sprain"
   - "swolen joint after injury"
   - "joint feals hot"
-last_reviewed: "2026-05-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-09"
 ---
 

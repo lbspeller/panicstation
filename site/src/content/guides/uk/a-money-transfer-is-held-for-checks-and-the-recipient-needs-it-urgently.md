@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a money transfer is held for checks and the recipient needs it urgently"
+seo_title: "Money transfer held for checks and recipient needs it urgently"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "wrong account money transfer"
   - "recipent needs money urgently"
   - "transferr held by bank"
-last_reviewed: "2026-04-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-27"
 ---
 

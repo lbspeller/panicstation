@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you hear repeated dripping inside a wall but cannot find any visible leak"
+seo_title: "Repeated dripping sound inside a wall"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "driping sound in wall"
   - "leeking behind wall"
   - "rental hidden leak"
-last_reviewed: "2026-06-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-16"
 ---
 

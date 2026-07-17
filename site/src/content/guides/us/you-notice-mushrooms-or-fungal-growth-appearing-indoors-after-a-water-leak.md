@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice mushrooms or fungal growth appearing indoors after a water leak"
+seo_title: "Mushrooms or fungal growth indoors after a leak"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "renter mold after leak"
   - "moldy celing after leak"
   - "fungus groth indoors"
-last_reviewed: "2026-06-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-18"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are told you must register your address locally and the deadline is very soon"
+seo_title: "Urgent local address registration deadline"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "while staying in a hotel"
   - "while renting a room"
   - "as a british national abroad"
-last_reviewed: "2026-05-07"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-07"
 ---
 

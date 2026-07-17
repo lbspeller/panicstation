@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your phone is stuck in a restart loop after a software update"
+seo_title: "Phone stuck in restart loop after update"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "andriod stuck restarting"
   - "after software update"
   - "with two factor codes"
-last_reviewed: "2026-05-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-27"
 ---
 

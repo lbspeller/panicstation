@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you suspect someone is repeatedly approaching your family at a park or playground"
+seo_title: "Suspicious person repeatedly approaching family at park"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "family alone at park"
   - "famly at playground"
   - "play ground stranger approach"
-last_reviewed: "2026-06-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-24"
 ---
 

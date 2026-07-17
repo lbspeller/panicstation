@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a hospital or facility says belongings will be disposed of unless collected within 24 hours after a death"
+seo_title: "Hospital or facility threatening to dispose of belongings"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "personal representative not appointed yet"
   - "hopsital belongings deadline"
   - "belongings dispossal deadline"
-last_reviewed: "2026-05-31"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-31"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a partner pressures you to share your phone passcode and becomes hostile when you refuse"
+seo_title: "Partner pressuring you for phone passcode and becoming hostile"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "after refusing passcode"
   - "partner wants pascode"
   - "partner demands phone acess"
-last_reviewed: "2026-04-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-27"
 ---
 

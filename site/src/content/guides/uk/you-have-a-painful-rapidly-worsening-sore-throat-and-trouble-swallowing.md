@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have a painful, rapidly worsening sore throat and trouble swallowing"
+seo_title: "Painful sore throat and trouble swallowing"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "sore throat at night"
   - "sore throte getting worse"
   - "swollon throat pain"
-last_reviewed: "2026-05-15"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-15"
 ---
 

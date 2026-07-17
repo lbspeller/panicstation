@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a court or official demand for documents and feel overwhelmed"
+seo_title: "Court or official demand for documents"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "court papers from another state"
   - "agency paperwork demand"
   - "third party document request"
-last_reviewed: "2026-06-21"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-21"
 ---
 

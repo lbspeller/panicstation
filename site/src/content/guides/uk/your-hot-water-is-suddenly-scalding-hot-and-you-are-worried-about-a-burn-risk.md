@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your hot water is suddenly scalding hot and you are worried about a burn risk"
+seo_title: "Hot water suddenly scalding and burn risk"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "vulnerable person scald risk"
   - "hot watter suddenly too hot"
   - "scalding hott water"
-last_reviewed: "2026-05-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-26"
 ---
 

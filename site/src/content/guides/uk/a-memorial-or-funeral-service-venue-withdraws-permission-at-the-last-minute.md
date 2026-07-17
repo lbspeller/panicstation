@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a memorial or funeral service venue withdraws permission at the last minute"
+seo_title: "Funeral or memorial venue cancels at last minute"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "ceremony moved same day"
   - "funeral servce venue"
   - "memorial venur cancelled"
-last_reviewed: "2026-05-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-03"
 ---
 

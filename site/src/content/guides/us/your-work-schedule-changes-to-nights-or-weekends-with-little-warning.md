@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your work schedule changes to nights or weekends with little warning"
+seo_title: "Sudden work schedule change to nights or weekends"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -34,7 +35,7 @@ tags:
   - "retail schedule changed"
   - "restaurant schedule changed"
   - "hourly job schedule changed"
-last_reviewed: "2026-07-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-05"
 ---
 

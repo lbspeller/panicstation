@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are banned from a place you need to access for work, school, or family"
+seo_title: "Banned from a place you need to access"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "campus exclusion confusion"
   - "work school family access"
   - "court condition access problem"
-last_reviewed: "2026-06-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-22"
 ---
 

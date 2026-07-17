@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice a painful swelling near your eye or nose that is spreading"
+seo_title: "Painful spreading swelling near eye or nose"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "swelling after insect bite"
   - "swolen eyelid pain"
   - "cellulitus near eye"
-last_reviewed: "2026-05-15"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-15"
 ---
 

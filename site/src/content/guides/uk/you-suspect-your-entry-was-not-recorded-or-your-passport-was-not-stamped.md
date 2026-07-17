@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you suspect your entry was not recorded or your passport was not stamped"
+seo_title: "Missing passport stamp or entry record"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "uk passport stamp missing"
   - "passprt stamp missing"
   - "entry stam missing"
-last_reviewed: "2026-05-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-22"
 ---
 

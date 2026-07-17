@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you develop blistering or peeling skin after starting a new medication"
+seo_title: "Blistering or peeling skin after new medication"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "seizure medicine rash blisters"
   - "medecine rash blisters"
   - "medication alergic rash"
-last_reviewed: "2026-05-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-09"
 ---
 

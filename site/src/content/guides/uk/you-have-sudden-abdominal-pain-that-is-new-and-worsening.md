@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have sudden abdominal pain that is new and worsening"
+seo_title: "Sudden and worsening abdominal pain"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "abdominal pain with diabetes"
   - "stomache pain getting worse"
   - "abdominl pain sudden"
-last_reviewed: "2026-05-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-13"
 ---
 

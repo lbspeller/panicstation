@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you discover your timesheet was changed after you submitted it"
+seo_title: "Timesheet changed after submission"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "pay period hours missing"
   - "hourly worker underpaid"
   - "nonexempt employee hours changed"
-last_reviewed: "2026-06-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-14"
 ---
 

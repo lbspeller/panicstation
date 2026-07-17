@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive notice of conditions you must follow before your first court date"
+seo_title: "Conditions of release before your first court date"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "state case release conditions"
   - "federal case release conditions"
   - "conditions with no lawyer yet"
-last_reviewed: "2026-06-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-22"
 ---
 

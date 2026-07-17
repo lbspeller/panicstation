@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you need to update your child’s emergency contacts and pick-up list after a death"
+seo_title: "Update child emergency contacts and pick-up list after death"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "pediatrician contact confusion"
   - "emergancy contacts after death"
   - "autorized pickup list"
-last_reviewed: "2026-06-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-17"
 ---
 

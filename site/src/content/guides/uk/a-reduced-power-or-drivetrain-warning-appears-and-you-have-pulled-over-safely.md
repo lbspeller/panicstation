@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a reduced power or drivetrain warning appears and you have pulled over safely"
+seo_title: "Reduced power or drivetrain warning after pulling over"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "emergency area warning light"
   - "drivetrain warnng appeared"
   - "reduced powr warning"
-last_reviewed: "2026-04-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-28"
 ---
 

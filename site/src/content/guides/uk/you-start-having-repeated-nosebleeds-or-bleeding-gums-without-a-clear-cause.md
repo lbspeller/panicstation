@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you start having repeated nosebleeds or bleeding gums without a clear cause"
+seo_title: "Repeated nosebleeds or unexplained bleeding gums"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "on blood thinners bleeding"
   - "on warfarin nosebleed"
   - "pregnant with nosebleeds"
-last_reviewed: "2026-05-21"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-21"
 ---
 

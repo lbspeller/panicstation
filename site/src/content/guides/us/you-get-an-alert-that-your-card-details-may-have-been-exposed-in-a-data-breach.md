@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you get an alert that your card details may have been exposed in a data breach"
+seo_title: "Card details alert after a data breach"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "fraud alert confusion"
   - "card detals exposed"
   - "card details exposd"
-last_reviewed: "2026-06-15"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-15"
 ---
 

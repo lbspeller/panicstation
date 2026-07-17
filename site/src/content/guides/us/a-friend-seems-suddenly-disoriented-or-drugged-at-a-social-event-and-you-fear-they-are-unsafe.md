@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a friend seems suddenly disoriented or drugged at a social event and you fear they are unsafe"
+seo_title: "Friend suddenly disoriented or drugged at an event"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "friend unsafe during night out"
   - "friend seems disorented at party"
   - "possible drink spikeing at party"
-last_reviewed: "2026-05-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-30"
 ---
 

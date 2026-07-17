@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive official paperwork with strict conditions and you do not understand what you are allowed to do"
+seo_title: "Confusing official paperwork with strict conditions"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "probation condition confusion"
   - "received paperwork today"
   - "conditions before court date"
-last_reviewed: "2026-05-20"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-20"
 ---
 

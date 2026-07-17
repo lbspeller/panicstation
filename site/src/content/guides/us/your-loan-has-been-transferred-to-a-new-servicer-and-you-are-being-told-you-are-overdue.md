@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your loan has been transferred to a new servicer and you are being told you are overdue"
+seo_title: "Loan transferred and servicer claims you are overdue"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "federal student loan transfer"
   - "mortgage payment transfer"
   - "online bill pay old servicer"
-last_reviewed: "2026-06-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-30"
 ---
 

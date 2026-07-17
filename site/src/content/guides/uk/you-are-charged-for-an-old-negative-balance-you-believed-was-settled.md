@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are charged for an old negative balance you believed was settled"
+seo_title: "Charged for an old balance you thought was settled"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "historic overdraft balance"
   - "setled balance disputed"
   - "balence charged again"
-last_reviewed: "2026-05-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-04"
 ---
 

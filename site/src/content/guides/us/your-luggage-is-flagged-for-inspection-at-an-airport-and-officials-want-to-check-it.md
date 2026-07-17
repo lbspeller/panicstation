@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your luggage is flagged for inspection at an airport and officials want to check it"
+seo_title: "Airport luggage flagged for inspection"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "official wants to inspect suitcase"
   - "lugage contains restricted item"
   - "luggage contains resticted item"
-last_reviewed: "2026-06-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-11"
 ---
 

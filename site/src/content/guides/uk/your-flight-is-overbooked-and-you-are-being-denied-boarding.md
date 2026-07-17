@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your flight is overbooked and you are being denied boarding"
+seo_title: "Flight overbooked and denied boarding"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "uk airport overbooked flight"
   - "connecting flight after overbooking"
   - "family separated by overbooking"
-last_reviewed: "2026-05-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-25"
 ---
 

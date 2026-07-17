@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you get an unexpectedly low blood pressure reading and feel weak or lightheaded"
+seo_title: "Low blood pressure reading and feeling faint"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "after exercise low bp"
   - "new medication and dizziness"
   - "pregnant and lightheaded"
-last_reviewed: "2026-06-15"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-15"
 ---
 

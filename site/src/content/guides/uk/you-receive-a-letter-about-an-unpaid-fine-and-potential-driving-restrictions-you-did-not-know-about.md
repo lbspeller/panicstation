@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a letter about an unpaid fine and potential driving restrictions you did not know about"
+seo_title: "Letter about unpaid fine and driving restrictions"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "bailiff court fine letter"
   - "driving priviliges restricted"
   - "unpaid fiine letter"
-last_reviewed: "2026-05-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-17"
 ---
 

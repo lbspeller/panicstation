@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a supplier asks you to change payment details to wire or crypto"
+seo_title: "Supplier asks to change payment to wire or crypto"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -43,7 +44,7 @@ tags:
   - "regular supplier new account"
   - "suplier bank details changed"
   - "inovice bank details changed"
-last_reviewed: "2026-04-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-28"
 ---
 

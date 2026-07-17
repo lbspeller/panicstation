@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice bricks, stone, or render falling from a building and fear more could come down"
+seo_title: "Bricks or masonry falling from a building"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "fasade falling from building"
   - "stuco falling from wall"
   - "outside apartment building"
-last_reviewed: "2026-06-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-18"
 ---
 

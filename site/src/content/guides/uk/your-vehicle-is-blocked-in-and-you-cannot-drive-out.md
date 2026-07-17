@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your vehicle is blocked in and you cannot drive out"
+seo_title: "Vehicle blocked in and cannot drive out"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "neighbour blocked my vehicle"
   - "drivway blocked"
   - "vechicle blocked in"
-last_reviewed: "2026-05-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-10"
 ---
 

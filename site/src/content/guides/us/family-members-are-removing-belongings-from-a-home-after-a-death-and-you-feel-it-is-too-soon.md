@@ -1,5 +1,6 @@
 ---
 title: "What to do if… family members are removing belongings from a home after a death and you feel it is too soon"
+seo_title: "Family removing belongings from home after a death"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "family conflict during early grief"
   - "belongings dissapearing after death"
   - "relatives taking possesions after death"
-last_reviewed: "2026-06-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-03"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive an unclear notice that you are banned or barred from a location or event"
+seo_title: "Unclear notice of a ban or trespass warning"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "barred from football match"
   - "baned from venue"
   - "barred from premisis"
-last_reviewed: "2026-05-20"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-20"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your last train or bus is cancelled and you are stranded at the station"
+seo_title: "Last train or bus cancelled and stranded at station"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "rerouting at night"
   - "last conection cancelled"
   - "rerout safely at night"
-last_reviewed: "2026-05-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-02"
 ---
 

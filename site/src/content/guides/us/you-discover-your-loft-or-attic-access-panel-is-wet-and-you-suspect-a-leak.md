@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you discover your loft or attic access panel is wet and you suspect a leak"
+seo_title: "Wet loft or attic access panel and suspected leak"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "water near ceiling electrical"
   - "atic hatch wet"
   - "roof leack suspected"
-last_reviewed: "2026-06-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-14"
 ---
 

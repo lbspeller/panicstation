@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a legal hold notice at work regarding your emails and documents"
+seo_title: "Receiving a legal hold notice at work"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "remote work legal hold"
   - "personal device legal hold"
   - "shared drive legal hold"
-last_reviewed: "2026-06-21"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-21"
 ---
 

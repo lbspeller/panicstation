@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your debit or credit card is suddenly declined everywhere and you do not know why"
+seo_title: "Debit or credit card declined everywhere"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "uk bank card declined"
   - "card declined while shopping"
   - "card declined on holiday"
-last_reviewed: "2026-05-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-24"
 ---
 

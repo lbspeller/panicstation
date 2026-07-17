@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your phone battery is low and your ticket or access pass is only on your phone"
+seo_title: "Phone battery dying with digital ticket or pass"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "underground station no signal"
   - "gate line phone dying"
   - "tickit on phone only"
-last_reviewed: "2026-07-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-01"
 ---
 

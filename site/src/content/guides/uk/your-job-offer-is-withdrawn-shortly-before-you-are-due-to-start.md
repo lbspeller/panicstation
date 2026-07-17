@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your job offer is withdrawn shortly before you are due to start"
+seo_title: "Job offer withdrawn before start date"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "breach of contract confusion"
   - "job offa withdrawn"
   - "resinded job offer"
-last_reviewed: "2026-05-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-26"
 ---
 

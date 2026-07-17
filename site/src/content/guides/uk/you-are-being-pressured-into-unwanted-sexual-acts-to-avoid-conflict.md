@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are being pressured into unwanted sexual acts to avoid conflict"
+seo_title: "Pressured into unwanted sexual acts to avoid conflict"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "sexul acts under pressure"
   - "comprimise sex pressure"
   - "sexual pressure in relationship"
-last_reviewed: "2026-05-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-05"
 ---
 

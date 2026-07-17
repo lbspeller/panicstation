@@ -1,5 +1,6 @@
 ---
 title: "What to do if… water is leaking in around a window or door during a storm"
+seo_title: "Water leaking in around a window or door during a storm"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "window leeking during storm"
   - "door threshhold leaking"
   - "storm leak near electrical outlet"
-last_reviewed: "2026-06-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-06"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your external hard drive will not mount and you need to save your files"
+seo_title: "External hard drive not mounting or saving files"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -43,7 +44,7 @@ tags:
   - "school files on drive"
   - "work files on drive"
   - "family photos on drive"
-last_reviewed: "2026-06-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-29"
 ---
 

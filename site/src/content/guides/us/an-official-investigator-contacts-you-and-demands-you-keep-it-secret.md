@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an official investigator contacts you and demands you keep it secret"
+seo_title: "Official investigator demands secrecy or silence"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "contacted while incarcerated"
   - "contacted as a witness"
   - "contacted as a suspect"
-last_reviewed: "2026-06-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-09"
 ---
 

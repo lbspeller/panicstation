@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a partner keeps waking you up for sex and you feel unsafe"
+seo_title: "Partner waking you for sex and you feel unsafe"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "worried my phone is monitored"
   - "parnter waking me for sex"
   - "sexal demands from my partner"
-last_reviewed: "2026-06-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-01"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone you blocked keeps creating new accounts to contact you"
+seo_title: "Blocked person keeps creating new accounts to contact you"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "after a breakup online"
   - "on social media accounts"
   - "private messages and dms"
-last_reviewed: "2026-05-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-02"
 ---
 

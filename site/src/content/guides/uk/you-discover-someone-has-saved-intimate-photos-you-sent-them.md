@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you discover someone has saved intimate photos you sent them"
+seo_title: "Someone saved your intimate photos"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "partner kept photos"
   - "privte photos saved"
   - "intamate photos saved"
-last_reviewed: "2026-05-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-10"
 ---
 

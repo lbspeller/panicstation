@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have new urinary pain and see blood in your urine"
+seo_title: "New urinary pain and blood in urine"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "kidney disease urine blood"
   - "blood in urin"
   - "urine pain and blod"
-last_reviewed: "2026-06-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-16"
 ---
 

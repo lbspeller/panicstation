@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone calls claiming your bank will send a courier to collect your card"
+seo_title: "Someone calls claiming a courier will collect your card"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "courier waiting at my door"
   - "bank currier collecting my card"
   - "bank courior collecting my card"
-last_reviewed: "2026-06-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-04"
 ---
 

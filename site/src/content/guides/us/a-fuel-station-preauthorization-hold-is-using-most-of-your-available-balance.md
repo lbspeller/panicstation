@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a fuel station preauthorization hold is using most of your available balance"
+seo_title: "Fuel station hold using your available balance"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "debit card used at pump"
   - "credit card used at pump"
   - "bills due during fuel hold"
-last_reviewed: "2026-05-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-30"
 ---
 

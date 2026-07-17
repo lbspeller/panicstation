@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you shared your bank login or a one-time code and think your account is at risk"
+seo_title: "Shared bank login or security code by mistake"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "bank impersonation call"
   - "bank verfication code"
   - "bank acount takeover"
-last_reviewed: "2026-06-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-19"
 ---
 

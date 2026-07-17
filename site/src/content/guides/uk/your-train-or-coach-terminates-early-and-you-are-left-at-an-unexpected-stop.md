@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your train or coach terminates early and you are left at an unexpected stop"
+seo_title: "Train or coach terminates early at unexpected stop"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "ticket acceptance confusion"
   - "route diversion confusion"
   - "late night travel disruption"
-last_reviewed: "2026-05-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-06"
 ---
 

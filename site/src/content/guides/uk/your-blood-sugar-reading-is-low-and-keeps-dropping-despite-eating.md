@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your blood sugar reading is low and keeps dropping despite eating"
+seo_title: "Low blood sugar reading keeps dropping after eating"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "low blod sugar"
   - "hypoglaecemia"
   - "confirmed low blood sugar"
-last_reviewed: "2026-05-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-23"
 ---
 

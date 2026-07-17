@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you learn a loved one has died abroad and you do not know who to contact first"
+seo_title: "Loved one died abroad and you need official contact"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -42,7 +43,7 @@ tags:
   - "package holiday death abroad"
   - "business trip death abroad"
   - "british traveller died abroad"
-last_reviewed: "2026-05-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-13"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… HR is ignoring your reports of repeated unwanted behaviour at work and the situation is escalating"
+seo_title: "HR ignoring escalating unwanted behaviour at work"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "not sure if bullying"
   - "harrasment at work"
   - "unwanted behavour at work"
-last_reviewed: "2026-04-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-29"
 ---
 

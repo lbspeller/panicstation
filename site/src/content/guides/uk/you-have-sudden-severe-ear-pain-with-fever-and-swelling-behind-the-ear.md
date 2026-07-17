@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have sudden severe ear pain with fever and swelling behind the ear"
+seo_title: "Severe ear pain with fever and swelling behind ear"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -33,7 +34,7 @@ tags:
   - "ear ache fever"
   - "earake with swelling"
   - "fever sweling behind ear"
-last_reviewed: "2026-05-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-13"
 ---
 

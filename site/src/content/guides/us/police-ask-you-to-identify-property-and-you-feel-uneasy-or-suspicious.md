@@ -1,5 +1,6 @@
 ---
 title: "What to do if… police ask you to identify property and you feel uneasy or suspicious"
+seo_title: "Police request to identify property feels suspicious"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "police property request from unknown caller"
   - "police property identifcation request"
   - "police proprety identification request"
-last_reviewed: "2026-06-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-04"
 ---
 

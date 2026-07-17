@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your bus or train is cancelled and you are stranded without a clear way forward"
+seo_title: "Bus or train cancelled and you are stranded"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -42,7 +43,7 @@ tags:
   - "intercity bus cancelled"
   - "away from home"
   - "without lodging"
-last_reviewed: "2026-06-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-26"
 ---
 

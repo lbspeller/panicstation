@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you feel faint and your heart races when you stand up"
+seo_title: "Faint and racing heart when standing up"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "dizzy when standng"
   - "fainty when standing"
   - "new symptoms after medication change"
-last_reviewed: "2026-06-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-14"
 ---
 

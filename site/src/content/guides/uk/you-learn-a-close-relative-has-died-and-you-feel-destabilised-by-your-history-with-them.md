@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you learn a close relative has died and you feel destabilised by your history with them"
+seo_title: "Relative died and you feel destabilised by history"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "death news by text"
   - "panicing after relative death"
   - "greif after family death"
-last_reviewed: "2026-05-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-13"
 ---
 

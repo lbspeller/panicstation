@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your glucose monitor or insulin device alarms and you are not sure what it means"
+seo_title: "Glucose monitor or insulin device alarm"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "phone app diabetes alert"
   - "glucose moniter alarm"
   - "insulin pump alrm"
-last_reviewed: "2026-06-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-29"
 ---
 

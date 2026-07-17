@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your pay statement shows an unexpected deduction you do not recognise"
+seo_title: "Unexpected deduction on your pay statement"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "payroll overpayment deduction"
   - "paystub deducion mistake"
   - "paychek deduction error"
-last_reviewed: "2026-07-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-01"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you missed a court response deadline and fear a default judgment"
+seo_title: "Missed court response deadline and default judgment"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "northern ireland court claim"
   - "old address service"
   - "late post court papers"
-last_reviewed: "2026-05-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-13"
 ---
 

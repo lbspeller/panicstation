@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you cannot find your account recovery or backup codes when you need to sign in"
+seo_title: "Cannot find account recovery or backup codes"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "two step codes missing"
   - "bakup codes missing"
   - "recoverey codes lost"
-last_reviewed: "2026-05-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-17"
 ---
 

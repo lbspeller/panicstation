@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a biller says your payment was reversed and late fees will start immediately"
+seo_title: "Biller says payment reversed and late fees starting"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "direct debit payment"
   - "paymnt reversed"
   - "late feee threat"
-last_reviewed: "2026-04-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-25"
 ---
 

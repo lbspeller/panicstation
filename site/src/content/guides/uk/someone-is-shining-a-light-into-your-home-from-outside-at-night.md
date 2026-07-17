@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone is shining a light into your home from outside at night"
+seo_title: "Someone is shining a light into your home at night"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "home alone at night"
   - "flat window at night"
   - "garden light at night"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-01"
 ---
 

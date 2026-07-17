@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone is standing too close to you at an ATM or payment terminal"
+seo_title: "Someone standing too close at ATM or payment terminal"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "someone behind me while paying"
   - "someone close behind me at atm mashine"
   - "someone crowding atm keybord"
-last_reviewed: "2026-06-08"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-08"
 ---
 

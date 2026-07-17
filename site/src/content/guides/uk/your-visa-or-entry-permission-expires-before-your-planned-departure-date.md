@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your visa or entry permission expires before your planned departure date"
+seo_title: "Visa or entry permission expires before planned departure"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "uk visa expiry panic"
   - "visa expries before flight"
   - "visa expiary confusion"
-last_reviewed: "2026-05-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-17"
 ---
 

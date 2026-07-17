@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a colleague sends you aggressive or intimidating messages outside of working hours"
+seo_title: "Colleague sending aggressive messages after hours"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "manager or colleague problem"
   - "remote work message conflict"
   - "personal number after work"
-last_reviewed: "2026-04-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-25"
 ---
 

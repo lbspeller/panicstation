@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your credit card statement shows a cash advance you did not make"
+seo_title: "Unauthorised cash advance on credit card statement"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "cash advnce on statement"
   - "while traveling cash advance"
   - "after lost credit card"
-last_reviewed: "2026-06-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-28"
 ---
 

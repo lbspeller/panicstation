@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a creditor demands an urgent payment to keep your plan active"
+seo_title: "Creditor demands urgent payment for plan"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "a creditor sends a pay-today text"
   - "my creditor wants a partial payment"
   - "my creditor will not explain the deadline"
-last_reviewed: "2026-05-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-30"
 ---
 

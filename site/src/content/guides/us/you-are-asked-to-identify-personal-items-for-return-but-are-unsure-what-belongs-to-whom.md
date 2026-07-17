@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to identify personal items for return but are unsure what belongs to whom"
+seo_title: "Unsure about identifying personal items for return"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "items returned during bereavement"
   - "personal belonings mixed up"
   - "jewelery does not look familiar"
-last_reviewed: "2026-06-07"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-07"
 ---
 

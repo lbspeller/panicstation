@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive an invoice or bill for a purchase or service you did not order"
+seo_title: "Unexpected invoice or bill for unordered items"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "invoice for previous occupant"
   - "invioce i never ordered"
   - "unautorised direct debit"
-last_reviewed: "2026-05-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-19"
 ---
 

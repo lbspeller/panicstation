@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your messaging app says your account is being registered on another device"
+seo_title: "Messaging app says account registered on another device"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "verification pin confusion"
   - "mesaging app account alert"
   - "verfication code scam"
-last_reviewed: "2026-06-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-30"
 ---
 

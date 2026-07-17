@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have a fever and your heart rate feels unusually fast at rest"
+seo_title: "Fever and unusually fast heart rate at rest"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -42,7 +43,7 @@ tags:
   - "post surgery fever pulse"
   - "feaver fast heart rate"
   - "heartrate fever"
-last_reviewed: "2026-05-12"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-12"
 ---
 

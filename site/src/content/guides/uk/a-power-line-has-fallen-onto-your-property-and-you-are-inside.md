@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a power line has fallen onto your property and you are inside"
+seo_title: "Power line fallen on your property"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "not sure if telecoms wire"
   - "not sure if cable is live"
   - "fallen electic cable outside"
-last_reviewed: "2026-04-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-27"
 ---
 

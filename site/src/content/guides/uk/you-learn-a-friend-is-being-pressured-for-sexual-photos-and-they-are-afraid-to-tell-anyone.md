@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you learn a friend is being pressured for sexual photos and they are afraid to tell anyone"
+seo_title: "Friend being pressured for sexual photos"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -43,7 +44,7 @@ tags:
   - "school or college friend"
   - "freind pressured for photos"
   - "scared to tell enyone"
-last_reviewed: "2026-05-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-13"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a shared bike or scooter won’t unlock even though the app shows your trip has started"
+seo_title: "Shared bike or scooter will not unlock"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "london hire bike locked"
   - "uk trial scooter locked"
   - "low phone battery"
-last_reviewed: "2026-04-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-28"
 ---
 

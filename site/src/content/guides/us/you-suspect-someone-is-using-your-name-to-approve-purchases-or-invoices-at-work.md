@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you suspect someone is using your name to approve purchases or invoices at work"
+seo_title: "Work invoice or purchase approval in your name"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "remote work approval system"
   - "shared login workplace concern"
   - "finance team payment issue"
-last_reviewed: "2026-06-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-24"
 ---
 

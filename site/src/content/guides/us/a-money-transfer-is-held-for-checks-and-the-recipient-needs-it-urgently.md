@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a money transfer is held for checks and the recipient needs it urgently"
+seo_title: "Money transfer held for checks and recipient needs it urgently"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "urgent recipient transfer delayed"
   - "money tranfer held for checks"
   - "recipent needs money urgently"
-last_reviewed: "2026-06-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-01"
 ---
 

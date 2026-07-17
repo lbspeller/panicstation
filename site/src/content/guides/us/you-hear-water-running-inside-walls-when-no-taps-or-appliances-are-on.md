@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you hear water running inside walls when no taps or appliances are on"
+seo_title: "Hearing water running inside walls with no taps on"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "nighttime water running sound"
   - "basement wall water sound"
   - "water noise after shutoff"
-last_reviewed: "2026-06-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-16"
 ---
 

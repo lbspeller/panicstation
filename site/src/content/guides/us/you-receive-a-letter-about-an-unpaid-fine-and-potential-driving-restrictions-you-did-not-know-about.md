@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a letter about an unpaid fine and potential driving restrictions you did not know about"
+seo_title: "Letter about unpaid fine and driving restrictions"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "after moving address"
   - "out of state ticket"
   - "driving record hold"
-last_reviewed: "2026-06-20"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-20"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your account security questions or recovery details were changed without your permission"
+seo_title: "Account security questions or recovery details changed"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -43,7 +44,7 @@ tags:
   - "social media account takeover"
   - "phone number takeover"
   - "shared password reused"
-last_reviewed: "2026-06-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-25"
 ---
 

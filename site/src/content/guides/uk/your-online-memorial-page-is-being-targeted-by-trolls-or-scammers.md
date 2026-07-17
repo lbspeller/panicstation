@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your online memorial page is being targeted by trolls or scammers"
+seo_title: "Online memorial page targeted by trolls or scammers"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -34,7 +35,7 @@ tags:
   - "memmorial page comments"
   - "tribute pag unwanted posts"
   - "facebook memorial page problem"
-last_reviewed: "2026-05-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-04"
 ---
 

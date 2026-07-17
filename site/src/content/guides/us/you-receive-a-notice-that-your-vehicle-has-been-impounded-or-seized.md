@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a notice that your vehicle has been impounded or seized"
+seo_title: "Vehicle impound or seizure notice received"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "financed vehicle seized"
   - "impund notice"
   - "siezure notice"
-last_reviewed: "2026-06-20"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-20"
 ---
 

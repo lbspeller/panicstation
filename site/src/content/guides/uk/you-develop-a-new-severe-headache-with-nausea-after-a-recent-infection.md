@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you develop a new severe headache with nausea after a recent infection"
+seo_title: "Severe headache with nausea after recent infection"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "sinus headache or meningitis"
   - "severe hedache after infection"
   - "headach with nausea"
-last_reviewed: "2026-05-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-09"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you develop sudden back pain with new leg numbness or weakness"
+seo_title: "Sudden back pain with new leg numbness or weakness"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "trapped nerve worry"
   - "numbeness in leg"
   - "leg weekness"
-last_reviewed: "2026-05-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-09"
 ---
 

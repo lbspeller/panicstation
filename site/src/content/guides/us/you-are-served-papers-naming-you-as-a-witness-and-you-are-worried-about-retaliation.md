@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are served papers naming you as a witness and you are worried about retaliation"
+seo_title: "Served as a witness and worried about retaliation"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "my witness papers are for civil case"
   - "i am worried before the court date"
   - "i was contacted by someone in case"
-last_reviewed: "2026-06-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-09"
 ---
 

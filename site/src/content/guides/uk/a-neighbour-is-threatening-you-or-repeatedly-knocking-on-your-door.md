@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a neighbour is threatening you or repeatedly knocking on your door"
+seo_title: "Neighbour threatening you or knocking on your door"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "arguement with neighbour"
   - "neigbour threatening me"
   - "rented home neighbour threats"
-last_reviewed: "2026-04-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-25"
 ---
 

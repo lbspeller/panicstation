@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your arm becomes swollen or heavy after an IV, line, or injection"
+seo_title: "Swollen or heavy arm after IV or injection"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "canula arm swelling"
   - "recent hospital iv arm swelling"
   - "after scan contrast injection"
-last_reviewed: "2026-04-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-30"
 ---
 

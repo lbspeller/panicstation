@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your manual car is stuck in gear and you cannot move off"
+seo_title: "Manual car stuck in gear and cannot move"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "neutral position feels blocked"
   - "gear stick jamed"
   - "manuel gearbox stuck"
-last_reviewed: "2026-04-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-27"
 ---
 

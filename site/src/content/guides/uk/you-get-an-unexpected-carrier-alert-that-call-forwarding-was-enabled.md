@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you get an unexpected carrier alert that call forwarding was enabled"
+seo_title: "Unexpected carrier alert that call forwarding is enabled"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "mobile provider alert"
   - "bank call after phone alert"
   - "uk mobile account warning"
-last_reviewed: "2026-05-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-11"
 ---
 

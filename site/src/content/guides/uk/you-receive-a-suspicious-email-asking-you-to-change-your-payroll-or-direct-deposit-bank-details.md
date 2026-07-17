@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a suspicious email asking you to change your payroll or direct deposit bank details"
+seo_title: "Suspicious email asking to change payroll bank details"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "employee self service scam"
   - "payrol phishing email"
   - "payroll bank detials"
-last_reviewed: "2026-05-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-19"
 ---
 

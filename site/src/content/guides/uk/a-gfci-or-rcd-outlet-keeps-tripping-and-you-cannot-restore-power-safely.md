@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a GFCI or RCD outlet keeps tripping and you cannot restore power safely"
+seo_title: "GFCI or RCD outlet keeps tripping and will not reset"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "bathroom socket keeps tripping"
   - "kitchen socket keeps tripping"
   - "outdoor socket keeps tripping"
-last_reviewed: "2026-04-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-26"
 ---
 

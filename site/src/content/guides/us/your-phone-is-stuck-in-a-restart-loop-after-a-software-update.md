@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your phone is stuck in a restart loop after a software update"
+seo_title: "Phone stuck in restart loop after update"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "after android update"
   - "need photos on phone"
   - "need verification codes"
-last_reviewed: "2026-07-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-03"
 ---
 

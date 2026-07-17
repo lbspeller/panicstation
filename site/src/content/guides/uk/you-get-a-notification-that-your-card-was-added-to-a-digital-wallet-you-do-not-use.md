@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you get a notification that your card was added to a digital wallet you do not use"
+seo_title: "Card added to digital wallet notification"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "apple wallet card alert"
   - "google wallet card alert"
   - "new phone payment alert"
-last_reviewed: "2026-05-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-11"
 ---
 

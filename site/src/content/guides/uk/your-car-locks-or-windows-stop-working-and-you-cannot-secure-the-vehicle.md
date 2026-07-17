@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your car locks or windows stop working and you cannot secure the vehicle"
+seo_title: "Car locks or windows will not secure"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "keyless car lock problem"
   - "parked car unsecured at night"
   - "car lock wont work"
-last_reviewed: "2026-05-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-24"
 ---
 

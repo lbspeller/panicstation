@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an electrical outlet sparks or flashes when you plug something in"
+seo_title: "Electrical outlet sparks or flashes when plugging in"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "power strip sparks at outlet"
   - "outlet sparkes when plugging in"
   - "recptacle sparks when plugging in"
-last_reviewed: "2026-06-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-03"
 ---
 

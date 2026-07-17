@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you think an intimate video call was recorded without your consent"
+seo_title: "Intimate video call recorded without consent"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "uk intimate recording fear"
   - "webcame call recorded"
   - "intimite video recorded"
-last_reviewed: "2026-05-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-16"
 ---
 

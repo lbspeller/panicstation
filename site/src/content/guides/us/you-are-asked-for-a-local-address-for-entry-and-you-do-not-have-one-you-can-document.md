@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked for a local address for entry and you do not have one you can document"
+seo_title: "Asked for local address without proof of stay"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "hotel name but no street address"
   - "no accomodation address"
   - "local adress missing"
-last_reviewed: "2026-06-07"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-07"
 ---
 

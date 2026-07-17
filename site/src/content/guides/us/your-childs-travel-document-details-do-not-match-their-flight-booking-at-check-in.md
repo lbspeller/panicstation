@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your child’s travel document details do not match their flight booking at check-in"
+seo_title: "Child travel document mismatch at flight check-in"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "airport check-in panic"
   - "international flight child passport"
   - "codeshare child booking problem"
-last_reviewed: "2026-06-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-27"
 ---
 

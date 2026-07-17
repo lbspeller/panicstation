@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a flood of unexpected password reset or security code messages"
+seo_title: "Flood of unexpected password reset or security messages"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "email hack scare"
   - "bank reset email flood"
   - "phone reset code flood"
-last_reviewed: "2026-06-15"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-15"
 ---
 

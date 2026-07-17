@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you think there is an active warrant in your name"
+seo_title: "Suspected active arrest warrant"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "england court warrant worry"
   - "scotland court warrant worry"
   - "northern ireland court warrant worry"
-last_reviewed: "2026-05-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-14"
 ---
 

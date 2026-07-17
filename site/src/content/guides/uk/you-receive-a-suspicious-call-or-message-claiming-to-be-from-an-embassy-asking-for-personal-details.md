@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a suspicious call or message claiming to be from an embassy asking for personal details"
+seo_title: "Suspicious call or message claiming to be from an embassy"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "uk passport scam abroad"
   - "british embassy scam call"
   - "personal details by text"
-last_reviewed: "2026-05-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-17"
 ---
 

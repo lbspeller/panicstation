@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your employer tells you to relocate or change your work location"
+seo_title: "Employer tells you to relocate or change work location"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "disability travel barrier"
   - "work locaton changed"
   - "relocateing for work"
-last_reviewed: "2026-05-07"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-07"
 ---
 

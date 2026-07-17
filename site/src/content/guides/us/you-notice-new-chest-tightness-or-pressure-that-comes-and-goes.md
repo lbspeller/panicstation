@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice new chest tightness or pressure that comes and goes"
+seo_title: "New chest tightness or pressure that comes and goes"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "chest tighness comes and goes"
   - "chest presure returning"
   - "older adult chest pressure"
-last_reviewed: "2026-06-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-18"
 ---
 

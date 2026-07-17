@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are planning a funeral or memorial service for families who are in conflict"
+seo_title: "Managing funeral planning with conflicting families"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "two households are not communicating"
   - "funral planning becomes a conflict"
   - "memorial servce planning has stalled"
-last_reviewed: "2026-06-08"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-08"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a retaining wall develops a fresh horizontal crack and starts seeping water"
+seo_title: "Retaining wall horizontal crack and water seepage"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "suspected drainage failure"
   - "retaning wall crack"
   - "retainig wall leaking"
-last_reviewed: "2026-04-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-28"
 ---
 

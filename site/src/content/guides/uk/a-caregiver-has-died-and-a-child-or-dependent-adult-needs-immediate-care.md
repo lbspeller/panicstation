@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a caregiver has died and a child or dependent adult needs immediate care"
+seo_title: "Caregiver died and dependent needs immediate care"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "dependants arrangments after death"
   - "dependants imediately need care"
   - "out of hours care crisis"
-last_reviewed: "2026-05-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-14"
 ---
 

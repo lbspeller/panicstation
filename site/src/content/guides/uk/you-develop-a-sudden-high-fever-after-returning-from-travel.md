@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you develop a sudden high fever after returning from travel"
+seo_title: "Sudden high fever after returning from travel"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "fever after asia travel"
   - "fever after south america travel"
   - "fever after visiting family abroad"
-last_reviewed: "2026-05-20"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-20"
 ---
 

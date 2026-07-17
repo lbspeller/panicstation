@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive an urgent notice demanding identity documents within 48 hours"
+seo_title: "Urgent notice demanding identity documents within 48 hours"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "court identity document request"
   - "compliance reveiw notice"
   - "identiy documents request"
-last_reviewed: "2026-06-20"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-20"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you discover a large hole or soft spot in an interior wall that seems to be expanding"
+seo_title: "Expanding hole or soft spot in interior wall"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -42,7 +43,7 @@ tags:
   - "old house wall damage"
   - "plasterbord feels soft"
   - "spongy wall patch"
-last_reviewed: "2026-05-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-10"
 ---
 

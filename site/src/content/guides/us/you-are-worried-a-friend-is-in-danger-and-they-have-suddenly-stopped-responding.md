@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are worried a friend is in danger and they have suddenly stopped responding"
+seo_title: "Worried about a friend who stopped responding"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "worried friend needs checking"
   - "freind stopped responding"
   - "coersive situation concern"
-last_reviewed: "2026-06-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-25"
 ---
 

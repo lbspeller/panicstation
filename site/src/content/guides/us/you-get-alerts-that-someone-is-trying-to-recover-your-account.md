@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you get alerts that someone is trying to recover your account"
+seo_title: "Alerts that someone is trying to recover your account"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "suport channel alert"
   - "verifcation code request"
   - "bank account support alert"
-last_reviewed: "2026-06-15"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-15"
 ---
 

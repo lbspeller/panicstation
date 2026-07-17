@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you cannot receive verification codes abroad and are locked out of your travel accounts"
+seo_title: "Locked out of travel accounts while abroad"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "verificaton code abroad"
   - "travell account locked out"
   - "new phone abroad"
-last_reviewed: "2026-05-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-09"
 ---
 

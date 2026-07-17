@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are told there are no available funeral service slots and must decide whether to delay"
+seo_title: "No available funeral service slots or dates"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "cremation date vs service date"
   - "funeral schedueling delay"
   - "crematory unavailble"
-last_reviewed: "2026-06-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-10"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a friend tells you they were sexually assaulted and you do not know what to do first"
+seo_title: "Supporting a friend after sexual assault disclosure"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "past sexual assault disclosure"
   - "sexual assualt disclosure"
   - "friend told me in confidence"
-last_reviewed: "2026-04-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-26"
 ---
 

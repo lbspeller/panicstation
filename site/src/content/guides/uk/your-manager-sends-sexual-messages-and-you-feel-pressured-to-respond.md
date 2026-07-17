@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your manager sends sexual messages and you feel pressured to respond"
+seo_title: "Manager sending unwanted sexual messages"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "workplace banter gone sexual"
   - "sexual harrassment at work"
   - "inapropriate messages from boss"
-last_reviewed: "2026-04-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-27"
 ---
 

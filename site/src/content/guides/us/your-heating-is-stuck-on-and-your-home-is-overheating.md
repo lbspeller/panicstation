@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your heating is stuck on and your home is overheating"
+seo_title: "Heating stuck on and home overheating"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "gas furnace stuck on"
   - "elderly person overheating"
   - "child overheating indoors"
-last_reviewed: "2026-06-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-30"
 ---
 

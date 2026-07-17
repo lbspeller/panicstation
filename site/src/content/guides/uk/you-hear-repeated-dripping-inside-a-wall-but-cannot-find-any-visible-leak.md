@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you hear repeated dripping inside a wall but cannot find any visible leak"
+seo_title: "Repeated dripping sound inside a wall"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -42,7 +43,7 @@ tags:
   - "shared building leak"
   - "flat above leak"
   - "night time dripping"
-last_reviewed: "2026-05-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-13"
 ---
 

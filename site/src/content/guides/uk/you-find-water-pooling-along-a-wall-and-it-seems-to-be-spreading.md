@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you find water pooling along a wall and it seems to be spreading"
+seo_title: "Water pooling and spreading along a wall"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -43,7 +44,7 @@ tags:
   - "night time water leak"
   - "small flood indoors"
   - "water leeking by wall"
-last_reviewed: "2026-05-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-11"
 ---
 

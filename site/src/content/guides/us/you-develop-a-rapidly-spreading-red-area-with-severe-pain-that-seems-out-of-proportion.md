@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you develop a rapidly spreading red area with severe pain that seems out of proportion"
+seo_title: "Rapidly spreading red area with severe pain"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "redness spreding quickly"
   - "severe skin pian"
   - "rapidly spreading painful redness"
-last_reviewed: "2026-06-12"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-12"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a person who died left minor children and you need to arrange urgent care"
+seo_title: "Arranging urgent care for children after a death"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "guardianshp after parent death"
   - "urgent decisions for minor children"
   - "person died leaving minor children"
-last_reviewed: "2026-06-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-10"
 ---
 

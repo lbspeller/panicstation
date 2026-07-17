@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone threatens to share your intimate images with family, friends, or your employer"
+seo_title: "Threatened with sharing intimate images"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "social media intimate images threat"
   - "workplace intimate images threat"
   - "fake nude image threat"
-last_reviewed: "2026-06-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-04"
 ---
 

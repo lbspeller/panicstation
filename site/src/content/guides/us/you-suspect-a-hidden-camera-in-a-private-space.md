@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you suspect a hidden camera in a private space"
+seo_title: "Suspecting a hidden camera in a private space"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "locker room camera fear"
   - "camra in bathroom"
   - "hiden camera fear"
-last_reviewed: "2026-06-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-24"
 ---
 

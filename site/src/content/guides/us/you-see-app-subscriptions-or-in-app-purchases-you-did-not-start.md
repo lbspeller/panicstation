@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you see app subscriptions or in-app purchases you did not start"
+seo_title: "Unrecognised app subscriptions or purchases"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "subsciptions i did not start"
   - "app purchaces i did not make"
   - "in-app subscription confusion"
-last_reviewed: "2026-06-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-23"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you get repeated password reset emails for work accounts you did not request"
+seo_title: "Repeated unrequested work account password reset emails"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "passwrod reset emails"
   - "work acount reset email"
   - "remote work account reset"
-last_reviewed: "2026-06-15"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-15"
 ---
 

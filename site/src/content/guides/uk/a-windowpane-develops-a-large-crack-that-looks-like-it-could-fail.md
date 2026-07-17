@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a windowpane develops a large crack that looks like it could fail"
+seo_title: "Large crack in windowpane that might fail"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "craked window glass"
   - "rented home cracked window"
   - "upstairs window cracked"
-last_reviewed: "2026-04-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-29"
 ---
 

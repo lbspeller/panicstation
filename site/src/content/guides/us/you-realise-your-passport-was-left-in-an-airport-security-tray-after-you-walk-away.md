@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you realise your passport was left in an airport security tray after you walk away"
+seo_title: "Passport left in airport security tray"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "traveling abroad passport missing"
   - "forgot pasport at airport"
   - "passport left in secruity tray"
-last_reviewed: "2026-06-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-19"
 ---
 

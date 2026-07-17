@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you suspect your drink or food has been tampered with or spiked"
+seo_title: "Suspected drink or food tampering or spiking"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "drink poisoning worry"
   - "spiked drnk worry"
   - "spiking worrie at bar"
-last_reviewed: "2026-05-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-16"
 ---
 

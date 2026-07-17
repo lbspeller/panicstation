@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your computer firewall settings changed and you did not change them"
+seo_title: "Computer firewall settings changed unexpectedly"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "firewal settings changed"
   - "wierd firewall rule"
   - "home computer firewall changed"
-last_reviewed: "2026-06-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-28"
 ---
 

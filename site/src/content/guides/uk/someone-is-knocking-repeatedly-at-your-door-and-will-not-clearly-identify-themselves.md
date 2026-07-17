@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone is knocking repeatedly at your door and will not clearly identify themselves"
+seo_title: "Someone knocking repeatedly and refusing to identify"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "landlord contractor at door"
   - "stranger nocking at door"
   - "bogus caler at door"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-01"
 ---
 

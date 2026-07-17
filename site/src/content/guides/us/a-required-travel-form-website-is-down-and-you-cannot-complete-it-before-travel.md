@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a required travel form website is down and you cannot complete it before travel"
+seo_title: "Required travel form website is down"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "required form down at airport"
   - "travel autorization website down"
   - "travel form webiste down"
-last_reviewed: "2026-06-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-01"
 ---
 

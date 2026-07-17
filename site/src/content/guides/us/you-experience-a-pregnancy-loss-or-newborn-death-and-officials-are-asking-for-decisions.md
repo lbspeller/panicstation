@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you experience a pregnancy loss or newborn death and officials are asking for decisions"
+seo_title: "Pregnancy loss or newborn death official decisions"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "usa hospital pregnancy loss"
   - "miscarrage next steps"
   - "still birth paperwork"
-last_reviewed: "2026-06-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-14"
 ---
 

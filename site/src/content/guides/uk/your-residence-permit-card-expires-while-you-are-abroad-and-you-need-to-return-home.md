@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your residence permit card expires while you are abroad and you need to return home"
+seo_title: "Residence permit card expires while abroad"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "student visa brp abroad"
   - "work visa brp abroad"
   - "outside uk return documents"
-last_reviewed: "2026-05-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-03"
 ---
 

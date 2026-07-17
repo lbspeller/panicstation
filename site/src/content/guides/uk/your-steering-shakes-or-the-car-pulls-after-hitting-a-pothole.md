@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your steering shakes or the car pulls after hitting a pothole"
+seo_title: "Steering shakes or car pulls after hitting pothole"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "after motorway pothole"
   - "after hitting road hole"
   - "pulled over safely after pothole"
-last_reviewed: "2026-05-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-13"
 ---
 

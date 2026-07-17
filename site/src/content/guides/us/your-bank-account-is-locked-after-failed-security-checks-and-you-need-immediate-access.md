@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your bank account is locked after failed security checks and you need immediate access"
+seo_title: "Bank account locked after failed security checks"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "bill due account locked"
   - "bank acount locked"
   - "secuirty check failed"
-last_reviewed: "2026-06-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-25"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to be a witness in an internal workplace investigation"
+seo_title: "Asked to be a witness in a workplace investigation"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "discrimination investigation witness"
   - "workplace investigtion witness"
   - "retaliaton worry after interview"
-last_reviewed: "2026-06-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-10"
 ---
 

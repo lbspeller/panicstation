@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a process server tries to hand you legal papers at your home or workplace"
+seo_title: "Process server at home or work"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "delivery or legal service"
   - "proces server at door"
   - "court paprs at work"
-last_reviewed: "2026-04-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-27"
 ---
 

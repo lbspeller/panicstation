@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your bicycle chain snaps or jams and you cannot pedal"
+seo_title: "Bicycle chain snapped or jammed while riding"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "road cycling breakdown"
   - "cycle route stranded"
   - "night cycling breakdown"
-last_reviewed: "2026-05-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-23"
 ---
 

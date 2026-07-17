@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your bank says a transaction is pending or on hold and you need the money now"
+seo_title: "Bank transaction pending or on hold and need money now"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "bank cut-off missed"
   - "paymant still pending"
   - "transction not cleared"
-last_reviewed: "2026-05-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-23"
 ---
 

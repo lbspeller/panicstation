@@ -1,5 +1,6 @@
 ---
 title: "What to do if… water is leaking from your shower or bathtub and spreading quickly"
+seo_title: "Water leaking from shower or bathtub spreading quickly"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "bathroom leak near outlets"
   - "shower seel leak"
   - "bathtup edge leak"
-last_reviewed: "2026-06-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-06"
 ---
 

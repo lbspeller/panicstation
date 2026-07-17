@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked for proof of onward travel and cannot access your booking confirmation"
+seo_title: "Cannot access proof of onward travel at check-in"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "international check-in document problem"
   - "transit onward travel proof"
   - "uk traveller refused boarding"
-last_reviewed: "2026-05-07"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-07"
 ---
 

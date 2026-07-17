@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a cash deposit is credited for less than the amount you handed over"
+seo_title: "Cash deposit credited for less than amount handed over"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "uk bank cash deposit"
   - "business cash deposit short"
   - "personal account cash deposit"
-last_reviewed: "2026-04-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-25"
 ---
 

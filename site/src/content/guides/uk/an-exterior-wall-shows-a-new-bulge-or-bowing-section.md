@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an exterior wall shows a new bulge or bowing section"
+seo_title: "Exterior wall bulge or bowing section"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "rented home wall bulge"
   - "flat block wall bulge"
   - "wall over pavement bulging"
-last_reviewed: "2026-04-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-29"
 ---
 

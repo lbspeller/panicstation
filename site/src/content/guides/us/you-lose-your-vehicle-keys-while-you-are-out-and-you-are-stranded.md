@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you lose your vehicle keys while you are out and you are stranded"
+seo_title: "Lost vehicle keys while stranded"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "key fob battery dead"
   - "vehicle key not detected"
   - "stuck away from home"
-last_reviewed: "2026-06-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-17"
 ---
 

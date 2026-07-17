@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your vehicle starts but the accelerator pedal is unresponsive while you are in a safe place"
+seo_title: "Vehicle starts but accelerator pedal is unresponsive"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "throttle control fault"
   - "accelarator not working"
   - "car wont accellerate"
-last_reviewed: "2026-07-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-04"
 ---
 

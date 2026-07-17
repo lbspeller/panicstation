@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your only card or bank account is blocked and you cannot pay for essentials"
+seo_title: "Only card or bank account blocked and cannot pay"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "card frozen not stolen"
   - "bank blocked not bankrupt"
   - "essentials due today"
-last_reviewed: "2026-05-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-09"
 ---
 

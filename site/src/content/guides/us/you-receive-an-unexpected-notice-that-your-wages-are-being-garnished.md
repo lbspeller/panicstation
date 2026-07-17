@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive an unexpected notice that your wages are being garnished"
+seo_title: "Unexpected notice of wage garnishment"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "child support withholding notice"
   - "tax levy wage garnishment"
   - "student loan wage garnishment"
-last_reviewed: "2026-06-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-23"
 ---
 

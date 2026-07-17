@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your bank says it will take money from your account to cover a debt"
+seo_title: "Bank says it will take money for debt"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "overdraft debt at same bank"
   - "bank taking benifits"
   - "acount frozen by bank"
-last_reviewed: "2026-06-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-25"
 ---
 

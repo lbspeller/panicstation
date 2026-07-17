@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your whole home loses power and you are unsure if it is a local outage"
+seo_title: "Whole home loses power and unsure if local outage"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "electrical outtage at home"
   - "medical device needs electricity"
   - "power outage with generator"
-last_reviewed: "2026-07-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-04"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your photo library shows optimising and your photos look missing or low-quality"
+seo_title: "Photo library shows optimising or missing photos"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "wrong account photos missing"
   - "photo libary optimising"
   - "icloud photos optomising"
-last_reviewed: "2026-05-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-27"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you suspect someone is secretly recording you in a changing room or private area"
+seo_title: "Suspecting secret recording in a private area"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "camera or sensor in cubicle"
   - "chaging room hidden camera"
   - "secretely recorded in changing room"
-last_reviewed: "2026-05-21"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-21"
 ---
 

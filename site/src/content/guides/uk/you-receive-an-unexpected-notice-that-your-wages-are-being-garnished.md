@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive an unexpected notice that your wages are being garnished"
+seo_title: "Unexpected notice of wage garnishment"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "scotland earnings arrestment"
   - "northern ireland wage deduction"
   - "court order from old address"
-last_reviewed: "2026-05-20"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-20"
 ---
 

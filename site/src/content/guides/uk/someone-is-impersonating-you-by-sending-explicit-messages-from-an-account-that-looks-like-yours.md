@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone is impersonating you by sending explicit messages from an account that looks like yours"
+seo_title: "someone is sending explicit messages from an account that looks like yours"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "sextortion impersonation concern"
   - "impersonaton explicit messages"
   - "fake acount looks like mine"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-01"
 ---
 

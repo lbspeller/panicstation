@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to sign paperwork after a death and you do not understand it"
+seo_title: "Confusing paperwork after a death"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "death paperwork in another state"
   - "paperwrok after a death"
   - "funeral papework confusion"
-last_reviewed: "2026-06-08"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-08"
 ---
 

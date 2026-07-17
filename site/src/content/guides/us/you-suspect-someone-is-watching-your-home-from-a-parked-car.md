@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you suspect someone is watching your home from a parked car"
+seo_title: "Suspicious parked car outside your home"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "suburban street suspicious car"
   - "suspicious vehical outside"
   - "suspicous car near house"
-last_reviewed: "2026-06-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-24"
 ---
 

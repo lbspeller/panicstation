@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you find pets left alone after their owner has died and you need urgent care for them"
+seo_title: "Pets left alone after owner has died"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "pets in house after death"
   - "ownder died pets left behind"
   - "urgant temporary pet care"
-last_reviewed: "2026-06-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-13"
 ---
 

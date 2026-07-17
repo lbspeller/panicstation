@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your bail or release conditions have changed suddenly and you are unsure how to comply"
+seo_title: "Bail or release conditions changed suddenly"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "relese terms changed"
   - "state bail conditions"
   - "federal pretrial release"
-last_reviewed: "2026-06-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-25"
 ---
 

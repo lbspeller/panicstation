@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you miss a flight connection because of immigration or document checks and you are stranded"
+seo_title: "Missed flight connection due to immigration delay"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "uk passenger rights missed connection"
   - "imigration delay missed flight"
   - "pasport control missed flight"
-last_reviewed: "2026-05-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-14"
 ---
 

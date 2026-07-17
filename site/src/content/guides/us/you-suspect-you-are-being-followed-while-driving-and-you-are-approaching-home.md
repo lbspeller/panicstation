@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you suspect you are being followed while driving and you are approaching home"
+seo_title: "Suspecting you are being followed while driving"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "confused by unmarked lights"
   - "at night near home"
   - "alone driving near home"
-last_reviewed: "2026-06-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-24"
 ---
 

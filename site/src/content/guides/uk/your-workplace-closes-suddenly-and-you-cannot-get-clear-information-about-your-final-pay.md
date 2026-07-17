@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your workplace closes suddenly and you cannot get clear information about your final pay"
+seo_title: "Workplace closed suddenly and final pay is missing"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "hourly worker unpaid"
   - "commission unpaid after closure"
   - "holiday pay after closure"
-last_reviewed: "2026-05-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-29"
 ---
 

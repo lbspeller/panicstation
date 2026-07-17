@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive an extortion message claiming your files were copied and you are unsure if it is real"
+seo_title: "Extortion message claiming your files were copied"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "is this a data breach"
   - "extorsion email about files"
   - "blackmale email about files"
-last_reviewed: "2026-06-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-22"
 ---
 

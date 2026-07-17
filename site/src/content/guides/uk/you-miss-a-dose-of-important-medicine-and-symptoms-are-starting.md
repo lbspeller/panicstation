@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you miss a dose of important medicine and symptoms are starting"
+seo_title: "Missed dose of important medicine with symptoms starting"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "antidepressant dose missed"
   - "missed medicin dose"
   - "forgot perscription medicine"
-last_reviewed: "2026-05-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-14"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an insurance payment was applied to the wrong policy and your coverage is at risk"
+seo_title: "Insurance payment applied to wrong policy"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "insurance account number mistake"
   - "insurence payment on wrong policy"
   - "premimum payment not credited"
-last_reviewed: "2026-06-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-03"
 ---
 

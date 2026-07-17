@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone is repeatedly sliding notes or objects under your door and you feel targeted"
+seo_title: "Repeated notes or objects left at your door"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "flat corridor problem"
   - "shared hallway harassment"
   - "rented flat door problem"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-01"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your bank account balance drops suddenly and you cannot explain the transactions"
+seo_title: "Bank account balance dropped and transactions unexplained"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "shared bank code panic"
   - "while account is being drained"
   - "with debit card still present"
-last_reviewed: "2026-06-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-25"
 ---
 

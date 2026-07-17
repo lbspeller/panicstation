@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone is lingering in your building lobby or entrance and you feel unsafe"
+seo_title: "Someone lingering in your building lobby or entrance"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "apartment lobby at night"
   - "person loitring in lobby"
   - "stranger in appartment lobby"
-last_reviewed: "2026-06-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-09"
 ---
 

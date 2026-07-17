@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you need to tell a child that a relative is dying soon"
+seo_title: "Telling a child that a relative is dying"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "school after relative dying"
   - "familly member dying soon"
   - "dyeing relative child"
-last_reviewed: "2026-05-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-14"
 ---
 

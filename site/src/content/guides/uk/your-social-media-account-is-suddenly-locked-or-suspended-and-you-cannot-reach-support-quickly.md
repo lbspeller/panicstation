@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your social media account is suddenly locked or suspended and you cannot reach support quickly"
+seo_title: "Social media account locked or suspended"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "business social media locked"
   - "instgram account locked"
   - "facbook account suspended"
-last_reviewed: "2026-05-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-28"
 ---
 

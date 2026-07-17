@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a short-notice request to attend a hearing for someone in custody"
+seo_title: "Short-notice request to attend a custody hearing"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "custordy hearing request"
   - "court hearring request"
   - "uk custody hearing request"
-last_reviewed: "2026-05-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-18"
 ---
 

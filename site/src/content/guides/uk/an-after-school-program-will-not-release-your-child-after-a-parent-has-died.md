@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an after-school program will not release your child after a parent has died"
+seo_title: "After-school program will not release child after parent death"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "after school pick up problem"
   - "autorised pickup adult"
   - "pick up permission"
-last_reviewed: "2026-04-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-29"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your manual car is stuck in gear and you cannot move off"
+seo_title: "Manual car stuck in gear and cannot move"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -43,7 +44,7 @@ tags:
   - "parked car stuck in gear"
   - "manual car stuck parked"
   - "gear lever stuck while parked"
-last_reviewed: "2026-05-31"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-31"
 ---
 

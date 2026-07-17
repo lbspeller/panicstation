@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you develop a new painful blistering rash in a band on one side of your body"
+seo_title: "Painful blistering rash in a band on one side"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "new rash after immune treatment"
   - "one-sided rash with fever"
   - "face rash with blisters"
-last_reviewed: "2026-06-12"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-12"
 ---
 

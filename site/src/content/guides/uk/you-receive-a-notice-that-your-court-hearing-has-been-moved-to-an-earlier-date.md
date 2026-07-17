@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a notice that your court hearing has been moved to an earlier date"
+seo_title: "Court hearing date moved to an earlier time"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "court date changd"
   - "unrepresented at court"
   - "solicitor unavailable for hearing"
-last_reviewed: "2026-05-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-18"
 ---
 

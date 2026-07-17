@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive an anonymous message containing a recent photo of you"
+seo_title: "Anonymous message containing a recent photo of you"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "instagram unknown photo message"
   - "unknown nummber photo"
   - "stalking mesage with photo"
-last_reviewed: "2026-05-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-18"
 ---
 

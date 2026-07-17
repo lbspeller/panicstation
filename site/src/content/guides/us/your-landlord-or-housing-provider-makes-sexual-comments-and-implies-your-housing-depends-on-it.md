@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your landlord or housing provider makes sexual comments and implies your housing depends on it"
+seo_title: "Landlord making sexual comments or threats"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "maintenance worker sexual comments"
   - "landlord sexual texts"
   - "housing provider sexual remarks"
-last_reviewed: "2026-05-31"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-31"
 ---
 

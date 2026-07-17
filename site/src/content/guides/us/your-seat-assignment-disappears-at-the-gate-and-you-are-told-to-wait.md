@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your seat assignment disappears at the gate and you are told to wait"
+seo_title: "Seat assignment missing at the boarding gate"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "family seats disappeared"
   - "conection flight seat issue"
   - "boading pass no seat"
-last_reviewed: "2026-07-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-03"
 ---
 

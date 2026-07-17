@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your electric vehicle displays a high-voltage or battery system warning"
+seo_title: "Electric vehicle high-voltage or battery warning"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "rapid charging ev warning"
   - "after charging ev warning"
   - "after impact ev warning"
-last_reviewed: "2026-05-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-25"
 ---
 

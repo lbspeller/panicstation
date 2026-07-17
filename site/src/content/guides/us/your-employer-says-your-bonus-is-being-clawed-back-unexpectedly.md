@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your employer says your bonus is being clawed back unexpectedly"
+seo_title: "Employer says your bonus must be repaid"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "terminated after bonus payment"
   - "bonas clawback notice"
   - "payrol bonus deduction"
-last_reviewed: "2026-06-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-29"
 ---
 

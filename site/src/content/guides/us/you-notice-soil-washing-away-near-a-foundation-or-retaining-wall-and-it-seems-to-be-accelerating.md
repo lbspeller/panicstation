@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice soil washing away near a foundation or retaining wall and it seems to be accelerating"
+seo_title: "Soil washing away near foundation or retaining wall"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "water carrying soil away"
   - "foundaton erosion near house"
   - "retaining wall buldge"
-last_reviewed: "2026-06-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-18"
 ---
 

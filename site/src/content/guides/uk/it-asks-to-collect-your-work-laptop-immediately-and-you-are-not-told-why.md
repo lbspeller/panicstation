@@ -1,5 +1,6 @@
 ---
 title: "What to do if… IT asks to collect your work laptop immediately and you are not told why"
+seo_title: "IT asks to collect work laptop immediately"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "work computor collected"
   - "laptop retun requested"
   - "remote worker laptop collection"
-last_reviewed: "2026-04-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-30"
 ---
 

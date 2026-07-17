@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your vaccination certificate QR code will not validate when scanned"
+seo_title: "Vaccination certificate QR code not validating"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "at airport vaccine proof"
   - "before boarding vaccine certificate"
   - "yellow fever certificate problem"
-last_reviewed: "2026-05-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-14"
 ---
 

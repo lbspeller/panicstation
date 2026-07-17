@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a hospital asks you to come in urgently to discuss end-of-life decisions for a relative"
+seo_title: "Urgent hospital meeting about end-of-life decisions"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "urgent same-day hospital meeting"
   - "end-of-life decision in england"
   - "end-of-life decision in scotland"
-last_reviewed: "2026-04-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-26"
 ---
 

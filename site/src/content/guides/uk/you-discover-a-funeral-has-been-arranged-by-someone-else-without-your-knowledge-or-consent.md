@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you discover a funeral has been arranged by someone else without your knowledge or consent"
+seo_title: "Funeral arranged by someone else without consent"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "funeral arrangments dispute"
   - "estranged relative arranged funeral"
   - "uk funeral family dispute"
-last_reviewed: "2026-05-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-10"
 ---
 

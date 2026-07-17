@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone insists you consented to sex but you remember saying no"
+seo_title: "Someone insists you consented but you said no"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "messages after sex"
   - "i rember saying no"
   - "they say i consentd"
-last_reviewed: "2026-06-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-05"
 ---
 

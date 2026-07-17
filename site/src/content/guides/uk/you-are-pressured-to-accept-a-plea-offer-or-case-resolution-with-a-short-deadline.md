@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are pressured to accept a plea offer or case resolution with a short deadline"
+seo_title: "Pressured to accept a plea offer with a deadline"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "plea deadline before court"
   - "plee offer deadline"
   - "case resoluton proposal"
-last_reviewed: "2026-05-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-18"
 ---
 

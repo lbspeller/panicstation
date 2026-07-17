@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a cheque you deposited is flagged as counterfeit and the bank reverses the funds"
+seo_title: "Cheque deposit reversed as counterfeit"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "mailed cheque turned out fake"
   - "job offer check was fake"
   - "marketplace payment check reversed"
-last_reviewed: "2026-05-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-30"
 ---
 

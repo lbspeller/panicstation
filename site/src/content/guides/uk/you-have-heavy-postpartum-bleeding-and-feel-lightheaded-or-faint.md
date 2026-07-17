@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have heavy postpartum bleeding and feel lightheaded or faint"
+seo_title: "Heavy postpartum bleeding and feeling faint"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "first week after birth bleeding"
   - "six weeks after birth bleeding"
   - "breastfeeding and heavy bleeding"
-last_reviewed: "2026-05-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-13"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you suddenly feel unusually impaired and suspect something is wrong"
+seo_title: "Suddenly feeling unusually impaired or unwell"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -42,7 +43,7 @@ tags:
   - "symptoms started indoors"
   - "impared and worried"
   - "dizzy and nausous"
-last_reviewed: "2026-05-21"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-21"
 ---
 

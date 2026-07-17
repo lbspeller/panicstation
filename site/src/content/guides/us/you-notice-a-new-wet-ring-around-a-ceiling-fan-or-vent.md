@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice a new wet ring around a ceiling fan or vent"
+seo_title: "New wet ring around ceiling fan or vent"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "rental ceiling leak"
   - "apartment ceiling fan leak"
   - "after heavy rain ceiling stain"
-last_reviewed: "2026-06-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-18"
 ---
 

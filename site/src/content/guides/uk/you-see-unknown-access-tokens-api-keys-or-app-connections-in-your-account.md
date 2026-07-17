@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you see unknown access tokens, API keys, or app connections in your account"
+seo_title: "Unknown access tokens or API keys in account"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -44,7 +45,7 @@ tags:
   - "personal developer account token"
   - "unkown api key created"
   - "suspicous app connection"
-last_reviewed: "2026-05-20"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-20"
 ---
 

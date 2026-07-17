@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your windshield wipers stop working while you are driving in bad weather"
+seo_title: "Windshield wipers stop working while driving"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "stopped on hard shoulder"
   - "motorway emergency area stop"
   - "stranded on roadside rain"
-last_reviewed: "2026-05-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-29"
 ---
 

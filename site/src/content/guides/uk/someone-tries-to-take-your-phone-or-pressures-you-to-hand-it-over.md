@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone tries to take your phone or pressures you to hand it over"
+seo_title: "Someone trying to take your phone"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "moblie phone grabbed"
   - "phone request near station"
   - "phone request on transport"
-last_reviewed: "2026-04-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-30"
 ---
 

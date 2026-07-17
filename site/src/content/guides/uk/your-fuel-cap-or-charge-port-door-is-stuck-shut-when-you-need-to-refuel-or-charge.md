@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your fuel cap or charge-port door is stuck shut when you need to refuel or charge"
+seo_title: "Fuel cap or charge port door stuck shut"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "fuel cap stcuk"
   - "charge port dore stuck"
   - "motorway refuel problem"
-last_reviewed: "2026-05-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-25"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to authorise a cremation but are unsure if you have the legal right"
+seo_title: "Unsure if you have legal right to authorize cremation"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "cremtion consent confusion"
   - "asked to authorise cremation"
   - "unsure about cremation authorisation"
-last_reviewed: "2026-06-07"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-07"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… lights are flickering in multiple rooms and you suspect an electrical fault"
+seo_title: "Lights flickering in multiple rooms"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "lights flikering in multiple rooms"
   - "electical fault with flickering lights"
   - "electrical panel buzzing with flickering lights"
-last_reviewed: "2026-06-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-03"
 ---
 

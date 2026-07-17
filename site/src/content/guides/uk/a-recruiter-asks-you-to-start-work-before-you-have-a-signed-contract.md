@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a recruiter asks you to start work before you have a signed contract"
+seo_title: "Recruiter asks you to start work without a contract"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "contrct not signed yet"
   - "temporary agency assignment"
   - "remote job start immediately"
-last_reviewed: "2026-04-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-28"
 ---
 

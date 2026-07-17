@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an aggressive driver is following you and will not stop"
+seo_title: "Aggressive driver following your car"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "alone in car"
   - "children in car"
   - "quiet road at night"
-last_reviewed: "2026-04-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-25"
 ---
 

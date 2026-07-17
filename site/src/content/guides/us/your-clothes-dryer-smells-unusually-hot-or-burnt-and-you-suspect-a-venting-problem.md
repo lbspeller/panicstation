@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your clothes dryer smells unusually hot or burnt and you suspect a venting problem"
+seo_title: "Clothes dryer smells hot or burnt"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -34,7 +35,7 @@ tags:
   - "dryer duct kinked"
   - "dryr smells burnt"
   - "dryer venting problm"
-last_reviewed: "2026-06-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-27"
 ---
 

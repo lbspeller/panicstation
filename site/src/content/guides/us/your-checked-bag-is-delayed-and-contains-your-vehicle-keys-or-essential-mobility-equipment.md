@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your checked bag is delayed and contains your vehicle keys or essential mobility equipment"
+seo_title: "Delayed bag with vehicle keys or mobility equipment"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "at arrival airport"
   - "domestic flight baggage"
   - "international flight baggage"
-last_reviewed: "2026-06-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-27"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a message claiming to be from a court with a payment link and you are not sure it is real"
+seo_title: "Suspicious court message with a payment link"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "court txt payment link"
   - "jury dutty payment text"
   - "out of state court text"
-last_reviewed: "2026-06-20"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-20"
 ---
 

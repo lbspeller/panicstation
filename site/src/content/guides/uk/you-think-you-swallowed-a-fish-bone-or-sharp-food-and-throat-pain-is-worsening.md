@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you think you swallowed a fish bone or sharp food and throat pain is worsening"
+seo_title: "Swallowed fish bone or sharp food with worsening pain"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "after eating chicken"
   - "adult throat pain"
   - "sharpe food swallowed"
-last_reviewed: "2026-05-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-22"
 ---
 

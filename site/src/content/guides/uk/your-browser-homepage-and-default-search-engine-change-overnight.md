@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your browser homepage and default search engine change overnight"
+seo_title: "Browser homepage or search engine changed overnight"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "browser virus confusion"
   - "work device browser changed"
   - "school device browser changed"
-last_reviewed: "2026-05-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-23"
 ---
 

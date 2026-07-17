@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you smell gasoline or fuel around your parked vehicle"
+seo_title: "Smell of gasoline or fuel around parked vehicle"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "fuel smel around car"
   - "gasoline oder near car"
   - "attached garage fuel smell"
-last_reviewed: "2026-06-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-23"
 ---
 

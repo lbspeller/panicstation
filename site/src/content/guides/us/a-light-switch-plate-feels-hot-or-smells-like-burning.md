@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a light switch plate feels hot or smells like burning"
+seo_title: "Light switch feels hot or smells like burning"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "hot switch after turning on lights"
   - "lite switch feels hot"
   - "light swich smells burnt"
-last_reviewed: "2026-05-31"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-31"
 ---
 

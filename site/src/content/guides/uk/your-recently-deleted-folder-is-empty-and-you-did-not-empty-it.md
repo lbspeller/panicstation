@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your recently deleted folder is empty and you did not empty it"
+seo_title: "Recently deleted folder empty unexpectedly"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "onedrive recycle bin emptied"
   - "recenly deleted emptied"
   - "recyle bin emptied"
-last_reviewed: "2026-05-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-27"
 ---
 

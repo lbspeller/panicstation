@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you lose a physical security key used for two-factor sign-in"
+seo_title: "Lost physical security key for two-factor sign-in"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "work account security key lost"
   - "primary email security key lost"
   - "password manager key lost"
-last_reviewed: "2026-05-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-14"
 ---
 

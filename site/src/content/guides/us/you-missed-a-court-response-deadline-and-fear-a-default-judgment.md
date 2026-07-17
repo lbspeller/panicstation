@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you missed a court response deadline and fear a default judgment"
+seo_title: "Missed court response deadline and default judgment"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "small claims default"
   - "old address service problem"
   - "state court response deadline"
-last_reviewed: "2026-06-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-16"
 ---
 

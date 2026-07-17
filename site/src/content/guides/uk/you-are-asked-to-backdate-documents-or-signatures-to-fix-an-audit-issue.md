@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to backdate documents or signatures to fix an audit issue"
+seo_title: "Asked to backdate documents or signatures for an audit"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "backdated signiture request"
   - "live audit pressure"
   - "regulated workplace records"
-last_reviewed: "2026-05-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-03"
 ---
 

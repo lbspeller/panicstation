@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your electric vehicle charging cable is stuck and will not release"
+seo_title: "Electric vehicle charging cable stuck and will not release"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "nacs adapter stuck"
   - "ev chager stuck"
   - "chargng cable stuck"
-last_reviewed: "2026-06-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-27"
 ---
 

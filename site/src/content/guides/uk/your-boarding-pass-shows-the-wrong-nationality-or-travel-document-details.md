@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your boarding pass shows the wrong nationality or travel document details"
+seo_title: "Boarding pass shows wrong nationality or document details"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "separate ticket document issue"
   - "passprot details wrong"
   - "nationalty wrong on boarding pass"
-last_reviewed: "2026-05-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-23"
 ---
 

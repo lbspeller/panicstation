@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone in a car is circling the area where you are parked"
+seo_title: "Suspicious car circling your parked vehicle"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "car near where i parked"
   - "car circling parkin lot"
   - "circlying car near me"
-last_reviewed: "2026-06-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-04"
 ---
 

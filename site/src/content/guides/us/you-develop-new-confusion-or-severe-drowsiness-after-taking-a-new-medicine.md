@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you develop new confusion or severe drowsiness after taking a new medicine"
+seo_title: "New confusion or severe drowsiness after medicine"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "after mixing medicines"
   - "drowziness after medicine"
   - "confustion after medicine"
-last_reviewed: "2026-06-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-13"
 ---
 

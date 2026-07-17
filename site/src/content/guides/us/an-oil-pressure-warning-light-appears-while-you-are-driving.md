@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an oil pressure warning light appears while you are driving"
+seo_title: "Oil pressure warning light while driving"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "check engine light or oil light"
   - "oil presure warning"
   - "oil pressure waring"
-last_reviewed: "2026-06-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-03"
 ---
 

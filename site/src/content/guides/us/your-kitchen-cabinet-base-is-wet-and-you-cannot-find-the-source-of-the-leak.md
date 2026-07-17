@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your kitchen cabinet base is wet and you cannot find the source of the leak"
+seo_title: "Kitchen cabinet base is wet and leaking"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "condo kitchen leak"
   - "cabnet base wet"
   - "under sinc leak"
-last_reviewed: "2026-06-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-30"
 ---
 

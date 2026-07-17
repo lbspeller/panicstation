@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a free trial turns into an unexpected subscription charge"
+seo_title: "Unexpected subscription charge after free trial"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "google play subscription charged"
   - "uk free trial charge"
   - "uk subscription payment surprise"
-last_reviewed: "2026-04-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-26"
 ---
 

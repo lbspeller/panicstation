@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your clothes dryer smells unusually hot or burnt and you suspect a venting problem"
+seo_title: "Clothes dryer smells hot or burnt"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "tumble dryr smells burnt"
   - "burnt smell after drying clothes"
   - "dryer hot at the plug"
-last_reviewed: "2026-05-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-24"
 ---
 

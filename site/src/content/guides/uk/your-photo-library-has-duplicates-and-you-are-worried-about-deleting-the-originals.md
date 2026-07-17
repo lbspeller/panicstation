@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your photo library has duplicates and you are worried about deleting the originals"
+seo_title: "Photo library has duplicates and you fear deleting originals"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "computer import duplicated photos"
   - "icoud photos duplicated"
   - "photo orginals confusing"
-last_reviewed: "2026-05-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-27"
 ---
 

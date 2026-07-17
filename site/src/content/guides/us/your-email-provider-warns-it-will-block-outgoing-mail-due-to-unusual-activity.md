@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your email provider warns it will block outgoing mail due to unusual activity"
+seo_title: "Email provider warns of unusual activity and blocks mail"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "work email unusual activity"
   - "personal email unusual activty"
   - "mail acount blocked"
-last_reviewed: "2026-06-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-29"
 ---
 

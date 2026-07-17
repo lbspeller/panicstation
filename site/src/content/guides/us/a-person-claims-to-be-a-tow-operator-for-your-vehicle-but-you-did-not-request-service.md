@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a person claims to be a tow operator for your vehicle but you did not request service"
+seo_title: "Unsolicited tow operator at your vehicle"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "tow operater at my vehicle"
   - "towing compny at my vehicle"
   - "vehicle tow service not requested"
-last_reviewed: "2026-06-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-01"
 ---
 

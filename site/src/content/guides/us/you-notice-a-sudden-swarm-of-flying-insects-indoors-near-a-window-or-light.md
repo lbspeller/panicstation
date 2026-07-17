@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice a sudden swarm of flying insects indoors near a window or light"
+seo_title: "Sudden swarm of flying insects indoors"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "nighttime insect swarm"
   - "flying insects indors"
   - "bugs near windo"
-last_reviewed: "2026-06-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-18"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a manager or supervisor makes you feel uncomfortable or unsafe during one-to-one meetings"
+seo_title: "Manager or supervisor making you feel unsafe at work"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "new supervisor making personal comments"
   - "superviser meeting feels sexual"
   - "sexualised meting with boss"
-last_reviewed: "2026-05-31"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-31"
 ---
 

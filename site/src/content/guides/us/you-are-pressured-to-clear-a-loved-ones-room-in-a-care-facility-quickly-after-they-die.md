@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are pressured to clear a loved one’s room in a care facility quickly after they die"
+seo_title: "Pressured to clear a care home room quickly"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "grieving family room clearance"
   - "belongings moved before pickup"
   - "care facility belongings missing"
-last_reviewed: "2026-06-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-10"
 ---
 

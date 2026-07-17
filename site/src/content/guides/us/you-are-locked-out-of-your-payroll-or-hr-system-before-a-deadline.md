@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are locked out of your payroll or HR system before a deadline"
+seo_title: "Locked out of payroll or HR system before deadline"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "timecard aproval blocked"
   - "before payday"
   - "before payroll cutoff"
-last_reviewed: "2026-06-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-09"
 ---
 

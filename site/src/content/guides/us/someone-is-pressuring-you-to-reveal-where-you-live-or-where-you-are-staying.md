@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone is pressuring you to reveal where you live or where you are staying"
+seo_title: "Someone pressuring you for your address or location"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "someone asking for my adress"
   - "someone pressuring me for my locaton"
   - "someone will not take vague answer"
-last_reviewed: "2026-06-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-05"
 ---
 

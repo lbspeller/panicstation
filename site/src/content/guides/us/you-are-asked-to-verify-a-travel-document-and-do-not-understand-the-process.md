@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to verify a travel document and do not understand the process"
+seo_title: "Unclear request to verify a travel document"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "passport verification before travel"
   - "visa paperwork needs verification"
   - "travel document request from provider"
-last_reviewed: "2026-06-12"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-12"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… private sexual rumours about you are spreading and you suspect someone specific started them"
+seo_title: "Private sexual rumours spreading about you"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -33,7 +34,7 @@ tags:
   - "defamation or harassment confusion"
   - "sexual harrasment rumors"
   - "sexual rumers about me"
-last_reviewed: "2026-06-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-16"
 ---
 

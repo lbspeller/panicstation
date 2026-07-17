@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your device warns that a certificate or profile was installed unexpectedly"
+seo_title: "Unexpected device certificate or profile warning"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "certifcate warning"
   - "profle installed"
   - "public wifi certificate warning"
-last_reviewed: "2026-05-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-25"
 ---
 

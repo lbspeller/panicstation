@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your computer suddenly shows a new local administrator account you did not create"
+seo_title: "Unknown administrator account appeared on computer"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "maybe family member added account"
   - "adminstrator account appeared"
   - "unkown admin account"
-last_reviewed: "2026-05-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-24"
 ---
 

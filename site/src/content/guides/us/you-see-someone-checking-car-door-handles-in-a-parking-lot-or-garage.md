@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you see someone checking car door handles in a parking lot or garage"
+seo_title: "Someone checking car door handles in a parking lot"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "car breakin nearby"
   - "mall parking lot"
   - "public parking garage"
-last_reviewed: "2026-06-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-23"
 ---
 

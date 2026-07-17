@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have sudden severe eye pain with redness or halos around lights"
+seo_title: "Sudden severe eye pain with redness or halos"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "eye infection or glaucoma"
   - "severe eye pane"
   - "rainbow hallos around lights"
-last_reviewed: "2026-05-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-09"
 ---
 

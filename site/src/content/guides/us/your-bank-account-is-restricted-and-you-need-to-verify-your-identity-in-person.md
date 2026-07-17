@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your bank account is restricted and you need to verify your identity in person"
+seo_title: "Bank account restricted and needs in-person verification"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "id verification hold"
   - "bank acount frozen"
   - "verfication hold bank"
-last_reviewed: "2026-06-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-25"
 ---
 

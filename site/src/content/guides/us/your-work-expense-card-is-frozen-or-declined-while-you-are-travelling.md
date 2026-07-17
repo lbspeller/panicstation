@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your work expense card is frozen or declined while you are travelling"
+seo_title: "Work expense card frozen or declined while travelling"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "work travel payment problem abroad"
   - "travling with frozen work card"
   - "expence card frozen on trip"
-last_reviewed: "2026-06-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-02"
 ---
 

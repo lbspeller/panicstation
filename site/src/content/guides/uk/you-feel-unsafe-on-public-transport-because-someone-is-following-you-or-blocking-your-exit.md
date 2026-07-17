@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you feel unsafe on public transport because someone is following you or blocking your exit"
+seo_title: "Unsafe on public transport or exit blocked"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "late night public transport"
   - "busy platform feels unsafe"
   - "alone on public transport"
-last_reviewed: "2026-05-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-11"
 ---
 

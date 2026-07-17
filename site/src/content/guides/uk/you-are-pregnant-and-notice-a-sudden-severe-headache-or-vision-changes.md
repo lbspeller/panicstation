@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are pregnant and notice a sudden severe headache or vision changes"
+seo_title: "Pregnant with sudden severe headache or vision changes"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "late pregnancy headache"
   - "after 20 weeks headache"
   - "pregnant vison changes"
-last_reviewed: "2026-05-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-05"
 ---
 

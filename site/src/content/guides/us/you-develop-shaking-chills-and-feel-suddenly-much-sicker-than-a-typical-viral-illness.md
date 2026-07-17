@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you develop shaking chills and feel suddenly much sicker than a typical viral illness"
+seo_title: "Sudden shaking chills and feeling severely unwell"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "shaking chills after infection"
   - "shaking chils"
   - "rigors and chils"
-last_reviewed: "2026-06-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-13"
 ---
 

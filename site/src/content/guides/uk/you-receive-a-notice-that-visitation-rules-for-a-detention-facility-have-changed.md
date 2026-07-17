@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a notice that visitation rules for a detention facility have changed"
+seo_title: "Detention facility visitation rules changed"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "vistation rules changed"
   - "visiting rules changd"
   - "uk detention visit change"
-last_reviewed: "2026-05-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-18"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you suddenly feel unusually impaired and suspect something is wrong"
+seo_title: "Suddenly feeling unusually impaired or unwell"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "druged after drinking"
   - "impaied and scared"
   - "alone in a bar"
-last_reviewed: "2026-06-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-23"
 ---
 

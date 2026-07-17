@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice scorch marks or burning smells around a ceiling light fixture"
+seo_title: "Scorch marks or burning smell near ceiling light"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "loft insulation near downlight"
   - "scortch marks ceiling light"
   - "ceiling light burn markes"
-last_reviewed: "2026-05-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-16"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a partner pressures you to have sex in exchange for affection or kindness"
+seo_title: "Partner pressuring you for sex in exchange for affection"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "is this coerced consent"
   - "sex pressure at home"
   - "pressured sex in relationship"
-last_reviewed: "2026-04-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-27"
 ---
 

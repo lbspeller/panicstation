@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your date pressures you for a private location and reacts aggressively when you refuse"
+seo_title: "Date pressuring you for privacy and acting aggressively"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "first date away from home"
   - "privte location pressure"
   - "uncomforable first date"
-last_reviewed: "2026-06-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-09"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you find an electrical outlet or plug faceplate is discoloured, warped, or smells of burning"
+seo_title: "Electrical outlet or plug smells of burning or is warped"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -42,7 +43,7 @@ tags:
   - "apartment outlet overheating"
   - "space heater outlet issue"
   - "charger plug getting hot"
-last_reviewed: "2026-06-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-14"
 ---
 

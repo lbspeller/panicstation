@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your child says an adult is asking for private photos or video calls and offering gifts"
+seo_title: "your child says an adult is asking for private photos or video calls"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "social media messages"
   - "school adult contact"
   - "youth activity adult contact"
-last_reviewed: "2026-06-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-27"
 ---
 

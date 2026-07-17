@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a minor traffic incident feels suspicious or unsafe and you are being pressured to pull over"
+seo_title: "Suspicious traffic incident or feeling unsafe after collision"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "nighttime suspicious traffic incident"
   - "suspicous traffic incident"
   - "agressive driver after crash"
-last_reviewed: "2026-06-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-06"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive an unexpected message claiming your phone number or email is linked to a case"
+seo_title: "Unexpected message claiming you are linked to a case"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "summons scam message"
   - "oficial notice linked to case"
   - "emial linked to case"
-last_reviewed: "2026-06-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-22"
 ---
 

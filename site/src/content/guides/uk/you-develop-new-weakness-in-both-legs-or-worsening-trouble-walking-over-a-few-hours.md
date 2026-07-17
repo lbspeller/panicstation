@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you develop new weakness in both legs or worsening trouble walking over a few hours"
+seo_title: "New weakness in both legs or worsening trouble walking"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "weakness spreading upwards"
   - "new weaknes in legs"
   - "truble walking suddenly"
-last_reviewed: "2026-05-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-09"
 ---
 

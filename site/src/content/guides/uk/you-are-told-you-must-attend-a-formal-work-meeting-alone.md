@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are told you must attend a formal work meeting alone"
+seo_title: "Told to attend a formal work meeting alone"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "grievance meeting or hearing"
   - "disciplinary meetng alone"
   - "grievance hearng alone"
-last_reviewed: "2026-05-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-06"
 ---
 

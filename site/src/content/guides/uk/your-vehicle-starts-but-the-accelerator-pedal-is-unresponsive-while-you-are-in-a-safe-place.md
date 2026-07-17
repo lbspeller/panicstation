@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your vehicle starts but the accelerator pedal is unresponsive while you are in a safe place"
+seo_title: "Vehicle starts but accelerator pedal is unresponsive"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "safe place before driving"
   - "car park breakdown"
   - "driveway breakdown"
-last_reviewed: "2026-05-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-28"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your bank alerts you that your contact details were changed without your consent"
+seo_title: "Bank alert about changed contact details"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "bank login changed"
   - "uk bank fraud alert"
   - "mobile banking contact change"
-last_reviewed: "2026-05-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-22"
 ---
 

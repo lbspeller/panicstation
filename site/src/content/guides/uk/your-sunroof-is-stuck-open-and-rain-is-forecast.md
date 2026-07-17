@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your sunroof is stuck open and rain is forecast"
+seo_title: "Sunroof stuck open with rain forecast"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "roof stuck before rain"
   - "car outside before storm"
   - "driving with roof cover"
-last_reviewed: "2026-05-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-28"
 ---
 

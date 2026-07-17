@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you start vomiting blood or see coffee-ground material in your vomit"
+seo_title: "Vomiting blood or coffee-ground material"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "vomiting blood after drinking"
   - "vomitting blood"
   - "cofee ground vomit"
-last_reviewed: "2026-06-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-24"
 ---
 

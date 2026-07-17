@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you develop new severe thirst, frequent urination, and unexpected weight loss"
+seo_title: "New severe thirst, frequent urination, and weight loss"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "adult severe thirst"
   - "child severe thirst"
   - "pregnant and very thirsty"
-last_reviewed: "2026-05-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-09"
 ---
 

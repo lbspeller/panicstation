@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are told a loved one’s remains are being transferred and you are unsure who is coordinating it"
+seo_title: "Unsure who is coordinating a loved one's remains transfer"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "weekend remains transfer uncertainty"
   - "autorization form unclear"
   - "funral home not confirmed"
-last_reviewed: "2026-06-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-10"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you overwrite a file and cannot find a previous version to restore"
+seo_title: "Overwritten file with no previous version to restore"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -42,7 +43,7 @@ tags:
   - "important document overwritten"
   - "overwriten file"
   - "prevous version missing"
-last_reviewed: "2026-05-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-16"
 ---
 

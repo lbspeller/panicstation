@@ -1,5 +1,6 @@
 ---
 title: "What to do if… customs or border officials have held an item you need for your trip"
+seo_title: "Customs or border officials held your travel item"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "my work equipment is held during travel"
   - "custums held my travel item"
   - "bordar officials held my item"
-last_reviewed: "2026-06-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-03"
 ---
 

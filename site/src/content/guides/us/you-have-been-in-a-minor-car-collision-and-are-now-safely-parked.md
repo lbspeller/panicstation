@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have been in a minor car collision and are now safely parked"
+seo_title: "Minor car collision while safely parked"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "no injuries after collision"
   - "minor collision in parking lot"
   - "minor collision with parked car"
-last_reviewed: "2026-06-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-09"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… water starts leaking into your home around a chimney or fireplace"
+seo_title: "Water leaking around chimney or fireplace"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "fire place water leak"
   - "chimney leak in storm"
   - "rented home chimney leak"
-last_reviewed: "2026-05-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-02"
 ---
 

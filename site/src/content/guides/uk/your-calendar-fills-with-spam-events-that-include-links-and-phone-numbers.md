@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your calendar fills with spam events that include links and phone numbers"
+seo_title: "Calendar filled with spam events and links"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "calandar spam events"
   - "work calendar spam"
   - "personal calendar spam"
-last_reviewed: "2026-05-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-23"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are contacted by an external investigator or lawyer about your workplace and are unsure what to share"
+seo_title: "Contacted by external investigator or lawyer about work"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "external investigator contacted me remotely"
   - "investigater contacted me"
   - "i got a subpeona from lawyer"
-last_reviewed: "2026-06-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-09"
 ---
 

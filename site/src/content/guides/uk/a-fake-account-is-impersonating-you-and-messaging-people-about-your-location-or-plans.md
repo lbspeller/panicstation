@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a fake account is impersonating you and messaging people about your location or plans"
+seo_title: "Fake account impersonating you and sharing location"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "impersonation while travelling"
   - "impersonation near home"
   - "impersonation with safety risk"
-last_reviewed: "2026-04-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-27"
 ---
 

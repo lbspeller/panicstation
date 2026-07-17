@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are told you need an electronic travel authorisation and you do not have it in time"
+seo_title: "Missing electronic travel authorisation before flight"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "same-day travel problem"
   - "new passport travel"
   - "connecting flight problem"
-last_reviewed: "2026-05-07"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-07"
 ---
 

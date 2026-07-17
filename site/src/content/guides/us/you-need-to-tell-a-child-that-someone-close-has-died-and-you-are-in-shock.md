@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you need to tell a child that someone close has died and you are in shock"
+seo_title: "Telling a child someone has died while in shock"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "school after child grief"
   - "child greif after death"
   - "bereavment and child shock"
-last_reviewed: "2026-06-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-17"
 ---
 

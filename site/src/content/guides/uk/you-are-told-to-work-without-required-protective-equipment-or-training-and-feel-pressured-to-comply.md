@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are told to work without required protective equipment or training and feel pressured to comply"
+seo_title: "Pressured to work without safety equipment or training"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "risk assessment not shown"
   - "protective equiptment missing"
   - "work saftey training missing"
-last_reviewed: "2026-05-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-06"
 ---
 

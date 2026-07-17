@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a suspicious or unexpected death notification"
+seo_title: "Suspicious or unexpected death notification"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "bereavment scam message"
   - "uk death notification scam"
   - "family death message scam"
-last_reviewed: "2026-05-21"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-21"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a partner pressures you to take or send intimate photos or videos"
+seo_title: "Partner pressuring you for intimate photos or videos"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "adult pressured for intimate images"
   - "pressured to send noods"
   - "partner wants intamate photos"
-last_reviewed: "2026-06-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-01"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a job audition or photoshoot introduces unexpected nudity or sexual expectations"
+seo_title: "Unexpected nudity or sexual pressure at work"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "under 18 nude request"
   - "online audition pressure"
   - "uk photoshoot sexual pressure"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-01"
 ---
 

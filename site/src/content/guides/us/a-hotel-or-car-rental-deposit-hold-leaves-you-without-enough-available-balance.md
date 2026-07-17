@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a hotel or car rental deposit hold leaves you without enough available balance"
+seo_title: "Hotel or car rental hold blocking available balance"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "availble balance too low"
   - "travel deposit blocked funds"
   - "checking account funds blocked"
-last_reviewed: "2026-05-31"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-31"
 ---
 

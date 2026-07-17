@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your water meter is moving even though all taps and appliances are off"
+seo_title: "Water meter moving with all taps off"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -43,7 +44,7 @@ tags:
   - "flat shared water supply"
   - "homeowner water leak"
   - "garden pipe leak"
-last_reviewed: "2026-05-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-16"
 ---
 

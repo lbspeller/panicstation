@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have a positive pregnancy test and are experiencing pain or bleeding"
+seo_title: "Positive pregnancy test with pain or bleeding"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "unsure how far along pregnant"
   - "pregnacy test positive with pain"
   - "ectopic pregnacy symptoms"
-last_reviewed: "2026-05-31"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-31"
 ---
 

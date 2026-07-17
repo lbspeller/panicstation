@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are pressured to choose between burial and cremation and feel unsure"
+seo_title: "Pressured to choose burial or cremation"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "will not found yet"
   - "england wales cremation forms"
   - "northern ireland funeral arrangements"
-last_reviewed: "2026-05-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-03"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are told a loved one is likely to die within days and need to alert family"
+seo_title: "Alerting family when a loved one is dying"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "hosptial says last days"
   - "uk hospital end of life"
   - "uk hospice last days"
-last_reviewed: "2026-05-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-06"
 ---
 

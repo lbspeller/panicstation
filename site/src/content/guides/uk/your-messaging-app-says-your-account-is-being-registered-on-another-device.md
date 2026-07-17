@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your messaging app says your account is being registered on another device"
+seo_title: "Messaging app says account registered on another device"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "after changing phone"
   - "after replacing sim"
   - "while travelling abroad"
-last_reviewed: "2026-05-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-26"
 ---
 

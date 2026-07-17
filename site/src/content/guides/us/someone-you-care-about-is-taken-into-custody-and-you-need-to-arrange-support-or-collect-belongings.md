@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone you care about is taken into custody and you need to arrange support or collect belongings"
+seo_title: "Support and belongings for someone in custody"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "someone arrested out of state"
   - "someone held in another county"
   - "someone may be in immigration custody"
-last_reviewed: "2026-06-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-06"
 ---
 

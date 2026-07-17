@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your router settings show remote administration was turned on and you did not enable it"
+seo_title: "Router remote administration enabled without your permission"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "internet admin access confusion"
   - "routr settings changed"
   - "admin acess exposed"
-last_reviewed: "2026-07-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-03"
 ---
 

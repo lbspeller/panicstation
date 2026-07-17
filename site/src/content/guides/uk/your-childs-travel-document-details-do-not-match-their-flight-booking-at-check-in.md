@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your child’s travel document details do not match their flight booking at check-in"
+seo_title: "Child travel document mismatch at flight check-in"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "codeshare airline name problem"
   - "travel agent entered wrong name"
   - "airport check-in closing soon"
-last_reviewed: "2026-05-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-24"
 ---
 

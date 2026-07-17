@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are pressured to stay silent after reporting sexual harassment or misconduct at work"
+seo_title: "Pressured to stay silent after reporting harassment"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "pressure from manager after reporting"
   - "harasment report silence pressure"
   - "confidenciality pressure after reporting"
-last_reviewed: "2026-06-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-09"
 ---
 

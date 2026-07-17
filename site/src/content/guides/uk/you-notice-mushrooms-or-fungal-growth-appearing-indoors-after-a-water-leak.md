@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice mushrooms or fungal growth appearing indoors after a water leak"
+seo_title: "Mushrooms or fungal growth indoors after a leak"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "flat above leak mould"
   - "managed building water leak"
   - "children near indoor mould"
-last_reviewed: "2026-05-15"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-15"
 ---
 

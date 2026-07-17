@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a notice that your court hearing has been moved to an earlier date"
+seo_title: "Court hearing date moved to an earlier time"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "court reschedule confusion"
   - "court date moved erlier"
   - "hearing notice recieved"
-last_reviewed: "2026-06-21"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-21"
 ---
 

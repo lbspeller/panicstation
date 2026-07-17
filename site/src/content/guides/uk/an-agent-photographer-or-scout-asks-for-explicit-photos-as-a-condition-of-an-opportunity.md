@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an agent, photographer, or scout asks for explicit photos as a condition of an opportunity"
+seo_title: "Agent or scout asks for explicit photos"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "under eighteen explicit photo request"
   - "adult explicit photo threat"
   - "uk modelling scam photos"
-last_reviewed: "2026-04-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-29"
 ---
 

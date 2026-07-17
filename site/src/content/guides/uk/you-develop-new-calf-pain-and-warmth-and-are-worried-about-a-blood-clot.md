@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you develop new calf pain and warmth and are worried about a blood clot"
+seo_title: "New calf pain and warmth: worried about blood clot"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "calf pain after travel"
   - "calf pain on contraception"
   - "calf pain after surgery"
-last_reviewed: "2026-05-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-09"
 ---
 

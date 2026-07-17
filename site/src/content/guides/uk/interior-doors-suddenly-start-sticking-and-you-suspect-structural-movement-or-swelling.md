@@ -1,5 +1,6 @@
 ---
 title: "What to do if… interior doors suddenly start sticking and you suspect structural movement or swelling"
+seo_title: "Interior doors suddenly sticking or binding"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "leak or house movement"
   - "subsidance signs doors"
   - "strucural movement worry"
-last_reviewed: "2026-04-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-30"
 ---
 

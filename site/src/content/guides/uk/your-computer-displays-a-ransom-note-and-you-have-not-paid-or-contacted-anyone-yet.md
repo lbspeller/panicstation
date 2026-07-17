@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your computer displays a ransom note and you have not paid or contacted anyone yet"
+seo_title: "Computer displays a ransom note"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "ransomeware on laptop"
   - "work laptop ransom note"
   - "home computer ransom note"
-last_reviewed: "2026-05-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-24"
 ---
 

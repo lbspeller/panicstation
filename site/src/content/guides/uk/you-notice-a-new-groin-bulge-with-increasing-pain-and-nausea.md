@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice a new groin bulge with increasing pain and nausea"
+seo_title: "New groin bulge with pain and nausea"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "alone with groin pain"
   - "groin buldge pain"
   - "hernia nausia"
-last_reviewed: "2026-05-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-14"
 ---
 

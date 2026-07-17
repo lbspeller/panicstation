@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone claiming to represent the person who harmed you pressures you to respond"
+seo_title: "Pressured to respond by someone claiming to represent your harasser"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "after a phone call"
   - "representitive contacting me"
   - "pressured to responed"
-last_reviewed: "2026-06-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-09"
 ---
 

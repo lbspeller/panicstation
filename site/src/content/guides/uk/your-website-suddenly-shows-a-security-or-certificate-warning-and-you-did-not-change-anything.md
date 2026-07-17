@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your website suddenly shows a security or certificate warning and you did not change anything"
+seo_title: "Website suddenly shows security or certificate warning"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "ssl certifcate problem"
   - "after a dns change"
   - "after a cdn change"
-last_reviewed: "2026-05-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-29"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a leak from the unit above is damaging your home and the responsible party is not responding"
+seo_title: "Water leak from unit above and no response"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -33,7 +34,7 @@ tags:
   - "burst pipe upstairs"
   - "overflowing bath upstairs"
   - "leasehold flat water leak"
-last_reviewed: "2026-04-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-26"
 ---
 

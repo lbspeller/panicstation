@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone is shining a light into your home from outside at night"
+seo_title: "Someone is shining a light into your home at night"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "repeated light outside my home"
   - "flashlite outside my window"
   - "neigbor spotlight into my bedroom"
-last_reviewed: "2026-06-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-05"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are told you must register your address locally and the deadline is very soon"
+seo_title: "Urgent local address registration deadline"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "local address deadline while travelling"
   - "adress registration deadline soon"
   - "told to register adress locally"
-last_reviewed: "2026-06-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-11"
 ---
 

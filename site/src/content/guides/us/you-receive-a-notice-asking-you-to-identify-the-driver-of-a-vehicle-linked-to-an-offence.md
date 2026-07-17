@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a notice asking you to identify the driver of a vehicle linked to an offence"
+seo_title: "Notice asking you to identify the driver"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "camera ticket in mail"
   - "affidavit non liability confusion"
   - "non responsibility declaration confusion"
-last_reviewed: "2026-06-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-22"
 ---
 

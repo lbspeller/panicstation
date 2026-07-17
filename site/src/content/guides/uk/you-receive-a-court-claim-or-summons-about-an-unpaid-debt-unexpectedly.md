@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a court claim or summons about an unpaid debt unexpectedly"
+seo_title: "Unexpected court claim or summons for debt"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "england and wales debt claim"
   - "court cliam for debt"
   - "debt court clame"
-last_reviewed: "2026-05-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-17"
 ---
 

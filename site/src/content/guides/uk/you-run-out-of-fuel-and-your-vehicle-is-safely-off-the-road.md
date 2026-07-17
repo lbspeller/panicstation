@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you run out of fuel and your vehicle is safely off the road"
+seo_title: "Ran out of fuel and safely off the road"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "night time fuel breakdown"
   - "poor visibility roadside"
   - "passengers in stranded car"
-last_reviewed: "2026-05-20"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-20"
 ---
 

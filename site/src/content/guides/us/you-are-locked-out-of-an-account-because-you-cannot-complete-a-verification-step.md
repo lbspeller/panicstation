@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are locked out of an account because you cannot complete a verification step"
+seo_title: "Locked out of account due to verification failure"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "authentcator access lost"
   - "cannot access old email"
   - "lost phone number verification"
-last_reviewed: "2026-06-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-09"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your HVAC unit is leaking water and pooling on the floor"
+seo_title: "HVAC unit leaking water and pooling on floor"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "condenstate line leak"
   - "tenant air con leak"
   - "rented flat air con leaking"
-last_reviewed: "2026-05-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-26"
 ---
 

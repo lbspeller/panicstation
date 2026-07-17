@@ -1,5 +1,6 @@
 ---
 title: "What to do if… police ask you to consent to access your cloud backups or online accounts"
+seo_title: "Police ask for access to cloud or online accounts"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "witness cloud account request"
   - "victim phone data request"
   - "police station account request"
-last_reviewed: "2026-04-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-30"
 ---
 

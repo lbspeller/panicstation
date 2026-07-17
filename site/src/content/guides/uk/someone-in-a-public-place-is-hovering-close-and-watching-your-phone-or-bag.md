@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone in a public place is hovering close and watching your phone or bag"
+seo_title: "Someone hovering near your phone or bag in public"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "crowded shop bag risk"
   - "pick pocket nearby"
   - "fone snatch worry"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-01"
 ---
 

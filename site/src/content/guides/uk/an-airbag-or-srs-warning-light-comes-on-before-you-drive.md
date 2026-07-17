@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an airbag or SRS warning light comes on before you drive"
+seo_title: "Airbag or SRS warning light before driving"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "before motorway trip airbag light"
   - "with child seat airbag warning"
   - "front passenger airbag warning"
-last_reviewed: "2026-04-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-29"
 ---
 

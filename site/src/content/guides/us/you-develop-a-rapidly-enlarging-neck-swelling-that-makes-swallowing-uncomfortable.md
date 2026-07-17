@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you develop a rapidly enlarging neck swelling that makes swallowing uncomfortable"
+seo_title: "Rapidly enlarging neck swelling and swallowing trouble"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "one sided neck swelling"
   - "trouble swalling with neck swelling"
   - "neck sweling getting bigger"
-last_reviewed: "2026-06-12"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-12"
 ---
 

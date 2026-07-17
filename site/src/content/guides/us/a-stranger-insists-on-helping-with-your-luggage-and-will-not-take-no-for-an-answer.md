@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a stranger insists on helping with your luggage and will not take no for an answer"
+seo_title: "Stranger insisting on helping with your luggage"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "crowded terminal bag pressure"
   - "lugage help wont stop"
   - "suitcase harrasment in terminal"
-last_reviewed: "2026-06-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-05"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are told you must be formally served but people keep contacting you without giving details"
+seo_title: "Calls about being served with no details"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "warrant phone scam"
   - "proces server call"
   - "court paprs no details"
-last_reviewed: "2026-05-07"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-07"
 ---
 

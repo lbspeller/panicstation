@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked for local registration proof and you do not have it"
+seo_title: "Asked for local registration proof you do not have"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "registraton confirmation missing"
   - "abroad with missing registration"
   - "travelling without registration proof"
-last_reviewed: "2026-05-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-04"
 ---
 

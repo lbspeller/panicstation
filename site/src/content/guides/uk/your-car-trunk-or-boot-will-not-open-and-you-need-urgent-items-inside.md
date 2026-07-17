@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your car trunk or boot will not open and you need urgent items inside"
+seo_title: "Car trunk or boot will not open with urgent items inside"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "roadside boot problem"
   - "car park boot stuck"
   - "boot stuck away from home"
-last_reviewed: "2026-05-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-23"
 ---
 

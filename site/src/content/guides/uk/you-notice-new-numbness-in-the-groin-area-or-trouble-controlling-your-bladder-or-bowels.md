@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice new numbness in the groin area or trouble controlling your bladder or bowels"
+seo_title: "New groin numbness or bladder and bowel control issues"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "after spinal procedure numbness"
   - "groin numbeness"
   - "cauda equina symtoms"
-last_reviewed: "2026-05-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-16"
 ---
 

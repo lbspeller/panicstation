@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have sudden severe chest pain or heartburn after swallowing a pill"
+seo_title: "Sudden chest pain or heartburn after swallowing a pill"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "after taking painkillers"
   - "after dry swallowing pill"
   - "alone with chest pain"
-last_reviewed: "2026-05-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-09"
 ---
 

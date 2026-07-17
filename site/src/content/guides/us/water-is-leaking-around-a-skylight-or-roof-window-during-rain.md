@@ -1,5 +1,6 @@
 ---
 title: "What to do if… water is leaking around a skylight or roof window during rain"
+seo_title: "Water leaking around a skylight or roof window"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "rental skylight leak"
   - "skylite leaking in rain"
   - "roof windo leaking in rain"
-last_reviewed: "2026-06-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-06"
 ---
 

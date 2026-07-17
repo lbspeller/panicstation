@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a payment arrangement has been cancelled and the full balance is due"
+seo_title: "Payment arrangement cancelled and full balance due"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "car loan full balance"
   - "credit card payment plan"
   - "medical bill payment plan"
-last_reviewed: "2026-06-20"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-20"
 ---
 

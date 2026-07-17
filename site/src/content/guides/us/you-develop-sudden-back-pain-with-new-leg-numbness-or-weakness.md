@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you develop sudden back pain with new leg numbness or weakness"
+seo_title: "Sudden back pain with new leg numbness or weakness"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "worsening leg symptoms"
   - "siatica with leg weakness"
   - "leg numbnes with back pain"
-last_reviewed: "2026-06-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-13"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… police contact you about someone else and ask for their location"
+seo_title: "Police contact asking for someone else's location"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "federal agent asks where someone is"
   - "polce ask where someone is"
   - "police ask where somone is"
-last_reviewed: "2026-06-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-04"
 ---
 

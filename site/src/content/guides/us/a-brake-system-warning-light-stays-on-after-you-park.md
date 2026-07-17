@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a brake system warning light stays on after you park"
+seo_title: "Brake system warning light stays on after parking"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "parked in a lot"
   - "after turning car back on"
   - "unsure safe to continue"
-last_reviewed: "2026-05-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-29"
 ---
 

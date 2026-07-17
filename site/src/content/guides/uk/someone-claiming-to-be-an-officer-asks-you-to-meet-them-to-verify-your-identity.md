@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone claiming to be an officer asks you to meet them to verify your identity"
+seo_title: "Someone claiming to be an officer asks to meet"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "police courier request"
   - "verify identy meeting"
   - "police identiy check"
-last_reviewed: "2026-04-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-30"
 ---
 

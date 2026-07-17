@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are told to work without required protective equipment or training and feel pressured to comply"
+seo_title: "Pressured to work without safety equipment or training"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "saftey training missing"
   - "required training not provided"
   - "pressured to work around hazard"
-last_reviewed: "2026-06-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-10"
 ---
 

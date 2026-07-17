@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a message that an imaging result is urgent and you are not sure what it means"
+seo_title: "Urgent imaging result message received"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "abnormal result or urgent result"
   - "xray result urgent message"
   - "scan resut urgent message"
-last_reviewed: "2026-05-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-18"
 ---
 

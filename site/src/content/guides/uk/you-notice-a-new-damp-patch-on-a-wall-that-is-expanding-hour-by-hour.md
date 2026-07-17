@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice a new damp patch on a wall that is expanding hour by hour"
+seo_title: "New damp patch on wall is expanding fast"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "damp or burst pipe"
   - "leek behind wall"
   - "damp pach on wall"
-last_reviewed: "2026-05-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-14"
 ---
 

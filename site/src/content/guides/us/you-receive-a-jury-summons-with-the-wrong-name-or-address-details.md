@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a jury summons with the wrong name or address details"
+seo_title: "Jury summons with wrong name or address details"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "state jury summons wrong details"
   - "jury duty scam warning"
   - "jury summons identity mix up"
-last_reviewed: "2026-06-20"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-20"
 ---
 

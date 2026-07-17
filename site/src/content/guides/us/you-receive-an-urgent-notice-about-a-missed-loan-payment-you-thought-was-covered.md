@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive an urgent notice about a missed loan payment you thought was covered"
+seo_title: "Urgent notice about a missed loan payment"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "auto loan payment problem"
   - "student loan payment problem"
   - "mortgage payment notice"
-last_reviewed: "2026-06-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-22"
 ---
 

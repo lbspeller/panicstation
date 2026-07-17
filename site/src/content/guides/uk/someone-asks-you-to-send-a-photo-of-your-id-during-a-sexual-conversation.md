@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone asks you to send a photo of your ID during a sexual conversation"
+seo_title: "Asked for ID photo during sexual chat"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "licence photo online"
   - "identiy photo request"
   - "sextortian warning signs"
-last_reviewed: "2026-04-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-30"
 ---
 

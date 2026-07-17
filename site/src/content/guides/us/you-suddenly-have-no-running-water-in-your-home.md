@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you suddenly have no running water in your home"
+seo_title: "Suddenly have no running water in your home"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "private well no water"
   - "watter stopped working"
   - "faucett has no water"
-last_reviewed: "2026-06-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-24"
 ---
 

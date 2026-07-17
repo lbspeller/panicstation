@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone follows you to an elevator and you feel unsafe getting in with them"
+seo_title: "Someone follows you to an elevator and you feel unsafe"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "alone in elevator lobby"
   - "elevater lobby feels unsafe"
   - "someone folowing into elevator"
-last_reviewed: "2026-06-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-06"
 ---
 

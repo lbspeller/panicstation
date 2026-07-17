@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a stair tread, landing, or handrail suddenly feels loose and unsafe to use"
+seo_title: "Stair tread, landing, or handrail feels loose"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "rented home loose stairs"
   - "communal stairs unsafe"
   - "flat block loose stairs"
-last_reviewed: "2026-04-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-28"
 ---
 

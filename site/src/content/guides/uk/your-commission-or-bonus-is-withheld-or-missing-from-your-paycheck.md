@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your commission or bonus is withheld or missing from your paycheck"
+seo_title: "Commission or bonus missing from paycheck"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "end of quarter commission"
   - "year end bonus missing"
   - "last minute payroll change"
-last_reviewed: "2026-05-24"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-24"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive an official notice that your vehicle registration may be suspended or cancelled"
+seo_title: "Official notice of vehicle registration suspension"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -42,7 +43,7 @@ tags:
   - "changed number plate"
   - "car kept off road"
   - "bought used car recently"
-last_reviewed: "2026-05-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-19"
 ---
 

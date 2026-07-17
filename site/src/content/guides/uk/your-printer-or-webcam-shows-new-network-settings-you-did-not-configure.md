@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your printer or webcam shows new network settings you did not configure"
+seo_title: "Printer or webcam shows unknown network settings"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -42,7 +43,7 @@ tags:
   - "home wifi webcam"
   - "shared house wifi"
   - "rented router access"
-last_reviewed: "2026-05-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-27"
 ---
 

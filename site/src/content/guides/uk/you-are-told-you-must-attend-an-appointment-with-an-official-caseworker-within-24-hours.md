@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are told you must attend an appointment with an official caseworker within 24 hours"
+seo_title: "Urgent official caseworker appointment request"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "official appointment scam"
   - "casewoker appointment"
   - "offical appointment"
-last_reviewed: "2026-05-07"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-07"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to identify personal items for return but are unsure what belongs to whom"
+seo_title: "Unsure about identifying personal items for return"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "care home belongings after death"
   - "unsure whose belongins"
   - "jewellry items unclear"
-last_reviewed: "2026-05-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-03"
 ---
 

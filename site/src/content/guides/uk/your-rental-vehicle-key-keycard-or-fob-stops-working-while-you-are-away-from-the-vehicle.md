@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your rental vehicle key, keycard, or fob stops working while you are away from the vehicle"
+seo_title: "Rental vehicle key or fob stops working"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "airport hire car key failed"
   - "bussiness rental key problem"
   - "rentel car key problem"
-last_reviewed: "2026-05-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-27"
 ---
 

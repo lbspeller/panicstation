@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an unfamiliar animal bites you and the skin is broken"
+seo_title: "Unfamiliar animal bite that broke the skin"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "animel bite broke skin"
   - "rabies expossure animal bite"
   - "animal saliva in wound"
-last_reviewed: "2026-06-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-03"
 ---
 

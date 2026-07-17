@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you lose power in part of your home and the breaker panel looks normal"
+seo_title: "Partial power loss with normal-looking breaker panel"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "rented home electrical fault"
   - "garage sockets no power"
   - "medical equipment power cut"
-last_reviewed: "2026-05-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-14"
 ---
 

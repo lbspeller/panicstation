@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your bank account is restricted and you need to verify your identity in person"
+seo_title: "Bank account restricted and needs in-person verification"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "verification or account freeze"
   - "bank acount frozen"
   - "identiy check bank"
-last_reviewed: "2026-05-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-23"
 ---
 

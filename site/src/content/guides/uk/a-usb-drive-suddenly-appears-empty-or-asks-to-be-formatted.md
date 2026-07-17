@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a USB drive suddenly appears empty or asks to be formatted"
+seo_title: "USB drive appears empty or asks to be formatted"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -34,7 +35,7 @@ tags:
   - "usb not recognised"
   - "usb not reconised"
   - "usb drive corupted"
-last_reviewed: "2026-04-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-29"
 ---
 

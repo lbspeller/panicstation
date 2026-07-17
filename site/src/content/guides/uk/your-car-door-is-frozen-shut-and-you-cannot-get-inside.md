@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your car door is frozen shut and you cannot get inside"
+seo_title: "Car door frozen shut and will not open"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "car door frozen at home"
   - "car dore frozen shut"
   - "frozen car dor"
-last_reviewed: "2026-05-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-23"
 ---
 

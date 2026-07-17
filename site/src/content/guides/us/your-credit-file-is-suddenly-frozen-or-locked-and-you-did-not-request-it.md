@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your credit file is suddenly frozen or locked and you did not request it"
+seo_title: "Credit file suddenly frozen or locked unexpectedly"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "job screening credit check blocked"
   - "loan application blocked suddenly"
   - "someone using my ssn"
-last_reviewed: "2026-06-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-28"
 ---
 

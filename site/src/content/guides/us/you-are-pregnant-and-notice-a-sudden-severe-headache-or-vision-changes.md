@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are pregnant and notice a sudden severe headache or vision changes"
+seo_title: "Pregnant with sudden severe headache or vision changes"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "vision changes after 20 weeks"
   - "preeclamsia headache symptoms"
   - "blurry vison while pregnant"
-last_reviewed: "2026-06-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-09"
 ---
 

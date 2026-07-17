@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you find water pooling along a wall and it seems to be spreading"
+seo_title: "Water pooling and spreading along a wall"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "leek near wall"
   - "water pooleing by wall"
   - "rental apartment water leak"
-last_reviewed: "2026-06-15"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-15"
 ---
 

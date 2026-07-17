@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your brake lights stay on after you turn the vehicle off and you worry the battery will drain"
+seo_title: "Brake lights stay on after engine off"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "parked vehicle overnight"
   - "car parked outside"
   - "roadside vehicle shoulder"
-last_reviewed: "2026-06-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-26"
 ---
 

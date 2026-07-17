@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are locked out of your payroll or HR system before a deadline"
+seo_title: "Locked out of payroll or HR system before deadline"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "hr admin locked out"
   - "payrol login not working"
   - "payroll acess denied"
-last_reviewed: "2026-05-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-05"
 ---
 

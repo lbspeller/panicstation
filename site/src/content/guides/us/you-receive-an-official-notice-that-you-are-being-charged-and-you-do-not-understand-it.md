@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive an official notice that you are being charged and you do not understand it"
+seo_title: "Confusing official notice of criminal charges"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "need interpreter at court"
   - "recieved charge notice"
   - "offical court notice"
-last_reviewed: "2026-06-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-22"
 ---
 

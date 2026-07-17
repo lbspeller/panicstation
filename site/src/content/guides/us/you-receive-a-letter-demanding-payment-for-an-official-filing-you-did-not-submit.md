@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a letter demanding payment for an official filing you did not submit"
+seo_title: "Unexpected letter demanding payment for official filing"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -33,7 +34,7 @@ tags:
   - "misdirected official mail"
   - "tax filing penalty letter"
   - "business filing penalty letter"
-last_reviewed: "2026-06-20"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-20"
 ---
 

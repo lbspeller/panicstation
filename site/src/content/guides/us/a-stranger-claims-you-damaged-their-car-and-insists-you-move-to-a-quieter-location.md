@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a stranger claims you damaged their car and insists you move to a quieter location"
+seo_title: "Stranger claims car damage and demands you relocate"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "while driving alone"
   - "stranger says i damged their car"
   - "stranger says i scrached their car"
-last_reviewed: "2026-06-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-02"
 ---
 

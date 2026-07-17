@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a loved one is missing and you have no contact or confirmation"
+seo_title: "Loved one is missing and unreachable"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "missing after appointment"
   - "famly member missing"
   - "freind missing"
-last_reviewed: "2026-05-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-13"
 ---
 

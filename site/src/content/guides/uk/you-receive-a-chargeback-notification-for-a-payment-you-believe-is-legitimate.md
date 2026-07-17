@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a chargeback notification for a payment you believe is legitimate"
+seo_title: "Chargeback notification for a legitimate payment"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "small business payment dispute"
   - "online order chargeback"
   - "uk merchant chargeback"
-last_reviewed: "2026-05-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-11"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a rental car company offers a different vehicle type and you do not feel safe driving it"
+seo_title: "Rental car offered is different and feels unsafe"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "rental contract before signing"
   - "hire car differnt type"
   - "rental car wrong vechicle"
-last_reviewed: "2026-04-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-26"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone near you is acting aggressively or erratically and you feel unsafe"
+seo_title: "Someone nearby is acting aggressively or erratically"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "agressive drunk person"
   - "pub aggression nearby"
   - "public transport confrontation"
-last_reviewed: "2026-04-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-27"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are contacted by a regulator about possible violations and are unsure how to respond"
+seo_title: "Contacted by a regulator about possible violations"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -43,7 +44,7 @@ tags:
   - "regulater contacted my business"
   - "state regulator contacted me"
   - "federal regulator contacted me"
-last_reviewed: "2026-06-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-09"
 ---
 

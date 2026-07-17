@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your Apple ID or Google Account shows a new device being set up"
+seo_title: "Unknown device sign-in alert on your account"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "apple id or icloud"
   - "google acount new device"
   - "new phon added"
-last_reviewed: "2026-06-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-25"
 ---
 

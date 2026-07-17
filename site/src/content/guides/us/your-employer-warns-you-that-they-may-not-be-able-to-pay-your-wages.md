@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your employer warns you that they may not be able to pay your wages"
+seo_title: "Employer warns they may not pay your wages"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "next payday uncertainty"
   - "payrol may be late"
   - "paychek may be late"
-last_reviewed: "2026-06-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-10"
 ---
 

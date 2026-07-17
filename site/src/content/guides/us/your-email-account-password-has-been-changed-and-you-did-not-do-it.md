@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your email account password has been changed and you did not do it"
+seo_title: "Email account password changed without your permission"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "work email password changed"
   - "emial password changed"
   - "pasword changed email"
-last_reviewed: "2026-06-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-28"
 ---
 

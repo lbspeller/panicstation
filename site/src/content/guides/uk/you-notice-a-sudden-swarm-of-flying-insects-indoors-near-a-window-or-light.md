@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice a sudden swarm of flying insects indoors near a window or light"
+seo_title: "Sudden swarm of flying insects indoors"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "entry point crack gap"
   - "flyng insects indoors"
   - "insect sworm indoors"
-last_reviewed: "2026-05-15"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-15"
 ---
 

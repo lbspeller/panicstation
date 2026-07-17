@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are contacted about workplace benefits after someone has died and a deadline is approaching"
+seo_title: "Workplace benefits deadline after a death"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "person died and paperwork urgent"
   - "beneficary listed after death"
   - "benifits deadline after death"
-last_reviewed: "2026-06-08"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-08"
 ---
 

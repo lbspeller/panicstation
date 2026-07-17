@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you find your name and contact details posted alongside sexual content without your consent"
+seo_title: "Personal details posted with sexual content"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "porn site doxxing"
   - "uk sexual content posted online"
   - "under 18 sexual content online"
-last_reviewed: "2026-05-10"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-10"
 ---
 

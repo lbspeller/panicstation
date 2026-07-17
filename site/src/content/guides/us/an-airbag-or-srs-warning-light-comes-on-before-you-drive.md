@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an airbag or SRS warning light comes on before you drive"
+seo_title: "Airbag or SRS warning light before driving"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -34,7 +35,7 @@ tags:
   - "airbag warning in used car"
   - "airbag waring light"
   - "air bag warrning light"
-last_reviewed: "2026-06-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-03"
 ---
 

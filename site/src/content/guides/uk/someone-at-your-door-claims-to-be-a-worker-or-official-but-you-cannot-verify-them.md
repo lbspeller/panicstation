@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone at your door claims to be a worker or official but you cannot verify them"
+seo_title: "Unverified worker or official at your door"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "utility worker or impostor"
   - "alone at home with caller"
   - "renter unexpected repair visit"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-01"
 ---
 

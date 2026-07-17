@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone threatens to spread false claims about consent unless you stay silent"
+seo_title: "Threatened with false claims about consent"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "threat in direct messages"
   - "threatened to lie about concent"
   - "they say i consentd"
-last_reviewed: "2026-06-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-05"
 ---
 

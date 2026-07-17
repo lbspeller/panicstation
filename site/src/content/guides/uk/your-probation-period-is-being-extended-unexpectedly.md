@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your probation period is being extended unexpectedly"
+seo_title: "Probation period extended unexpectedly"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "probation peroid extended"
   - "new starter probation problem"
   - "workplace probation uncertainty"
-last_reviewed: "2026-05-08"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-08"
 ---
 

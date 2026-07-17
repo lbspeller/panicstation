@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone keeps trying to isolate you from your friends at a party"
+seo_title: "Someone keeps trying to isolate you at a party"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "after drinking at a party"
   - "someone keeps trying to seperate me"
   - "cannot find my freinds at party"
-last_reviewed: "2026-06-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-05"
 ---
 

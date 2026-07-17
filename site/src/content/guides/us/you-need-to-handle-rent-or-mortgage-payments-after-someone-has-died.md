@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you need to handle rent or mortgage payments after someone has died"
+seo_title: "Handling rent or mortgage payments after a death"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "no executor yet"
   - "lease after death"
   - "loan after death"
-last_reviewed: "2026-06-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-17"
 ---
 

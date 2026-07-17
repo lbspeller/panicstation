@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you cannot find the identity documents you need for an official process"
+seo_title: "Missing identity documents for an official process"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "bereavement identity check"
   - "urgent official paperwork"
   - "recent death documents"
-last_reviewed: "2026-05-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-04"
 ---
 

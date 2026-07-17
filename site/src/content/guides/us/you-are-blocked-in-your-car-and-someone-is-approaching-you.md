@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are blocked in your car and someone is approaching you"
+seo_title: "Blocked in your car and someone is approaching"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "blocked in parking garage"
   - "alone in parked car"
   - "children in blocked car"
-last_reviewed: "2026-06-08"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-08"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a notice that your goods or property are being held pending verification"
+seo_title: "Notice that goods or property are held for verification"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "prison property held"
   - "propety held notice"
   - "varification notice property"
-last_reviewed: "2026-06-21"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-21"
 ---
 

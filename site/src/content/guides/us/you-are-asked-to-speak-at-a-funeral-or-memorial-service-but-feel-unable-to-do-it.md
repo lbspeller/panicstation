@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to speak at a funeral or memorial service but feel unable to do it"
+seo_title: "Unable to speak at a funeral or memorial service"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "religious service reading panic"
   - "memorial speach panic"
   - "eulogy panick"
-last_reviewed: "2026-06-08"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-08"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a coworker repeatedly asks intrusive questions about your sex life"
+seo_title: "Coworker repeatedly asking intrusive sexual questions"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "coworker asks sexual questions in messages"
   - "coworker asks sexual questions after shifts"
   - "coworker asks sexual questions repeatedly"
-last_reviewed: "2026-05-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-30"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked for a customs reference number and cannot find the confirmation"
+seo_title: "Customs reference number or confirmation missing"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "declaration refrence lost"
   - "postage customs reference missing"
   - "international parcel customs confirmation"
-last_reviewed: "2026-05-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-04"
 ---
 

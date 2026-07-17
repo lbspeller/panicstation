@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an indoor air-conditioning unit starts dripping water or leaking unexpectedly"
+seo_title: "Indoor air-conditioning unit leaking water"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "ac leak above ceiling"
   - "ac leak during hot weather"
   - "indoor ac water damage"
-last_reviewed: "2026-06-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-03"
 ---
 

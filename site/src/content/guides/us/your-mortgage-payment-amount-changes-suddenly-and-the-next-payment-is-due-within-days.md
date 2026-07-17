@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your mortgage payment amount changes suddenly and the next payment is due within days"
+seo_title: "Mortgage payment changed suddenly before due date"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "escrow versus interest change"
   - "fixed rate but payment changed"
   - "payment due within days"
-last_reviewed: "2026-07-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-01"
 ---
 

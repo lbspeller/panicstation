@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a neighbour or acquaintance is banging on your door or wall and the behaviour is escalating"
+seo_title: "Neighbour or acquaintance banging on your door or wall"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "neighbour bangng on door"
   - "neibor banging on wall"
   - "late night door banging"
-last_reviewed: "2026-04-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-27"
 ---
 

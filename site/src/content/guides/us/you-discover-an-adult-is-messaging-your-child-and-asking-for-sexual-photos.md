@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you discover an adult is messaging your child and asking for sexual photos"
+seo_title: "you discover an adult is messaging your child for sexual photos"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "sexual photos or blackmail"
   - "snapchat groomng"
   - "sextorsion threat"
-last_reviewed: "2026-06-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-13"
 ---
 

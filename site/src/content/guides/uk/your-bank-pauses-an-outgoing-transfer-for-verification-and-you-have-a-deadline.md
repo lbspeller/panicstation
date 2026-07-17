@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your bank pauses an outgoing transfer for verification and you have a deadline"
+seo_title: "Bank transfer paused for verification with a deadline"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "payement stuck pending"
   - "urgent rent payment delayed"
   - "property completion payment delayed"
-last_reviewed: "2026-05-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-23"
 ---
 

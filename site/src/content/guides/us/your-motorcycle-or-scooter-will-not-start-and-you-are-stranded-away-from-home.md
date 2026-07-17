@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your motorcycle or scooter will not start and you are stranded away from home"
+seo_title: "Motorcycle or scooter will not start while stranded"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "stuck with scooter far from home"
   - "motercycle wont start"
   - "scootar wont start"
-last_reviewed: "2026-07-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-01"
 ---
 

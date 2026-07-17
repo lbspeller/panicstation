@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an agent, photographer, or scout asks for explicit photos as a condition of an opportunity"
+seo_title: "Agent or scout asks for explicit photos"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "online scout asks for nudes"
   - "minor asked for explicit photos"
   - "adult asked for explicit photos"
-last_reviewed: "2026-06-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-02"
 ---
 

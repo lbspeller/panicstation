@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your employer says they may withdraw your work visa sponsorship"
+seo_title: "Employer says they may withdraw visa sponsorship"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "authorized stay confusion"
   - "h-1b withdrawal confusion"
   - "h1b withdrawl worry"
-last_reviewed: "2026-06-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-17"
 ---
 

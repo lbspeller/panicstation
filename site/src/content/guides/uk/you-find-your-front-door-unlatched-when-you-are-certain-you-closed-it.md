@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you find your front door unlatched when you are certain you closed it"
+seo_title: "Front door found unlatched when you expected it closed"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "returning home alone"
   - "keys accounted for"
   - "flat door unlatched"
-last_reviewed: "2026-05-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-11"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to decide about donating a loved one’s body to medical science with little time"
+seo_title: "Urgent decision about body donation to science"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "medcial science body donation"
   - "body donation transfer questions"
   - "whole-body donation eligibility unclear"
-last_reviewed: "2026-06-07"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-07"
 ---
 

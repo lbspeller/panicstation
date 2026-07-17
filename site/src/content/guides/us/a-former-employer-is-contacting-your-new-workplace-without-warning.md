@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a former employer is contacting your new workplace without warning"
+seo_title: "Former employer contacting your new workplace"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "after requesting accommodation"
   - "former employeer contacting workplace"
   - "former employer contacting workpalce"
-last_reviewed: "2026-06-13"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-13"
 ---
 

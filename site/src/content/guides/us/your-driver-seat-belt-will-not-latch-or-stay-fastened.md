@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your driver seat belt will not latch or stay fastened"
+seo_title: "Driver seat belt will not latch or stay fastened"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "driver seat belt fails away from home"
   - "driver seat belt fails before driving"
   - "seat belt wont clik"
-last_reviewed: "2026-06-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-01"
 ---
 

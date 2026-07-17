@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone you know keeps showing up at places you regularly go"
+seo_title: "Someone you know keeps appearing near you"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -33,7 +34,7 @@ tags:
   - "someone waiting near my building"
   - "repeatd unwanted encounters"
   - "aquaintance keeps showing up"
-last_reviewed: "2026-06-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-03"
 ---
 

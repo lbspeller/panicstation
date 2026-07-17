@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an officer asks for your name and address and you are unsure what to say"
+seo_title: "Officer asks for your name and address"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "england wales police stop"
   - "scotland police stop"
   - "northern ireland police stop"
-last_reviewed: "2026-04-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-29"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your plug-in hybrid has a fault mode or reduced power warning"
+seo_title: "Plug-in hybrid fault or reduced power warning"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "hybrid falut mode"
   - "ev powr limited warning"
   - "after pulled over safely"
-last_reviewed: "2026-07-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-03"
 ---
 

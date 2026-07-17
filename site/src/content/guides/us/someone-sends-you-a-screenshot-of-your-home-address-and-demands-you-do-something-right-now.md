@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone sends you a screenshot of your home address and demands you do something right now"
+seo_title: "Threatening message with your home address"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "social media address threat"
   - "text message address threat"
   - "email threat with home address"
-last_reviewed: "2026-06-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-05"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you see someone checking car door handles in a parking lot or garage"
+seo_title: "Someone checking car door handles in a parking lot"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -33,7 +34,7 @@ tags:
   - "suspected car park thief"
   - "car park suspicous person"
   - "car door handels being tried"
-last_reviewed: "2026-05-21"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-21"
 ---
 

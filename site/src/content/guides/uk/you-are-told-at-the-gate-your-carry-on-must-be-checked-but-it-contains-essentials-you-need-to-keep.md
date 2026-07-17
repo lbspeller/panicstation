@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are told at the gate your carry-on must be checked but it contains essentials you need to keep"
+seo_title: "Gate-checked carry-on contains essentials"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "plane side bag check"
   - "cary on being checked"
   - "bag check at boreding"
-last_reviewed: "2026-05-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-06"
 ---
 

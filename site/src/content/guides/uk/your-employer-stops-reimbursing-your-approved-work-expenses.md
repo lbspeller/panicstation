@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your employer stops reimbursing your approved work expenses"
+seo_title: "Employer stopped reimbursing approved work expenses"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "expenses not in payslip"
   - "reimbursment not paid"
   - "expences not paid"
-last_reviewed: "2026-05-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-25"
 ---
 

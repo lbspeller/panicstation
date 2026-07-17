@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive alerts that accounts are being accessed after a death and you suspect identity misuse"
+seo_title: "Account alerts after a death and suspected identity misuse"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "account takeover after bereavement"
   - "executor fraud worry"
   - "deceased acount accessed"
-last_reviewed: "2026-05-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-19"
 ---
 

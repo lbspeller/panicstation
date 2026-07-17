@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you need to access a deceased person's locked safety deposit box"
+seo_title: "Accessing a deceased person's locked safety deposit box"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "after a death"
   - "bereavement paperwork confusion"
   - "estate documents locked away"
-last_reviewed: "2026-05-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-14"
 ---
 

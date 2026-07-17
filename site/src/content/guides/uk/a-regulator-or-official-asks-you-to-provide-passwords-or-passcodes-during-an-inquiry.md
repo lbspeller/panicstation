@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a regulator or official asks you to provide passwords or passcodes during an inquiry"
+seo_title: "Regulator or official asks for passwords or passcodes"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "passcode request or production notice"
   - "work account or personal account"
   - "passwords at compliance visit"
-last_reviewed: "2026-04-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-28"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your phone storage is full and it stops saving photos, videos, or messages"
+seo_title: "Phone storage full and not saving files"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "phone memory full"
   - "fone storage full"
   - "cant save phone photos"
-last_reviewed: "2026-07-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-02"
 ---
 

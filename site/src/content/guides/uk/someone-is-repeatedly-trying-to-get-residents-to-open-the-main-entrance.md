@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone is repeatedly trying to get residents to open the main entrance"
+seo_title: "Stranger repeatedly trying to enter building"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "shared hallway safety"
   - "buzzing flaats"
   - "communal dor concern"
-last_reviewed: "2026-05-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-16"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are told you cannot leave the area due to an investigation and have travel plans"
+seo_title: "Travel restrictions during an investigation"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "pretrial travel confusion"
   - "travle restriction confusion"
   - "investgation travel restriction"
-last_reviewed: "2026-06-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-11"
 ---
 

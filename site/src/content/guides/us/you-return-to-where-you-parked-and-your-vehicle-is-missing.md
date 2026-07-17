@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you return to where you parked and your vehicle is missing"
+seo_title: "Vehicle missing from parking space"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -33,7 +34,7 @@ tags:
   - "event parking relocation"
   - "vehical towed after parking"
   - "impund lot confusion"
-last_reviewed: "2026-06-23"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-23"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to declare cash or valuables at customs and are unsure what to report"
+seo_title: "Unsure about declaring cash or valuables at customs"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "arriving in great britain"
   - "arriving in northern ireland"
   - "travelling as a family"
-last_reviewed: "2026-05-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-03"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you smell burning from your vehicle and have pulled over safely"
+seo_title: "Smell of burning from your vehicle"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "parked after burning smell"
   - "car smells burnign"
   - "vehical smells burning"
-last_reviewed: "2026-05-21"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-21"
 ---
 

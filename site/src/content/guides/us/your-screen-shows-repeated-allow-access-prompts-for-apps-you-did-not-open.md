@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your screen shows repeated allow access prompts for apps you did not open"
+seo_title: "Repeated allow access prompts on your screen"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "work phone access prompts"
   - "allow acess prompts"
   - "permision prompts repeating"
-last_reviewed: "2026-07-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-03"
 ---
 

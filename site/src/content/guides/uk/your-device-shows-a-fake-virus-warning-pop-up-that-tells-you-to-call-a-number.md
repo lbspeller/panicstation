@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your device shows a fake virus warning pop-up that tells you to call a number"
+seo_title: "Fake virus warning pop-up with phone number"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "on a shared computer"
   - "after giving card details"
   - "after giving remote access"
-last_reviewed: "2026-05-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-25"
 ---
 

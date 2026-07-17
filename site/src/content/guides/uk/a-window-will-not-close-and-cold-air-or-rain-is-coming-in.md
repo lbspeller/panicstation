@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a window will not close and cold air or rain is coming in"
+seo_title: "Window will not close and weather is coming in"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "rented home window broken"
   - "tenant window will not close"
   - "storm damaged window"
-last_reviewed: "2026-04-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-29"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a funeral provider says a body must be moved today due to capacity limits"
+seo_title: "funeral provider says body must be moved today"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "out of state body transfer pressure"
   - "funeral home capcity limit"
   - "funral provider says move today"
-last_reviewed: "2026-05-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-30"
 ---
 

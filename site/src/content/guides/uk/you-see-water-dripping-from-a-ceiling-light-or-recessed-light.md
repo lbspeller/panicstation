@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you see water dripping from a ceiling light or recessed light"
+seo_title: "Water dripping from a ceiling light fixture"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "ceiling lite dripping water"
   - "recest light leaking water"
   - "rented flat leaking light"
-last_reviewed: "2026-05-20"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-20"
 ---
 

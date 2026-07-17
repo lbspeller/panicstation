@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a voicemail from someone claiming to be police about an incident"
+seo_title: "Voicemail from someone claiming to be police"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "before calling back"
   - "police voicemal incident"
   - "police voicmail message"
-last_reviewed: "2026-06-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-22"
 ---
 

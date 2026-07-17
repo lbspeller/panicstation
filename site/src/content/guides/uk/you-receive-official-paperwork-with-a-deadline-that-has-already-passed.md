@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive official paperwork with a deadline that has already passed"
+seo_title: "Official paperwork received after deadline passed"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "paperwork after illness"
   - "offical paperwork arrived late"
   - "respnd by date passed"
-last_reviewed: "2026-05-20"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-20"
 ---
 

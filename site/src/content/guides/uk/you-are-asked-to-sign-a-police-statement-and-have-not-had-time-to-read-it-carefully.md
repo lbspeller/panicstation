@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to sign a police statement and have not had time to read it carefully"
+seo_title: "Asked to sign a police statement without reading it"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -40,7 +41,7 @@ tags:
   - "voluntary interview statement pressure"
   - "under eighteen police statement"
   - "vulnerable adult police statement"
-last_reviewed: "2026-05-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-04"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a message that someone in custody has restricted contact and you are unsure what it means"
+seo_title: "Message about restricted contact in custody"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "restriced contact message"
   - "jail mesage says restricted"
   - "federal custody contact restriction"
-last_reviewed: "2026-06-20"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-20"
 ---
 

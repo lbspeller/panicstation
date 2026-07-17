@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have new abdominal bloating and vomiting after recent surgery"
+seo_title: "Abdominal bloating and vomiting after surgery"
 jurisdiction: "USA"
 category: "Health & medical scares"
 tags:
@@ -33,7 +34,7 @@ tags:
   - "possible ileus after surgery"
   - "gas pain after surgery"
   - "stomach flu after surgery"
-last_reviewed: "2026-06-15"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-15"
 ---
 

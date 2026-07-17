@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you find your name and contact details posted alongside sexual content without your consent"
+seo_title: "Personal details posted with sexual content"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "explicit post includes phone number"
   - "contact detials posted sexually"
   - "sexul content with my name"
-last_reviewed: "2026-06-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-14"
 ---
 

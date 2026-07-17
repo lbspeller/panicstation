@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a date repeatedly ignores your no and keeps pressuring you for sex by text"
+seo_title: "Date repeatedly pressuring you for sex by text"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "date knows my address"
   - "date keeps presuring me"
   - "sexual coersion messages"
-last_reviewed: "2026-05-30"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-30"
 ---
 

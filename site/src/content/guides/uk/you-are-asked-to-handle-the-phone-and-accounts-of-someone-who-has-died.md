@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to handle the phone and accounts of someone who has died"
+seo_title: "Handling a phone and accounts after a death"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "unexpected death admin"
   - "bereavment phone admin"
   - "deceased persons acounts"
-last_reviewed: "2026-05-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-03"
 ---
 

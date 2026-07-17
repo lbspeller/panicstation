@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are placed on paid leave during your notice period with no clear explanation"
+seo_title: "Placed on paid leave during notice period"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "resignation period confusion"
   - "gardn leave notice"
   - "gardening leav notice"
-last_reviewed: "2026-05-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-05"
 ---
 

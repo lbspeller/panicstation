@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you cannot access cash from an ATM or cash machine"
+seo_title: "Cannot withdraw cash from an ATM"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "rural area atm unavailable"
   - "atm is not workng"
   - "atm is out of cahs"
-last_reviewed: "2026-06-12"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-12"
 ---
 

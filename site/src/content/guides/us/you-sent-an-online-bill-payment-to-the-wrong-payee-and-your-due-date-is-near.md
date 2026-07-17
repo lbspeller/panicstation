@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you sent an online bill payment to the wrong payee and your due date is near"
+seo_title: "Sent bill payment to wrong payee near due date"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "large mistaken bill payment"
   - "online bill paymet wrong payee"
   - "wrong payee bill paymnt"
-last_reviewed: "2026-06-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-03"
 ---
 

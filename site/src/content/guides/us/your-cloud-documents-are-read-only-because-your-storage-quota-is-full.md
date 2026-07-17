@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your cloud documents are read-only because your storage quota is full"
+seo_title: "Cloud documents read-only due to full storage"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "personal cloud account full"
   - "work cloud account full"
   - "urgent document access needed"
-last_reviewed: "2026-06-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-27"
 ---
 

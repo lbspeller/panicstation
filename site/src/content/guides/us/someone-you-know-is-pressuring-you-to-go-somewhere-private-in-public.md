@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone you know is pressuring you to go somewhere private in public"
+seo_title: "Someone pressuring you to go somewhere private"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "someone is escalating near a parking lot"
   - "someone is trying to isloate me"
   - "someone wants a seculded place"
-last_reviewed: "2026-06-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-06"
 ---
 

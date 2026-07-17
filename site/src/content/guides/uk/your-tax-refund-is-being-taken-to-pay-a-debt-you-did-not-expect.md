@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your tax refund is being taken to pay a debt you did not expect"
+seo_title: "Tax refund reduced to pay unexpected debt"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "simple assessment surprise debt"
   - "tax refind taken"
   - "tax repaiment withheld"
-last_reviewed: "2026-05-08"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-08"
 ---
 

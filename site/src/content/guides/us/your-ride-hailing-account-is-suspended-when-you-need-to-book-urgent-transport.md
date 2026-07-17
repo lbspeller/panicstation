@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your ride-hailing account is suspended when you need to book urgent transport"
+seo_title: "Ride-hailing account suspended when needing urgent transport"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -33,7 +34,7 @@ tags:
   - "lyft acount deactivated"
   - "need medical ride today"
   - "missed appointment risk"
-last_reviewed: "2026-07-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-03"
 ---
 

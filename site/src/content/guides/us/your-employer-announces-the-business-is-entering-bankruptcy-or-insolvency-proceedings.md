@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your employer announces the business is entering bankruptcy or insolvency proceedings"
+seo_title: "Employer announces bankruptcy or insolvency proceedings"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "hourly worker bankruptcy"
   - "salaried worker bankruptcy"
   - "union workplace bankruptcy"
-last_reviewed: "2026-06-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-29"
 ---
 

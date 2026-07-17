@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are removed from a client account and the client asks what happened"
+seo_title: "Removed from client account and client asks why"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "worried about job loss"
   - "workplace account issue"
   - "client acct removed suddenly"
-last_reviewed: "2026-05-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-05"
 ---
 

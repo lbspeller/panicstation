@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you have sudden heavy vaginal bleeding and feel dizzy"
+seo_title: "Sudden heavy vaginal bleeding and dizziness"
 jurisdiction: "UK"
 category: "Health & medical scares"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "period bleading feels heavy"
   - "on blood thinners bleeding"
   - "coil and unusual bleeding"
-last_reviewed: "2026-05-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-09"
 ---
 

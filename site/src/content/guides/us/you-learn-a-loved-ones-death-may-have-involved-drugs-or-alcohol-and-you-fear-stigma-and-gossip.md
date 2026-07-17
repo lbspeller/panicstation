@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you learn a loved one’s death may have involved drugs or alcohol and you fear stigma and gossip"
+seo_title: "Managing gossip and stigma after a sudden death"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "cause of death unknown"
   - "cause of deth unknown"
   - "toxicology pendng"
-last_reviewed: "2026-06-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-16"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your insurance payment failed and you are warned your coverage will lapse"
+seo_title: "Insurance payment failed and coverage lapse warning"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "homeowners insurance payment failed"
   - "insurence payment failed"
   - "insurance premuim overdue"
-last_reviewed: "2026-06-11"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-11"
 ---
 

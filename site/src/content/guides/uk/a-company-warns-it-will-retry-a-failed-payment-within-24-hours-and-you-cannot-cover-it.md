@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a company warns it will retry a failed payment within 24 hours and you cannot cover it"
+seo_title: "Company warns of payment retry you cannot cover"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "direct debbit retry"
   - "bill retry before payday"
   - "direct debit before wages"
-last_reviewed: "2026-04-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-25"
 ---
 

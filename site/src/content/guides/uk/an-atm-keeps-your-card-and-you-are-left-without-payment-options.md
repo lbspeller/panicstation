@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an ATM keeps your card and you are left without payment options"
+seo_title: "ATM kept your card and you have no money"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "cant pay for transport"
   - "cant pay for hotel"
   - "without cash away from home"
-last_reviewed: "2026-04-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-29"
 ---
 

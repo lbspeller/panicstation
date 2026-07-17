@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your airline says your travel documents do not meet the destination entry requirements"
+seo_title: "Airline says travel documents are invalid"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "connecting flight document problem"
   - "passport expiary problem"
   - "airline says visa requred"
-last_reviewed: "2026-05-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-22"
 ---
 

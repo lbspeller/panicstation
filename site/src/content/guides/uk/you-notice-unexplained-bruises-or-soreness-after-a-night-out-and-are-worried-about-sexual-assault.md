@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice unexplained bruises or soreness after a night out and are worried about sexual assault"
+seo_title: "Unexplained bruises or soreness after a night out"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "after clubbing feel unsafe"
   - "brusing after night out"
   - "sore after nite out"
-last_reviewed: "2026-05-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-16"
 ---
 

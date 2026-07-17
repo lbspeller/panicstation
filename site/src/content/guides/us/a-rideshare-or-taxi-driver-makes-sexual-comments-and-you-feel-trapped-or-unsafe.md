@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a rideshare or taxi driver makes sexual comments and you feel trapped or unsafe"
+seo_title: "a rideshare or taxi driver makes sexual comments"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "late night taxi ride"
   - "rideshare drivver sexual comments"
   - "taxi driver innapropriate talk"
-last_reviewed: "2026-06-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-01"
 ---
 

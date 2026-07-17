@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your bank blocks your card while you are abroad"
+seo_title: "bank blocks your card while abroad"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "abroad with no backup card"
   - "card declind abroad"
   - "bank froud alert abroad"
-last_reviewed: "2026-05-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-03"
 ---
 

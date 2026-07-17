@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are served with a protection or restraining order"
+seo_title: "Served with a protection or restraining order"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "protection order after deputy service"
   - "restraning order filed against me"
   - "protecton order papers arrived"
-last_reviewed: "2026-06-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-09"
 ---
 

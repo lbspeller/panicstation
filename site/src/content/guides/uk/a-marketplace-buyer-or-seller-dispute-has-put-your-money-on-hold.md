@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a marketplace buyer or seller dispute has put your money on hold"
+seo_title: "Marketplace dispute has put your money on hold"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "marketplace payment hold uk"
   - "high value item dispute"
   - "market place money held"
-last_reviewed: "2026-04-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-27"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your phone shows emergency-calls-only or no service when you know coverage is normal"
+seo_title: "Phone shows emergency calls only or no service"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "uk mobile phone issue"
   - "emergancy calls only"
   - "no servce phone"
-last_reviewed: "2026-05-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-27"
 ---
 

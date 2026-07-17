@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a relative in hospice is near death or may have died"
+seo_title: "Relative in hospice is near death or has died"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "at home hospice care"
   - "care home hospice care"
   - "family at bedside"
-last_reviewed: "2026-04-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-28"
 ---
 

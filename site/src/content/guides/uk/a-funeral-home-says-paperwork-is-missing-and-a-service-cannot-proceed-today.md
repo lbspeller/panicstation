@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a funeral home says paperwork is missing and a service cannot proceed today"
+seo_title: "Funeral home says paperwork is missing today"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "burial form confused with green form"
   - "funral paperwork missing"
   - "paperwork mising for funeral"
-last_reviewed: "2026-04-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-26"
 ---
 

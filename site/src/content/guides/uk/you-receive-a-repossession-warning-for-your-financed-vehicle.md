@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you receive a repossession warning for your financed vehicle"
+seo_title: "Receiving a repossession warning for your vehicle"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "financed vehical warning"
   - "near deadline car finance"
   - "regulated car finance arrears"
-last_reviewed: "2026-05-18"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-18"
 ---
 

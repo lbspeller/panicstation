@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your email provider warns it will block outgoing mail due to unusual activity"
+seo_title: "Email provider warns of unusual activity and blocks mail"
 jurisdiction: "UK"
 category: "Technology & digital loss"
 tags:
@@ -33,7 +34,7 @@ tags:
   - "fake provider email warning"
   - "email acount unusual activity"
   - "mail box rules changed"
-last_reviewed: "2026-05-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-25"
 ---
 

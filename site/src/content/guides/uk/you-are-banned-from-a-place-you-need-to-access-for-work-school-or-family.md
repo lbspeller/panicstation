@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are banned from a place you need to access for work, school, or family"
+seo_title: "Banned from a place you need to access"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "exclusion zone confusion"
   - "restraning order exclusion"
   - "bail condtions confusion"
-last_reviewed: "2026-05-19"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-19"
 ---
 

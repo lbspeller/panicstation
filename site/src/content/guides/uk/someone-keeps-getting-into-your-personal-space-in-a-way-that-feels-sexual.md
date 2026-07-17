@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone keeps getting into your personal space in a way that feels sexual"
+seo_title: "Someone keeps invading your personal space sexually"
 jurisdiction: "UK"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "bar club harassment"
   - "persnal space"
   - "accidental toutching"
-last_reviewed: "2026-05-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-01"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your electronic monitoring device malfunctions and you are told it could be treated as a violation"
+seo_title: "Electronic monitoring device malfunction or error"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -41,7 +42,7 @@ tags:
   - "prison licence tag issue"
   - "eletronic tag malfunction"
   - "monitering device not working"
-last_reviewed: "2026-04-29"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-29"
 ---
 

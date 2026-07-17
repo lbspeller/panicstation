@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your carbon monoxide detector is beeping, chirping, or showing a fault signal"
+seo_title: "Carbon monoxide detector beeping or showing fault"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "apartment co detector fault"
   - "carben monoxide detector beeping"
   - "carbon monixide alarm fault"
-last_reviewed: "2026-06-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-27"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are facing conflict over an ex-partner attending a funeral or memorial service"
+seo_title: "Conflict over an ex-partner at a funeral or memorial"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "memorial venue tension"
   - "funral guest list conflict"
   - "memoral service conflict"
-last_reviewed: "2026-06-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-17"
 ---
 

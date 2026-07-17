@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your brake pedal feels soft or unusually low while the vehicle is stopped"
+seo_title: "Brake pedal feels soft or low while stopped"
 jurisdiction: "UK"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "while stopped in car"
   - "parked before journey"
   - "stationary brake check"
-last_reviewed: "2026-05-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-22"
 ---
 

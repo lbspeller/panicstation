@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you notice a ceiling beam, joist, or rafter is cracked or out of line"
+seo_title: "Cracked or sagging ceiling beam, joist, or rafter"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "not sure if beam or joist"
   - "craked ceiling beam"
   - "raftr looks cracked"
-last_reviewed: "2026-06-17"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-17"
 ---
 

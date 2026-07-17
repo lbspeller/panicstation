@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are pressured to attend a private work meeting and feel unsafe"
+seo_title: "Pressured to attend a private work meeting"
 jurisdiction: "USA"
 category: "Work & employment crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "coworker private location meeting"
   - "one-to-one meeeting feels unsafe"
   - "private work meetng feels unsafe"
-last_reviewed: "2026-06-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-09"
 ---
 

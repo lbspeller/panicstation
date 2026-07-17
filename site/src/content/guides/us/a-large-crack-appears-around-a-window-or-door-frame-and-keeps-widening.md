@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a large crack appears around a window or door frame and keeps widening"
+seo_title: "Large widening crack around window or door frame"
 jurisdiction: "USA"
 category: "Home & property emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "after storm or earthquake"
   - "rental home wall crack"
   - "older home new crack"
-last_reviewed: "2026-05-31"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-31"
 ---
 

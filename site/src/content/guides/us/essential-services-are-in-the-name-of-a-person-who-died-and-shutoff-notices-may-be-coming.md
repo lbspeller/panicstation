@@ -1,5 +1,6 @@
 ---
 title: "What to do if… essential services are in the name of a person who died and shutoff notices may be coming"
+seo_title: "Essential services in name of deceased person"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "vacant home after death"
   - "utilty shutoff notice"
   - "utlity bill after death"
-last_reviewed: "2026-06-16"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-16"
 ---
 

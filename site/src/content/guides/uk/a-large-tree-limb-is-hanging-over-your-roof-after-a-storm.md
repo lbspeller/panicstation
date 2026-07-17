@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a large tree limb is hanging over your roof after a storm"
+seo_title: "Large tree limb hanging over roof after storm"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "neighbour tree or my tree"
   - "tree lim over roof"
   - "branch over roff"
-last_reviewed: "2026-04-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-26"
 ---
 

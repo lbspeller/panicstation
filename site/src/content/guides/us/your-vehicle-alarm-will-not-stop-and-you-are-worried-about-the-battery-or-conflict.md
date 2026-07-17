@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your vehicle alarm will not stop and you are worried about the battery or conflict"
+seo_title: "Vehicle alarm will not stop sounding"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "car alrm wont stop"
   - "keyfob not working"
   - "parked car alarm at night"
-last_reviewed: "2026-07-04"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-04"
 ---
 

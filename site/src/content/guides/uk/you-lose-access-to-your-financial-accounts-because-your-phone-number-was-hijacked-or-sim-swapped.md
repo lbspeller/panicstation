@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you lose access to your financial accounts because your phone number was hijacked or SIM swapped"
+seo_title: "Financial account access lost to SIM swap"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "mobile account takeover"
   - "banking app access lost"
   - "sms verification intercepted"
-last_reviewed: "2026-05-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-14"
 ---
 

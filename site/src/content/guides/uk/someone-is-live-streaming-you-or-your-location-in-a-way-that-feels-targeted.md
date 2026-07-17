@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone is live-streaming you or your location in a way that feels targeted"
+seo_title: "Someone is live-streaming you or your location"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "lifestreaming my location"
   - "in public being filmed"
   - "outside my home being streamed"
-last_reviewed: "2026-05-02"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-02"
 ---
 

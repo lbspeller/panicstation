@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your pay statement shows an unexpected deduction you do not recognise"
+seo_title: "Unexpected deduction on your pay statement"
 jurisdiction: "UK"
 category: "Work & employment crises"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "attachment of earnings confusion"
   - "payslip deducion error"
   - "payslip dedcution error"
-last_reviewed: "2026-05-27"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-27"
 ---
 

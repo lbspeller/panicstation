@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your mobile ticket will not load at a barrier or checkpoint"
+seo_title: "Mobile ticket will not load at barrier"
 jurisdiction: "USA"
 category: "Transport & mobility emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "at intercity rail station"
   - "barier ticket not loading"
   - "chekpoint ticket not loading"
-last_reviewed: "2026-06-12"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-12"
 ---
 

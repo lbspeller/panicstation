@@ -1,5 +1,6 @@
 ---
 title: "What to do if… an ATM keeps your card and you are left without payment options"
+seo_title: "ATM kept your card and you have no money"
 jurisdiction: "USA"
 category: "Money & financial emergencies"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "atm kept card outside bank"
   - "debit card retaned by atm"
   - "atm kept my crad"
-last_reviewed: "2026-06-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-03"
 ---
 

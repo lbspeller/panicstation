@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your gutters are overflowing and water is running down your exterior walls"
+seo_title: "Gutters overflowing and water running down walls"
 jurisdiction: "UK"
 category: "Home & property emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "downpipe or sewer blocked"
   - "during heavy rain"
   - "guters overflowing"
-last_reviewed: "2026-05-26"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-26"
 ---
 

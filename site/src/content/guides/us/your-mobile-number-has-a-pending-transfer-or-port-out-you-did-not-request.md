@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your mobile number has a pending transfer or port-out you did not request"
+seo_title: "Unauthorized mobile number transfer or port-out pending"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "number lock confusion"
   - "usa mobile carrier"
   - "bank account sms codes"
-last_reviewed: "2026-07-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-01"
 ---
 

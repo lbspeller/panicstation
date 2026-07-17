@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your social media is being targeted by a hostile surge and you fear for your safety"
+seo_title: "Hostile social media surge and safety fears"
 jurisdiction: "UK"
 category: "Personal safety & immediate danger"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "public account targeted"
   - "home address exposed"
   - "workplace linked online"
-last_reviewed: "2026-05-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-28"
 ---
 

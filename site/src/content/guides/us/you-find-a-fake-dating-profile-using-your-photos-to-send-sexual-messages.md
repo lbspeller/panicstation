@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you find a fake dating profile using your photos to send sexual messages"
+seo_title: "Fake dating profile using your photos"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "imposter dating profile"
   - "impersination dating profile"
   - "fake acount using photos"
-last_reviewed: "2026-06-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-14"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to approve a public death notice or obituary and you fear it will cause conflict"
+seo_title: "Public death notice or obituary causing conflict"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "newspaper death notice dispute"
   - "online memorial notice conflict"
   - "social media death announcement conflict"
-last_reviewed: "2026-05-03"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-03"
 ---
 

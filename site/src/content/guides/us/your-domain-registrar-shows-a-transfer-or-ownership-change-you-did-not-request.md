@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your domain registrar shows a transfer or ownership change you did not request"
+seo_title: "Unauthorized domain transfer or ownership change"
 jurisdiction: "USA"
 category: "Technology & digital loss"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "company domain stolen"
   - "domian transfer changed"
   - "registrar tranfer notice"
-last_reviewed: "2026-06-28"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-28"
 ---
 

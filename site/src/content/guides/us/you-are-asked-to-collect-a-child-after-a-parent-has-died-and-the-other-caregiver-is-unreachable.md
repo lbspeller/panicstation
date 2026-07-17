@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to collect a child after a parent has died and the other caregiver is unreachable"
+seo_title: "Collecting a child after a parent death"
 jurisdiction: "USA"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "out of state caregiver unreachable"
   - "caregiver unreachble after parent death"
   - "gaurdian unreachable after parent death"
-last_reviewed: "2026-06-07"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-07"
 ---
 

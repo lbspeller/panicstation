@@ -1,5 +1,6 @@
 ---
 title: "What to do if… a benefits payment is suspended for review and you have essential bills due"
+seo_title: "Benefits payment suspended for review with bills due"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -35,7 +36,7 @@ tags:
   - "benefit reveiw payment stopped"
   - "benifit payment suspended"
   - "uk benefits suspended"
-last_reviewed: "2026-04-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-04-25"
 ---
 

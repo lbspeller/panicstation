@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are served legal papers and you do not recognise the case or the parties"
+seo_title: "Served legal papers for an unknown case"
 jurisdiction: "UK"
 category: "Legal, police, prison & official contact"
 tags:
@@ -36,7 +37,7 @@ tags:
   - "identity misuse court papers"
   - "court papres served"
   - "legal paers arrived"
-last_reviewed: "2026-05-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-05"
 ---
 

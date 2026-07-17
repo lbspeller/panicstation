@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone repeatedly asks for sexual favours in exchange for help, rides, or introductions"
+seo_title: "Someone pressuring you for sexual favours"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "sexual favors for introductions"
   - "sexual favors for introdutions"
   - "sexual favors for assitance"
-last_reviewed: "2026-06-05"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-05"
 ---
 

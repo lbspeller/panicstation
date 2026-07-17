@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your passport will not scan at an airport self-service kiosk or gate"
+seo_title: "Passport will not scan at airport kiosk or gate"
 jurisdiction: "USA"
 category: "Travel, documents & being abroad"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "airport self-service passport check"
   - "international arrival passport scan"
   - "before boarding passport check"
-last_reviewed: "2026-07-01"
+last_reviewed: "2026-07-17"
 date_created: "2026-07-01"
 ---
 

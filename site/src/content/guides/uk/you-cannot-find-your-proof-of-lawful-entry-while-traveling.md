@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you cannot find your proof of lawful entry while traveling"
+seo_title: "Cannot find proof of lawful entry while traveling"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "brp missing while travelling"
   - "evissa not showing"
   - "brp misssing while travelling"
-last_reviewed: "2026-05-09"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-09"
 ---
 

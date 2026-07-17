@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you think you are being followed or stalked after repeated coincidental encounters"
+seo_title: "Suspected stalking or being followed in public"
 jurisdiction: "USA"
 category: "Personal safety & immediate danger"
 tags:
@@ -38,7 +39,7 @@ tags:
   - "stalked after coincedence"
   - "stalker keeps folowing me"
   - "digital and in-person stalking"
-last_reviewed: "2026-06-25"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-25"
 ---
 

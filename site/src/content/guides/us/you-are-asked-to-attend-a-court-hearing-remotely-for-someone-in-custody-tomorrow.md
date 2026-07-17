@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are asked to attend a court hearing remotely for someone in custody tomorrow"
+seo_title: "Remote court hearing for someone in custody tomorrow"
 jurisdiction: "USA"
 category: "Legal, police, prison & official contact"
 tags:
@@ -33,7 +34,7 @@ tags:
   - "webex court link confusion"
   - "custady court date tomorrow"
   - "court date tommorow"
-last_reviewed: "2026-06-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-22"
 ---
 

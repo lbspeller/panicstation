@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you lose your driving licence abroad and need it for car hire or travel plans"
+seo_title: "Lost driving licence while abroad"
 jurisdiction: "UK"
 category: "Travel, documents & being abroad"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "dvla dva confusion abroad"
   - "gb licence ni licence abroad"
   - "holiday car hire licence problem"
-last_reviewed: "2026-05-14"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-14"
 ---
 

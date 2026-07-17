@@ -1,5 +1,6 @@
 ---
 title: "What to do if… someone you just met follows you and will not take no for an answer"
+seo_title: "Someone following you and refusing to leave"
 jurisdiction: "USA"
 category: "Sexual violence & highly sensitive situations"
 tags:
@@ -39,7 +40,7 @@ tags:
   - "i feel unsafe after a night out"
   - "someone wont take no for an answer"
   - "someone follows me too my room"
-last_reviewed: "2026-06-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-06-06"
 ---
 

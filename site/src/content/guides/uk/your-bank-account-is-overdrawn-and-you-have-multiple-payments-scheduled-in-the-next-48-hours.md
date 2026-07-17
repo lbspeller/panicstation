@@ -1,5 +1,6 @@
 ---
 title: "What to do if… your bank account is overdrawn and you have multiple payments scheduled in the next 48 hours"
+seo_title: "Bank account overdrawn with payments due soon"
 jurisdiction: "UK"
 category: "Money & financial emergencies"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "unexpected payment taken"
   - "overdawrn bank account"
   - "overdraft paymnt due"
-last_reviewed: "2026-05-22"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-22"
 ---
 

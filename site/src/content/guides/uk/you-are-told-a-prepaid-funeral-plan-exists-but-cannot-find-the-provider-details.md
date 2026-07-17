@@ -1,5 +1,6 @@
 ---
 title: "What to do if… you are told a prepaid funeral plan exists but cannot find the provider details"
+seo_title: "Cannot find prepaid funeral plan provider details"
 jurisdiction: "UK"
 category: "Death, bereavement & serious family crises"
 tags:
@@ -37,7 +38,7 @@ tags:
   - "after a death funeral plan missing"
   - "executor searching funeral plan"
   - "bereavement admin funeral plan"
-last_reviewed: "2026-05-06"
+last_reviewed: "2026-07-17"
 date_created: "2026-05-06"
 ---
 
