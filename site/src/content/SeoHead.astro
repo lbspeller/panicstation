@@ -1,0 +1,63 @@
+---
+interface Props {
+  title?: string;
+  description?: string;
+  type?: "website" | "article";
+  noindex?: boolean;
+}
+
+const {
+  title = "PanicStation.org",
+  description = "",
+  type = "website",
+  noindex = false,
+} = Astro.props;
+
+const SITE_NAME = "PanicStation.org";
+const SITE_URL = "https://panicstation.org";
+
+const DEFAULT_DESCRIPTION =
+  "Calm, practical first-step guidance for sudden, stressful situations.";
+
+const rawTitle = String(title || SITE_NAME).trim() || SITE_NAME;
+
+const alreadyBranded = rawTitle
+  .toLowerCase()
+  .includes(SITE_NAME.toLowerCase());
+
+const brandedTitle = alreadyBranded
+  ? rawTitle
+  : `${rawTitle} | ${SITE_NAME}`;
+
+const metaDescription =
+  String(description || DEFAULT_DESCRIPTION).trim() ||
+  DEFAULT_DESCRIPTION;
+
+const canonicalUrl = new URL(
+  Astro.url.pathname,
+  Astro.site ?? SITE_URL
+).href;
+---
+
+<title>{brandedTitle}</title>
+
+<meta name="description" content={metaDescription} />
+
+{noindex ? (
+  <meta name="robots" content="noindex, follow" />
+) : (
+  <link rel="canonical" href={canonicalUrl} />
+)}
+
+<meta property="og:site_name" content={SITE_NAME} />
+<meta property="og:type" content={type} />
+<meta property="og:title" content={brandedTitle} />
+<meta property="og:description" content={metaDescription} />
+
+{!noindex && (
+  <meta property="og:url" content={canonicalUrl} />
+)}
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content={brandedTitle} />
+<meta name="twitter:description" content={metaDescription} />

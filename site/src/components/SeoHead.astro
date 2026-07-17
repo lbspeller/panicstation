@@ -1,0 +1,58 @@
+---
+interface Props {
+  title?: string;
+  description?: string;
+  type?: "website" | "article";
+  robots?: string;
+  socialTitle?: string;
+}
+
+const SITE_NAME = "PanicStation.org";
+const SITE_URL = "https://panicstation.org";
+const DEFAULT_DESCRIPTION =
+  "Calm, practical first-step guidance for sudden, stressful situations.";
+
+const {
+  title = SITE_NAME,
+  description = DEFAULT_DESCRIPTION,
+  type = "website",
+  robots,
+  socialTitle = title,
+} = Astro.props;
+
+function addBrand(value: unknown) {
+  const cleaned = String(value || SITE_NAME).trim() || SITE_NAME;
+
+  return cleaned.toLowerCase().includes(SITE_NAME.toLowerCase())
+    ? cleaned
+    : `${cleaned} | ${SITE_NAME}`;
+}
+
+const brandedTitle = addBrand(title);
+const brandedSocialTitle = addBrand(socialTitle);
+const metaDescription =
+  String(description || DEFAULT_DESCRIPTION).trim() || DEFAULT_DESCRIPTION;
+
+const canonicalUrl = new URL(
+  Astro.url.pathname,
+  Astro.site ?? SITE_URL
+).href;
+
+const isNoindex = /\bnoindex\b/i.test(String(robots || ""));
+---
+
+<title>{brandedTitle}</title>
+<meta name="description" content={metaDescription} />
+
+{robots && <meta name="robots" content={robots} />}
+{!isNoindex && <link rel="canonical" href={canonicalUrl} />}
+
+<meta property="og:site_name" content={SITE_NAME} />
+<meta property="og:type" content={type} />
+<meta property="og:title" content={brandedSocialTitle} />
+<meta property="og:description" content={metaDescription} />
+{!isNoindex && <meta property="og:url" content={canonicalUrl} />}
+
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:title" content={brandedSocialTitle} />
+<meta name="twitter:description" content={metaDescription} />

@@ -3,6 +3,7 @@
 import UkFlagUrl from "../assets/flags/uk.svg?url";
 import UsFlagUrl from "../assets/flags/us.svg?url";
 import StructuredData from "../components/StructuredData.astro";
+import SeoHead from "../components/SeoHead.astro";
 
 const {
   title,
@@ -29,18 +30,13 @@ const isUsActive = jurisdiction === "us";
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
-    <title>{title}</title>
-    <meta name="description" content={description} />
-    {robots && <meta name="robots" content={robots} />}
-
-    <meta property="og:site_name" content="PanicStation.org" />
-    <meta property="og:type" content={isGuide ? "article" : "website"} />
-    <meta property="og:title" content={socialTitle} />
-    <meta property="og:description" content={description} />
-
-    <meta name="twitter:card" content="summary" />
-    <meta name="twitter:title" content={socialTitle} />
-    <meta name="twitter:description" content={description} />
+    <SeoHead
+      title={title}
+      description={description}
+      type={isGuide ? "article" : "website"}
+      robots={robots}
+      socialTitle={socialTitle}
+    />
 
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
     <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
