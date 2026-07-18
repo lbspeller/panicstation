@@ -6,7 +6,7 @@
     "redirects:build": "node scripts/build-redirect-function.mjs",
     "dev": "npm run redirects:build && npm run cache:clear && astro dev",
     "build": "npm run redirects:build && npm run cache:clear && astro build",
-    "postbuild": "node scripts/apply-resource-titles-to-dist.mjs && pagefind --site dist",
+    "postbuild": "node scripts/apply-resource-titles-to-dist.mjs && pagefind --site dist --force-language en",
     "preview": "astro preview",
     "cache:clear": "node scripts/clear-astro-cache.mjs"
   },
