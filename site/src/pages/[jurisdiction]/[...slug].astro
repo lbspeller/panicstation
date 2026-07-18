@@ -1,8 +1,10 @@
 ---
 import { getCollection } from "astro:content";
 import SiteLayout from "../../layouts/SiteLayout.astro";
+import RelatedGuides from "../../components/RelatedGuides.astro";
 import { CATEGORIES, CATEGORY_FULL } from "../../lib/categories";
 import { buildGuideStructuredData, canonicalUrl, deriveGuideDescription } from "../../lib/structuredData";
+import { guideLookupKey, relatedGuideNamesForTitle } from "../../lib/relatedGuides";
 import "../../styles/guides.css";
 
 const enableAdsenseTest = import.meta.env.PUBLIC_ENABLE_ADSENSE_TEST === "1";
@@ -18,6 +20,7 @@ export async function getStaticPaths() {
   const guides = await getCollection("guides");
   const guidePairsBySlug = new Map();
   const guidePairsByTitle = new Map();
+  const guidesByJurisdictionAndTitle = new Map();
 
   for (const entry of guides) {
     const parts = entry.slug.split("/");
@@ -39,6 +42,12 @@ export async function getStaticPaths() {
     const titlePair = guidePairsByTitle.get(titleKey) || {};
     titlePair[jurisdiction] = href;
     guidePairsByTitle.set(titleKey, titlePair);
+
+    const relatedTitleKey = guideLookupKey(entry.data.title);
+    guidesByJurisdictionAndTitle.set(`${jurisdiction}:${relatedTitleKey}`, {
+      href,
+      title: entry.data.title,
+    });
   }
 
   return guides.map((entry) => {
@@ -50,6 +59,18 @@ export async function getStaticPaths() {
     const titlePair = guidePairsByTitle.get(normalizePairTitle(entry.data.title)) || {};
     const pair = Boolean(slugPair.uk && slugPair.us) ? slugPair : titlePair;
     const hasCompletePair = Boolean(pair.uk && pair.us);
+    const relatedGuides = relatedGuideNamesForTitle(entry.data.title)
+      .map((guideName) => {
+        return guidesByJurisdictionAndTitle.get(
+          `${jurisdiction}:${guideLookupKey(guideName)}`,
+        );
+      })
+      .filter(Boolean)
+      .filter((guide, index, list) => {
+        return guide.href !== `/${jurisdiction}/${slugParts.join("/")}/`
+          && list.findIndex((candidate) => candidate.href === guide.href) === index;
+      })
+      .slice(0, 5);
 
     return {
       params: { jurisdiction, slug: slugParts.join("/") },
@@ -63,12 +84,18 @@ export async function getStaticPaths() {
             ]
           : [],
         jurisdictionGuideHrefs: pair,
+        relatedGuides,
       },
     };
   });
 }
 
-const { entry, alternateLinks = [], jurisdictionGuideHrefs = {} } = Astro.props;
+const {
+  entry,
+  alternateLinks = [],
+  jurisdictionGuideHrefs = {},
+  relatedGuides = [],
+} = Astro.props;
 const { Content } = await entry.render();
 
 const urlJurisdiction = (Astro.params.jurisdiction || "us").toLowerCase();
@@ -210,6 +237,8 @@ const structuredData = buildGuideStructuredData({
     <div class="ps-guide-content">
       <Content />
     </div>
+
+    <RelatedGuides guides={relatedGuides} />
 
     <section class="ps-card ps-about-guide" data-pagefind-ignore>
       <h2>About this guide</h2>

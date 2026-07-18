@@ -1,0 +1,50 @@
+---
+type RelatedGuide = {
+  href: string;
+  title: string;
+};
+
+const { guides = [] } = Astro.props as { guides?: RelatedGuide[] };
+
+function splitTitle(value: string) {
+  const title = String(value || "")
+    .replace(/\s*\((?:UK|USA)\)\s*$/i, "")
+    .trim();
+  const match = title.match(/^\s*(What\s+to\s+do\s+if(?:\s*…|\s*\.{3})?)\s*(.*)$/i);
+
+  return match
+    ? { lead: "What to do if…", main: match[2].trim() }
+    : { lead: "What to do if…", main: title };
+}
+---
+
+{guides.length > 0 && (
+  <section
+    class="ps-card ps-related-guides"
+    aria-labelledby="ps-related-guides-heading"
+    data-pagefind-ignore
+  >
+    <h2 id="ps-related-guides-heading">Related situations</h2>
+    <p class="ps-related-guides-intro">
+      Closely connected guides that may be useful during the same situation or its immediate aftermath.
+    </p>
+
+    <ul class="ps-related-guides-list">
+      {guides.map((guide) => {
+        const title = splitTitle(guide.title);
+
+        return (
+          <li>
+            <a class="ps-related-guide-link" href={guide.href}>
+              <span class="ps-related-guide-copy">
+                <span class="ps-related-guide-lead">{title.lead}</span>
+                <span class="ps-related-guide-title">{title.main}</span>
+              </span>
+              <span class="ps-related-guide-arrow" aria-hidden="true">›</span>
+            </a>
+          </li>
+        );
+      })}
+    </ul>
+  </section>
+)}
