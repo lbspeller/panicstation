@@ -1,5 +1,6 @@
 ---
 import PageTextLayout from "../layouts/PageTextLayout.astro";
+import { buildAboutStructuredData } from "../lib/structuredData";
 
 import aboutText from "../site/page texts/about.txt?raw";
 import contactText from "../site/page texts/contact.txt?raw";
@@ -20,31 +21,39 @@ export function getStaticPaths() {
 const pageKey = Astro.params.page;
 
 let title = "";
+let description = "";
 let text = "";
+let structuredData = [];
 
 switch (pageKey) {
   case "about":
     title = "About — PanicStation.org";
+    description = "How PanicStation.org guides are produced, checked, sourced, maintained, and corrected.";
     text = aboutText;
+    structuredData = buildAboutStructuredData();
     break;
 
   case "contact":
     title = "Contact — PanicStation.org";
+    description = "Contact PanicStation.org about corrections, outdated information, accessibility, privacy, or site feedback.";
     text = contactText;
     break;
 
   case "disclaimer":
     title = "Disclaimer — PanicStation.org";
+    description = "Important limits on PanicStation.org general-information guides and emergency or professional support.";
     text = disclaimerText;
     break;
 
   case "editorial":
     title = "Editorial Policy — PanicStation.org";
+    description = "How PanicStation.org chooses, drafts, checks, sources, reviews, corrects, and maintains its guides.";
     text = editorialText;
     break;
 
   case "privacy":
     title = "Privacy Policy — PanicStation.org";
+    description = "How PanicStation.org handles privacy, contact messages, site data, advertising, and external services.";
     text = privacyText;
     break;
 
@@ -139,6 +148,6 @@ function markdownToHtml(markdown) {
 const bodyHtml = markdownToHtml(text);
 ---
 
-<PageTextLayout title={title}>
+<PageTextLayout title={title} description={description} structuredData={structuredData}>
   <article class="ps-page-text" set:html={bodyHtml} />
 </PageTextLayout>

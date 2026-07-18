@@ -73,6 +73,12 @@ const categoryDescription = textDescription(
   `Browse PanicStation.org guides in the ${cat.label} category.`
 );
 
+const alternateLinks = [
+  { hreflang: "en-GB", href: `https://panicstation.org/uk/category/${cat.key}/` },
+  { hreflang: "en-US", href: `https://panicstation.org/us/category/${cat.key}/` },
+  { hreflang: "x-default", href: `https://panicstation.org/us/category/${cat.key}/` },
+];
+
 const structuredData = buildCategoryStructuredData({
   title,
   description: categoryDescription,
@@ -89,7 +95,7 @@ const structuredData = buildCategoryStructuredData({
 });
 ---
 
-<SimpleLayout title={title} structuredData={structuredData}>
+<SimpleLayout title={title} structuredData={structuredData} alternateLinks={alternateLinks}>
   <!-- Keep hubs/listings out of Pagefind (internal search stays guide-only) -->
   <main data-pagefind-ignore>
     <section class="ps-card">

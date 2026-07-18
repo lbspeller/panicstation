@@ -1,10 +1,20 @@
 # Editorial Policy
 
-Last updated: 7 May 2026
+Last updated: 18 July 2026
 
 PanicStation.org publishes general information guides for stressful everyday situations.
 
 The purpose of each guide is to help readers slow down, avoid common mistakes, understand the immediate priority, and find a practical next step. PanicStation.org content is written for clarity and usefulness, not to replace professional advice.
+
+## Authorship and accountability
+
+PanicStation.org is the named organisational author and publisher of the guides on this site.
+
+The site operator is responsible for topic selection, publication decisions, revisions, corrections, and the removal of unsuitable or outdated material.
+
+No guide is described as medically reviewed, legally reviewed, financially reviewed, professionally approved, or written by a qualified specialist unless that statement is accurate and clearly supported.
+
+The visible PanicStation.org byline links to the About page, which explains who is responsible for the site and how the guides are produced.
 
 ## Editorial principles
 
@@ -22,7 +32,9 @@ PanicStation.org guides aim to be:
 
 Guide topics are chosen because they describe a specific situation someone might search for when they are stressed, uncertain, or under pressure.
 
-PanicStation.org aims to avoid broad generic articles where a more specific situation-based guide would be more useful. For example, a guide should usually answer a clear “what to do if…” problem rather than give general background information only.
+PanicStation.org aims to avoid broad generic articles where a more specific situation-based guide would be more useful. A guide should usually answer a clear “what to do if…” problem rather than give general background information only.
+
+Topics may be merged, redirected, or removed where two guides substantially duplicate the same purpose, immediate actions, or search intent.
 
 ## How guides are structured
 
@@ -55,7 +67,7 @@ Before publication, guides are checked for:
 - whether official or specialist resources are relevant where included;
 - whether the guide makes clear when professional or emergency help may be needed.
 
-Automated and AI-assisted checks may be used as part of this process.
+Automated and AI-assisted checks may form part of this process, but the site operator makes the final decision about whether a guide is published, revised, redirected, or removed.
 
 Guides do not constitute professional advice and no guarantee is given that every detail is complete, current, or suitable for every reader.
 
@@ -75,13 +87,17 @@ PanicStation.org aims to avoid relying on sources that are irrelevant, outdated,
 
 External links are provided for context and practical next steps. PanicStation.org does not control external websites and is not responsible for their content, availability, privacy practices, or changes.
 
-## Review dates
+## Publication, update, and review dates
 
-Each guide includes a review date.
+Each guide displays its original publication date and its latest review date.
 
-A review date shows when the guide was last checked for clarity, structure, practical usefulness, jurisdiction, and relevant source links.
+A **publication date** records when the guide was first published.
 
-A review date does not guarantee that every legal, official, service, or process detail is still current. Rules, deadlines, services, and contact routes can change.
+A **last updated date** is used where the guide has been materially changed. Material changes may include altered advice, changed official routes, corrected factual claims, or substantial rewritten sections.
+
+A **last reviewed date** records when the guide was checked for clarity, structure, practical usefulness, jurisdiction, and relevant source links. A routine review does not automatically mean the page was materially changed.
+
+Review and update dates do not guarantee that every legal, official, service, or process detail remains current. Rules, deadlines, services, and contact routes can change.
 
 ## Corrections and updates
 
@@ -99,7 +115,7 @@ Please include:
 - what you think is wrong, unclear, or outdated;
 - a source or reference, if you have one.
 
-Correction reports may lead to an update, clarification, source change, or removal of wording. We may not be able to reply to every message, but reports are reviewed where possible.
+Correction reports may lead to an update, clarification, source change, redirect, consolidation, or removal of wording. We may not be able to reply to every message, but reports are reviewed where possible.
 
 ## Limits of the content
 

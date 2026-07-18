@@ -1,7 +1,9 @@
 ## How guides are checked
 
-PanicStation.org guides are checked for clarity, practical usefulness, jurisdiction, and relevant source links.
+PanicStation.org is the named organisational author and publisher of its guides. The site operator remains responsible for publication, revision, correction, and removal decisions.
+
+Guides are checked for clarity, practical usefulness, jurisdiction, and relevant source links. AI-assisted tools may be used for drafting, organisation, consistency checks, and review prompts.
 
 Where possible, guides link to official or specialist sources such as public services, regulators, ombudsmen, charities, courts, health services, transport providers, or recognised support organisations.
 
-Each guide includes a review date so readers can see when it was last checked.
+Each guide displays its publication date and review date. A separate update date may appear when the content has been materially changed.

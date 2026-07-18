@@ -16,7 +16,8 @@ export async function getStaticPaths() {
   }
 
   const guides = await getCollection("guides");
-  const guidePairs = new Map();
+  const guidePairsBySlug = new Map();
+  const guidePairsByTitle = new Map();
 
   for (const entry of guides) {
     const parts = entry.slug.split("/");
@@ -27,17 +28,27 @@ export async function getStaticPaths() {
       continue;
     }
 
-    const pairKey = normalizePairTitle(entry.data.title);
-    const pair = guidePairs.get(pairKey) || {};
-    pair[jurisdiction] = `/${jurisdiction}/${slugParts.join("/")}/`;
-    guidePairs.set(pairKey, pair);
+    const href = `/${jurisdiction}/${slugParts.join("/")}/`;
+    const slugKey = slugParts.join("/").toLocaleLowerCase("en");
+    const titleKey = normalizePairTitle(entry.data.title);
+
+    const slugPair = guidePairsBySlug.get(slugKey) || {};
+    slugPair[jurisdiction] = href;
+    guidePairsBySlug.set(slugKey, slugPair);
+
+    const titlePair = guidePairsByTitle.get(titleKey) || {};
+    titlePair[jurisdiction] = href;
+    guidePairsByTitle.set(titleKey, titlePair);
   }
 
   return guides.map((entry) => {
     const parts = entry.slug.split("/");
     const jurisdiction = parts[0];
     const slugParts = parts.slice(1);
-    const pair = guidePairs.get(normalizePairTitle(entry.data.title)) || {};
+    const slugKey = slugParts.join("/").toLocaleLowerCase("en");
+    const slugPair = guidePairsBySlug.get(slugKey) || {};
+    const titlePair = guidePairsByTitle.get(normalizePairTitle(entry.data.title)) || {};
+    const pair = Boolean(slugPair.uk && slugPair.us) ? slugPair : titlePair;
     const hasCompletePair = Boolean(pair.uk && pair.us);
 
     return {
@@ -48,6 +59,7 @@ export async function getStaticPaths() {
           ? [
               { hreflang: "en-GB", href: canonicalUrl(pair.uk) },
               { hreflang: "en-US", href: canonicalUrl(pair.us) },
+              { hreflang: "x-default", href: canonicalUrl(pair.us) },
             ]
           : [],
         jurisdictionGuideHrefs: pair,
@@ -62,13 +74,17 @@ const { Content } = await entry.render();
 const urlJurisdiction = (Astro.params.jurisdiction || "us").toLowerCase();
 const fmJurisdiction = entry.data.jurisdiction === "USA" ? "us" : "uk";
 
-const lastReviewedDisplay = new Date(`${entry.data.last_reviewed}T00:00:00Z`).toLocaleDateString("en-GB", {
-  day: "numeric",
-  month: "long",
-  year: "numeric",
-  timeZone: "UTC",
-});
+function formatGuideDate(value: string) {
+  return new Date(`${value}T00:00:00Z`).toLocaleDateString("en-GB", {
+    day: "numeric",
+    month: "long",
+    year: "numeric",
+    timeZone: "UTC",
+  });
+}
 
+const dateCreatedDisplay = formatGuideDate(entry.data.date_created);
+const lastReviewedDisplay = formatGuideDate(entry.data.last_reviewed);
 const guideLabel = entry.data.jurisdiction === "USA" ? "USA guide" : "UK guide";
 
 const categoryEntry = CATEGORIES.find((category) => {
@@ -143,6 +159,7 @@ const structuredData = buildGuideStructuredData({
   alternateLinks={alternateLinks}
   jurisdictionGuideHrefs={jurisdictionGuideHrefs}
   searchKeywords={searchKeywords}
+  pageType="guide"
 >
   <div
     class="ps-guide"
@@ -178,14 +195,13 @@ const structuredData = buildGuideStructuredData({
       </h1>
 
       <p class="ps-guide-meta" data-pagefind-ignore>
-        <span>By PanicStation.org</span>
+        <span>Produced and maintained by <a href="/about/">PanicStation.org</a></span>
         <span aria-hidden="true"> · </span>
-        <span>Reviewed under our </span><a href="/editorial">editorial policy</a>
+        <span>Published: <time datetime={entry.data.date_created}>{dateCreatedDisplay}</time></span>
         <span aria-hidden="true"> · </span>
-        <span>
-          Last reviewed:
-          <time datetime={entry.data.last_reviewed}>{lastReviewedDisplay}</time>
-        </span>
+        <span>Last reviewed: <time datetime={entry.data.last_reviewed}>{lastReviewedDisplay}</time></span>
+        <span aria-hidden="true"> · </span>
+        <a href="/editorial/">Editorial policy</a>
         <span aria-hidden="true"> · </span>
         <span>{guideLabel}</span>
       </p>
@@ -199,15 +215,17 @@ const structuredData = buildGuideStructuredData({
       <h2>About this guide</h2>
 
       <p>
-        PanicStation.org guides are written as plain-English first steps, then
-        reviewed for clarity, jurisdiction, and source quality. If you notice an
-        error, outdated information, unclear wording, or a broken link, please
-        contact us.
+        This guide was produced and is maintained by PanicStation.org using its
+        published editorial process. Official and specialist sources are checked
+        where relevant, and AI-assisted tools may be used for drafting, organisation,
+        and consistency checks. The site operator remains responsible for publication,
+        revision, and removal decisions.
       </p>
 
       <nav class="ps-about-guide-actions" aria-label="About this guide links">
-        <a class="ps-about-guide-action" href="/contact">Report a correction</a>
-        <a class="ps-about-guide-action" href="/editorial">Read Editorial Policy</a>
+        <a class="ps-about-guide-action" href="/about/">About the publisher</a>
+        <a class="ps-about-guide-action" href="/contact/">Report a correction</a>
+        <a class="ps-about-guide-action" href="/editorial/">Read Editorial Policy</a>
       </nav>
     </section>
 

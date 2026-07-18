@@ -6,6 +6,8 @@ export const SITE_DESCRIPTION =
   "A free, plain-English guide library for stressful everyday situations.";
 export const SUPPORT_EMAIL = "support@panicstation.org";
 export const LOGO_URL = `${SITE_URL}/android-chrome-512x512.png`;
+export const AUTHOR_URL = `${SITE_URL}/about/`;
+export const EDITORIAL_POLICY_URL = `${SITE_URL}/editorial/`;
 
 const SITE_IMAGE_OBJECT = {
   "@type": "ImageObject",
@@ -110,6 +112,8 @@ export function organizationSchema() {
     name: SITE_NAME,
     url: `${SITE_URL}/`,
     logo: SITE_IMAGE_OBJECT,
+    description: SITE_DESCRIPTION,
+    publishingPrinciples: EDITORIAL_POLICY_URL,
     contactPoint: {
       "@type": "ContactPoint",
       email: SUPPORT_EMAIL,
@@ -137,6 +141,29 @@ export function buildHomeStructuredData() {
   return [
     websiteSchema(),
     organizationSchema(),
+  ];
+}
+
+export function buildAboutStructuredData() {
+  const pageUrl = canonicalUrl("/about/");
+
+  return [
+    organizationSchema(),
+    {
+      "@context": "https://schema.org",
+      "@type": "AboutPage",
+      "@id": `${pageUrl}#webpage`,
+      name: `About ${SITE_NAME}`,
+      description:
+        "How PanicStation.org guides are produced, checked, sourced, maintained, and corrected.",
+      url: pageUrl,
+      isPartOf: {
+        "@id": `${SITE_URL}/#website`,
+      },
+      mainEntity: {
+        "@id": `${SITE_URL}/#organization`,
+      },
+    },
   ];
 }
 
@@ -182,9 +209,9 @@ export function buildGuideStructuredData({
 
   const authorOrganization = {
     "@type": "Organization",
-    "@id": `${SITE_URL}/#organization`,
     name: SITE_NAME,
-    url: `${SITE_URL}/`,
+    url: AUTHOR_URL,
+    publishingPrinciples: EDITORIAL_POLICY_URL,
   };
 
   const publisherOrganization = {
@@ -218,6 +245,10 @@ export function buildGuideStructuredData({
     publisher: publisherOrganization,
     datePublished: createdDateTime,
     dateModified: reviewedDateTime,
+    publishingPrinciples: EDITORIAL_POLICY_URL,
+    isPartOf: {
+      "@id": `${SITE_URL}/#website`,
+    },
     mainEntityOfPage: {
       "@type": "WebPage",
       "@id": pageUrl,

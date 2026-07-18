@@ -8,12 +8,18 @@ const {
   description,
   robots,
   socialTitle = title,
+  alternateLinks = [],
 } = Astro.props;
 const path = Astro.url.pathname;
 const isGuidesIndex = path === "/guides/";
+const documentLanguage = path.startsWith("/uk/")
+  ? "en-GB"
+  : path.startsWith("/us/")
+    ? "en-US"
+    : "en";
 ---
 
-<html lang="en">
+<html lang={documentLanguage}>
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
@@ -23,6 +29,7 @@ const isGuidesIndex = path === "/guides/";
       type="website"
       robots={robots}
       socialTitle={socialTitle}
+      alternateLinks={alternateLinks}
     />
 
     <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />

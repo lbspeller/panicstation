@@ -15,25 +15,31 @@ const {
   alternateLinks = [],
   jurisdictionGuideHrefs = {},
   searchKeywords = "",
+  pageType = "other",
 } = Astro.props;
 
 const path = Astro.url.pathname;
-const isGuide = /^\/(uk|us)\//i.test(path);
-const isHome = path === "/";
+const isGuide = pageType === "guide";
+const isHome = pageType === "home" || path === "/";
+const documentLanguage = isGuide
+  ? jurisdiction === "uk"
+    ? "en-GB"
+    : "en-US"
+  : "en";
 
 const guideSlug = isGuide ? path.replace(/^\/(uk|us)\//i, "") : "";
 const ukGuideHref = isGuide
-  ? jurisdictionGuideHrefs.uk || `/uk/${guideSlug}`
+  ? jurisdictionGuideHrefs.uk || "/uk/"
   : null;
 const usGuideHref = isGuide
-  ? jurisdictionGuideHrefs.us || `/us/${guideSlug}`
+  ? jurisdictionGuideHrefs.us || "/us/"
   : null;
 
 const isUkActive = jurisdiction === "uk";
 const isUsActive = jurisdiction === "us";
 ---
 
-<html lang="en">
+<html lang={documentLanguage}>
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />

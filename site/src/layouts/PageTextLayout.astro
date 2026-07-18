@@ -1,11 +1,13 @@
 ---
 import SeoHead from "../components/SeoHead.astro";
+import StructuredData from "../components/StructuredData.astro";
 
 const {
   title,
   description,
   robots,
   socialTitle = title,
+  structuredData = [],
 } = Astro.props;
 ---
 
@@ -26,6 +28,7 @@ const {
     <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
     <link rel="icon" href="/favicon.ico" />
     <link rel="manifest" href="/site.webmanifest" />
+    <StructuredData data={structuredData} />
   </head>
 
   <body class="ps-page">

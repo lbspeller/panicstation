@@ -6,9 +6,35 @@ import { fileURLToPath } from "node:url";
 
 import rehypeWrapGuideSections from "./rehype-wrap-guide-sections.mjs";
 import rehypeTitleTweaks from "./rehype-title-tweaks.mjs";
+import rehypeResourceLinkLabels from "./rehype-resource-link-labels.mjs";
 
 const __dirname = fileURLToPath(new URL(".", import.meta.url));
 const guidesDir = join(__dirname, "src", "content", "guides");
+const resourceTitlesCsv = join(
+  __dirname,
+  "src",
+  "data",
+  "external-resource-titles.csv",
+);
+
+function watchResourceTitlesCsv() {
+  return {
+    name: "panicstation-watch-resource-titles-csv",
+    configureServer(server) {
+      server.watcher.add(resourceTitlesCsv);
+
+      server.watcher.on("change", (changedPath) => {
+        if (changedPath !== resourceTitlesCsv) return;
+
+        // The rehype plugin reloads the CSV when its mtime changes. Invalidating
+        // the module graph and reloading the browser ensures development pages
+        // are rebuilt rather than continuing to show an in-memory fallback map.
+        server.moduleGraph.invalidateAll();
+        server.ws.send({ type: "full-reload" });
+      });
+    },
+  };
+}
 
 function toSitemapDateTime(value) {
   const date = String(value || "").trim();
@@ -35,6 +61,9 @@ function readGuideLastmodMap() {
       const content = readFileSync(filePath, "utf8");
       const frontmatter = content.match(/^---\s*[\r\n]+([\s\S]*?)[\r\n]+---/)?.[1] || "";
       const lastReviewed = frontmatter.match(/^last_reviewed:\s*["']?([^"'\r\n]+)["']?\s*$/m)?.[1];
+
+      // In this project, guides are regenerated or refreshed with current information
+      // when they are reviewed, so last_reviewed is also the sitemap lastmod date.
       const lastmod = toSitemapDateTime(lastReviewed);
 
       if (!lastmod) continue;
@@ -66,10 +95,14 @@ export default defineConfig({
       },
     }),
   ],
+  vite: {
+    plugins: [watchResourceTitlesCsv()],
+  },
   markdown: {
     rehypePlugins: [
       rehypeTitleTweaks,
-      rehypeWrapGuideSections
+      rehypeWrapGuideSections,
+      rehypeResourceLinkLabels
     ],
   },
 });

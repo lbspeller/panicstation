@@ -4,10 +4,11 @@
   "version": "0.0.1",
   "scripts": {
     "redirects:build": "node scripts/build-redirect-function.mjs",
-    "dev": "npm run redirects:build && astro dev",
-    "build": "npm run redirects:build && astro build",
-    "postbuild": "pagefind --site dist",
-    "preview": "astro preview"
+    "dev": "npm run redirects:build && npm run cache:clear && astro dev",
+    "build": "npm run redirects:build && npm run cache:clear && astro build",
+    "postbuild": "node scripts/apply-resource-titles-to-dist.mjs && pagefind --site dist",
+    "preview": "astro preview",
+    "cache:clear": "node scripts/clear-astro-cache.mjs"
   },
   "dependencies": {
     "astro": "^5.17.1"
